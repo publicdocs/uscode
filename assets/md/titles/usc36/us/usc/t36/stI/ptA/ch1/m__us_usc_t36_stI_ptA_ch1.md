@@ -383,9 +383,79 @@
 
     2001—[Pub. L. 107–89, § 2][/us/pl/107/89/s2], Dec. 18, 2001, [115 Stat. 877][/us/stat/115/877], added item 144.
 
- __World War I Centennial Commission__ 
+ __World War I Centennial__ 
 
-[Pub. L. 112–272][/us/pl/112/272], Jan. 14, 2013, [126 Stat. 2448][/us/stat/126/2448], provided that:
+[Pub. L. 113–291, div. B, title XXX, § 3091][/us/pl/113/291/s3091], Dec. 19, 2014, [128 Stat. 3858][/us/stat/128/3858], provided that:
+
+>     “(a) __Liberty Memorial as World War I Museum and Memorial.—__ 
+
+>         “(1)  __Designation of liberty memorial__  __.—__ 
+
+>         The Liberty Memorial of Kansas City at America’s National World War I Museum in Kansas City, Missouri, is hereby designated as a ‘World War I Museum and Memorial’.
+
+>         “(2)  __Ceremonies__  __.—__ 
+
+>         The World War I Centennial Commission (in this section referred to as the ‘Commission’) may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
+
+>     “(b) __Pershing Park as World War I Memorial.—__ 
+
+>         “(1)  __Redesignation of pershing park__  __.—__ 
+
+>         Pershing Park in the District of Columbia is hereby redesignated as a ‘World War I Memorial’.
+
+>         “(2)  __Ceremonies__  __.—__ 
+
+>         The Commission may plan, develop, and execute ceremonies for the rededication of Pershing Park, as it approaches its 50th anniversary, as a World War I Memorial and for the enhancement of the General Pershing Commemorative Work as authorized by paragraph (3).
+
+>         “(3) __Authority to enhance commemorative work.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Commission may enhance the General Pershing Commemorative Work by constructing on the land designated by paragraph (1) as a World War I Memorial appropriate sculptural and other commemorative elements, including landscaping, to further honor the service of members of the United States Armed Forces in World War I.
+
+>             “(B)  __General pershing commemorative work defined__  __.—__ 
+
+>             In this subsection, the term ‘General Pershing Commemorative Work’ means the memorial to the late John J. Pershing, General of the Armies of the United States, who commanded the American Expeditionary Forces in World War I, and to the officers and men under his command, as authorized by [Public Law 89–786][/us/pl/89/786] ([80 Stat. 1377][/us/stat/80/1377]).
+
+>         “(4) __Compliance with standards for commemorative works.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Except as provided in subparagraph (B), chapter 89 of title 40, United States Code, applies to the enhancement of the General Pershing Commemorative Work under this subsection.
+
+>             “(B) __Waiver of certain requirements.—__ 
+
+>                 “(i)  __Site selection for memorial__  __.—__ 
+
+>                 Section 8905 of such title does not apply with respect to the selection of the site for the World War I Memorial.
+
+>                 “(ii)  __Certain conditions__  __.—__ 
+
+>                 Section 8908(b) of such title does not apply to this subsection.
+
+>         “(5)  __No infringement upon existing memorial__  __.—__ 
+
+>         The World War I Memorial designated by paragraph (1) may not interfere with or encroach on the District of Columbia War Memorial.
+
+>         “(6) __Deposit of excess funds.—__ 
+
+>             “(A)  __Use for other world war i commemorative activities__  __.—__ 
+
+>             If, upon payment of all expenses for the enhancement of the General Pershing Commemorative Work under this subsection (including the maintenance and preservation amount required by [section 8906(b)(1) of title 40][/us/usc/t40/s8906/b/1], United States Code), there remains a balance of funds received for such purpose, the Commission may use the amount of the balance for other commemorative activities authorized under the World War I Centennial Commission Act ([Public Law 112–272][/us/pl/112/272]; [126 Stat. 2448][/us/stat/126/2448]) \[set out below\].
+
+>             “(B)  __Use for other commemorative works__  __.—__ 
+
+>             If the authority for enhancement of the General Pershing Commemorative Work and the authority of the Commission to plan and conduct commemorative activities under the World War I Centennial Commission Act have expired and there remains a balance of funds received for the enhancement of the General Pershing Commemorative Work, the Commission shall transmit the amount of the balance to a separate account with the National Park Foundation, to be available to the Secretary of the Interior following the process provided in [section 8906(b)(4) of title 40][/us/usc/t40/s8906/b/4], United States Code, for accounts established under section 8906(b)(3) of such title, except that funds in such account may only be obligated subject to appropriation.
+
+>         “(7)  __Authorization to complete construction after termination of commission__  __.—__ 
+
+>         \[Amended [section 8 of Pub. L. 112–272][/us/pl/112/272/s8], set out below.\]
+
+>     “(c) __Additional Amendments to World War I Centennial Commission Act.—__ 
+
+>     \[Amended sections 4, 7, and 9 of [Pub. L. 112–272][/us/pl/112/272], set out below.\]”
+
+[Pub. L. 112–272][/us/pl/112/272], Jan. 14, 2013, [126 Stat. 2448][/us/stat/126/2448], as amended by [Pub. L. 113–291, div. B, title XXX, § 3091(b)(7)][/us/pl/113/291/s3091/b/7]–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3859][/us/stat/128/3859], provided that:
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
@@ -505,6 +575,44 @@
 
 >     The Centennial Commission shall select a Chair and Vice Chair from among its members.
 
+>     “(e) __Ex Officio and Other Advisory Members.—__ 
+
+>         “(1)  __Powers__  __.—__ 
+
+>         The individuals listed in paragraphs (2) and (3), or their designated representative, shall serve on the Centennial Commission solely to provide advice and information to the members of the Centennial Commission appointed pursuant to subsection (b)(1), and shall not be considered members for purposes of any other provision of this Act.
+
+>         “(2)  __Ex officio members__  __.—__ 
+
+>         The following individuals shall serve as ex officio members:
+
+>             “(A) The Archivist of the United States.
+
+>             “(B) The Librarian of Congress.
+
+>             “(C) The Secretary of the Smithsonian Institution.
+
+>             “(D) The Secretary of Education.
+
+>             “(E) The Secretary of State.
+
+>             “(F) The Secretary of Veterans Affairs.
+
+>             “(G) The Administrator of General Services.
+
+>         “(3)  __Other advisory members__  __.—__ 
+
+>         The following individuals shall serve as other advisory members:
+
+>             “(A) Four members appointed by the Secretary of Defense in the following manner: One from the Navy, one from the Marine Corps, one from the Army, and one from the Air Force.
+
+>             “(B) Two members appointed by the Secretary of Homeland Security in the following manner: One from the Coast Guard and one from the United States Secret Service.
+
+>             “(C) Two members appointed by the Secretary of the Interior, including one from the National Parks Service.
+
+>         “(4)  __Vacancies__  __.—__ 
+
+>         A vacancy in a member position under paragraph (3) shall be filled in the same manner in which the original appointment was made.
+
 > “SEC. 5. __DUTIES OF CENTENNIAL COMMISSION.__ 
 
 >     “(a)  __In General__  __.—__ 
@@ -591,11 +699,11 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
+>             Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1), without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates.
 
 >             “(B)  __Limitation__  __.—__ 
 
->             The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable \[sic\] for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
+>             The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable \[sic\] for level II of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
 >             “(C)  __Work location__  __.—__ 
 
@@ -609,15 +717,11 @@
 
 >     The Chair of the Centennial Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
 
->     “(f)  __Source of Funds__  __.—__ 
-
->     Gifts, bequests, and devises of services or property, both real and personal, received by the Centennial Commission under section 6(g) shall be the only source of funds to cover the costs incurred by the Centennial Commission under this section.
-
 > “SEC. 8. __TERMINATION OF CENTENNIAL COMMISSION.__ 
 
 >     “(a)  __In General__  __.—__ 
 
->     The Centennial Commission shall terminate on the earlier of—
+>     Except as provided in subsection (c), the Centennial Commission shall terminate on the earlier of—
 
 >         “(1) the date that is 30 days after the date the completion of the activities under this Act honoring the centennial observation of World War I; or
 
@@ -633,9 +737,13 @@
 
 >         Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
 
-> “SEC. 9. __PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.__ 
+>     “(c)  __Exception for Completion of World War I Memorial__  __.—__ 
 
->     “No Federal funds may be obligated to carry out this Act.”
+>     The Centennial Commission may perform such work as is necessary to complete the rededication of a World War I Memorial and enhancement of the General Pershing Commemorative Work under section 3091(b) of the National Defense Authorization Act for Fiscal Year 2015 \[[Pub. L. 113–291][/us/pl/113/291], set out above\], subject to [section 8903 of title 40][/us/usc/t40/s8903], United States Code.
+
+> “SEC. 9. __LIMITATION ON OBLIGATION OF FEDERAL FUNDS.__ 
+
+>     “No Federal funds may be obligated or expended for the designation, establishment, or enhancement of a memorial or commemorative work by the World War I Centennial Commission.”
 
  __Ronald Reagan Centennial Commission__ 
 
@@ -1010,13 +1118,27 @@
 [/us/stat/118/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3345
 [/us/pl/107/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F89%2Fs2
 [/us/stat/115/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F877
+[/us/pl/113/291/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3091
+[/us/stat/128/3858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3858
+[/us/pl/89/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F786
+[/us/stat/80/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1377
+[/us/usc/t40/s8906/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8906%2Fb%2F1
 [/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
 [/us/stat/126/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2448
+[/us/usc/t40/s8906/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8906%2Fb%2F4
+[/us/pl/112/272/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272%2Fs8
+[/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
+[/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
+[/us/stat/126/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2448
+[/us/pl/113/291/s3091/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3091%2Fb%2F7
+[/us/stat/128/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3859
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/stat/118/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2045
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t40/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903
 [/us/pl/111/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F25
 [/us/stat/123/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1767
 [/us/pl/112/13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F13%2Fs1
