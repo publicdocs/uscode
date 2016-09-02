@@ -123,7 +123,7 @@
 
 [Pub. L. 107–273, div. A, title II, § 202(b)(3)][/us/pl/107/273/s202/b/3], (4), Nov. 2, 2002, [116 Stat. 1774][/us/stat/116/1774], provided that:
 
->     “(3) Not later than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\], the President shall advise the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) of the enactment of this section \[enacting this section and amending sections 288k and 5571 of Title 2, The Congress\].
+>     “(3) Not later than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\], the President shall advise the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) of the enactment of this section \[enacting this section and amending sections 130f and 288k of Title 2, The Congress\].
 
 >     “(4)
 
