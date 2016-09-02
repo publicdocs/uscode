@@ -229,7 +229,7 @@
 
             (B) improved infrastructure and institutional capacity to develop and manage education, prevention, and treatment programs, including training and the resources to collect and maintain accurate HIV surveillance data to target programs and measure the effectiveness of interventions;
 
-            (C) vaccine research and development partnership programs with specific plans of action to develop a safe, effective, accessible, preventive HIV vaccine for use throughout the world; and  <sup>\[6\]</sup>  <sup><sup> 6 So in original. The “and” probably should not appear. </sup></sup> 
+            (C) vaccine research and development partnership programs with specific plans of action to develop a safe, effective, accessible, preventive HIV vaccine for use throughout the world; and  <sup>\[6\]</sup>  <sup><sup> 6 So in original. The word “and” probably should not appear. </sup></sup> 
 
             (D)
 

@@ -89,7 +89,7 @@
 
 [Pub. L. 113–235, div. B, title VI, § 601][/us/pl/113/235/s601], Dec. 16, 2014, [128 Stat. 2218][/us/stat/128/2218], provided that: 
 
-> “This title \[amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8][/us/usc/t8/s1187], Aliens and Nationality\] may be cited as the “Travel Promotion, Enhancement, and Modernization Act of 2014”.
+> “This title \[amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8][/us/usc/t8/s1187], Aliens and Nationality\] may be cited as the ‘Travel Promotion, Enhancement, and Modernization Act of 2014’.”
 
  __Short Title of 1996 Amendment__ 
 

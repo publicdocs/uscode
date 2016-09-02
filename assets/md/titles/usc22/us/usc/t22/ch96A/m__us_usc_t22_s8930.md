@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act or an amendment made by this Act”, meaning [Pub. L. 113–272][/us/pl/113/272], Dec. 18, 2014, [128 Stat. 2952][/us/stat/128/2952], which enacted this chapter. [Pub. L. 113–272][/us/pl/113/272] did not make any amendments.
+    This chapter, referred to in text, was in the original “this Act or an amendment made by this Act”, meaning [Pub. L. 113–272][/us/pl/113/272], Dec. 18, 2014, [128 Stat. 2952][/us/stat/128/2952], which enacted this chapter and provisions set out as a note under [section 8921 of this title][/us/usc/t22/s8921]. [Pub. L. 113–272][/us/pl/113/272] did not make any amendments.
 
 ----------
 
@@ -34,6 +34,7 @@
 [/us/stat/128/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2966
 [/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2952
+[/us/usc/t22/s8921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8921
 [/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 
 

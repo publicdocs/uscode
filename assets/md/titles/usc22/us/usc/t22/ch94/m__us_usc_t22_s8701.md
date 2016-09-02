@@ -75,7 +75,7 @@
 
 >     “(d)  __Sunset__  __.—__ 
 
->     This section shall terminate on the date that is 10 years after the date of the enactment of this Act \[Dec. 19, 2014\].”
+>     This section shall terminate on the date that is 10 years after the date of the enactment of this Act.”
 
  __Countering Iran in the Western Hemisphere__ 
 

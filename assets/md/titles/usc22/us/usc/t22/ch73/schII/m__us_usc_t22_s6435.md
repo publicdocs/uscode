@@ -39,7 +39,7 @@
 
 [Pub. L. 113–271, § 2][/us/pl/113/271/s2], Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951], provided that: 
 
-> “The amendments made by this Act \[amending sections 6435 and 6436 of this title\] shall take effect as if enacted on December 10, 2014.”
+> “The amendments made by this Act \[amending this section and [section 6436 of this title][/us/usc/t22/s6436]\] shall take effect as if enacted on December 10, 2014.”
 
 ----------
 
@@ -64,5 +64,6 @@
 [/us/pl/106/55/s1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F4
 [/us/pl/113/271/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271%2Fs2
 [/us/stat/128/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2951
+[/us/usc/t22/s6436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6436
 
 

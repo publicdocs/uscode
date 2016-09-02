@@ -19,10 +19,6 @@
 
 ([Pub. L. 94–302, title II, § 209][/us/pl/94/302/s209], May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
 
- __References in Text__ 
-
-    The agreement and articles 41 through 50 and article 58, referred to in text, mean the Bretton Woods Agreement and the articles thereof.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–6.md) | [Next](./../../../../..//us/usc/t22/ch7/schXXII/m__us_usc_t22_s290g–8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%937)

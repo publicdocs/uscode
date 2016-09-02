@@ -93,7 +93,7 @@
 
     (10) __Sex trafficking__ 
 
-        The term “sex trafficking” means the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of a commercial sex act.
+        The term “sex trafficking” means the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person for the purpose of a commercial sex act.
 
     (11) __State__ 
 
@@ -115,7 +115,7 @@
 
         The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (9) or (10).
 
-([Pub. L. 106–386, div. A, § 103][/us/pl/106/386/s103], Oct. 28, 2000, [114 Stat. 1469][/us/stat/114/1469]; [Pub. L. 108–193, § 8(b)(1)][/us/pl/108/193/s8/b/1], Dec. 19, 2003, [117 Stat. 2887][/us/stat/117/2887]; [Pub. L. 110–457, title III, § 304(a)][/us/pl/110/457/s304/a], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII, § 1212(b)(1)][/us/pl/113/4/s1212/b/1], Mar. 7, 2013, [127 Stat. 143][/us/stat/127/143].)
+([Pub. L. 106–386, div. A, § 103][/us/pl/106/386/s103], Oct. 28, 2000, [114 Stat. 1469][/us/stat/114/1469]; [Pub. L. 108–193, § 8(b)(1)][/us/pl/108/193/s8/b/1], Dec. 19, 2003, [117 Stat. 2887][/us/stat/117/2887]; [Pub. L. 110–457, title III, § 304(a)][/us/pl/110/457/s304/a], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII, § 1212(b)(1)][/us/pl/113/4/s1212/b/1], Mar. 7, 2013, [127 Stat. 143][/us/stat/127/143]; [Pub. L. 114–22, title I, § 108(b)][/us/pl/114/22/s108/b], May 29, 2015, [129 Stat. 239][/us/stat/129/239].)
 
  __References in Text__ 
 
@@ -128,6 +128,8 @@
     The Arms Export Control Act, referred to in par. (8)(B), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
  __Amendments__ 
+
+    2015—Par. (10). [Pub. L. 114–22][/us/pl/114/22] substituted “obtaining, patronizing, or soliciting” for “or obtaining”.
 
     2013—[Pub. L. 113–4][/us/pl/113/4] added par. (1), redesignated former pars. (1) to (14) as (2) to (15), respectively, and substituted “paragraph (9)” for “paragraph (8)” in par. (14) and “paragraph (9) or (10)” for “paragraph (8) or (9)” in par. (15).
 
@@ -164,6 +166,8 @@
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
 [/us/pl/113/4/s1212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F1
 [/us/stat/127/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F143
+[/us/pl/114/22/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fb
+[/us/stat/129/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F239
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
@@ -173,6 +177,7 @@
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193

@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–76][/us/pl/113/76] inserted “and for maintenance” after ‘purposes of [section 2396(c) of this title][/us/usc/t22/s2396/c]”.
+    2014—Subsec. (a). [Pub. L. 113–76][/us/pl/113/76] inserted “and for maintenance” after “purposes of [section 2396(c) of this title][/us/usc/t22/s2396/c]”.
 
 ----------
 

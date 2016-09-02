@@ -49,7 +49,17 @@
 
 > “This title \[enacting this chapter\] may be cited as the ‘Cooperative Threat Reduction Act of 1993’.”
 
- __Briefings on Dialogue Between the United States and the Russian Federation on Nuclear Arms, Missile Defense Systems, and Long-Range Conventional Strike Systems__ 
+ __Congressional Notification__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1246(c)(3)][/us/pl/113/66/s1246/c/3], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924], as amended by [Pub. L. 113–291, div. A, title XII, § 1243(3)][/us/pl/113/291/s1243/3], Dec. 19, 2014, [128 Stat. 3564][/us/stat/128/3564], provided that: 
+
+> “If the Secretary of Defense intends to provide the Russian Federation with any sensitive missile defense information that the Secretary determines will not compromise United States national security, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of the Secretary’s intent to provide such information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information will not compromise United States national security.”
+
+ __Briefings to Congressional Committees__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1251(b)][/us/pl/113/66/s1251/b], Dec. 26, 2013, [127 Stat. 926][/us/stat/127/926], provided that: 
+
+> “Prior to signing an executive agreement with the Russian Federation relating to ballistic missile defense, the President, or the President’s designee, shall brief the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the objectives and contents of the executive agreement.”
 
 [Pub. L. 112–239, div. A, title XII, § 1282][/us/pl/112/239/s1282], Jan. 2, 2013, [126 Stat. 2034][/us/stat/126/2034], provided that:
 
@@ -64,6 +74,44 @@
 >     “(c)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to be inconsistent with or to interfere with the practices, precedents, or oversight of the House of Representatives.”
+
+ __Sharing of Classified United States Ballistic Missile Defense Information With the Russian Federation__ 
+
+[Pub. L. 112–81, div. A, title XII, § 1244][/us/pl/112/81/s1244], Dec. 31, 2011, [125 Stat. 1646][/us/stat/125/1646], provided that:
+
+>     “(a)  __Notification__  __.—__ 
+
+>     No classified United States ballistic missile defense information may be made available to the Russian Federation unless, 60 days prior to any instance in which the United States Government plans to provide such information to the Russian Federation, the President provides notification thereof to the appropriate congressional committees.
+
+>     “(b)  __Elements of Notification__  __.—__ 
+
+>     Each notification provided pursuant to subsection (a) shall include the following:
+
+>         “(1) A detailed description of the classified United States ballistic missile defense information to be provided.
+
+>         “(2) An explanation of the national security interest in providing the information to the Russian Federation and any provisions for reciprocal sharing by the Russian Federation with the United States on its defensive systems.
+
+>         “(3) A certification that providing the information is consistent with United States national disclosure policy as of the date of enactment of this Act \[Dec. 31, 2011\] and that the decision to provide the information was made pursuant to a national disclosure policy review.
+
+>         “(4) If applicable, a detailed explanation of whether any exceptions to national disclosure policy were required in order to provide the information to the Russian Federation and why such exceptions were required.
+
+>         “(5) A certification that adequate measures are in place to protect the information from unauthorized disclosure. The certification shall include a description of the manner in which the information will be protected from unauthorized sharing or transfer to third parties as well as an analysis of the risks to the capabilities of the United States ballistic missile defense system if the information is shared or transferred to an unauthorized third party.
+
+>     “(c)  __Form__  __.—__ 
+
+>     Each notification provided pursuant to subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     For the purposes of this section, the term ‘appropriate congressional committees’ means—
+
+>         “(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+>         “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+>     “(e)  __Classified United States Ballistic Missile Defense Information Defined__  __.—__ 
+
+>     For the purposes of this section, the term ‘classified United States ballistic missile defense information’ means information related to United States ballistic missile defenses that is classified as of, or after, the date of enactment of this Act \[Dec. 31, 2011\].”
 
  __Establishment of Interparliamentary Threat Reduction Working Group__ 
 
@@ -82,6 +130,558 @@
 >         (1) The majority leader of the Senate, after consultation with the minority leader of the Senate, shall appoint not more than 10 Senators to the working group established by subsection (a).
 
 >         “(2) The Speaker of the House of Representatives, after consultation with the minority leader of the House of Representatives, shall appoint not more than 30 Members of the House to the working group.”
+
+ __Transfer to National Nuclear Security Administration of Department of Defense’s Cooperative Threat Reduction Program Relating to Elimination of Weapons Grade Plutonium Production in Russia__ 
+
+[Pub. L. 107–314, div. C, title XXXI, § 3151][/us/pl/107/314/s3151], Dec. 2, 2002, [116 Stat. 2736][/us/stat/116/2736], as amended by [Pub. L. 108–375, div. C, title XXXI, § 3135][/us/pl/108/375/s3135], Oct. 28, 2004, [118 Stat. 2170][/us/stat/118/2170], provided that:
+
+>     “(a)  __Transfer of Program__  __.—__ 
+
+>     There are hereby transferred to the Administrator for Nuclear Security the following:
+
+>         “(1) The program, within the Cooperative Threat Reduction program of the Department of Defense, relating to the elimination of weapons grade plutonium production in Russia.
+
+>         “(2) All functions, powers, duties, and activities of that program performed before the date of the enactment of this Act \[Dec. 2, 2002\] by the Department of Defense.
+
+>     “(b)  __Transfer of Assets__  __.—__ 
+
+>         (1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in paragraph (2), so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the program transferred by subsection (a) are transferred to the Administrator for use in connection with the program transferred.
+
+>         “(2)
+
+>          The Cooperative Threat Reduction funds specified in this paragraph are the following:
+
+>             “(A) Fiscal year 2002 Cooperative Threat Reduction funds, as specified in section 1301(b) of the National Defense Authorization Act for Fiscal Year 2002 ([Public Law 107–107][/us/pl/107/107]; [115 Stat. 1254][/us/stat/115/1254]; [22 U.S.C. 5952][/us/usc/t22/s5952] note).
+
+>             “(B) Fiscal year 2001 Cooperative Threat Reduction funds, as specified in section 1301(b) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; [114 Stat. 1654][/us/stat/114/1654]A–339; [22 U.S.C. 5959][/us/usc/t22/s5959] note).
+
+>             “(C) Fiscal year 2000 Cooperative Threat Reduction funds, as specified in section 1301(b) of the National Defense Authorization Act for Fiscal Year 2000 ([Public Law 106–65][/us/pl/106/65]; [113 Stat. 792][/us/stat/113/792]; [22 U.S.C. 5952][/us/usc/t22/s5952] note).
+
+>     “(c)  __Availability of Transferred Funds__  __.—__ 
+
+>         (1)
+
+>          Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in subsection (b)(2), the Cooperative Threat Reduction funds transferred under subsection (b) for the program referred to in subsection (a) shall be available for activities as follows:
+
+>             “(A) To design and construct, refurbish, or both, fossil fuel energy plants in Russia that provide alternative sources of energy to the energy plants in Russia that produce weapons grade plutonium.
+
+>             “(B) To carry out limited safety upgrades of not more than three energy plants in Russia that produce weapons grade plutonium, provided that such upgrades do not extend the life of those plants.
+
+>         “(2) Amounts available under paragraph (1) for activities referred to in that paragraph shall remain available for obligation for three fiscal years.
+
+>     “(d)  __Limitation__  __.—__ 
+
+>         (1)
+
+>          Of the amounts authorized to be appropriated by this title or any other Act for the program referred to in subsection (a), the Administrator for Nuclear Security may not obligate any funds for construction, or obligate or expend more than $100,000,000 for that program, until 30 days after the later of—
+
+>             “(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committee on Foreign Relations of the Senate, a copy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
+
+>             “(B) the date on which the Administrator submits to the committees specified in subparagraph (A) a report on a plan to achieve international participation in the program referred to in subsection (a), including cost sharing.
+
+>         “(2)
+
+>          The agreement (or agreements) under paragraph (1)(A) shall contain—
+
+>             “(A) a commitment to shut down the three plutonium-producing reactors;
+
+>             “(B) the date on which each such reactor will be shut down;
+
+>             “(C) a schedule and milestones for each such reactor to complete the shutdown of such reactor by the date specified under subparagraph (B);
+
+>             “(D) a schedule and milestones for refurbishment or construction of fossil fuel energy plants to be undertaken by the Government of the Russian Federation in support of the program;
+
+>             “(E) an arrangement for access to sites and facilities necessary to meet such schedules and milestones;
+
+>             “(F) an arrangement for audit and examination procedures in order to evaluate progress in meeting such schedules and milestones; and
+
+>             “(G) any cost sharing arrangements between the United States Government and the Government of the Russian Federation in undertaking activities under such agreement (or agreements).
+
+>     “(e)  __International Participation in Program__  __.—__ 
+
+>         (1) In order to achieve international participation in the program referred to in subsection (a), the Secretary of Energy may, in consultation with the Secretary of State, enter into one or more agreements with any person, foreign government, or other international organization that the Secretary considers appropriate for the contribution of funds by such person, government, or organization for purposes of the program.
+
+>         “(2) Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], United States Code, and subject to paragraphs (3) and (4), the Secretary may retain and utilize any amounts contributed by a person, government, or organization under an agreement under paragraph (1) for purposes of the program without further appropriation and without fiscal year limitation.
+
+>         “(3) The Secretary may not utilize under paragraph (2) any amount contributed under an agreement under paragraph (1) until 30 days after the date on which the Secretary notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the intent to utilize such amount, including the source of such amount and the proposed purpose for which such amount will be utilized.
+
+>         “(4) If any amount contributed under paragraph (1) has not been utilized within five years of receipt under that paragraph, the Secretary shall return such amount to the person, government, or organization contributing such amount under that paragraph.
+
+>         “(5) Not later than 30 days after the receipt of any amount contributed under paragraph (1), the Secretary shall submit to the congressional defense committees a notice of the receipt of such amount.
+
+>         “(6)
+
+>          Not later than October 31 each year, the Secretary shall submit to the congressional defense committees a report on the receipt and utilization of amounts under this subsection during the preceding fiscal year. Each report for a fiscal year shall set forth—
+
+>             “(A) a statement of any amounts received under this subsection, including the source of each such amount; and
+
+>             “(B) a statement of any amounts utilized under this subsection, including the purpose for which such amounts were utilized.
+
+>         “(7) The authority of the Secretary to accept and utilize amounts under this subsection shall expire on December 31, 2011.”
+
+ __Accelerated Disposition of Highly Enriched Uranium__ 
+
+[Pub. L. 107–314, div. C, title XXXI, § 3157][/us/pl/107/314/s3157], Dec. 2, 2002, [116 Stat. 2740][/us/stat/116/2740], provided that:
+
+>     “(a)  __Program on Accelerated Disposition of HEU Authorized__  __.—__ 
+
+>         (1) The Secretary of Energy may carry out a program to pursue with the Russian Federation options for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent.
+
+>         “(2)
+
+>          The options pursued under paragraph (1) shall include expansion of the Material Consolidation and Conversion program of the Department of Energy to include—
+
+>             “(A) additional facilities for the blending of highly enriched uranium; and
+
+>             “(B) additional centralized secure storage facilities for highly enriched uranium designated for blending.
+
+>         “(3) Any site selected for the storage of uranium or blended material under paragraph (2)(B) shall undergo complete materials protection, control, and accounting upgrades before the commencement of the storage of uranium or blended material at such site under the program.
+
+>     “(b)  __Construction With HEU Disposition Agreement__  __.—__ 
+
+>     Nothing in this section may be construed as terminating, modifying, or otherwise affecting requirements for the disposition of highly enriched uranium under the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, signed at Washington on February 18, 1993.
+
+>     “(c)  __Limitation on Release for Sale of Blended Uranium__  __.—__ 
+
+>     Uranium blended under this section may not be released for sale until the earlier of—
+
+>         “(1) January 1, 2014; or
+
+>         “(2) the date on which the Secretary certifies that such uranium can be absorbed into the global market without undue disruption to the uranium mining, conversion, and enrichment industry in the United States.
+
+>     “(d)  __Amount for Activities__  __.—__ 
+
+>     Of the amount to be appropriated by section 3101(a)(2) \[[116 Stat. 2729][/us/stat/116/2729]\] for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $10,000,000 may be available for carrying out this section.”
+
+ __Plan for Accelerated Return of Weapons-Usable Nuclear Materials__ 
+
+[Pub. L. 107–314, div. C, title XXXI, § 3160][/us/pl/107/314/s3160], Dec. 2, 2002, [116 Stat. 2742][/us/stat/116/2742], provided that:
+
+>     “(a)  __Plan for Accelerated Return__  __.—__ 
+
+>     The Secretary of Energy shall work with the Russian Federation to develop a plan to accelerate the return to Russia of all weapons-usable nuclear materials located in research reactors and other facilities outside Russia that were supplied by the former Soviet Union.
+
+>     “(b)  __Funding and Schedules__  __.—__ 
+
+>     As part of the plan under subsection (a), the Secretary shall identify the funding and schedules required to assist the research reactors and facilities referred to in that subsection in—
+
+>         “(1) transferring highly enriched uranium to Russia; and
+
+>         “(2) upgrading the materials protection, control, and accounting procedures at such research reactors and facilities until the weapons-usable nuclear materials in such reactors and facilities are returned in accordance with that subsection.
+
+>     “(c)  __Coordination__  __.—__ 
+
+>     The provision of assistance under subsection (b) shall be closely coordinated with the International Atomic Energy Agency.”
+
+ __Russian Federation Debt Reduction for Nonproliferation__ 
+
+[Pub. L. 107–228, div. B, title XIII][/us/pl/107/228], subtitle B, Sept. 30, 2002, [116 Stat. 1442][/us/stat/116/1442], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
+
+> “SEC. 1311. __SHORT TITLE.__ 
+
+>     “This subtitle may be cited as the ‘Russian Federation Debt for Nonproliferation Act of 2002’.
+
+> “SEC. 1312. __FINDINGS AND PURPOSES.__ 
+
+>     “(a)  __Findings__  __.—__ 
+
+>     Congress finds the following:
+
+>         “(1) It is in the vital security interests of the United States to prevent the spread of weapons of mass destruction to additional states or to terrorist organizations, and to ensure that other nations’ obligations to modify their stockpiles of such arms in accordance with treaties, executive agreements, or political commitments are fulfilled.
+
+>         “(2)
+
+>          In particular, it is in the vital national security interests of the United States to ensure that—
+
+>             “(A) all stocks of nuclear weapons and weapons-usable nuclear material in the Russian Federation are secure and accounted for;
+
+>             “(B) stocks of nuclear weapons and weapons-usable nuclear material that are excess to military needs in the Russian Federation are monitored and reduced;
+
+>             “(C) any chemical or biological weapons, related materials, and facilities in the Russian Federation are destroyed;
+
+>             “(D) the Russian Federation’s nuclear weapons complex is reduced to a size appropriate to its post-Cold War missions, and its experts in weapons of mass destruction technologies are shifted to gainful and sustainable civilian employment;
+
+>             “(E) the Russian Federation’s export control system blocks any proliferation of weapons of mass destruction, the means of delivering such weapons, and materials, equipment, know-how, or technology that would be used to develop, produce, or deliver such weapons; and
+
+>             “(F) these objectives are accomplished with sufficient monitoring and transparency to provide confidence that they have in fact been accomplished and that the funds provided to accomplish these objectives have been spent efficiently and effectively.
+
+>         “(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the President should develop and present to Congress a plan for doing so.
+
+>         “(4) Substantial progress has been made in United States-Russian Federation cooperative programs to achieve these objectives, but much more remains to be done to reduce the urgent risks to United States national security posed by the current state of the Russian Federation’s weapons of mass destruction stockpiles and complexes.
+
+>         “(5)
+
+>          The threats posed by inadequate management of weapons of mass destruction stockpiles and complexes in the Russian Federation remain urgent. Incidents in years immediately preceding 2001, which have been cited by the Russia Task Force of the Secretary of Energy Advisory Board, include—
+
+>             “(A) a conspiracy at one of the Russian Federation’s largest nuclear weapons facilities to steal nearly enough highly enriched uranium for a nuclear bomb;
+
+>             “(B) an attempt by an employee of the Russian Federation’s premier nuclear weapons facility to sell nuclear weapons designs to agents of Iraq and Afghanistan; and
+
+>             “(C) the theft of radioactive material from a Russian Federation submarine base.
+
+>         “(6) Addressing these threats to United States and world security will ultimately consume billions of dollars, a burden that will have to be shared by the Russian Federation, the United States, and other governments, if these threats are to be neutralized.
+
+>         “(7) The creation of new funding streams could accelerate progress in reducing these threats to United States security and help the government of the Russian Federation to fulfill its responsibility for secure management of its weapons stockpiles and complexes as United States assistance phases out.
+
+>         “(8) The Russian Federation has a significant foreign debt, a substantial proportion of which it inherited from the Soviet Union.
+
+>         “(9) Past debt-for-environment exchanges, in which a portion of a country’s foreign debt is canceled in return for certain environmental commitments or payments by that country, suggest that a debt-for-nonproliferation exchange with the Russian Federation could be designed to provide additional funding for nonproliferation and arms reduction initiatives.
+
+>         “(10) Most of the Russian Federation’s official bilateral debt is held by United States allies that are advanced industrial democracies. Since the issues described pose threats to United States allies as well, United States leadership that results in a larger contribution from United States allies to cooperative threat reduction activities will be needed.
+
+>         “(11) At the June 2002 meeting of the G–8 countries, agreement was achieved on a G–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, under which the advanced industrial democracies committed to contribute $20,000,000,000 to nonproliferation programs in the Russian Federation during a 10-year period, with each contributing country having the option to fund some or all of its contribution through reduction in the Russian Federation’s official debt to that country.
+
+>         “(12) The Russian Federation’s Soviet-era official debt to the United States is estimated to be $480,000,000 in Lend-Lease debt and $2,250,000,000 in debt as a result of credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] ([7 U.S.C. 1701][/us/usc/t7/s1701] et seq.).
+
+>     “(b)  __Purposes__  __.—__ 
+
+>     The purposes of this subtitle are—
+
+>         “(1) to facilitate the accomplishment of the United States objectives described in the findings set forth in subsection (a) by providing for the use of a portion of the Russian Federation’s foreign debt to fund nonproliferation programs, thus allowing the use of additional resources for these purposes; and
+
+>         “(2) to help ensure that the resources made available to the Russian Federation are targeted to the accomplishment of the United States objectives described in the findings set forth in subsection (a).
+
+> “SEC. 1313. __DEFINITIONS.__ 
+
+> “In this subtitle:
+
+>     “(1)  __Appropriate congressional committees__  __.—__ 
+
+>     The term ‘appropriate congressional committees’ means—
+
+>         “(A) the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives; and
+
+>         “(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+>     “(2)  __Cost__  __.—__ 
+
+>     The term ‘cost’ has the meaning given that term in section 502(5) of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]).
+
+>     “(3)  __Russian federation nonproliferation investment agreement or agreement__  __.—__ 
+
+>     The term ‘Russian Federation Nonproliferation Investment Agreement’ or ‘Agreement’ means the agreement between the United States and the Russian Federation entered into under section 1315(a).
+
+>     “(4)  __Soviet-era debt__  __.—__ 
+
+>     The term ‘Soviet-era debt’ means debt owed as a result of loans or credits provided by the United States (or any agency of the United States) to the Union of Soviet Socialist Republics under the Lend Lease Act of 1941 \[former [22 U.S.C. 411][/us/usc/t22/s411] et seq.\] or the Commodity Credit Corporation Charter Act \[[15 U.S.C. 714][/us/usc/t15/s714] et seq.\].
+
+>     “(5)  __State sponsor of international terrorism__  __.—__ 
+
+>     The term ‘state sponsor of international terrorism’ means those countries that have been determined by the Secretary of State, for the purposes of section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], or section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], to have repeatedly provided support for acts of international terrorism.
+
+> “SEC. 1314. __AUTHORITY TO REDUCE THE RUSSIAN FEDERATION’S SOVIET-ERA DEBT OBLIGATIONS TO THE UNITED STATES.__ 
+
+>     “(a) __Authority To Reduce Debt.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Upon the entry into force of a Russian Federation Nonproliferation Investment Agreement, the President may reduce amounts of Soviet-era debt owed by the Russian Federation to the United States (or any agency or instrumentality of the United States) that are outstanding as of the last day of the fiscal year preceding the fiscal year for which appropriations are available for the reduction of debt, in accordance with this subtitle.
+
+>         “(2)  __Limitation__  __.—__ 
+
+>         The authority provided by paragraph (1) shall be available only to the extent that appropriations for the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]\]) of reducing any debt pursuant to such subsection are made in advance.
+
+>         “(3)  __Supersedes existing law__  __.—__ 
+
+>         The authority provided by paragraph (1) may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2370(r)][/us/usc/t22/s2370/r]) or section 321 of the International Development and Food Assistance Act of 1975 \[[Pub. L. 94–161][/us/pl/94/161], set out as a note under [section 2220a of this title][/us/usc/t22/s2220a]\].
+
+>     “(b) __Implementation.—__ 
+
+>         “(1)  __Delegation of authority__  __.—__ 
+
+>         The President may delegate any authority conferred upon the President in this subtitle to the Secretary of State.
+
+>         “(2)  __Establishment of terms and conditions__  __.—__ 
+
+>         Consistent with this subtitle, the President shall establish the terms and conditions under which loans and credits may be reduced pursuant to subsection (a).
+
+>         “(3)  __Implementation__  __.—__ 
+
+>         In exercising the authority of subsection (a), the President—
+
+>             “(A)
+
+>              shall notify—
+
+>                 “(i) the Department of State, with respect to obligations of the former Soviet Union under the Lend Lease Act of 1941 \[former [22 U.S.C. 411][/us/usc/t22/s411] et seq.\]; and
+
+>                 “(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Union under the Commodity Credit Corporation Act \[[15 U.S.C. 713a][/us/usc/t15/s713a] et seq.\];
+
+>             “(B) shall direct the cancellation of old obligations and the substitution of new obligations consistent with the Russian Federation Nonproliferation Investment Agreement; and
+
+>             “(C) shall direct the appropriate agency to make an adjustment in the relevant accounts to reflect the new debt treatment.
+
+>         “(4)  __Deposit of repayments__  __.—__ 
+
+>         All repayments of outstanding loan amounts under subsection (a) that are not designated under a Russian Federation Nonproliferation Investment Agreement shall be deposited in the United States Government accounts established for repayments of the original obligations.
+
+>         “(5)  __Not treated as foreign assistance__  __.—__ 
+
+>         Any reduction of Soviet-era debt pursuant to this subtitle shall not be considered assistance for the purposes of any provision of law limiting assistance to a country.
+
+>     “(c) __Authorization of Appropriation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]\]) of modifying any Soviet-era debt obligation pursuant to subsection (a), there are authorized to be appropriated to the President such sums as may be necessary.
+
+>         “(2)  __Availability of funds__  __.—__ 
+
+>         Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
+
+> “SEC. 1315. __RUSSIAN FEDERATION NONPROLIFERATION INVESTMENT AGREEMENT.__ 
+
+>     “(a) __In General.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The President is authorized to enter into an agreement with the Russian Federation under which an amount equal to the value of the debt reduced pursuant to section 1314 will be used to promote the nonproliferation of weapons of mass destruction and the means of delivering such weapons. An agreement entered into under this section may be referred to as the ‘Russian Federation Nonproliferation Investment Agreement’.
+
+>         “(2)  __Congressional notification__  __.—__ 
+
+>         The President shall notify the appropriate congressional committees at least 15 days in advance of the United States entering into a Russian Federation Nonproliferation Investment Agreement.
+
+>     “(b)  __Content of the Agreement__  __.—__ 
+
+>     The Russian Federation Nonproliferation Investment Agreement shall ensure that—
+
+>         “(1) an amount equal to the value of the debt reduced pursuant to this subtitle will be made available by the Russian Federation for agreed nonproliferation programs and projects;
+
+>         “(2) each program or project funded pursuant to the Agreement will be approved by the President;
+
+>         “(3) the administration and oversight of nonproliferation programs and projects will incorporate best practices from established threat reduction and nonproliferation assistance programs;
+
+>         “(4) each program or project funded pursuant to the Agreement will be subject to monitoring and audits conducted by or for the United States Government to confirm that agreed funds are expended on agreed projects and meet agreed targets and benchmarks;
+
+>         “(5) unobligated funds for investments pursuant to the Agreement will not be diverted to other purposes;
+
+>         “(6) funds allocated to programs and projects pursuant to the Agreement will not be subject to any taxation by the Russian Federation;
+
+>         “(7) all matters relating to the intellectual property rights and legal liabilities of United States firms in any project will be agreed upon before the expenditure of funds would be authorized for that project; and
+
+>         “(8) not less than 75 percent of the funds made available for each nonproliferation program or project under the Agreement will be spent in the Russian Federation.
+
+>     “(c)  __Use of Existing Mechanisms__  __.—__ 
+
+>     It is the sense of Congress that, to the extent practicable, the boards and administrative mechanisms of existing threat reduction and nonproliferation programs should be used in the administration and oversight of programs and projects under the Agreement.
+
+>     “(d)  __Joint Auditing__  __.—__ 
+
+>     It is the sense of Congress that the United States and the Russian Federation should consider commissioning the United States Government Accountability Office and the Russian Chamber of Accounts to conduct joint audits to ensure that the funds saved by the Russian Federation as a result of any debt reduction are used exclusively, efficiently, and effectively to implement agreed programs or projects pursuant to the Agreement.
+
+>     “(e)  __Structure of the Agreement__  __.—__ 
+
+>     It is the sense of Congress that the Agreement should provide for significant penalties—
+
+>         “(1) if funds obligated for approved programs or projects are determined to have been misappropriated; and
+
+>         “(2) if the President is unable to make the certification required by section 1317(a) for two consecutive years.
+
+> “SEC. 1316. __INDEPENDENT MEDIA AND THE RULE OF LAW.__ 
+
+>     “Notwithstanding section 1315 (a)(1) and (b)(1), up to 10 percent of the amount equal to the value of the debt reduced pursuant to this subtitle may be used to promote a vibrant, independent media sector and the rule of law in the Russian Federation through an endowment to support the establishment of a ‘Center for an Independent Press and the Rule of Law’ in the Russian Federation, which shall be directed by a joint United States-Russian Board of Directors in which the majority of members, including the chairman, shall be United States personnel, and which shall be responsible for management of the endowment, its funds, and the Center’s programs.
+
+> “SEC. 1317. __RESTRICTION ON DEBT REDUCTION AUTHORITY.__ 
+
+>     “(a)  __Proliferation to State Sponsors of Terrorism__  __.—__ 
+
+>     Subject to the provisions of subsection (c), the debt reduction authority provided by section 1314 may not be exercised unless and until the President certifies to the appropriate congressional committees that the Russian Federation has made material progress in stemming the flow of sensitive goods, technologies, material, and know-how related to the design, development, and production of weapons of mass destruction and the means to deliver them to state sponsors of international terrorism.
+
+>     “(b)  __Annual Determination__  __.—__ 
+
+>     If, in any annual report to Congress submitted pursuant to \[former\] section 1321, the President cannot certify that the Russian Federation continues to meet the condition required in subsection (a), then, subject to the provisions of subsection (c), the debt reduction authority provided by section 1314 may not be exercised unless and until such certification is made to the appropriate congressional committees.
+
+>     “(c)  __Presidential Waiver__  __.—__ 
+
+>     The President may waive the requirements of subsection (a) or (b) for a fiscal year if the President—
+
+>         “(1) determines that application of the subsection for a fiscal year would be counter to the national interest of the United States; and
+
+>         “(2) so reports to the appropriate congressional committees.
+
+> “SEC. 1318. __DISCUSSION OF RUSSIAN FEDERATION DEBT REDUCTION FOR NONPROLIFERATION WITH OTHER CREDITOR STATES.__ 
+
+> “It is the sense of Congress that the President and such other appropriate officials as the President may designate should pursue discussions with other creditor states with the objectives of—
+
+>     “(1) ensuring that other advanced industrial democracies, especially the largest holders of Soviet-era Russian debt, dedicate significant proportions of their bilateral official debt with the Russian Federation or equivalent amounts of direct assistance to the G–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, as agreed upon in the Statement by G–8 Leaders on June 27, 2002; and
+
+>     “(2) reaching agreement, as appropriate, to establish a unified Russian Federation official debt reduction fund to manage and provide financial transparency for the resources provided by creditor states through debt reductions.
+
+> “SEC. 1319. __IMPLEMENTATION OF UNITED STATES POLICY.__ 
+
+>     “It is the sense of Congress that implementation of debt-for-nonproliferation programs with the Russian Federation should be overseen by the coordinating mechanism established pursuant to section 1334 of this Act \[[50 U.S.C. 2357b][/us/usc/t50/s2357b]\].
+
+> “SEC. 1320. __CONSULTATIONS WITH CONGRESS.__ 
+
+>     “The President shall consult with the appropriate congressional committees on a periodic basis to review the implementation of this subtitle and the Russian Federation’s eligibility for debt reduction pursuant to this subtitle.
+
+> “\[SEC. 1321. Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]”
+
+ __Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union__ 
+
+[Pub. L. 107–107, div. A, title XII, § 1205][/us/pl/107/107/s1205], Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247], as amended by [Pub. L. 107–314, div. A, title XII, § 1205][/us/pl/107/314/s1205], Dec. 2, 2002, [116 Stat. 2664][/us/stat/116/2664], provided that:
+
+>     “(a)  __Plan Required__  __.—__ 
+
+>     Not later than June 15, 2002, the President shall submit to Congress a plan, that has been developed in coordination with all relevant Federal agencies—
+
+>         “(1) for cooperating with Russia on disposing, as soon as practicable, of nuclear weapons and weapons-usable nuclear material in Russia that Russia does not retain in its nuclear arsenals;
+
+>         “(2) for assisting Russia in downsizing its nuclear weapons research and production complex;
+
+>         “(3) for cooperating with the other states of the former Soviet Union on disposing, as soon as practicable, of all nuclear weapons and weapons-usable nuclear material in such states; and
+
+>         “(4) for preventing the outflow from the states of the former Soviet Union of scientific expertise that could be used for developing nuclear weapons, other weapons of mass destruction, and delivery systems for such weapons.
+
+>     “(b)  __Content of Plan__  __.—__ 
+
+>     The plan required by subsection (a) shall include the following:
+
+>         “(1) Specific goals and measurable objectives for programs that are designed to carry out the objectives described in subsection (a).
+
+>         “(2) Criteria for success for such programs, and a strategy for eventual termination of United States contributions to such programs and assumption of the ongoing support of those programs by others.
+
+>         “(3)
+
+>          A description of any administrative and organizational changes necessary to improve the coordination and effectiveness of such programs. In particular, the plan shall include consideration of the creation of an interagency committee that would have primary responsibilities within the executive branch for—
+
+>             “(A) monitoring United States nonproliferation efforts in the states of the former Soviet Union;
+
+>             “(B) coordinating the implementation of United States policy with respect to such efforts; and
+
+>             “(C) recommending to the President integrated policies, budget options, and private sector and international contributions for such programs.
+
+>         “(4) An estimate of the cost of carrying out such programs.
+
+>     “(c)  __Consultation__  __.—__ 
+
+>     In developing the plan required by subsection (a), the President—
+
+>         “(1) is encouraged to consult with the relevant states of the former Soviet Union regarding the practicality of various options; and
+
+>         “(2) shall consult with the majority and minority leadership of the appropriate committees of Congress.
+
+>     “(d)  __Annual Report on Implementation of Plan__  __.—__ 
+
+>         (1) Not later than January 31, 2003, and each year thereafter, the President shall submit to Congress a report on the implementation of the plan required by subsection (a) during the preceding year.
+
+>         “(2)
+
+>          Each report under paragraph (1) shall include—
+
+>             “(A) a discussion of progress made during the year covered by such report in the matters of the plan required by subsection (a);
+
+>             “(B) a discussion of consultations with foreign nations, and in particular the Russian Federation, during such year on joint programs to implement the plan;
+
+>             “(C) a discussion of cooperation, coordination, and integration during such year in the implementation of the plan among the various departments and agencies of the United States Government, as well as private entities that share objectives similar to the objectives of the plan; and
+
+>             “(D) any recommendations that the President considers appropriate regarding modifications to law or regulations, or to the administration or organization of any Federal department or agency, in order to improve the effectiveness of any programs carried out during such year in the implementation of the plan.”
+
+    \[Functions of President under [section 1205(d) of Pub. L. 107–107][/us/pl/107/107/s1205/d], set out above, delegated to Secretary of State by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
+
+ __Russian Nonstrategic Nuclear Arms__ 
+
+[Pub. L. 106–65, div. A, title XIII, § 1312][/us/pl/106/65/s1312], Oct. 5, 1999, [113 Stat. 796][/us/stat/113/796], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XIII, § 1308(g)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–343, provided that: 
+
+> “It is the sense of Congress that—
+
+>     “(1) it is in the interest of Russia to fully implement the Presidential Nuclear Initiatives announced in 1991 and 1992 by then-President of the Soviet Union Gorbachev and then-President of Russia Yeltsin;
+
+>     “(2) the President of the United States should call on Russia to match the unilateral reductions in the United States inventory of tactical nuclear weapons, which have reduced the inventory by nearly 90 percent; and
+
+>     “(3) if the re-certification under section 1310 \[[113 Stat. 795][/us/stat/113/795]\] is made, the President should emphasize the continued interest of the United States in working cooperatively with Russia to reduce the dangers associated with Russia’s tactical nuclear arsenal.”
+
+ __Limitation on Use of Funds for Chemical Weapons Destruction Activities in Russia__ 
+
+[Pub. L. 105–261, div. A, title XIII, § 1304][/us/pl/105/261/s1304], Oct. 17, 1998, [112 Stat. 2163][/us/stat/112/2163], provided that:
+
+>     “(a)  __Limitation__  __.—__ 
+
+>     Subject to the limitation in section 1405(b) of the National Defense Authorization Act for Fiscal Year 1998 ([Public Law 105–85][/us/pl/105/85]; [111 Stat. 1961][/us/stat/111/1961]), no funds authorized to be appropriated for Cooperative Threat Reduction programs under this Act \[see Tables for classification\] or any other Act may be obligated or expended for chemical weapons destruction activities in Russia (including activities for the planning, design, or construction of a chemical weapons destruction facility or for the dismantlement of an existing chemical weapons production facility) until the President submits to Congress a written certification described in subsection (b).
+
+>     “(b)  __Presidential Certification__  __.—__ 
+
+>     A certification under this subsection is either of the following certifications by the President:
+
+>         “(1)
+
+>          A certification that—
+
+>             “(A) Russia is making reasonable progress toward the implementation of the Bilateral Destruction Agreement;
+
+>             “(B) the United States and Russia have made substantial progress toward the resolution, to the satisfaction of the United States, of outstanding compliance issues under the Wyoming Memorandum of Understanding and the Bilateral Destruction Agreement; and
+
+>             “(C) Russia has fully and accurately declared all information regarding its unitary and binary chemical weapons, chemical weapons facilities, and other facilities associated with chemical weapons.
+
+>         “(2) A certification that the national security interests of the United States could be undermined by a policy of the United States not to carry out chemical weapons destruction activities under Cooperative Threat Reduction programs for which funds are authorized to be appropriated under this Act or any other Act for fiscal year 1999.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘Bilateral Destruction Agreement’ means the Agreement Between the United States of America and the Union of Soviet Socialist Republics on Destruction and Non-production of Chemical Weapons and on Measures to Facilitate the Multilateral Convention on Banning Chemical Weapons signed on June 1, 1990.
+
+>         “(2) The term ‘Wyoming Memorandum of Understanding’ means the Memorandum of Understanding Between the Government of the United States of America and the Government of the Union of Soviet Socialist Republics Regarding a Bilateral Verification Experiment and Data Exchange Related to Prohibition on Chemical Weapons, signed at Jackson Hole, Wyoming, on September 23, 1989.”
+
+    \[Memorandum of President of the United States, July 16, 1999, 64 F.R. 40503, delegated to Secretary of Defense authority of President under [section 1304(b)(2) of Public Law 105–261][/us/pl/105/261/s1304/b/2], set out above.\]
+
+Similar provisions were contained in the following prior authorization acts:
+
+    [Pub. L. 105–85, div. A, title XIV, § 1406][/us/pl/105/85/s1406], Nov. 18, 1997, [111 Stat. 1961][/us/stat/111/1961].
+
+    [Pub. L. 104–106, div. A, title XII, § 1209][/us/pl/104/106/s1209], Feb. 10, 1996, [110 Stat. 472][/us/stat/110/472].
+
+ __Congressional Reports on Cooperative Threat Reduction Programs__ 
+
+[Pub. L. 104–106, div. A, title XII][/us/pl/104/106], §§ 1201, 1205, 1206, Feb. 10, 1996, [110 Stat. 469][/us/stat/110/469], 470, 471, as amended by [Pub. L. 104–201, div. A, title XIV, § 1431][/us/pl/104/201/s1431], Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726]; [Pub. L. 106–65, div. A, title X, § 1067(6)][/us/pl/106/65/s1067/6], title XIII, § 1311, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 796; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XIII, § 1308(g)(1)(C)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–343; [Pub. L. 113–291, div. A, title XIII, § 1351(4)][/us/pl/113/291/s1351/4], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607], provided that:
+
+> “SEC. 1201. __SPECIFICATION OF COOPERATIVE THREAT REDUCTION PROGRAMS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     For purposes of section 301 \[[110 Stat. 245][/us/stat/110/245]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in subsection (b).
+
+>     “(b)  __Specified Programs__  __.—__ 
+
+>     The programs referred to in subsection (a) are the following programs with respect to states of the former Soviet Union:
+
+>         “(1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of nuclear, chemical, and other weapons, fissile material suitable for use in nuclear weapons, and their delivery vehicles.
+
+>         “(2) Programs to facilitate the safe and secure storage of fissile materials derived from the elimination of nuclear weapons.
+
+>         “(3) Programs to prevent the proliferation of weapons, weapons components, and weapons-related technology and expertise.
+
+>         “(4) Programs to expand military-to-military and defense contacts.
+
+> “\[SEC. 1205. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(4)][/us/pl/113/291/s1351/4], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].\]
+
+> “\[SEC. 1206. Repealed. [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XIII, § 1308(g)(1)(C)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–343.\]”
+
+ __Condition on Assistance to Russia for Construction of Plutonium Storage Facility__ 
+
+[Pub. L. 103–160, div. A, title XVI, § 1612][/us/pl/103/160/s1612], Nov. 30, 1993, [107 Stat. 1850][/us/stat/107/1850], provided:
+
+>     “(a)  __Limitation__  __.—__ 
+
+>     Until a certification under subsection (b) is made, no funds may be obligated or expended by the United States for the purpose of assisting the Ministry of Atomic Energy of Russia to construct a storage facility for surplus plutonium from dismantled weapons.
+
+>     “(b)  __Certification of Russia’s Commitment to Halt Chemical Separation of Weapon-Grade Plutonium__  __.—__ 
+
+>     The prohibition in subsection (a) shall cease to apply upon a certification by the President to Congress that Russia—
+
+>         “(1) is committed to halting the chemical separation of weapon-grade plutonium from spent nuclear fuel; and
+
+>         “(2) is taking all practical steps to halt such separation at the earliest possible date.
+
+>     “(c)  __Sense of Congress on Plutonium Policy__  __.—__ 
+
+>     It is the sense of Congress that a key objective of the United States with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
+
+>     “(d)  __Report__  __.—__ 
+
+>     Not later than June 1, 1994, the President shall submit to Congress a report on the status of efforts by the United States to secure the commitments and achieve the objective described in subsections (b) and (c). The President shall include in the report a discussion of the status of joint efforts by the United States and Russia to replace any remaining Russian plutonium production reactors with alternative power sources or to convert such reactors to operation with alternative fuels that would permit their operation without generating weapon-grade plutonium.”
+
+    \[Memorandum of President of the United States, Mar. 10, 1994, 59 F.R. 14079, delegated to Secretary of State authority and duty of President under section 1612(b) and (d) of [Public Law 103–160][/us/pl/103/160] set out above.\]
 
 §§ 5952, 5953. __Repealed.__  __[__  __Pub. L. 113–291, div. A, title XIII, § 1351(3)__  __][/us/pl/113/291/s1351/3]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3607__  __][/us/stat/128/3607]__ 
 
@@ -130,10 +730,96 @@
 [/us/stat/117/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1822
 [/us/pl/103/160/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1201
 [/us/stat/107/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1777
+[/us/pl/113/66/s1246/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1246%2Fc%2F3
+[/us/stat/127/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F924
+[/us/pl/113/291/s1243/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1243%2F3
+[/us/stat/128/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3564
+[/us/pl/113/66/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1251%2Fb
+[/us/stat/127/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F926
 [/us/pl/112/239/s1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1282
 [/us/stat/126/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2034
+[/us/pl/112/81/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1244
+[/us/stat/125/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1646
 [/us/pl/108/136/s3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3622
 [/us/stat/117/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1824
+[/us/pl/107/314/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3151
+[/us/stat/116/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2736
+[/us/pl/108/375/s3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3135
+[/us/stat/118/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2170
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/stat/115/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1254
+[/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
+[/us/usc/t22/s5959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5959
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/stat/113/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F792
+[/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
+[/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
+[/us/pl/107/314/s3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3157
+[/us/stat/116/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2740
+[/us/stat/116/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2729
+[/us/pl/107/314/s3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3160
+[/us/stat/116/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2742
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/stat/116/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1442
+[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
+[/us/usc/t7/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1701
+[/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
+[/us/usc/t22/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs411
+[/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
+[/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
+[/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
+[/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
+[/us/usc/t22/s2370/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fr
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/usc/t22/s2220a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220a
+[/us/usc/t22/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs411
+[/us/usc/t15/s713a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a
+[/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
+[/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
+[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
+[/us/pl/107/107/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1205
+[/us/stat/115/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1247
+[/us/pl/107/314/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1205
+[/us/stat/116/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2664
+[/us/pl/107/107/s1205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1205%2Fd
+[/us/pl/106/65/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1312
+[/us/stat/113/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F796
+[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
+[/us/stat/113/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F795
+[/us/pl/105/261/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1304
+[/us/stat/112/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2163
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/stat/111/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1961
+[/us/pl/105/261/s1304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1304%2Fb%2F2
+[/us/pl/105/85/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1406
+[/us/stat/111/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1961
+[/us/pl/104/106/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1209
+[/us/stat/110/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F472
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/stat/110/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F469
+[/us/pl/104/201/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1431
+[/us/stat/110/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2726
+[/us/pl/106/65/s1067/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F6
+[/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
+[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
+[/us/pl/113/291/s1351/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F4
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
+[/us/stat/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F245
+[/us/pl/113/291/s1351/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F4
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
+[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
+[/us/pl/103/160/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1612
+[/us/stat/107/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1850
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/113/291/s1351/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F3
 [/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 [/us/pl/103/160/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1203

@@ -217,7 +217,7 @@
 
 “part d—reporting requirements
 
-    “\[SEC. 231. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
+    “\[SEC. 231. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]”
 
  __Report on Fulfillment of Primary Functions__ 
 

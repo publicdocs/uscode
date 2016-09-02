@@ -515,7 +515,7 @@
 
         (2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-([Pub. L. 108–25, title I, § 101][/us/pl/108/25/s101], May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, title I, § 101][/us/pl/110/293/s101], July 30, 2008, [122 Stat. 2923][/us/stat/122/2923]; [Pub. L. 113–56][/us/pl/113/56], §§ 2, 3, Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648].)
+([Pub. L. 108–25, title I, § 101][/us/pl/108/25/s101], May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, title I, § 101][/us/pl/110/293/s101], July 30, 2008, [122 Stat. 2923][/us/stat/122/2923]; [Pub. L. 113–56][/us/pl/113/56], §§ 2, 3(a), Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648].)
 
  __References in Text__ 
 

@@ -85,7 +85,7 @@
 
     For the purposes of this section—
 
-        (1) the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “and”. </sup></sup> 
+        (1) the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person;
 
         (2)
 
@@ -99,9 +99,9 @@
 
              any license in effect with respect to the export to or for the armed forces, police, intelligence, or other internal security forces of a foreign country of—
 
-                (i) defense articles or defense services under section 38 of the Armed  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Arms”. </sup></sup>  Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]); or
+                (i) defense articles or defense services under section 38 of the Armed  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Arms”. </sup></sup>  Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]); or
 
-                (ii) items listed under the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations;  <sup>\[4\]</sup>  <sup><sup> 4 So in original. The semicolon probably should be a period. </sup></sup> 
+                (ii) items listed under the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations;  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The semicolon probably should be a period. </sup></sup> 
 
     (e) __Removal of prohibition on assistance__ 
 
@@ -149,7 +149,7 @@
 
         (2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-    (i)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. Two subsecs. (i) have been enacted.__  __ </sup></sup> __  __Report on status of freedom of the press in recipient countries__ 
+    (i)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. Two subsecs. (i) have been enacted.__  __ </sup></sup> __  __Report on status of freedom of the press in recipient countries__ 
 
     The report required by subsection (b) shall include, wherever applicable—
 
@@ -165,7 +165,7 @@
 
             (B) what steps the government of each such country has taken to preserve the safety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
 
-    (i)  __5__  __Child marriage status__ 
+    (i)  __4__  __Child marriage status__ 
 
         (1) __In general__ 
 
@@ -203,7 +203,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–276, § 208(b)(2)(A)][/us/pl/113/276/s208/b/2/A], substituted “Wherever applicable, such report shall include a description” for “Wherever applicable, a description”.
+    2014—Subsec. (b). [Pub. L. 113–276, § 208(b)(2)(A)][/us/pl/113/276/s208/b/2/A], substituted “Wherever applicable, such report shall include a description” for “Wherever applicable, a description” in introductory provisions.
 
     Subsec. (d)(1). [Pub. L. 113–276, § 206(1)][/us/pl/113/276/s206/1], struck out “and” at end.
 

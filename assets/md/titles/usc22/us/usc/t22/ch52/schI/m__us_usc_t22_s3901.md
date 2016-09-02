@@ -65,7 +65,7 @@
 
  __Effective Date__ 
 
-[Section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], as amended by [Pub. L. 99–93, title I, § 119(b)][/us/pl/99/93/s119/b], Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412], provided that:
+[Pub. L. 96–465, title II, § 2403][/us/pl/96/465/s2403], Oct. 17, 1980, [94 Stat. 2169][/us/stat/94/2169], as amended by [Pub. L. 99–93, title I, § 119(b)][/us/pl/99/93/s119/b], Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412], provided that:
 
 >     “(a) Except as otherwise provided, this Act \[see Short Title note set out below\] shall take effect on February 15, 1981.
 
@@ -327,6 +327,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
+[/us/stat/94/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2169
 [/us/pl/99/93/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs119%2Fb
 [/us/stat/99/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F412
 [/us/pl/99/93/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs119%2Fb

@@ -53,7 +53,13 @@
 
             (B) __Requirement to expand benefits and services__ 
 
-                Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under [section 1101(a)(15)(T)(ii) of title 8][/us/usc/t8/s1101/a/15/T/ii], without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
+                (i) __In general__ 
+
+                    Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under [section 1101(a)(15)(T)(ii) of title 8][/us/usc/t8/s1101/a/15/T/ii], without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
+
+                (ii) __National human trafficking hotline__ 
+
+                    Beginning in fiscal year 2017, and in each fiscal year thereafter, of amounts made available for grants under paragraph (2), the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
 
             (C) __Definition of victim of a severe form of trafficking in persons__ 
 
@@ -103,7 +109,11 @@
 
                     In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
-            (F) __Eligibility for interim assistance of children__ 
+            (F) __No requirement of official certification for United States citizens and lawful permanent residents__ 
+
+                Nothing in this section may be construed to require United States citizens or lawful permanent residents who are victims of severe forms of trafficking to obtain an official certification from the Secretary of Health and Human Services in order to access any of the specialized services described in this subsection or any other Federal benefits and protections to which they are otherwise entitled.
+
+            (G) __Eligibility for interim assistance of children__ 
 
                 (i) __Determination__ 
 
@@ -131,15 +141,15 @@
 
                         If the Secretary, after receiving information the Secretary believes, taken as a whole, indicates that the child is eligible for assistance under this paragraph, the Secretary shall issue a letter of eligibility. The Secretary may not require that the child cooperate with law enforcement as a condition for receiving such letter of eligibility.
 
-            (G) __Notification of children for interim assistance__ 
+            (H) __Notification of children for interim assistance__ 
 
-                Not later than 24 hours after a Federal, State, or local official discovers that a person who is under 18 years of age may be a victim of a severe form of trafficking in persons, the official shall notify the Secretary of Health and Human Services to facilitate the provision of interim assistance under subparagraph (F).
+                Not later than 24 hours after a Federal, State, or local official discovers that a person who is under 18 years of age may be a victim of a severe form of trafficking in persons, the official shall notify the Secretary of Health and Human Services to facilitate the provision of interim assistance under subparagraph (G).
 
         (2) __Grants__ 
 
             (A) __In general__ 
 
-                Subject to the availability of appropriations, the Attorney General may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims’ service organizations to develop, expand, or strengthen victim service programs for victims of trafficking.
+                Subject to the availability of appropriations, the Attorney General may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims’ service organizations to develop, expand, or strengthen victim service programs for victims of trafficking, including programs that provide housing to victims of trafficking.
 
             (B) __Allocation of grant funds__ 
 
@@ -213,7 +223,25 @@
 
         (4) __Training of Government personnel__ 
 
-            Appropriate personnel of the Department of State, the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
+            (A) __In general__ 
+
+                Appropriate personnel of the Department of State, including members of the Service (as such term is defined in [section 3903 of this title][/us/usc/t22/s3903]), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
+
+            (B) __Training components__ 
+
+            Training under this paragraph shall include—
+
+                (i) a distance learning course on trafficking-in-persons issues and the Department of State’s obligations under this Act, which shall be designed for embassy reporting officers, regional bureaus’ trafficking-in-persons coordinators, and their superiors;
+
+                (ii) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts; and
+
+                (iii)
+
+                 at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at each diplomatic or consular post of the Department of State located outside the United States of—
+
+                    (I) key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located; and
+
+                    (II) appropriate procedures to report information that any such personnel may acquire about possible cases of trafficking in persons.
 
     (d) __Construction__ 
 
@@ -259,13 +287,15 @@
 
         On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under [section 1101(a)(15)(T) of title 8][/us/usc/t8/s1101/a/15/T], as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-([Pub. L. 106–386, div. A, § 107][/us/pl/106/386/s107], Oct. 28, 2000, [114 Stat. 1474][/us/stat/114/1474]; [Pub. L. 107–228, div. A, title VI, § 682(a)][/us/pl/107/228/s682/a], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 108–193][/us/pl/108/193], §§ 4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, [117 Stat. 2877][/us/stat/117/2877], 2880, 2887; [Pub. L. 109–162, title VIII, § 804][/us/pl/109/162/s804], Jan. 5, 2006, [119 Stat. 3055][/us/stat/119/3055]; [Pub. L. 109–164, title I, § 102(a)][/us/pl/109/164/s102/a], Jan. 10, 2006, [119 Stat. 3560][/us/stat/119/3560]; [Pub. L. 110–457, title I, § 104][/us/pl/110/457/s104], title II, §§ 205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046], 5060, 5063, 5064, 5066; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1203(b), 1234, Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139], 146.)
+([Pub. L. 106–386, div. A, § 107][/us/pl/106/386/s107], Oct. 28, 2000, [114 Stat. 1474][/us/stat/114/1474]; [Pub. L. 107–228, div. A, title VI, § 682(a)][/us/pl/107/228/s682/a], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 108–193][/us/pl/108/193], §§ 4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, [117 Stat. 2877][/us/stat/117/2877], 2880, 2887; [Pub. L. 109–162, title VIII, § 804][/us/pl/109/162/s804], Jan. 5, 2006, [119 Stat. 3055][/us/stat/119/3055]; [Pub. L. 109–164, title I, § 102(a)][/us/pl/109/164/s102/a], Jan. 10, 2006, [119 Stat. 3560][/us/stat/119/3560]; [Pub. L. 110–457, title I, § 104][/us/pl/110/457/s104], title II, §§ 205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046], 5060, 5063, 5064, 5066; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1203(b), 1234, Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139], 146; [Pub. L. 114–22, title I, § 102][/us/pl/114/22/s102], title II, §§ 224, 231, title VI, § 603, May 29, 2015, [129 Stat. 230][/us/stat/129/230], 250, 259.)
 
  __References in Text__ 
 
     [Section 1101(a)(15)(T)(ii) of title 8][/us/usc/t8/s1101/a/15/T/ii], referred to in subsec. (b)(1)(A), (B), was in the original “section 101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], which is classified to [section 1101(a)(15)(T)(ii) of title 8][/us/usc/t8/s1101/a/15/T/ii], to reflect the probable intent of Congress. [Section 101 of Pub. L. 106–386][/us/pl/106/386/s101] does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
 
     The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is [Pub. L. 104–193][/us/pl/104/193], Aug. 22, 1996, [110 Stat. 2105][/us/stat/110/2105]. Title IV of the Act is classified principally to chapter 14 (§ 1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
+
+    This Act, referred to in subsec. (c)(4)(B)(i), is the Victims of Trafficking and Violence Protection Act of 2000, [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1464][/us/stat/114/1464]. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
     For the amendments made by this section, referred to in subsec. (e)(5), see Codification note below.
 
@@ -274,6 +304,14 @@
     Section is comprised of [section 107 of Pub. L. 106–386][/us/pl/106/386/s107]. Subsec. (e)(1)–(4) of [section 107 of Pub. L. 106–386][/us/pl/106/386/s107] amended sections 1101, 1182, and 1184 of Title 8, Aliens and Nationality, and second subsec. (f) of [section 107 of Pub. L. 106–386][/us/pl/106/386/s107] amended [section 1255 of Title 8][/us/usc/t8/s1255].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(B). [Pub. L. 114–22, § 603][/us/pl/114/22/s603], designated existing provisions as cl. (i) and inserted heading and added cl. (ii).
+
+    Subsec. (b)(1)(F) to (H). [Pub. L. 114–22, § 102][/us/pl/114/22/s102], added subpar. (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and, in subpar. (H), substituted “subparagraph (G)” for “subparagraph (F)”.
+
+    Subsec. (b)(2)(A). [Pub. L. 114–22, § 224][/us/pl/114/22/s224], inserted “, including programs that provide housing to victims of trafficking” before period at end.
+
+    Subsec. (c)(4). [Pub. L. 114–22, § 231][/us/pl/114/22/s231], designated existing provisions as subpar. (A) and inserted heading, inserted “, including members of the Service (as such term is defined in [section 3903 of this title][/us/usc/t22/s3903])” after “Department of State”, and added subpar. (B). Amendment was executed to this section, which is section 107 of the Trafficking Victims Protection Act of 2000, to reflect the probable intent of Congress, notwithstanding directory language purporting to amend section 105 of such Act, which is classified to [section 7103 of this title][/us/usc/t22/s7103] and does not contain a subsec. (c)(4).
 
     2013—Subsec. (a)(2). [Pub. L. 113–4, § 1203(b)][/us/pl/113/4/s1203/b], inserted “and shall brief Congress annually on such efforts” before period at end.
 
@@ -411,6 +449,7 @@
 [/us/usc/t18/s1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1595
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
 [/us/usc/t8/s1229b/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b%2Fb%2F6
+[/us/usc/t22/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3903
 [/us/usc/t8/s1229a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229a
 [/us/usc/t8/s1101/a/15/T/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FT%2Fi
 [/us/usc/t8/s1101/a/15/T/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FT%2Fi
@@ -430,16 +469,27 @@
 [/us/stat/122/5046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5046
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F139
+[/us/pl/114/22/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs102
+[/us/stat/129/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F230
 [/us/usc/t8/s1101/a/15/T/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FT%2Fii
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/usc/t8/s1101/a/15/T/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FT%2Fii
 [/us/pl/106/386/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs101
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2105
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/stat/114/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1464
+[/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
 [/us/pl/106/386/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs107
 [/us/pl/106/386/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs107
 [/us/pl/106/386/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs107
 [/us/usc/t8/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255
+[/us/pl/114/22/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs603
+[/us/pl/114/22/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs102
+[/us/pl/114/22/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs224
+[/us/pl/114/22/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs231
+[/us/usc/t22/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3903
+[/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103
 [/us/pl/113/4/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1203%2Fb
 [/us/pl/113/4/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1234
 [/us/pl/110/457/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs104%2F1%2FA

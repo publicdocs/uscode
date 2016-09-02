@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(4). [Pub. L. 113–154][/us/pl/113/154] inserted “desecration of cemeteries,” after “confiscations of property,” in fourth sentence.
+    2014—Subsec. (a)(4). [Pub. L. 113–154][/us/pl/113/154] inserted “desecration of cemeteries,” after “confiscations of property,”.
 
  __Short Title of 2011 Amendment__ 
 

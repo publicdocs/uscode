@@ -81,7 +81,7 @@
 
  __Amendments__ 
 
-    2014—Par. (2)(D)–(F). [Pub. L. 113–79][/us/pl/113/79] redesignated subpars. (E) and (F) as (D) and (E), respectively,, and struck out former subpar. (D) which read as follows: “the dairy export incentive program administered under [section 713a–14 of title 15][/us/usc/t15/s713a–14];”.
+    2014—Par. (2)(D)–(F). [Pub. L. 113–79][/us/pl/113/79] redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “the dairy export incentive program administered under [section 713a–14 of title 15][/us/usc/t15/s713a–14];”.
 
     2008—Par. (2)(A). [Pub. L. 110–246][/us/pl/110/246] substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 

@@ -49,7 +49,7 @@
 
     Section was enacted as part of the Department of Defense Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
- __Definitions__ 
+ __“Congressional Defense Committees” Defined__ 
 
     For definition of “congressional defense committees”, see section 8026 of div. C of Pub. Law 113–325, set out as a note under [section 2731 of Title 10][/us/usc/t10/s2731], Armed Forces.
 

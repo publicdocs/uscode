@@ -123,7 +123,7 @@
 
     Subsec. (h). [Pub. L. 97–113, § 604(b)][/us/pl/97/113/s604/b], struck out provision making [section 2702 of this title][/us/usc/t22/s2702], relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in [section 2702(f) of this title][/us/usc/t22/s2702/f], and deeming a Peace Corps representative to be a principal representative of the United States for purposes of [section 2702(g) of this title][/us/usc/t22/s2702/g]. See section 2509(i) and (j) of this title.
 
-    1980—Subsec. (f)(1)(A). [Pub. L. 96–465, § 2202][/us/pl/96/465/s2202]- (a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended ([22 U.S.C. 1092(a)(1)][/us/usc/t22/s1092/a/1]),”.
+    1980—Subsec. (f)(1)(A). [Pub. L. 96–465, § 2202(a)(1)(A)][/us/pl/96/465/s2202/a/1/A], substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended ([22 U.S.C. 1092(a)(1)][/us/usc/t22/s1092/a/1]),”.
 
     Subsec. (f)(1)(B). [Pub. L. 96–465, § 2202(a)(1)(B)][/us/pl/96/465/s2202/a/1/B], substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 
@@ -332,7 +332,7 @@ Sec. 3. Certificates of satisfactory service for the purposes of this order shal
 [/us/usc/t22/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2702
 [/us/usc/t22/s2702/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2702%2Ff
 [/us/usc/t22/s2702/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2702%2Fg
-[/us/pl/96/465/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2202
+[/us/pl/96/465/s2202/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2202%2Fa%2F1%2FA
 [/us/usc/t22/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1092%2Fa%2F1
 [/us/pl/96/465/s2202/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2202%2Fa%2F1%2FB
 [/us/pl/96/465/s2202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2202%2Fa%2F2

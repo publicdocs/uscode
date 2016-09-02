@@ -95,13 +95,13 @@
 
                 (iii) prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998);
 
-            (O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and
+            (O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “and” probably should not appear. </sup></sup> 
 
             (P) the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
 
             (Q)
 
-             the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1592, and 1594 of title 18, or equivalent State offenses, including, in each fiscal year—
+             the activities undertaken by Federal agencies in cooperation with State, tribal, and local law enforcement officials to identify, investigate, and prosecute offenses under sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423 of title 18, or equivalent State offenses, including, in each fiscal year—
 
                 (i) the number, age, gender, country of origin, and citizenship status of victims identified for each offense;
 
@@ -109,9 +109,13 @@
 
                 (iii) the number of individuals referred for prosecution for State offenses, including offenses relating to the purchasing of commercial sex acts;
 
-                (iv) the number of victims granted continued presence in the United States under [section 7105(c)(3) of this title][/us/usc/t22/s7105/c/3]; and
+                (iv) the number of victims granted continued presence in the United States under [section 7105(c)(3) of this title][/us/usc/t22/s7105/c/3];
 
-                (v) the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15]; and
+                (v) the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15];
+
+                (vi) the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order; and
+
+                (vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
 
             (R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and [section 14044a(a) of title 42][/us/usc/t42/s14044a/a], and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
 
@@ -165,7 +169,7 @@
 
             Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-([Pub. L. 106–386, div. A, § 105][/us/pl/106/386/s105], Oct. 28, 2000, [114 Stat. 1473][/us/stat/114/1473]; [Pub. L. 108–193, § 6(a)(1)][/us/pl/108/193/s6/a/1], (b)(1), (c)(1), Dec. 19, 2003, [117 Stat. 2880][/us/stat/117/2880], 2881; [Pub. L. 109–164, title I, § 104(a)][/us/pl/109/164/s104/a], title II, § 205, Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564], 3571; [Pub. L. 110–457, title I][/us/pl/110/457], §§ 101, 102, title II, § 231, title III, § 304(a), Dec. 23, 2008, [122 Stat. 5045][/us/stat/122/5045], 5072, 5087; [Pub. L. 112–239, div. A, title XVII, § 1707][/us/pl/112/239/s1707], Jan. 2, 2013, [126 Stat. 2098][/us/stat/126/2098]; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1201, 1203(a), 1231, Mar. 7, 2013, [127 Stat. 136][/us/stat/127/136], 138, 144.)
+([Pub. L. 106–386, div. A, § 105][/us/pl/106/386/s105], Oct. 28, 2000, [114 Stat. 1473][/us/stat/114/1473]; [Pub. L. 108–193, § 6(a)(1)][/us/pl/108/193/s6/a/1], (b)(1), (c)(1), Dec. 19, 2003, [117 Stat. 2880][/us/stat/117/2880], 2881; [Pub. L. 109–164, title I, § 104(a)][/us/pl/109/164/s104/a], title II, § 205, Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564], 3571; [Pub. L. 110–457, title I][/us/pl/110/457], §§ 101, 102, title II, § 231, title III, § 304(a), Dec. 23, 2008, [122 Stat. 5045][/us/stat/122/5045], 5072, 5087; [Pub. L. 112–239, div. A, title XVII, § 1707][/us/pl/112/239/s1707], Jan. 2, 2013, [126 Stat. 2098][/us/stat/126/2098]; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1201, 1203(a), 1231, Mar. 7, 2013, [127 Stat. 136][/us/stat/127/136], 138, 144; [Pub. L. 114–22, title VI, § 602][/us/pl/114/22/s602], May 29, 2015, [129 Stat. 259][/us/stat/129/259].)
 
  __References in Text__ 
 
@@ -180,6 +184,8 @@
     Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(7)(Q). [Pub. L. 114–22][/us/pl/114/22] substituted “1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423” for “1590, 1592, and 1594” in introductory provisions and added cls. (vi) and (vii).
 
     2013—Subsec. (d)(6). [Pub. L. 113–4, § 1203(a)][/us/pl/113/4/s1203/a], inserted “, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States” before period at end.
 
@@ -361,6 +367,8 @@ Sec. 7. Guidance for Exercising Authority and Performing Duties. In exercising a
 [/us/stat/126/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2098
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F136
+[/us/pl/114/22/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs602
+[/us/stat/129/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F259
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
@@ -369,6 +377,7 @@ Sec. 7. Guidance for Exercising Authority and Performing Duties. In exercising a
 [/us/pl/110/457/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs213%2Fa%2F1
 [/us/stat/122/5064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5064
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/113/4/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1203%2Fa
 [/us/pl/113/4/s1231/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1231%2F2
 [/us/usc/t22/s7105/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7105%2Fc%2F3
