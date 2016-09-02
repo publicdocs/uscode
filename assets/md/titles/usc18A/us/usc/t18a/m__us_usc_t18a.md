@@ -15,7 +15,7 @@
 
 # Title 18—APPENDIXUNLAWFUL POSSESSION OR RECEIPT OF FIREARMS
 
-Current through 113–75!66
+Current through 113-185
 
 <table>
 
@@ -23,7 +23,7 @@ Current through 113–75!66
 
     <td> Item  </td>
 
-    <td> Page  </td>
+    <td>   </td>
 
   </tr>
 
@@ -31,7 +31,7 @@ Current through 113–75!66
 
     <td> Unlawful Possession or Receipt of Firearms (Repealed)  </td>
 
-    <td> 809  </td>
+    <td>   </td>
 
   </tr>
 
@@ -39,7 +39,7 @@ Current through 113–75!66
 
     <td> Interstate Agreement on Detainers (<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F91%2F538" data-uslm-ref="/us/pl/91/538">Pub. L. 91–538</a>)  </td>
 
-    <td> 810  </td>
+    <td>   </td>
 
   </tr>
 
