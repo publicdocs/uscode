@@ -15,7 +15,7 @@
 
 ## § 2221. Cost limitations on projects
 
-    Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005, pursuant to [section 560 of this title][/us/usc/t33/s560]; [section 561 of this title][/us/usc/t33/s561]; the Civil Functions Appropriations Act, 1936, [Public Law 75–208][/us/pl/75/208]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ; [section 1962d–5a of title 42][/us/usc/t42/s1962d–5a]; sections 2214, 2231, and 2232 of this title; [section 426i–1 of this title][/us/usc/t33/s426i–1]; [section 701b–13 of this title][/us/usc/t33/s701b–13]; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
+    Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005, pursuant to [section 560 of this title][/us/usc/t33/s560]; [section 561 of this title][/us/usc/t33/s561]; the Civil Functions Appropriations Act, 1936, [Public Law 75–208][/us/pl/75/208]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ; [section 1962d–5a of title 42][/us/usc/t42/s1962d–5a]; sections 2214, 2231, and 2232 of this title; section 426i–1  <sup>\[1\]</sup>  of this title; section 701b–13  <sup>\[1\]</sup>  of this title; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
 
 ([Pub. L. 109–103, title I, § 102][/us/pl/109/103/s102], Nov. 19, 2005, [119 Stat. 2253][/us/stat/119/2253].)
 
@@ -56,8 +56,6 @@ Provisions similar to those in this section were contained in the following prio
 [/us/usc/t33/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs561
 [/us/pl/75/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F75%2F208
 [/us/usc/t42/s1962d–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935a
-[/us/usc/t33/s426i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs426i%E2%80%931
-[/us/usc/t33/s701b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs701b%E2%80%9313
 [/us/pl/109/103/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs102
 [/us/stat/119/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2253
 [/us/pl/75/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F75%2F208

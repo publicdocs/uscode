@@ -21,7 +21,7 @@
 
     (b) __Implementation plan__ 
 
-    Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under [section 4001 of this title][/us/usc/t33/s4001]. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
+    Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
 
         (1) establish, for the 10-year period beginning in the year it is submitted, the goals and priorities for Federal research which most effectively advance scientific understanding of the connections between the oceans and human health, provide usable information for the prediction of marine-related public health problems and use the biological potential of the oceans for development of new treatments of human diseases and a greater understanding of human biology;
 
@@ -93,6 +93,14 @@
 
 ([Pub. L. 108–447, div. B, title IX, § 902][/us/pl/108/447/s902], Dec. 8, 2004, [118 Stat. 2930][/us/stat/118/2930].)
 
+ __References in Text__ 
+
+    [Section 4001 of this title][/us/usc/t33/s4001], referred to in subsec. (b), was in the original “section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 ([16 U.S.C. 1451][/us/usc/t16/s1451] note)”, meaning [section 603 of Pub. L. 105–383][/us/pl/105/383/s603], which was set out in a note under [section 1451 of Title 16][/us/usc/t16/s1451], Conservation, prior to transfer to [section 4001 of this title][/us/usc/t33/s4001].
+
+ __Codification__ 
+
+    Subsec. (b) is set out in this supplement to update a reference appearing in the main edition.
+
  __Short Title__ 
 
 [Pub. L. 108–447, div. B, title IX, § 901][/us/pl/108/447/s901], Dec. 8, 2004, [118 Stat. 2930][/us/stat/118/2930], provided that: 
@@ -106,10 +114,14 @@
 ----------
 ----------
 
-[/us/usc/t33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001
 [/us/usc/t10/s7902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7902%2Fa
 [/us/pl/108/447/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs902
 [/us/stat/118/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2930
+[/us/usc/t33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001
+[/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
+[/us/pl/105/383/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs603
+[/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
+[/us/usc/t33/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs4001
 [/us/pl/108/447/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs901
 [/us/stat/118/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2930
 

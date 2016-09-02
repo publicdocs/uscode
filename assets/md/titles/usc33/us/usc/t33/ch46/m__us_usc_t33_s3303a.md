@@ -151,7 +151,7 @@
 
                 (ii) consider any comments received in the development of final guidelines.
 
-        (2) __Assistance to states__ 
+        (2) __Assistance to States__ 
 
             (A) __Establishment__ 
 
@@ -375,7 +375,7 @@
 
 >     “(d)  __Report to Congress__  __.—__ 
 
->     Not later than 5 years after the date of enactment of this Act , the Secretary shall include in the annual report developed under section 7001 \[[33 U.S.C. 2282d][/us/usc/t33/s2282d]\]—
+>     Not later than 5 years after the date of enactment of this Act, the Secretary shall include in the annual report developed under section 7001 \[[33 U.S.C. 2282d][/us/usc/t33/s2282d]\]—
 
 >         “(1) any recommendations relating to the continued need for the authority provided under this section;
 

@@ -293,7 +293,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c) to (f). [Pub. L. 113–121][/us/pl/113/121] added subsecs. (c) to (f).
+    2014—Subsecs. (c) to (f). [Pub. L. 113–121][/us/pl/113/121] added subsecs. (c) to (f).
 
     1990—Subsec. (a)(2). [Pub. L. 101–640][/us/pl/101/640] substituted “up to 100 percent” for “not more than 40 percent”.
 

@@ -31,9 +31,9 @@
 
         Any proposed modification to an authorized water resources development project or feasibility study that meets the criteria established in subsection (c)(1)(A) that—
 
-            (A) __is submitted to the Secretary by a non-Federal interest pursuant to subsection (b); or__ 
+            (A) is submitted to the Secretary by a non-Federal interest pursuant to subsection (b); or
 
-            (B) __is identified by the Secretary for authorization.__ 
+            (B) is identified by the Secretary for authorization.
 
     (b) __Requests for proposals__ 
 

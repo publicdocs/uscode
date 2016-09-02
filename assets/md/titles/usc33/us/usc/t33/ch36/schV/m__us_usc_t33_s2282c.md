@@ -73,7 +73,7 @@
 
         (1) take all steps necessary to initiate the process for completing federally mandated reviews that the Secretary is required to complete as part of the study, including the environmental review process under section 1005;
 
-        (2) convene a meeting of all Federal, tribal, and State agencies identified under section 2348(e)of this title that may be required by law to conduct or issue a review, analysis, or opinion on or to make a determination concerning a permit or license for the study; and
+        (2) convene a meeting of all Federal, tribal, and State agencies identified under [section 2348(e) of this title][/us/usc/t33/s2348/e] that may be required by law to conduct or issue a review, analysis, or opinion on or to make a determination concerning a permit or license for the study; and
 
         (3) take all steps necessary to provide information that will enable required reviews and analyses related to the project to be conducted by other agencies in a thorough and timely manner.
 
@@ -101,7 +101,7 @@
 
  __References in Text__ 
 
-    Section 1005, referred to in subsec. (e)(1), is [section 1005 of Pub. L. 113–121][/us/pl/113/121/s1005], which generally amended [section 2348 of this title][/us/usc/t33/s2348] and enacted [section 2349 of this title][/us/usc/t33/s2349].
+    Section 1005, referred to in subsec. (e)(1), is [section 1005 of Pub. L. 113–121][/us/pl/113/121/s1005], which enacted [section 2349 of this title][/us/usc/t33/s2349] and amended generally [section 2348 of this title][/us/usc/t33/s2348].
 
  __Codification__ 
 
@@ -119,11 +119,12 @@
 ----------
 
 [/us/usc/t33/s2282/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282%2Fa
+[/us/usc/t33/s2348/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348%2Fe
 [/us/pl/113/121/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1001
 [/us/stat/128/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1196
 [/us/pl/113/121/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1005
-[/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
 [/us/usc/t33/s2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2349
+[/us/usc/t33/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2348
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

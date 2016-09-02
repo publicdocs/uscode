@@ -163,6 +163,10 @@
 
 ([Pub. L. 113–121, title VI, § 6001][/us/pl/113/121/s6001], June 10, 2014, [128 Stat. 1345][/us/stat/128/1345].)
 
+ __References in Text__ 
+
+    Subsection (b), referred to in subsec. (c)(4), is subsection (b) of [section 6001 of Pub. L. 113–121][/us/pl/113/121/s6001].
+
  __Codification__ 
 
     Section is comprised of [section 6001 of Pub. L. 113–121][/us/pl/113/121/s6001]. Subsec. (b) of [section 6001 of Pub. L. 113–121][/us/pl/113/121/s6001] amended [section 579a of this title][/us/usc/t33/s579a].
@@ -185,6 +189,7 @@
 [/us/usc/t33/s549a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs549a
 [/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001
 [/us/stat/128/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1345
+[/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001
 [/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001
 [/us/pl/113/121/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6001
 [/us/usc/t33/s579a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs579a

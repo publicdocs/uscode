@@ -297,7 +297,7 @@
 
     1992—Subsec. (c). [Pub. L. 102–580][/us/pl/102/580] inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
 
- __Application__ 
+ __Applicability__ 
 
 [Pub. L. 113–121, title I, § 1040(b)][/us/pl/113/121/s1040/b], June 10, 2014, [128 Stat. 1243][/us/stat/128/1243], provided that: 
 

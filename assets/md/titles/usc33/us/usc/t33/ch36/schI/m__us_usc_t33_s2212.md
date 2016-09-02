@@ -65,7 +65,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c), (d). [Pub. L. 113–121][/us/pl/113/121] added subsec. (c) and redesignated former subsec. (c) as (d).
+    2014—Subsecs. (c), (d). [Pub. L. 113–121][/us/pl/113/121] added subsec. (c) and redesignated former subsec. (c) as (d).
 
  __Acceptance of Contributed Funds To Increase Lock Operations__ 
 

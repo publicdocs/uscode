@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (a), is [Pub. L. 99–662][/us/pl/99/662], Nov. 17, 1986, [100 Stat. 4082][/us/stat/100/4082], as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title][/us/usc/t33/s2201] and Tables.
+    This Act, referred to in subsec. (a), is [Pub. L. 99–662][/us/pl/99/662], Nov. 17, 1986, [100 Stat. 4082][/us/stat/100/4082], known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title][/us/usc/t33/s2201] and Tables.
 
     The date of enactment of this Act, referred to in subsec. (a), is the date of enactment of [Pub. L. 99–662][/us/pl/99/662], which was approved Nov. 17, 1986.
 

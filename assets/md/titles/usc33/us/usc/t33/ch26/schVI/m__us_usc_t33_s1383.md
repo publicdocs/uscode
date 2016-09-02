@@ -171,7 +171,7 @@
 
                 (ii) those criteria shall be treated as affordability criteria established under this paragraph.
 
-            (C) __Information to assist states__ 
+            (C) __Information to assist States__ 
 
                 The Administrator may publish information to assist States in establishing affordability criteria under subparagraph (A).
 

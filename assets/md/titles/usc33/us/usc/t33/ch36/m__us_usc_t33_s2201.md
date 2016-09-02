@@ -127,7 +127,7 @@
 
 >         “(1) a major modification has been made to the content of the report that requires additional analysis for the Secretary to make a final decision on the report;
 
->         “(2) amounts have not been appropriated to the agency under this Act \[see Tables for classification\] or any other Act to carry out the report; or
+>         “(2) amounts have not been appropriated to the agency under this Act or any other Act to carry out the report; or
 
 >         “(3) additional information is required from an entity other than the Corps of Engineers and is not available in a timely manner to complete the report by the deadline.
 
@@ -221,7 +221,7 @@
 
 >         “(4)  __Cost share__  __.—__ 
 
->         Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act \[June 10, 2014\] to a feasibility study carried out under this subsection.
+>         Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a feasibility study carried out under this subsection.
 
 >         “(5) __Report.—__ 
 
@@ -247,7 +247,7 @@
 
 >         “(7)  __Termination of authority__  __.—__ 
 
->         The authority to commence a feasibility study under this subsection terminates on the date that is 5 years after the date of enactment of this Act \[June 10, 2014\].
+>         The authority to commence a feasibility study under this subsection terminates on the date that is 5 years after the date of enactment of this Act.
 
 >         “(8)  __Authorization of appropriations__  __.—__ 
 
@@ -257,7 +257,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than 180 days after the date of enactment of this Act \[June 10, 2014\], the Secretary \[of the Army\] shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out flood risk management, hurricane and storm damage reduction, coastal harbor and channel inland navigation, and aquatic ecosystem restoration projects.
+>         Not later than 180 days after the date of enactment of this Act, the Secretary shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out flood risk management, hurricane and storm damage reduction, coastal harbor and channel inland navigation, and aquatic ecosystem restoration projects.
 
 >         “(2)  __Purposes__  __.—__ 
 
@@ -323,7 +323,7 @@
 
 >         “(4)  __Cost share__  __.—__ 
 
->         Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act \[June 10, 2014\] to a project carried out under this subsection.
+>         Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a project carried out under this subsection.
 
 >         “(5) __Report.—__ 
 
@@ -349,7 +349,7 @@
 
 >         “(7)  __Termination of authority__  __.—__ 
 
->         The authority to commence a project under this subsection terminates on the date that is 5 years after the date of enactment of this Act \[June 10, 2014\].
+>         The authority to commence a project under this subsection terminates on the date that is 5 years after the date of enactment of this Act.
 
 >         “(8)  __Authorization of appropriations__  __.—__ 
 

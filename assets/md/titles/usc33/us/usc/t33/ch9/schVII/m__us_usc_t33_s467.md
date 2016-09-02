@@ -113,7 +113,7 @@
 
     2014—[Pub. L. 113–121, § 3001(a)(1)][/us/pl/113/121/s3001/a/1], substituted “Administrator” for “Director” wherever appearing.
 
-    Par. (1). [Pub. L. 113–121, § 3001(a)(2)(B)][/us/pl/113/121/s3001/a/2/B], (C), added par. (1) and redesignated former par. (1) as (2).
+    Par. (1). [Pub. L. 113–121, § 3001(a)(2)(C)][/us/pl/113/121/s3001/a/2/C], added par. (1). Former par. (1) redesignated (2).
 
     Par. (2). [Pub. L. 113–121, § 3001(a)(2)(B)][/us/pl/113/121/s3001/a/2/B], redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
@@ -192,7 +192,7 @@
 [/us/pl/104/303/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs215%2Fc%2F3
 [/us/usc/t33/s467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs467a
 [/us/pl/113/121/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F1
-[/us/pl/113/121/s3001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FB
+[/us/pl/113/121/s3001/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FC
 [/us/pl/113/121/s3001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FB
 [/us/pl/113/121/s3001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs3001%2Fa%2F2%2FA
 [/us/pl/107/310/s3/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F310%2Fs3%2Fe%2F2%2FA

@@ -23,7 +23,7 @@
 
     The committee shall be composed of 16 members as follows:
 
-        (1) __Nonvoting members__ 
+        (1)  __Nonvoting members__  __.—__ 
 
         The following 2 nonvoting members:
 

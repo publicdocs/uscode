@@ -33,9 +33,9 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
-
     “Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Compilation and Printing of Laws__ 
 
@@ -63,12 +63,12 @@
 [/us/act/1912-07-25/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-25%2Fch253
 [/us/stat/37/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F231
 [/us/usc/t33/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs545
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
-[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/act/1920-06-05/ch252/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch252%2Fs6
 [/us/stat/41/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1014
 [/us/act/1925-03-03/ch467/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch467%2Fs4

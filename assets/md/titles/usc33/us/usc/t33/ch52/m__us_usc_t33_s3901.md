@@ -115,7 +115,7 @@
 
 [Pub. L. 113–121, title V, § 5021][/us/pl/113/121/s5021], June 10, 2014, [128 Stat. 1332][/us/stat/128/1332], provided that: 
 
-> “This subtitle \[enacting this chapter\] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
+> “This subtitle \[subtitle C (§§ 5021–5035) of title V of [Pub. L. 113–121][/us/pl/113/121], enacting this chapter\] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
 
  __“Secretary” Defined__ 
 
@@ -153,6 +153,7 @@
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/113/121/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5021
 [/us/stat/128/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1332
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

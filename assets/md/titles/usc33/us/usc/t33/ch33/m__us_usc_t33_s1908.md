@@ -47,7 +47,7 @@
 
     (g) __Deposits in Abandoned Seafarers Fund__ 
 
-        Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46][/us/usc/t46/s11113], United States Code.
+        Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46][/us/usc/t46/s11113].
 
 ([Pub. L. 96–478, § 9][/us/pl/96/478/s9], Oct. 21, 1980, [94 Stat. 2301][/us/stat/94/2301]; [Pub. L. 100–220, title II, § 2105][/us/pl/100/220/s2105], Dec. 29, 1987, [101 Stat. 1463][/us/stat/101/1463]; [Pub. L. 101–380, title IV, § 4302(n)][/us/pl/101/380/s4302/n], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 103–182, title VI, § 688][/us/pl/103/182/s688], Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222]; [Pub. L. 104–227, title II, § 201(f)][/us/pl/104/227/s201/f], Oct. 2, 1996, [110 Stat. 3043][/us/stat/110/3043]; [Pub. L. 110–280, § 10][/us/pl/110/280/s10], July 21, 2008, [122 Stat. 2615][/us/stat/122/2615]; [Pub. L. 113–281, title III, § 320(c)][/us/pl/113/281/s320/c], Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054].)
 

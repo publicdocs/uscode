@@ -129,6 +129,14 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs408a" data-uslm-ref="/us/usc/t33/s408a">408a.</a>  </td>
+
+    <td> Expediting approval of modifications and alterations of projects by non-Federal interests.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs409" data-uslm-ref="/us/usc/t33/s409">409.</a>  </td>
 
     <td> Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels.  </td>

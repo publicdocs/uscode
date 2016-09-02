@@ -91,7 +91,7 @@
 
             The Users Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
 
-        (2) __Members not considered special government employees__ 
+        (2) __Members not considered special Government employees__ 
 
             For the purposes of complying with the Federal Advisory Committee Act (5 U.S.C. App.), the members of the Users Board shall not be considered special Government employees (as defined in [section 202 of title 18][/us/usc/t18/s202]).
 

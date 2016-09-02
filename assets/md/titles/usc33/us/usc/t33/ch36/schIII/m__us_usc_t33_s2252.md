@@ -15,7 +15,7 @@
 
 ## § 2252. Project delivery process reforms
 
-    (a) __Requirements for Qualifying Projects__ 
+    (a) __Requirements for qualifying projects__ 
 
     With respect to each qualifying project, the Secretary shall require—
 
@@ -80,8 +80,6 @@
             (B) an appropriate use of continuing contracts for the construction of features and components; and
 
             (C) applicable principles, procedures, and processes used for military construction projects.
-
-    (d) __Omitted__ 
 
 ([Pub. L. 113–121, title II, § 2002][/us/pl/113/121/s2002], June 10, 2014, [128 Stat. 1261][/us/stat/128/1261].)
 

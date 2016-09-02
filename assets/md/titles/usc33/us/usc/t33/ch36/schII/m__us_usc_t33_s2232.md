@@ -47,7 +47,7 @@
 
         When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.
 
-    (d) __Credit or reimbursement.—__ 
+    (d) __Credit or reimbursement__ 
 
         (1) __General rule__ 
 
@@ -117,10 +117,6 @@
 
 ([Pub. L. 99–662, title II, § 204][/us/pl/99/662/s204], Nov. 17, 1986, [100 Stat. 4099][/us/stat/100/4099]; [Pub. L. 101–640, title III, § 303][/us/pl/101/640/s303], Nov. 28, 1990, [104 Stat. 4634][/us/stat/104/4634]; [Pub. L. 113–121, title I, § 1014(b)(1)][/us/pl/113/121/s1014/b/1], June 10, 2014, [128 Stat. 1220][/us/stat/128/1220].)
 
- __References in Text__ 
-
-    This subchapter, referred to in subsec. (f)(1)(A), was in the original “this title” which, in addition to this subchapter, consisted of sections 201, 202, and 213 of [Pub. L. 99–662][/us/pl/99/662], which are not classified to the Code.
-
  __Amendments__ 
 
     2014—[Pub. L. 113–121][/us/pl/113/121] amended section generally. Prior to amendment, section related to construction of projects by non-Federal interests.
@@ -176,7 +172,6 @@
 [/us/stat/104/4634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4634
 [/us/pl/113/121/s1014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1014%2Fb%2F1
 [/us/stat/128/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1220
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/101/640/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs303%2Fa
 [/us/usc/t33/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs577

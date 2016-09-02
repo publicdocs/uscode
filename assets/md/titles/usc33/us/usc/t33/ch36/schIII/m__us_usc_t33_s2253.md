@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    The congressional committees referred to in subsection (a), referred to in text, means the congressional committees referred to in subsection (a) of [section 2007 of Public Law 113–121][/us/pl/113/121/s2007], the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+    The congressional committees referred to in subsection (a), referred to in text, mean the congressional committees referred to in subsec. (a) of [section 2007 of Pub. L. 113–121][/us/pl/113/121/s2007], which are the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
  __Codification__ 
 

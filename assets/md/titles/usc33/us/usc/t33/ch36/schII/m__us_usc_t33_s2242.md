@@ -77,7 +77,7 @@
 
     Subsec. (a)(2). [Pub. L. 113–121, § 2104(1)(B)][/us/pl/113/121/s2104/1/B], substituted “region” for “community” and inserted “, as determined by the Secretary, including consideration of information provided by the non-Federal interest” after “improvement”.
 
-    Subsec. (c) to (e). [Pub. L. 113–121, § 2104(2)][/us/pl/113/121/s2104/2], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 113–121, § 2104(2)][/us/pl/113/121/s2104/2], added subsecs. (c) to (e).
 
  __“Secretary” Defined__ 
 

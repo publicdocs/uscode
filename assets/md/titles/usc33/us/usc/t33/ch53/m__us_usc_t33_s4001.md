@@ -203,13 +203,9 @@
 
     [Pub. L. 113–124, § 3(1)][/us/pl/113/124/s3/1], substituted “a representative from” for “the following representatives from” in introductory provisions.
 
-    Subsec. (a)(11). [Pub. L. 113–124, § 3(2)][/us/pl/113/124/s3/2], struck out “and” at end.
+    Subsec. (a)(12). [Pub. L. 113–124, § 3(2)][/us/pl/113/124/s3/2], (4), added par. (12). Former par. (12) redesignated (13).
 
-    Subsec. (a)(12). [Pub. L. 113–124, § 3(4)][/us/pl/113/124/s3/4], added par. (12). Former par. (12) redesignated (13).
-
-    Subsec. (a)(13). [Pub. L. 113–124, § 3(5)][/us/pl/113/124/s3/5], struck out “such” before “other”.
-
-    [Pub. L. 113–124, § 3(3)][/us/pl/113/124/s3/3], redesignated par. (12) as (13).
+    Subsec. (a)(13). [Pub. L. 113–124, § 3(3)][/us/pl/113/124/s3/3], (5), redesignated par. (12) as (13) and struck out “such” before “other”.
 
     Subsec. (j). [Pub. L. 113–124, § 6][/us/pl/113/124/s6], added subsec. (j).
 
@@ -289,8 +285,6 @@
 [/us/pl/113/124/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs10%2Fb
 [/us/pl/113/124/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F1
 [/us/pl/113/124/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F2
-[/us/pl/113/124/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F4
-[/us/pl/113/124/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F5
 [/us/pl/113/124/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs3%2F3
 [/us/pl/113/124/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F124%2Fs6
 [/us/pl/108/456/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F456%2Fs103

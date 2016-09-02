@@ -45,7 +45,7 @@
 
         The term “Task Force” means the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia under [section 4001(a) of this title][/us/usc/t33/s4001/a].
 
-    (8) __Under secretary__ 
+    (8) __Under Secretary__ 
 
         The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 

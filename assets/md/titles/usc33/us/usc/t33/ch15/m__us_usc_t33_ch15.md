@@ -291,7 +291,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft33%2Fs701h" data-uslm-ref="/us/usc/t33/s701h">701h.</a>  </td>
 
-    <td> Contributions by States and political subdivisions.  </td>
+    <td> Contributions by States, political subdivisions, and other non-Federal interests.  </td>
 
   </tr>
 

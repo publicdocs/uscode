@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–121][/us/pl/113/121] substituted “Administrator” for “Director” in introductory provisions of subsecs. (a) and (b).
+    2014—[Pub. L. 113–121][/us/pl/113/121] substituted “Administrator” for “Director” in introductory provisions of subsec. (a) and in subsec. (b).
 
     2002—Subsec. (a). [Pub. L. 107–310, § 4(1)][/us/pl/107/310/s4/1], in introductory provisions, substituted “in cooperation with the Board” for “in cooperation with ICODS” and inserted “and support” after “develop”.
 

@@ -337,7 +337,7 @@
 
             (A) __Draft environmental impact statements__ 
 
-            For comments by Federal and States agencies and the public on a draft environmental impact statement, a period of not more than 60 days after publication in the Federal Register of notice of the date of public availability of the draft environmental impact statement, unless—
+            For comments by Federal and States  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “State”. </sup></sup>  agencies and the public on a draft environmental impact statement, a period of not more than 60 days after publication in the Federal Register of notice of the date of public availability of the draft environmental impact statement, unless—
 
                 (i) a different deadline is established by agreement of the Federal lead agency, the project sponsor or joint lead agency, as applicable, and all participating and cooperating agencies; or
 
@@ -483,9 +483,9 @@
 
             (F) __Effect of paragraph__ 
 
-            Nothing in this paragraph affects or limits the application of, or obligation to comply with, any Federal, State, local, or tribal law.
+                Nothing in this paragraph affects or limits the application of, or obligation to comply with, any Federal, State, local, or tribal law.
 
-                (i) __Memorandum of agreements for early coordination__ 
+    (i) __Memorandum of agreements for early coordination__ 
 
         (1) __Sense of Congress__ 
 
