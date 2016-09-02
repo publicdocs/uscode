@@ -109,6 +109,10 @@
 
     A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to [section 680 of this title][/us/usc/t21/s680].
 
+Use of Appropriated Funds
+
+    For prohibition of use of funds appropriated by div. A of [Pub. L. 113–235][/us/pl/113/235] or any other Act to carry out this section see section 741 [Pub. L. 113–235][/us/pl/113/235], set out as a note under [section 471 of this title][/us/usc/t21/s471].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t21/ch12/schIV/m__us_usc_t21_s679.md) | [Next](./../../../../..//us/usc/t21/ch12/schIV/m__us_usc_t21_s679b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs679a)
@@ -131,5 +135,8 @@
 [/us/stat/71/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F441
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451
 [/us/usc/t21/s680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs680
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/usc/t21/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs471
 
 
