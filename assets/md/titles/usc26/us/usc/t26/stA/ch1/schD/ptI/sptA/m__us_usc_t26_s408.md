@@ -1611,7 +1611,7 @@
 
  __Rollover of Amounts Received in Airline Carrier Bankruptcy__ 
 
-[Pub. L. 112–95, title XI, § 1106][/us/pl/112/95/s1106], Feb. 14, 2012, [126 Stat. 152][/us/stat/126/152], provided that:
+[Pub. L. 112–95, title XI, § 1106][/us/pl/112/95/s1106], Feb. 14, 2012, [126 Stat. 152][/us/stat/126/152], as amended by [Pub. L. 113–243, § 1][/us/pl/113/243/s1], Dec. 18, 2014, [128 Stat. 2863][/us/stat/128/2863], provided that:
 
 >     “(a) __General Rules.—__ 
 
@@ -1625,7 +1625,7 @@
 
 >         “(3)  __Extension of time to file claim for refund__  __.—__ 
 
->         A qualified airline employee who excludes an amount from gross income in a prior taxable year under paragraph (1) or (2) may reflect such exclusion in a claim for refund filed within the period of limitation under section 6511(a) of such Code (or, if later, April 15, 2013).
+>         A qualified airline employee who excludes an amount from gross income in a prior taxable year under paragraph (1) or (2) may reflect such exclusion in a claim for refund filed within the period of limitation under section 6511(a) of such Code (or, if later, April 15, 2015).
 
 >         “(4) __Overall limitation on amounts transferred to traditional iras.—__ 
 
@@ -1663,7 +1663,7 @@
 
 >             The term ‘airline payment amount’ means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
 
->                 “(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, and
+>                 “(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, or filed on November 29, 2011, and
 
 >                 “(ii) in respect of the qualified airline employee’s interest in a bankruptcy claim against the carrier, any note of the carrier (or amount paid in lieu of a note being issued), or any other fixed obligation of the carrier to pay a lump sum amount.
 
@@ -1679,7 +1679,7 @@
 
 >             “(A) is a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust exempt from tax under section 501(a) of such Code, and
 
->             “(B) was terminated or became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280], [26 U.S.C. 430][/us/usc/t26/s430] note\].
+>             “(B) was terminated, became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280], [26 U.S.C. 430][/us/usc/t26/s430] note\], or was frozen effective November 1, 2012.
 
 >         “(3)  __Traditional ira__  __.—__ 
 
@@ -2186,6 +2186,8 @@
 [/us/usc/t26/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs219
 [/us/pl/112/95/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1106
 [/us/stat/126/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F152
+[/us/pl/113/243/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F243%2Fs1
+[/us/stat/128/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2863
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t26/s408A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408A
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
