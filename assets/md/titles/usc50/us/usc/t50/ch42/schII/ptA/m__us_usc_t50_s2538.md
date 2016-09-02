@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2537.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptB/m__us_usc_t50_ch42_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538)
+[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2537.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538)
 
 ## § 2538. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile
 
@@ -43,13 +43,13 @@
 
     (d) __Advice and opinions regarding nuclear weapons stockpile__ 
 
-        In addition to a director of a national security laboratory or a nuclear weapons production facility under [section 2533 of this title][/us/usc/t50/s2533], any member of the Nuclear Weapons Council or the commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
+        In addition to a director of a national security laboratory or a nuclear weapons production facility under [section 2533 of this title][/us/usc/t50/s2533], any member of the Nuclear Weapons Council or the Commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
 
     (e) __Expression of individual views__ 
 
         (1) __In general__ 
 
-        No individual, including representatives of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
+        No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
 
             (A) the safety, security, reliability, or credibility of the nuclear weapons stockpile and nuclear forces; or
 
@@ -71,7 +71,7 @@
 
         (4) Any official of the Office of Management and Budget.
 
-([Pub. L. 107–314, div. D, title XLII, § 4218][/us/pl/107/314/s4218], formerly [Pub. L. 105–85, div. A, title XIII, § 1305][/us/pl/105/85/s1305], Nov. 18, 1997, [111 Stat. 1952][/us/stat/111/1952], renumbered [Pub. L. 107–314, div. D, title XLII, § 4218][/us/pl/107/314/s4218], and amended [Pub. L. 112–239, div. C, title XXXI, § 3164(a)][/us/pl/112/239/s3164/a], (b), Jan. 2, 2013, [126 Stat. 2206][/us/stat/126/2206]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(D)][/us/pl/113/66/s3146/a/2/D], (c)(10), Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072], 1075.)
+([Pub. L. 107–314, div. D, title XLII, § 4218][/us/pl/107/314/s4218], formerly [Pub. L. 105–85, div. A, title XIII, § 1305][/us/pl/105/85/s1305], Nov. 18, 1997, [111 Stat. 1952][/us/stat/111/1952], renumbered [Pub. L. 107–314, div. D, title XLII, § 4218][/us/pl/107/314/s4218], and amended [Pub. L. 112–239, div. C, title XXXI, § 3164(a)][/us/pl/112/239/s3164/a], (b), Jan. 2, 2013, [126 Stat. 2206][/us/stat/126/2206]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(D)][/us/pl/113/66/s3146/a/2/D], (c)(10), Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072], 1075; [Pub. L. 113–291, div. C, title XXXI, § 3142(e)][/us/pl/113/291/s3142/e], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __References in Text__ 
 
@@ -84,6 +84,10 @@
     Section was formerly classified to [section 7274p of Title 42][/us/usc/t42/s7274p], The Public Health and Welfare, prior to renumbering by [Pub. L. 112–239][/us/pl/112/239].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–291, § 3142(e)(1)][/us/pl/113/291/s3142/e/1], substituted “Commander” for “commander”.
+
+    Subsec. (e)(1). [Pub. L. 113–291, § 3142(e)(2)][/us/pl/113/291/s3142/e/2], substituted “a representative” for “representatives” in introductory provisions.
 
     2013—Subsec. (a). [Pub. L. 113–66, § 3146(c)(10)(A)][/us/pl/113/66/s3146/c/10/A], (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
 
@@ -123,7 +127,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2537.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptB/m__us_usc_t50_ch42_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538)
+[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2537.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538)
 
 ----------
 ----------
@@ -137,6 +141,8 @@
 [/us/stat/126/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2206
 [/us/pl/113/66/s3146/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FD
 [/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
+[/us/pl/113/291/s3142/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fe
+[/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
@@ -145,6 +151,8 @@
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
 [/us/usc/t42/s7274p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274p
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/291/s3142/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fe%2F1
+[/us/pl/113/291/s3142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fe%2F2
 [/us/pl/113/66/s3146/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FA
 [/us/pl/112/239/s3164/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F1
 [/us/pl/112/239/s3164/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F1

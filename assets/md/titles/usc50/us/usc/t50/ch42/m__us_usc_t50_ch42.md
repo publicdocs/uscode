@@ -259,7 +259,7 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2537" data-uslm-ref="/us/usc/t50/s2537">2537.</a>  </td>
 
-    <td> Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities.  </td>
+    <td> Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities.  </td>
 
   </tr>
 
@@ -268,6 +268,14 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2538" data-uslm-ref="/us/usc/t50/s2538">2538.</a>  </td>
 
     <td> Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2538a" data-uslm-ref="/us/usc/t50/s2538a">2538a.</a>  </td>
+
+    <td> Plutonium pit production capacity.  </td>
 
   </tr>
 
@@ -1068,6 +1076,14 @@ Part A—Recurring National Security Authorization Provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2753" data-uslm-ref="/us/usc/t50/s2753">2753.</a>  </td>
 
     <td> Notification of cost overruns for certain Department of Energy projects.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2754" data-uslm-ref="/us/usc/t50/s2754">2754.</a>  </td>
+
+    <td> Life-cycle cost estimates of certain atomic energy defense capital assets.  </td>
 
   </tr>
 

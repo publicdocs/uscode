@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch35/m__us_usc_t50_s1706.md) | [Next](./../../../..//us/usc/t50/ch36/m__us_usc_t50_ch36.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1707)
+[Previous](./../../../..//us/usc/t50/ch35/m__us_usc_t50_s1706.md) | [Next](./../../../..//us/usc/t50/ch35/m__us_usc_t50_s1708.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1707)
 
 ## § 1707. Multinational economic embargoes against governments in armed conflict with the United States
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch35/m__us_usc_t50_s1706.md) | [Next](./../../../..//us/usc/t50/ch36/m__us_usc_t50_ch36.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1707)
+[Previous](./../../../..//us/usc/t50/ch35/m__us_usc_t50_s1706.md) | [Next](./../../../..//us/usc/t50/ch35/m__us_usc_t50_s1708.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1707)
 
 ----------
 ----------

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2536.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2537)
 
-## § 2537. Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities
+## § 2537. Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities
 
     (a) __Selected Acquisition Reports__ 
 
@@ -21,29 +21,47 @@
 
         (2) The information contained in the Selected Acquisition Report for a fiscal-year quarter for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for such fiscal-year quarter for a major defense acquisition program under [section 2432 of title 10][/us/usc/t10/s2432], expressed in terms of the nuclear weapon system.
 
-    (b) __Independent cost estimates__ 
+    (b) __Independent cost estimates and reviews__ 
 
         (1)
 
-         The Secretary, acting through the Administrator, shall submit to the congressional defense committees and the Nuclear Weapons Council an independent cost estimate of the following:
+         The Secretary, acting through the Administrator, shall submit to the congressional defense committees and the Nuclear Weapons Council the following:
 
-            (A) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
+            (A)
 
-            (B) Each nuclear weapon system undergoing life extension before initiation of phase 6.5, relating to first production.
+             An independent cost estimate of the following:
 
-            (C) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 2 in the acquisition process.
+                (i) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
 
-        (2) A cost estimate submitted under this subsection before October 1, 2015, may not be prepared by the Department of Energy or the Administration.
+                (ii) Each nuclear weapon system undergoing life extension before initiation of phase 6.5, relating to first production.
 
-        (3) Each cost estimate submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
+                (iii) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
+
+            (B) An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2, relating to study of feasibility and down-select.
+
+        (2) A cost estimate or review submitted under this subsection before October 1, 2015, may not be prepared by the Department of Energy or the Administration.
+
+        (3) Each cost estimate or review submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
 
     (c) __Authority for further assessments__ 
 
         Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
 
-([Pub. L. 107–314, div. D, title XLII, § 4217][/us/pl/107/314/s4217], as added [Pub. L. 112–239, div. C, title XXXI, § 3162(a)][/us/pl/112/239/s3162/a], Jan. 2, 2013, [126 Stat. 2204][/us/stat/126/2204]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3112(b), 3146(a)(2)(C), Dec. 26, 2013, [127 Stat. 1053][/us/stat/127/1053], 1072.)
+([Pub. L. 107–314, div. D, title XLII, § 4217][/us/pl/107/314/s4217], as added [Pub. L. 112–239, div. C, title XXXI, § 3162(a)][/us/pl/112/239/s3162/a], Jan. 2, 2013, [126 Stat. 2204][/us/stat/126/2204]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3112(b), 3146(a)(2)(C), Dec. 26, 2013, [127 Stat. 1053][/us/stat/127/1053], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3114(a)][/us/pl/113/291/s3114/a], (b), Dec. 19, 2014, [128 Stat. 3887][/us/stat/128/3887], 3888.)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, § 3114(b)(1)][/us/pl/113/291/s3114/b/1], substituted “estimates and reviews of” for “estimates on” in section catchline.
+
+    Subsec. (b). [Pub. L. 113–291, § 3114(b)(2)(A)][/us/pl/113/291/s3114/b/2/A], inserted “and reviews” after “estimates” in heading.
+
+    Subsec. (b)(1). [Pub. L. 113–291, § 3114(a)(3)][/us/pl/113/291/s3114/a/3], struck out “an independent cost estimate of” after “Nuclear Weapons Council” in introductory provisions.
+
+    [Pub. L. 113–291, § 3114(a)(1)][/us/pl/113/291/s3114/a/1], (4), (5), inserted subpar. (A) designation and introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+
+    Subsec. (b)(1)(A)(iii). [Pub. L. 113–291, § 3114(a)(2)][/us/pl/113/291/s3114/a/2], substituted “critical decision 1 and before such facility achieves critical decision 2” for “critical decision 2”.
+
+    Subsec. (b)(2), (3). [Pub. L. 113–291, § 3114(b)(2)(B)][/us/pl/113/291/s3114/b/2/B], inserted “or review” after “estimate”.
 
     2013—Subsec. (b)(1). [Pub. L. 113–66, § 3146(a)(2)(C)][/us/pl/113/66/s3146/a/2/C], struck out “established under [section 179 of title 10][/us/usc/t10/s179]” after “Council” in introductory provisions.
 
@@ -64,6 +82,14 @@
 [/us/stat/126/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2204
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1053
+[/us/pl/113/291/s3114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fa
+[/us/stat/128/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3887
+[/us/pl/113/291/s3114/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fb%2F1
+[/us/pl/113/291/s3114/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fb%2F2%2FA
+[/us/pl/113/291/s3114/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fa%2F3
+[/us/pl/113/291/s3114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fa%2F1
+[/us/pl/113/291/s3114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fa%2F2
+[/us/pl/113/291/s3114/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fb%2F2%2FB
 [/us/pl/113/66/s3146/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FC
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/pl/113/66/s3112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3112%2Fb%2F1

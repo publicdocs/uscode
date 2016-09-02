@@ -17,7 +17,7 @@
 
     (a) __Authority for programs at nuclear weapons productions facilities__ 
 
-        The Administrator for Nuclear Security shall authorize the head of each nuclear weapons production facility to establish an Engineering and Manufacturing Research, Development, and Demonstration Program under this section.
+        The Administrator shall authorize the head of each nuclear weapons production facility to establish an Engineering and Manufacturing Research, Development, and Demonstration Program under this section.
 
     (b) __Projects and activities__ 
 
@@ -29,13 +29,15 @@
 
         (3) training, recruitment, or retention of essential personnel in critical engineering and manufacturing disciplines.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3156\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–467; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(12)][/us/pl/108/136/s3141/k/12], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 112–239, div. C, title XXXI, § 3131(z)][/us/pl/112/239/s3131/z], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(7)(A)][/us/pl/113/66/s3146/i/7/A], Dec. 26, 2013, [127 Stat. 1083][/us/stat/127/1083].)
+([Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3156\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–467; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4832][/us/pl/107/314/s4832], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(12)][/us/pl/108/136/s3141/k/12], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 112–239, div. C, title XXXI, § 3131(z)][/us/pl/112/239/s3131/z], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(7)(A)][/us/pl/113/66/s3146/i/7/A], Dec. 26, 2013, [127 Stat. 1083][/us/stat/127/1083]; [Pub. L. 113–291, div. C, title XXXI, § 3142(u)][/us/pl/113/291/s3142/u], Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
 
  __Codification__ 
 
     Section was formerly set out as a note under [section 7274r of Title 42][/us/usc/t42/s7274r], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] struck out “for Nuclear Security” after “The Administrator”.
 
     2013—[Pub. L. 113–66][/us/pl/113/66] substituted “managers of certain nuclear weapons production facilities” for “plant managers of certain nuclear weapons production plants” in section catchline.
 
@@ -86,8 +88,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
 [/us/pl/113/66/s3146/i/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F7%2FA
 [/us/stat/127/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1083
+[/us/pl/113/291/s3142/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fu
+[/us/stat/128/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3902
 [/us/usc/t42/s7274r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274r
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s3131/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fz%2F1
 [/us/pl/112/239/s3131/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fz%2F2

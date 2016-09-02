@@ -19,11 +19,11 @@
 
         (1) __Total number__ 
 
-            By October 1, 2014, the total number of employees of the Office of the Administrator may not exceed 1,825.
+            By October 1, 2015, the total number of employees of the Office of the Administrator may not exceed 1,690.
 
         (2) __Excess__ 
 
-            For fiscal year 2015 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,825, the Administrator submits to the congressional defense committees a report justifying such excess.
+            For fiscal year 2016 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,690, the Administrator submits to the congressional defense committees a report justifying such excess.
 
     (b) __Counting rule__ 
 
@@ -51,7 +51,19 @@
 
         The Administrator shall ensure that the expertise of the national security laboratories and the nuclear weapons production facilities is made available to the Administration, the Department of Energy, the Department of Defense, other Federal agencies, and Congress through the temporary assignment of personnel from such laboratories and facilities pursuant to the Intergovernmental Personnel Act Mobility Program and other similar programs.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3241A][/us/pl/106/65/s3241A], as added [Pub. L. 112–239, div. C, title XXXI, § 3111(a)(1)][/us/pl/112/239/s3111/a/1], Jan. 2, 2013, [126 Stat. 2168][/us/stat/126/2168].)
+    (e) __Office of the Administrator employees__ 
+
+        In this section, the term “Office of the Administrator”, with respect to the employees of the Administration, includes employees whose funding is derived from an account of the Administration titled “Federal Salaries and Expenses”.
+
+([Pub. L. 106–65, div. C, title XXXII, § 3241A][/us/pl/106/65/s3241A], as added [Pub. L. 112–239, div. C, title XXXI, § 3111(a)(1)][/us/pl/112/239/s3111/a/1], Jan. 2, 2013, [126 Stat. 2168][/us/stat/126/2168]; amended [Pub. L. 113–291, div. C, title XXXI, § 3116][/us/pl/113/291/s3116], Dec. 19, 2014, [128 Stat. 3888][/us/stat/128/3888].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291, § 3116(a)(1)][/us/pl/113/291/s3116/a/1], substituted “2015” for “2014” and “1,690” for “1,825”.
+
+    Subsec. (a)(2). [Pub. L. 113–291, § 3116(a)(2)][/us/pl/113/291/s3116/a/2], substituted “2016” for “2015” and “1,690” for “1,825”.
+
+    Subsec. (e). [Pub. L. 113–291, § 3116(b)][/us/pl/113/291/s3116/b], added subsec. (e).
 
 ----------
 
@@ -64,5 +76,10 @@
 [/us/pl/106/65/s3241A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3241A
 [/us/pl/112/239/s3111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3111%2Fa%2F1
 [/us/stat/126/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2168
+[/us/pl/113/291/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116
+[/us/stat/128/3888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3888
+[/us/pl/113/291/s3116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116%2Fa%2F1
+[/us/pl/113/291/s3116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116%2Fa%2F2
+[/us/pl/113/291/s3116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116%2Fb
 
 

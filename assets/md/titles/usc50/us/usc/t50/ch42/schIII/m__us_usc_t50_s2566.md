@@ -73,7 +73,7 @@
 
             (B) Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) relating to consideration or selection of such option.
 
-            (C) Upon submittal of a report under paragraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
+            (C) Upon submittal of a report under subparagraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
 
     (c) __Contingent requirement for removal of plutonium and materials from Savannah River Site__ 
 
@@ -81,7 +81,7 @@
 
         (1) not later than January 1, 2016, not less than 1 metric ton of defense plutonium or defense plutonium materials; and
 
-        (2) not later than January 1, 2022, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 and January 1, 2022, but not processed by the MOX facility.
+        (2) not later than January 1, 2022, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002, and January 1, 2022, but not processed by the MOX facility.
 
     (d) __Economic and impact assistance__ 
 
@@ -107,7 +107,7 @@
 
             (B) Nothing in this paragraph may be construed to terminate, supersede, or otherwise affect any other requirements of this section.
 
-        (3) If the State of South Carolina obtains an injunction that prohibits the Department from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
+        (3) If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department of Energy to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
 
     (e) __Failure to complete planned disposition program__ 
 
@@ -145,13 +145,19 @@
 
             The terms “defense plutonium” and “defense plutonium materials” mean weapons-usable plutonium.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4306][/us/pl/107/314/s4306], formerly div. C, title XXXI, § 3182, Dec. 2, 2002, [116 Stat. 2747][/us/stat/116/2747]; renumbered div. D, title XLIII, § 4306, by [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(7)(A)][/us/pl/108/136/s3141/f/7/A], Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763]; amended [Pub. L. 109–103, title III, § 313][/us/pl/109/103/s313], Nov. 19, 2005, [119 Stat. 2280][/us/stat/119/2280]; [Pub. L. 112–239, div. C, title XXXI, § 3116][/us/pl/112/239/s3116], Jan. 2, 2013, [126 Stat. 2172][/us/stat/126/2172].)
+([Pub. L. 107–314, div. D, title XLIII, § 4306][/us/pl/107/314/s4306], formerly div. C, title XXXI, § 3182, Dec. 2, 2002, [116 Stat. 2747][/us/stat/116/2747]; renumbered div. D, title XLIII, § 4306, by [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(7)(A)][/us/pl/108/136/s3141/f/7/A], Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763]; amended [Pub. L. 109–103, title III, § 313][/us/pl/109/103/s313], Nov. 19, 2005, [119 Stat. 2280][/us/stat/119/2280]; [Pub. L. 112–239, div. C, title XXXI, § 3116][/us/pl/112/239/s3116], Jan. 2, 2013, [126 Stat. 2172][/us/stat/126/2172]; [Pub. L. 113–291, div. C, title XXXI, § 3142(f)][/us/pl/113/291/s3142/f], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __References in Text__ 
 
     The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(6)(C). [Pub. L. 113–291, § 3142(f)(1)][/us/pl/113/291/s3142/f/1], substituted “subparagraph (A)” for “paragraph (A)”.
+
+    Subsec. (c)(2). [Pub. L. 113–291, § 3142(f)(2)][/us/pl/113/291/s3142/f/2], substituted “2002,” for “2002”.
+
+    Subsec. (d)(3). [Pub. L. 113–291, § 3142(f)(3)][/us/pl/113/291/s3142/f/3], which directed amendment of par. (3) by inserting “of Energy” after “Department”, was executed by making the insertion after “Department” both places it appeared.
 
     2013—Subsec. (a)(3)(C). [Pub. L. 112–239, § 3116(1)(A)][/us/pl/112/239/s3116/1/A], substituted “2014” for “2012” in introductory provisions.
 
@@ -216,9 +222,14 @@
 [/us/stat/119/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2280
 [/us/pl/112/239/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116
 [/us/stat/126/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2172
+[/us/pl/113/291/s3142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff
+[/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/113/291/s3142/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff%2F1
+[/us/pl/113/291/s3142/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff%2F2
+[/us/pl/113/291/s3142/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff%2F3
 [/us/pl/112/239/s3116/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F1%2FA
 [/us/pl/112/239/s3116/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F1%2FB
 [/us/pl/112/239/s3116/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F2%2FA

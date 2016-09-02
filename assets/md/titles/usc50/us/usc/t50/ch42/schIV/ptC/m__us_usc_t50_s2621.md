@@ -27,13 +27,11 @@
 
         Beginning March 5, 1991, no additional high-level nuclear waste (except for small amounts removed and returned to a tank for analysis) may be added to a tank identified under subsection (a) unless the Secretary determines that no safer alternative than adding such waste to the tank currently exists or that the tank does not pose a serious potential for release of high-level nuclear waste.
 
-    (d) __Report__ 
-
-        Not later than May 5, 1991, the Secretary shall submit to Congress a report on actions taken to promote tank safety, including actions taken pursuant to this section, and the Secretary’s timetable for resolving outstanding issues on how to handle the waste in such tanks.
-
-([Pub. L. 107–314, div. D, title XLIV, § 4441][/us/pl/107/314/s4441], formerly [Pub. L. 101–510, div. C, title XXXI, § 3137][/us/pl/101/510/s3137], Nov. 5, 1990, [104 Stat. 1833][/us/stat/104/1833]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4441][/us/pl/107/314/s4441], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(16)][/us/pl/108/136/s3141/g/16], Nov. 24, 2003, [117 Stat. 1767][/us/stat/117/1767].)
+([Pub. L. 107–314, div. D, title XLIV, § 4441][/us/pl/107/314/s4441], formerly [Pub. L. 101–510, div. C, title XXXI, § 3137][/us/pl/101/510/s3137], Nov. 5, 1990, [104 Stat. 1833][/us/stat/104/1833]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4441][/us/pl/107/314/s4441], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(16)][/us/pl/108/136/s3141/g/16], Nov. 24, 2003, [117 Stat. 1767][/us/stat/117/1767]; [Pub. L. 113–291, div. C, title XXXI, § 3142(h)][/us/pl/113/291/s3142/h], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] struck out subsec. (d). Text read as follows: “Not later than May 5, 1991, the Secretary shall submit to Congress a report on actions taken to promote tank safety, including actions taken pursuant to this section, and the Secretary’s timetable for resolving outstanding issues on how to handle the waste in such tanks.”
 
     2003—[Pub. L. 108–136, § 3141(g)(16)(D)(i)][/us/pl/108/136/s3141/g/16/D/i], made technical amendment to section catchline.
 
@@ -58,6 +56,9 @@
 [/us/pl/107/314/s4441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4441
 [/us/pl/108/136/s3141/g/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F16
 [/us/stat/117/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1767
+[/us/pl/113/291/s3142/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fh
+[/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/108/136/s3141/g/16/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F16%2FD%2Fi
 [/us/pl/108/136/s3141/g/16/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F16%2FD%2Fii
 [/us/pl/108/136/s3141/g/16/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F16%2FD%2Fiii

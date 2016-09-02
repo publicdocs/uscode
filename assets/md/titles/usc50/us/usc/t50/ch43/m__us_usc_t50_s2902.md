@@ -21,7 +21,7 @@
 
      The terms “prevention of weapons of mass destruction proliferation and terrorism” and “prevention of WMD proliferation and terrorism” include activities under—
 
-        (A) the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [110 Stat. 2731][/us/stat/110/2731]; [50 U.S.C. 2362][/us/usc/t50/s2362] note);
+        (A) the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [110 Stat. 2731][/us/stat/110/2731]; [50 U.S.C. 2362][/us/usc/t50/s2362] note);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (B) the programs for which appropriations are authorized by section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([Public Law 107–314][/us/pl/107/314]; [116 Stat. 2729][/us/stat/116/2729]);
 
@@ -53,6 +53,8 @@
 
     This chapter, referred to in text, was in the original “this title”, meaning title XVIII of [Pub. L. 110–53][/us/pl/110/53], which enacted this chapter, amended [section 3021 of this title][/us/usc/t50/s3021] and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
 
+    Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (1)(A), was formerly set out as a note under [section 2362 of this title][/us/usc/t50/s2362], prior to repeal by [Pub. L. 113–291, div. A, title XIII, § 1351(5)][/us/pl/113/291/s1351/5], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
+
     Section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([Public Law 107–314][/us/pl/107/314]), referred to in par. (1)(B), is not classified to the Code.
 
 ----------
@@ -73,6 +75,9 @@
 [/us/stat/121/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F491
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
+[/us/usc/t50/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2362
+[/us/pl/113/291/s1351/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F5
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 
 

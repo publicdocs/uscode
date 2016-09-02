@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 113–296not287not291not295
+Current through 113–296not287
 
 <table>
 
@@ -536,6 +536,16 @@ Current through 113–296not287not291not295
     <td> National Security Agency  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3601" data-uslm-ref="/us/usc/t50/s3601">3601</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fch48" data-uslm-ref="/us/usc/t50/ch48">48.</a>  </td>
+
+    <td> Department of Defense Cooperative Threat Reduction  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3701" data-uslm-ref="/us/usc/t50/s3701">3701</a>  </td>
 
   </tr>
 

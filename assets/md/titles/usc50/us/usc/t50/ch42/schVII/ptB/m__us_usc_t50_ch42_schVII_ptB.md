@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVII/ptA/m__us_usc_t50_s2753.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVII/ptB/m__us_usc_t50_s2761.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVII%2FptB)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVII/ptA/m__us_usc_t50_s2754.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVII/ptB/m__us_usc_t50_s2761.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVII%2FptB)
 
 #### Part B—Penalties
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVII/ptA/m__us_usc_t50_s2753.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVII/ptB/m__us_usc_t50_s2761.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVII%2FptB)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVII/ptA/m__us_usc_t50_s2754.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVII/ptB/m__us_usc_t50_s2761.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschVII%2FptB)
 
 ----------
 ----------

@@ -95,7 +95,11 @@
 
     In this section:
 
-        (1) __Major atomic energy defense acquisition program__ 
+        (1) __Administration__ 
+
+            The term “Administration”, with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
+
+        (2) __Major atomic energy defense acquisition program__ 
 
             (A) __In general__ 
 
@@ -109,11 +113,15 @@
 
                 The term “major atomic energy defense acquisition program” does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
 
-        (2) __Performance baseline__ 
+        (3) __Performance baseline__ 
 
             The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3221][/us/pl/106/65/s3221], as added [Pub. L. 113–66, div. C, title XXXI, § 3112(a)(1)][/us/pl/113/66/s3112/a/1], Dec. 26, 2013, [127 Stat. 1050][/us/stat/127/1050].)
+([Pub. L. 106–65, div. C, title XXXII, § 3221][/us/pl/106/65/s3221], as added [Pub. L. 113–66, div. C, title XXXI, § 3112(a)(1)][/us/pl/113/66/s3112/a/1], Dec. 26, 2013, [127 Stat. 1050][/us/stat/127/1050]; amended [Pub. L. 113–291, div. C, title XXXI, § 3117][/us/pl/113/291/s3117], Dec. 19, 2014, [128 Stat. 3889][/us/stat/128/3889].)
+
+ __Amendments__ 
+
+    Subsec. (h)(1) to (3). [Pub. L. 113–291, § 3117][/us/pl/113/291/s3117], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 ----------
 
@@ -131,5 +139,8 @@
 [/us/pl/106/65/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3221
 [/us/pl/113/66/s3112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3112%2Fa%2F1
 [/us/stat/127/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1050
+[/us/pl/113/291/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3117
+[/us/stat/128/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3889
+[/us/pl/113/291/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3117
 
 

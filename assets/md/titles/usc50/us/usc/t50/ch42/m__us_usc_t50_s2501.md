@@ -21,7 +21,7 @@
 
     (2) The term “Administrator” means the Administrator for Nuclear Security.
 
-    (3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 (\[former\] [50 U.S.C. 401][/us/usc/t50/s401] note) \[now [50 U.S.C. 3001][/us/usc/t50/s3001] note\], Executive Order No. 12958 of April 17, 1995 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
+    (3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([50 U.S.C. 3001][/us/usc/t50/s3001] note), Executive Order No. 12958 of April 17, 1995 ([50 U.S.C. 3161][/us/usc/t50/s3161] note), Executive Order No. 13526 of December 29, 2009 ([50 U.S.C. 3161][/us/usc/t50/s3161] note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
 
     (4)
 
@@ -65,13 +65,15 @@
 
     (10) The term “Restricted Data” has the meaning given such term in [section 2014(y) of title 42][/us/usc/t42/s2014/y].
 
-([Pub. L. 107–314, div. D, § 4002][/us/pl/107/314/s4002], as added [Pub. L. 108–136, div. C, title XXXI, § 3141(c)(2)][/us/pl/108/136/s3141/c/2], Nov. 24, 2003, [117 Stat. 1756][/us/stat/117/1756]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(a)(1)][/us/pl/112/239/s3131/a/1], Jan. 2, 2013, [126 Stat. 2179][/us/stat/126/2179]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(1)][/us/pl/113/66/s3146/a/1], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
+([Pub. L. 107–314, div. D, § 4002][/us/pl/107/314/s4002], as added [Pub. L. 108–136, div. C, title XXXI, § 3141(c)(2)][/us/pl/108/136/s3141/c/2], Nov. 24, 2003, [117 Stat. 1756][/us/stat/117/1756]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(a)(1)][/us/pl/112/239/s3131/a/1], Jan. 2, 2013, [126 Stat. 2179][/us/stat/126/2179]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(1)][/us/pl/113/66/s3146/a/1], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072]; [Pub. L. 113–291, div. C, title XXXI, § 3142(a)][/us/pl/113/291/s3142/a], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __References in Text__ 
 
     Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
  __Amendments__ 
+
+    2014—Par. (3). [Pub. L. 113–291][/us/pl/113/291] substituted “Executive Order No. 12333 of December 4, 1981 ([50 U.S.C. 3001][/us/usc/t50/s3001] note), Executive Order No. 12958 of April 17, 1995 ([50 U.S.C. 3161][/us/usc/t50/s3161] note), Executive Order No. 13526 of December 29, 2009 ([50 U.S.C. 3161][/us/usc/t50/s3161] note),” for “Executive Order No. 12333 of December 4, 1981 ([50 U.S.C. 401][/us/usc/t50/s401] note), Executive Order No. 12958 of April 17, 1995 ([50 U.S.C. 435][/us/usc/t50/s435] note),”.
 
     2013—[Pub. L. 113–66, § 3146(a)(1)(A)][/us/pl/113/66/s3146/a/1/A], substituted “Except as otherwise provided, in this chapter” for “In this chapter” in introductory provisions.
 
@@ -112,9 +114,9 @@
 ----------
 ----------
 
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t42/s2286g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286g
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
@@ -125,6 +127,14 @@
 [/us/stat/126/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2179
 [/us/pl/113/66/s3146/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F1
 [/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
+[/us/pl/113/291/s3142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fa
+[/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
+[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/113/66/s3146/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F1%2FA
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66/s3146/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F1%2FB

@@ -25,37 +25,7 @@
 
  __Specification of Cooperative Threat Reduction Programs__ 
 
-[Pub. L. 104–201, div. A, title XV, § 1501][/us/pl/104/201/s1501], Sept. 23, 1996, [110 Stat. 2731][/us/stat/110/2731], as amended by [Pub. L. 105–261, div. A, title XIII, § 1301(a)(2)][/us/pl/105/261/s1301/a/2], Oct. 17, 1998, [112 Stat. 2161][/us/stat/112/2161]; [Pub. L. 110–181, div. A, title XIII, § 1303][/us/pl/110/181/s1303], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     For purposes of section 301 \[[110 Stat. 2475][/us/stat/110/2475]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in subsections (b) and (c).
-
->     “(b)  __Specified Programs__  __.—__ 
-
->     The programs referred to in subsection (a) are the following programs with respect to states of the former Soviet Union:
-
->         “(1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of nuclear, chemical, and other weapons and their delivery vehicles.
-
->         “(2) Programs to facilitate the safe and secure storage of fissile materials derived from the elimination of nuclear weapons.
-
->         “(3) Programs to prevent the proliferation of weapons, weapons components, materials, and weapons-related technology and expertise.
-
->         “(4) Programs to expand military-to-military and defense contacts.
-
->     “(c)  __Specified Programs With Respect to States Outside the Former Soviet Union__  __.—__ 
-
->     The programs referred to in subsection (a) are the following programs with respect to states that are not states of the former Soviet Union:
-
->         “(1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of chemical or biological weapons, weapons components, weapons-related materials, and their delivery vehicles.
-
->         “(2) Programs to facilitate safe and secure transportation and storage of nuclear weapons, weapons components, and their delivery vehicles.
-
->         “(3) Programs to prevent the proliferation of nuclear and chemical weapons, weapons components, and weapons-related military technology and expertise.
-
->         “(4) Programs to prevent the proliferation of biological weapons, weapons components, and weapons-related military technology and expertise, which may include activities that facilitate detection and reporting of highly pathogenic diseases or other diseases that are associated with or that could be utilized as an early warning mechanism for disease outbreaks that could impact the Armed Forces of the United States or allies of the United States.
-
->         “(5) Programs to expand military-to-military and defense contacts.”
+    [Pub. L. 104–201, div. A, title XV, § 1501][/us/pl/104/201/s1501], Sept. 23, 1996, [110 Stat. 2731][/us/stat/110/2731], as amended by [Pub. L. 105–261, div. A, title XIII, § 1301(a)(2)][/us/pl/105/261/s1301/a/2], Oct. 17, 1998, [112 Stat. 2161][/us/stat/112/2161]; [Pub. L. 110–181, div. A, title XIII, § 1303][/us/pl/110/181/s1303], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412], specified Cooperative Threat Reduction programs for purposes of [Pub. L. 104–201][/us/pl/104/201], prior to repeal by [Pub. L. 113–291, div. A, title XIII, § 1351(5)][/us/pl/113/291/s1351/5], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
 
 ----------
 
@@ -72,6 +42,8 @@
 [/us/stat/112/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2161
 [/us/pl/110/181/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1303
 [/us/stat/122/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F412
-[/us/stat/110/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2475
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/113/291/s1351/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F5
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 
 

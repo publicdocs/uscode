@@ -17,7 +17,7 @@
 
     (a) __Partnerships__ 
 
-        For the purpose of facilitating the transfer of technology, the Secretary of Energy shall ensure, to the maximum extent practicable, that atomic energy defense activities research on, and development of, any dual-use critical technology is conducted through cooperative research and development agreements, or other arrangements, that involve laboratories of the Department of Energy and other entities.
+        For the purpose of facilitating the transfer of technology, the Secretary of Energy shall ensure, to the maximum extent practicable, that research on and development of dual-use critical technology carried out through atomic energy defense activities is conducted through cooperative research and development agreements, or other arrangements, that involve laboratories of the Department of Energy and other entities.
 
     (b) __Cooperative research and development centers__ 
 
@@ -69,7 +69,7 @@
 
         (4) The term “atomic energy defense activities” does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], formerly [Pub. L. 102–190, div. C, title XXXI, § 3136][/us/pl/102/190/s3136], Dec. 5, 1991, [105 Stat. 1577][/us/stat/105/1577]; [Pub. L. 103–35, title II, § 203(b)(3)][/us/pl/103/35/s203/b/3], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(8)][/us/pl/108/136/s3141/k/8], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 111–383, div. C, title XXXI, § 3115(a)][/us/pl/111/383/s3115/a], Jan. 7, 2011, [124 Stat. 4511][/us/stat/124/4511]; [Pub. L. 112–239, div. C, title XXXI, § 3131(x)][/us/pl/112/239/s3131/x], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(5)][/us/pl/113/66/s3146/i/5], Dec. 26, 2013, [127 Stat. 1082][/us/stat/127/1082].)
+([Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], formerly [Pub. L. 102–190, div. C, title XXXI, § 3136][/us/pl/102/190/s3136], Dec. 5, 1991, [105 Stat. 1577][/us/stat/105/1577]; [Pub. L. 103–35, title II, § 203(b)(3)][/us/pl/103/35/s203/b/3], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(8)][/us/pl/108/136/s3141/k/8], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 111–383, div. C, title XXXI, § 3115(a)][/us/pl/111/383/s3115/a], Jan. 7, 2011, [124 Stat. 4511][/us/stat/124/4511]; [Pub. L. 112–239, div. C, title XXXI, § 3131(x)][/us/pl/112/239/s3131/x], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(5)][/us/pl/113/66/s3146/i/5], Dec. 26, 2013, [127 Stat. 1082][/us/stat/127/1082]; [Pub. L. 113–291, div. C, title XXXI, § 3142(t)][/us/pl/113/291/s3142/t], Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
  __References in Text__ 
 
@@ -80,6 +80,8 @@
     Section was formerly classified to [section 2123 of Title 42][/us/usc/t42/s2123], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “that research on and development of dual-use critical technology carried out through atomic energy defense activities” for “that atomic energy defense activities research on, and development of, any dual-use critical technology”.
 
     2013—Subsec. (b)(1). [Pub. L. 113–66, § 3146(i)(5)(A)][/us/pl/113/66/s3146/i/5/A], struck out “for Nuclear Security” after “Administrator”.
 
@@ -172,9 +174,12 @@
 [/us/stat/126/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2184
 [/us/pl/113/66/s3146/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5
 [/us/stat/127/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1082
+[/us/pl/113/291/s3142/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ft
+[/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/usc/t42/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2123
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s3146/i/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FA
 [/us/pl/113/66/s3146/i/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FB%2Fi
 [/us/usc/t42/s6683/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683%2Fd

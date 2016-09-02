@@ -27,6 +27,18 @@
 
     2002—[Pub. L. 107–314, § 3152][/us/pl/107/314/s3152], struck out subsec. (a) designation and heading “Authority” and subsec. (b) heading and text. Prior to amendment, subsec. (b) related to semi-annual reports on obligations of funds.
 
+ __Completion of Material Protection, Control, and Accounting Activities in the Russian Federation__ 
+
+[Pub. L. 113–291, div. C, title XXXI, § 3122(b)][/us/pl/113/291/s3122/b], Dec. 19, 2014, [128 Stat. 3894][/us/stat/128/3894], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Except as provided in paragraph (2) or specifically authorized by Congress, international material protection, control, and accounting activities in the Russian Federation shall be completed not later than fiscal year 2018.
+
+>     “(2)  __Exception__  __.—__ 
+
+>     The limitation in paragraph (1) shall not apply to international material protection, control, and accounting activities in the Russian Federation associated with the Agreement Concerning the Management and Disposition of Plutonium Designated as No Longer Required for Defense Purposes and Related Cooperation, signed at Moscow and Washington August 29 and September 1, 2000, and entered into force July 13, 2011 (TIAS 11–713.1), between the United States and the Russian Federation.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t50/ch42/schIII/m__us_usc_t50_s2564.md) | [Next](./../../../../..//us/usc/t50/ch42/schIII/m__us_usc_t50_s2566.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2565)
@@ -45,5 +57,7 @@
 [/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3152
+[/us/pl/113/291/s3122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3122%2Fb
+[/us/stat/128/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3894
 
 

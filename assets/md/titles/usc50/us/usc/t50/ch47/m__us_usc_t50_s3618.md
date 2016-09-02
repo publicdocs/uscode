@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch47/m__us_usc_t50_s3617.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3618)
+[Previous](./../../../..//us/usc/t50/ch47/m__us_usc_t50_s3617.md) | [Next](./../../../..//us/usc/t50/ch48/m__us_usc_t50_ch48.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3618)
 
 ## § 3618. Collection of service charges for certification or validation of information assurance products
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch47/m__us_usc_t50_s3617.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3618)
+[Previous](./../../../..//us/usc/t50/ch47/m__us_usc_t50_s3617.md) | [Next](./../../../..//us/usc/t50/ch48/m__us_usc_t50_ch48.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3618)
 
 ----------
 ----------

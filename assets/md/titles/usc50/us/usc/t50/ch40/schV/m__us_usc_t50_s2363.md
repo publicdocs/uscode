@@ -31,10 +31,6 @@
 
     1998—Par. (1). [Pub. L. 105–261][/us/pl/105/261] substituted “title XIV of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.)” for “the National Defense Authorization Act for Fiscal Years 1993 and 1994”.
 
- __Specification of Cooperative Threat Reduction Program__ 
-
-    For specification of Cooperative Threat Reduction programs, see [section 1501(b) of Pub. L. 104–201][/us/pl/104/201/s1501/b], set out as a note under [section 2362 of this title][/us/usc/t50/s2362].
-
 ----------
 
 [Previous](./../../../../..//us/usc/t50/ch40/schV/m__us_usc_t50_s2362.md) | [Next](./../../../../..//us/usc/t50/ch40/schV/m__us_usc_t50_s2364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2363)
@@ -53,7 +49,5 @@
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t22/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5901
-[/us/pl/104/201/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1501%2Fb
-[/us/usc/t50/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2362
 
 

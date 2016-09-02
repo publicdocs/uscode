@@ -79,7 +79,7 @@
 
         (2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 
-        (3) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada National Security Site, Nevada  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  and the Pantex facility, Texas);
+        (3) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada National Security Site, Nevada, and the Pantex facility, Texas);
 
         (4) an atomic weapons research facility that is under the control or jurisdiction of the Secretary (including Lawrence Livermore, Los Alamos, and Sandia National Laboratories); or
 
@@ -93,7 +93,7 @@
 
             (C) was operated for national security purposes.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(4)][/us/pl/113/66/s3146/g/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079]; [Pub. L. 113–128, title V, § 512(d)][/us/pl/113/128/s512/d], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
+([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(4)][/us/pl/113/66/s3146/g/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079]; [Pub. L. 113–128, title V, § 512(d)][/us/pl/113/128/s512/d], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706]; [Pub. L. 113–291, div. C, title XXXI, § 3142][/us/pl/113/291/s3142](o), Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
  __Amendment of Subsection (c)(6)(A)__ 
 
@@ -118,6 +118,8 @@
  __Amendments__ 
 
     2014—Subsec. (c)(6)(A). [Pub. L. 113–128][/us/pl/113/128], which directed amendment of subpar. (A) by substituting “programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act” for “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”, was executed by making the substitution for “programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(6)(A)\]. See 1998 Amendment note below.
+
+    Subsec. (f)(3). [Pub. L. 113–291][/us/pl/113/291] substituted “Nevada, and” for “Nevada and”.
 
     2013—Subsec. (b)(1). [Pub. L. 112–239, § 3134(b)(1)(A)][/us/pl/112/239/s3134/b/1/A], struck out “and any updates of the plan under subsection (e)” after “plan referred to in subsection (a)”.
 
@@ -203,6 +205,8 @@
 [/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
 [/us/pl/113/128/s512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fd
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
+[/us/pl/113/291/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142
+[/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
@@ -224,6 +228,7 @@
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s3134/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3134%2Fb%2F1%2FA
 [/us/pl/113/66/s3146/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F4%2FA
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801

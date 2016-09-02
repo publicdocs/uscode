@@ -21,19 +21,17 @@
 
     (b) __Limitation on declassification__ 
 
-        The Secretary may not implement the automatic declassification provisions of Executive Order 12958 if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing Restricted Data.
+        The Secretary may not implement the automatic declassification provisions of Executive Order No. 13526 ([50 U.S.C. 3161][/us/usc/t50/s3161] note) if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing Restricted Data.
 
-([Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], formerly [Pub. L. 104–106, div. C, title XXXI, § 3155][/us/pl/104/106/s3155], Feb. 10, 1996, [110 Stat. 625][/us/stat/110/625]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(11)][/us/pl/108/136/s3141/h/11], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(p)][/us/pl/112/239/s3131/p], Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(G)][/us/pl/113/66/s3146/a/2/G], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
-
- __References in Text__ 
-
-    Executive Order 12958, referred to in subsec. (b), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+([Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], formerly [Pub. L. 104–106, div. C, title XXXI, § 3155][/us/pl/104/106/s3155], Feb. 10, 1996, [110 Stat. 625][/us/stat/110/625]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4521][/us/pl/107/314/s4521], by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(11)][/us/pl/108/136/s3141/h/11], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; amended [Pub. L. 112–239, div. C, title XXXI, § 3131(p)][/us/pl/112/239/s3131/p], Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(G)][/us/pl/113/66/s3146/a/2/G], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073]; [Pub. L. 113–291, div. C, title XXXI, § 3142][/us/pl/113/291/s3142](l), Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
  __Codification__ 
 
     Section was formerly set out as a note under [section 2162 of Title 42][/us/usc/t42/s2162], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–291][/us/pl/113/291] substituted “Executive Order No. 13526 ([50 U.S.C. 3161][/us/usc/t50/s3161] note)” for “Executive Order 12958”.
 
     2013—Subsecs. (a), (b). [Pub. L. 113–66][/us/pl/113/66] substituted “Restricted Data” for “restricted data”.
 
@@ -46,6 +44,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/107/314/s4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4521
 [/us/pl/104/106/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3155
 [/us/stat/110/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F625
@@ -56,8 +55,12 @@
 [/us/stat/126/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2183
 [/us/pl/113/66/s3146/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FG
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
+[/us/pl/113/291/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142
+[/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
 [/us/usc/t42/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2162
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 

@@ -53,7 +53,7 @@
 
  __National Security Planning Guidance To Deny Safe Havens to Al-Qaeda and Its Violent Extremist Affiliates__ 
 
-[Pub. L. 112–81, div. A, title X, § 1032][/us/pl/112/81/s1032], Dec. 31, 2011, [125 Stat. 1571][/us/stat/125/1571], provided that:
+[Pub. L. 112–81, div. A, title X, § 1032][/us/pl/112/81/s1032], Dec. 31, 2011, [125 Stat. 1571][/us/stat/125/1571], as amended by [Pub. L. 113–291, div. A, title XII, § 1262][/us/pl/113/291/s1262], Dec. 19, 2014, [128 Stat. 3580][/us/stat/128/3580], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -73,17 +73,29 @@
 
 >             “(B) For each specified geographic area, a description, analysis, and discussion of the core problems and contributing issues that allow or could allow al-Qaeda and its violent extremist affiliates to use the area as a safe haven from which to plan and launch attacks, engage in propaganda, or raise funds and other support, including any ongoing or potential radicalization of the population, or to use the area as a key transit route for personnel, weapons, funding, or other support.
 
->             “(C) A list of short-term, mid-term, and long-term goals for each specified geographic area, prioritized by importance.
+>             “(C)
 
->             “(D) A description of the role and mission of each Federal department and agency involved in executing the guidance, including the Departments of Defense, Justice, Treasury, and State and the Agency for International Development.
+>              For each specified geographic area, a description of the following:
 
->             “(E) A description of gaps in United States capabilities to meet the goals listed pursuant to subparagraph (C), and the extent to which those gaps can be met through coordination with nongovernmental, international, or private sector organizations, entities, or companies.
+>                 “(i) The feasibility of conducting multilateral programs to train and equip the military forces of relevant countries in the area.
+
+>                 “(ii) The authority and funding that would be required to support such programs.
+
+>                 “(iii) How such programs would be implemented.
+
+>                 “(iv) How such programs would support the national security priorities and interests of the United States and complement other efforts of the United States Government in the area and in other specified geographic areas.
+
+>             “(D) A list of short-term, mid-term, and long-term goals for each specified geographic area, prioritized by importance.
+
+>             “(E) A description of the role and mission of each Federal department and agency involved in executing the guidance, including the Departments of Defense, Justice, Treasury, and State and the Agency for International Development.
+
+>             “(F) A description of gaps in United States capabilities to meet the goals listed pursuant to subparagraph (D), and the extent to which those gaps can be met through coordination with nongovernmental, international, or private sector organizations, entities, or companies.
 
 >         “(3)  __Review and update of guidance__  __.—__ 
 
 >         The President shall review and update the guidance required under paragraph (1) as necessary. Any such review shall address each of the following:
 
->             “(A) The overall progress made toward achieving the goals listed pursuant to paragraph (2)(C), including an overall assessment of the progress in denying a safe haven to al-Qaeda and its violent extremist affiliates.
+>             “(A) The overall progress made toward achieving the goals listed pursuant to paragraph (2)(D), including an overall assessment of the progress in denying a safe haven to al-Qaeda and its violent extremist affiliates.
 
 >             “(B) The performance of each Federal department and agency involved in executing the guidance.
 
@@ -91,7 +103,25 @@
 
 >             “(D) Any addition to, deletion from, or change in the order of the prioritized list maintained pursuant to paragraph (2)(A).
 
->         “(4)  __Specified geographic area defined__  __.—__ 
+>         “(4) __Report.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than 180 days after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report that contains a detailed summary of the national security planning guidance required under paragraph (1), including any updates thereto.
+
+>             “(B)  __Form__  __.—__ 
+
+>             The report may include a classified annex as determined to be necessary by the President.
+
+>             “(C)  __Definition__  __.—__ 
+
+>             In this paragraph, the term ‘appropriate congressional committees’ means—
+
+>                 “(i) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>                 “(ii) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+>         “(5)  __Specified geographic area defined__  __.—__ 
 
 >         In this subsection, the term ‘specified geographic area’ means any country, subnational territory, or region—
 
@@ -170,6 +200,8 @@
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/112/81/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1032
 [/us/stat/125/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1571
+[/us/pl/113/291/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1262
+[/us/stat/128/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3580
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/pl/112/81/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1072

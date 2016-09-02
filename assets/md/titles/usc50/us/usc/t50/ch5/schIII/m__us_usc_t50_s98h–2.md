@@ -35,15 +35,11 @@
 
         (1) Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
 
-        (2) Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(G)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
+        (2) Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(H) of this title][/us/usc/t50/s98h/b/2/H] during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
 
         (3) Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], as appropriate.
 
-([June 7, 1939, ch. 190, § 11][/us/act/1939-06-07/ch190/s11], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 324][/us/stat/93/324]; amended [Pub. L. 97–35, title II, § 203(e)][/us/pl/97/35/s203/e], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3207(a)(3)][/us/pl/99/661/s3207/a/3], Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 100–180, div. C, title II, § 3205][/us/pl/100/180/s3205], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 100–456, div. A, title XV, § 1503][/us/pl/100/456/s1503], Sept. 29, 1988, [102 Stat. 2086][/us/stat/102/2086]; [Pub. L. 101–189, div. C, title XXXIII, § 3315][/us/pl/101/189/s3315], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 102–190, div. C, title XXXIII][/us/pl/102/190], §§ 3311(b), 3313(a), Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 103–35, title II, § 204(d)][/us/pl/103/35/s204/d], May 31, 1993, [107 Stat. 103][/us/stat/107/103].)
-
- __References in Text__ 
-
-    [Section 98h(b)(2)(G) of this title][/us/usc/t50/s98h/b/2/G], referred to in subsec. (b)(2), was redesignated [section 98h(b)(2)(H) of this title][/us/usc/t50/s98h/b/2/H] by [Pub. L. 113–66, div. A, title XIV, § 1411(b)][/us/pl/113/66/s1411/b], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].
+([June 7, 1939, ch. 190, § 11][/us/act/1939-06-07/ch190/s11], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 324][/us/stat/93/324]; amended [Pub. L. 97–35, title II, § 203(e)][/us/pl/97/35/s203/e], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3207(a)(3)][/us/pl/99/661/s3207/a/3], Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 100–180, div. C, title II, § 3205][/us/pl/100/180/s3205], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 100–456, div. A, title XV, § 1503][/us/pl/100/456/s1503], Sept. 29, 1988, [102 Stat. 2086][/us/stat/102/2086]; [Pub. L. 101–189, div. C, title XXXIII, § 3315][/us/pl/101/189/s3315], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 102–190, div. C, title XXXIII][/us/pl/102/190], §§ 3311(b), 3313(a), Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 103–35, title II, § 204(d)][/us/pl/103/35/s204/d], May 31, 1993, [107 Stat. 103][/us/stat/107/103]; [Pub. L. 113–291, div. A, title X, § 1071(j)][/us/pl/113/291/s1071/j], Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512].)
 
  __Prior Provisions__ 
 
@@ -52,6 +48,8 @@
     Provisions similar to those in this section were contained in former [section 98c of this title][/us/usc/t50/s98c] prior to repeal by [Pub. L. 96–41][/us/pl/96/41].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “under section 98h(b)(2)(H)” for “under section 98h(b)(2)(G)”.
 
     1993—Subsec. (a)(1). [Pub. L. 103–35][/us/pl/103/35] substituted “fiscal year” for “six-month period”.
 
@@ -93,6 +91,7 @@
 ----------
 
 [/us/usc/t50/s98e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fc
+[/us/usc/t50/s98h/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F2%2FH
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
 [/us/act/1939-06-07/ch190/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs11
@@ -112,10 +111,8 @@
 [/us/stat/105/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1584
 [/us/pl/103/35/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs204%2Fd
 [/us/stat/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F103
-[/us/usc/t50/s98h/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F2%2FG
-[/us/usc/t50/s98h/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F2%2FH
-[/us/pl/113/66/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fb
-[/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
+[/us/pl/113/291/s1071/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fj
+[/us/stat/128/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3512
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
 [/us/stat/60/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F596
@@ -125,6 +122,7 @@
 [/us/pl/96/41/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fb%2F2
 [/us/usc/t50/s98c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98c
 [/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/102/190/s3313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3313%2Fa%2F1
 [/us/pl/102/190/s3313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3313%2Fa%2F2

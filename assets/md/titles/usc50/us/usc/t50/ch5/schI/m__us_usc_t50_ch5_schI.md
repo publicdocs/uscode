@@ -25,7 +25,7 @@
 
     Section 54, acts [Aug. 18, 1890, ch. 797, § 2][/us/act/1890-08-18/ch797/s2], [26 Stat. 320][/us/stat/26/320]; [Aug. 7, 1946, ch. 770, § 1(52)][/us/act/1946-08-07/ch770/s1/52], [60 Stat. 870][/us/stat/60/870], related to accounts of cost of type and experimental manufacture of guns and other articles.
 
-    Section 55, R.S. § 1666, authorized Secretary of War to abolish useless or unnecessary arsenals. See [section 4532 of Title 10][/us/usc/t10/s4532], Armed Forces.
+    Section 55, R.S. § 1666, authorized Secretary of War to abolish useless or unnecessary arsenals.
 
     Section 56, R.S. § 1669, provided for forfeitures by reason of misconduct of workmen in armories.
 
@@ -48,6 +48,5 @@
 [/us/stat/26/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F320
 [/us/act/1946-08-07/ch770/s1/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770%2Fs1%2F52
 [/us/stat/60/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F870
-[/us/usc/t10/s4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4532
 
 

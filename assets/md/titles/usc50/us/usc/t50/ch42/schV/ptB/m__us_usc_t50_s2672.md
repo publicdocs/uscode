@@ -17,13 +17,13 @@
 
     (a) __Plan for protection against release__ 
 
-        The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 (\[former\] [50 U.S.C. 435][/us/usc/t50/s435] note).
+        The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 13526 ([50 U.S.C. 3161][/us/usc/t50/s3161] note).
 
     (b) __Plan elements__ 
 
     The plan under subsection (a) shall include the following:
 
-        (1) The actions to be taken in order to ensure that records subject to Executive Order No. 12958 are reviewed on a page-by-page basis for Restricted Data and Formerly Restricted Data unless they have been determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.
+        (1) The actions to be taken in order to ensure that records subject to Executive Order No. 13526 are reviewed on a page-by-page basis for Restricted Data and Formerly Restricted Data unless they have been determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.
 
         (2) The criteria and process by which documents are determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.
 
@@ -65,19 +65,25 @@
 
         (1) The Secretary of Energy shall submit to the committees and Assistant to the President specified in subsection (d) a report on inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 that occurred before October 17, 1998.
 
-        (2) The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 discovered in the two-year period preceding the submittal of the report.
+        (2) The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 13526 discovered in the two-year period preceding the submittal of the report.
 
-([Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], formerly [Pub. L. 105–261, div. C, title XXXI, § 3161][/us/pl/105/261/s3161], Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259]; [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; renumbered [Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)][/us/pl/108/136/s3141/h/12], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; [Pub. L. 110–417, div. C, title XXXI, § 3123][/us/pl/110/417/s3123], Oct. 14, 2008, [122 Stat. 4759][/us/stat/122/4759]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(H)][/us/pl/113/66/s3146/a/2/H], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
+([Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], formerly [Pub. L. 105–261, div. C, title XXXI, § 3161][/us/pl/105/261/s3161], Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259]; [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480; renumbered [Pub. L. 107–314, div. D, title XLV, § 4522][/us/pl/107/314/s4522], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)][/us/pl/108/136/s3141/h/12], Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774]; [Pub. L. 110–417, div. C, title XXXI, § 3123][/us/pl/110/417/s3123], Oct. 14, 2008, [122 Stat. 4759][/us/stat/122/4759]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(H)][/us/pl/113/66/s3146/a/2/H], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073]; [Pub. L. 113–291, div. C, title XXXI, § 3142(m)][/us/pl/113/291/s3142/m], Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
  __References in Text__ 
 
-    Executive Order No. 12958, referred to in subsecs. (a), (b)(1), and (f), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+    Executive Order No. 12958, referred to in subsec. (f)(1), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
  __Codification__ 
 
     Section was formerly set out as a note under [section 435 of this title][/us/usc/t50/s435] prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291, § 3142(m)(1)][/us/pl/113/291/s3142/m/1], substituted “Executive Order No. 13526 ([50 U.S.C. 3161][/us/usc/t50/s3161] note)” for “Executive Order No. 12958 ([50 U.S.C. 435][/us/usc/t50/s435] note)”.
+
+    Subsec. (b)(1). [Pub. L. 113–291, § 3142(m)(2)][/us/pl/113/291/s3142/m/2], substituted “Executive Order No. 13526” for “Executive Order No. 12958”.
+
+    Subsec. (f)(2). [Pub. L. 113–291, § 3142(m)(3)][/us/pl/113/291/s3142/m/3], substituted “Executive Order No. 13526” for “Executive Order No. 12958”.
 
     2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (g) which defined “Restricted Data”.
 
@@ -108,7 +114,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/107/314/s4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4522
 [/us/pl/105/261/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3161
 [/us/stat/112/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2259
@@ -123,8 +129,15 @@
 [/us/stat/122/4759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4759
 [/us/pl/113/66/s3146/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FH
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
+[/us/pl/113/291/s3142/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fm
+[/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/291/s3142/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fm%2F1
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
+[/us/pl/113/291/s3142/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fm%2F2
+[/us/pl/113/291/s3142/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fm%2F3
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/417/s3121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3121%2Fa%2F1
 [/us/pl/110/417/s3123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3123%2Fa%2F2

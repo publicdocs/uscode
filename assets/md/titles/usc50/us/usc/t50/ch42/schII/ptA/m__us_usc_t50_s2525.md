@@ -25,7 +25,7 @@
 
         (1) The head of each national security laboratory.
 
-        (2) The commander of the United States Strategic Command.
+        (2) The Commander of the United States Strategic Command.
 
     (c) __Dual validation teams in support of assessments__ 
 
@@ -123,13 +123,15 @@
 
         (2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-([Pub. L. 107–314, div. D, title XLII, § 4205][/us/pl/107/314/s4205], formerly div. C, title XXXI, § 3141, Dec. 2, 2002, [116 Stat. 2730][/us/stat/116/2730]; renumbered div. D, title XLII, § 4205, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(6)][/us/pl/108/136/s3141/e/6], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3114(a)(2)][/us/pl/111/84/s3114/a/2]–(d), Oct. 28, 2009, [123 Stat. 2706][/us/stat/123/2706], 2707; [Pub. L. 112–239, div. C, title XXXI, § 3131(c)][/us/pl/112/239/s3131/c], Jan. 2, 2013, [126 Stat. 2180][/us/stat/126/2180]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3122, 3146(c)(3), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1074.)
+([Pub. L. 107–314, div. D, title XLII, § 4205][/us/pl/107/314/s4205], formerly div. C, title XXXI, § 3141, Dec. 2, 2002, [116 Stat. 2730][/us/stat/116/2730]; renumbered div. D, title XLII, § 4205, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(6)][/us/pl/108/136/s3141/e/6], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3114(a)(2)][/us/pl/111/84/s3114/a/2]–(d), Oct. 28, 2009, [123 Stat. 2706][/us/stat/123/2706], 2707; [Pub. L. 112–239, div. C, title XXXI, § 3131(c)][/us/pl/112/239/s3131/c], Jan. 2, 2013, [126 Stat. 2180][/us/stat/126/2180]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3122, 3146(c)(3), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1074; [Pub. L. 113–291, div. C, title XXXI, § 3142(d)][/us/pl/113/291/s3142/d], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7274s of Title 42][/us/usc/t42/s7274s], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “Commander” for “commander”.
 
     2013—Subsec. (c). [Pub. L. 113–66, § 3146(c)(3)(A)][/us/pl/113/66/s3146/c/3/A], struck out “for Nuclear Security” before “may establish teams,” in introductory provisions.
 
@@ -193,8 +195,11 @@
 [/us/stat/126/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2180
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
+[/us/pl/113/291/s3142/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fd
+[/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/usc/t42/s7274s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274s
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s3146/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F3%2FA
 [/us/pl/113/66/s3122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fa%2F1
 [/us/pl/113/66/s3122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fa%2F2

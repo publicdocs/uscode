@@ -123,7 +123,7 @@
 
              a description of the modernization and refurbishment measures the Administrator determines necessary to meet the requirements prescribed in—
 
-                (i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under [section 404a of this title][/us/usc/t50/s404a] if such strategy has been submitted as of the date of the plan;
+                (i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under [section 3043 of this title][/us/usc/t50/s3043] if such strategy has been submitted as of the date of the plan;
 
                 (ii) the most recent quadrennial defense review if such strategy has not been submitted as of the date of the plan; and
 
@@ -223,7 +223,7 @@
 
             (E) nuclear incident response.
 
-([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072.)
+([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3142(c)][/us/pl/113/291/s3142/c], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __Codification__ 
 
@@ -236,6 +236,8 @@
     [Pub. L. 104–106, div. C, title XXXI, § 3153][/us/pl/104/106/s3153], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624]; repealed [Pub. L. 105–85, div. C, title XXXI, § 3152(c)][/us/pl/105/85/s3152/c], Nov. 18, 1997, [111 Stat. 2042][/us/stat/111/2042].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(4)(A)(i). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 3043 of this title][/us/usc/t50/s3043]” for “[section 404a of this title][/us/usc/t50/s404a]”.
 
     2013—[Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section related to the plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile.
 
@@ -337,7 +339,7 @@
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t50/s2521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2521%2Fa
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
@@ -354,12 +356,17 @@
 [/us/stat/126/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2187
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
+[/us/pl/113/291/s3142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fc
+[/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3153
 [/us/stat/110/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F624
 [/us/pl/105/85/s3152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3152%2Fc
 [/us/stat/111/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2042
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3123
 [/us/pl/113/66/s3146/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FA
