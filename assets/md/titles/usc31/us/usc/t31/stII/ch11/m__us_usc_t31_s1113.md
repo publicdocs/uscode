@@ -303,7 +303,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >         “(2)  __Implementation of great lakes water quality agreement of 1978__  __.—__ 
 
->         Section 118(c)(10) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(c)(10)][/us/usc/t33/s1268/c/10]).
+>         Section 118(c)(10) of the Federal Water Pollution Control Act (\[former\] [33 U.S.C. 1268(c)(10)][/us/usc/t33/s1268/c/10]).
 
 >         “(3)  __Comprehensive conservation and management plan for long island sound__  __.—__ 
 
@@ -457,7 +457,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(13) Section 205(g) of the National Housing Act (\[former\] [12 U.S.C. 1711(g)][/us/usc/t12/s1711/g]).
 
->     “(14) Section 701(c)(1) of the International Financial Institutions Act ([22 U.S.C. 262d(c)(1)][/us/usc/t22/s262d/c/1]).
+>     “(14) Section 701(c)(1) of the International Financial Institutions Act (\[former\] [22 U.S.C. 262d(c)(1)][/us/usc/t22/s262d/c/1]).
 
 >     “(15) Paragraphs (1) and (2) of [section 5302(c) of title 31][/us/usc/t31/s5302/c], United States Code.
 
