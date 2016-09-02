@@ -17,7 +17,7 @@
 
     Appropriations for the Agricultural Research Service shall be available for the operation and maintenance of aircraft and the purchase of not to exceed one for replacement only and pursuant to [section 2250 of this title][/us/usc/t7/s2250] for the construction, alteration, and repair of buildings and improvements.
 
-([Pub. L. 113–76, div. A, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 11][/us/stat/128/11].)
+([Pub. L. 113–235, div. A, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2138][/us/stat/128/2138].)
 
  __Codification__ 
 
@@ -28,6 +28,8 @@
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. A, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 11][/us/stat/128/11].
 
     [Pub. L. 113–6, div. A, title I][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 203][/us/stat/127/203].
 
@@ -165,11 +167,13 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 
 [/us/usc/t7/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2250
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F11
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2138
 [/us/usc/t5/s568a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs568a
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F11
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/stat/127/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F203
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55

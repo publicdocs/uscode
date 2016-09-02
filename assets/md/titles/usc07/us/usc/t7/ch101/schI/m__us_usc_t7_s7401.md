@@ -145,7 +145,7 @@
 
                     (I) an organic commodity promotion order issued pursuant to paragraph (2); and
 
-                    (II) any other agricultural commodity promotion order issued under [section 7413 of this title][/us/usc/t7/s7413].
+                    (II) any other agricultural commodity promotion order issued under a commodity promotion law.
 
         (2) __Authorization__ 
 
@@ -163,7 +163,7 @@
 
             The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
 
-([Pub. L. 104–127, title V, § 501][/us/pl/104/127/s501], Apr. 4, 1996, [110 Stat. 1029][/us/stat/110/1029]; [Pub. L. 107–171, title X, § 10607][/us/pl/107/171/s10607], May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 113–79, title X, § 10004(d)][/us/pl/113/79/s10004/d], (e), Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942], 943.)
+([Pub. L. 104–127, title V, § 501][/us/pl/104/127/s501], Apr. 4, 1996, [110 Stat. 1029][/us/stat/110/1029]; [Pub. L. 107–171, title X, § 10607][/us/pl/107/171/s10607], May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 113–79, title X, § 10004(d)][/us/pl/113/79/s10004/d], (e), Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942], 943; [Pub. L. 113–235, div. A, title VII, § 747][/us/pl/113/235/s747], Dec. 16, 2014, [128 Stat. 2170][/us/stat/128/2170].)
 
  __References in Text__ 
 
@@ -194,6 +194,8 @@
     2014—Subsec. (e). [Pub. L. 113–79, § 10004(d)][/us/pl/113/79/s10004/d], added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
 
     Subsec. (f). [Pub. L. 113–79, § 10004(e)][/us/pl/113/79/s10004/e], added subsec. (f).
+
+    Subsec. (f)(1)(C)(ii)(II). [Pub. L. 113–235][/us/pl/113/235] substituted “a commodity promotion law” for “[section 7413 of this title][/us/usc/t7/s7413]”.
 
     2002—Subsec. (a)(19). [Pub. L. 107–171, § 10607(b)][/us/pl/107/171/s10607/b], added par. (19).
 
@@ -254,7 +256,6 @@
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
 [/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
-[/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
 [/us/pl/104/127/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs501
 [/us/stat/110/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1029
@@ -262,6 +263,8 @@
 [/us/stat/116/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F514
 [/us/pl/113/79/s10004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fd
 [/us/stat/128/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F942
+[/us/pl/113/235/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs747
+[/us/stat/128/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2170
 [/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F279
@@ -312,6 +315,8 @@
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/pl/113/79/s10004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fd
 [/us/pl/113/79/s10004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fe
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/pl/107/171/s10607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607%2Fb
 [/us/pl/107/171/s10607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607%2Fa
 [/us/pl/104/127/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs511

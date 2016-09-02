@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2251.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2250a)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2250a)
 
 ## § 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2251.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2250a)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2250a)
 
 ----------
 ----------

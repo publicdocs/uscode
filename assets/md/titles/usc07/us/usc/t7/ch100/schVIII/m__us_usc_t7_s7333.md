@@ -445,6 +445,10 @@
 
     Amendment by [Pub. L. 106–224][/us/pl/106/224] applicable beginning with the 2001 crop of an agricultural commodity, see [section 171(b)(2)(G) of Pub. L. 106–224][/us/pl/106/224/s171/b/2/G], set out as a note under [section 1501 of this title][/us/usc/t7/s1501].
 
+ __Consideration of Losses in Fiscal Year 2014 and Subsequent Fiscal Years__ 
+
+    For losses under [section 1501 of Public Law 113–79][/us/pl/113/79/s1501] \[enacting [section 9081 of this title][/us/usc/t7/s9081]\] for the 2014 fiscal year and each fiscal year thereafter as not considered same loss for purposes of subsec. (i)(3) of this section, see [section 733 of Pub. L. 113–235][/us/pl/113/235/s733], set out as a note under [section 1508 of this title][/us/usc/t7/s1508].
+
  __Transition Provisions__ 
 
 [Pub. L. 110–234, title I, § 1603(f)(2)][/us/pl/110/234/s1603/f/2], May 22, 2008, [122 Stat. 1011][/us/stat/122/1011], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(f)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1739, provided that: 
@@ -537,6 +541,10 @@
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/106/224/s171/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs171%2Fb%2F2%2FG
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
+[/us/pl/113/79/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1501
+[/us/usc/t7/s9081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9081
+[/us/pl/113/235/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs733
+[/us/usc/t7/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508
 [/us/pl/110/234/s1603/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Ff%2F2
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250a.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2252.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2251)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250b.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2252.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2251)
 
 ## § 2251. Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250a.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2252.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2251)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2250b.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2252.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2251)
 
 ----------
 ----------

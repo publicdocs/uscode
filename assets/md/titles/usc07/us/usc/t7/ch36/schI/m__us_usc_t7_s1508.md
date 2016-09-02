@@ -1791,6 +1791,12 @@
 
     1938—Subsec. (a). Act June 22, 1938, inserted second proviso in first sentence.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–79, title XI, § 11003(d)][/us/pl/113/79/s11003/d], Feb. 7, 2014, [128 Stat. 956][/us/stat/128/956], provided that: 
+
+> “The Federal Crop Insurance Corporation shall begin to provide additional coverage based on an individual yield and loss basis, supplemented with coverage based on an area yield and loss basis, as described in the amendments made by this section \[amending this section\], not later than for the 2015 crop year.”
+
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
@@ -1825,11 +1831,11 @@
 
     Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title][/us/usc/t7/s1503].
 
- __Application Date__ 
+ __Consideration of Losses in Fiscal Year 2014 and Subsequent Fiscal Years__ 
 
-[Pub. L. 113–79, title XI, § 11003(d)][/us/pl/113/79/s11003/d], Feb. 7, 2014, [128 Stat. 956][/us/stat/128/956], provided that: 
+[Pub. L. 113–235, div. A, title VII, § 733][/us/pl/113/235/s733], Dec. 16, 2014, [128 Stat. 2168][/us/stat/128/2168], provided that: 
 
-> “The Federal Crop Insurance Corporation shall begin to provide additional coverage based on an individual yield and loss basis, supplemented with coverage based on an area yield and loss basis, as described in the amendments made by this section \[amending this section\], not later than for the 2015 crop year.”
+> “For the 2014 fiscal year and each fiscal year thereafter, losses under [section 1501 of Public Law 113–79][/us/pl/113/79/s1501] \[enacting [section 9081 of this title][/us/usc/t7/s9081]\] shall not be considered the same loss for the purposes of [7 U.S.C. 7333(i)(3)][/us/usc/t7/s7333/i/3] and [7 U.S.C. 1508(n)][/us/usc/t7/s1508/n].”
 
  __Expansion of Crop Insurance Pilots__ 
 
@@ -2232,6 +2238,8 @@
 [/us/pl/88/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F589
 [/us/pl/86/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F131
 [/us/pl/85/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F111
+[/us/pl/113/79/s11003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fd
+[/us/stat/128/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F956
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -2262,8 +2270,12 @@
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
-[/us/pl/113/79/s11003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fd
-[/us/stat/128/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F956
+[/us/pl/113/235/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs733
+[/us/stat/128/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2168
+[/us/pl/113/79/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1501
+[/us/usc/t7/s9081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9081
+[/us/usc/t7/s7333/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333%2Fi%2F3
+[/us/usc/t7/s1508/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fn
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501

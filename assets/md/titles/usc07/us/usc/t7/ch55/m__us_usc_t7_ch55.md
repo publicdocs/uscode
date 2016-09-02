@@ -713,6 +713,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2250b" data-uslm-ref="/us/usc/t7/s2250b">2250b.</a>  </td>
+
+    <td> Nonrecurring expenses fund.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2251" data-uslm-ref="/us/usc/t7/s2251">2251.</a>  </td>
 
     <td> Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs.  </td>
