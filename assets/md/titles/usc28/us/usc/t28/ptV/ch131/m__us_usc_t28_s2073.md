@@ -59,15 +59,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Disclosure.—__ 
+>         “(1)  __Disclosure__  __.—__ 
 
 >         The Judicial Conference of the United States, in accordance with [section 2075 of title 28][/us/usc/t28/s2075] of the United States Code and after consideration of the views of the Director of the Executive Office for United States Trustees, shall propose amended Federal Rules of Bankruptcy Procedure and in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] shall prescribe official bankruptcy forms directing debtors under chapter 11 of title 11 of United States Code, to disclose the information described in paragraph (2) by filing and serving periodic financial and other reports designed to provide such information.
 
->         “(2) __Information.—__ 
+>         “(2)  __Information__  __.—__ 
 
 >         The information referred to in paragraph (1) is the value, operations, and profitability of any closely held corporation, partnership, or of any other entity in which the debtor holds a substantial or controlling interest.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the rules and reports under subsection (a) shall be to assist parties in interest taking steps to ensure that the debtor’s interest in any entity referred to in subsection (a)(2) is used for the payment of allowed claims against debtor.”
 
@@ -85,7 +85,7 @@
 
 [Pub. L. 109–8, title IV, § 435][/us/pl/109/8/s435], Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111], provided that:
 
->     “(a) __Proposal of Rules and Forms.—__ 
+>     “(a)  __Proposal of Rules and Forms__  __.—__ 
 
 >     The Judicial Conference of the United States shall propose in accordance with [section 2073 of title 28][/us/usc/t28/s2073] of the United States Code amended Federal Rules of Bankruptcy Procedure, and shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official bankruptcy forms, directing small business debtors to file periodic financial and other reports containing information, including information relating to—
 
@@ -95,7 +95,7 @@
 
 >         “(3) whether the debtor is timely filing tax returns and paying taxes and other administrative expenses when due.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The rules and forms proposed under subsection (a) shall be designed to achieve a practical balance among—
 

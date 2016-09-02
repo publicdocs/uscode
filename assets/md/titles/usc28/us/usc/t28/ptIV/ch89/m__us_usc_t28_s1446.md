@@ -15,11 +15,11 @@
 
 ## § 1446. Procedure for removal of civil actions
 
-    (a) __Generally.—__ 
+    (a)  __Generally__  __.—__ 
 
     A defendant or defendants desiring to remove any civil action from a State court shall file in the district court of the United States for the district and division within which such action is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
 
-    (b) __Requirements; Generally.—__ 
+    (b)  __Requirements; Generally__  __.—__ 
 
         (1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
 
@@ -33,7 +33,7 @@
 
         (3) Except as provided in subsection (c), if the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable.
 
-    (c) __Requirements; Removal Based on Diversity of Citizenship.—__ 
+    (c)  __Requirements; Removal Based on Diversity of Citizenship__  __.—__ 
 
         (1) A case may not be removed under subsection (b)(3) on the basis of jurisdiction conferred by section 1332 more than 1 year after commencement of the action, unless the district court finds that the plaintiff has acted in bad faith in order to prevent a defendant from removing the action.
 
@@ -57,11 +57,11 @@
 
             (B) If the notice of removal is filed more than 1 year after commencement of the action and the district court finds that the plaintiff deliberately failed to disclose the actual amount in controversy to prevent removal, that finding shall be deemed bad faith under paragraph (1).
 
-    (d) __Notice to Adverse Parties and State Court.—__ 
+    (d)  __Notice to Adverse Parties and State Court__  __.—__ 
 
     Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
 
-    (e) __Counterclaim in 337 Proceeding.—__ 
+    (e)  __Counterclaim in __  __337__  __ Proceeding__  __.—__ 
 
     With respect to any counterclaim removed to a district court pursuant to section 337(c) of the Tariff Act of 1930, the district court shall resolve such counterclaim in the same manner as an original complaint under the Federal Rules of Civil Procedure, except that the payment of a filing fee shall not be required in such cases and the counterclaim shall relate back to the date of the original complaint in the proceeding before the International Trade Commission under section 337 of that Act.
 

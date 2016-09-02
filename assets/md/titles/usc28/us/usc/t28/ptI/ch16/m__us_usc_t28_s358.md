@@ -15,11 +15,11 @@
 
 ## § 358. Rules
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Each judicial council and the Judicial Conference may prescribe such rules for the conduct of proceedings under this chapter, including the processing of petitions for review, as each considers to be appropriate.
 
-    (b) __Required Provisions.—__ 
+    (b)  __Required Provisions__  __.—__ 
 
     Rules prescribed under subsection (a) shall contain provisions requiring that—
 
@@ -29,7 +29,7 @@
 
         (3) the complainant be afforded an opportunity to appear at proceedings conducted by the investigating panel, if the panel concludes that the complainant could offer substantial information.
 
-    (c) __Procedures.—__ 
+    (c)  __Procedures__  __.—__ 
 
     Any rule prescribed under this section shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such rule shall be a matter of public record, and any such rule promulgated by a judicial council may be modified by the Judicial Conference. No rule promulgated under this section may limit the period of time within which a person may file a complaint under this chapter.
 

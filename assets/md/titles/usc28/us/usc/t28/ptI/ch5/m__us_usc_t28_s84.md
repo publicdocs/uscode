@@ -75,15 +75,15 @@ Southern District
 
 [Pub. L. 102–357, § 3][/us/pl/102/357/s3], Aug. 26, 1992, [106 Stat. 959][/us/stat/106/959], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[amending this section and enacting provisions set out below\] and the amendments made by this Act shall take effect 6 months after the date of the enactment of this Act \[Aug. 26, 1992\].
 
->     “(b) __Pending Cases Not Affected.—__ 
+>     “(b)  __Pending Cases Not Affected__  __.—__ 
 
 >     This Act and the amendments made by this Act shall not affect any action commenced before the effective date of this Act and pending in the United States District Court for the Central District of California on such date.
 
->     “(c) __Juries Not Affected.—__ 
+>     “(c)  __Juries Not Affected__  __.—__ 
 
 >     This Act and the amendments made by this Act shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving in the Central Judicial District of California on the effective date of this Act.”
 

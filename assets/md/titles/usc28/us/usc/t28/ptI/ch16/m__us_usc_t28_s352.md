@@ -15,7 +15,7 @@
 
 ## § 352. Review of complaint by chief judge
 
-    (a) __Expeditious Review; Limited Inquiry.—__ 
+    (a)  __Expeditious Review; Limited Inquiry__  __.—__ 
 
     The chief judge shall expeditiously review any complaint received under section 351(a) or identified under section 351(b). In determining what action to take, the chief judge may conduct a limited inquiry for the purpose of determining—
 
@@ -25,7 +25,7 @@
 
         For this purpose, the chief judge may request the judge whose conduct is complained of to file a written response to the complaint. Such response shall not be made available to the complainant unless authorized by the judge filing the response. The chief judge or his or her designee may also communicate orally or in writing with the complainant, the judge whose conduct is complained of, and any other person who may have knowledge of the matter, and may review any transcripts or other relevant documents. The chief judge shall not undertake to make findings of fact about any matter that is reasonably in dispute.
 
-    (b) __Action by Chief Judge Following Review.—__ 
+    (b)  __Action by Chief Judge Following Review__  __.—__ 
 
     After expeditiously reviewing a complaint under subsection (a), the chief judge, by written order stating his or her reasons, may—
 
@@ -49,11 +49,11 @@
 
         The chief judge shall transmit copies of the written order to the complainant and to the judge whose conduct is the subject of the complaint.
 
-    (c) __Review of Orders of Chief Judge.—__ 
+    (c)  __Review of Orders of Chief Judge__  __.—__ 
 
     A complainant or judge aggrieved by a final order of the chief judge under this section may petition the judicial council of the circuit for review thereof. The denial of a petition for review of the chief judge’s order shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
 
-    (d) __Referral of Petitions for Review to Panels of the Judicial Council.—__ 
+    (d)  __Referral of Petitions for Review to Panels of the Judicial Council__  __.—__ 
 
     Each judicial council may, pursuant to rules prescribed under section 358, refer a petition for review filed under subsection (c) to a panel of no fewer than 5 members of the council, at least 2 of whom shall be district judges.
 

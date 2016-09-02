@@ -15,15 +15,15 @@
 
 ## § 540A. Investigation of violent crimes against travelers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     At the request of an appropriate law enforcement official of a State or political subdivision, the Attorney General and Director of the Federal Bureau of Investigation may assist in the investigation of a felony crime of violence in violation of the law of any State in which the victim appears to have been selected because he or she is a traveler.
 
-    (b) __Foreign Travelers.—__ 
+    (b)  __Foreign Travelers__  __.—__ 
 
     In a case in which the traveler who is a victim of a crime described in subsection (a) is from a foreign nation, the Attorney General and Director of the Federal Bureau of Investigation, and, when appropriate, the Secretary of State shall assist the prosecuting and law enforcement officials of a State or political subdivision to the fullest extent possible in securing from abroad such evidence or other information as may be needed for the effective investigation and prosecution of the crime.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section—
 

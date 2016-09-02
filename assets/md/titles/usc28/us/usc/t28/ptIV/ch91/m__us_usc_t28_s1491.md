@@ -171,11 +171,11 @@
 
 [Pub. L. 104–320, § 12(e)][/us/pl/104/320/s12/e], Oct. 19, 1996, [110 Stat. 3875][/us/stat/110/3875], provided that:
 
->     “(1) __Orders.—__ 
+>     “(1)  __Orders__  __.—__ 
 
 >     A termination under subsection (d) \[set out below\] shall not terminate the effectiveness of orders that have been issued by a court in connection with an action within the jurisdiction of that court on or before December 31, 2000. Such orders shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked by a court of competent jurisdiction or by operation of law.
 
->     “(2) __Proceedings and applications.—__ 
+>     “(2)  __Proceedings and applications__  __.—__ 
 
 >         (A) a termination under subsection (d) shall not affect the jurisdiction of a court of the United States to continue with any proceeding that is pending before the court on December 31, 2000.
 

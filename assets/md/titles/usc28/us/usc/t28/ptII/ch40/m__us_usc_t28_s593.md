@@ -15,35 +15,35 @@
 
 ## § 593. Duties of the division of the court
 
-    (a) __Reference to Division of the Court.—__ 
+    (a)  __Reference to Division of the Court__  __.—__ 
 
     The division of the court to which this chapter refers is the division established under [section 49 of this title][/us/usc/t28/s49].
 
     (b) __Appointment and Jurisdiction of Independent Counsel.—__ 
 
-        (1) __Authority.—__ 
+        (1)  __Authority__  __.—__ 
 
         Upon receipt of an application under section 592(c), the division of the court shall appoint an appropriate independent counsel and shall define that independent counsel’s prosecutorial jurisdiction.
 
-        (2) __Qualifications of independent counsel.—__ 
+        (2)  __Qualifications of independent counsel__  __.—__ 
 
         The division of the court shall appoint as independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in a prompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
 
-        (3) __Scope of prosecutorial jurisdiction.—__ 
+        (3)  __Scope of prosecutorial jurisdiction__  __.—__ 
 
         In defining the independent counsel’s prosecutorial jurisdiction, the division of the court shall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter. Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General’s request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
 
-        (4) __Disclosure of identity and prosecutorial jurisdiction.—__ 
+        (4)  __Disclosure of identity and prosecutorial jurisdiction__  __.—__ 
 
         An independent counsel’s identity and prosecutorial jurisdiction (including any expansion under subsection (c)) may not be made public except upon the request of the Attorney General or upon a determination of the division of the court that disclosure of the identity and prosecutorial jurisdiction of such independent counsel would be in the best interests of justice. In any event, the identity and prosecutorial jurisdiction of such independent counsel shall be made public when any indictment is returned, or any criminal information is filed, pursuant to the independent counsel’s investigation.
 
     (c) __Expansion of Jurisdiction.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The division of the court, upon the request of the Attorney General, may expand the prosecutorial jurisdiction of an independent counsel, and such expansion may be in lieu of the appointment of another independent counsel.
 
-        (2) __Procedure for request by independent counsel.—__ 
+        (2)  __Procedure for request by independent counsel__  __.—__ 
 
             (A) If the independent counsel discovers or receives information about possible violations of criminal law by persons as provided in section 591, which are not covered by the prosecutorial jurisdiction of the independent counsel, the independent counsel may submit such information to the Attorney General. The Attorney General shall then conduct a preliminary investigation of the information in accordance with the provisions of section 592, except that such preliminary investigation shall not exceed 30 days from the date such information is received. In making the determinations required by section 592, the Attorney General shall give great weight to any recommendations of the independent counsel.
 
@@ -59,21 +59,21 @@
 
                 the division of the court shall expand the jurisdiction of the appropriate independent counsel to include the matters involved or shall appoint another independent counsel to investigate such matters.
 
-    (d) __Return for Further Explanation.—__ 
+    (d)  __Return for Further Explanation__  __.—__ 
 
     Upon receipt of a notification under section 592 or subsection (c)(2)(B) of this section from the Attorney General that there are no reasonable grounds to believe that further investigation is warranted with respect to information received under this chapter, the division of the court shall have no authority to overrule this determination but may return the matter to the Attorney General for further explanation of the reasons for such determination.
 
-    (e) __Vacancies.—__ 
+    (e)  __Vacancies__  __.—__ 
 
     If a vacancy in office arises by reason of the resignation, death, or removal of an independent counsel, the division of the court shall appoint an independent counsel to complete the work of the independent counsel whose resignation, death, or removal caused the vacancy, except that in the case of a vacancy arising by reason of the removal of an independent counsel, the division of the court may appoint an acting independent counsel to serve until any judicial review of such removal is completed.
 
     (f) __Attorneys’ Fees.—__ 
 
-        (1) __Award of fees.—__ 
+        (1)  __Award of fees__  __.—__ 
 
         Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  independent counsel who conducted the investigation and Attorney  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “the”. </sup></sup>  General of any request for attorneys’ fees under this subsection.
 
-        (2) __Evaluation of fees.—__ 
+        (2)  __Evaluation of fees__  __.—__ 
 
         The division of the court shall direct such independent counsel and the Attorney General to file a written evaluation of any request for attorneys’ fees under this subsection, addressing—
 
@@ -85,11 +85,11 @@
 
             (D) the reasonableness of the amount of money requested.
 
-    (g) __Disclosure of Information.—__ 
+    (g)  __Disclosure of Information__  __.—__ 
 
     The division of the court may, subject to section 594(h)(2), allow the disclosure of any notification, application, or any other document, material, or memorandum supplied to the division of the court under this chapter.
 
-    (h) __Amicus Curiae Briefs.—__ 
+    (h)  __Amicus Curiae Briefs__  __.—__ 
 
     When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
 

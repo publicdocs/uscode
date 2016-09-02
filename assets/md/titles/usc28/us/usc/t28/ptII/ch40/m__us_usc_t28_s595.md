@@ -17,15 +17,15 @@
 
     (a) __Oversight of Conduct of Independent Counsel.—__ 
 
-        (1) __Congressional oversight.—__ 
+        (1)  __Congressional oversight__  __.—__ 
 
         The appropriate committees of the Congress shall have oversight jurisdiction with respect to the official conduct of any independent counsel appointed under this chapter, and such independent counsel shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
-        (2) __Reports to congress.—__ 
+        (2)  __Reports to congress__  __.—__ 
 
         An independent counsel appointed under this chapter shall submit to the Congress annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made.
 
-    (b) __Oversight of Conduct of Attorney General.—__ 
+    (b)  __Oversight of Conduct of Attorney General__  __.—__ 
 
     Within 15 days after receiving an inquiry about a particular case under this chapter, which is a matter of public knowledge, from a committee of the Congress with jurisdiction over this chapter, the Attorney General shall provide the following information to that committee with respect to that case:
 
@@ -35,7 +35,7 @@
 
         (3) Whether an application for the appointment of an independent counsel or a notification that further investigation is not warranted has been filed with the division of the court, and if so, the date of such filing.
 
-    (c) __Information Relating to Impeachment.—__ 
+    (c)  __Information Relating to Impeachment__  __.—__ 
 
     An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel’s responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or [section 49 of this title][/us/usc/t28/s49] shall prevent the Congress or either House thereof from obtaining information in the course of an impeachment proceeding.
 

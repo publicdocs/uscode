@@ -81,13 +81,13 @@
 
                 (ii) should make every effort to provide the information in a manner sufficient to allow the court to direct the United States Marshall’s office to promptly and effectively execute against that property.
 
-        (3) __Waiver.—__ 
+        (3)  __Waiver__  __.—__ 
 
         The President may waive any provision of paragraph (1) in the interest of national security.
 
     (g) __Property in Certain Actions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (3), the property of a foreign state against which a judgment is entered under section 1605A, and the property of an agency or instrumentality of such a state, including property that is a separate juridical entity or is an interest held directly or indirectly in a separate juridical entity, is subject to attachment in aid of execution, and execution, upon that judgment as provided in this section, regardless of—
 
@@ -101,11 +101,11 @@
 
             (E) whether establishing the property as a separate entity would entitle the foreign state to benefits in United States courts while avoiding its obligations.
 
-        (2) __United states sovereign immunity inapplicable.—__ 
+        (2)  __United states sovereign immunity inapplicable__  __.—__ 
 
         Any property of a foreign state, or agency or instrumentality of a foreign state, to which paragraph (1) applies shall not be immune from attachment in aid of execution, or execution, upon a judgment entered under section 1605A because the property is regulated by the United States Government by reason of action taken against that foreign state under the Trading With the Enemy Act or the International Emergency Economic Powers Act.
 
-        (3) __Third-party joint property holders.—__ 
+        (3)  __Third-party joint property holders__  __.—__ 
 
         Nothing in this subsection shall be construed to supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property subject to attachment in aid of execution, or execution, upon such judgment.
 
@@ -175,17 +175,17 @@
 
 [Pub. L. 107–297, title II, § 201(a)][/us/pl/107/297/s201/a], (b), (d), Nov. 26, 2002, [116 Stat. 2337][/us/stat/116/2337], 2339, as amended by [Pub. L. 112–158, title V, § 502(e)(2)][/us/pl/112/158/s502/e/2], Aug. 10, 2012, [126 Stat. 1260][/us/stat/126/1260], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, and except as provided in subsection (b), in every case in which a person has obtained a judgment against a terrorist party on a claim based upon an act of terrorism, or for which a terrorist party is not immune under section 1605A or 1605(a)(7) (as such section was in effect on January 27, 2008) of title 28, United States Code, the blocked assets of that terrorist party (including the blocked assets of any agency or instrumentality of that terrorist party) shall be subject to execution or attachment in aid of execution in order to satisfy such judgment to the extent of any compensatory damages for which such terrorist party has been adjudged liable.
 
 >     “(b) __Presidential Waiver.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), upon determining on an asset-by-asset basis that a waiver is necessary in the national security interest, the President may waive the requirements of subsection (a) in connection with (and prior to the enforcement of) any judicial order directing attachment in aid of execution or execution against any property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         A waiver under this subsection shall not apply to—
 
@@ -193,11 +193,11 @@
 
 >             “(B) the proceeds of any sale or transfer for value to a third party of any asset subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions shall apply:
 
->         “(1) __Act of terrorism.—__ 
+>         “(1)  __Act of terrorism__  __.—__ 
 
 >         The term ‘act of terrorism’ means—
 
@@ -205,7 +205,7 @@
 
 >             “(B) to the extent not covered by subparagraph (A), any terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)(iii)][/us/usc/t8/s1182/a/3/B/iii])).
 
->         “(2) __Blocked asset.—__ 
+>         “(2)  __Blocked asset__  __.—__ 
 
 >         The term ‘blocked asset’ means—
 
@@ -219,11 +219,11 @@
 
 >                 “(ii) in the case of property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoys equivalent privileges and immunities under the law of the United States, is being used exclusively for diplomatic or consular purposes.
 
->         “(3) __Certain property.—__ 
+>         “(3)  __Certain property__  __.—__ 
 
 >         The term ‘property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations’ and the term ‘asset subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations’ mean any property or asset, respectively, the attachment in aid of execution or execution of which would result in a violation of an obligation of the United States under the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, as the case may be.
 
->         “(4) __Terrorist party.—__ 
+>         “(4)  __Terrorist party__  __.—__ 
 
 >         The term ‘terrorist party’ means a terrorist, a terrorist organization (as defined in section 212(a)(3)(B)(vi) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)(vi)][/us/usc/t8/s1182/a/3/B/vi])), or a foreign state designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]).”
 

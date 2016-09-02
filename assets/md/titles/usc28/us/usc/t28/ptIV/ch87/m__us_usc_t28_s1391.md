@@ -15,7 +15,7 @@
 
 ## § 1391. Venue generally
 
-    (a) __Applicability of Section.—__ 
+    (a)  __Applicability of Section__  __.—__ 
 
     Except as otherwise provided by law—
 
@@ -23,7 +23,7 @@
 
         (2) the proper venue for a civil action shall be determined without regard to whether the action is local or transitory in nature.
 
-    (b) __Venue in General.—__ 
+    (b)  __Venue in General__  __.—__ 
 
     A civil action may be brought in—
 
@@ -33,7 +33,7 @@
 
         (3) if there is no district in which an action may otherwise be brought as provided in this section, any judicial district in which any defendant is subject to the court’s personal jurisdiction with respect to such action.
 
-    (c) __Residency.—__ 
+    (c)  __Residency__  __.—__ 
 
     For all venue purposes—
 
@@ -43,21 +43,21 @@
 
         (3) a defendant not resident in the United States may be sued in any judicial district, and the joinder of such a defendant shall be disregarded in determining where the action may be brought with respect to other defendants.
 
-    (d) __Residency of Corporations in States With Multiple Districts.—__ 
+    (d)  __Residency of Corporations in States With Multiple Districts__  __.—__ 
 
     For purposes of venue under this chapter, in a State which has more than one judicial district and in which a defendant that is a corporation is subject to personal jurisdiction at the time an action is commenced, such corporation shall be deemed to reside in any district in that State within which its contacts would be sufficient to subject it to personal jurisdiction if that district were a separate State, and, if there is no such district, the corporation shall be deemed to reside in the district within which it has the most significant contacts.
 
     (e) __Actions Where Defendant Is Officer or Employee of the United States.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A civil action in which a defendant is an officer or employee of the United States or any agency thereof acting in his official capacity or under color of legal authority, or an agency of the United States, or the United States, may, except as otherwise provided by law, be brought in any judicial district in which (A) a defendant in the action resides, (B) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (C) the plaintiff resides if no real property is involved in the action. Additional persons may be joined as parties to any such action in accordance with the Federal Rules of Civil Procedure and with such other venue requirements as would be applicable if the United States or one of its officers, employees, or agencies were not a party.
 
-        (2) __Service.—__ 
+        (2)  __Service__  __.—__ 
 
         The summons and complaint in such an action shall be served as provided by the Federal Rules of Civil Procedure except that the delivery of the summons and complaint to the officer or agency as required by the rules may be made by certified mail beyond the territorial limits of the district in which the action is brought.
 
-    (f) __Civil Actions Against a Foreign State.—__ 
+    (f)  __Civil Actions Against a Foreign State__  __.—__ 
 
     A civil action against a foreign state as defined in [section 1603(a) of this title][/us/usc/t28/s1603/a] may be brought—
 
@@ -69,7 +69,7 @@
 
         (4) in the United States District Court for the District of Columbia if the action is brought against a foreign state or political subdivision thereof.
 
-    (g) __Multiparty, Multiforum Litigation.—__ 
+    (g)  __Multiparty, Multiforum Litigation__  __.—__ 
 
     A civil action in which jurisdiction of the district court is based upon [section 1369 of this title][/us/usc/t28/s1369] may be brought in any district in which any defendant resides or in which a substantial part of the accident giving rise to the action took place.
 

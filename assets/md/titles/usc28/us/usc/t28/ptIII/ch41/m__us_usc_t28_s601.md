@@ -43,7 +43,7 @@
 
 [Pub. L. 105–339, § 4(d)][/us/pl/105/339/s4/d], Oct. 31, 1998, [112 Stat. 3186][/us/stat/112/3186], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraphs (2) and (3), the Judicial Conference of the United States shall prescribe procedures to provide for—
 
@@ -51,11 +51,11 @@
 
 >         “(B) redress for alleged violations of any rights provided for under subparagraph (A).
 
->     “(2) __Procedures.—__ 
+>     “(2)  __Procedures__  __.—__ 
 
 >     Under the procedures, a preference eligible (as defined by [section 2108 of title 5][/us/usc/t5/s2108], United States Code) shall be afforded preferences in a manner and to the extent consistent with preferences afforded to preference eligibles in the executive branch.
 
->     “(3) __Exclusions.—__ 
+>     “(3)  __Exclusions__  __.—__ 
 
 >     Nothing in the procedures shall apply with respect to an applicant or employee—
 
@@ -67,17 +67,17 @@
 
 >         “(D) whose appointment is to a position, the duties of which are equivalent to those of a Senior Executive Service position (within the meaning of [section 3132(a)(2) of title 5][/us/usc/t5/s3132/a/2], United States Code).
 
->     “(4) __Definitions.—__ 
+>     “(4)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, the term ‘judicial officer’ means a justice, judge, or magistrate judge listed in subparagraph (A), (B), (F), or (G) of [section 376(a)(1) of title 28][/us/usc/t28/s376/a/1], United States Code.
 
 >     “(5) __Submission to congress; effective date.—__ 
 
->         “(A) __Submission to congress.—__ 
+>         “(A)  __Submission to congress__  __.—__ 
 
 >         Not later than 12 months after the date of enactment of this Act \[Oct. 31, 1998\], the Judicial Conference of the United States shall submit a copy of the procedures prescribed under this subsection to the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] and the Committee on the Judiciary of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on the Judiciary of the Senate.
 
->         “(B) __Effective date.—__ 
+>         “(B)  __Effective date__  __.—__ 
 
 >         The procedures prescribed under this subsection shall take effect 13 months after the date of enactment of this Act.”
 

@@ -15,7 +15,7 @@
 
 ## § 654. Arbitration
 
-    (a) __Referral of Actions to Arbitration.—__ 
+    (a)  __Referral of Actions to Arbitration__  __.—__ 
 
     Notwithstanding any provision of law to the contrary and except as provided in subsections (a), (b), and (c) of section 652 and subsection (d) of this section, a district court may allow the referral to arbitration of any civil action (including any adversary proceeding in bankruptcy) pending before it when the parties consent, except that referral to arbitration may not be made where—
 
@@ -25,7 +25,7 @@
 
         (3) the relief sought consists of money damages in an amount greater than $150,000.
 
-    (b) __Safeguards in Consent Cases.—__ 
+    (b)  __Safeguards in Consent Cases__  __.—__ 
 
     Until such time as rules are adopted under chapter 131 of this title relating to procedures described in this subsection, the district court shall, by local rule adopted under section 2071(a), establish procedures to ensure that any civil action in which arbitration by consent is allowed under subsection (a)—
 
@@ -33,11 +33,11 @@
 
         (2) no party or attorney is prejudiced for refusing to participate in arbitration.
 
-    (c) __Presumptions.—__ 
+    (c)  __Presumptions__  __.—__ 
 
     For purposes of subsection (a)(3), a district court may presume damages are not in excess of $150,000 unless counsel certifies that damages exceed such amount.
 
-    (d) __Existing Programs.—__ 
+    (d)  __Existing Programs__  __.—__ 
 
     Nothing in this chapter is deemed to affect any program in which arbitration is conducted pursuant to section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “section” probably should not appear. </sup></sup>  title IX of the Judicial Improvements and Access to Justice Act ([Public Law 100–702][/us/pl/100/702]), as amended by [section 1 of Public Law 105–53][/us/pl/105/53/s1].
 

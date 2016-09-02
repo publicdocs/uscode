@@ -45,15 +45,15 @@
 
 [Pub. L. 103–322, title IV, § 40141][/us/pl/103/322/s40141], Sept. 13, 1994, [108 Stat. 1918][/us/stat/108/1918], provided that:
 
->     “(a) __Modification of Proposed Amendment.—__ 
+>     “(a)  __Modification of Proposed Amendment__  __.—__ 
 
 >     The proposed amendments to the Federal Rules of Evidence that are embraced by an order entered by the Supreme Court of the United States on April 29, 1994, shall take effect on December 1, 1994, as otherwise provided by law, but with the amendment made by subsection (b).
 
->     “(b) __Rule.—__ 
+>     “(b)  __Rule__  __.—__ 
 
 >     \[Amended Rule 412 of the Federal Rules of Evidence.\]
 
->     “(c) __Technical Amendment.—__ 
+>     “(c)  __Technical Amendment__  __.—__ 
 
 >     \[Amended table of contents for the Federal Rules of Evidence.\]”
 
@@ -61,15 +61,15 @@
 
 [Pub. L. 103–322, title XXIII, § 230101][/us/pl/103/322/s230101], Sept. 13, 1994, [108 Stat. 2077][/us/stat/108/2077], provided that:
 
->     “(a) __Modification of Proposed Amendments.—__ 
+>     “(a)  __Modification of Proposed Amendments__  __.—__ 
 
 >     The proposed amendments to the Federal Rules of Criminal Procedure which are embraced by an order entered by the Supreme Court of the United States on April 29, 1994, shall take effect on December 1, 1994, as otherwise provided by law, but with the following amendments:
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     \[Amended Rule 32 of the Federal Rules of Criminal Procedure.\]
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The amendments made by subsection (b) shall become effective on December 1, 1994.”
 
@@ -77,11 +77,11 @@
 
 [Pub. L. 102–198, § 11][/us/pl/102/198/s11], Dec. 9, 1991, [105 Stat. 1626][/us/stat/105/1626], provided that:
 
->     “(a) __Technical Amendment.—__ 
+>     “(a)  __Technical Amendment__  __.—__ 
 
 >     Rule 15(c)(3) of the Federal Rules of Civil Procedure for the United States Courts, as transmitted to the Congress by the Supreme Court pursuant to [section 2074 of title 28][/us/usc/t28/s2074], United States Code, to become effective on December 1, 1991, is amended by striking ‘Rule 4(m)’ and inserting ‘Rule 4(j)’.
 
->     “(b) __Amendment to Forms.—__ 
+>     “(b)  __Amendment to Forms__  __.—__ 
 
 >     Form 1–A, Notice of Lawsuit and Request for Waiver of Service of Summons, and Form 1–B, Waiver of Service of Summons, included in the transmittal by the Supreme Court described in subsection (a), shall not be effective and Form 18–A, Notice and Acknowledgment for Service by Mail, abrogated by the Supreme Court in such transmittal, effective December 1, 1991, shall continue in effect on or after that date.”
 

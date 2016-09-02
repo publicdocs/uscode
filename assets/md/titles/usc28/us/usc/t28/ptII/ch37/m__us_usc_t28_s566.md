@@ -69,15 +69,15 @@
 
 [Pub. L. 106–544, § 6][/us/pl/106/544/s6], Dec. 19, 2000, [114 Stat. 2718][/us/stat/114/2718], as amended by [Pub. L. 110–177, title V, § 507][/us/pl/110/177/s507], Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall, upon consultation with appropriate Department of Justice and Department of the Treasury law enforcement components, establish permanent Fugitive Apprehension Task Forces consisting of Federal, State, and local law enforcement authorities in designated regions of the United States, to be directed and coordinated by the United States Marshals Service, for the purpose of locating and apprehending fugitives.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Attorney General for the United States Marshals Service to carry out the provisions of this section $30,000,000 for the fiscal year 2001, $5,000,000 for fiscal year 2002, $5,000,000 for fiscal year 2003, and $10,000,000 for each of fiscal years 2008 through 2012.
 
->     “(c) __Other Existing Applicable Law.—__ 
+>     “(c)  __Other Existing Applicable Law__  __.—__ 
 
 >     Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.”
 

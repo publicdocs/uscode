@@ -23,11 +23,11 @@
 
         (3) The surveys shall be made with a view toward creating and maintaining a system of full-time United States magistrate judges. However, should the Director find, as a result of any such surveys, areas in which the employment of a full-time magistrate judge would not be feasible or desirable, he shall recommend the appointment of part-time United States magistrate judges in such numbers and at such locations as may be required to permit prompt and efficient issuance of process and to permit individuals charged with criminal offenses against the United States to be brought before a judicial officer of the United States promptly after arrest.
 
-    (b) __Determination by the Conference.—__ 
+    (b)  __Determination by the Conference__  __.—__ 
 
     Upon the completion of the initial surveys required by subsection (a) of this section, the Director shall report to the district courts, the councils, and the conference his recommendations concerning the number of full-time magistrates and part-time magistrates, their respective locations, and the amount of their respective salaries under [section 634 of this title][/us/usc/t28/s634]. The district courts shall advise their respective councils, stating their recommendations and the reasons therefor; the councils shall advise the conference, stating their recommendations and the reasons therefor, and shall also report to the conference the recommendations of the district courts. The conference shall determine, in the light of the recommendations of the Director, the district courts, and the councils, the number of full-time United States magistrates and part-time United States magistrates, the locations at which they shall serve, and their respective salaries. Such determinations shall take effect in each judicial district at such time as the district court for such judicial district shall determine, but in no event later than one year after they are promulgated.
 
-    (c) __Changes in Number, Locations, and Salaries.—__ 
+    (c)  __Changes in Number, Locations, and Salaries__  __.—__ 
 
     Except as otherwise provided in this chapter, the conference may, from time to time, in the light of the recommendations of the Director, the district courts, and the councils, change the number, locations, and salaries of full-time and part-time magistrate judges, as the expeditious administration of justice may require.
 

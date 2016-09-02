@@ -577,7 +577,7 @@ Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Depa
 
 [Pub. L. 107–56, title I, § 101][/us/pl/107/56/s101], Oct. 26, 2001, [115 Stat. 276][/us/stat/115/276], provided that:
 
->     “(a) __Establishment; Availability.—__ 
+>     “(a)  __Establishment; Availability__  __.—__ 
 
 >     There is hereby established in the Treasury of the United States a separate fund to be known as the ‘Counterterrorism Fund’, amounts in which shall remain available without fiscal year limitation—
 
@@ -593,7 +593,7 @@ Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Depa
 
 >         “(2) to reimburse any department or agency of the Federal Government for any costs incurred in connection with detaining in foreign countries individuals accused of acts of terrorism that violate the laws of the United States.
 
->     “(b) __No Effect on Prior Appropriations.—__ 
+>     “(b)  __No Effect on Prior Appropriations__  __.—__ 
 
 >     Subsection (a) shall not be construed to affect the amount or availability of any appropriation to the Counterterrorism Fund made before the date of the enactment of this Act \[Oct. 26, 2001\].”
 

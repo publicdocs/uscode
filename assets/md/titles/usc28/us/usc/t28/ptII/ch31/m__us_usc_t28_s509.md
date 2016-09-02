@@ -117,23 +117,23 @@ Statutes at Large  </td>
 
 > “SEC. 3. __DEPUTY CHIEF OF THE CRIMINAL SECTION OF THE CIVIL RIGHTS DIVISION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall designate a Deputy Chief in the Criminal Section of the Civil Rights Division of the Department of Justice.
 
 >     “(b) __Responsibility.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Deputy Chief shall be responsible for coordinating the investigation and prosecution of violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
 
->         “(2) __Coordination.—__ 
+>         “(2)  __Coordination__  __.—__ 
 
 >         In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials.
 
 >     “(c) __Study and Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
 
@@ -151,43 +151,43 @@ Statutes at Large  </td>
 
 >             “(G) the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Oct. 7, 2008\], and each year thereafter, the Attorney General shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1).
 
 > “SEC. 4. __SUPERVISORY SPECIAL AGENT IN THE CIVIL RIGHTS UNIT OF THE FEDERAL BUREAU OF INVESTIGATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall designate a Supervisory Special Agent in the Civil Rights Unit of the Federal Bureau of Investigation of the Department of Justice.
 
 >     “(b) __Responsibility.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Supervisory Special Agent shall be responsible for investigating violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
 
->         “(2) __Coordination.—__ 
+>         “(2)  __Coordination__  __.—__ 
 
 >         In investigating a complaint under paragraph (1), the Supervisory Special Agent may coordinate the investigative activities with State and local law enforcement officials.
 
 > “SEC. 5. __GRANTS TO STATE AND LOCAL LAW ENFORCEMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General may award grants to State or local law enforcement agencies for expenses associated with the investigation and prosecution by them of criminal offenses, involving civil rights, that occurred not later than December 31, 1969, and resulted in a death.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $2,000,000 for each of the fiscal years 2008 through 2017 to carry out this section.
 
 > “SEC. 6. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2017 for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
 
->     “(b) __Community Relations Service of the Department of Justice.—__ 
+>     “(b)  __Community Relations Service of the Department of Justice__  __.—__ 
 
 >     In addition to any amounts authorized to be appropriated under title XI of the Civil Rights Act of 1964 ([42 U.S.C. 2000h][/us/usc/t42/s2000h] et seq.), there are authorized to be appropriated to the Community Relations Service of the Department of Justice $1,500,000 for fiscal year 2008 and each subsequent fiscal year, to enable the Service (in carrying out the functions described in title X of such Act ([42 U.S.C. 2000g][/us/usc/t42/s2000g] et seq.)) to provide technical assistance by bringing together law enforcement agencies and communities in the investigation of violations of criminal civil rights statutes, in cases described in section 4(b).
 
@@ -225,7 +225,7 @@ Statutes at Large  </td>
 
 [Pub. L. 109–162, title XI, § 1105][/us/pl/109/162/s1105], Jan. 5, 2006, [119 Stat. 3092][/us/stat/119/3092], as amended by [Pub. L. 109–271, § 8(a)][/us/pl/109/271/s8/a], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766], provided that:
 
->     “(a) __National Data.—__ 
+>     “(a)  __National Data__  __.—__ 
 
 >         (1) The Attorney General and the Federal Bureau of Investigation, in consultation with the retail community, shall establish a task force to combat organized retail theft and provide expertise to the retail community for the establishment of a national database or clearinghouse housed and maintained in the private sector to track and identify where organized retail theft type crimes are being committed in the United Sates \[sic\]. The national database shall allow Federal, State, and local law enforcement officials as well as authorized retail companies (and authorized associated retail databases) to transmit information into the database electronically and to review information that has been submitted electronically.
 
@@ -233,11 +233,11 @@ Statutes at Large  </td>
 
 >         “(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base \[sic\] project.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated for each of fiscal years 2006 through 2009, $5,000,000 for educating and training federal law enforcement regarding organized retail theft, for investigating, apprehending and prosecuting individuals engaged in organized retail theft, and for working with the private sector to establish and utilize the database described in subsection (a).
 
->     “(c) __Definition of Organized Retail Theft.—__ 
+>     “(c)  __Definition of Organized Retail Theft__  __.—__ 
 
 >     For purposes of this section, ‘organized retail theft’ means—
 
@@ -251,13 +251,13 @@ Statutes at Large  </td>
 
 [Pub. L. 109–162, title XI, § 1106][/us/pl/109/162/s1106], Jan. 5, 2006, [119 Stat. 3093][/us/stat/119/3093], provided that:
 
->     “(a) __Task Force.—__ 
+>     “(a)  __Task Force__  __.—__ 
 
 >         (1) The Attorney General shall establish the United States-Mexico Border Violence Task Force in Laredo, Texas, to combat drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico and to provide expertise to the law enforcement and homeland security agencies along the border between the United States and Mexico. The Task Force shall include personnel from the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Immigration and Customs Enforcement, the Drug Enforcement Administration, Customs and Border Protection, other Federal agencies (as appropriate), the Texas Department of Public Safety, and local law enforcement agencies.
 
 >         “(2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to Federal, State, and local law enforcement agencies participating in the Task Force.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $10,000,000 for each of the fiscal years 2006 through 2009, for—
 
@@ -269,11 +269,11 @@ Statutes at Large  </td>
 
 [Pub. L. 109–162, title XI, § 1174][/us/pl/109/162/s1174], Jan. 5, 2006, [119 Stat. 3124][/us/stat/119/3124], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall designate a senior official in the Department of Justice to assume primary responsibility for privacy policy.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The responsibilities of such official shall include advising the Attorney General regarding—
 
@@ -289,11 +289,11 @@ Statutes at Large  </td>
 
 >         “(6) privacy-related reports from the Department to Congress and the President.
 
->     “(c) __Review of Privacy Related Functions, Resources, and Report.—__ 
+>     “(c)  __Review of Privacy Related Functions, Resources, and Report__  __.—__ 
 
 >     Within 120 days of his designation, the privacy official shall prepare a comprehensive report to the Attorney General and to the Committees on the Judiciary of the House of Representatives and of the Senate, describing the organization and resources of the Department with respect to privacy and related information management functions, including access, security, and records management, assessing the Department’s current and future needs relating to information privacy issues, and making appropriate recommendations regarding the Department’s organizational structure and personnel.
 
->     “(d) __Annual Report.—__ 
+>     “(d)  __Annual Report__  __.—__ 
 
 >     The privacy official shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on an annual basis on activities of the Department that affect privacy, including a summary of complaints of privacy violations, implementation of [section 552a of title 5][/us/usc/t5/s552a], United States Code, internal controls, and other relevant matters.”
 
@@ -331,11 +331,11 @@ Statutes at Large  </td>
 
 [Pub. L. 107–273, div. A, title I, § 104][/us/pl/107/273/s104], Nov. 2, 2002, [116 Stat. 1766][/us/stat/116/1766], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall establish a program for each United States Attorney to provide for coordination with State and local law enforcement officials in the identification and prosecution of violations of Federal firearms laws including school gun violence and juvenile gun offenses.
 
->     “(b) __Authorization for Hiring 94 Additional Assistant United States Attorneys.—__ 
+>     “(b)  __Authorization for Hiring__  __94__  __Additional Assistant United States Attorneys__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $9,000,000 for fiscal year 2002 to hire an additional Assistant United States Attorney in each United States Attorney Office.”
 
@@ -343,7 +343,7 @@ Statutes at Large  </td>
 
 [Pub. L. 107–56, title VIII, § 816][/us/pl/107/56/s816], Oct. 26, 2001, [115 Stat. 385][/us/stat/115/385], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
 
@@ -359,11 +359,11 @@ Statutes at Large  </td>
 
 >     “(b) __Authorization of Appropriations.—__ 
 
->         “(1) __Authorization.—__ 
+>         “(1)  __Authorization__  __.—__ 
 
 >         There is hereby authorized to be appropriated in each fiscal year $50,000,000 for purposes of carrying out this section.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.”
 
@@ -371,7 +371,7 @@ Statutes at Large  </td>
 
 [Pub. L. 107–56, title IX, § 908][/us/pl/107/56/s908], Oct. 26, 2001, [115 Stat. 391][/us/stat/115/391], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Attorney General shall, in consultation with the Director of Central Intelligence, carry out a program to provide appropriate training to officials described in subsection (b) in order to assist such officials in—
 
@@ -379,7 +379,7 @@ Statutes at Large  </td>
 
 >         “(2) utilizing foreign intelligence information in the course of their duties, to the extent that the utilization of such information is appropriate for such duties.
 
->     “(b) __Officials.—__ 
+>     “(b)  __Officials__  __.—__ 
 
 >     The officials provided training under subsection (a) are, at the discretion of the Attorney General and the Director, the following:
 
@@ -387,7 +387,7 @@ Statutes at Large  </td>
 
 >         “(2) Officials of State and local governments who encounter, or may encounter in the course of a terrorist event, foreign intelligence in the performance of their duties.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is hereby authorized to be appropriated for the Department of Justice such sums as may be necessary for purposes of carrying out the program required by subsection (a).”
 
@@ -397,11 +397,11 @@ Statutes at Large  </td>
 
 [Pub. L. 107–56, title X, § 1005][/us/pl/107/56/s1005], Oct. 26, 2001, [115 Stat. 393][/us/stat/115/393], provided that:
 
->     “(a) __Grant Authorization.—__ 
+>     “(a)  __Grant Authorization__  __.—__ 
 
 >     The Attorney General shall make grants described in subsections (b) and (c) to States and units of local government to improve the ability of State and local law enforcement, fire department and first responders to respond to and prevent acts of terrorism.
 
->     “(b) __Terrorism Prevention Grants.—__ 
+>     “(b)  __Terrorism Prevention Grants__  __.—__ 
 
 >     Terrorism prevention grants under this subsection may be used for programs, projects, and other activities to—
 
@@ -415,7 +415,7 @@ Statutes at Large  </td>
 
 >         “(5) fund technical assistance programs that emphasize coordination among neighboring law enforcement agencies for sharing resources, and resources coordination among law enforcement agencies for combining intelligence gathering and analysis functions, and the development of policy, procedures, memorandums of understanding, and other best practices.
 
->     “(c) __Antiterrorism Training Grants.—__ 
+>     “(c)  __Antiterrorism Training Grants__  __.—__ 
 
 >     Antiterrorism training grants under this subsection may be used for programs, projects, and other activities to address—
 
@@ -433,11 +433,11 @@ Statutes at Large  </td>
 
 >     “(d) __Application.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each eligible entity that desires to receive a grant under this section shall submit an application to the Attorney General, at such time, in such manner, and accompanied by such additional information as the Attorney General may reasonably require.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each application submitted pursuant to paragraph (1) shall—
 
@@ -445,11 +445,11 @@ Statutes at Large  </td>
 
 >             “(B) provide such additional assurances as the Attorney General determines to be essential to ensure compliance with the requirements of this section.
 
->     “(e) __Minimum Amount.—__ 
+>     “(e)  __Minimum Amount__  __.—__ 
 
 >     If all applications submitted by a State or units of local government within that State have not been funded under this section in any fiscal year, that State, if it qualifies, and the units of local government within that State, shall receive in that fiscal year not less than 0.5 percent of the total amount appropriated in that fiscal year for grants under this section.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $25,000,000 for each of the fiscal years 2003 through 2007.”
 
@@ -489,25 +489,25 @@ Statutes at Large  </td>
 
 > “SEC. 2536. __ESTABLISHMENT OF FINANCIAL INSTITUTIONS CRIME UNIT AND OFFICE OF SPECIAL COUNSEL FOR FINANCIAL INSTITUTIONS CRIME UNIT.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D (§§ 2536–2540) of title XXV of [Pub. L. 101–647][/us/pl/101/647], which amended [section 1441a of Title 12][/us/usc/t12/s1441a], Banks and Banking, and enacted this note\] referred to as the ‘Special Counsel’).
 
->     “(b) __Responsibility.—__ 
+>     “(b)  __Responsibility__  __.—__ 
 
 >     The Financial Institutions Fraud Unit and the Special Counsel shall be responsible to and shall report directly to the Deputy Attorney General.
 
->     “(c) __Sunset.—__ 
+>     “(c)  __Sunset__  __.—__ 
 
 >     The provisions of this section shall cease to apply at the end of the 5-year period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].
 
 > “SEC. 2537. __APPOINTMENT RESPONSIBILITIES AND COMPENSATION OF THE SPECIAL COUNSEL.__ 
 
->     “(a) __Appointment.—__ 
+>     “(a)  __Appointment__  __.—__ 
 
 >     The Special Counsel shall be appointed by the President, by and with the advice and consent of the Senate.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The Special Counsel shall—
 
@@ -517,7 +517,7 @@ Statutes at Large  </td>
 
 >         “(3) ensure that adequate resources are made available for the investigation and prosecution of fraud and other criminal activity in and against the financial services industry.
 
->     “(c) __Compensation.—__ 
+>     “(c)  __Compensation__  __.—__ 
 
 >     The Special Counsel shall be paid at the basic pay payable for level V of the Executive Schedule.
 
@@ -527,21 +527,21 @@ Statutes at Large  </td>
 
 > “SEC. 2539. __FINANCIAL INSTITUTIONS FRAUD TASK FORCES.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Attorney General shall establish such financial institutions fraud task forces as the Attorney General deems appropriate to ensure that adequate resources are made available to investigate and prosecute crimes in or against financial institutions and to recover the proceeds of unlawful activities from persons who have committed fraud or have engaged in other criminal activity in or against the financial services industry.
 
->     “(b) __Supervision.—__ 
+>     “(b)  __Supervision__  __.—__ 
 
 >     The Attorney General shall determine how each task force shall be supervised and may provide for the supervision of any task force by the Special Counsel.
 
 >     “(c) __Senior Interagency Group.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Attorney General shall establish a senior interagency group to assist in identifying the most significant financial institution fraud cases and in allocating investigative and prosecutorial resources where they are most needed.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The senior interagency group shall be chaired by the Special Counsel and shall include senior officials from—
 
@@ -557,7 +557,7 @@ Statutes at Large  </td>
 
 >             “(F) the National Credit Union Administration.
 
->         “(3) __Duties.—__ 
+>         “(3)  __Duties__  __.—__ 
 
 >         This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud.”
 
@@ -645,7 +645,7 @@ Statutes at Large  </td>
 
 > “SEC. 1053. __CIVIL ENFORCEMENT REPORT.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this title \[Nov. 18, 1988\], the Director of National Drug Control Policy (the Director) in consultation with the Attorney General, shall report to the Congress on the necessity to establish a new division or make other organizational changes within the Department of Justice in order to promote better civil and criminal law enforcement. In preparing such report, the Director shall consider restructuring and consolidating one or more of the following divisions and programs—
 
@@ -657,21 +657,21 @@ Statutes at Large  </td>
 
 >         “(4) the Organized Crime Drug Enforcement Task Force Program;\[.\]
 
->     “(b) __Legislative Recommendations.—__ 
+>     “(b)  __Legislative Recommendations__  __.—__ 
 
 >     The report submitted under subsection (a) shall include appropriate legislative recommendations for the Congress.
 
 > “SEC. 1054. __CIVIL ENFORCEMENT ENHANCEMENT.__ 
 
->     “(a) __Duty of Attorney General.—__ 
+>     “(a)  __Duty of Attorney General__  __.—__ 
 
 >     The Attorney General shall insure that each component of the Department of Justice having criminal law enforcement responsibilities with respect to the prosecution of organized crime and controlled substances violations, including each United States Attorney’s Office, attaches a high priority to the enforcement of civil statutes creating ancillary sanctions and remedies for such violations, such as civil penalties and actions, forfeitures, injunctions and restraining orders, and collection of fines.
 
->     “(b) __Duty of Associate Attorney General.—__ 
+>     “(b)  __Duty of Associate Attorney General__  __.—__ 
 
 >     The Associate Attorney General shall be responsible for implementing the policy set forth in this subsection.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >         (1) There are authorized to be appropriated $3,000,000 for salaries and expenses to the Department of Justice General Legal Activities Account and $3,000,000 for salaries and expenses for United States Attorneys for fiscal year 1989.
 
@@ -685,17 +685,17 @@ Statutes at Large  </td>
 
 >         “(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the Organized Crime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
 
->     “(d) __Reporting Requirement.—__ 
+>     “(d)  __Reporting Requirement__  __.—__ 
 
 >     The Attorney General, at the end of each such fiscal year, shall file a report with the Congress setting forth the extent of such enforcement efforts, as well as the need for any enhancements in resources necessary to carry out this policy.
 
 > “SEC. 1055. __EXPENSES OF TASK FORCES.__ 
 
->     “(a) __Appropriations and Reimbursements Procedure.—__ 
+>     “(a)  __Appropriations and Reimbursements Procedure__  __.—__ 
 
 >     Beginning in fiscal year 1990, the Attorney General in his budget shall submit a separate appropriations request for expenses relating to all Federal agencies participating in the Organized Crime Drug Enforcement Task Forces. Such appropriations shall be made to the Department of Justice’s Interagency Law Enforcement Appropriation Account for the Attorney General to make reimbursements to the involved agencies as necessary.
 
->     “(b) __Enhancement of Field Activities.—__ 
+>     “(b)  __Enhancement of Field Activities__  __.—__ 
 
 >     The appropriations and reimbursements procedure described under subsection (a) shall—
 
@@ -713,7 +713,7 @@ Statutes at Large  </td>
 
 [Pub. L. 100–690, title IX, § 9201][/us/pl/100/690/s9201], Nov. 18, 1988, [102 Stat. 4535][/us/stat/102/4535], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study—
 
@@ -721,7 +721,7 @@ Statutes at Large  </td>
 
 >         “(2) use the data derived from the impact analysis to develop a model that can be applied by Congress and Federal agencies and departments to help determine appropriate staff and budget responses in order to maintain balance in the Federal criminal justice system and effectively implement changes in resources, laws, or penalties.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     The Comptroller General shall report the results and recommendations derived from the study required by subsection (a) no later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\].”
 

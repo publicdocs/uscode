@@ -31,7 +31,7 @@
 
     (c) The Attorney General may appoint officials to perform the functions authorized by this section.
 
-    (d) __Indian Law Enforcement Agencies.—__ 
+    (d)  __Indian Law Enforcement Agencies__  __.—__ 
 
     The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
 
@@ -189,11 +189,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 111–211, title II, § 233(b)][/us/pl/111/211/s233/b], July 29, 2010, [124 Stat. 2279][/us/stat/124/2279], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Attorney General shall ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases.
 
->     “(2) __Sanctions.—__ 
+>     “(2)  __Sanctions__  __.—__ 
 
 >     For purpose of sanctions for noncompliance with requirements of, or misuse of, national crime information databases and information obtained from those databases, a tribal law enforcement agency or official shall be treated as Federal law enforcement agency or official.
 
@@ -207,7 +207,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 110–457, title II, § 237(a)][/us/pl/110/457/s237/a], (b), Dec. 23, 2008, [122 Stat. 5083][/us/stat/122/5083], provided that:
 
->     “(a) __Trafficking Offense Classification.—__ 
+>     “(a)  __Trafficking Offense Classification__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall—
 
@@ -225,7 +225,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(3) classify the offense of human trafficking as a Group A offense for purpose of the National Incident-Based Reporting System.
 
->     “(b) __Additional Information.—__ 
+>     “(b)  __Additional Information__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reporting System \[probably should be “Program”\] and the National Incident-Based Reporting System to distinguish between reports of—
 
@@ -245,7 +245,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 109–162, title IX, § 905(b)][/us/pl/109/162/s905/b], Jan. 5, 2006, [119 Stat. 3080][/us/stat/119/3080], as amended by [Pub. L. 113–4, title IX, § 907(b)][/us/pl/113/4/s907/b], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     The Attorney General shall contract with any interested Indian tribe, tribal organization, or tribal nonprofit organization to develop and maintain—
 
@@ -253,7 +253,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(B) a tribal protection order registry containing civil and criminal orders of protection issued by Indian tribes and participating jurisdictions.
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section \[amending this section\] $1,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.”
 
@@ -261,7 +261,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 109–162, title XI, § 1107][/us/pl/109/162/s1107], Jan. 5, 2006, [119 Stat. 3093][/us/stat/119/3093], as amended by [Pub. L. 111–211, title II, § 251(a)][/us/pl/111/211/s251/a], July 29, 2010, [124 Stat. 2297][/us/stat/124/2297], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Attorney General shall establish a National Gang Intelligence Center and gang information database to be housed at and administered by the Federal Bureau of Investigation to collect, analyze, and disseminate gang activity information from—
 
@@ -291,7 +291,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(13) any other entity as appropriate.
 
->     “(b) __Information.—__ 
+>     “(b)  __Information__  __.—__ 
 
 >     The Center established under subsection (a) shall make available the information referred to in subsection (a) to—
 
@@ -303,11 +303,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(4) any other entity as appropriate.
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     The Center established under subsection (a) shall annually submit to Congress a report on gang activity.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.”
 
@@ -315,11 +315,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 108–458, title VI, § 6402][/us/pl/108/458/s6402], Dec. 17, 2004, [118 Stat. 3755][/us/stat/118/3755], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Private Security Officer Employment Authorization Act of 2004’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -341,15 +341,15 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(9) private security officers and applicants for private security officer positions should be thoroughly screened and trained.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Employee.—__ 
+>         “(1)  __Employee__  __.—__ 
 
 >         The term ‘employee’ includes both a current employee and an applicant for employment as a private security officer.
 
->         “(2) __Authorized employer.—__ 
+>         “(2)  __Authorized employer__  __.—__ 
 
 >         The term ‘authorized employer’ means any person that—
 
@@ -357,7 +357,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >             “(B) is authorized by regulations promulgated by the Attorney General to request a criminal history record information search of an employee through a State identification bureau pursuant to this section.
 
->         “(3) __Private security officer.—__ 
+>         “(3)  __Private security officer__  __.—__ 
 
 >         The term ‘private security officer’—
 
@@ -373,11 +373,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >                 “(iii) employees whose duties primarily involve the secure movement of prisoners.
 
->         “(4) __Security services.—__ 
+>         “(4)  __Security services__  __.—__ 
 
 >         The term ‘security services’ means acts to protect people or property as defined by regulations promulgated by the Attorney General.
 
->         “(5) __State identification bureau.—__ 
+>         “(5)  __State identification bureau__  __.—__ 
 
 >         The term ‘State identification bureau’ means the State entity designated by the Attorney General for the submission and receipt of criminal history record information.
 
@@ -385,21 +385,21 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(1) __In general.—__ 
 
->             “(A) __Submission of fingerprints.—__ 
+>             “(A)  __Submission of fingerprints__  __.—__ 
 
 >             An authorized employer may submit to the State identification bureau of a participating State, fingerprints or other means of positive identification, as determined by the Attorney General, of an employee of such employer for purposes of a criminal history record information search pursuant to this Act \[this section\].
 
 >             “(B) __Employee rights.—__ 
 
->                 “(i) __Permission.—__ 
+>                 “(i)  __Permission__  __.—__ 
 
 >                 An authorized employer shall obtain written consent from an employee to submit to the State identification bureau of the participating State the request to search the criminal history record information of the employee under this Act \[this section\].
 
->                 “(ii) __Access.—__ 
+>                 “(ii)  __Access__  __.—__ 
 
 >                 An authorized employer shall provide to the employee confidential access to any information relating to the employee received by the authorized employer pursuant to this Act \[this section\].
 
->             “(C) __Providing information to the state identification bureau.—__ 
+>             “(C)  __Providing information to the state identification bureau__  __.—__ 
 
 >             Upon receipt of a request for a criminal history record information search from an authorized employer pursuant to this Act \[this section\], submitted through the State identification bureau of a participating State, the Attorney General shall—
 
@@ -409,11 +409,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >             “(D) __Use of information.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Upon receipt of the criminal history record information from the Attorney General by the State identification bureau, the information shall be used only as provided in clause (ii).
 
->                 “(ii) __Terms.—__ 
+>                 “(ii)  __Terms__  __.—__ 
 
 >                 In the case of—
 
@@ -427,11 +427,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >                          “(II) a participating State that has State standards for qualification to be a private security officer, the State shall use the information received pursuant to this Act \[this section\] in applying the State standards and shall only notify the employer of the results of the application of the State standards.
 
->             “(E) __Frequency of requests.—__ 
+>             “(E)  __Frequency of requests__  __.—__ 
 
 >             An authorized employer may request a criminal history record information search for an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Attorney General shall issue such final or interim final regulations as may be necessary to carry out this Act \[this section\], including—
 
@@ -441,13 +441,13 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >             “(C) the imposition of reasonable fees necessary for conducting the background checks.
 
->         “(3) __Criminal penalties for use of information.—__ 
+>         “(3)  __Criminal penalties for use of information__  __.—__ 
 
 >         Whoever knowingly and intentionally uses any information obtained pursuant to this Act \[this section\] other than for the purpose of determining the suitability of an individual for employment as a private security officer shall be fined under title 18, United States Code, or imprisoned for not more than 2 years, or both.
 
 >         “(4) __User fees.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Director of the Federal Bureau of Investigation may—
 
@@ -455,7 +455,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >                 “(ii) establish such fees at a level to include an additional amount to defray expenses for the automation of fingerprint identification and criminal justice information services and associated costs.
 
->             “(B) __Limitations.—__ 
+>             “(B)  __Limitations__  __.—__ 
 
 >             Any fee collected under this subsection—
 
@@ -465,11 +465,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >                 “(iii) shall remain available until expended.
 
->             “(C) __State costs.—__ 
+>             “(C)  __State costs__  __.—__ 
 
 >             Nothing in this Act \[this section\] shall be construed as restricting the right of a State to assess a reasonable fee on an authorized employer for the costs to the State of administering this Act \[this section\].
 
->         “(5) __State opt out.—__ 
+>         “(5)  __State opt out__  __.—__ 
 
 >         A State may decline to participate in the background check system authorized by this Act \[this section\] by enacting a law or issuing an order by the Governor (if consistent with State law) providing that the State is declining to participate pursuant to this subsection.”
 
@@ -595,41 +595,41 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 100–690, title VII, § 7332][/us/pl/100/690/s7332], Nov. 18, 1988, [102 Stat. 4468][/us/stat/102/4468], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Uniform Federal Crime Reporting Act of 1988’.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the term ‘Uniform Crime Reports’ means the reports authorized under [section 534 of title 28][/us/usc/t28/s534], United States Code, and administered by the Federal Bureau of Investigation which compiles nationwide criminal statistics for use in law enforcement administration, operation, and management and to assess the nature and type of crime in the United States.
 
 >     “(c) __Establishment of System.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports.
 
->         “(2) __Reporting by federal agencies.—__ 
+>         “(2)  __Reporting by federal agencies__  __.—__ 
 
 >         All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
 
->         “(3) __Distribution of data.—__ 
+>         “(3)  __Distribution of data__  __.—__ 
 
 >         The Attorney General shall distribute data received pursuant to paragraph (2), in the form of annual Uniform Crime Reports for the United States, to the President, Members of the Congress, State governments, and officials of localities and penal and other institutions participating in the Uniform Crime Reports program.
 
->     “(d) __Role of Federal Bureau of Investigation.—__ 
+>     “(d)  __Role of Federal Bureau of Investigation__  __.—__ 
 
 >     The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
->     “(e) __Inclusion of Offenses Involving Illegal Drugs.—__ 
+>     “(e)  __Inclusion of Offenses Involving Illegal Drugs__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation is authorized to classify offenses involving illegal drugs and drug trafficking as a part I crime in the Uniform Crime Reports.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $350,000 for fiscal year 1989 and such sums as may be necessary to carry out the provisions of this section after fiscal year 1989.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall be effective on January 1, 1989.”
 
@@ -637,7 +637,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 100–690, title VII, § 7609][/us/pl/100/690/s7609], Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], provided that:
 
->     “(a) __Family Violence Reporting.—__ 
+>     “(a)  __Family Violence Reporting__  __.—__ 
 
 >     Under the authority of [section 534 of title 28][/us/usc/t28/s534], United States Code, the Attorney General shall require, and include in uniform crime reports, data that indicate—
 
@@ -645,11 +645,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >         “(2) the relationship of the victim to the offender, for crimes of murder, aggravated assault, simple assault, rape, sexual offenses, and offenses against children.
 
->     “(b) __National Crime Survey.—__ 
+>     “(b)  __National Crime Survey__  __.—__ 
 
 >     The Director of the Bureau of Justice Statistics, through the annual National Crime Survey, shall collect and publish data that more accurately measures the extent of domestic violence in America, especially the physical and sexual abuse of children and the elderly.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated in fiscal years 1989, 1990, 1991, and 1992, such sums as are necessary to carry out the purposes of this section.”
 
@@ -663,11 +663,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 > “SEC. 2. __SUBMISSION BY ASSOCIATION OF STATE REGULATORY OFFICIALS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     An association of State officials regulating parimutuel wagering, designated for the purpose of this section by the Attorney General, may submit fingerprints to the Attorney General on behalf of any applicant for State license to participate in parimutuel wagering. In response to such a submission, the Attorney General may, to the extent provided by law, exchange, for licensing and employment purposes, identification and criminal history records with the State governmental bodies to which such applicant has applied.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 

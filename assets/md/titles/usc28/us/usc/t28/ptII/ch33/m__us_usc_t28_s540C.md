@@ -15,17 +15,17 @@
 
 ## § 540C. FBI police
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Director.—__ 
+        (1)  __Director__  __.—__ 
 
         The term “Director” means the Director of the Federal Bureau of Investigation.
 
         (2) __FBI buildings and grounds.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “FBI buildings and grounds” means—
 
@@ -35,31 +35,31 @@
 
                 (iii) any enclosed passageway connecting 2 or more buildings or structures occupied in whole or in part by the Federal Bureau of Investigation.
 
-            (B) __Inclusion.—__ 
+            (B)  __Inclusion__  __.—__ 
 
             The term “FBI buildings and grounds” includes adjacent streets and sidewalks not to exceed 500 feet from such property.
 
-        (3) __FBI police.—__ 
+        (3)  __FBI police__  __.—__ 
 
         The term “FBI police” means the permanent police force established under subsection (b).
 
     (b) __Establishment of FBI Police; Duties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the supervision of the Attorney General, the Director may establish a permanent police force, to be known as the FBI police.
 
-        (2) __Duties.—__ 
+        (2)  __Duties__  __.—__ 
 
         The FBI police shall perform such duties as the Director may prescribe in connection with the protection of persons and property within FBI buildings and grounds.
 
-        (3) __Uniformed representative.—__ 
+        (3)  __Uniformed representative__  __.—__ 
 
         The Director, or designated representative duly authorized by the Attorney General, may appoint uniformed representatives of the Federal Bureau of Investigation as FBI police for duty in connection with the policing of all FBI buildings and grounds.
 
         (4) __Authority.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In accordance with regulations prescribed by the Director and approved by the Attorney General, the FBI police may—
 
@@ -73,17 +73,17 @@
 
                 (v) hold the same powers as sheriffs and constables when policing FBI buildings and grounds.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             The authority and policing powers of FBI police under this paragraph shall not include the service of civil process.
 
         (5) __Pay and benefits.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The rates of basic pay, salary schedule, pay provisions, and benefits for members of the FBI police shall be equivalent to the rates of basic pay, salary schedule, pay provisions, and benefits applicable to members of the United States Secret Service Uniformed Division.
 
-            (B) __Application.—__ 
+            (B)  __Application__  __.—__ 
 
             Pay and benefits for the FBI police under subparagraph (A)—
 
@@ -93,7 +93,7 @@
 
                 (iii) shall not result in any decrease in the rates of pay or benefits of any individual.
 
-    (c) __Authority of Metropolitan Police Force.—__ 
+    (c)  __Authority of Metropolitan Police Force__  __.—__ 
 
     This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.
 

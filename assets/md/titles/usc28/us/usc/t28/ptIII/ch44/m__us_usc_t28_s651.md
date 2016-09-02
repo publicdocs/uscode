@@ -15,27 +15,27 @@
 
 ## § 651. Authorization of alternative dispute resolution
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     For purposes of this chapter, an alternative dispute resolution process includes any process or procedure, other than an adjudication by a presiding judge, in which a neutral third party participates to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration as provided in sections 654 through 658.
 
-    (b) __Authority.—__ 
+    (b)  __Authority__  __.—__ 
 
     Each United States district court shall authorize, by local rule adopted under section 2071(a), the use of alternative dispute resolution processes in all civil actions, including adversary proceedings in bankruptcy, in accordance with this chapter, except that the use of arbitration may be authorized only as provided in section 654. Each United States district court shall devise and implement its own alternative dispute resolution program, by local rule adopted under section 2071(a), to encourage and promote the use of alternative dispute resolution in its district.
 
-    (c) __Existing Alternative Dispute Resolution Programs.—__ 
+    (c)  __Existing Alternative Dispute Resolution Programs__  __.—__ 
 
     In those courts where an alternative dispute resolution program is in place on the date of the enactment of the Alternative Dispute Resolution Act of 1998, the court shall examine the effectiveness of that program and adopt such improvements to the program as are consistent with the provisions and purposes of this chapter.
 
-    (d) __Administration of Alternative Dispute Resolution Programs.—__ 
+    (d)  __Administration of Alternative Dispute Resolution Programs__  __.—__ 
 
     Each United States district court shall designate an employee, or a judicial officer, who is knowledgeable in alternative dispute resolution practices and processes to implement, administer, oversee, and evaluate the court’s alternative dispute resolution program. Such person may also be responsible for recruiting, screening, and training attorneys to serve as neutrals and arbitrators in the court’s alternative dispute resolution program.
 
-    (e) __Title 9 Not Affected.—__ 
+    (e)  __Title__  __9__  __Not Affected__  __.—__ 
 
     This chapter shall not affect title 9, United States Code.
 
-    (f) __Program Support.—__ 
+    (f)  __Program Support__  __.—__ 
 
     The Federal Judicial Center and the Administrative Office of the United States Courts are authorized to assist the district courts in the establishment and improvement of alternative dispute resolution programs by identifying particular practices employed in successful programs and providing additional assistance as needed and appropriate.
 
@@ -81,11 +81,11 @@
 
 [Pub. L. 100–702, title IX, § 903][/us/pl/100/702/s903], Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that:
 
->     “(a) __Annual Report by Director of Administrative Office of the United States Courts.—__ 
+>     “(a)  __Annual Report by Director of Administrative Office of the United States Courts__  __.—__ 
 
 >     The Director of the Administrative Office of the United States Courts shall include in the annual report of the activities of the Administrative Office required under section 604(a)(3) \[[28 U.S.C. 604(a)(3)][/us/usc/t28/s604/a/3]\], statistical information about the implementation of chapter 44, as added by section 901 of this Act.
 
->     “(b) __Report by Federal Judicial Center.—__ 
+>     “(b)  __Report by Federal Judicial Center__  __.—__ 
 
 >     Not later than 5 years after the date of enactment of this Act \[Nov. 19, 1988\], the Federal Judicial Center, in consultation with the Director of the Administrative Office of the United States Courts, shall submit to the Congress a report on the implementation of chapter 44, as added by section 901 of this Act, which shall include the following:
 

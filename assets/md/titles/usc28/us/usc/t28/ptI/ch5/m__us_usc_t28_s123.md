@@ -109,15 +109,15 @@ Western District
 
 [Pub. L. 110–406, § 2(b)][/us/pl/110/406/s2/b], Oct. 13, 2008, [122 Stat. 4291][/us/stat/122/4291], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 13, 2008\].
 
->     “(2) __Pending cases not affected.—__ 
+>     “(2)  __Pending cases not affected__  __.—__ 
 
 >     The amendments made by this section shall not affect any action commenced before the effective date of this section and pending in the United States District Court for the Western District of Tennessee on such date.
 
->     “(3) __Juries not affected.—__ 
+>     “(3)  __Juries not affected__  __.—__ 
 
 >     The amendments made by this section shall not affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving in the United States District Court for the Western District of Tennessee on the effective date of this section.”
 

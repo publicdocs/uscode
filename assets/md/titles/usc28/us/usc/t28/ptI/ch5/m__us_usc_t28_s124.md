@@ -211,15 +211,15 @@ Western District
 
 [Pub. L. 108–157, § 1(b)][/us/pl/108/157/s1/b], Dec. 3, 2003, [117 Stat. 1947][/us/stat/117/1947], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 3, 2003\].
 
->     “(2) __Pending cases not affected.—__ 
+>     “(2)  __Pending cases not affected__  __.—__ 
 
 >     This section and the amendments made by this section shall not affect any action commenced before the effective date of this section and pending in the United States District Court for the Eastern District of Texas on such date.
 
->     “(3) __Juries not affected.—__ 
+>     “(3)  __Juries not affected__  __.—__ 
 
 >     This section and the amendments made by this section shall not affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving in the Eastern Judicial District of Texas on the effective date of this section.”
 

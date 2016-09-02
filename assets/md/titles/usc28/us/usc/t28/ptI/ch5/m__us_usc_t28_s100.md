@@ -43,15 +43,15 @@
 
 [Pub. L. 100–487, § 2][/us/pl/100/487/s2], Oct. 14, 1988, [102 Stat. 2431][/us/stat/102/2431], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act and the amendments made by this Act \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 14, 1988\].
 
->     “(b) __Pending Cases Not Affected.—__ 
+>     “(b)  __Pending Cases Not Affected__  __.—__ 
 
 >     This Act and the amendments made by this Act shall not affect any action commenced before the effective date of this Act and pending in the United States District Court for the District of Maryland on such date.
 
->     “(c) __Juries Not Affected.—__ 
+>     “(c)  __Juries Not Affected__  __.—__ 
 
 >     This Act and the amendments made by this Act shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving in the Judicial District of Maryland on the effective date of this Act.”
 

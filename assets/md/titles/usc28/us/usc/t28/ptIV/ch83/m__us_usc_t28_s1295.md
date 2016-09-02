@@ -139,11 +139,11 @@
 
 [Pub. L. 102–572, title I, § 102(d)][/us/pl/102/572/s102/d], (e), Oct. 29, 1992, [106 Stat. 4507][/us/stat/106/4507], provided that:
 
->     “(d) __Abolition of Court.—__ 
+>     “(d)  __Abolition of Court__  __.—__ 
 
 >     The Temporary Emergency Court of Appeals created by section 211(b) of the Economic Stabilization Act of 1970 \[[Pub. L. 91–379][/us/pl/91/379], formerly set out as a note under [section 1904 of Title 12][/us/usc/t12/s1904], Banks and Banking\] is abolished, effective 6 months after the date of the enactment of this Act \[Oct. 29, 1992\].
 
->     “(e) __Pending Cases.—__ 
+>     “(e)  __Pending Cases__  __.—__ 
 
 >         (1) Any appeal which, before the effective date of abolition described in subsection (d), is pending in the Temporary Emergency Court of Appeals but has not been submitted to a panel of such court as of that date shall be assigned to the United States Court of Appeals for the Federal Circuit as though the appeal had originally been filed in that court.
 

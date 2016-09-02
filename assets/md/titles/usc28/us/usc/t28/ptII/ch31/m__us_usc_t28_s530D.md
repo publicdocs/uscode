@@ -17,7 +17,7 @@
 
     (a) __Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Attorney General shall submit to the Congress a report of any instance in which the Attorney General or any officer of the Department of Justice—
 
@@ -59,7 +59,7 @@
 
                     (VI) agreements to cooperate with the government in investigations or prosecutions (whether or not the agreement is a matter of public record).
 
-        (2) __Submission of report to the congress.—__ 
+        (2)  __Submission of report to the congress__  __.—__ 
 
         For the purposes of paragraph (1), a report shall be considered to be submitted to the Congress if the report is submitted to—
 
@@ -71,7 +71,7 @@
 
             (D) the Senate Legal Counsel and the General Counsel of the House of Representatives.
 
-    (b) __Deadline.—__ 
+    (b)  __Deadline__  __.—__ 
 
     A report shall be submitted—
 
@@ -81,7 +81,7 @@
 
         (3) under subsection (a)(1)(C), not later than 30 days after the conclusion of each fiscal-year quarter, with respect to all approvals occurring in such quarter.
 
-    (c) __Contents.—__ 
+    (c)  __Contents__  __.—__ 
 
     A report required by subsection (a) shall—
 
@@ -103,11 +103,11 @@
 
         (3) in the case of a determination described in subsection (a)(1)(B) or an approval described in subsection (a)(1)(C), indicate the nature, tribunal, identifying information, and status of the proceeding, suit, or action.
 
-    (d) __Declaration.—__ 
+    (d)  __Declaration__  __.—__ 
 
     In the case of a determination described in subsection (a)(1)(B), the representative of the United States participating in the proceeding shall make a clear declaration in the proceeding that any position expressed as to the constitutionality of the provision involved is the position of the executive branch of the Federal Government (or, as applicable, of the President or of any executive agency or military department).
 
-    (e) __Applicability to the President and to Executive Agencies and Military Departments.—__ 
+    (e)  __Applicability to the President and to Executive Agencies and Military Departments__  __.—__ 
 
     The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
 

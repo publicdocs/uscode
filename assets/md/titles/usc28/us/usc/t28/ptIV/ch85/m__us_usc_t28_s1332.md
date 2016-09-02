@@ -1857,11 +1857,11 @@
 
 [Pub. L. 112–63, title I, § 105][/us/pl/112/63/s105], Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the amendments made by this title \[enacting [section 1455 of this title][/us/usc/t28/s1455] and amending this section and sections 1441, 1446, and 1453 of this title\] shall take effect upon the expiration of the 30-day period beginning on the date of the enactment of this Act \[Dec. 7, 2011\], and shall apply to any action or prosecution commenced on or after such effective date.
 
->     “(b) __Treatment of Cases Removed to Federal Court.—__ 
+>     “(b)  __Treatment of Cases Removed to Federal Court__  __.—__ 
 
 >     For purposes of subsection (a), an action or prosecution commenced in State court and removed to Federal court shall be deemed to commence on the date the action or prosecution was commenced, within the meaning of State law, in State court.”
 

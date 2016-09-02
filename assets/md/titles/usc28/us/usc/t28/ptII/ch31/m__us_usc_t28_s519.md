@@ -81,11 +81,11 @@ Statutes at Large  </td>
 
 [Pub. L. 107–273, div. C, title I, § 11015][/us/pl/107/273/s11015], Nov. 2, 2002, [116 Stat. 1824][/us/stat/116/1824], provided that:
 
->     “(a) __Establishment and Transmission of List of Approved Annuity Brokers.—__ 
+>     “(a)  __Establishment and Transmission of List of Approved Annuity Brokers__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Nov. 2, 2002\], the Attorney General shall establish a list of annuity brokers who meet minimum qualifications for providing annuity brokerage services in connection with structured settlements entered by the United States. This list shall be updated upon request by any annuity broker that meets the minimum qualifications for inclusion on the list. The Attorney General shall transmit such list, and any updates to such list, to all United States Attorneys.
 
->     “(b) __Authority To Select Annuity Broker for Structured Settlements.—__ 
+>     “(b)  __Authority To Select Annuity Broker for Structured Settlements__  __.—__ 
 
 >     In any structured settlement that is not negotiated exclusively through the Civil Division of the Department of Justice, the United States Attorney (or his designee) involved in any settlement negotiations shall have the exclusive authority to select an annuity broker from the list of such brokers established by the Attorney General, provided that all documents related to any settlement comply with Department of Justice requirements.”
 

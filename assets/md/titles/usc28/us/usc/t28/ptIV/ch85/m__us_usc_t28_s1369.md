@@ -15,7 +15,7 @@
 
 ## § 1369. Multiparty, multiforum jurisdiction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The district courts shall have original jurisdiction of any civil action involving minimal diversity between adverse parties that arises from a single accident, where at least 75 natural persons have died in the accident at a discrete location, if—
 
@@ -25,7 +25,7 @@
 
         (3) substantial parts of the accident took place in different States.
 
-    (b) __Limitation of Jurisdiction of District Courts.—__ 
+    (b)  __Limitation of Jurisdiction of District Courts__  __.—__ 
 
     The district court shall abstain from hearing any civil action described in subsection (a) in which—
 
@@ -33,7 +33,7 @@
 
         (2) the claims asserted will be governed primarily by the laws of that State.
 
-    (c) __Special Rules and Definitions.—__ 
+    (c)  __Special Rules and Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -53,11 +53,11 @@
 
         (5) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-    (d) __Intervening Parties.—__ 
+    (d)  __Intervening Parties__  __.—__ 
 
     In any action in a district court which is or could have been brought, in whole or in part, under this section, any person with a claim arising from the accident described in subsection (a) shall be permitted to intervene as a party plaintiff in the action, even if that person could not have brought an action in a district court as an original matter.
 
-    (e) __Notification of Judicial Panel on Multidistrict Litigation.—__ 
+    (e)  __Notification of Judicial Panel on Multidistrict Litigation__  __.—__ 
 
     A district court in which an action under this section is pending shall promptly notify the judicial panel on multidistrict litigation of the pendency of the action.
 

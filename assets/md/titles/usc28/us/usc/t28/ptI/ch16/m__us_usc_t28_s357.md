@@ -15,15 +15,15 @@
 
 ## § 357. Review of orders and actions
 
-    (a) __Review of Action of Judicial Council.—__ 
+    (a)  __Review of Action of Judicial Council__  __.—__ 
 
     A complainant or judge aggrieved by an action of the judicial council under section 354 may petition the Judicial Conference of the United States for review thereof.
 
-    (b) __Action of Judicial Conference.—__ 
+    (b)  __Action of Judicial Conference__  __.—__ 
 
     The Judicial Conference, or the standing committee established under section 331, may grant a petition filed by a complainant or judge under subsection (a).
 
-    (c) __No Judicial Review.—__ 
+    (c)  __No Judicial Review__  __.—__ 
 
     Except as expressly provided in this section and section 352(c), all orders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
 

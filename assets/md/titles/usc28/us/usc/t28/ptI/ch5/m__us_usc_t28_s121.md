@@ -71,17 +71,17 @@
 
 [Pub. L. 99–657, § 4][/us/pl/99/657/s4], Nov. 14, 1986, [100 Stat. 3670][/us/stat/100/3670], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >         (1) The amendments made by sections 2 and 3 \[amending this section and [section 90 of this title][/us/usc/t28/s90]\] take effect 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].
 
 >         “(2) The amendment made by section 4 \[enacting this note\] takes effect on the date of the enactment of this Act.
 
->     “(b) __Pending Actions.—__ 
+>     “(b)  __Pending Actions__  __.—__ 
 
 >     The amendments made by this Act \[amending this section and [section 90 of this title][/us/usc/t28/s90]\] shall not affect any action commenced before the effective date of such amendments and pending on such date.
 
->     “(c) __Juries.—__ 
+>     “(c)  __Juries__  __.—__ 
 
 >     The amendments made by this Act \[amending this section and [section 90 of this title][/us/usc/t28/s90]\] shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on the effective date of such amendments.”
 

@@ -513,13 +513,13 @@
 
 [Pub. L. 110–428, § 3(c)][/us/pl/110/428/s3/c], Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840], as amended by [Pub. L. 111–32, title V, § 501(a)][/us/pl/111/32/s501/a], June 24, 2009, [123 Stat. 1879][/us/stat/123/1879], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section\] and the amendments made by this section shall take effect on the first day of the first month beginning at least 30 days after the date of the enactment of this Act \[Oct. 15, 2008\] and shall apply in the case of a remarriage which is dissolved by death, divorce, or annulment on or after such first day.
 
 >     “(2) __Limited retroactive effect.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a remarriage which is dissolved by death, divorce, or annulment within the 5-year period ending on the day before the effective date of this section, the amendments made by this section shall apply only if the widow or widower satisfies the requirements of paragraphs (1) and (2) of section 376(x) \[now 376(w)\] of title 28, United States Code (as amended by this section) before—
 
@@ -527,11 +527,11 @@
 
 >             “(ii) such later date as Director of the Administrative Office of the United States Courts may by regulation prescribe.
 
->         “(B) __Restoration.—__ 
+>         “(B)  __Restoration__  __.—__ 
 
 >         If the requirements of paragraph (1) are satisfied, the survivor annuity shall be restored, commencing on the date the remarriage was dissolved by death, annulment, or divorce, at the rate which was in effect when the annuity was terminated.
 
->         “(C) __Lump-sum payment.—__ 
+>         “(C)  __Lump-sum payment__  __.—__ 
 
 >         Any amounts becoming payable to the widow or widower under this subsection for the period beginning on the date on which the annuity was terminated and ending on the date on which periodic annuity payments resume shall be payable in a lump-sum payment.”
 
@@ -555,11 +555,11 @@
 
 [Pub. L. 101–650, title III, § 322(g)][/us/pl/101/650/s322/g], Dec. 1, 1990, [104 Stat. 5119][/us/stat/104/5119], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by this Act \[probably should be “section”, which amended this section\] shall apply to all judicial officials assassinated on or after May 28, 1979.
 
->     “(2) __Rules for retroactive application.—__ 
+>     “(2)  __Rules for retroactive application__  __.—__ 
 
 >         (A) In the case of a judicial official who was assassinated on or after May 28, 1979, and before the date of the enactment of this Act \[Dec. 1, 1990\], if the salary deductions provided by subsection (b) of [section 376 of title 28][/us/usc/t28/s376], United States Code, or the deposits required by subsection (d) of such section, have been withdrawn pursuant to subsection (o) of such section, there shall be deducted from the annuities otherwise payable to the survivor or survivors of such judicial official, and the payment authorized by subparagraph (C) of this paragraph, an amount equal to the amount so withdrawn, with interest on the amount withdrawn at 3 percent per annum compounded on December 31 of each year.
 
@@ -567,7 +567,7 @@
 
 >         “(C) Subject to subparagraphs (A) and (B), the survivor or survivors of a judicial official to whom this paragraph applies shall be entitled to the payment of annuities they would have received under [section 376 of title 28][/us/usc/t28/s376], United States Code, for the period beginning on the date such judicial official was assassinated and ending the date of the enactment of this Act. The Secretary of the Treasury shall pay into the Judicial Survivors’ Annuities fund, out of any money in the Treasury not otherwise appropriated, the amount of the annuities to which the survivor or survivors are entitled under this subparagraph.
 
->     “(3) __Definition.—__ 
+>     “(3)  __Definition__  __.—__ 
 
 >     For purposes of this subsection, the term—
 
@@ -635,25 +635,25 @@
 
 > “SEC. 3. __PERSONS NOT CURRENTLY PARTICIPATING IN THE JUDICIAL SURVIVORS’ ANNUITIES SYSTEM.__ 
 
->     “(a) __Election of Judicial Survivors’ Annuities System Coverage.—__ 
+>     “(a)  __Election of Judicial Survivors’ Annuities System Coverage__  __.—__ 
 
 >     An eligible judicial official may elect to participate in the Judicial Survivors’ Annuities System during the open enrollment period specified in subsection (d).
 
->     “(b) __Manner of Making Elections.—__ 
+>     “(b)  __Manner of Making Elections__  __.—__ 
 
 >     An election under this section shall be made in writing, signed by the person making the election, and received by the Director of the Administrative Office of the United States Courts before the end of the open enrollment period.
 
->     “(c) __Effective Date for Elections.—__ 
+>     “(c)  __Effective Date for Elections__  __.—__ 
 
 >     Any such election shall be effective as of the first day of the first calendar month following the month in which the election is received by the Director.
 
->     “(d) __Open Enrollment Period Defined.—__ 
+>     “(d)  __Open Enrollment Period Defined__  __.—__ 
 
 >     The open enrollment period under this section is the 6-month period beginning 30 days after the date of enactment of this Act \[Aug. 12, 2009\].
 
 > “SEC. 4. __JUDICIAL OFFICERS’ CONTRIBUTIONS FOR OPEN ENROLLMENT ELECTION.__ 
 
->     “(a) __Contribution Rate.—__ 
+>     “(a)  __Contribution Rate__  __.—__ 
 
 >     Every active judicial official who files a written notification of his or her intention to participate in the Judicial Survivors’ Annuities System during the open enrollment period shall be deemed thereby to consent and agree to having deducted from his or her salary a sum equal to 2.75 percent of that salary or a sum equal to 3.5 percent of his or her retirement salary, except that the deduction from any retirement salary—
 
@@ -665,17 +665,17 @@
 
 >         shall be an amount equal to 2.75 percent of retirement salary.
 
->     “(b) __Contributions To Be Credited to Judicial Survivors’ Annuities Fund.—__ 
+>     “(b)  __Contributions To Be Credited to Judicial Survivors’ Annuities Fund__  __.—__ 
 
 >     Contributions made under subsection (a) shall be credited to the Judicial Survivors’ Annuities Fund.
 
 > “SEC. 5. __DEPOSIT FOR PRIOR CREDITABLE SERVICE.__ 
 
->     “(a) __Lump Sum Deposit.—__ 
+>     “(a)  __Lump Sum Deposit__  __.—__ 
 
 >     Any judicial official who files a written notification of his or her intention to participate in the Judicial Survivors’ Annuities System during the open enrollment period may make a deposit equaling 2.75 percent of salary, plus 3 percent annual, compounded interest, for the last 18 months of prior service, to receive the credit for prior judicial service required for immediate coverage and protection of the official’s survivors. Any such deposit shall be made on or before the closure of the open enrollment period.
 
->     “(b) __Deposits To Be Credited to Judicial Survivors’ Annuities Fund.—__ 
+>     “(b)  __Deposits To Be Credited to Judicial Survivors’ Annuities Fund__  __.—__ 
 
 >     Deposits made under subsection (a) shall be credited to the Judicial Survivors’ Annuities Fund.
 

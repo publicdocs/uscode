@@ -17,23 +17,23 @@
 
     (a) __Establishment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There is established within the Department of Justice under the general authority of the Attorney General the Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this section referred to as the “Bureau”).
 
-        (2) __Director.—__ 
+        (2)  __Director__  __.—__ 
 
         There shall be at the head of the Bureau a Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives (in this subtitle  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  referred to as the “Director”). The Director shall be appointed by the President, by and with the advice and consent of the Senate  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  and shall perform such functions as the Attorney General shall direct. The Director shall receive compensation at the rate prescribed by law under section 5314 of title V  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be title “5”. </sup></sup> , United States Code, for positions at level III of the Executive Schedule.
 
-        (3) __Coordination.—__ 
+        (3)  __Coordination__  __.—__ 
 
         The Attorney General, acting through the Director and such other officials of the Department of Justice as the Attorney General may designate, shall provide for the coordination of all firearms, explosives, tobacco enforcement, and arson enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among any officer, employee, or agency of the Department of Justice involved in the performance of these and related functions.
 
-        (4) __Performance of transferred functions.—__ 
+        (4)  __Performance of transferred functions__  __.—__ 
 
         The Attorney General may make such provisions as the Attorney General determines appropriate to authorize the performance by any officer, employee, or agency of the Department of Justice of any function transferred to the Attorney General under this section.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     Subject to the direction of the Attorney General, the Bureau shall be responsible for investigating—
 
@@ -45,11 +45,11 @@
 
     (c) __Transfer of authorities, functions, personnel, and assets to the Department of Justice.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2),2 but notwithstanding any other provision of law, there are transferred to the Department of Justice the authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, which shall be maintained as a distinct entity within the Department of Justice, including the related functions of the Secretary of the Treasury.
 
-        (3)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. There is no par. (2).__  __ </sup></sup> __  __Building prospectus.—__ 
+        (3)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. There is no par. (2).__  __ </sup></sup> __   __Building prospectus__  __.—__ 
 
         Prospectus PDC-98W10, giving the General Services Administration the authority for site acquisition, design, and construction of a new headquarters building for the Bureau of Alcohol, Tobacco and Firearms, is transferred, and deemed to apply, to the Bureau of Alcohol, Tobacco, Firearms, and Explosives established in the Department of Justice under subsection (a).
 

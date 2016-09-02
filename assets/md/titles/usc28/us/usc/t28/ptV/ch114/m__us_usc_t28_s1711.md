@@ -17,27 +17,27 @@
 
     In this chapter:
 
-    (1) __Class.—__ 
+    (1)  __Class__  __.—__ 
 
     The term “class” means all of the class members in a class action.
 
-    (2) __Class action.—__ 
+    (2)  __Class action__  __.—__ 
 
     The term “class action” means any civil action filed in a district court of the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
 
-    (3) __Class counsel.—__ 
+    (3)  __Class counsel__  __.—__ 
 
     The term “class counsel” means the persons who serve as the attorneys for the class members in a proposed or certified class action.
 
-    (4) __Class members.—__ 
+    (4)  __Class members__  __.—__ 
 
     The term “class members” means the persons (named or unnamed) who fall within the definition of the proposed or certified class in a class action.
 
-    (5) __Plaintiff class action.—__ 
+    (5)  __Plaintiff class action__  __.—__ 
 
     The term “plaintiff class action” means a class action in which class members are plaintiffs.
 
-    (6) __Proposed settlement.—__ 
+    (6)  __Proposed settlement__  __.—__ 
 
     The term “proposed settlement” means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.
 
@@ -55,7 +55,7 @@
 
 [Pub. L. 109–2, § 2][/us/pl/109/2/s2], Feb. 18, 2005, [119 Stat. 4][/us/stat/119/4], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -91,7 +91,7 @@
 
 >             “(C) making judgments that impose their view of the law on other States and bind the rights of the residents of those States.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2005 Amendments note set out under [section 1 of this title][/us/usc/t28/s1]\] are to—
 

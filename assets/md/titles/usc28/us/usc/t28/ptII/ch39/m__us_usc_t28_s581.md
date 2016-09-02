@@ -105,11 +105,11 @@
 
 > “SEC. 301. __INCUMBENT UNITED STATES TRUSTEES.__ 
 
->     “(a) __Area for Which Appointed.—__ 
+>     “(a)  __Area for Which Appointed__  __.—__ 
 
 >     Notwithstanding any paragraph of [section 581(a) of title 28][/us/usc/t28/s581/a], United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
->     “(b) __Term of Office.—__ 
+>     “(b)  __Term of Office__  __.—__ 
 
 >     Notwithstanding [section 581(b) of title 28][/us/usc/t28/s581/b], United States Code, as in effect before the effective date of this Act, the term of office of any United States trustee serving in such office on the date of the enactment of this Act \[Oct. 27, 1986\] shall expire—
 
@@ -121,15 +121,15 @@
 
 > “SEC. 302. __EFFECTIVE DATES; APPLICATION OF AMENDMENTS.__ 
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
 
->     “(b) __Amendments Relating to Bankruptcy Judges and Incumbent United States Trustees.—__ 
+>     “(b)  __Amendments Relating to Bankruptcy Judges and Incumbent United States Trustees__  __.—__ 
 
 >     Subtitle A of title I, and sections 301 and 307(a) \[amending sections 152 and 156 of this title, enacting provisions set out as notes under [section 581 of this title][/us/usc/t28/s581], and amending provisions set out as notes under [section 152 of this title][/us/usc/t28/s152] and preceding [section 581 of this title][/us/usc/t28/s581]\], shall take effect on the date of the enactment of this Act \[Oct. 27, 1986\].
 
->     “(c) __Amendments Relating to Family Farmers.—__ 
+>     “(c)  __Amendments Relating to Family Farmers__  __.—__ 
 
 >         (1) The amendments made by subtitle B of title II \[§§ 251 to 257 of [Pub. L. 99–554][/us/pl/99/554], see Tables for classification\] shall not apply with respect to cases commenced under title 11 of the United States Code before the effective date of this Act.
 
@@ -155,7 +155,7 @@
 
 >     “(d) __Application of Amendments to Judicial Districts.—__ 
 
->         “(1) __Certain regions not currently served by united states trustees.—__ 
+>         “(1)  __Certain regions not currently served by united states trustees__  __.—__ 
 
 >             (A)
 
@@ -213,7 +213,7 @@
 
 >                 “(xxi) The judicial districts established for the State of Georgia.
 
->         “(2) __Certain remaining judicial districts not currently served by united states trustees.—__ 
+>         “(2)  __Certain remaining judicial districts not currently served by united states trustees__  __.—__ 
 
 >             (A)
 
@@ -275,7 +275,7 @@
 
 >                 “(xxiii) The judicial districts established for the State of Washington.
 
->         “(3) __Judicial districts for the states of alabama and north carolina.—__ 
+>         “(3)  __Judicial districts for the states of alabama and north carolina__  __.—__ 
 
 >             (A)
 
@@ -339,7 +339,7 @@
 
 >     “(e) __Application of United States Trustee System and Quarterly Fees to Certain Cases.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), with respect to cases under chapters 7, 11, 12, and 13 of title 11, United States Code—
 
@@ -349,7 +349,7 @@
 
 >             the amendments made by section 113 \[amending [section 586 of this title][/us/usc/t28/s586]\] and subtitle A of title II of this Act \[§§ 201 to 231 of [Pub. L. 99–554][/us/pl/99/554], see Tables for classification\], and [section 1930(a)(6) of title 28][/us/usc/t28/s1930/a/6] of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 3-year period beginning on the effective date of this Act, or of the 1-year period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of such section 581(a), as so amended, that includes such district, whichever occurs first.
 
->         “(2) __Amendments inapplicable.—__ 
+>         “(2)  __Amendments inapplicable__  __.—__ 
 
 >         For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and [section 1930(a)(6) of title 28][/us/usc/t28/s1930/a/6] of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
@@ -359,17 +359,17 @@
 
 >             before the expiration of the 3-year period, or the expiration of the 1-year period, specified in paragraph (1), whichever occurs first.
 
->         “(3) __Rule of construction regarding fees for cases.—__ 
+>         “(3)  __Rule of construction regarding fees for cases__  __.—__ 
 
 >         This Act \[see Short Title of 1986 Amendment note below\] and the amendments made by section 117(4) of this Act \[amending [section 1930 of this title][/us/usc/t28/s1930]\] shall not be construed to require the payment of a fee under paragraph (6) of [section 1930(a) of title 28][/us/usc/t28/s1930/a], United States Code, in a case under title 11 of the United States Code for any conduct or period occurring before such paragraph becomes effective in the district in which such case is pending.
 
 > “SEC. 303. __CERTIFICATION OF JUDICIAL DISTRICTS; NOTICE AND PUBLICATION OF CERTIFICATION.__ 
 
->     “(a) __Certification by Attorney General.—__ 
+>     “(a)  __Certification by Attorney General__  __.—__ 
 
 >     The Attorney General may certify in writing a region specified in a paragraph of [section 581(a) of title 28][/us/usc/t28/s581/a], United States Code (other than paragraph (16)), as amended by section 111(a) of this Act, to the appropriate court of appeals of the United States, for the purpose of informing such court that certain amendments made by this Act will become effective in accordance with section 302 of this Act.
 
->     “(b) __Notice and Publication of Certification.—__ 
+>     “(b)  __Notice and Publication of Certification__  __.—__ 
 
 >     Whenever the Attorney General transmits a certification under subsection (a), the Attorney General shall simultaneously—
 
@@ -379,7 +379,7 @@
 
 > “SEC. 304. __ADMINISTRATIVE PROVISIONS.__ 
 
->     “(a) __Cooperative Arrangements.—__ 
+>     “(a)  __Cooperative Arrangements__  __.—__ 
 
 >     The Attorney General and the Director of the Administrative Office of the United States Courts may enter into agreements under which United States trustees may—
 
@@ -401,7 +401,7 @@
 
 >             to prevent duplication during the 2-year period beginning on the effective date of this Act.
 
->     “(b) __Information and Documents Relating to Bankruptcy Cases and United States Trustees.—__ 
+>     “(b)  __Information and Documents Relating to Bankruptcy Cases and United States Trustees__  __.—__ 
 
 >     The Director of the Administrative Office of the United States Courts shall make available to United States trustees, at the request of the Attorney General and on a continuing basis, all records, reports, and data compilations relating to—
 
@@ -411,11 +411,11 @@
 
 > “SEC. 305. __APPLICATION OF CERTAIN BANKRUPTCY RULES.__ 
 
->     “(a) __Rules Relating to the United States Trustee System.—__ 
+>     “(a)  __Rules Relating to the United States Trustee System__  __.—__ 
 
 >     If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in [section 581(a) of title 28][/us/usc/t28/s581/a], United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§ 201 to 231 of [Pub. L. 99–554][/us/pl/99/554], see Tables for classification\] become effective under section 302 of this Act in such district.
 
->     “(b) __Rules Relating to Chapter 12 of Title 11.—__ 
+>     “(b)  __Rules Relating to Chapter__  __12__  __of Title__  __11.—__ 
 
 >     The rules prescribed under [section 2075 of title 28][/us/usc/t28/s2075], United States Code, and in effect on the date of the enactment of this Act \[Oct. 27, 1986\] shall apply to cases filed under chapter 12 of title 11, United States Code, to the extent practicable and not inconsistent with the amendments made by title II of this Act \[see Tables for classification\].
 
@@ -425,21 +425,21 @@
 
 > “SEC. 307. __PRESERVATION OF UNITED STATES TRUSTEE SYSTEM DURING PENDENCY OF LEGISLATION; REPEALER.__ 
 
->     “(a) __Temporary Delay of Repeal of United States Trustee System.—__ 
+>     “(a)  __Temporary Delay of Repeal of United States Trustee System__  __.—__ 
 
 >     Effective immediately before November 10, 1986, [section 408(c) of the Act of November 6, 1978][/us/act/1978-11-06/s408/c] ([Public Law 95–598][/us/pl/95/598]; [92 Stat. 2687][/us/stat/92/2687]), is amended by striking out ‘November 10, 1986’ and inserting in lieu thereof ‘30 days after the effective date of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 \[[Pub. L. 99–554][/us/pl/99/554]\]’.
 
->     “(b) __Conforming Amendment.—__ 
+>     “(b)  __Conforming Amendment__  __.—__ 
 
 >     [Section 408 of the Act of November 6, 1978][/us/act/1978-11-06/s408] ([Public Law 95–598][/us/pl/95/598]; [92 Stat. 2687][/us/stat/92/2687]), is repealed.
 
 > “SEC. 308. __CONSIDERATION OF CURRENT PRIVATE TRUSTEES FOR APPOINTMENT BY UNITED STATES TRUSTEES.__ 
 
->     “(a) __Trustees in Bankruptcy Cases Under Chapter 7.—__ 
+>     “(a)  __Trustees in Bankruptcy Cases Under Chapter__  __7.—__ 
 
 >     It is the sense of the Congress that individuals who are serving before the effective date of this Act, as trustees in cases under chapter 7 of title 11, United States Code, should be considered by United States trustees for appointment under [section 586(a)(1) of title 28][/us/usc/t28/s586/a/1], United States Code, to the panels of private trustees that are established as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
->     “(b) __Standing Trustees in Bankruptcy Cases Under Chapter 13.—__ 
+>     “(b)  __Standing Trustees in Bankruptcy Cases Under Chapter__  __13.—__ 
 
 >     It is the sense of the Congress that individuals who are serving before the effective date of this Act, as standing trustees in cases under chapter 13 of title 11, United States Code, should be considered by the United States trustees for appointment under [section 586(b) of title 28][/us/usc/t28/s586/b], United States Code, as standing trustees who are appointed as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
@@ -449,7 +449,7 @@
 
 > “SEC. 310. __ELECTRONIC CASE MANAGEMENT DEMONSTRATION PROJECT.__ 
 
->     “(a) __Establishment of Project.—__ 
+>     “(a)  __Establishment of Project__  __.—__ 
 
 >     Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
 
@@ -457,11 +457,11 @@
 
 >         “(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 
->     “(b) __Study by General Accounting Office \[now Government Accountability Office\].—__ 
+>     “(b)  __Study by General Accounting Office \[now Government Accountability Office\]__  __.—__ 
 
 >     Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
 
->     “(c) __Term of Project.—__ 
+>     “(c)  __Term of Project__  __.—__ 
 
 >     The demonstration project required by subsection (a) shall be carried out until—
 
@@ -471,7 +471,7 @@
 
 >         whichever occurs first.
 
->     “(d) __Use by Clerks of the Courts.—__ 
+>     “(d)  __Use by Clerks of the Courts__  __.—__ 
 
 >     The electronic case management system demonstrated under the project required by subsection (a) shall provide the clerk of court in each district in which such system is operated, with a means of—
 
@@ -497,7 +497,7 @@
 
 >         “(2) maintaining all calendars and dockets and producing all notices required to be sent in cases under title 11 of the United States Code.
 
->     “(e) __Use by United States Trustees.—__ 
+>     “(e)  __Use by United States Trustees__  __.—__ 
 
 >     The electronic case management system demonstrated under the project required by subsection (a) shall provide, at a minimum, the United States trustee in each district in which such system is operated with—
 
@@ -513,7 +513,7 @@
 
 >         “(6) a means to monitor the payment of filing and other required fees.
 
->     “(f) __Availability to Certain Governmental Entities.—__ 
+>     “(f)  __Availability to Certain Governmental Entities__  __.—__ 
 
 >     Unlimited access to information maintained in the electronic case management system demonstrated under the project required by subsection (a) shall be provided at no charge to the following:
 
@@ -529,13 +529,13 @@
 
 >         “(6) Trustees in cases pending in districts in which such system is operated.
 
->     “(g) __Fees for Other Users.—__ 
+>     “(g)  __Fees for Other Users__  __.—__ 
 
 >         (1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
 >         “(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in [section 589a of title 28][/us/usc/t28/s589a], United States Code.
 
->     “(h) __Security.—__ 
+>     “(h)  __Security__  __.—__ 
 
 >     Access provided under subsection (f) to an entity or an individual shall be subject to such security limitations as may be imposed by the Congress or the head of the affected entity.
 
@@ -551,7 +551,7 @@
 
 [Pub. L. 99–554, § 1][/us/pl/99/554/s1], Oct. 27, 1986, [100 Stat. 3088][/us/stat/100/3088], provided: 
 
-> “That this Act \[enacting [section 589a of this title][/us/usc/t28/s589a] and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and [section 589 of this title][/us/usc/t28/s589], amending provisions set out as notes preceding this section and under [section 152 of this title][/us/usc/t28/s152], and repealing provisions set out as a note preceding this section\] may be cited as the “Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
+> “That this Act \[enacting [section 589a of this title][/us/usc/t28/s589a] and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and [section 589 of this title][/us/usc/t28/s589], amending provisions set out as notes preceding this section and under [section 152 of this title][/us/usc/t28/s152], and repealing provisions set out as a note preceding this section\] may be cited as the ‘Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
 
  __Bankruptcy Crimes__ 
 

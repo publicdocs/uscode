@@ -97,7 +97,7 @@ R.S. § 384.  </td>
 
 >     “(a) __In General.—__ 
 
->         “(1) __Data collection.—__ 
+>         “(1)  __Data collection__  __.—__ 
 
 >         The Attorney General shall compile and collect data concerning—
 
@@ -117,11 +117,11 @@ R.S. § 384.  </td>
 
 >             “(D) the results achieved, including convictions and pretrial diversions, fines and penalties levied, restitution assessed and collected, and damages recovered, in such matters.
 
->         “(2) __Analysis and report.—__ 
+>         “(2)  __Analysis and report__  __.—__ 
 
 >         The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and other related activities named in section 2539(c)(2) \[probably means [section 2539(c)(3) of Pub. L. 101–647][/us/pl/101/647/s2539/c/3], set out as a note under [section 509 of this title][/us/usc/t28/s509]\] and shall provide such report on the data monthly through December 31, 1991, and quarterly after such date.
 
->     “(b) __Specifics of Report.—__ 
+>     “(b)  __Specifics of Report__  __.—__ 
 
 >     The report required by subsection (a) shall—
 

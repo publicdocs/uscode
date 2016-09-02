@@ -10367,9 +10367,9 @@ Southern  </td>
 
 [Pub. L. 107–273, div. A, title III, § 312(c)][/us/pl/107/273/s312/c], Nov. 2, 2002, [116 Stat. 1788][/us/stat/116/1788], as amended by [Pub. L. 113–6, div. F, title III, § 1312(c)][/us/pl/113/6/s1312/c], Mar. 26, 2013, [127 Stat. 418][/us/stat/127/418], provided that:
 
->     “(c) __Temporary Judgeships.—__ 
+>     “(c)  __Temporary Judgeships__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President shall appoint, by and with the advice and consent of the Senate—
 
@@ -10387,11 +10387,11 @@ Southern  </td>
 
 >             “(G) 1 additional district judge for the eastern district of Texas.
 
->         “(2) __Vacancies not filled.—__ 
+>         “(2)  __Vacancies not filled__  __.—__ 
 
 >         The first vacancy in the office of district judge in each of the offices of district judge authorized by this subsection, except in the case of the central district of California and the western district of North Carolina, occurring 11 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in the applicable district by this subsection, shall not be filled. The first vacancy in the office of district judge in the central district of California occurring 10 years and 6 months or more after the confirmation date of the judge named to fill the temporary district judgeship created in that district by this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of North Carolina occurring 10 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in that district by this subsection, shall not be filled.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         This subsection shall take effect on July 15, 2003.”
 
@@ -10431,7 +10431,7 @@ Southern  </td>
 
 [Pub. L. 101–650, title II, § 203(a)][/us/pl/101/650/s203/a]–(c), Dec. 1, 1990, [104 Stat. 5099–5101][/us/stat/104/5099-5101], as amended by [Pub. L. 104–60, § 1][/us/pl/104/60/s1], Nov. 28, 1995, [109 Stat. 635][/us/stat/109/635]; [Pub. L. 104–317, title III, § 304][/us/pl/104/317/s304], Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852]; [Pub. L. 105–53, § 3][/us/pl/105/53/s3], Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173]; [Pub. L. 107–273, div. A, title III, § 312(d)(1)][/us/pl/107/273/s312/d/1], Nov. 2, 2002, [116 Stat. 1788][/us/stat/116/1788]; [Pub. L. 109–289, div. B, title II, § 21056][/us/pl/109/289/s21056], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 55][/us/stat/121/55]; [Pub. L. 110–161, div. D, title III, § 309][/us/pl/110/161/s309], Dec. 26, 2007, [121 Stat. 1990][/us/stat/121/1990]; [Pub. L. 111–8, div. D, title III, § 309][/us/pl/111/8/s309], Mar. 11, 2009, [123 Stat. 649][/us/stat/123/649]; [Pub. L. 111–117, div. C, title III, § 307][/us/pl/111/117/s307], Dec. 16, 2009, [123 Stat. 3177][/us/stat/123/3177]; [Pub. L. 112–10, div. B, title V, § 1530][/us/pl/112/10/s1530], Apr. 15, 2011, [125 Stat. 134][/us/stat/125/134]; [Pub. L. 112–74, div. C, title III, § 306][/us/pl/112/74/s306], Dec. 23, 2011, [125 Stat. 902][/us/stat/125/902]; [Pub. L. 113–6, div. F, title III, § 1312(a)][/us/pl/113/6/s1312/a], Mar. 26, 2013, [127 Stat. 418][/us/stat/127/418], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President shall appoint, by and with the advice and consent of the Senate—
 
@@ -10517,7 +10517,7 @@ Southern  </td>
 
 >         “(41) 1 additional district judge for the district of Wyoming.
 
->     “(b) __Existing Judgeships.—__ 
+>     “(b)  __Existing Judgeships__  __.—__ 
 
 >         (1) The existing district judgeships for the western district of Arkansas, the northern district of Illinois, the northern district of Indiana, the district of Massachusetts, the western district of New York, the eastern district of North Carolina, the northern district of Ohio, and the western district of Washington authorized by section 202(b) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 ([Public Law 98–353][/us/pl/98/353], [98 Stat. 347–348][/us/stat/98/347-348]) \[set out below\] shall, as of the effective date of this title \[Dec. 1, 1990\], be authorized under [section 133 of title 28][/us/usc/t28/s133], United States Code, and the incumbents in those offices shall hold the office under [section 133 of title 28][/us/usc/t28/s133], United States Code, as amended by this title.
 
@@ -10529,7 +10529,7 @@ Southern  </td>
 
 >             “(C) The existing district judgeship for the northern, eastern, and western districts of Oklahoma (provided by [section 133 of title 28][/us/usc/t28/s133], United States Code, as in effect on the day before the effective date of this title) and the occupant of which has his or her official duty station at Oklahoma City on the date of the enactment of this title \[Dec. 1, 1990\], shall be a district judgeship for the western district of Oklahoma only, and the incumbent of such judgeship shall hold the office under [section 133 of title 28][/us/usc/t28/s133], United States Code, as amended by this title.
 
->     “(c) __Temporary Judgeships.—__ 
+>     “(c)  __Temporary Judgeships__  __.—__ 
 
 >     The President shall appoint, by and with the advice and consent of the Senate—
 

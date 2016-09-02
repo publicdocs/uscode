@@ -35,11 +35,11 @@
 
 [Pub. L. 108–458, title VIII, § 8402][/us/pl/108/458/s8402], Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869], provided that:
 
->     “(a) __Enterprise Architecture Defined.—__ 
+>     “(a)  __Enterprise Architecture Defined__  __.—__ 
 
 >     In this section, the term ‘enterprise architecture’ means a detailed outline or blueprint of the information technology of the Federal Bureau of Investigation that will satisfy the ongoing mission and goals of the Federal Bureau of Investigation and that sets forth specific and identifiable benchmarks.
 
->     “(b) __Enterprise Architecture.—__ 
+>     “(b)  __Enterprise Architecture__  __.—__ 
 
 >     The Federal Bureau of Investigation shall—
 
@@ -47,11 +47,11 @@
 
 >         “(2) maintain a state of the art and up to date information technology infrastructure that is in compliance with the enterprise architecture of the Federal Bureau of Investigation.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Subject to subsection (d), the Director of the Federal Bureau of Investigation shall, on an annual basis, submit to the Committees on the Judiciary of the Senate and House of Representatives a report on whether the major information technology investments of the Federal Bureau of Investigation are in compliance with the enterprise architecture of the Federal Bureau of Investigation and identify any inability or expectation of inability to meet the terms set forth in the enterprise architecture.
 
->     “(d) __Failure To Meet Terms.—__ 
+>     “(d)  __Failure To Meet Terms__  __.—__ 
 
 >     If the Director of the Federal Bureau of Investigation identifies any inability or expectation of inability to meet the terms set forth in the enterprise architecture in a report under subsection (c), the report under subsection (c) shall—
 
@@ -61,7 +61,7 @@
 
 >         “(3) if the inability or expectation of inability is substantially related to resources, include a request for additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
 
->     “(e) __Enterprise Architecture, Agency Plans and Reports.—__ 
+>     “(e)  __Enterprise Architecture, Agency Plans and Reports__  __.—__ 
 
 >     This section shall be carried out in compliance with the requirements set forth in section 1016(e) and (h) \[[6 U.S.C. 485(e)][/us/usc/t6/s485/e], (h)\].”
 
@@ -75,15 +75,15 @@
 
 [Pub. L. 105–314, title VII, § 703(a)][/us/pl/105/314/s703/a]–(f), Oct. 30, 1998, [112 Stat. 2987–2989][/us/stat/112/2987-2989], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 30, 1998\], the Attorney General shall establish within the Federal Bureau of Investigation a Child Abduction and Serial Murder Investigative Resources Center to be known as the ‘Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center’ (in this section referred to as the ‘CASMIRC’).
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The CASMIRC shall be managed by the National Center for the Analysis of Violent Crime of the Critical Incident Response Group of the Federal Bureau of Investigation (in this section referred to as the ‘NCAVC’), and by multidisciplinary resource teams in Federal Bureau of Investigation field offices, in order to provide investigative support through the coordination and provision of Federal law enforcement resources, training, and application of other multidisciplinary expertise, to assist Federal, State, and local authorities in matters involving child abductions, mysterious disappearances of children, child homicide, and serial murder across the country. The CASMIRC shall be co-located with the NCAVC.
 
->     “(c) __Duties of the CASMIRC.—__ 
+>     “(c)  __Duties of the CASMIRC__  __.—__ 
 
 >     The CASMIRC shall perform such duties as the Attorney General determines appropriate to carry out the purposes of the CASMIRC, including—
 
@@ -105,19 +105,19 @@
 
 >     “(d) __Appointment of Personnel to the CASMIRC.—__ 
 
->         “(1) __Selection of members of the casmirc and participating state and local law enforcement personnel.—__ 
+>         “(1)  __Selection of members of the casmirc and participating state and local law enforcement personnel__  __.—__ 
 
 >         The Director of the Federal Bureau of Investigation shall appoint the members of the CASMIRC. The CASMIRC shall be staffed with Federal Bureau of Investigation personnel and other necessary personnel selected for their expertise that would enable them to assist in the research, data collection, and analysis, and provision of investigative support in child abduction, mysterious disappearances of children, child homicide and serial murder investigations. The Director may, with concurrence of the appropriate State or local agency, also appoint State and local law enforcement personnel to work with the CASMIRC.
 
->         “(2) __Status.—__ 
+>         “(2)  __Status__  __.—__ 
 
 >         Each member of the CASMIRC (and each individual from any State or local law enforcement agency appointed to work with the CASMIRC) shall remain as an employee of that member’s or individual’s respective agency for all purposes (including the purpose of performance review), and service with the CASMIRC shall be without interruption or loss of civil service privilege or status and shall be on a nonreimbursable basis, except if appropriate to reimburse State and local law enforcement for overtime costs for an individual appointed to work with the resource team. Additionally, reimbursement of travel and per diem expenses will occur for State and local law enforcement participation in resident fellowship programs at the NCAVC when offered.
 
->         “(3) __Training.—__ 
+>         “(3)  __Training__  __.—__ 
 
 >         CASMIRC personnel, under the guidance of the Federal Bureau of Investigation’s National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
 
->     “(e) __Report to Congress.—__ 
+>     “(e)  __Report to Congress__  __.—__ 
 
 >     One year after the establishment of the CASMIRC, the Attorney General shall submit to Congress a report, which shall include—
 
@@ -133,7 +133,7 @@
 
 >             “(C) the projected resource needs for the CASMIRC.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001.”
 
@@ -145,7 +145,7 @@
 
 [Pub. L. 104–132, title VIII, § 811][/us/pl/104/132/s811], Apr. 24, 1996, [110 Stat. 1312][/us/stat/110/1312], as amended by [Pub. L. 106–546, § 6(a)][/us/pl/106/546/s6/a], Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     With funds made available pursuant to subsection (c)—
 
@@ -177,7 +177,7 @@
 
 >     “(b) __State Grants.—__ 
 
->         “(1) __Authorization.—__ 
+>         “(1)  __Authorization__  __.—__ 
 
 >         The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, may make grants to each State eligible under paragraph (2) to be used by the chief executive officer of the State, in conjunction with units of local government, other States, or any combination thereof, to carry out all or part of a program to establish, develop, update, or upgrade—
 
@@ -187,17 +187,17 @@
 
 >             “(C) automated fingerprint identification systems that are compatible and integrated with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation.
 
->         “(2) __Eligibility.—__ 
+>         “(2)  __Eligibility__  __.—__ 
 
 >         To be eligible to receive a grant under this subsection, a State shall require that each person convicted of a felony of a sexual nature shall provide to appropriate State law enforcement officials, as designated by the chief executive officer of the State, a sample of blood, saliva, or other specimen necessary to conduct a DNA analysis consistent with the standards established for DNA testing by the Director of the Federal Bureau of Investigation.
 
->         “(3) __Interstate compacts.—__ 
+>         “(3)  __Interstate compacts__  __.—__ 
 
 >         A State may enter into a compact or compacts with another State or States to carry out this subsection.
 
 >     “(c) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated for the activities of the Federal Bureau of Investigation, to help meet the increased demands for activities to combat terrorism—
 
@@ -209,13 +209,13 @@
 
 >             “(D) $92,000,000 for fiscal year 2000.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Funds made available pursuant to paragraph (1), in any fiscal year, shall remain available until expended.
 
 >         “(3) __Allocation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Of the total amount appropriated to carry out subsection (b) in a fiscal year—
 
@@ -223,7 +223,7 @@
 
 >                 “(ii) of the total funds remaining after the allocation under clause (i), there shall be allocated to each State an amount which bears the same ratio to the amount of remaining funds described in this subparagraph as the population of such State bears to the population of all States.
 
->             “(B) __Definition.—__ 
+>             “(B)  __Definition__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, except that for purposes of the allocation under this subparagraph, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one State and that for these purposes, 67 percent of the amounts allocated shall be allocated to American Samoa, and 33 percent to the Commonwealth of the Northern Mariana Islands.”
 

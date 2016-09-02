@@ -15,7 +15,7 @@
 
 ## § 613. Disbursing and certifying officers
 
-    (a) __Disbursing Officers.—__ 
+    (a)  __Disbursing Officers__  __.—__ 
 
     The Director may designate in writing officers and employees of the judicial branch of the Government, including the courts as defined in section 610 other than the Supreme Court, to be disbursing officers in such numbers and locations as the Director considers necessary. Such disbursing officers shall—
 
@@ -27,7 +27,7 @@
 
     (b) __Certifying Officers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director may designate in writing officers and employees of the judicial branch of the Government, including the courts as defined in section 610 other than the Supreme Court, to certify payment requests payable from appropriations and funds. Such certifying officers shall be responsible and accountable for—
 
@@ -37,11 +37,11 @@
 
             (C) the correctness of the computations of certified payment requests.
 
-        (2) __Liability.—__ 
+        (2)  __Liability__  __.—__ 
 
         The liability of a certifying officer shall be enforced in the same manner and to the same extent as provided by law with respect to the enforcement of the liability of disbursing and other accountable officers. A certifying officer shall be required to make restitution to the United States for the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificates made by the certifying officer, as well as for any payment prohibited by law or which did not represent a legal obligation under the appropriation or fund involved.
 
-    (c) __Rights.—__ 
+    (c)  __Rights__  __.—__ 
 
     A certifying or disbursing officer—
 
@@ -49,7 +49,7 @@
 
         (2) is entitled to relief from liability arising under this section in accordance with title 31.
 
-    (d) __Other Authority Not Affected.—__ 
+    (d)  __Other Authority Not Affected__  __.—__ 
 
     Nothing in this section affects the authority of the courts with respect to moneys deposited with the courts under chapter 129 of this title.
 

@@ -17,7 +17,7 @@
 
     (a) __Actions Upon Receipt of Report.—__ 
 
-        (1) __Actions.—__ 
+        (1)  __Actions__  __.—__ 
 
         The judicial council of a circuit, upon receipt of a report filed under section 353(c)—
 
@@ -29,7 +29,7 @@
 
         (2) __Description of possible actions if complaint not dismissed.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Action by the judicial council under paragraph (1)(C) may include—
 
@@ -39,7 +39,7 @@
 
                 (iii) censuring or reprimanding such judge by means of public announcement.
 
-            (B) __For article iii judges.—__ 
+            (B)  __For article iii judges__  __.—__ 
 
             If the conduct of a judge appointed to hold office during good behavior is the subject of the complaint, action by the judicial council under paragraph (1)(C) may include—
 
@@ -47,31 +47,31 @@
 
                 (ii) requesting that the judge voluntarily retire, with the provision that the length of service requirements under [section 371 of this title][/us/usc/t28/s371] shall not apply.
 
-            (C) __For magistrate judges.—__ 
+            (C)  __For magistrate judges__  __.—__ 
 
             If the conduct of a magistrate judge is the subject of the complaint, action by the judicial council under paragraph (1)(C) may include directing the chief judge of the district of the magistrate judge to take such action as the judicial council considers appropriate.
 
         (3) __Limitations on judicial council regarding removals.—__ 
 
-            (A) __Article iii judges.—__ 
+            (A)  __Article iii judges__  __.—__ 
 
             Under no circumstances may the judicial council order removal from office of any judge appointed to hold office during good behavior.
 
-            (B) __Magistrate and bankruptcy judges.—__ 
+            (B)  __Magistrate and bankruptcy judges__  __.—__ 
 
             Any removal of a magistrate judge under this subsection shall be in accordance with section 631 and any removal of a bankruptcy judge shall be in accordance with section 152.
 
-        (4) __Notice of action to judge.—__ 
+        (4)  __Notice of action to judge__  __.—__ 
 
         The judicial council shall immediately provide written notice to the complainant and to the judge whose conduct is the subject of the complaint of the action taken under this subsection.
 
     (b) __Referral to Judicial Conference.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In addition to the authority granted under subsection (a), the judicial council may, in its discretion, refer any complaint under section 351, together with the record of any associated proceedings and its recommendations for appropriate action, to the Judicial Conference of the United States.
 
-        (2) __Special circumstances.—__ 
+        (2)  __Special circumstances__  __.—__ 
 
         In any case in which the judicial council determines, on the basis of a complaint and an investigation under this chapter, or on the basis of information otherwise available to the judicial council, that a judge appointed to hold office during good behavior may have engaged in conduct—
 
@@ -81,7 +81,7 @@
 
             the judicial council shall promptly certify such determination, together with any complaint and a record of any associated proceedings, to the Judicial Conference of the United States.
 
-        (3) __Notice to complainant and judge.—__ 
+        (3)  __Notice to complainant and judge__  __.—__ 
 
         A judicial council acting under authority of this subsection shall, unless contrary to the interests of justice, immediately submit written notice to the complainant and to the judge whose conduct is the subject of the action taken under this subsection.
 

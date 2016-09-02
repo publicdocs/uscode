@@ -15,23 +15,23 @@
 
 ## § 612. Judiciary Information Technology Fund
 
-    (a) __Establishment and Availability of Fund.—__ 
+    (a)  __Establishment and Availability of Fund__  __.—__ 
 
     There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
 
     (b) __Plan for Meeting Information Technology Needs.—__ 
 
-        (1) __Development of plan.—__ 
+        (1)  __Development of plan__  __.—__ 
 
         The Director shall develop and annually revise, with the approval of the Judicial Conference of the United States, a long range plan for meeting the information technology resources needs of the activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 ([Public Law 101–515][/us/pl/101/515]; [104 Stat. 2133][/us/stat/104/2133]). Such plan and revisions shall be submitted to Congress.
 
-        (2) __Expenditures consistent with plan.—__ 
+        (2)  __Expenditures consistent with plan__  __.—__ 
 
         The Director may use amounts in the Fund to procure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
 
     (c) __Deposits Into Fund.—__ 
 
-        (1) __Deposits.—__ 
+        (1)  __Deposits__  __.—__ 
 
         There shall be deposited in the Fund—
 
@@ -41,21 +41,21 @@
 
             (C) any advances and reimbursements required by paragraph (2).
 
-        (2) __Advances and reimbursements.—__ 
+        (2)  __Advances and reimbursements__  __.—__ 
 
         Whenever the Director procures information technology resources for any entity in the judicial branch other than the courts or the Administrative Office, that entity shall advance or reimburse the Fund, whichever the Director considers appropriate, for the costs of the information technology resources, from appropriations available to that entity.
 
-    (d) __Authorization of Appropriations.—__ 
+    (d)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
     (e) __Contract Authority.—__ 
 
-        (1) __For each fiscal year.—__ 
+        (1)  __For each fiscal year__  __.—__ 
 
         In fiscal year 1990, and in each succeeding fiscal year, the Director may enter into contracts for the procurement of information technology resources in amounts which, in the aggregate, do not exceed amounts estimated to be collected under subsection (c) for that fiscal year in advance of the availability of amounts in the Fund for such contracts.
 
-        (2) __Multiyear contracts.—__ 
+        (2)  __Multiyear contracts__  __.—__ 
 
         In conducting activities under subsection (a), the Director is authorized to enter into multiyear contracts for information technology resources for periods of not more than five years for any contract, if—
 
@@ -71,21 +71,21 @@
 
                 (ii) the use of the multi-year contract will yield substantial cost savings when compared with other methods of providing the necessary resources.
 
-        (3) __Cancellation costs of multiyear contract.—__ 
+        (3)  __Cancellation costs of multiyear contract__  __.—__ 
 
         Any cancellation costs incurred with respect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
 
-    (f) __Authority of Administrator of General Services.—__ 
+    (f)  __Authority of Administrator of General Services__  __.—__ 
 
     Nothing in this section shall be construed to limit the authority of the Administrator of General Services under sections 501–505 of title 40.
 
     (g) __Annual Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technology resources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
 
-        (2) __Additional contents of report.—__ 
+        (2)  __Additional contents of report__  __.—__ 
 
         The annual report submitted under this subsection shall include—
 
@@ -93,15 +93,15 @@
 
             (B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments, and the reasons for any delays in scheduled systems development, or budget overruns.
 
-    (h) __Reprogramming.—__ 
+    (h)  __Reprogramming__  __.—__ 
 
     The Director of the Administrative Office of the United States Courts, under the supervision of the Judicial Conference of the United States, may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 ([Public Law 100–459][/us/pl/100/459]; [102 Stat. 2227][/us/stat/102/2227]).
 
-    (i) __Appropriations Into the Fund.—__ 
+    (i)  __Appropriations Into the Fund__  __.—__ 
 
     If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
 
-    (j) __Long Range Management and Business Plans.—__ 
+    (j)  __Long Range Management and Business Plans__  __.—__ 
 
     The Director of the Administrative Office of the United States Court shall—
 

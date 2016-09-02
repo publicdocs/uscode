@@ -109,7 +109,7 @@
 
 [Pub. L. 106–386, div. B, title III, § 1303(a)][/us/pl/106/386/s1303/a]–(c), Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall—
 
@@ -117,11 +117,11 @@
 
 >         “(2) submit to Congress a report describing the results of that study, including the effects of implementing or applying model State laws, and the recommendations of the Attorney General to reduce the incidence or pattern of violence against women or of sexual assault of the child.
 
->     “(b) __Sufficiency of Defenses.—__ 
+>     “(b)  __Sufficiency of Defenses__  __.—__ 
 
 >     In carrying out subsection (a) with respect to the Parental Kidnaping Prevention Act of 1980 and the amendments made by that Act, the Attorney General shall examine the sufficiency of defenses to parental abduction charges available in cases involving domestic violence, and the burdens and risks encountered by victims of domestic violence arising from jurisdictional requirements of that Act and the amendments made by that Act.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001.”
 

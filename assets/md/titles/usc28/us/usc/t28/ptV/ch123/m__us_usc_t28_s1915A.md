@@ -15,11 +15,11 @@
 
 ## § 1915A. Screening
 
-    (a) __Screening.—__ 
+    (a)  __Screening__  __.—__ 
 
     The court shall review, before docketing, if feasible or, in any event, as soon as practicable after docketing, a complaint in a civil action in which a prisoner seeks redress from a governmental entity or officer or employee of a governmental entity.
 
-    (b) __Grounds for Dismissal.—__ 
+    (b)  __Grounds for Dismissal__  __.—__ 
 
     On review, the court shall identify cognizable claims or dismiss the complaint, or any portion of the complaint, if the complaint—
 
@@ -27,7 +27,7 @@
 
         (2) seeks monetary relief from a defendant who is immune from such relief.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 

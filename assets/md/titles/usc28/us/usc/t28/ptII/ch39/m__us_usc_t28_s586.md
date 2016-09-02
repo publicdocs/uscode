@@ -241,11 +241,11 @@
 
 [Pub. L. 109–8, title VI, § 603(a)][/us/pl/109/8/s603/a], Apr. 20, 2005, [119 Stat. 122][/us/stat/119/122], provided that:
 
->     “(1) __Establishment of procedures.—__ 
+>     “(1)  __Establishment of procedures__  __.—__ 
 
 >     The Attorney General (in judicial districts served by United States trustees) and the Judicial Conference of the United States (in judicial districts served by bankruptcy administrators) shall establish procedures to determine the accuracy, veracity, and completeness of petitions, schedules, and other information that the debtor is required to provide under sections 521 and 1322 of title 11, United States Code, and, if applicable, section 111 of such title, in cases filed under chapter 7 or 13 of such title in which the debtor is an individual. Such audits shall be in accordance with generally accepted auditing standards and performed by independent certified public accountants or independent licensed public accountants, provided that the Attorney General and the Judicial Conference, as appropriate, may develop alternative auditing standards not later than 2 years after the date of enactment of this Act \[Apr. 20, 2005\].
 
->     “(2) __Procedures.—__ 
+>     “(2)  __Procedures__  __.—__ 
 
 >     Those procedures required by paragraph (1) shall—
 

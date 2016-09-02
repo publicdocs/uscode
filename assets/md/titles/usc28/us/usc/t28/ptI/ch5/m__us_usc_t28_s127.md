@@ -57,11 +57,11 @@ Western District
 
 [Pub. L. 102–200, § 2][/us/pl/102/200/s2], Dec. 10, 1991, [105 Stat. 1630][/us/stat/105/1630], provided that:
 
->     “(a) __Pending Actions.—__ 
+>     “(a)  __Pending Actions__  __.—__ 
 
 >     The amendments made by section 1 \[amending this section\] shall not apply to any action commenced before the date of the enactment of this Act \[Dec. 10, 1991\] and pending in the United States District Court for the Eastern District of Virginia on such date.
 
->     “(b) __Juries.—__ 
+>     “(b)  __Juries__  __.—__ 
 
 >     The amendments made by section 1 shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving in the Eastern or Western District of Virginia on the date of the enactment of this Act.”
 

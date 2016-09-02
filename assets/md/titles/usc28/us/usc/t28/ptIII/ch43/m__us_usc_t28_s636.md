@@ -67,27 +67,27 @@
 
     (e) __Contempt Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A United States magistrate judge serving under this chapter shall have within the territorial jurisdiction prescribed by the appointment of such magistrate judge the power to exercise contempt authority as set forth in this subsection.
 
-        (2) __Summary criminal contempt authority.—__ 
+        (2)  __Summary criminal contempt authority__  __.—__ 
 
         A magistrate judge shall have the power to punish summarily by fine or imprisonment, or both, such contempt of the authority of such magistrate judge constituting misbehavior of any person in the magistrate judge’s presence so as to obstruct the administration of justice. The order of contempt shall be issued under the Federal Rules of Criminal Procedure.
 
-        (3) __Additional criminal contempt authority in civil consent and misdemeanor cases.—__ 
+        (3)  __Additional criminal contempt authority in civil consent and misdemeanor cases__  __.—__ 
 
         In any case in which a United States magistrate judge presides with the consent of the parties under subsection (c) of this section, and in any misdemeanor case proceeding before a magistrate judge under [section 3401 of title 18][/us/usc/t18/s3401], the magistrate judge shall have the power to punish, by fine or imprisonment, or both, criminal contempt constituting disobedience or resistance to the magistrate judge’s lawful writ, process, order, rule, decree, or command. Disposition of such contempt shall be conducted upon notice and hearing under the Federal Rules of Criminal Procedure.
 
-        (4) __Civil contempt authority in civil consent and misdemeanor cases.—__ 
+        (4)  __Civil contempt authority in civil consent and misdemeanor cases__  __.—__ 
 
         In any case in which a United States magistrate judge presides with the consent of the parties under subsection (c) of this section, and in any misdemeanor case proceeding before a magistrate judge under [section 3401 of title 18][/us/usc/t18/s3401], the magistrate judge may exercise the civil contempt authority of the district court. This paragraph shall not be construed to limit the authority of a magistrate judge to order sanctions under any other statute, the Federal Rules of Civil Procedure, or the Federal Rules of Criminal Procedure.
 
-        (5) __Criminal contempt penalties.—__ 
+        (5)  __Criminal contempt penalties__  __.—__ 
 
         The sentence imposed by a magistrate judge for any criminal contempt provided for in paragraphs (2) and (3) shall not exceed the penalties for a Class C misdemeanor as set forth in sections 3581(b)(8) and 3571(b)(6) of title 18.
 
-        (6) __Certification of other contempts to the district court.—__ 
+        (6)  __Certification of other contempts to the district court__  __.—__ 
 
         Upon the commission of any such act—
 
@@ -105,7 +105,7 @@
 
             the magistrate judge shall forthwith certify the facts to a district judge and may serve or cause to be served, upon any person whose behavior is brought into question under this paragraph, an order requiring such person to appear before a district judge upon a day certain to show cause why that person should not be adjudged in contempt by reason of the facts so certified. The district judge shall thereupon hear the evidence as to the act or conduct complained of and, if it is such as to warrant punishment, punish such person in the same manner and to the same extent as for a contempt committed before a district judge.
 
-        (7) __Appeals of magistrate judge contempt orders.—__ 
+        (7)  __Appeals of magistrate judge contempt orders__  __.—__ 
 
         The appeal of an order of contempt under this subsection shall be made to the court of appeals in cases proceeding under subsection (c) of this section. The appeal of any other order of contempt issued under this section shall be made to the district court.
 

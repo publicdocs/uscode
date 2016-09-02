@@ -503,7 +503,7 @@
 
 [Section 21 of Pub. L. 100–182][/us/pl/100/182/s21] provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of—
 
@@ -515,7 +515,7 @@
 
 >         the Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of title 28 and title 18, United States Code, shall promulgate and distribute to all courts of the United States and to the United States Probation System a temporary guideline or amendment to an existing guideline, to remain in effect until and during the pendency of the next report to Congress under [section 994(p) of title 28][/us/usc/t28/s994/p], United States Code.
 
->     “(b) __Expiration of Authority.—__ 
+>     “(b)  __Expiration of Authority__  __.—__ 
 
 >     The authority of the Commission under paragraphs (1) and (2) of subsection (a) shall expire on November 1, 1989. The authority of the Commission to promulgate and distribute guidelines under paragraph (3) of subsection (a) shall expire on May 1, 1988.”
 

@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1) __No immunity.—__ 
+        (1)  __No immunity__  __.—__ 
 
         A foreign state shall not be immune from the jurisdiction of courts of the United States or of the States in any case not otherwise covered by this chapter in which money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act if such act or provision of material support or resources is engaged in by an official, employee, or agent of such foreign state while acting within the scope of his or her office, employment, or agency.
 
-        (2) __Claim heard.—__ 
+        (2)  __Claim heard__  __.—__ 
 
         The court shall hear a claim under this section if—
 
@@ -47,7 +47,7 @@
 
             (B) the act described in paragraph (1) is related to Case Number 1:00CV03110 (EGS) in the United States District Court for the District of Columbia.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
     An action may be brought or maintained under this section if the action is commenced, or a related action was commenced under section 1605(a)(7) (before the date of the enactment of this section) or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of [Public Law 104–208][/us/pl/104/208]) not later than the latter of—
 
@@ -55,7 +55,7 @@
 
         (2) 10 years after the date on which the cause of action arose.
 
-    (c) __Private Right of Action.—__ 
+    (c)  __Private Right of Action__  __.—__ 
 
     A foreign state that is or was a state sponsor of terrorism as described in subsection (a)(2)(A)(i), and any official, employee, or agent of that foreign state while acting within the scope of his or her office, employment, or agency, shall be liable to—
 
@@ -69,27 +69,27 @@
 
         for personal injury or death caused by acts described in subsection (a)(1) of that foreign state, or of an official, employee, or agent of that foreign state, for which the courts of the United States may maintain jurisdiction under this section for money damages. In any such action, damages may include economic damages, solatium, pain and suffering, and punitive damages. In any such action, a foreign state shall be vicariously liable for the acts of its officials, employees, or agents.
 
-    (d) __Additional Damages.—__ 
+    (d)  __Additional Damages__  __.—__ 
 
     After an action has been brought under subsection (c), actions may also be brought for reasonably foreseeable property loss, whether insured or uninsured, third party liability, and loss claims under life and property insurance policies, by reason of the same acts on which the action under subsection (c) is based.
 
     (e) __Special Masters.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The courts of the United States may appoint special masters to hear damage claims brought under this section.
 
-        (2) __Transfer of funds.—__ 
+        (2)  __Transfer of funds__  __.—__ 
 
         The Attorney General shall transfer, from funds available for the program under section 1404C of the Victims of Crime Act of 1984 ([42 U.S.C. 10603c][/us/usc/t42/s10603c]), to the Administrator of the United States district court in which any case is pending which has been brought or maintained under this section such funds as may be required to cover the costs of special masters appointed under paragraph (1). Any amount paid in compensation to any such special master shall constitute an item of court costs.
 
-    (f) __Appeal.—__ 
+    (f)  __Appeal__  __.—__ 
 
     In an action brought under this section, appeals from orders not conclusively ending the litigation may only be taken pursuant to [section 1292(b) of this title][/us/usc/t28/s1292/b].
 
     (g) __Property Disposition.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In every action filed in a United States district court in which jurisdiction is alleged under this section, the filing of a notice of pending action pursuant to this section, to which is attached a copy of the complaint filed in the action, shall have the effect of establishing a lien of lis pendens upon any real property or tangible personal property that is—
 
@@ -99,15 +99,15 @@
 
             (C) titled in the name of any defendant, or titled in the name of any entity controlled by any defendant if such notice contains a statement listing such controlled entity.
 
-        (2) __Notice.—__ 
+        (2)  __Notice__  __.—__ 
 
         A notice of pending action pursuant to this section shall be filed by the clerk of the district court in the same manner as any pending action and shall be indexed by listing as defendants all named defendants and all entities listed as controlled by any defendant.
 
-        (3) __Enforceability.—__ 
+        (3)  __Enforceability__  __.—__ 
 
         Liens established by reason of this subsection shall be enforceable as provided in chapter 111 of this title.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -141,13 +141,13 @@
 
 [Pub. L. 110–181, div. A, title X, § 1083(c)][/us/pl/110/181/s1083/c], Jan. 28, 2008, [122 Stat. 342][/us/stat/122/342], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and [section 10603a of Title 42][/us/usc/t42/s10603a], The Public Health and Welfare\] shall apply to any claim arising under [section 1605A of title 28][/us/usc/t28/s1605A], United States Code.
 
 >     “(2) __Prior actions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         With respect to any action that—
 
@@ -161,7 +161,7 @@
 
 >             that action, and any judgment in the action shall, on motion made by plaintiffs to the United States district court where the action was initially brought, or judgment in the action was initially entered, be given effect as if the action had originally been filed under [section 1605A(c) of title 28][/us/usc/t28/s1605A/c], United States Code.
 
->         “(B) __Defenses waived.—__ 
+>         “(B)  __Defenses waived__  __.—__ 
 
 >         The defenses of res judicata, collateral estoppel, and limitation period are waived—
 
@@ -171,7 +171,7 @@
 
 >             to the extent such defenses are based on the claim in the action.
 
->         “(C) __Time limitations.—__ 
+>         “(C)  __Time limitations__  __.—__ 
 
 >         A motion may be made or an action may be refiled under subparagraph (A) only—
 
@@ -185,7 +185,7 @@
 
 >             “(ii) within the 60-day period beginning on the date of the enactment of this Act.
 
->     “(3) __Related actions.—__ 
+>     “(3)  __Related actions__  __.—__ 
 
 >     If an action arising out of an act or incident has been timely commenced under [section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7], United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of [Public Law 104–208][/us/pl/104/208]) \[[28 U.S.C. 1605][/us/usc/t28/s1605] note\], any other action arising out of the same act or incident may be brought under [section 1605A of title 28][/us/usc/t28/s1605A], United States Code, if the action is commenced not later than the latter of 60 days after—
 
@@ -193,7 +193,7 @@
 
 >         “(B) the date of the enactment of this Act \[Jan. 28, 2008\].
 
->     “(4) __Preserving the jurisdiction of the courts.—__ 
+>     “(4)  __Preserving the jurisdiction of the courts__  __.—__ 
 
 >     Nothing in section 1503 of the Emergency Wartime Supplemental Appropriations Act, 2003 ([Public Law 108–11][/us/pl/108/11], [117 Stat. 579][/us/stat/117/579]) has ever authorized, directly or indirectly, the making inapplicable of any provision of chapter 97 of title 28, United States Code, or the removal of the jurisdiction of any court of the United States.”
 
@@ -233,11 +233,11 @@
 
 >     “(a) __Designation of Entity.—__ 
 
->         “(1) __Designation.—__ 
+>         “(1)  __Designation__  __.—__ 
 
 >         The Secretary, by publication in the Federal Register, may, after consultation with the appropriate congressional committees, designate 1 or more entities to assist in providing compensation to nationals of the United States, pursuant to a claims agreement.
 
->         “(2) __Authority of the secretary.—__ 
+>         “(2)  __Authority of the secretary__  __.—__ 
 
 >         The designation of an entity under paragraph (1) is within the sole discretion of the Secretary, and may not be delegated. The designation shall not be subject to judicial review.
 
@@ -245,11 +245,11 @@
 
 >         “(1) __Property.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding any other provision of law, if the Secretary designates any entity under subsection (a)(1), any property described in subparagraph (B) of this paragraph shall be immune from attachment or any other judicial process. Such immunity shall be in addition to any other applicable immunity.
 
->             “(B) __Property described.—__ 
+>             “(B)  __Property described__  __.—__ 
 
 >             The property described in this subparagraph is any property that—
 
@@ -265,11 +265,11 @@
 
 >                          “(III) transferred from the entity.
 
->         “(2) __Other acts.—__ 
+>         “(2)  __Other acts__  __.—__ 
 
 >         An entity designated by the Secretary under subsection (a)(1), and any person acting through or on behalf of such entity, shall not be liable in any Federal or State court for any action taken to implement a claims agreement.
 
->     “(c) __Nonapplicability of the Government Corporation Control Act.—__ 
+>     “(c)  __Nonapplicability of the Government Corporation Control Act__  __.—__ 
 
 >     An entity designated by the Secretary under subsection (a)(1) shall not be subject to chapter 91 of title 31, United States Code (commonly known as the ‘Government Corporation Control Act’).
 
@@ -277,7 +277,7 @@
 
 >     “(a) __Immunity.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, upon submission of a certification described in paragraph (2)—
 
@@ -287,7 +287,7 @@
 
 >             “(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
->         “(2) __Certification.—__ 
+>         “(2)  __Certification__  __.—__ 
 
 >         A certification described in this paragraph is a certification—
 
@@ -301,11 +301,11 @@
 
 >                 “(ii) fair compensation of claims of nationals of the United States for wrongful death or physical injury in cases pending on the date of enactment of this Act \[Aug. 4, 2008\] against Libya arising under [section 1605A of title 28][/us/usc/t28/s1605A], United States Code (including any action brought under \[former\] [section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7], United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 ([28 U.S.C. 1605][/us/usc/t28/s1605] note), that has been given effect as if the action had originally been filed under \[section\] 1605A(c) of title 28, United States Code, pursuant to section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 342][/us/stat/122/342]; [28 U.S.C. 1605A][/us/usc/t28/s1605A] note)).
 
->     “(b) __Temporal Scope.—__ 
+>     “(b)  __Temporal Scope__  __.—__ 
 
 >     Subsection (a) shall apply only with respect to any conduct or event occurring before June 30, 2006, regardless of whether, or the extent to which, application of that subsection affects any action filed before, on, or after that date.
 
->     “(c) __Authority of the Secretary.—__ 
+>     “(c)  __Authority of the Secretary__  __.—__ 
 
 >     The certification by the Secretary referred to in subsection (a)(2) may not be delegated, and shall not be subject to judicial review.”
 
@@ -313,7 +313,7 @@
 
 [Pub. L. 110–181, div. A, title X, § 1083(d)][/us/pl/110/181/s1083/d], Jan. 28, 2008, [122 Stat. 343][/us/stat/122/343], provided that:
 
->     “(1) __Applicability.—__ 
+>     “(1)  __Applicability__  __.—__ 
 
 >     The President may waive any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and [section 10603a of Title 42][/us/usc/t42/s10603a], The Public Health and Welfare\] with respect to Iraq, insofar as that provision may, in the President’s determination, affect Iraq or any agency or instrumentality thereof, if the President determines that—
 
@@ -323,7 +323,7 @@
 
 >         “(C) Iraq continues to be a reliable ally of the United States and partner in combating acts of international terrorism.
 
->     “(2) __Temporal scope.—__ 
+>     “(2)  __Temporal scope__  __.—__ 
 
 >     The authority under paragraph (1) shall apply—
 
@@ -333,11 +333,11 @@
 
 >         “(C) regardless of whether, or the extent to which, the exercise of that authority affects any action filed before, on, or after the date of the exercise of that authority or of the enactment of this Act.
 
->     “(3) __Notification to congress.—__ 
+>     “(3)  __Notification to congress__  __.—__ 
 
 >     A waiver by the President under paragraph (1) shall cease to be effective 30 days after it is made unless the President has notified Congress in writing of the basis for the waiver as determined by the President under paragraph (1).
 
->     “(4) __Sense of congress.—__ 
+>     “(4)  __Sense of congress__  __.—__ 
 
 >     It is the sense of the Congress that the President, acting through the Secretary of State, should work with the Government of Iraq on a state-to-state basis to ensure compensation for any meritorious claims based on terrorist acts committed by the Saddam Hussein regime against individuals who were United States nationals or members of the United States Armed Forces at the time of those terrorist acts and whose claims cannot be addressed in courts in the United States due to the exercise of the waiver authority under paragraph (1).”
 

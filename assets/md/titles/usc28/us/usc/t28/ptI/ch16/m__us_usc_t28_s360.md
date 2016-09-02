@@ -15,7 +15,7 @@
 
 ## § 360. Disclosure of information
 
-    (a) __Confidentiality of Proceedings.—__ 
+    (a)  __Confidentiality of Proceedings__  __.—__ 
 
     Except as provided in section 355, all papers, documents, and records of proceedings related to investigations conducted under this chapter shall be confidential and shall not be disclosed by any person in any proceeding except to the extent that—
 
@@ -25,7 +25,7 @@
 
         (3) such disclosure is authorized in writing by the judge who is the subject of the complaint and by the chief judge of the circuit, the Chief Justice, or the chairman of the standing committee established under section 331.
 
-    (b) __Public Availability of Written Orders.—__ 
+    (b)  __Public Availability of Written Orders__  __.—__ 
 
     Each written order to implement any action under section 354(a)(1)(C), which is issued by a judicial council, the Judicial Conference, or the standing committee established under section 331, shall be made available to the public through the appropriate clerk’s office of the court of appeals for the circuit. Unless contrary to the interests of justice, each such order shall be accompanied by written reasons therefor.
 

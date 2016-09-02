@@ -15,11 +15,11 @@
 
 ## § 1455. Procedure for removal of criminal prosecutions
 
-    (a) __Notice of Removal.—__ 
+    (a)  __Notice of Removal__  __.—__ 
 
     A defendant or defendants desiring to remove any criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such prosecution is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
         (1) A notice of removal of a criminal prosecution shall be filed not later than 30 days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
@@ -31,7 +31,7 @@
 
         (5) If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and, after such hearing, shall make such disposition of the prosecution as justice shall require. If the United States district court determines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
 
-    (c) __Writ of Habeas Corpus.—__ 
+    (c)  __Writ of Habeas Corpus__  __.—__ 
 
     If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into the marshal’s custody and deliver a copy of the writ to the clerk of such State court.
 

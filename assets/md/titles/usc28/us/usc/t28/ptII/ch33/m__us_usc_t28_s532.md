@@ -41,7 +41,7 @@
 
 > “SEC. 2001. __IMPROVEMENT OF INTELLIGENCE CAPABILITIES OF THE FEDERAL BUREAU OF INVESTIGATION.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -49,11 +49,11 @@
 
 >         “(2) In the report, the members of the Commission also urged that the Federal Bureau of Investigation fully institutionalize the shift of the Bureau to a preventive counterterrorism posture.
 
->     “(b) __Improvement of Intelligence Capabilities.—__ 
+>     “(b)  __Improvement of Intelligence Capabilities__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall continue efforts to improve the intelligence capabilities of the Federal Bureau of Investigation and to develop and maintain within the Bureau a national intelligence workforce.
 
->     “(c) __National Intelligence Workforce.—__ 
+>     “(c)  __National Intelligence Workforce__  __.—__ 
 
 >         (1) In developing and maintaining a national intelligence workforce under subsection (b), the Director of the Federal Bureau of Investigation shall develop and maintain a specialized and integrated national intelligence workforce consisting of agents, analysts, linguists, and surveillance specialists who are recruited, trained, and rewarded in a manner which ensures the existence within the Federal Bureau of Investigation of an institutional culture with substantial expertise in, and commitment to, the intelligence mission of the Bureau.
 
@@ -77,7 +77,7 @@
 
 >         “(8) The Director shall, to the maximum extent practicable, ensure that the successful discharge of advanced training courses, and of one or more assignments to another element of the intelligence community, is a precondition to advancement to higher level intelligence assignments within the Bureau.
 
->     “(d) __Field Office Matters.—__ 
+>     “(d)  __Field Office Matters__  __.—__ 
 
 >         (1) In improving the intelligence capabilities of the Federal Bureau of Investigation under subsection (b), the Director of the Federal Bureau of Investigation shall ensure that each Field Intelligence Group reports directly to a field office senior manager responsible for intelligence matters.
 
@@ -85,13 +85,13 @@
 
 >         “(3) The Director shall require that each Field Intelligence Group manager ensures the integration of analysts, agents, linguists, and surveillance personnel in the field.
 
->     “(e) __Discharge of Improvements.—__ 
+>     “(e)  __Discharge of Improvements__  __.—__ 
 
 >         (1) The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) through the head of the Directorate of Intelligence of the Federal Bureau of Investigation.
 
 >         “(2) The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) under the joint guidance of the Attorney General and the Director of National Intelligence in a manner consistent with applicable law.
 
->     “(f) __Budget Matters.—__ 
+>     “(f)  __Budget Matters__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall establish a budget structure of the Federal Bureau of Investigation to reflect the four principal missions of the Bureau as follows:
 
@@ -103,7 +103,7 @@
 
 >         “(4) Criminal justice services.
 
->     “(g) __Reports.—__ 
+>     “(g)  __Reports__  __.—__ 
 
 >         (1) Not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], the Director of the Federal Bureau of Investigation shall submit to Congress a report on the progress made as of the date of such report in carrying out the requirements of this section.
 
@@ -115,15 +115,15 @@
 
 > “SEC. 2002. __DIRECTORATE OF INTELLIGENCE OF THE FEDERAL BUREAU OF INVESTIGATION.__ 
 
->     “(a) __Directorate of Intelligence of Federal Bureau of Investigation.—__ 
+>     “(a)  __Directorate of Intelligence of Federal Bureau of Investigation__  __.—__ 
 
 >     The element of the Federal Bureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
 
->     “(b) __Head of Directorate.—__ 
+>     “(b)  __Head of Directorate__  __.—__ 
 
 >     The head of the Directorate of Intelligence shall be the Executive Assistant Director for Intelligence of the Federal Bureau of Investigation.
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     The Directorate of Intelligence shall be responsible for the following:
 
@@ -145,13 +145,13 @@
 
 >         “(9) Any other responsibilities specified by the Director of the Federal Bureau of Investigation or specified by law.
 
->     “(d) __Staff.—__ 
+>     “(d)  __Staff__  __.—__ 
 
 >     The Directorate of Intelligence shall consist of such staff as the Director of the Federal Bureau of Investigation considers appropriate for the activities of the Directorate.
 
 > “SEC. 2003. __FEDERAL BUREAU OF INVESTIGATION INTELLIGENCE CAREER SERVICE.__ 
 
->     “(a) __Establishment of Federal Bureau of Investigation Intelligence Career Service.—__ 
+>     “(a)  __Establishment of Federal Bureau of Investigation Intelligence Career Service__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation may—
 
@@ -167,15 +167,15 @@
 
 >         “(3) establish a performance management system for such individuals with at least one level of performance above a retention standard.
 
->     “(b) __Reporting Requirement.—__ 
+>     “(b)  __Reporting Requirement__  __.—__ 
 
 >     Not less than 60 days before the date of the implementation of authorities authorized under this section, the Director of the Federal Bureau of Investigation shall submit an operating plan describing the Director’s intended use of the authorities under this section to the appropriate committees of Congress.
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     Not later than December 31, 2005, and annually thereafter for 4 years, the Director of the Federal Bureau of Investigation shall submit an annual report of the use of the permanent authorities provided under this section during the preceding fiscal year to the appropriate committees of Congress.
 
->     “(d) __Appropriate Committees of Congress Defined.—__ 
+>     “(d)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress\[’\] means’ \[sic\]—
 
@@ -187,15 +187,15 @@
 
 [Pub. L. 107–273, div. C, title I, § 11023][/us/pl/107/273/s11023], Nov. 2, 2002, [116 Stat. 1830][/us/stat/116/1830], provided that:
 
->     “(a) __Implementation Plan.—__ 
+>     “(a)  __Implementation Plan__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Nov. 2, 2002\], the Director of the Federal Bureau of Investigation shall submit to the appropriate Committees of Congress a plan for implementation of the recommendations of the Commission for Review of FBI Security Programs, dated March 31, 2002, including the costs of such implementation.
 
->     “(b) __Annual Reports.—__ 
+>     “(b)  __Annual Reports__  __.—__ 
 
 >     On the date that is 1 year after the submission of the plan described in subsection (a), and for 2 years thereafter, the Director of the Federal Bureau of Investigation shall submit to the appropriate Committees of Congress a report on the implementation of such plan.
 
->     “(c) __Appropriate Committees of Congress.—__ 
+>     “(c)  __Appropriate Committees of Congress__  __.—__ 
 
 >     For purposes of this section, the term ‘appropriate Committees of Congress’ means—
 
@@ -211,15 +211,15 @@
 
 [Pub. L. 107–56, title II, § 205][/us/pl/107/56/s205], Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation is authorized to expedite the employment of personnel as translators to support counterterrorism investigations and operations without regard to applicable Federal personnel requirements and limitations.
 
->     “(b) __Security Requirements.—__ 
+>     “(b)  __Security Requirements__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall establish such security requirements as are necessary for the personnel employed as translators under subsection (a).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Attorney General shall report to the Committees on the Judiciary of the House of Representatives and the Senate on—
 
@@ -233,15 +233,15 @@
 
 [Pub. L. 102–183, title V, § 501][/us/pl/102/183/s501], Dec. 4, 1991, [105 Stat. 1268][/us/stat/105/1268], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 403j][/us/usc/t50/s403j]) \[now [50 U.S.C. 3510][/us/usc/t50/s3510]\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 402][/us/usc/t50/s402] (note)) \[now [50 U.S.C. 3614][/us/usc/t50/s3614]\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Any program proposed under subsection (a) may be implemented only after the Department of Justice and the Office of Management and Budget review and approve the implementation of such program.
 
->     “(c) __Availability of Funds.—__ 
+>     “(c)  __Availability of Funds__  __.—__ 
 
 >     Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.”
 

@@ -15,7 +15,7 @@
 
 ## § 594. Authority and duties of an independent counsel
 
-    (a) __Authorities.—__ 
+    (a)  __Authorities__  __.—__ 
 
     Notwithstanding any other provision of law, an independent counsel appointed under this chapter shall have, with respect to all matters in such independent counsel’s prosecutorial jurisdiction established under this chapter, full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice, except that the Attorney General shall exercise direction or control as to those matters that specifically require the Attorney General’s personal action under [section 2516 of title 18][/us/usc/t18/s2516]. Such investigative and prosecutorial functions and powers shall include—
 
@@ -41,21 +41,21 @@
 
     (b) __Compensation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An independent counsel appointed under this chapter shall receive compensation at the per diem rate equal to the annual rate of basic pay payable for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315].
 
-        (2) __Travel expenses.—__ 
+        (2)  __Travel expenses__  __.—__ 
 
         Except as provided in paragraph (3), an independent counsel and persons appointed under subsection (c) shall be entitled to the payment of travel expenses as provided by subchapter I of chapter 57 of title 5, United States Code, including travel, per diem, and subsistence expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703].
 
         (3) __Travel to primary office.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extended for successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
 
-            (B) __Relevant factors.—__ 
+            (B)  __Relevant factors__  __.—__ 
 
             In making any certification under this paragraph with respect to travel and subsistence expenses of an independent counsel or person appointed under subsection (c), the independent counsel and the division of the court shall consider, among other relevant factors—
 
@@ -67,41 +67,41 @@
 
                 (iv) the burdens associated with appointing a new independent counsel, or appointing another person under subsection (c), to replace the individual involved who is unable or unwilling to so relocate.
 
-    (c) __Additional Personnel.—__ 
+    (c)  __Additional Personnel__  __.—__ 
 
     For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants). The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under [section 5382 of title 5][/us/usc/t5/s5382], as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
 
     (d) __Assistance of Department of Justice.—__ 
 
-        (1) __In carrying out functions.—__ 
+        (1)  __In carrying out functions__  __.—__ 
 
         An independent counsel may request assistance from the Department of Justice in carrying out the functions of the independent counsel, and the Department of Justice shall provide that assistance, which may include access to any records, files, or other materials relevant to matters within such independent counsel’s prosecutorial jurisdiction, and the use of the resources and personnel necessary to perform such independent counsel’s duties. At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.
 
-        (2) __Payment of and reports on expenditures of independent counsel.—__ 
+        (2)  __Payment of and reports on expenditures of independent counsel__  __.—__ 
 
         The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30 days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
 
-    (e) __Referral of Other Matters to an Independent Counsel.—__ 
+    (e)  __Referral of Other Matters to an Independent Counsel__  __.—__ 
 
     An independent counsel may ask the Attorney General or the division of the court to refer to the independent counsel matters related to the independent counsel’s prosecutorial jurisdiction, and the Attorney General or the division of the court, as the case may be, may refer such matters. If the Attorney General refers a matter to an independent counsel on the Attorney General’s own initiative, the independent counsel may accept such referral if the matter relates to the independent counsel’s prosecutorial jurisdiction. If the Attorney General refers any matter to the independent counsel pursuant to the independent counsel’s request, or if the independent counsel accepts a referral made by the Attorney General on the Attorney General’s own initiative, the independent counsel shall so notify the division of the court.
 
     (f) __Compliance With Policies of the Department of Justice.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An independent counsel shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply with the written or other established policies of the Department of Justice respecting enforcement of the criminal laws. To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.
 
-        (2) __National security.—__ 
+        (2)  __National security__  __.—__ 
 
         An independent counsel shall comply with guidelines and procedures used by the Department in the handling and use of classified material.
 
-    (g) __Dismissal of Matters.—__ 
+    (g)  __Dismissal of Matters__  __.—__ 
 
     The independent counsel shall have full authority to dismiss matters within the independent counsel’s prosecutorial jurisdiction without conducting an investigation or at any subsequent time before prosecution, if to do so would be consistent with the written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
     (h) __Reports by Independent Counsel.—__ 
 
-        (1) __Required reports.—__ 
+        (1)  __Required reports__  __.—__ 
 
         An independent counsel shall—
 
@@ -109,21 +109,21 @@
 
             (B) before the termination of the independent counsel’s office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
-        (2) __Disclosure of information in reports.—__ 
+        (2)  __Disclosure of information in reports__  __.—__ 
 
         The division of the court may release to the Congress, the public, or any appropriate person, such portions of a report made under this subsection as the division of the court considers appropriate. The division of the court shall make such orders as are appropriate to protect the rights of any individual named in such report and to prevent undue interference with any pending prosecution. The division of the court may make any portion of a final report filed under paragraph (1)(B) available to any individual named in such report for the purposes of receiving within a time limit set by the division of the court any comments or factual information that such individual may submit. Such comments and factual information, in whole or in part, may, in the discretion of the division of the court, be included as an appendix to such final report.
 
-        (3) __Publication of reports.—__ 
+        (3)  __Publication of reports__  __.—__ 
 
         At the request of an independent counsel, the Public Printer shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Public Printer shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 
-    (i) __Independence From Department of Justice.—__ 
+    (i)  __Independence From Department of Justice__  __.—__ 
 
     Each independent counsel appointed under this chapter, and the persons appointed by that independent counsel under subsection (c), are separate from and independent of the Department of Justice for purposes of sections 202 through 209 of title 18.
 
     (j) __Standards of Conduct Applicable to Independent Counsel, Persons Serving in the Office of an Independent Counsel, and Their Law Firms.—__ 
 
-        (1) __Restrictions on employment while independent counsel and appointees are serving.—__ 
+        (1)  __Restrictions on employment while independent counsel and appointees are serving__  __.—__ 
 
             (A)
 
@@ -137,17 +137,17 @@
 
             (B) During the period in which any person appointed by an independent counsel under subsection (c) is serving in the office of independent counsel, such person may not represent in any matter any person involved in any investigation or prosecution under this chapter.
 
-        (2) __Post employment restrictions on independent counsel and appointees.—__ 
+        (2)  __Post employment restrictions on independent counsel and appointees__  __.—__ 
 
             (A) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
 
             (B) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 1 year following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter involving any investigation or prosecution under this chapter.
 
-        (3) __One-year ban on representation by members of firms of independent counsel.—__ 
+        (3)  __One-year ban on representation by members of firms of independent counsel__  __.—__ 
 
         Any person who is associated with a firm with which an independent counsel is associated or becomes associated after termination of the service of that independent counsel under this chapter may not, for 1 year following such termination, represent any person in any matter involving any investigation or prosecution under this chapter.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         For purposes of this subsection—
 
@@ -155,35 +155,35 @@
 
             (B) a person is “associated” with a firm if that person is an officer, director, partner, or other member or employee of that firm.
 
-        (5) __Enforcement.—__ 
+        (5)  __Enforcement__  __.—__ 
 
         The Attorney General and the Director of the Office of Government Ethics have authority to enforce compliance with this subsection.
 
     (k) __Custody of Records of an Independent Counsel.—__ 
 
-        (1) __Transfer of records.—__ 
+        (1)  __Transfer of records__  __.—__ 
 
         Upon termination of the office of an independent counsel, that independent counsel shall transfer to the Archivist of the United States all records which have been created or received by that office. Before this transfer, the independent counsel shall clearly identify which of these records are subject to rule 6(e) of the Federal Rules of Criminal Procedure as grand jury materials and which of these records have been classified as national security information. Any records which were compiled by an independent counsel and, upon termination of the independent counsel’s office, were stored with the division of the court or elsewhere before the enactment of the Independent Counsel Reauthorization Act of 1987, shall also be transferred to the Archivist of the United States by the division of the court or the person in possession of such records.
 
-        (2) __Maintenance, use, and disposal of records.—__ 
+        (2)  __Maintenance, use, and disposal of records__  __.—__ 
 
         Records transferred to the Archivist under this chapter shall be maintained, used, and disposed of in accordance with chapters 21, 29, and 33 of title 44.
 
         (3) __Access to records.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to paragraph (4), access to the records transferred to the Archivist under this chapter shall be governed by [section 552 of title 5][/us/usc/t5/s552].
 
-            (B) __Access by department of justice.—__ 
+            (B)  __Access by department of justice__  __.—__ 
 
             The Archivist shall, upon written application by the Attorney General, disclose any such records to the Department of Justice for purposes of an ongoing law enforcement investigation or court proceeding, except that, in the case of grand jury materials, such records shall be so disclosed only by order of the court of jurisdiction under rule 6(e) of the Federal Rules of Criminal Procedure.
 
-            (C) __Exception.—__ 
+            (C)  __Exception__  __.—__ 
 
             Notwithstanding any restriction on access imposed by law, the Archivist and persons employed by the National Archives and Records Administration who are engaged in the performance of normal archival work shall be permitted access to the records transferred to the Archivist under this chapter.
 
-        (4) __Records provided by congress.—__ 
+        (4)  __Records provided by congress__  __.—__ 
 
         Records of an investigation conducted by a committee of the House of Representatives or the Senate which are provided to an independent counsel to assist in an investigation or prosecution conducted by that independent counsel—
 
@@ -197,7 +197,7 @@
 
         (1) __Cost controls.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An independent counsel shall—
 
@@ -207,19 +207,19 @@
 
                 (iii) promptly, upon taking office, assign to a specific employee the duty of certifying that expenditures of the independent counsel are reasonable and made in accordance with law.
 
-            (B) __Liability for invalid certification.—__ 
+            (B)  __Liability for invalid certification__  __.—__ 
 
             An employee making a certification under subparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under [section 3528 of title 31][/us/usc/t31/s3528].
 
-            (C) __Department of justice policies.—__ 
+            (C)  __Department of justice policies__  __.—__ 
 
             An independent counsel shall comply with the established policies of the Department of Justice respecting expenditures of funds, except to the extent that compliance would be inconsistent with the purposes of this chapter.
 
-        (2) __Administrative support.—__ 
+        (2)  __Administrative support__  __.—__ 
 
         The Director of the Administrative Office of the United States Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel’s expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
 
-        (3) __Office space.—__ 
+        (3)  __Office space__  __.—__ 
 
         The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 

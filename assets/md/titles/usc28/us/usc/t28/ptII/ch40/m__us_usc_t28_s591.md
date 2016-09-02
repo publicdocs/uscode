@@ -15,11 +15,11 @@
 
 ## § 591. Applicability of provisions of this chapter
 
-    (a) __Preliminary Investigation With Respect to Certain Covered Persons.—__ 
+    (a)  __Preliminary Investigation With Respect to Certain Covered Persons__  __.—__ 
 
     The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
-    (b) __Persons to Whom Subsection (a) Applies.—__ 
+    (b)  __Persons to Whom Subsection__  __(a)__  __Applies__  __.—__ 
 
     The persons referred to in subsection (a) are—
 
@@ -39,17 +39,17 @@
 
     (c) __Preliminary Investigation With Respect to Other Persons.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         When the Attorney General determines that an investigation or prosecution of a person by the Department of Justice may result in a personal, financial, or political conflict of interest, the Attorney General may conduct a preliminary investigation of such person in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether that person may have violated Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
-        (2) __Members of congress.—__ 
+        (2)  __Members of congress__  __.—__ 
 
         When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
     (d) __Examination of Information to Determine Need for Preliminary Investigation.—__ 
 
-        (1) __Factors to be considered.—__ 
+        (1)  __Factors to be considered__  __.—__ 
 
         In determining under subsection (a) or (c) (or section 592(c)(2)) whether grounds to investigate exist, the Attorney General shall consider only—
 
@@ -57,19 +57,19 @@
 
             (B) the credibility of the source of the information.
 
-        (2) __Time period for making determination.—__ 
+        (2)  __Time period for making determination__  __.—__ 
 
         The Attorney General shall determine whether grounds to investigate exist not later than 30 days after the information is first received. If within that 30-day period the Attorney General determines that the information is not specific or is not from a credible source, then the Attorney General shall close the matter. If within that 30-day period the Attorney General determines that the information is specific and from a credible source, the Attorney General shall, upon making that determination, commence a preliminary investigation with respect to that information. If the Attorney General is unable to determine, within that 30-day period, whether the information is specific and from a credible source, the Attorney General shall, at the end of that 30-day period, commence a preliminary investigation with respect to that information.
 
     (e) __Recusal of Attorney General.—__ 
 
-        (1) __When recusal is required.—__ 
+        (1)  __When recusal is required__  __.—__ 
 
             (A) If information received under this chapter involves the Attorney General, the next most senior official in the Department of Justice who is not also recused shall perform the duties assigned under this chapter to the Attorney General.
 
             (B) If information received under this chapter involves a person with whom the Attorney General has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
 
-        (2) __Requirements for recusal determination.—__ 
+        (2)  __Requirements for recusal determination__  __.—__ 
 
         Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
@@ -123,39 +123,39 @@
 
 [Pub. L. 103–270, § 7][/us/pl/103/270/s7], June 30, 1994, [108 Stat. 737][/us/stat/108/737], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in this section, the amendments made by this Act \[amending this section and sections 592 to 596 and 599 of this title\] shall apply with respect to independent counsels appointed before, on, or after the date of enactment of this Act \[June 30, 1994\].
 
->     “(b) __Assignment of Employee To Certify Expenditures.—__ 
+>     “(b)  __Assignment of Employee To Certify Expenditures__  __.—__ 
 
 >     An independent counsel appointed prior to the date of enactment of this Act shall assign to an employee the duty of certifying expenditures, as required by section 594(l) of title 28, United States Code, as added by section 3(a), by the date that is 30 days after the date of enactment of this Act.
 
->     “(c) __Office Space.—__ 
+>     “(c)  __Office Space__  __.—__ 
 
 >     The Administrator of General Services, in applying section 594(l)(3) of title 28, United States Code, as added by section 3(a), to determine whether the office of an independent counsel appointed prior to the date of enactment of this Act should be moved to a Federal building, shall take into account the moving, legal, and other expenses that might arise if the office were moved.
 
->     “(d) __Travel And Subsistence Expenses.—__ 
+>     “(d)  __Travel And Subsistence Expenses__  __.—__ 
 
 >     For purposes of the restrictions on reimbursement of travel and subsistence expenses of an independent counsel and employees of an office of independent counsel contained in paragraph (3) of [section 594(b) of title 28][/us/usc/t28/s594/b], United States Code, as amended by section 3(b), as applied to the office of an independent counsel appointed before the date of enactment of this Act, the 1-year service period shall begin on the date of enactment of this Act.
 
->     “(e) __Rates of Compensation.—__ 
+>     “(e)  __Rates of Compensation__  __.—__ 
 
 >     The limitation on rates of compensation of employees of an office of independent counsel contained in the last sentence of [section 594(c) of title 28][/us/usc/t28/s594/c], United States Code, as amended by section 3(c), shall not be applied to cause a reduction in the rate of compensation of an employee appointed before the date of enactment of this Act.
 
->     “(f) __Periodic Reappointment.—__ 
+>     “(f)  __Periodic Reappointment__  __.—__ 
 
 >     The determinations by the division of the court contained in the last sentence of [section 596(b)(2) of title 28][/us/usc/t28/s596/b/2], United States Code, as amended by section 3(h), shall, for the office of an independent counsel appointed before the date of enactment of this Act, be required no later than 1 year after the date of enactment of this Act and at the end of each succeeding 1-year period.
 
->     “(g) __Reporting Requirements.—__ 
+>     “(g)  __Reporting Requirements__  __.—__ 
 
 >     No amendment made by this Act that establishes or modifies a requirement that any person submit a report to any other person with respect to an activity occurring during any time period shall be construed to require that a report submitted prior to the date of enactment of this Act, with respect to that time period be supplemented to include information with respect to such activity.
 
->     “(h) __Regulatory Independent Counsel.—__ 
+>     “(h)  __Regulatory Independent Counsel__  __.—__ 
 
 >     Notwithstanding the restriction in [section 593(b)(2) of title 28][/us/usc/t28/s593/b/2], United States Code, the division of the court described in section 49 of that title may appoint as an independent counsel any individual who, on the date of enactment of this Act, is serving as a regulatory independent counsel under parts 600 and 603 of title 28, Code of Federal Regulations. If such an individual is so appointed, such an independent counsel shall comply with chapter 40 of title 28, United States Code, as amended by this Act, in the same manner and to the same extent as an independent counsel appointed before the date of enactment of this Act is required to comply with that chapter, except that subsection (f) of this section shall not apply to such an independent counsel.
 
->     “(i) __White House Personnel Report.—__ 
+>     “(i)  __White House Personnel Report__  __.—__ 
 
 >     Section 6 \[enacting provisions set out as a note under [section 113 of Title 3][/us/usc/t3/s113], The President\] shall take effect on January 1, 1995.”
 
@@ -163,11 +163,11 @@
 
 [Pub. L. 100–191, § 6][/us/pl/100/191/s6], Dec. 15, 1987, [101 Stat. 1307][/us/stat/101/1307], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the amendments made by this Act \[enacting [section 599 of this title][/us/usc/t28/s599], amending this section, sections 49 and 592 to 598 of this title, sections 203 and 205 of [Pub. L. 95–521][/us/pl/95/521] set out in the Appendix to Title 5, Government Organization and Employees, and [section 202 of Title 18][/us/usc/t18/s202], Crimes and Criminal Procedure, enacting provisions set out as a note under [section 1 of this title][/us/usc/t28/s1], and amending provisions set out below\] take effect on the date of the enactment of this Act \[Dec. 15, 1987\].
 
->     “(b) __Pending Proceedings.—__ 
+>     “(b)  __Pending Proceedings__  __.—__ 
 
 >     With respect to any proceeding under chapter 39 of title 28, United States Code (before the redesignation of such chapter as chapter 40 by [section 144(g) of Public Law 99–554][/us/pl/99/554/s144/g]), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
 

@@ -147,15 +147,15 @@
 
 [Pub. L. 109–8, title XII, § 1233(b)][/us/pl/109/8/s1233/b], Apr. 20, 2005, [119 Stat. 203][/us/stat/119/203], provided that:
 
->     “(1) __Temporary application.—__ 
+>     “(1)  __Temporary application__  __.—__ 
 
 >     A provision of this subsection shall apply to appeals under [section 158(d)(2) of title 28][/us/usc/t28/s158/d/2], United States Code, until a rule of practice and procedure relating to such provision and such appeals is promulgated or amended under chapter 131 of such title.
 
->     “(2) __Certification.—__ 
+>     “(2)  __Certification__  __.—__ 
 
 >     A district court, a bankruptcy court, or a bankruptcy appellate panel may make a certification under [section 158(d)(2) of title 28][/us/usc/t28/s158/d/2], United States Code, only with respect to matters pending in the respective bankruptcy court, district court, or bankruptcy appellate panel.
 
->     “(3) __Procedure.—__ 
+>     “(3)  __Procedure__  __.—__ 
 
 >     Subject to any other provision of this subsection, an appeal authorized by the court of appeals under [section 158(d)(2)(A) of title 28][/us/usc/t28/s158/d/2/A], United States Code, shall be taken in the manner prescribed in subdivisions (a)(1), (b), (c), and (d) of rule 5 of the Federal Rules of Appellate Procedure. For purposes of subdivision (a)(1) of rule 5—
 
@@ -163,7 +163,7 @@
 
 >         “(B) a reference in such subdivision to the parties requesting permission to appeal to be served with the petition shall be deemed to include a reference to the parties to the judgment, order, or decree from which the appeal is taken.
 
->     “(4) __Filing of petition with attachment.—__ 
+>     “(4)  __Filing of petition with attachment__  __.—__ 
 
 >     A petition requesting permission to appeal, that is based on a certification made under subparagraph (A) or (B) of section 158(d)(2) shall—
 
@@ -171,7 +171,7 @@
 
 >         “(B) have attached a copy of such certification.
 
->     “(5) __References in rule 5.—__ 
+>     “(5)  __References in rule__  __5.—__ 
 
 >     For purposes of rule 5 of the Federal Rules of Appellate Procedure—
 
@@ -179,7 +179,7 @@
 
 >         “(B) a reference in such rule to a district clerk shall be deemed to include a reference to a clerk of a bankruptcy court and to a clerk of a bankruptcy appellate panel.
 
->     “(6) __Application of rules.—__ 
+>     “(6)  __Application of rules__  __.—__ 
 
 >     The Federal Rules of Appellate Procedure shall apply in the courts of appeals with respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of [section 158 of title 28][/us/usc/t28/s158], United States Code.”
 

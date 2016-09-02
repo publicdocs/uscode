@@ -171,11 +171,11 @@
 
 [Pub. L. 101–194, title VII, § 705(b)][/us/pl/101/194/s705/b], Nov. 30, 1989, [103 Stat. 1771][/us/stat/103/1771], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall first apply with respect to work performed on or after January 1, 1990, by a justice or judge of the United States who has retired under [section 371(b) of title 28][/us/usc/t28/s371/b], United States Code.
 
->     “(2) __Calendar year 1990.—__ 
+>     “(2)  __Calendar year 1990__  __.—__ 
 
 >     In the case of certifications required by [section 371(f) of title 28][/us/usc/t28/s371/f], United States Code, for calendar year 1990—
 

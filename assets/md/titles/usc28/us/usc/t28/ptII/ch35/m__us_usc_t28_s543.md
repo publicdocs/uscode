@@ -19,7 +19,7 @@
 
     (b) Each attorney appointed under this section is subject to removal by the Attorney General.
 
-    (c) __Indian Country.—__ 
+    (c)  __Indian Country__  __.—__ 
 
     In this section, the term “Indian country” has the meaning given that term in [section 1151 of title 18][/us/usc/t18/s1151].
 

@@ -15,11 +15,11 @@
 
 ## § 377. Retirement of bankruptcy judges and magistrate judges
 
-    (a) __Retirement Based on Years of Service.—__ 
+    (a)  __Retirement Based on Years of Service__  __.—__ 
 
     A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s or magistrate judge’s lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
 
-    (b) __Retirement Upon Failure of Reappointment.—__ 
+    (b)  __Retirement Upon Failure of Reappointment__  __.—__ 
 
     A bankruptcy judge or magistrate judge to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate judge, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge’s or magistrate judge’s lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate judge leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
 
@@ -29,19 +29,19 @@
 
         For purposes of this subsection, in the case of a bankruptcy judge, the written notice required by paragraph (2) shall be given to the chief judge of the circuit in which such bankruptcy judge is serving and, in the case of a magistrate judge, such notice shall be given to the chief judge of the district court in which the magistrate judge is serving.
 
-    (c) __Service of at Least 8 Years.—__ 
+    (c)  __Service of at Least__  __8__  __Years__  __.—__ 
 
     A bankruptcy judge or magistrate judge to whom this section applies and who retires after serving at least 8 years, whether continuously or otherwise, as such a bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of the judge’s or magistrate judge’s lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate judge leaves office which the aggregate number of years of service, not to exceed 14, bears to 14. Such annuity shall be reduced by ⅙ of 1 percent for each full month such bankruptcy judge or magistrate judge was under the age of 65 at the time the judge or magistrate judge left office, except that such reduction shall not exceed 20 percent.
 
-    (d) __Retirement for Disability.—__ 
+    (d)  __Retirement for Disability__  __.—__ 
 
     A bankruptcy judge or magistrate judge to whom this section applies, who has served at least 5 years, whether continuously or otherwise, as such a bankruptcy judge or magistrate judge, and who retires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s or magistrate judge’s lifetime, an annuity equal to 40 percent of the salary being received at the time of retirement or removal or, in the case of a judge or magistrate judge who has served for at least 10 years, an amount equal to that proportion of the salary being received at the time of retirement or removal which the aggregate number of years of service, not to exceed 14, bears to 14.
 
-    (e) __Cost-of-Living Adjustments.—__ 
+    (e)  __Cost-of-Living Adjustments__  __.—__ 
 
     A bankruptcy judge or magistrate judge who is entitled to an annuity under this section is also entitled to a cost-of-living adjustment in such annuity, calculated and payable in the same manner as adjustments under [section 8340(b) of title 5][/us/usc/t5/s8340/b], except that any such annuity, as increased under this subsection, may not exceed the salary then payable for the position from which the judge or magistrate judge retired or was removed.
 
-    (f) __Election; Annuity in Lieu of Other Annuities.—__ 
+    (f)  __Election; Annuity in Lieu of Other Annuities__  __.—__ 
 
     A bankruptcy judge or magistrate judge shall be entitled to an annuity under this section if the judge or magistrate judge elects an annuity under this section by notifying the Director of the Administrative Office of the United States Courts. A bankruptcy judge or magistrate judge who elects to receive an annuity under this section shall not be entitled to receive  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “receive—”. </sup></sup> 
 
@@ -53,7 +53,7 @@
 
         (4) retired pay under [section 7296 of title 38][/us/usc/t38/s7296].
 
-    (g) __Calculation of Service.—__ 
+    (g)  __Calculation of Service__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
             (B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
-    (h) __Covered Positions and Service.—__ 
+    (h)  __Covered Positions and Service__  __.—__ 
 
     This section applies to—
 
@@ -87,7 +87,7 @@
 
         only with respect to service on or after October 1, 1979, as such a bankruptcy judge or magistrate judge.
 
-    (i) __Payments Pursuant to Court Order.—__ 
+    (i)  __Payments Pursuant to Court Order__  __.—__ 
 
         (1) Payments under this section which would otherwise be made to a bankruptcy judge or magistrate judge based upon his or her service shall be paid (in whole or in part) by the Director of the Administrative Office of the United States Courts to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.
 
@@ -97,19 +97,19 @@
 
     (j) __Deductions, Contributions, and Deposits.—__ 
 
-        (1) __Deductions.—__ 
+        (1)  __Deductions__  __.—__ 
 
         Beginning with the next pay period after the Director of the Administrative Office of the United States Courts receives a notice under subsection (f) that a bankruptcy judge or magistrate judge has elected an annuity under this section, the Director shall deduct and withhold 1 percent of the salary of such bankruptcy judge or magistrate judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Judicial Officers’ Retirement Fund. Deductions under this subsection from the salary of a bankruptcy judge or magistrate judge shall terminate upon the retirement of the bankruptcy judge or magistrate judge or upon completing 14 years of service for which contributions under this section have been made, whether continuously or otherwise, as calculated under subsection (g), whichever occurs first.
 
-        (2) __Consent to Deductions; Discharge of Claims.—__ 
+        (2)  __Consent to Deductions; Discharge of Claims__  __.—__ 
 
         Each bankruptcy judge or magistrate judge who makes an election under subsection (f) shall be deemed to consent and agree to the deductions from salary which are made under paragraph (1). Payment of such salary less such deductions (and any deductions made under [section 376 of this title][/us/usc/t28/s376]) is a full and complete discharge and acquittance of all claims and demands for all services rendered by such bankruptcy judge or magistrate judge during the period covered by such payment, except the right to those benefits to which the bankruptcy judge or magistrate judge is entitled under this section (and section 376).
 
-    (k) __Deposits for Prior Service.—__ 
+    (k)  __Deposits for Prior Service__  __.—__ 
 
     Each bankruptcy judge or magistrate judge who makes an election under subsection (f) may deposit, for service performed before such election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for that service. Credit for any period covered by that service may not be allowed for purposes of an annuity under this section until a deposit under this subsection has been made for that period.
 
-    (l) __Individual Retirement Records.—__ 
+    (l)  __Individual Retirement Records__  __.—__ 
 
     The amounts deducted and withheld under subsection (j), and the amounts deposited under subsection (k), shall be credited to individual accounts in the name of each bankruptcy judge or magistrate judge from whom such amounts are received, for credit to the Judicial Officers’ Retirement Fund.
 
@@ -117,11 +117,11 @@
 
         (1) __Practicing law after retirement.—__ 
 
-            (A) __Forfeiture of annuity.—__ 
+            (A)  __Forfeiture of annuity__  __.—__ 
 
             Subject to subparagraph (B), any bankruptcy judge or magistrate judge who retires under this section and who thereafter practices law shall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he or she so practices law.
 
-            (B) __Forfeiture not to apply where individual elects to freeze amount of annuity.—__ 
+            (B)  __Forfeiture not to apply where individual elects to freeze amount of annuity__  __.—__ 
 
                 (i)
 
@@ -143,17 +143,17 @@
 
                 (iii) Any election under this subparagraph shall take effect on the first day of the first month following the month in which the election is made.
 
-        (2) __Recall not permitted.—__ 
+        (2)  __Recall not permitted__  __.—__ 
 
         Any bankruptcy judge or magistrate judge who retires under this section and who thereafter practices law shall not be eligible for recall under section 155(b), 375, or 636(h) of this title.
 
-        (3) __Accepting other employment.—__ 
+        (3)  __Accepting other employment__  __.—__ 
 
         Any bankruptcy judge or magistrate judge who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate judge under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term “compensation” includes retired pay or salary received in retired status.
 
     (n) __Lump-Sum Payments.—__ 
 
-        (1) __Eligibility.—__ 
+        (1)  __Eligibility__  __.—__ 
 
             (A)
 
@@ -181,7 +181,7 @@
 
             (G) Subject to paragraph (2), a bankruptcy judge or magistrate judge who forfeits rights to an annuity under subsection (m)(3) before the total annuity paid equals the lump-sum credit, shall be entitled to be paid the difference if the bankruptcy judge or magistrate judge files an application with the Administrative Office of the United States Courts for payment of that difference. A payment under this subparagraph voids all rights to an annuity on which the payment is based.
 
-        (2) __Spouses and former spouses.—__ 
+        (2)  __Spouses and former spouses__  __.—__ 
 
             (A)
 
@@ -201,7 +201,7 @@
 
             (C) The Director shall prescribe regulations under which this paragraph shall be applied in any case in which the Director receives two or more orders or decrees described in subparagraph (A).
 
-        (3) __Definition.—__ 
+        (3)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “lump-sum credit” means the unrefunded amount consisting of—
 
@@ -219,15 +219,15 @@
 
     (o) __Judicial Officers’ Retirement Fund.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established in the Treasury a fund which shall be known as the “Judicial Officers’ Retirement Fund”. The Fund is appropriated for the payment of annuities, refunds, and other payments under this section.
 
-        (2) __Investment of fund.—__ 
+        (2)  __Investment of fund__  __.—__ 
 
         The Secretary of the Treasury shall invest, in interest bearing securities of the United States, such currently available portions of the Judicial Officers’ Retirement Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
-        (3) __Unfunded liability.—__ 
+        (3)  __Unfunded liability__  __.—__ 
 
             (A) There are authorized to be appropriated to the Judicial Officers’ Retirement Fund amounts required to reduce to zero the unfunded liability of the Fund.
 
@@ -269,11 +269,11 @@
 
 [Pub. L. 100–659, § 9][/us/pl/100/659/s9], Nov. 15, 1988, [102 Stat. 3921][/us/stat/102/3921], as amended by [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), this Act \[enacting this section and section 8440a \[now 8440b\] of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under this section and sections 1 and 376 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Nov. 15, 1988\] and shall apply to bankruptcy judges and magistrate judges who retire on or after the date of the enactment of this Act.
 
->     “(b) __Exception for Judges and Magistrate Judges Retiring on or after__  __July 31, 1987__  __.—__ 
+>     “(b)  __Exception for Judges and Magistrate Judges Retiring on or after July__  __31, 1987.—__ 
 
 >     A bankruptcy judge or magistrate judge who left office on or after July 31, 1987, and before the date of the enactment of this Act \[Nov. 15, 1988\] may elect to receive an annuity, or to participate in the Judicial Survivors’ Annuity System, under the amendments made by this Act if such bankruptcy judge or magistrate judge, within 60 days after so leaving office, accepted office or employment with the United States Government or a State government or was eligible at the time he or she left office for an immediate annuity under title 5, United States Code. Any election under this subsection shall not be valid unless it is made within 6 months after the date of the enactment of this Act and under the same conditions as other persons who may make elections under the amendments made by this Act, except that any such person who makes an election under this subsection shall not receive a lump-sum credit under section 8342 or 8424 of title 5, United States Code, for prior service and shall not be required to make contributions for prior years of creditable service.”
 
@@ -311,7 +311,7 @@
 
 [Pub. L. 100–659, § 2(c)][/us/pl/100/659/s2/c], Nov. 15, 1988, [102 Stat. 3916][/us/stat/102/3916], as amended by [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], provided that:
 
->     “(1) __Retirement annuity under title 5 and__  __[__  __section 377 of title 28__  __][/us/usc/t28/s377]__  __.—__ 
+>     “(1)  __Retirement annuity under title 5 and __  __[__  __section 377 of title 28__  __][/us/usc/t28/s377]__  __.—__ 
 
 >     A bankruptcy judge or United States magistrate judge in active service on the effective date of this Act \[see Effective Date note above\] shall, subject to paragraph (2), be entitled, in lieu of the annuity otherwise provided under the amendments made by this section \[enacting this section\] to—
 
@@ -325,15 +325,15 @@
 
 >             “(ii) the aggregate amount of the annuity initially payable on retirement under this subsection may not exceed the rate of pay for the bankruptcy judge or magistrate judge which is in effect on the day before the retirement becomes effective.
 
->     “(2) __Filing of notice of election.—__ 
+>     “(2)  __Filing of notice of election__  __.—__ 
 
 >     A bankruptcy judge or magistrate judge shall be entitled to an annuity under this subsection only if the judge or magistrate judge files a notice of that election with the Director of the Administrative Office of the United States Courts specifying the date on which service would begin to be credited under [section 377 of title 28][/us/usc/t28/s377], United States Code, in lieu of chapter 83 or chapter 84 of title 5, United States Code.
 
->     “(3) __Lump-sum credit under title 5.—__ 
+>     “(3)  __Lump-sum credit under title 5__  __.—__ 
 
 >     A bankruptcy judge or magistrate judge who makes an election under paragraph (2) shall be entitled to a lump-sum credit under section 8342 or 8424 of title 5, United States Code, as the case may be, for any service which is covered under [section 377 of title 28][/us/usc/t28/s377], United States Code, as added by this section, pursuant to that election, and with respect to which any contributions were made by the judge or magistrate judge under the applicable provisions of title 5, United States Code.
 
->     “(4) __Recall.—__ 
+>     “(4)  __Recall__  __.—__ 
 
 >     With respect to any bankruptcy judge or magistrate judge receiving an annuity under this subsection who is recalled to serve under [section 375 of title 28][/us/usc/t28/s375], United States Code—
 

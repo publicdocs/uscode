@@ -15,11 +15,11 @@
 
 ## § 359. Restrictions
 
-    (a) __Restriction on Individuals Who Are Subject of Investigation.—__ 
+    (a)  __Restriction on Individuals Who Are Subject of Investigation__  __.—__ 
 
     No judge whose conduct is the subject of an investigation under this chapter shall serve upon a special committee appointed under section 353, upon a judicial council, upon the Judicial Conference, or upon the standing committee established under section 331, until all proceedings under this chapter relating to such investigation have been finally terminated.
 
-    (b) __Amicus Curiae.—__ 
+    (b)  __Amicus Curiae__  __.—__ 
 
     No person shall be granted the right to intervene or to appear as amicus curiae in any proceeding before a judicial council or the Judicial Conference under this chapter.
 

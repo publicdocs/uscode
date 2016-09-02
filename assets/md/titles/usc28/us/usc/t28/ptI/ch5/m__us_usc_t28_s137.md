@@ -37,7 +37,7 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established a program, in each of the United States district courts designated under subsection (b), under which—
 
@@ -49,23 +49,23 @@
 
 >             “(D) a case declined under subparagraph (C) is randomly reassigned to 1 of those judges of the court designated under subparagraph (A).
 
->         “(2) __Senior judges.—__ 
+>         “(2)  __Senior judges__  __.—__ 
 
 >         Senior judges of a district court may be designated under paragraph (1)(A) if at least 1 judge of the court in regular active service is also so designated.
 
->         “(3) __Right to transfer cases preserved.—__ 
+>         “(3)  __Right to transfer cases preserved__  __.—__ 
 
 >         This section shall not be construed to limit the ability of a judge to request the reassignment of or otherwise transfer a case to which the judge is assigned under this section, in accordance with otherwise applicable rules of the court.
 
 >     “(b) __Designation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 6 months after the date of the enactment of this Act \[Jan. 4, 2011\], the Director of the Administrative Office of the United States Courts shall designate not less than 6 United States district courts, in at least 3 different judicial circuits, in which the program established under subsection (a) will be carried out.
 
 >         “(2) __Criteria for designations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Director shall make designations under paragraph (1) from—
 
@@ -73,7 +73,7 @@
 
 >                 “(ii) the district courts that have adopted, or certified to the Director the intention to adopt, local rules for patent and plant variety protection cases.
 
->             “(B) __Selection of courts.—__ 
+>             “(B)  __Selection of courts__  __.—__ 
 
 >             From amongst the district courts that satisfy the criteria for designation under this subsection, the Director shall select—
 
@@ -81,17 +81,17 @@
 
 >                 “(ii) 3 district courts that each have fewer than 10 district judges authorized to be appointed by the President, whether under [section 133(a) of title 28][/us/usc/t28/s133/a], United States Code, or on a temporary basis under any other provision of law, and at least 2 judges of the court have made the request under subsection (a)(1)(A).
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     The program established under subsection (a) shall terminate 10 years after the end of the 6-month period described in subsection (b).
 
->     “(d) __Applicability.—__ 
+>     “(d)  __Applicability__  __.—__ 
 
 >     The program established under subsection (a) shall apply in a district court designated under subsection (b) only to cases commenced on or after the date of such designation.
 
 >     “(e) __Reports to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         At the times specified in paragraph (2), the Director of the Administrative Office of the United States Courts, in consultation with the chief judge of each of the district courts designated under subsection (b) and the Director of the Federal Judicial Center, shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the pilot program established under subsection (a). The report shall include—
 
@@ -111,7 +111,7 @@
 
 >             “(E) an analysis of whether the pilot program should be extended to other district courts, or should be made permanent and apply to all district courts.
 
->         “(2) __Timetable for reports.—__ 
+>         “(2)  __Timetable for reports__  __.—__ 
 
 >         The times referred to in paragraph (1) are—
 
@@ -119,7 +119,7 @@
 
 >             “(B) not later than 5 years after the date described in subparagraph (A).
 
->         “(3) __Periodic reports.—__ 
+>         “(3)  __Periodic reports__  __.—__ 
 
 >         The Director of the Administrative Office of the United States Courts, in consultation with the chief judge of each of the district courts designated under subsection (b) and the Director of the Federal Judicial Center, shall keep the committees referred to in paragraph (1) informed, on a periodic basis while the pilot program is in effect, with respect to the matters referred to in subparagraphs (A) through (E) of paragraph (1).”
 

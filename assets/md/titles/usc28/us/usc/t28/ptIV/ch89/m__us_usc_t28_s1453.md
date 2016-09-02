@@ -15,25 +15,25 @@
 
 ## § 1453. Removal of class actions
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the terms “class”, “class action”, “class certification order”, and “class member” shall have the meanings given such terms under section 1332(d)(1).
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     A class action may be removed to a district court of the United States in accordance with section 1446 (except that the 1-year limitation under section 1446(c)(1) shall not apply), without regard to whether any defendant is a citizen of the State in which the action is brought, except that such action may be removed by any defendant without the consent of all defendants.
 
     (c) __Review of Remand Orders.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Section 1447 shall apply to any removal of a case under this section, except that notwithstanding section 1447(d), a court of appeals may accept an appeal from an order of a district court granting or denying a motion to remand a class action to the State court from which it was removed if application is made to the court of appeals not more than 10 days after entry of the order.
 
-        (2) __Time period for judgment.—__ 
+        (2)  __Time period for judgment__  __.—__ 
 
         If the court of appeals accepts an appeal under paragraph (1), the court shall complete all action on such appeal, including rendering judgment, not later than 60 days after the date on which such appeal was filed, unless an extension is granted under paragraph (3).
 
-        (3) __Extension of time period.—__ 
+        (3)  __Extension of time period__  __.—__ 
 
         The court of appeals may grant an extension of the 60-day period described in paragraph (2) if—
 
@@ -41,11 +41,11 @@
 
             (B) such extension is for good cause shown and in the interests of justice, for a period not to exceed 10 days.
 
-        (4) __Denial of appeal.—__ 
+        (4)  __Denial of appeal__  __.—__ 
 
         If a final judgment on the appeal under paragraph (1) is not issued before the end of the period described in paragraph (2), including any extension under paragraph (3), the appeal shall be denied.
 
-    (d) __Exception.—__ 
+    (d)  __Exception__  __.—__ 
 
     This section shall not apply to any class action that solely involves—
 

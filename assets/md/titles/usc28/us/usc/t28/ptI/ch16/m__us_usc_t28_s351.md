@@ -15,19 +15,19 @@
 
 ## § 351. Complaints; judge defined
 
-    (a) __Filing of Complaint by Any Person.—__ 
+    (a)  __Filing of Complaint by Any Person__  __.—__ 
 
     Any person alleging that a judge has engaged in conduct prejudicial to the effective and expeditious administration of the business of the courts, or alleging that such judge is unable to discharge all the duties of office by reason of mental or physical disability, may file with the clerk of the court of appeals for the circuit a written complaint containing a brief statement of the facts constituting such conduct.
 
-    (b) __Identifying Complaint by Chief Judge.—__ 
+    (b)  __Identifying Complaint by Chief Judge__  __.—__ 
 
     In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this chapter and thereby dispense with filing of a written complaint.
 
-    (c) __Transmittal of Complaint.—__ 
+    (c)  __Transmittal of Complaint__  __.—__ 
 
     Upon receipt of a complaint filed under subsection (a), the clerk shall promptly transmit the complaint to the chief judge of the circuit, or, if the conduct complained of is that of the chief judge, to that circuit judge in regular active service next senior in date of commission (hereafter, for purposes of this chapter only, included in the term “chief judge”). The clerk shall simultaneously transmit a copy of the complaint to the judge whose conduct is the subject of the complaint. The clerk shall also transmit a copy of any complaint identified under subsection (b) to the judge whose conduct is the subject of the complaint.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this chapter—
 

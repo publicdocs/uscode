@@ -15,7 +15,7 @@
 
 ## § 353. Special committees
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     If the chief judge does not enter an order under section 352(b), the chief judge shall promptly—
 
@@ -25,11 +25,11 @@
 
         (3) provide written notice to the complainant and the judge whose conduct is the subject of the complaint of the action taken under this subsection.
 
-    (b) __Change in Status or Death of Judges.—__ 
+    (b)  __Change in Status or Death of Judges__  __.—__ 
 
     A judge appointed to a special committee under subsection (a) may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of section 45. If a judge appointed to a committee under subsection (a) dies, or retires from office under section 371(a), while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.
 
-    (c) __Investigation by Special Committee.—__ 
+    (c)  __Investigation by Special Committee__  __.—__ 
 
     Each committee appointed under subsection (a) shall conduct an investigation as extensive as it considers necessary, and shall expeditiously file a comprehensive written report thereon with the judicial council of the circuit. Such report shall present both the findings of the investigation and the committee’s recommendations for necessary and appropriate action by the judicial council of the circuit.
 

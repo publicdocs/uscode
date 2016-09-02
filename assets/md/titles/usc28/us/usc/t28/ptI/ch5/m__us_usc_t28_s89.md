@@ -73,13 +73,13 @@ Southern District
 
 [Pub. L. 100–702, title X, § 1021(b)][/us/pl/100/702/s1021/b], (c), Nov. 19, 1988, [102 Stat. 4672][/us/stat/102/4672], provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >         (1) The amendments made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].
 
 >         “(2) The amendments made by subsection (a) \[amending this section\] shall apply to any action commenced in the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title \[probably should be effective date of this section\], and shall not affect any action pending in either such court on such effective date.
 
->     “(c) __Juries.—__ 
+>     “(c)  __Juries__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on the effective date of this title \[probably should be effective date of this section\].”
 

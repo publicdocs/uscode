@@ -15,7 +15,7 @@
 
 ## § 655. Arbitrators
 
-    (a) __Powers of Arbitrators.—__ 
+    (a)  __Powers of Arbitrators__  __.—__ 
 
     An arbitrator to whom an action is referred under section 654 shall have the power, within the judicial district of the district court which referred the action to arbitration—
 
@@ -25,7 +25,7 @@
 
         (3) to make awards.
 
-    (b) __Standards for Certification.—__ 
+    (b)  __Standards for Certification__  __.—__ 
 
     Each district court that authorizes arbitration shall establish standards for the certification of arbitrators and shall certify arbitrators to perform services in accordance with such standards and this chapter. The standards shall include provisions requiring that any arbitrator—
 
@@ -33,7 +33,7 @@
 
         (2) shall be subject to the disqualification rules under section 455.
 
-    (c) __Immunity.—__ 
+    (c)  __Immunity__  __.—__ 
 
     All individuals serving as arbitrators in an alternative dispute resolution program under this chapter are performing quasi-judicial functions and are entitled to the immunities and protections that the law accords to persons serving in such capacity.
 

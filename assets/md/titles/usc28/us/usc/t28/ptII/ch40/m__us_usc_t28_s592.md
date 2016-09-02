@@ -17,11 +17,11 @@
 
     (a) __Conduct of Preliminary Investigation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
 
-        (2) __Limited authority of attorney general.—__ 
+        (2)  __Limited authority of attorney general__  __.—__ 
 
             (A) In conducting preliminary investigations under this chapter, the Attorney General shall have no authority to convene grand juries, plea bargain, grant immunity, or issue subpoenas.
 
@@ -31,23 +31,23 @@
 
                 (ii) The Attorney General shall not base a determination under this chapter that there are no reasonable grounds to believe that further investigation is warranted, upon a determination that such person lacked the state of mind required for the violation of criminal law involved, unless there is clear and convincing evidence that the person lacked such state of mind.
 
-        (3) __Extension of time for preliminary investigation.—__ 
+        (3)  __Extension of time for preliminary investigation__  __.—__ 
 
         The Attorney General may apply to the division of the court for a single extension, for a period of not more than 60 days, of the 90-day period referred to in paragraph (1). The division of the court may, upon a showing of good cause, grant such extension.
 
     (b) __Determination That Further Investigation Not Warranted.—__ 
 
-        (1) __Notification of division of the court.—__ 
+        (1)  __Notification of division of the court__  __.—__ 
 
         If the Attorney General, upon completion of a preliminary investigation under this chapter, determines that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court, and the division of the court shall have no power to appoint an independent counsel with respect to the matters involved.
 
-        (2) __Form of notification.—__ 
+        (2)  __Form of notification__  __.—__ 
 
         Such notification shall contain a summary of the information received and a summary of the results of the preliminary investigation.
 
     (c) __Determination That Further Investigation is Warranted.—__ 
 
-        (1) __Application for appointment of independent counsel.—__ 
+        (1)  __Application for appointment of independent counsel__  __.—__ 
 
         The Attorney General shall apply to the division of the court for the appointment of an independent counsel if—
 
@@ -57,7 +57,7 @@
 
             In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shall comply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
 
-        (2) __Receipt of additional information.—__ 
+        (2)  __Receipt of additional information__  __.—__ 
 
         If, after submitting a notification under subsection (b)(1), the Attorney General receives additional information sufficient to constitute grounds to investigate the matters to which such notification related, the Attorney General shall—
 
@@ -65,33 +65,33 @@
 
             (B) otherwise comply with the provisions of this section with respect to such additional preliminary investigation to the same extent as any other preliminary investigation under this section.
 
-    (d) __Contents of Application.—__ 
+    (d)  __Contents of Application__  __.—__ 
 
     Any application for the appointment of an independent counsel under this chapter shall contain sufficient information to assist the division of the court in selecting an independent counsel and in defining that independent counsel’s prosecutorial jurisdiction so that the independent counsel has adequate authority to fully investigate and prosecute the subject matter and all matters related to that subject matter.
 
-    (e) __Disclosure of Information.—__ 
+    (e)  __Disclosure of Information__  __.—__ 
 
     Except as otherwise provided in this chapter or as is deemed necessary for law enforcement purposes, no officer or employee of the Department of Justice or an office of independent counsel may, without leave of the division of the court, disclose to any individual outside the Department of Justice or such office any notification, application, or any other document, materials, or memorandum supplied to the division of the court under this chapter. Nothing in this chapter shall be construed as authorizing the withholding of information from the Congress.
 
-    (f) __Limitation on Judicial Review.—__ 
+    (f)  __Limitation on Judicial Review__  __.—__ 
 
     The Attorney General’s determination under this chapter to apply to the division of the court for the appointment of an independent counsel shall not be reviewable in any court.
 
     (g) __Congressional Request.—__ 
 
-        (1) __By judiciary committee or members thereof.—__ 
+        (1)  __By judiciary committee or members thereof__  __.—__ 
 
         The Committee on the Judiciary of either House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that the Attorney General apply for the appointment of an independent counsel.
 
-        (2) __Report by attorney general pursuant to request.—__ 
+        (2)  __Report by attorney general pursuant to request__  __.—__ 
 
         Not later than 30 days after the receipt of a request under paragraph (1), the Attorney General shall submit, to the committee making the request, or to the committee on which the persons making the request serve, a report on whether the Attorney General has begun or will begin a preliminary investigation under this chapter of the matters with respect to which the request is made, in accordance with subsection (a) or (c) of section 591, as the case may be. The report shall set forth the reasons for the Attorney General’s decision regarding such preliminary investigation as it relates to each of the matters with respect to which the congressional request is made. If there is such a preliminary investigation, the report shall include the date on which the preliminary investigation began or will begin.
 
-        (3) __Submission of information in response to congressional request.—__ 
+        (3)  __Submission of information in response to congressional request__  __.—__ 
 
         At the same time as any notification, application, or any other document, material, or memorandum is supplied to the division of the court pursuant to this section with respect to a preliminary investigation of any matter with respect to which a request is made under paragraph (1), such notification, application, or other document, material, or memorandum shall be supplied to the committee making the request, or to the committee on which the persons making the request serve. If no application for the appointment of an independent counsel is made to the division of the court under this section pursuant to such a preliminary investigation, the Attorney General shall submit a report to that committee stating the reasons why such application was not made, addressing each matter with respect to which the congressional request was made.
 
-        (4) __Disclosure of information.—__ 
+        (4)  __Disclosure of information__  __.—__ 
 
         Any report, notification, application, or other document, material, or memorandum supplied to a committee under this subsection shall not be revealed to any third party, except that the committee may, either on its own initiative or upon the request of the Attorney General, make public such portion or portions of such report, notification, application, document, material, or memorandum as will not in the committee’s judgment prejudice the rights of any individual.
 

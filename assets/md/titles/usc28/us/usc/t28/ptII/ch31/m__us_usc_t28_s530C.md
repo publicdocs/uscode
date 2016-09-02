@@ -15,7 +15,7 @@
 
 ## § 530C. Authority to use available funds
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except to the extent provided otherwise by law, the activities of the Department of Justice (including any bureau, office, board, division, commission, subdivision, unit, or other component thereof) may, in the reasonable discretion of the Attorney General, be carried out through any means, including—
 
@@ -31,7 +31,7 @@
 
     (b) __Permitted Uses.—__ 
 
-        (1) __General permitted uses.—__ 
+        (1)  __General permitted uses__  __.—__ 
 
         Funds available to the Attorney General (i.e., all funds available to carry out the activities described in subsection (a)) may be used, without limitation, for the following:
 
@@ -105,11 +105,11 @@
 
         (2) __Specific permitted uses.—__ 
 
-            (A) __Aircraft and boats.—__ 
+            (A)  __Aircraft and boats__  __.—__ 
 
             Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
 
-            (B) __Purchase of ammunition and firearms; firearms competitions.—__ 
+            (B)  __Purchase of ammunition and firearms; firearms competitions__  __.—__ 
 
             Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
 
@@ -117,11 +117,11 @@
 
                 (ii) participation in firearms competitions.
 
-            (C) __Construction.—__ 
+            (C)  __Construction__  __.—__ 
 
             Funds available to the Attorney General for construction may be used for expenses of planning, designing, acquiring, building, constructing, activating, renovating, converting, expanding, extending, remodeling, equipping, repairing, or maintaining buildings or facilities, including the expenses of acquisition of sites therefor, and all necessary expenses incident or related thereto; but the foregoing shall not be construed to mean that funds generally available for salaries and expenses are not also available for certain incidental or minor construction, activation, remodeling, maintenance, and other related construction costs.
 
-        (3) __Fees and expenses of witnesses.—__ 
+        (3)  __Fees and expenses of witnesses__  __.—__ 
 
         Funds available to the Attorney General for fees and expenses of witnesses may be used for—
 
@@ -131,11 +131,11 @@
 
             (C) construction of protected witness safesites.
 
-        (4) __Federal bureau of investigation.—__ 
+        (4)  __Federal bureau of investigation__  __.—__ 
 
         Funds available to the Attorney General for the Federal Bureau of Investigation for the detection, investigation, and prosecution of crimes against the United States may be used for the conduct of all its authorized activities.
 
-        (5) __Immigration and naturalization service.—__ 
+        (5)  __Immigration and naturalization service__  __.—__ 
 
         Funds available to the Attorney General for the Immigration and Naturalization Service may be used for—
 
@@ -147,7 +147,7 @@
 
             (D) expenses and allowances incurred in tracking lost persons, as required by public exigencies, in aid of State or local law enforcement agencies.
 
-        (6) __Federal prison system.—__ 
+        (6)  __Federal prison system__  __.—__ 
 
         Funds available to the Attorney General for the Federal Prison System may be used for—
 
@@ -161,29 +161,29 @@
 
             except that no funds may be used to distribute or make available to a prisoner any commercially published information or material that is sexually explicit or features nudity.
 
-        (7) __Detention trustee.—__ 
+        (7)  __Detention trustee__  __.—__ 
 
         Funds available to the Attorney General for the Detention Trustee may be used for all the activities of such Trustee in the exercise of all power and functions authorized by law relating to the detention of Federal prisoners in non-Federal institutions or otherwise in the custody of the United States Marshals Service and to the detention of aliens in the custody of the Immigration and Naturalization Service, including the overseeing of construction of detention facilities or for housing related to such detention, the management of funds appropriated to the Department for the exercise of detention functions, and the direction of the United States Marshals Service and Immigration Service with respect to the exercise of detention policy setting and operations for the Department of Justice.
 
     (c) __Related Provisions.—__ 
 
-        (1) __Limitation of compensation of individuals employed as attorneys.—__ 
+        (1)  __Limitation of compensation of individuals employed as attorneys__  __.—__ 
 
         No funds available to the Attorney General may be used to pay compensation for services provided by an individual employed as an attorney (other than an individual employed to provide services as a foreign attorney in special cases) unless such individual is duly licensed and authorized to practice as an attorney under the law of a State, a territory of the United States, or the District of Columbia.
 
-        (2) __Reimbursements paid to governmental entities.—__ 
+        (2)  __Reimbursements paid to governmental entities__  __.—__ 
 
         Funds available to the Attorney General that are paid as reimbursement to a governmental unit of the Department of Justice, to another Federal entity, or to a unit of State or local government, may be used under authorities available to the unit or entity receiving such reimbursement.
 
-    (d) __Foreign Reimbursements.—__ 
+    (d)  __Foreign Reimbursements__  __.—__ 
 
     Whenever the Department of Justice or any component participates in a cooperative project to improve law enforcement or national security operations or services with a friendly foreign country on a cost-sharing basis, any reimbursements or contributions received from that foreign country to meet its share of the project may be credited to appropriate current appropriations accounts of the Department of Justice or any component. The amount of a reimbursement or contribution credited shall be available only for payment of the share of the project expenses allocated to the participating foreign country.
 
-    (e) __Railroad Police Training Fees.—__ 
+    (e)  __Railroad Police Training Fees__  __.—__ 
 
     The Attorney General is authorized to establish and collect a fee to defray the costs of railroad police officers participating in a Federal Bureau of Investigation law enforcement training program authorized by [Public Law 106–110][/us/pl/106/110], and to credit such fees to the appropriation account “Federal Bureau of Investigation, Salaries and Expenses”, to be available until expended for salaries and expenses incurred in providing such services.
 
-    (f) __Warranty Work.—__ 
+    (f)  __Warranty Work__  __.—__ 
 
     In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
@@ -197,10 +197,6 @@
 
     [Public Law 106–110][/us/pl/106/110], referred to in subsec. (e), is [Pub. L. 106–110][/us/pl/106/110], Nov. 24, 1999, [113 Stat. 1497][/us/stat/113/1497], which amended [section 3771 of Title 42][/us/usc/t42/s3771], The Public Health and Welfare.
 
- __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
-
-    For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.
-
  __Amendments__ 
 
     2013—Subsec. (b)(1)(L)(i). [Pub. L. 112–265, § 2(a)(1)][/us/pl/112/265/s2/a/1], substituted “$3,000,000” for “$2,000,000” in introductory provisions.
@@ -209,15 +205,19 @@
 
     2004—Subsec. (b)(2)(A), (B). [Pub. L. 108–199][/us/pl/108/199] inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
 
+ __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
+
+    For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.
+
  __Use of Federal Training Facilities__ 
 
  [Pub. L. 109–162, title XI, § 1173][/us/pl/109/162/s1173], Jan. 5, 2006, [119 Stat. 3124][/us/stat/119/3124], as amended by [Pub. L. 109–271, § 8(d)][/us/pl/109/271/s8/d], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766], provided that:
 
->     “(a) __Federal Training Facilities.—__ 
+>     “(a)  __Federal Training Facilities__  __.—__ 
 
 >     Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility or for meals, lodging, or other expenses related to such internal training or conference meeting.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
 
@@ -259,10 +259,10 @@
 [/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
 [/us/stat/113/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1497
 [/us/usc/t42/s3771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3771
-[/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/112/265/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs2%2Fa%2F1
 [/us/pl/112/265/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs2%2Fa%2F2
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/109/162/s1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1173
 [/us/stat/119/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3124
 [/us/pl/109/271/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fd

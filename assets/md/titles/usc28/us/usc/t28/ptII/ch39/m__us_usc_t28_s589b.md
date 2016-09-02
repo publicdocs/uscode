@@ -15,7 +15,7 @@
 
 ## § 589b. Bankruptcy data
 
-    (a) __Rules.—__ 
+    (a)  __Rules__  __.—__ 
 
     The Attorney General shall, within a reasonable time after the effective date of this section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
 
@@ -23,11 +23,11 @@
 
         (2) periodic reports by debtors in possession or trustees in cases under chapter 11 of title 11.
 
-    (b) __Reports.—__ 
+    (b)  __Reports__  __.—__ 
 
     Each report referred to in subsection (a) shall be designed (and the requirements as to place and manner of filing shall be established) so as to facilitate compilation of data and maximum possible access of the public, both by physical inspection at one or more central filing locations, and by electronic access through the Internet or other appropriate media.
 
-    (c) __Required Information.—__ 
+    (c)  __Required Information__  __.—__ 
 
     The information required to be filed in the reports referred to in subsection (b) shall be that which is in the best interests of debtors and creditors, and in the public interest in reasonable and adequate information to evaluate the efficiency and practicality of the Federal bankruptcy system. In issuing rules proposing the forms referred to in subsection (a), the Attorney General shall strike the best achievable practical balance between—
 
@@ -37,7 +37,7 @@
 
         (3) appropriate privacy concerns and safeguards.
 
-    (d) __Final Reports.—__ 
+    (d)  __Final Reports__  __.—__ 
 
     The uniform forms for final reports required under subsection (a) for use by trustees under chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
 
@@ -59,7 +59,7 @@
 
         in each case by appropriate category and, in cases under chapters 12 and 13 of title 11, date of confirmation of the plan, each modification thereto, and defaults by the debtor in performance under the plan.
 
-    (e) __Periodic Reports.—__ 
+    (e)  __Periodic Reports__  __.—__ 
 
     The uniform forms for periodic reports required under subsection (a) for use by trustees or debtors in possession under chapter 11 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include—
 

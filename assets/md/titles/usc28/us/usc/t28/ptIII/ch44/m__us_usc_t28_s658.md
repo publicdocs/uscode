@@ -15,11 +15,11 @@
 
 ## § 658. Compensation of arbitrators and neutrals
 
-    (a) __Compensation.—__ 
+    (a)  __Compensation__  __.—__ 
 
     The district court shall, subject to regulations approved by the Judicial Conference of the United States, establish the amount of compensation, if any, that each arbitrator or neutral shall receive for services rendered in each case under this chapter.
 
-    (b) __Transportation Allowances.—__ 
+    (b)  __Transportation Allowances__  __.—__ 
 
     Under regulations prescribed by the Director of the Administrative Office of the United States Courts, a district court may reimburse arbitrators and other neutrals for actual transportation expenses necessarily incurred in the performance of duties under this chapter.
 

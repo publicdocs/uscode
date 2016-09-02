@@ -15,7 +15,7 @@
 
 ## § 1296. Review of certain agency actions
 
-    (a) __Jurisdiction.—__ 
+    (a)  __Jurisdiction__  __.—__ 
 
     Subject to the provisions of chapter 179, the United States Court of Appeals for the Federal Circuit shall have jurisdiction over a petition for review of a final decision under chapter 5 of title 3 of—
 
@@ -25,7 +25,7 @@
 
         (3) the Secretary of Labor or the Occupational Safety and Health Review Commission, made under part C of subchapter II of chapter 5 of title 3.
 
-    (b) __Filing of Petition.—__ 
+    (b)  __Filing of Petition__  __.—__ 
 
     Any petition for review under this section must be filed within 30 days after the date the petitioner receives notice of the final decision.
 

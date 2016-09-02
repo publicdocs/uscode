@@ -193,11 +193,11 @@
 
 [Pub. L. 103–121, title I, § 111(d)][/us/pl/103/121/s111/d], Oct. 27, 1993, [107 Stat. 1165][/us/stat/107/1165], provided that:
 
->     “(1) __Report required.—__ 
+>     “(1)  __Report required__  __.—__ 
 
 >     Not later than March 31, 1998, the Judicial Conference of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, a report relating to the bankruptcy fee system and the impact of such system on various participants in bankruptcy cases.
 
->     “(2) __Contents of report.—__ 
+>     “(2)  __Contents of report__  __.—__ 
 
 >     Such report shall include—
 
@@ -213,11 +213,11 @@
 
 >             “(ii) recommendations regarding various methods to implement such a graduated bankruptcy fee system.
 
->     “(3) __Waiver of fees in selected districts.—__ 
+>     “(3)  __Waiver of fees in selected districts__  __.—__ 
 
 >     For purposes of carrying out paragraphs (1) and (2), the Judicial Conference of the United States shall carry out in not more than six judicial districts, throughout the 3-year period beginning on October 1, 1994, a program under which fees payable under [section 1930 of title 28][/us/usc/t28/s1930], United States Code, may be waived in cases under chapter 7 of title 11, United States Code, for debtors who are individuals unable to pay such fees in installments.
 
->     “(4) __Study of graduated fee system.—__ 
+>     “(4)  __Study of graduated fee system__  __.—__ 
 
 >     For purposes of carrying out paragraphs (1) and (2), the Judicial Conference of the United States shall carry out, in not fewer than six judicial districts, a study to estimate the results that would occur in cases under chapters 11 and 13 of title 11, United States Code, if filing fees payable under [section 1930 of title 28][/us/usc/t28/s1930], United States Code, were paid on a graduated scale based on assets, liabilities, or both of the debtor.”
 

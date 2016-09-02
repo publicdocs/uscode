@@ -37,7 +37,7 @@
 
 > “SEC. 2. __ESTABLISHMENT OF CIVIL ACTION.__ 
 
->     “(a) __Liability.—__ 
+>     “(a)  __Liability__  __.—__ 
 
 >     An individual who, under actual or apparent authority, or color of law, of any foreign nation—
 
@@ -45,21 +45,21 @@
 
 >         “(2) subjects an individual to extrajudicial killing shall, in a civil action, be liable for damages to the individual’s legal representative, or to any person who may be a claimant in an action for wrongful death.
 
->     “(b) __Exhaustion of Remedies.—__ 
+>     “(b)  __Exhaustion of Remedies__  __.—__ 
 
 >     A court shall decline to hear a claim under this section if the claimant has not exhausted adequate and available remedies in the place in which the conduct giving rise to the claim occurred.
 
->     “(c) __Statute of Limitations.—__ 
+>     “(c)  __Statute of Limitations__  __.—__ 
 
 >     No action shall be maintained under this section unless it is commenced within 10 years after the cause of action arose.
 
 > “SEC. 3. __DEFINITIONS.__ 
 
->     “(a) __Extrajudicial Killing.—__ 
+>     “(a)  __Extrajudicial Killing__  __.—__ 
 
 >     For the purposes of this Act, the term ‘extrajudicial killing’ means a deliberated killing not authorized by a previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples. Such term, however, does not include any such killing that, under international law, is lawfully carried out under the authority of a foreign nation.
 
->     “(b) __Torture.—__ 
+>     “(b)  __Torture__  __.—__ 
 
 >     For the purposes of this Act—
 

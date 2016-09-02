@@ -1447,9 +1447,9 @@
 
 [Pub. L. 112–121, § 2][/us/pl/112/121/s2], May 25, 2012, [126 Stat. 346][/us/stat/126/346], provided that:
 
->     “(a) __Temporary Office of Bankruptcy Judges Authorized by__  __[__  __Public Law 109–8__  __][/us/pl/109/8]__  __.—__ 
+>     “(a)  __Temporary Office of Bankruptcy Judges Authorized by Public Law __  __109–8.—__ 
 
->         “(1) __Extensions.—__ 
+>         “(1)  __Extensions__  __.—__ 
 
 >         The temporary office of bankruptcy judges authorized for the following districts by [section 1223(b) of Public Law 109–8][/us/pl/109/8/s1223/b] ([28 U.S.C. 152][/us/usc/t28/s152] note) are extended until the applicable vacancy specified in paragraph (2) in the office of a bankruptcy judge for the respective district occurs:
 
@@ -1489,7 +1489,7 @@
 
 >         “(2) __Vacancies.—__ 
 
->             “(A) __Single vacancies.—__ 
+>             “(A)  __Single vacancies__  __.—__ 
 
 >             Except as provided in subparagraphs (B), (C), (D), and (E), the 1st vacancy in the office of a bankruptcy judge for each district specified in paragraph (1)—
 
@@ -1499,7 +1499,7 @@
 
 >                   shall not be filled.
 
->             “(B) __Central district of california.—__ 
+>             “(B)  __Central district of california__  __.—__ 
 
 >             The 1st, 2d, and 3d vacancies in the office of a bankruptcy judge for the central district of California—
 
@@ -1509,7 +1509,7 @@
 
 >                   shall not be filled.
 
->             “(C) __District of delaware.—__ 
+>             “(C)  __District of delaware__  __.—__ 
 
 >             The 1st, 2d, 3d, and 4th vacancies in the office of a bankruptcy judge for the district of Delaware—
 
@@ -1519,7 +1519,7 @@
 
 >                   shall not be filled.
 
->             “(D) __Southern district of florida.—__ 
+>             “(D)  __Southern district of florida__  __.—__ 
 
 >             The 1st and 2d vacancies in the office of a bankruptcy judge for the southern district of Florida—
 
@@ -1529,7 +1529,7 @@
 
 >                   shall not be filled.
 
->             “(E) __District of maryland.—__ 
+>             “(E)  __District of maryland__  __.—__ 
 
 >             The 1st, 2d, and 3d vacancies in the office of a bankruptcy judge for the district of Maryland—
 
@@ -1539,19 +1539,19 @@
 
 >                   shall not be filled.
 
->         “(3) __Applicability of other provisions.—__ 
+>         “(3)  __Applicability of other provisions__  __.—__ 
 
 >         Except as provided in paragraphs (1) and (2), all other provisions of [section 1223(b) of Public Law 109–8][/us/pl/109/8/s1223/b] ([28 U.S.C. 152][/us/usc/t28/s152] note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
 
->     “(b) __Temporary Office of Bankruptcy Judges Extended by__  __[__  __Public Law 109–8__  __][/us/pl/109/8]__  __.—__ 
+>     “(b)  __Temporary Office of Bankruptcy Judges Extended by Public Law __  __109–8.—__ 
 
->         “(1) __Extensions.—__ 
+>         “(1)  __Extensions__  __.—__ 
 
 >         The temporary office of bankruptcy judges authorized by section 3 of the Bankruptcy Judgeship Act of 1992 \[[Pub. L. 102–361][/us/pl/102/361]\] ([28 U.S.C. 152][/us/usc/t28/s152] note) and extended by [section 1223(c) of Public Law 109–8][/us/pl/109/8/s1223/c] ([28 U.S.C. 152][/us/usc/t28/s152] note) for the district of Delaware, the district of Puerto Rico, and the eastern district of Tennessee are extended until the applicable vacancy specified in paragraph (2) in the office of a bankruptcy judge for the respective district occurs.
 
 >         “(2) __Vacancies.—__ 
 
->             “(A) __District of delaware.—__ 
+>             “(A)  __District of delaware__  __.—__ 
 
 >             The 5th vacancy in the office of a bankruptcy judge for the district of Delaware—
 
@@ -1561,7 +1561,7 @@
 
 >                   shall not be filled.
 
->             “(B) __District of puerto rico.—__ 
+>             “(B)  __District of puerto rico__  __.—__ 
 
 >             The 2d vacancy in the office of a bankruptcy judge for the district of Puerto Rico—
 
@@ -1571,7 +1571,7 @@
 
 >                   shall not be filled.
 
->             “(C) __Eastern district of tennessee.—__ 
+>             “(C)  __Eastern district of tennessee__  __.—__ 
 
 >             The 1st vacancy in the office of a bankruptcy judge for the eastern district of Tennessee—
 
@@ -1581,17 +1581,17 @@
 
 >                   shall not be filled.
 
->         “(3) __Applicability of other provisions.—__ 
+>         “(3)  __Applicability of other provisions__  __.—__ 
 
 >         Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 ([28 U.S.C. 152][/us/usc/t28/s152] note) and [section 1223(c) of Public Law 109–8][/us/pl/109/8/s1223/c] ([28 U.S.C. 152][/us/usc/t28/s152] note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
 
->     “(c) __Temporary Office of the Bankruptcy Judge Authorized by__  __[__  __Public Law 102–361__  __][/us/pl/102/361]__  __for the Middle District of North Carolina.—__ 
+>     “(c)  __Temporary Office of the Bankruptcy Judge Authorized by Public Law __  __102–361 for the Middle District of North Carolina.—__ 
 
->         “(1) __Extension.—__ 
+>         “(1)  __Extension__  __.—__ 
 
 >         The temporary office of the bankruptcy judge authorized by section 3 of the Bankruptcy Judgeship Act of 1992 \[[Pub. L. 102–361][/us/pl/102/361]\] ([28 U.S.C. 152][/us/usc/t28/s152] note) for the middle district of North Carolina is extended until the vacancy specified in paragraph (2) occurs.
 
->         “(2) __Vacancy.—__ 
+>         “(2)  __Vacancy__  __.—__ 
 
 >         The 1st vacancy in the office of a bankruptcy judge for the middle district of North Carolina—
 
@@ -1599,7 +1599,7 @@
 
 >             “(B) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,      shall not be filled.
 
->         “(3) __Applicability of other provisions.—__ 
+>         “(3)  __Applicability of other provisions__  __.—__ 
 
 >         Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 ([28 U.S.C. 152][/us/usc/t28/s152] note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1).”
 
@@ -1607,7 +1607,7 @@
 
 >     “(b) __Temporary Judgeships.—__ 
 
->         “(1) __Appointments.—__ 
+>         “(1)  __Appointments__  __.—__ 
 
 >         The following bankruptcy judges shall be appointed in the manner prescribed in [section 152(a)(1) of title 28][/us/usc/t28/s152/a/1], United States Code, for the appointment of bankruptcy judges provided for in section 152(a)(2) of such title:
 
@@ -1653,7 +1653,7 @@
 
 >         “(2) __Vacancies.—__ 
 
->             “(A) __Districts with single appointments.—__ 
+>             “(A)  __Districts with single appointments__  __.—__ 
 
 >             Except as provided in subparagraphs (B), (C), (D), and (E), the first vacancy occurring in the office of bankruptcy judge in each of the judicial districts set forth in paragraph (1)—
 
@@ -1663,7 +1663,7 @@
 
 >                   shall not be filled.
 
->             “(B) __Central district of california.—__ 
+>             “(B)  __Central district of california__  __.—__ 
 
 >             The 1st, 2d, and 3d vacancies in the office of bankruptcy judge in the central district of California—
 
@@ -1673,7 +1673,7 @@
 
 >                   shall not be filled.
 
->             “(C) __District of delaware.—__ 
+>             “(C)  __District of delaware__  __.—__ 
 
 >             The 1st, 2d, 3d, and 4th vacancies in the office of bankruptcy judge in the district of Delaware—
 
@@ -1683,7 +1683,7 @@
 
 >                   shall not be filled.
 
->             “(D) __Southern district of florida.—__ 
+>             “(D)  __Southern district of florida__  __.—__ 
 
 >             The 1st and 2d vacancies in the office of bankruptcy judge in the southern district of Florida—
 
@@ -1693,7 +1693,7 @@
 
 >                   shall not be filled.
 
->             “(E) __District of maryland.—__ 
+>             “(E)  __District of maryland__  __.—__ 
 
 >             The 1st, 2d, and 3d vacancies in the office of bankruptcy judge in the district of Maryland—
 
@@ -1705,17 +1705,17 @@
 
 >     “(c) __Extensions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The temporary office of bankruptcy judges authorized for the northern district of Alabama, the district of Delaware, the district of Puerto Rico, and the eastern district of Tennessee under paragraphs (1), (3), (7), and (9) of section 3(a) of the Bankruptcy Judgeship Act of 1992 \[[Pub. L. 102–361][/us/pl/102/361]\] ([28 U.S.C. 152][/us/usc/t28/s152] note) are extended until the first vacancy occurring in the office of a bankruptcy judge in the applicable district resulting from the death, retirement, resignation, or removal of a bankruptcy judge and occurring 5 years after the date of the enactment of this Act \[Apr. 20, 2005\].
 
->         “(2) __Applicability of other provisions.—__ 
+>         “(2)  __Applicability of other provisions__  __.—__ 
 
 >         All other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 ([28 U.S.C. 152][/us/usc/t28/s152] note) remain applicable to the temporary office of bankruptcy judges referred to in this subsection.”
 
 [Pub. L. 102–361, § 3][/us/pl/102/361/s3], Aug. 26, 1992, [106 Stat. 965][/us/stat/106/965], as amended by [Pub. L. 104–317, title III, § 307][/us/pl/104/317/s307], Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], provided that:
 
->     “(a) __Appointments.—__ 
+>     “(a)  __Appointments__  __.—__ 
 
 >     The following bankruptcy judges shall be appointed in the manner prescribed in [section 152(a)(1) of title 28][/us/usc/t28/s152/a/1], United States Code:
 
@@ -1739,7 +1739,7 @@
 
 >         “(10) 1 additional bankruptcy judge for the western district of Texas.
 
->     “(b) __Vacancies.—__ 
+>     “(b)  __Vacancies__  __.—__ 
 
 >     The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeship position, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, that judge shall be eligible for reappointment as a bankruptcy judge in that district.”
 
@@ -1832,12 +1832,10 @@
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 [/us/pl/112/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F121%2Fs2
 [/us/stat/126/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F346
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fb
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/pl/109/8/s1223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fb
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/pl/109/8/s1223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fc
@@ -1845,7 +1843,6 @@
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/pl/109/8/s1223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fc
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152

@@ -115,13 +115,13 @@ Statutes at Large  </td>
 
 [Pub. L. 110–34, § 3][/us/pl/110/34/s3], June 14, 2007, [121 Stat. 224][/us/stat/121/224], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this Act \[amending this section\] shall take effect on the date of enactment of this Act \[June 14, 2007\].
 
 >     “(b) __Application.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any person serving as a United States attorney on the day before the date of enactment of this Act \[June 14, 2007\] who was appointed under [section 546 of title 28][/us/usc/t28/s546], United States Code, may serve until the earlier of—
 
@@ -129,7 +129,7 @@ Statutes at Large  </td>
 
 >             “(B) 120 days after the date of enactment of this Act.
 
->         “(2) __Expired appointments.—__ 
+>         “(2)  __Expired appointments__  __.—__ 
 
 >         If an appointment expires under paragraph (1), the district court for that district may appoint a United States attorney for that district under [section 546(d) of title 28][/us/usc/t28/s546/d], United States Code, as added by this Act.”
 

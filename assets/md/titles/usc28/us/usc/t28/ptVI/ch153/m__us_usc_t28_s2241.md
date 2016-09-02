@@ -91,11 +91,11 @@ For information regarding constitutionality of certain provisions of this sectio
 
 [Pub. L. 109–366, § 5][/us/pl/109/366/s5], Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No person may invoke the Geneva Conventions or any protocols thereto in any habeas corpus or other civil action or proceeding to which the United States, or a current or former officer, employee, member of the Armed Forces, or other agent of the United States is a party as a source of rights in any court of the United States or its States or territories.
 
->     “(b) __Geneva Conventions Defined.—__ 
+>     “(b)  __Geneva Conventions Defined__  __.—__ 
 
 >     In this section, the term ‘Geneva Conventions’ means—
 

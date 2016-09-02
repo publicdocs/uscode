@@ -15,17 +15,17 @@
 
 ## § 1441. Removal of civil actions
 
-    (a) __Generally.—__ 
+    (a)  __Generally__  __.—__ 
 
     Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.
 
-    (b) __Removal Based on Diversity of Citizenship.—__ 
+    (b)  __Removal Based on Diversity of Citizenship__  __.—__ 
 
         (1) In determining whether a civil action is removable on the basis of the jurisdiction under [section 1332(a) of this title][/us/usc/t28/s1332/a], the citizenship of defendants sued under fictitious names shall be disregarded.
 
         (2) A civil action otherwise removable solely on the basis of the jurisdiction under [section 1332(a) of this title][/us/usc/t28/s1332/a] may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 
-    (c) __Joinder of Federal Law Claims and State Law Claims.—__ 
+    (c)  __Joinder of Federal Law Claims and State Law Claims__  __.—__ 
 
         (1)
 
@@ -39,11 +39,11 @@
 
         (2) Upon removal of an action described in paragraph (1), the district court shall sever from the action all claims described in paragraph (1)(B) and shall remand the severed claims to the State court from which the action was removed. Only defendants against whom a claim described in paragraph (1)(A) has been asserted are required to join in or consent to the removal under paragraph (1).
 
-    (d) __Actions Against Foreign States.—__ 
+    (d)  __Actions Against Foreign States__  __.—__ 
 
     Any civil action brought in a State court against a foreign state as defined in [section 1603(a) of this title][/us/usc/t28/s1603/a] may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the time limitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
 
-    (e) __Multiparty, Multiforum Jurisdiction.—__ 
+    (e)  __Multiparty, Multiforum Jurisdiction__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (6) Nothing in this subsection shall restrict the authority of the district court to transfer or dismiss an action on the ground of inconvenient forum.
 
-    (f) __Derivative Removal Jurisdiction.—__ 
+    (f)  __Derivative Removal Jurisdiction__  __.—__ 
 
     The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 

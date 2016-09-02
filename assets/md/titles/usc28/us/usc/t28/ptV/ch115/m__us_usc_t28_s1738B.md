@@ -15,7 +15,7 @@
 
 ## § 1738B. Full faith and credit for child support orders
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     The appropriate authorities of each State—
 
@@ -23,7 +23,7 @@
 
         (2) shall not seek or make a modification of such an order except in accordance with subsections (e), (f), and (i).
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -71,7 +71,7 @@
 
         “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151]).
 
-    (c) __Requirements of Child Support Orders.—__ 
+    (c)  __Requirements of Child Support Orders__  __.—__ 
 
     A child support order made by a court of a State is made consistently with this section if—
 
@@ -85,11 +85,11 @@
 
         (2) reasonable notice and opportunity to be heard is given to the contestants.
 
-    (d) __Continuing Jurisdiction.—__ 
+    (d)  __Continuing Jurisdiction__  __.—__ 
 
     A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 
-    (e) __Authority To Modify Orders.—__ 
+    (e)  __Authority To Modify Orders__  __.—__ 
 
     A court of a State may modify a child support order issued by a court of another State if—
 
@@ -101,7 +101,7 @@
 
             (B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 
-    (f) __Recognition of Child Support Orders.—__ 
+    (f)  __Recognition of Child Support Orders__  __.—__ 
 
     If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
@@ -115,25 +115,25 @@
 
         (5) The court that has issued an order recognized under this subsection is the court having continuing, exclusive jurisdiction under subsection (d).
 
-    (g) __Enforcement of Modified Orders.—__ 
+    (g)  __Enforcement of Modified Orders__  __.—__ 
 
     A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsections (e) and (f).
 
     (h) __Choice of Law.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In a proceeding to establish, modify, or enforce a child support order, the forum State’s law shall apply except as provided in paragraphs (2) and (3).
 
-        (2) __Law of state of issuance of order.—__ 
+        (2)  __Law of state of issuance of order__  __.—__ 
 
         In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
 
-        (3) __Period of limitation.—__ 
+        (3)  __Period of limitation__  __.—__ 
 
         In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 
-    (i) __Registration for Modification.—__ 
+    (i)  __Registration for Modification__  __.—__ 
 
     If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
@@ -185,7 +185,7 @@
 
 [Pub. L. 103–383, § 2][/us/pl/103/383/s2], Oct. 20, 1994, [108 Stat. 4063][/us/stat/108/4063], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -219,11 +219,11 @@
 
 >             “(D) harm to the welfare of children and their parents and other custodians.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     In view of the findings made in subsection (a), it is necessary to establish national standards under which the courts of the various States shall determine their jurisdiction to issue a child support order and the effect to be given by each State to child support orders issued by the courts of other States.
 
->     “(c) __Purposes.—__ 
+>     “(c)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[enacting this section and provisions set out as a note under [section 1 of this title][/us/usc/t28/s1]\] are—
 

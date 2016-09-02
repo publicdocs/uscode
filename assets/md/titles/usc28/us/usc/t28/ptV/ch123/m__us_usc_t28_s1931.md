@@ -79,15 +79,15 @@
 
 [Pub. L. 104–317, title IV, § 404][/us/pl/104/317/s404], Oct. 19, 1996, [110 Stat. 3855][/us/stat/110/3855], provided that:
 
->     “(a) __Disposition of Attorney Admission Fees.—__ 
+>     “(a)  __Disposition of Attorney Admission Fees__  __.—__ 
 
 >     For each fee collected for admission of an attorney to practice, as prescribed by the Judicial Conference of the United States pursuant to [section 1914 of title 28][/us/usc/t28/s1914], United States Code, $30 of that portion of the fee exceeding $20 shall be deposited into the special fund of the Treasury established under [section 1931 of title 28][/us/usc/t28/s1931], United States Code. Any portion exceeding $5 of the fee for a duplicate certificate of admission or certificate of good standing, as prescribed by the Judicial Conference of the United States pursuant to [section 1914 of title 28][/us/usc/t28/s1914], United States Code, shall be deposited into the special fund of the Treasury established under [section 1931 of title 28][/us/usc/t28/s1931], United States Code.
 
->     “(b) __Disposition of Bankruptcy Complaint Filing Fees.—__ 
+>     “(b)  __Disposition of Bankruptcy Complaint Filing Fees__  __.—__ 
 
 >     For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to [section 1930(b) of title 28][/us/usc/t28/s1930/b], United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under [section 1931 of title 28][/us/usc/t28/s1931], United States Code.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
 
