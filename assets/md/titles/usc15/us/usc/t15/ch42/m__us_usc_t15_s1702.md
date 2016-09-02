@@ -111,7 +111,7 @@
 
                 (ii) receipt of such statement has been acknowledged in writing by the purchaser or lessee.
 
-            (C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located; or
+            (C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located;
 
         (8)
 
@@ -129,19 +129,33 @@
 
             (F) the developer executes and supplies to the purchaser a written instrument designating a person within the State of residence of the purchaser as his agent for service of process and acknowledging that the developer submits to the legal jurisdiction of the State in which the purchaser or lessee resides; and
 
-            (G) the developer executes a written affirmation to the effect that he has complied with the provisions of this paragraph, such affirmation to be given on a form provided by the Director, which shall include the following: the name and address of the developer; the name and address of the purchaser or lessee; a legal description of the lot; an affirmation that the provisions of this paragraph have been complied with; a statement that the developer submits to the jurisdiction of this title with regard to the sale or lease; and the signature of the developer.
+            (G) the developer executes a written affirmation to the effect that he has complied with the provisions of this paragraph, such affirmation to be given on a form provided by the Director, which shall include the following: the name and address of the developer; the name and address of the purchaser or lessee; a legal description of the lot; an affirmation that the provisions of this paragraph have been complied with; a statement that the developer submits to the jurisdiction of this title with regard to the sale or lease; and the signature of the developer; or
+
+        (9) the sale or lease of a condominium unit that is not exempt under subsection (a).
 
     (c) __Rules and regulations__ 
 
         The Director may from time to time, pursuant to rules and regulations issued by him, exempt from any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
 
-([Pub. L. 90–448, title XIV, § 1403][/us/pl/90/448/s1403], Aug. 1, 1968, [82 Stat. 590][/us/stat/82/590]; [Pub. L. 91–152, title IV, § 411][/us/pl/91/152/s411], Dec. 24, 1969, [83 Stat. 398][/us/stat/83/398]; [Pub. L. 93–383, title VIII, § 812(b)][/us/pl/93/383/s812/b], Aug. 22, 1974, [88 Stat. 736][/us/stat/88/736]; [Pub. L. 95–557, title IX, § 907][/us/pl/95/557/s907], Oct. 31, 1978, [92 Stat. 2127][/us/stat/92/2127]; [Pub. L. 96–153, title IV, § 402][/us/pl/96/153/s402], Dec. 21, 1979, [93 Stat. 1123][/us/stat/93/1123]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+    (d) __“Condominium unit” defined__ 
+
+    For purposes of subsection (b), the term “condominium unit” means a unit of residential or commercial property to be designated for separate ownership pursuant to a condominium plan or declaration provided that upon conveyance—
+
+        (1) the owner of such unit will have sole ownership of the unit and an undivided interest in the common elements appurtenant to the unit; and
+
+        (2) the unit will be an improved lot.
+
+([Pub. L. 90–448, title XIV, § 1403][/us/pl/90/448/s1403], Aug. 1, 1968, [82 Stat. 590][/us/stat/82/590]; [Pub. L. 91–152, title IV, § 411][/us/pl/91/152/s411], Dec. 24, 1969, [83 Stat. 398][/us/stat/83/398]; [Pub. L. 93–383, title VIII, § 812(b)][/us/pl/93/383/s812/b], Aug. 22, 1974, [88 Stat. 736][/us/stat/88/736]; [Pub. L. 95–557, title IX, § 907][/us/pl/95/557/s907], Oct. 31, 1978, [92 Stat. 2127][/us/stat/92/2127]; [Pub. L. 96–153, title IV, § 402][/us/pl/96/153/s402], Dec. 21, 1979, [93 Stat. 1123][/us/stat/93/1123]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105]; [Pub. L. 113–167, § 1(a)][/us/pl/113/167/s1/a], Sept. 26, 2014, [128 Stat. 1882][/us/stat/128/1882].)
 
  __References in Text__ 
 
     The effective date of this subsection, referred to in subsec. (b)(2), probably means the effective date of title IV of [Pub. L. 96–153][/us/pl/96/153], section 402 of which amended subsec. (b) of this section generally. For the effective date of title IV, see [section 410 of Pub. L. 96–153][/us/pl/96/153/s410], set out as an Effective Date of 1979 Amendment note under [section 1701 of this title][/us/usc/t15/s1701].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(9). [Pub. L. 113–167, § 1(a)(1)][/us/pl/113/167/s1/a/1], added par. (9).
+
+    Subsec. (d). [Pub. L. 113–167, § 1(a)(2)][/us/pl/113/167/s1/a/2], added subsec. (d).
 
     2010—Subsecs. (b)(2), (8)(B), (G), (c). [Pub. L. 111–203][/us/pl/111/203] substituted “Director” for “Secretary”.
 
@@ -160,6 +174,12 @@
     1974—Subsec. (a)(11). [Pub. L. 93–383][/us/pl/93/383] added par. (11).
 
     1969—Subsec. (a)(10). [Pub. L. 91–152][/us/pl/91/152] substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–167, § 2][/us/pl/113/167/s2], Sept. 26, 2014, [128 Stat. 1882][/us/stat/128/1882], provided that: 
+
+> “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 26, 2014\].”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -189,9 +209,13 @@
 [/us/stat/93/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1123
 [/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
+[/us/pl/113/167/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs1%2Fa
+[/us/stat/128/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1882
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/153/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs410
 [/us/usc/t15/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1701
+[/us/pl/113/167/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs1%2Fa%2F1
+[/us/pl/113/167/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs1%2Fa%2F2
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
@@ -201,6 +225,8 @@
 [/us/pl/95/557/s907/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs907%2Fb%2F1
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/113/167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs2
+[/us/stat/128/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1882
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
