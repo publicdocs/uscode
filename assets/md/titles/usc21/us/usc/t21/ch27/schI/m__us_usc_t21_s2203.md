@@ -33,7 +33,7 @@
 
         (C) natural disasters affecting agriculture and food.
 
-([Pub. L. 111–353, title I, § 109][/us/pl/111/353/s109], Jan. 4, 2011, [124 Stat. 3912][/us/stat/124/3912].)
+([Pub. L. 111–353, title I][/us/pl/111/353/tI], § 109, Jan. 4, 2011, [124 Stat. 3912][/us/stat/124/3912].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/353/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs109
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3912
 
 

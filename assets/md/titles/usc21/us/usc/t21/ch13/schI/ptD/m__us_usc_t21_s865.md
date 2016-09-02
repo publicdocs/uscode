@@ -31,7 +31,7 @@
 
         Any person whose term of imprisonment is increased under subsection (a) shall be permanently and irrevocably barred from being eligible for or using any lane, system, or program described in subsection (b)(1).
 
-([Pub. L. 109–177, title VII, § 731][/us/pl/109/177/s731], Mar. 9, 2006, [120 Stat. 270][/us/stat/120/270].)
+([Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 731, Mar. 9, 2006, [120 Stat. 270][/us/stat/120/270].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
 [/us/usc/t21/s802/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F33
-[/us/pl/109/177/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs731
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F270
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

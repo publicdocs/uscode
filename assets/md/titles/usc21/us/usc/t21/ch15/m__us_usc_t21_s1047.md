@@ -23,7 +23,7 @@
 
     This section shall not affect in any way other provisions of this chapter for refusal of inspection services.
 
-([Pub. L. 91–597, § 18][/us/pl/91/597/s18], Dec. 29, 1970, [84 Stat. 1630][/us/stat/84/1630].)
+([Pub. L. 91–597][/us/pl/91/597], § 18, Dec. 29, 1970, [84 Stat. 1630][/us/stat/84/1630].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t7/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs194
-[/us/pl/91/597/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs18
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1630
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

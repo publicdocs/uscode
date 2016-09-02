@@ -17,7 +17,7 @@
 
     The Secretary shall establish an internal committee within the Food and Drug Administration to carry out the activities as described in sections 355a(f) and 355c(f) of this title. Such internal committee shall include employees of the Food and Drug Administration, with expertise in pediatrics (including representation from the Office of Pediatric Therapeutics), biopharmacology, statistics, chemistry, legal issues, pediatric ethics, neonatology, and the appropriate expertise pertaining to the pediatric product under review, such as expertise in child and adolescent psychiatry, and other individuals designated by the Secretary.
 
-([June 25, 1938, ch. 675, § 505C][/us/act/1938-06-25/ch675/s505C], as added [Pub. L. 110–85, title IV, § 403][/us/pl/110/85/s403], Sept. 27, 2007, [121 Stat. 875][/us/stat/121/875]; amended [Pub. L. 112–144, title V, § 509(c)][/us/pl/112/144/s509/c], July 9, 2012, [126 Stat. 1049][/us/stat/126/1049].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 505C, as added [Pub. L. 110–85, title IV][/us/pl/110/85/tIV], § 403, Sept. 27, 2007, [121 Stat. 875][/us/stat/121/875]; amended [Pub. L. 112–144, title V][/us/pl/112/144/tV], § 509(c), July 9, 2012, [126 Stat. 1049][/us/stat/126/1049].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s505C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505C
-[/us/pl/110/85/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs403
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIV
 [/us/stat/121/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F875
-[/us/pl/112/144/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fc
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1049
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 

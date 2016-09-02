@@ -17,7 +17,7 @@
 
     If the applicant for license as a pharmacist has complied with the requirements of [section 203 of this title][/us/usc/t21/s203], the consul shall issue to him a license which shall entitle him to practice pharmacy in the consular districts of the United States in China, subject to the provisions of this chapter.
 
-([Mar. 3, 1915, ch. 74, § 3][/us/act/1915-03-03/ch74/s3], [38 Stat. 819][/us/stat/38/819].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 3, [38 Stat. 819][/us/stat/38/819].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t21/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs203
-[/us/act/1915-03-03/ch74/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs3
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F819
 
 

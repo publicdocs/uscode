@@ -255,11 +255,11 @@
 
         If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall make relevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
 
-([June 25, 1938, ch. 675, § 417][/us/act/1938-06-25/ch675/s417], as added [Pub. L. 110–85, title X, § 1005(b)][/us/pl/110/85/s1005/b], Sept. 27, 2007, [121 Stat. 965][/us/stat/121/965]; amended [Pub. L. 111–353, title II, § 211(a)][/us/pl/111/353/s211/a], Jan. 4, 2011, [124 Stat. 3951][/us/stat/124/3951].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 417, as added [Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1005(b), Sept. 27, 2007, [121 Stat. 965][/us/stat/121/965]; amended [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 211(a), Jan. 4, 2011, [124 Stat. 3951][/us/stat/124/3951].)
 
  __References in Text__ 
 
-    Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), was redesignated section 350d(a)(4), (5), respectively, of this title by [Pub. L. 111–353, title I, § 102(a)(2)][/us/pl/111/353/s102/a/2], Jan. 4, 2011, [124 Stat. 3887][/us/stat/124/3887].
+    Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), was redesignated section 350d(a)(4), (5), respectively, of this title by [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 102(a)(2), Jan. 4, 2011, [124 Stat. 3887][/us/stat/124/3887].
 
  __Amendments__ 
 
@@ -267,7 +267,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–85, title X, § 1005(e)][/us/pl/110/85/s1005/e], Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969], provided that: 
+[Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1005(e), Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969], provided that: 
 
 > “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350f(d)][/us/usc/t21/s350f/d]\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
 
@@ -277,7 +277,7 @@
 
  __Findings__ 
 
-[Pub. L. 110–85, title X, § 1005(a)][/us/pl/110/85/s1005/a], Sept. 27, 2007, [121 Stat. 964][/us/stat/121/964], provided that: 
+[Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1005(a), Sept. 27, 2007, [121 Stat. 964][/us/stat/121/964], provided that: 
 
 > “Congress makes the following findings:
 
@@ -291,7 +291,7 @@
 
  __Guidance__ 
 
-[Pub. L. 110–85, title X, § 1005(f)][/us/pl/110/85/s1005/f], Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969], provided that: 
+[Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1005(f), Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969], provided that: 
 
 > “Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350f][/us/usc/t21/s350f]\] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417.”
 
@@ -307,25 +307,25 @@
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t21/s379v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379v
-[/us/act/1938-06-25/ch675/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs417
-[/us/pl/110/85/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1005%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F965
-[/us/pl/111/353/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs211%2Fa
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3951
-[/us/pl/111/353/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fa%2F2
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3887
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/110/85/s1005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1005%2Fe
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F969
 [/us/usc/t21/s350f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350f%2Fd
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/110/85/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1005%2Fa
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F964
 [/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/110/85/s1005/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1005%2Ff
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F969
 [/us/usc/t21/s350f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350f
 

@@ -41,11 +41,11 @@
 
             As part of the performance report described in paragraph (1), the Secretary shall include an explanation of how the Food and Drug Administration is managing the biological product review program to ensure that the user fees collected under subpart 2  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means subpart 2 of part C. </sup></sup>  are not used to review an application under [section 262(k) of title 42][/us/usc/t42/s262/k].
 
-([June 25, 1938, ch. 675, § 715][/us/act/1938-06-25/ch675/s715], as added and amended [Pub. L. 112–144, title III, § 308][/us/pl/112/144/s308], title IV, § 408, July 9, 2012, [126 Stat. 1025][/us/stat/126/1025], 1039.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 715, as added and amended [Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 308, title IV, § 408, July 9, 2012, [126 Stat. 1025][/us/stat/126/1025], 1039.)
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–144, § 408][/us/pl/112/144/s408], added subsec. (b).
+    2012—Subsec. (b). [Pub. L. 112–144][/us/pl/112/144], § 408, added subsec. (b).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -67,10 +67,10 @@
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
-[/us/act/1938-06-25/ch675/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs715
-[/us/pl/112/144/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs308
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1025
-[/us/pl/112/144/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs408
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/112/144/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs408
 [/us/pl/112/144/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs405
 [/us/usc/t21/s379j–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9351

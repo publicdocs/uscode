@@ -283,7 +283,7 @@
 
             A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act \[[42 U.S.C. 263a][/us/usc/t42/s263a]\] notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).
 
-([June 25, 1938, ch. 675, § 564][/us/act/1938-06-25/ch675/s564], as added [Pub. L. 108–136, div. A, title XVI, § 1603(a)][/us/pl/108/136/s1603/a], Nov. 24, 2003, [117 Stat. 1684][/us/stat/117/1684]; amended [Pub. L. 108–276, § 4(a)][/us/pl/108/276/s4/a], July 21, 2004, [118 Stat. 853][/us/stat/118/853]; [Pub. L. 113–5, title III, § 302(a)][/us/pl/113/5/s302/a], Mar. 13, 2013, [127 Stat. 179][/us/stat/127/179].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 564, as added [Pub. L. 108–136, div. A, title XVI][/us/pl/108/136/dA/tXVI], § 1603(a), Nov. 24, 2003, [117 Stat. 1684][/us/stat/117/1684]; amended [Pub. L. 108–276][/us/pl/108/276], § 4(a), July 21, 2004, [118 Stat. 853][/us/stat/118/853]; [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 302(a), Mar. 13, 2013, [127 Stat. 179][/us/stat/127/179].)
 
  __References in Text__ 
 
@@ -291,59 +291,59 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–5, § 302(a)(1)(A)][/us/pl/113/5/s302/a/1/A], substituted “any provision of this chapter” for “sections 355, 360(k), and 360e of this title”.
+    2013—Subsec. (a)(1). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(1)(A), substituted “any provision of this chapter” for “sections 355, 360(k), and 360e of this title”.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–5, § 302(a)(1)(B)][/us/pl/113/5/s302/a/1/B], substituted “under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act” for “under a provision of law referred to in such paragraph”.
+    Subsec. (a)(2)(A). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(1)(B), substituted “under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act” for “under a provision of law referred to in such paragraph”.
 
-    Subsec. (a)(3). [Pub. L. 113–5, § 302(a)(1)(C)][/us/pl/113/5/s302/a/1/C], substituted “a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A)” for “a provision of law referred to in such paragraph”.
+    Subsec. (a)(3). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(1)(C), substituted “a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A)” for “a provision of law referred to in such paragraph”.
 
-    Subsec. (b). [Pub. L. 113–5, § 302(a)(2)(A)][/us/pl/113/5/s302/a/2/A], inserted “or threat justifying emergency authorized use” after “emergency” in heading.
+    Subsec. (b). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(2)(A), inserted “or threat justifying emergency authorized use” after “emergency” in heading.
 
-    Subsec. (b)(1). [Pub. L. 113–5, § 302(a)(2)(B)][/us/pl/113/5/s302/a/2/B], substituted “may make a declaration that the circumstances exist” for “may declare an emergency” in introductory provisions, struck out “specified” before “biological” in subpars. (A) and (B), added subpar. (D), and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “a determination by the Secretary of a public health emergency under section 319 of the Public Health Service Act that affects, or has a significant potential to affect, national security, and that involves a specified biological, chemical, radiological, or nuclear agent or agents, or a specified disease or condition that may be attributable to such agent or agents.”
+    Subsec. (b)(1). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(2)(B), substituted “may make a declaration that the circumstances exist” for “may declare an emergency” in introductory provisions, struck out “specified” before “biological” in subpars. (A) and (B), added subpar. (D), and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “a determination by the Secretary of a public health emergency under section 319 of the Public Health Service Act that affects, or has a significant potential to affect, national security, and that involves a specified biological, chemical, radiological, or nuclear agent or agents, or a specified disease or condition that may be attributable to such agent or agents.”
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 113–5, § 302(a)(2)(C)(i)][/us/pl/113/5/s302/a/2/C/i], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the expiration of the one-year period beginning on the date on which the declaration is made.”
+    Subsec. (b)(2)(A)(ii). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(2)(C)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the expiration of the one-year period beginning on the date on which the declaration is made.”
 
-    Subsec. (b)(2)(B), (C). [Pub. L. 113–5, § 302(a)(2)(C)(ii)][/us/pl/113/5/s302/a/2/C/ii], (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal.”
+    Subsec. (b)(2)(B), (C). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal.”
 
-    Subsec. (b)(4). [Pub. L. 113–5, § 302(a)(2)(D)][/us/pl/113/5/s302/a/2/D], substituted “, and advance notice of termination under this subsection” for “advance notice of termination, and renewal under this subsection”.
+    Subsec. (b)(4). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(2)(D), substituted “, and advance notice of termination under this subsection” for “advance notice of termination, and renewal under this subsection”.
 
-    Subsec. (b)(5). [Pub. L. 113–5, § 302(a)(2)(E)][/us/pl/113/5/s302/a/2/E], added par. (5).
+    Subsec. (b)(5). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(2)(E), added par. (5).
 
-    Subsec. (c). [Pub. L. 113–5, § 302(a)(3)(A)][/us/pl/113/5/s302/a/3/A], in introductory provisions, inserted “the Assistant Secretary for Preparedness and Response,” after “consultation with” and substituted “Director of the National Institutes of Health, and” for “Director of the National Institutes of Health and” and “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency involved”.
+    Subsec. (c). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(3)(A), in introductory provisions, inserted “the Assistant Secretary for Preparedness and Response,” after “consultation with” and substituted “Director of the National Institutes of Health, and” for “Director of the National Institutes of Health and” and “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency involved”.
 
-    Subsec. (c)(1). [Pub. L. 113–5, § 302(a)(3)(B)][/us/pl/113/5/s302/a/3/B], substituted “referred to” for “specified”.
+    Subsec. (c)(1). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(3)(B), substituted “referred to” for “specified”.
 
-    Subsec. (c)(2)(B). [Pub. L. 113–5, § 302(a)(3)(C)][/us/pl/113/5/s302/a/3/C], inserted “, taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable” after “risks of the product”.
+    Subsec. (c)(2)(B). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(3)(C), inserted “, taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable” after “risks of the product”.
 
-    Subsec. (d)(3). [Pub. L. 113–5, § 302(a)(4)][/us/pl/113/5/s302/a/4], inserted “, to the extent practicable given the circumstances of the emergency,” after “including”.
+    Subsec. (d)(3). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(4), inserted “, to the extent practicable given the circumstances of the emergency,” after “including”.
 
-    Subsec. (e)(1)(A). [Pub. L. 113–5, § 302(a)(5)(A)][/us/pl/113/5/s302/a/5/A], substituted “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency” in introductory provisions.
+    Subsec. (e)(1)(A). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(5)(A), substituted “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency” in introductory provisions.
 
-    Subsec. (e)(1)(B)(iii). [Pub. L. 113–5, § 302(a)(5)(B)][/us/pl/113/5/s302/a/5/B], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Appropriate conditions with respect to the collection and analysis of information, during the period when the authorization is in effect, concerning the safety and effectiveness of the product with respect to the emergency use of such product.”
+    Subsec. (e)(1)(B)(iii). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(5)(B), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Appropriate conditions with respect to the collection and analysis of information, during the period when the authorization is in effect, concerning the safety and effectiveness of the product with respect to the emergency use of such product.”
 
-    Subsec. (e)(2)(A). [Pub. L. 113–5, § 302(a)(5)(C)(i)][/us/pl/113/5/s302/a/5/C/i], substituted “person” for “manufacturer of the product” and “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency” and inserted “or in paragraph (1)(B)” before period at end.
+    Subsec. (e)(2)(A). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(5)(C)(i), substituted “person” for “manufacturer of the product” and “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency” and inserted “or in paragraph (1)(B)” before period at end.
 
-    Subsec. (e)(2)(B)(i). [Pub. L. 113–5, § 302(a)(5)(C)(ii)][/us/pl/113/5/s302/a/5/C/ii], inserted “, except as provided in [section 360bbb–3a of this title][/us/usc/t21/s360bbb–3a] with respect to authorized changes to the product expiration date” before period at end.
+    Subsec. (e)(2)(B)(i). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(5)(C)(ii), inserted “, except as provided in [section 360bbb–3a of this title][/us/usc/t21/s360bbb–3a] with respect to authorized changes to the product expiration date” before period at end.
 
-    Subsec. (e)(2)(C). [Pub. L. 113–5, § 302(a)(5)(C)(iii)][/us/pl/113/5/s302/a/5/C/iii], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use.”
+    Subsec. (e)(2)(C). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(5)(C)(iii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use.”
 
-    Subsec. (e)(3). [Pub. L. 113–5, § 302(a)(5)(D)][/us/pl/113/5/s302/a/5/D], amended par. (3) generally. Prior to amendment, text read as follows: “With respect to the emergency use of a product for which an authorization under this section is issued (whether an unapproved product or an unapproved use of an approved product), the Secretary may waive or limit, to the extent appropriate given the circumstances of the emergency, requirements regarding current good manufacturing practice otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including such requirements established under [section 351 of this title][/us/usc/t21/s351].”
+    Subsec. (e)(3). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(5)(D), amended par. (3) generally. Prior to amendment, text read as follows: “With respect to the emergency use of a product for which an authorization under this section is issued (whether an unapproved product or an unapproved use of an approved product), the Secretary may waive or limit, to the extent appropriate given the circumstances of the emergency, requirements regarding current good manufacturing practice otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including such requirements established under [section 351 of this title][/us/usc/t21/s351].”
 
-    Subsec. (g). [Pub. L. 113–5, § 302(a)(6)(A)][/us/pl/113/5/s302/a/6/A], substituted “Review and revocation” for “Revocation” in heading.
+    Subsec. (g). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(6)(A), substituted “Review and revocation” for “Revocation” in heading.
 
-    Subsec. (g)(1). [Pub. L. 113–5, § 302(a)(6)(B)][/us/pl/113/5/s302/a/6/B], inserted at end “As part of such review, the Secretary shall regularly review the progress made with respect to the approval, licensure, or clearance of—
+    Subsec. (g)(1). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(6)(B), inserted at end “As part of such review, the Secretary shall regularly review the progress made with respect to the approval, licensure, or clearance of—
 
     “(A) an unapproved product for which an authorization was issued under this section; or
 
     “(B) an unapproved use of an approved product for which an authorization was issued under this section.”
 
-    Subsec. (g)(2). [Pub. L. 113–5, § 302(a)(6)(C)][/us/pl/113/5/s302/a/6/C], amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary may revoke an authorization under this section if the criteria under subsection (c) of this section for issuance of such authorization are no longer met or other circumstances make such revocation appropriate to protect the public health or safety.”
+    Subsec. (g)(2). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(6)(C), amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary may revoke an authorization under this section if the criteria under subsection (c) of this section for issuance of such authorization are no longer met or other circumstances make such revocation appropriate to protect the public health or safety.”
 
-    Subsec. (h)(1). [Pub. L. 113–5, § 302(a)(7)][/us/pl/113/5/s302/a/7], inserted at end “The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.”
+    Subsec. (h)(1). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(7), inserted at end “The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.”
 
-    Subsec. (j)(4). [Pub. L. 113–5, § 302(a)(8)][/us/pl/113/5/s302/a/8], added par. (4).
+    Subsec. (j)(4). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(8), added par. (4).
 
-    Subsec. (m). [Pub. L. 113–5, § 302(a)(9)][/us/pl/113/5/s302/a/9], added subsec. (m).
+    Subsec. (m). [Pub. L. 113–5][/us/pl/113/5], § 302(a)(9), added subsec. (m).
 
     2004—[Pub. L. 108–276][/us/pl/108/276] amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 
@@ -378,43 +378,43 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
-[/us/act/1938-06-25/ch675/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs564
-[/us/pl/108/136/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1603%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/136/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVI
 [/us/stat/117/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1684
-[/us/pl/108/276/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs4%2Fa
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F853
-[/us/pl/113/5/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F179
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/113/5/s302/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F1%2FA
-[/us/pl/113/5/s302/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F1%2FB
-[/us/pl/113/5/s302/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F1%2FC
-[/us/pl/113/5/s302/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F2%2FA
-[/us/pl/113/5/s302/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F2%2FB
-[/us/pl/113/5/s302/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F2%2FC%2Fi
-[/us/pl/113/5/s302/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F2%2FC%2Fii
-[/us/pl/113/5/s302/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F2%2FD
-[/us/pl/113/5/s302/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F2%2FE
-[/us/pl/113/5/s302/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F3%2FA
-[/us/pl/113/5/s302/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F3%2FB
-[/us/pl/113/5/s302/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F3%2FC
-[/us/pl/113/5/s302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F4
-[/us/pl/113/5/s302/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F5%2FA
-[/us/pl/113/5/s302/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F5%2FB
-[/us/pl/113/5/s302/a/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F5%2FC%2Fi
-[/us/pl/113/5/s302/a/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F5%2FC%2Fii
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t21/s360bbb–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933a
-[/us/pl/113/5/s302/a/5/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F5%2FC%2Fiii
-[/us/pl/113/5/s302/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F5%2FD
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t21/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs351
-[/us/pl/113/5/s302/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F6%2FA
-[/us/pl/113/5/s302/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F6%2FB
-[/us/pl/113/5/s302/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F6%2FC
-[/us/pl/113/5/s302/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F7
-[/us/pl/113/5/s302/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F8
-[/us/pl/113/5/s302/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fa%2F9
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 
 

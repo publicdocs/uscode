@@ -17,7 +17,7 @@
 
     Milk or cream shall be considered unfit for importation (1) when all cows producing such milk or cream are not healthy and a physical examination of all such cows has not been made within one year previous to such milk being offered for importation; (2) when such milk or cream, if raw, is not produced from cows which have passed a tuberculin test applied by a duly authorized official veterinarian of the United States, or of the country in which such milk or cream is produced, within one year previous to the time of the importation, showing that such cows are free from tuberculosis; (3) when the sanitary conditions of the dairy farm or plant in which such milk or cream is produced or handled do not score at least fifty points out of one hundred points according to the methods for scoring as provided by the score cards used by the Bureau of Dairy Industry of the United States Department of Agriculture at the time such dairy farms or plants are scored; (4) in the case of raw milk if the number of bacteria per cubic centimeter exceeds three hundred thousand and in the case of raw cream seven hundred and fifty thousand, in the case of pasteurized milk if the number of bacteria per cubic centimeter exceeds one hundred thousand, and in the case of pasteurized cream five hundred thousand; (5) when the temperature of milk or cream at the time of importation exceeds fifty degrees Fahrenheit.
 
-([Feb. 15, 1927, ch. 155, § 2][/us/act/1927-02-15/ch155/s2], [44 Stat. 1101][/us/stat/44/1101].)
+([Feb. 15, 1927, ch. 155][/us/act/1927-02-15/ch155], § 2, [44 Stat. 1101][/us/stat/44/1101].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-15/ch155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155%2Fs2
+[/us/act/1927-02-15/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155
 [/us/stat/44/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1101
 
 

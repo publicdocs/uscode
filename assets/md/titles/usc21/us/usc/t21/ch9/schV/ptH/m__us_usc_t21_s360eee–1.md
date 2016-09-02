@@ -849,11 +849,11 @@
 
         On the date that is 10 years after November 27, 2013, the timeline for responses to requests for information from the Secretary, or other appropriate Federal or State official, as applicable, under subsections (b)(1)(B), (c)(1)(C), and (e)(1)(C) shall be not later than 24 hours after receiving the request from the Secretary or other appropriate Federal or State official, as applicable, or in such other reasonable time as determined by the Secretary based on the circumstances of the request.
 
-([June 25, 1938, ch. 675, § 582][/us/act/1938-06-25/ch675/s582], as added and amended [Pub. L. 113–54, title II][/us/pl/113/54], §§ 202, 203, Nov. 27, 2013, [127 Stat. 605][/us/stat/127/605], 623.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 582, as added and amended [Pub. L. 113–54, title II][/us/pl/113/54/tII], §§ 202, 203, Nov. 27, 2013, [127 Stat. 605][/us/stat/127/605], 623.)
 
  __Amendments__ 
 
-    2013—Subsecs. (g) to (m). [Pub. L. 113–54, § 203][/us/pl/113/54/s203], added subsecs. (g) to (m).
+    2013—Subsecs. (g) to (m). [Pub. L. 113–54][/us/pl/113/54], § 203, added subsecs. (g) to (m).
 
 ----------
 
@@ -879,9 +879,9 @@
 [/us/usc/t21/s360eee/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F16%2FA
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t21/s355e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355e
-[/us/act/1938-06-25/ch675/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs582
-[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtII
 [/us/stat/127/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F605
-[/us/pl/113/54/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs203
+[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
 
 

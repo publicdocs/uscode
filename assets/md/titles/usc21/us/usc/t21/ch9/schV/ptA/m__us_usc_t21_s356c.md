@@ -145,7 +145,7 @@
 
             Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
 
-([June 25, 1938, ch. 675, § 506C][/us/act/1938-06-25/ch675/s506C], as added [Pub. L. 105–115, title I, § 131(a)][/us/pl/105/115/s131/a], Nov. 21, 1997, [111 Stat. 2332][/us/stat/111/2332]; amended [Pub. L. 112–144, title X, § 1001(a)][/us/pl/112/144/s1001/a], July 9, 2012, [126 Stat. 1099][/us/stat/126/1099].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506C, as added [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 131(a), Nov. 21, 1997, [111 Stat. 2332][/us/stat/111/2332]; amended [Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1001(a), July 9, 2012, [126 Stat. 1099][/us/stat/126/1099].)
 
  __Amendments__ 
 
@@ -157,7 +157,7 @@
 
  __Effect of Notification__ 
 
-[Pub. L. 112–144, title X, § 1001(b)][/us/pl/112/144/s1001/b], July 9, 2012, [126 Stat. 1101][/us/stat/126/1101], provided that: 
+[Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1001(b), July 9, 2012, [126 Stat. 1101][/us/stat/126/1101], provided that: 
 
 > “The submission of a notification to the Secretary of Health and Human Services (referred to in this title \[see Tables for classification\] as the ‘Secretary’) for purposes of complying with the requirement in section 506C(a) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 356c(a)][/us/usc/t21/s356c/a]\] (as amended by subsection (a)) shall not be construed—
 
@@ -218,15 +218,15 @@
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s506C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506C
-[/us/pl/105/115/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs131%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2332
-[/us/pl/112/144/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1001%2Fa
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1099
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/112/144/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1001%2Fb
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1101
 [/us/usc/t21/s356c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c%2Fa
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301

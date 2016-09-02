@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1502a.md) | [Next](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1509.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1505a)
+[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1503...1505.md) | [Next](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1506...1508.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1505a)
 
 ## § 1505a. Annual report on development and deployment of narcotics detection technologies
 
@@ -33,7 +33,7 @@
 
         (5) a detailed timeline for implementation of each project described in paragraph (1).
 
-([Pub. L. 105–85, div. A, title X, § 1034][/us/pl/105/85/s1034], Nov. 18, 1997, [111 Stat. 1884][/us/stat/111/1884]; [Pub. L. 107–296, title XVII, § 1704(e)(10)][/us/pl/107/296/s1704/e/10], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].)
+([Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1034, Nov. 18, 1997, [111 Stat. 1884][/us/stat/111/1884]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(10), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].)
 
  __Codification__ 
 
@@ -47,56 +47,20 @@
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see [section 1704(g) of Pub. L. 107–296][/us/pl/107/296/s1704/g], set out as a note under [section 101 of Title 10][/us/usc/t10/s101], Armed Forces.
 
-§§ 1506 to 1508. __Repealed.__  __[__  __Pub. L. 100–690, title I, § 1009__  __][/us/pl/100/690/s1009]__  __,__  __Nov. 18, 1988__  __,__  __[__  __102 Stat. 4188__  __][/us/stat/102/4188]__  __, as amended by__  __[__  __Pub. L. 105–20, § 2(b)__  __][/us/pl/105/20/s2/b]__  __,__  __June 27, 1997__  __,__  __[__  __111 Stat. 234__  __][/us/stat/111/234]__ 
-
-    Section 1506, [Pub. L. 100–690, title I, § 1009][/us/pl/100/690/s1009], Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188]; [Pub. L. 103–322, title IX, § 90208(a)][/us/pl/103/322/s90208/a], Sept. 13, 1994, [108 Stat. 1995][/us/stat/108/1995]; [Pub. L. 105–20, § 2(b)][/us/pl/105/20/s2/b], June 27, 1997, [111 Stat. 234][/us/stat/111/234], repealed this subchapter, and the amendments made by this subchapter, except for section 1007, effective Sept. 30, 1997.
-
-    Section 1507, [Pub. L. 100–690, title I, § 1010][/us/pl/100/690/s1010], Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188]; [Pub. L. 105–20, § 2(b)][/us/pl/105/20/s2/b], June 27, 1997, [111 Stat. 234][/us/stat/111/234], defined terms for purposes of this subchapter. See [section 1701 of this title][/us/usc/t21/s1701].
-
-    Section 1508, [Pub. L. 100–690, title I, § 1011][/us/pl/100/690/s1011], Nov. 18, 1988, [102 Stat. 4189][/us/stat/102/4189]; [Pub. L. 103–322, title IX, § 90206][/us/pl/103/322/s90206], Sept. 13, 1994, [108 Stat. 1995][/us/stat/108/1995]; [Pub. L. 105–20, § 2(b)][/us/pl/105/20/s2/b], June 27, 1997, [111 Stat. 234][/us/stat/111/234], authorized appropriations to carry out this subchapter. See [section 1711 of this title][/us/usc/t21/s1711].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 30, 1997, see [section 1009 of Pub. L. 100–690][/us/pl/100/690/s1009], as amended, which was formerly classified to [section 1506 of this title][/us/usc/t21/s1506].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1502a.md) | [Next](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1509.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1505a)
+[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1503...1505.md) | [Next](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1506...1508.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1505a)
 
 ----------
 ----------
 
-[/us/pl/105/85/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1034
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1884
-[/us/pl/107/296/s1704/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F10
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
-[/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
-[/us/pl/105/20/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fb
-[/us/stat/111/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F234
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
-[/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
-[/us/pl/103/322/s90208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90208%2Fa
-[/us/stat/108/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1995
-[/us/pl/105/20/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fb
-[/us/stat/111/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F234
-[/us/pl/100/690/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1010
-[/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
-[/us/pl/105/20/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fb
-[/us/stat/111/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F234
-[/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
-[/us/pl/100/690/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1011
-[/us/stat/102/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4189
-[/us/pl/103/322/s90206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90206
-[/us/stat/108/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1995
-[/us/pl/105/20/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fb
-[/us/stat/111/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F234
-[/us/usc/t21/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1711
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
-[/us/usc/t21/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1506
 
 

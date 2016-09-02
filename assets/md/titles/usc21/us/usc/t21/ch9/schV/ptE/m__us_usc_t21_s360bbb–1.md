@@ -17,7 +17,7 @@
 
     If, regarding an obligation concerning drugs or devices under this Act or section 351 of the Public Health Service Act \[[42 U.S.C. 262][/us/usc/t42/s262]\], there is a scientific controversy between the Secretary and a person who is a sponsor, applicant, or manufacturer and no specific provision of the Act involved, including a regulation promulgated under such Act, provides a right of review of the matter in controversy, the Secretary shall, by regulation, establish a procedure under which such sponsor, applicant, or manufacturer may request a review of such controversy, including a review by an appropriate scientific advisory panel described in [section 355(n) of this title][/us/usc/t21/s355/n] or an advisory committee described in [section 360e(g)(2)(B) of this title][/us/usc/t21/s360e/g/2/B]. Any such review shall take place in a timely manner. The Secretary shall promulgate such regulations within 1 year after November 21, 1997.
 
-([June 25, 1938, ch. 675, § 562][/us/act/1938-06-25/ch675/s562], as added [Pub. L. 105–115, title IV, § 404][/us/pl/105/115/s404], Nov. 21, 1997, [111 Stat. 2368][/us/stat/111/2368].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 562, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 404, Nov. 21, 1997, [111 Stat. 2368][/us/stat/111/2368].)
 
  __References in Text__ 
 
@@ -37,8 +37,8 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fn
 [/us/usc/t21/s360e/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e%2Fg%2F2%2FB
-[/us/act/1938-06-25/ch675/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs562
-[/us/pl/105/115/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs404
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2368
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

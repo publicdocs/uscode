@@ -45,7 +45,7 @@
 
                 Subparagraph (A) shall not apply in cases that are referred to experts outside of the Food and Drug Administration.
 
-([June 25, 1938, ch. 675, § 517A][/us/act/1938-06-25/ch675/s517A], as added [Pub. L. 112–144, title VI, § 603][/us/pl/112/144/s603], July 9, 2012, [126 Stat. 1051][/us/stat/126/1051].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 517A, as added [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 603, July 9, 2012, [126 Stat. 1051][/us/stat/126/1051].)
 
 ----------
 
@@ -57,8 +57,8 @@
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
 [/us/usc/t21/s360j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fg
-[/us/act/1938-06-25/ch675/s517A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs517A
-[/us/pl/112/144/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs603
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1051
 
 

@@ -31,7 +31,7 @@
 
     (b) State and local law enforcement officers performing functions under this section shall not be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to [section 3374(c) of title 5][/us/usc/t5/s3374/c].
 
-([Pub. L. 91–513, title II, § 508][/us/pl/91/513/s508], Oct. 27, 1970, [84 Stat. 1273][/us/stat/84/1273]; [Pub. L. 96–132, § 16(b)][/us/pl/96/132/s16/b], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 99–570, title I, § 1869][/us/pl/99/570/s1869], Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646, § 86][/us/pl/99/646/s86], Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620]; [Pub. L. 111–211, title II, § 232(d)][/us/pl/111/211/s232/d], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 508, Oct. 27, 1970, [84 Stat. 1273][/us/stat/84/1273]; [Pub. L. 96–132][/us/pl/96/132], § 16(b), Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1869, Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646][/us/pl/99/646], § 86, Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 232(d), July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
 
  __Amendments__ 
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/usc/t5/s3374/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3374%2Fc
-[/us/pl/91/513/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs508
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1273
-[/us/pl/96/132/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs16%2Fb
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1049
-[/us/pl/99/570/s1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1869
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-55
-[/us/pl/99/646/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs86
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3620
-[/us/pl/111/211/s232/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fd
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2278
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570

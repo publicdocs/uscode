@@ -221,7 +221,7 @@
 
         (D) Ethyl ether.
 
-        (E) Repealed. [Pub. L. 101–647, title XXIII, § 2301(b)][/us/pl/101/647/s2301/b], Nov. 29, 1990, [104 Stat. 4858][/us/stat/104/4858].
+        (E) Repealed. [Pub. L. 101–647, title XXIII][/us/pl/101/647/tXXIII], § 2301(b), Nov. 29, 1990, [104 Stat. 4858][/us/stat/104/4858].
 
         (F) Potassium permanganate.
 
@@ -715,7 +715,7 @@
 
         (C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-([Pub. L. 91–513, title II, § 102][/us/pl/91/513/s102], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242]; [Pub. L. 93–281, § 2][/us/pl/93/281/s2], May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I, § 102(b)][/us/pl/95/633/s102/b], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–132, § 16(a)][/us/pl/96/132/s16/a], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 98–473, title II, § 507(a)][/us/pl/98/473/s507/a], (b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071]; [Pub. L. 98–509, title III, § 301(a)][/us/pl/98/509/s301/a], Oct. 19, 1984, [98 Stat. 2364][/us/stat/98/2364]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1003(b), 1203, 1870, Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–13, 3207–56; [Pub. L. 99–646, § 83][/us/pl/99/646/s83], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 100–690, title VI, § 6054][/us/pl/100/690/s6054], Nov. 18, 1988, [102 Stat. 4316][/us/stat/102/4316]; [Pub. L. 101–647, title XIX, § 1902(b)][/us/pl/101/647/s1902/b], title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], 4858, 4932; [Pub. L. 103–200][/us/pl/103/200], §§ 2(a), 7–9(a), Dec. 17, 1993, [107 Stat. 2333][/us/stat/107/2333], 2340; [Pub. L. 103–322, title IX, § 90105(d)][/us/pl/103/322/s90105/d], title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, [108 Stat. 1988][/us/stat/108/1988], 2150; [Pub. L. 104–237, title II][/us/pl/104/237], §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102], 3104, 3106, 3107; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 604(b)(4), 607(j), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506], 3512; [Pub. L. 105–115, title I, § 126(c)(3)][/us/pl/105/115/s126/c/3], Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; [Pub. L. 106–172][/us/pl/106/172], §§ 3(c), 5(a), Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9], 10; [Pub. L. 106–310, div. B, title XXXVI, § 3622(a)][/us/pl/106/310/s3622/a], Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231]; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 108–358, § 2(a)][/us/pl/108/358/s2/a], Oct. 22, 2004, [118 Stat. 1661][/us/stat/118/1661]; [Pub. L. 109–162, title XI, § 1180][/us/pl/109/162/s1180], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], 257, 263; [Pub. L. 110–425, § 3(a)][/us/pl/110/425/s3/a], Oct. 15, 2008, [122 Stat. 4821][/us/stat/122/4821]; [Pub. L. 113–260, § 2(a)][/us/pl/113/260/s2/a], Dec. 18, 2014, [128 Stat. 2929][/us/stat/128/2929].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 102, Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242]; [Pub. L. 93–281][/us/pl/93/281], § 2, May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 102(b), Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–132][/us/pl/96/132], § 16(a), Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 507(a), (b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071]; [Pub. L. 98–509, title III][/us/pl/98/509/tIII], § 301(a), Oct. 19, 1984, [98 Stat. 2364][/us/stat/98/2364]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1003(b), 1203, 1870, Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–13, 3207–56; [Pub. L. 99–646][/us/pl/99/646], § 83, Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6054, Nov. 18, 1988, [102 Stat. 4316][/us/stat/102/4316]; [Pub. L. 101–647, title XIX][/us/pl/101/647/tXIX], § 1902(b), title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], 4858, 4932; [Pub. L. 103–200][/us/pl/103/200], §§ 2(a), 7–9(a), Dec. 17, 1993, [107 Stat. 2333][/us/stat/107/2333], 2340; [Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90105(d), title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, [108 Stat. 1988][/us/stat/108/1988], 2150; [Pub. L. 104–237, title II][/us/pl/104/237/tII], §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102], 3104, 3106, 3107; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], §§ 604(b)(4), 607(j), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506], 3512; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 126(c)(3), Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; [Pub. L. 106–172][/us/pl/106/172], §§ 3(c), 5(a), Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9], 10; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3622(a), Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(c)(1), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 108–358][/us/pl/108/358], § 2(a), Oct. 22, 2004, [118 Stat. 1661][/us/stat/118/1661]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1180, Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], 257, 263; [Pub. L. 110–425][/us/pl/110/425], § 3(a), Oct. 15, 2008, [122 Stat. 4821][/us/stat/122/4821]; [Pub. L. 113–260][/us/pl/113/260], § 2(a), Dec. 18, 2014, [128 Stat. 2929][/us/stat/128/2929].)
 
  __References in Text__ 
 
@@ -733,145 +733,145 @@
 
  __Amendments__ 
 
-    2014—Par. (41)(A)(l) to (lxxv). [Pub. L. 113–260, § 2(a)(1)][/us/pl/113/260/s2/a/1], added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
+    2014—Par. (41)(A)(l) to (lxxv). [Pub. L. 113–260][/us/pl/113/260], § 2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
 
-    Par. (41)(C). [Pub. L. 113–260, § 2(a)(2)][/us/pl/113/260/s2/a/2], added subpar. (C).
+    Par. (41)(C). [Pub. L. 113–260][/us/pl/113/260], § 2(a)(2), added subpar. (C).
 
     2008—Pars. (50) to (56). [Pub. L. 110–425][/us/pl/110/425] added pars. (50) to (56).
 
-    2006—Par. (39)(A)(iv). [Pub. L. 109–177, § 712(a)(1)(A)(i)][/us/pl/109/177/s712/a/1/A/i], amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
+    2006—Par. (39)(A)(iv). [Pub. L. 109–177][/us/pl/109/177], § 712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
 
-    Par. (39)(A)(v), (vi). [Pub. L. 109–177, § 712(a)(1)(A)(ii)][/us/pl/109/177/s712/a/1/A/ii], (iii), added cl. (v) and redesignated former cl. (v) as (vi).
+    Par. (39)(A)(v), (vi). [Pub. L. 109–177][/us/pl/109/177], § 712(a)(1)(A)(ii), (iii), added cl. (v) and redesignated former cl. (v) as (vi).
 
-    Par. (41)(A)(xvii). [Pub. L. 109–162, § 1180(1)][/us/pl/109/162/s1180/1], substituted “13β-ethyl-17β-hydroxygon-4-en-3-one;” for “13β-ethyl-17α-hydroxygon-4-en-3-one;”.
+    Par. (41)(A)(xvii). [Pub. L. 109–162][/us/pl/109/162], § 1180(1), substituted “13β-ethyl-17β-hydroxygon-4-en-3-one;” for “13β-ethyl-17α-hydroxygon-4-en-3-one;”.
 
-    Par. (41)(A)(xliv). [Pub. L. 109–162, § 1180(2)][/us/pl/109/162/s1180/2], substituted “(17α-methyl-17β-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);” for “(17α-methyl-17α-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);”.
+    Par. (41)(A)(xliv). [Pub. L. 109–162][/us/pl/109/162], § 1180(2), substituted “(17α-methyl-17β-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);” for “(17α-methyl-17α-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);”.
 
     Par. (45). [Pub. L. 109–177][/us/pl/109/177], §§ 711(a)(1)(B), 712(a)(1)(B), added par. (45) and struck out former par. (45) which defined “ordinary over-the-counter pseudoephedrine or phenylpropanolamine product”.
 
     Pars. (46) to (48). [Pub. L. 109–177][/us/pl/109/177], §§ 711(a)(1)(B), added pars. (46) to (48). Former par. (46) redesignated (49).
 
-    Par. (49). [Pub. L. 109–177, § 711(a)(1)(A)][/us/pl/109/177/s711/a/1/A], (2)(A), redesignated par. (46) as (49), substituted “ephedrine, pseudoephedrine, or” for “pseudoephedrine or” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.”
+    Par. (49). [Pub. L. 109–177][/us/pl/109/177], § 711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted “ephedrine, pseudoephedrine, or” for “pseudoephedrine or” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.”
 
-    2004—Par. (41). [Pub. L. 108–358, § 2(a)(1)][/us/pl/108/358/s2/a/1], realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
+    2004—Par. (41). [Pub. L. 108–358][/us/pl/108/358], § 2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
 
-    Par. (44). [Pub. L. 108–358, § 2(a)(2)][/us/pl/108/358/s2/a/2], inserted “anabolic steroids,” after “marihuana,”.
+    Par. (44). [Pub. L. 108–358][/us/pl/108/358], § 2(a)(2), inserted “anabolic steroids,” after “marihuana,”.
 
     2002—Pars. (43), (44). [Pub. L. 107–273][/us/pl/107/273] repealed [Pub. L. 104–294][/us/pl/104/294], §§ 604(b)(4), 607(j)(2). See 1996 Amendment note below.
 
-    2000—Par. (32)(A). [Pub. L. 106–172, § 5(a)(1)][/us/pl/106/172/s5/a/1], substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
+    2000—Par. (32)(A). [Pub. L. 106–172][/us/pl/106/172], § 5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
 
-    Par. (32)(B), (C). [Pub. L. 106–172, § 5(a)(2)][/us/pl/106/172/s5/a/2], (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Par. (32)(B), (C). [Pub. L. 106–172][/us/pl/106/172], § 5(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Par. (34)(X), (Y). [Pub. L. 106–172, § 3(c)][/us/pl/106/172/s3/c], added subpar. (X) and redesignated former subpar. (X) as (Y).
+    Par. (34)(X), (Y). [Pub. L. 106–172][/us/pl/106/172], § 3(c), added subpar. (X) and redesignated former subpar. (X) as (Y).
 
     Par. (39)(A)(iv)(II). [Pub. L. 106–310][/us/pl/106/310] substituted “9 grams” for “24 grams” in two places and inserted before semicolon at end “and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base”.
 
     1997—Par. (9)(A). [Pub. L. 105–115][/us/pl/105/115] redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under [section 352(d) of this title][/us/usc/t21/s352/d]; or”.
 
-    1996—Par. (26). [Pub. L. 104–294, § 607(j)(1)][/us/pl/104/294/s607/j/1], amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
+    1996—Par. (26). [Pub. L. 104–294][/us/pl/104/294], § 607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 
-    Par. (34)(P), (S), (U). [Pub. L. 104–237, § 209(1)][/us/pl/104/237/s209/1], substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
+    Par. (34)(P), (S), (U). [Pub. L. 104–237][/us/pl/104/237], § 209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
 
-    Par. (35)(G). [Pub. L. 104–237, § 209(2)][/us/pl/104/237/s209/2], amended subpar. (G) generally, inserting “(or Methyl Ethyl Ketone)” before period at end.
+    Par. (35)(G). [Pub. L. 104–237][/us/pl/104/237], § 209(2), amended subpar. (G) generally, inserting “(or Methyl Ethyl Ketone)” before period at end.
 
-    Par. (35)(I), (J). [Pub. L. 104–237, § 204(a)][/us/pl/104/237/s204/a], added subpars. (I) and (J).
+    Par. (35)(I), (J). [Pub. L. 104–237][/us/pl/104/237], § 204(a), added subpars. (I) and (J).
 
-    Par. (39)(A)(iv)(I)(aa). [Pub. L. 104–237, § 401(a)(1)][/us/pl/104/237/s401/a/1], (b)(1), substituted “, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to [section 814(e) of this title][/us/usc/t21/s814/e], except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);” for “as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;”.
+    Par. (39)(A)(iv)(I)(aa). [Pub. L. 104–237][/us/pl/104/237], § 401(a)(1), (b)(1), substituted “, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to [section 814(e) of this title][/us/usc/t21/s814/e], except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);” for “as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;”.
 
-    Par. (39)(A)(iv)(II). [Pub. L. 104–237, § 401(a)(2)][/us/pl/104/237/s401/a/2], (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by [section 830(b)(3) of this title][/us/usc/t21/s830/b/3] shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
+    Par. (39)(A)(iv)(II). [Pub. L. 104–237][/us/pl/104/237], § 401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by [section 830(b)(3) of this title][/us/usc/t21/s830/b/3] shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
 
-    Pars. (43), (44). [Pub. L. 104–294][/us/pl/104/294], §§ 604(b)(4), 607(j)(2), which provided for amendment to section identical to [Pub. L. 104–237, § 401(b)(3)][/us/pl/104/237/s401/b/3], below, were repealed by [Pub. L. 107–273, § 4002(c)(1)][/us/pl/107/273/s4002/c/1].
+    Pars. (43), (44). [Pub. L. 104–294][/us/pl/104/294], §§ 604(b)(4), 607(j)(2), which provided for amendment to section identical to [Pub. L. 104–237][/us/pl/104/237], § 401(b)(3), below, were repealed by [Pub. L. 107–273][/us/pl/107/273], § 4002(c)(1).
 
-    [Pub. L. 104–237, § 401(b)(3)][/us/pl/104/237/s401/b/3], redesignated par. (43), relating to felony drug offense, as (44).
+    [Pub. L. 104–237][/us/pl/104/237], § 401(b)(3), redesignated par. (43), relating to felony drug offense, as (44).
 
-    Pars. (45), (46). [Pub. L. 104–237, § 401(b)(4)][/us/pl/104/237/s401/b/4], added pars. (45) and (46).
+    Pars. (45), (46). [Pub. L. 104–237][/us/pl/104/237], § 401(b)(4), added pars. (45) and (46).
 
-    1994—Par. (34)(V), (W). [Pub. L. 103–322, § 330024(b)][/us/pl/103/322/s330024/b], realigned margins and capitalized first letter.
+    1994—Par. (34)(V), (W). [Pub. L. 103–322][/us/pl/103/322], § 330024(b), realigned margins and capitalized first letter.
 
-    Par. (35). [Pub. L. 103–322, § 330024(d)(1)][/us/pl/103/322/s330024/d/1], made technical correction to directory language of [Pub. L. 103–200, § 2(a)(4)(B)][/us/pl/103/200/s2/a/4/B]. See 1993 Amendment note below.
+    Par. (35). [Pub. L. 103–322][/us/pl/103/322], § 330024(d)(1), made technical correction to directory language of [Pub. L. 103–200][/us/pl/103/200], § 2(a)(4)(B). See 1993 Amendment note below.
 
-    Par. (39)(A)(iv)(II). [Pub. L. 103–322, § 330024(a)][/us/pl/103/322/s330024/a], substituted “; or” for period at end.
+    Par. (39)(A)(iv)(II). [Pub. L. 103–322][/us/pl/103/322], § 330024(a), substituted “; or” for period at end.
 
-    Par. (43). [Pub. L. 103–322, § 90105(d)][/us/pl/103/322/s90105/d], added par. (43) defining “felony drug offense”.
+    Par. (43). [Pub. L. 103–322][/us/pl/103/322], § 90105(d), added par. (43) defining “felony drug offense”.
 
-    1993—Par. (33). [Pub. L. 103–200, § 2(a)(1)][/us/pl/103/200/s2/a/1], substituted “any list I chemical or any list II chemical” for “any listed precursor chemical or listed essential chemical”.
+    1993—Par. (33). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(1), substituted “any list I chemical or any list II chemical” for “any listed precursor chemical or listed essential chemical”.
 
-    Par. (34). [Pub. L. 103–200, § 2(a)(2)][/us/pl/103/200/s2/a/2], substituted “list I chemical” for “listed precursor chemical” and “important to the manufacture” for “critical to the creation” in introductory provisions.
+    Par. (34). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(2), substituted “list I chemical” for “listed precursor chemical” and “important to the manufacture” for “critical to the creation” in introductory provisions.
 
-    Par. (34)(A), (F), (H). [Pub. L. 103–200, § 2(a)(3)][/us/pl/103/200/s2/a/3], inserted “, its esters,” before “and”.
+    Par. (34)(A), (F), (H). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(3), inserted “, its esters,” before “and”.
 
-    Par. (34)(O). [Pub. L. 103–200, § 8(1)][/us/pl/103/200/s8/1], (2), redesignated subpar. (P) as (O) and struck out former subpar. (O) which read as follows: “D-lysergic acid.”
+    Par. (34)(O). [Pub. L. 103–200][/us/pl/103/200], § 8(1), (2), redesignated subpar. (P) as (O) and struck out former subpar. (O) which read as follows: “D-lysergic acid.”
 
-    Par. (34)(P) to (S). [Pub. L. 103–200, § 8(2)][/us/pl/103/200/s8/2], redesignated subpars. (Q) to (T) as (P) to (S), respectively. Former subpar. (P) redesignated (O).
+    Par. (34)(P) to (S). [Pub. L. 103–200][/us/pl/103/200], § 8(2), redesignated subpars. (Q) to (T) as (P) to (S), respectively. Former subpar. (P) redesignated (O).
 
-    Par. (34)(T). [Pub. L. 103–200, § 8(2)][/us/pl/103/200/s8/2], redesignated subpar. (V) as (T). Former subpar. (T) redesignated (S).
+    Par. (34)(T). [Pub. L. 103–200][/us/pl/103/200], § 8(2), redesignated subpar. (V) as (T). Former subpar. (T) redesignated (S).
 
-    Par. (34)(U). [Pub. L. 103–200, § 8(1)][/us/pl/103/200/s8/1], (2), redesignated subpar. (X) as (U) and struck out former subpar. (U) which read as follows: “N-ethylephedrine.”
+    Par. (34)(U). [Pub. L. 103–200][/us/pl/103/200], § 8(1), (2), redesignated subpar. (X) as (U) and struck out former subpar. (U) which read as follows: “N-ethylephedrine.”
 
-    Par. (34)(V). [Pub. L. 103–200, § 8(2)][/us/pl/103/200/s8/2], (4), added subpar. (V) and redesignated former subpar. (V) as (T).
+    Par. (34)(V). [Pub. L. 103–200][/us/pl/103/200], § 8(2), (4), added subpar. (V) and redesignated former subpar. (V) as (T).
 
-    Par. (34)(W). [Pub. L. 103–200, § 8(1)][/us/pl/103/200/s8/1], (4), added subpar. (W) and struck out former subpar. (W) which read as follows: “N-ethylpseudoephedrine.”
+    Par. (34)(W). [Pub. L. 103–200][/us/pl/103/200], § 8(1), (4), added subpar. (W) and struck out former subpar. (W) which read as follows: “N-ethylpseudoephedrine.”
 
-    Par. (34)(X). [Pub. L. 103–200, § 8(2)][/us/pl/103/200/s8/2], (3), redesignated subpar. (Y) as (X) and substituted “through (U)” for “through (X)”.
+    Par. (34)(X). [Pub. L. 103–200][/us/pl/103/200], § 8(2), (3), redesignated subpar. (Y) as (X) and substituted “through (U)” for “through (X)”.
 
-    Par. (34)(Y). [Pub. L. 103–200, § 8(2)][/us/pl/103/200/s8/2], redesignated subpar. (Y) as (X).
+    Par. (34)(Y). [Pub. L. 103–200][/us/pl/103/200], § 8(2), redesignated subpar. (Y) as (X).
 
-    Par. (35). [Pub. L. 103–200, § 2(a)(4)(A)][/us/pl/103/200/s2/a/4/A], (C), substituted “list II chemical” for “listed essential chemical” and struck out “as a solvent, reagent, or catalyst” before “in manufacturing”.
+    Par. (35). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(4)(A), (C), substituted “list II chemical” for “listed essential chemical” and struck out “as a solvent, reagent, or catalyst” before “in manufacturing”.
 
-    [Pub. L. 103–200, § 2(a)(4)(B)][/us/pl/103/200/s2/a/4/B], as amended by [Pub. L. 103–322, § 330024(d)(1)][/us/pl/103/322/s330024/d/1], inserted “(other than a list I chemical)” before “specified” the first time appearing.
+    [Pub. L. 103–200][/us/pl/103/200], § 2(a)(4)(B), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330024(d)(1), inserted “(other than a list I chemical)” before “specified” the first time appearing.
 
-    Par. (37). [Pub. L. 103–200, § 9(a)][/us/pl/103/200/s9/a], amended par. (37) generally. Prior to amendment, par. (37) read as follows: “The term ‘regular supplier’ means, with respect to a regulated person, a supplier with whom the regulated person has an established business relationship that is reported to the Attorney General.”
+    Par. (37). [Pub. L. 103–200][/us/pl/103/200], § 9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: “The term ‘regular supplier’ means, with respect to a regulated person, a supplier with whom the regulated person has an established business relationship that is reported to the Attorney General.”
 
-    Par. (38). [Pub. L. 103–200, § 2(a)(5)][/us/pl/103/200/s2/a/5], inserted before period at end “or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine”.
+    Par. (38). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(5), inserted before period at end “or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine”.
 
     Par. (39)(A). [Pub. L. 103–200][/us/pl/103/200], §§ 2(a)(6)(A), 7, in introductory provisions, substituted “importation, or exportation of, or an international transaction involving shipment of,” for “importation or exportation of” and inserted “a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical,” before “a threshold amount,”.
 
-    Par. (39)(A)(iii). [Pub. L. 103–200, § 2(a)(6)(B)][/us/pl/103/200/s2/a/6/B], inserted “or any category of transaction for a specific listed chemical or chemicals” after “transaction”.
+    Par. (39)(A)(iii). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(6)(B), inserted “or any category of transaction for a specific listed chemical or chemicals” after “transaction”.
 
-    Par. (39)(A)(iv). [Pub. L. 103–200, § 2(a)(6)(C)][/us/pl/103/200/s2/a/6/C], amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
+    Par. (39)(A)(iv). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
 
-    Par. (39)(A)(v). [Pub. L. 103–200, § 2(a)(6)(D)][/us/pl/103/200/s2/a/6/D], inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
+    Par. (39)(A)(v). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
 
-    Par. (40). [Pub. L. 103–200, § 2(a)(7)][/us/pl/103/200/s2/a/7], substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
+    Par. (40). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
 
-    Pars. (42), (43). [Pub. L. 103–200, § 2(a)(8)][/us/pl/103/200/s2/a/8], added pars. (42) and (43).
+    Pars. (42), (43). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(8), added pars. (42) and (43).
 
-    1990—Par. (32)(A). [Pub. L. 101–647, § 3599I][/us/pl/101/647/s3599I], substituted “the stimulant” for “the stimulent” in cl. (ii) and “a stimulant” for “a stimulent” in cl. (iii).
+    1990—Par. (32)(A). [Pub. L. 101–647][/us/pl/101/647], § 3599I, substituted “the stimulant” for “the stimulent” in cl. (ii) and “a stimulant” for “a stimulent” in cl. (iii).
 
-    Par. (34)(M) to (Y). [Pub. L. 101–647, § 2301(a)][/us/pl/101/647/s2301/a], added subpars. (M) to (Y).
+    Par. (34)(M) to (Y). [Pub. L. 101–647][/us/pl/101/647], § 2301(a), added subpars. (M) to (Y).
 
-    Par. (35)(E). [Pub. L. 101–647, § 2301(b)][/us/pl/101/647/s2301/b], struck out subpar. (E) “Hydriodic acid.”
+    Par. (35)(E). [Pub. L. 101–647][/us/pl/101/647], § 2301(b), struck out subpar. (E) “Hydriodic acid.”
 
-    Par. (41). [Pub. L. 101–647, § 1902(b)][/us/pl/101/647/s1902/b], added par. (41).
+    Par. (41). [Pub. L. 101–647][/us/pl/101/647], § 1902(b), added par. (41).
 
-    1988—Par. (8). [Pub. L. 100–690, § 6054(1)][/us/pl/100/690/s6054/1], inserted “or a listed chemical” after “a controlled substance”.
+    1988—Par. (8). [Pub. L. 100–690][/us/pl/100/690], § 6054(1), inserted “or a listed chemical” after “a controlled substance”.
 
-    Par. (11). [Pub. L. 100–690, § 6054(2)][/us/pl/100/690/s6054/2], inserted “or a listed chemical” after “a controlled substance” in two places.
+    Par. (11). [Pub. L. 100–690][/us/pl/100/690], § 6054(2), inserted “or a listed chemical” after “a controlled substance” in two places.
 
-    Pars. (33) to (40). [Pub. L. 100–690, § 6054(3)][/us/pl/100/690/s6054/3], added pars. (33) to (40).
+    Pars. (33) to (40). [Pub. L. 100–690][/us/pl/100/690], § 6054(3), added pars. (33) to (40).
 
     1986—Par. (6). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Par. (14). [Pub. L. 99–570, § 1870][/us/pl/99/570/s1870], and [Pub. L. 99–646][/us/pl/99/646] amended par. (14) identically, substituting “any optical” for “the optical” in second and third sentences.
+    Par. (14). [Pub. L. 99–570][/us/pl/99/570], § 1870, and [Pub. L. 99–646][/us/pl/99/646] amended par. (14) identically, substituting “any optical” for “the optical” in second and third sentences.
 
-    Par. (25). [Pub. L. 99–570, § 1003(b)(1)][/us/pl/99/570/s1003/b/1], added par. (25). Former par. (25) redesignated (26).
+    Par. (25). [Pub. L. 99–570][/us/pl/99/570], § 1003(b)(1), added par. (25). Former par. (25) redesignated (26).
 
-    Pars. (26) to (31). [Pub. L. 99–570, § 1003(b)(2)][/us/pl/99/570/s1003/b/2], redesignated pars. (25) to (30) as (26) to (31), respectively.
+    Pars. (26) to (31). [Pub. L. 99–570][/us/pl/99/570], § 1003(b)(2), redesignated pars. (25) to (30) as (26) to (31), respectively.
 
-    Par. (32). [Pub. L. 99–570, § 1203][/us/pl/99/570/s1203], added par. (32).
+    Par. (32). [Pub. L. 99–570][/us/pl/99/570], § 1203, added par. (32).
 
-    1984—Pars. (14) to (16). [Pub. L. 98–473, § 507(a)][/us/pl/98/473/s507/a], added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
+    1984—Pars. (14) to (16). [Pub. L. 98–473][/us/pl/98/473], § 507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
 
-    Par. (17). [Pub. L. 98–473, § 507][/us/pl/98/473/s507], redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
+    Par. (17). [Pub. L. 98–473][/us/pl/98/473], § 507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
 
-    Pars. (18) to (28). [Pub. L. 98–473, § 507(a)][/us/pl/98/473/s507/a], redesignated former pars. (17) to (27) as (18) to (28), respectively.
+    Pars. (18) to (28). [Pub. L. 98–473][/us/pl/98/473], § 507(a), redesignated former pars. (17) to (27) as (18) to (28), respectively.
 
     Par. (29). [Pub. L. 98–509][/us/pl/98/509] which directed the substitution of “one hundred and eighty” for “twenty-one” in par. (28), was executed to par. (29) in view of the redesignation of par. (28) as par. (29) by [Pub. L. 98–473][/us/pl/98/473].
 
-    [Pub. L. 98–473, § 507(a)][/us/pl/98/473/s507/a], redesignated former par. (28) as (29). Former par. (29) redesignated (30).
+    [Pub. L. 98–473][/us/pl/98/473], § 507(a), redesignated former par. (28) as (29). Former par. (29) redesignated (30).
 
-    Par. (30). [Pub. L. 98–473, § 507(a)][/us/pl/98/473/s507/a], redesignated former par. (29) as (30).
+    Par. (30). [Pub. L. 98–473][/us/pl/98/473], § 507(a), redesignated former par. (29) as (30).
 
     1979—Par. (4). [Pub. L. 96–132][/us/pl/96/132] substituted provisions defining “Drug Enforcement Administration” for provisions defining “Bureau of Narcotics and Dangerous Drugs”.
 
@@ -885,7 +885,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–425, § 3(j)][/us/pl/110/425/s3/j], Oct. 15, 2008, [122 Stat. 4832][/us/stat/122/4832], provided that:
+[Pub. L. 110–425][/us/pl/110/425], § 3(j), Oct. 15, 2008, [122 Stat. 4832][/us/stat/122/4832], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -911,17 +911,17 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–358, § 2(d)][/us/pl/108/358/s2/d], Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664], provided that: 
+[Pub. L. 108–358][/us/pl/108/358], § 2(d), Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 811 of this title][/us/usc/t21/s811], and provisions set out as a note under this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(c)(1), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3622(b)][/us/pl/106/310/s3622/b], Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231], provided that: 
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3622(b), Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
 
@@ -933,31 +933,31 @@
 
     Amendment by [section 604(b)(4) of Pub. L. 104–294][/us/pl/104/294/s604/b/4] effective Sept. 13, 1994, see [section 604(d) of Pub. L. 104–294][/us/pl/104/294/s604/d], set out as a note under [section 13 of Title 18][/us/usc/t18/s13], Crimes and Criminal Procedure.
 
-[Pub. L. 104–237, title IV, § 401(g)][/us/pl/104/237/s401/g], Oct. 3, 1996, [110 Stat. 3110][/us/stat/110/3110], provided that: 
+[Pub. L. 104–237, title IV][/us/pl/104/237/tIV], § 401(g), Oct. 3, 1996, [110 Stat. 3110][/us/stat/110/3110], provided that: 
 
 > “Notwithstanding any other provision of this Act \[see [section 1(a) of Pub. L. 104–237][/us/pl/104/237/s1/a], set out as a Short Title of 1996 Amendments note under [section 801 of this title][/us/usc/t21/s801]\], this section \[amending this section and [section 814 of this title][/us/usc/t21/s814] and enacting provisions set out as a note below\] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act \[Oct. 3, 1996\], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review.”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–322, title XXXIII, § 330024(f)][/us/pl/103/322/s330024/f], Sept. 13, 1994, [108 Stat. 2151][/us/stat/108/2151], provided that: 
+[Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330024(f), Sept. 13, 1994, [108 Stat. 2151][/us/stat/108/2151], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–200, § 11][/us/pl/103/200/s11], Dec. 17, 1993, [107 Stat. 2341][/us/stat/107/2341], provided that: 
+[Pub. L. 103–200][/us/pl/103/200], § 11, Dec. 17, 1993, [107 Stat. 2341][/us/stat/107/2341], provided that: 
 
 > “This Act \[enacting [section 814 of this title][/us/usc/t21/s814], amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under [section 801 of this title][/us/usc/t21/s801]\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–647, title XIX, § 1902(d)][/us/pl/101/647/s1902/d], Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], provided that: 
+[Pub. L. 101–647, title XIX][/us/pl/101/647/tXIX], § 1902(d), Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], provided that: 
 
 > “This section \[amending this section and [section 812 of this title][/us/usc/t21/s812] and enacting provisions set out as a note under [section 829 of this title][/us/usc/t21/s829]\] and the amendment made by this section shall take effect 90 days after the date of enactment of this Act \[Nov. 29, 1990\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–690, title VI, § 6061][/us/pl/100/690/s6061], Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320], provided that: 
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6061, Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320], provided that: 
 
 > “Except as otherwise provided in this subtitle, this subtitle \[subtitle A (§§ 6051–6061) of title VI of [Pub. L. 100–690][/us/pl/100/690], enacting [section 971 of this title][/us/usc/t21/s971], amending this section and sections 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under this section and [section 971 of this title][/us/usc/t21/s971]\] shall take effect 120 days after the enactment of this Act \[Nov. 18, 1988\].”
 
@@ -967,29 +967,29 @@
 
  __Regulations__ 
 
-[Pub. L. 110–425, § 3(k)(1)][/us/pl/110/425/s3/k/1], Oct. 15, 2008, [122 Stat. 4833][/us/stat/122/4833], provided that: 
+[Pub. L. 110–425][/us/pl/110/425], § 3(k)(1), Oct. 15, 2008, [122 Stat. 4833][/us/stat/122/4833], provided that: 
 
 > “The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under [section 801 of this title][/us/usc/t21/s801]\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\].”
 
-[Pub. L. 98–509, title III, § 301(b)][/us/pl/98/509/s301/b], Oct. 19, 1984, [98 Stat. 2364][/us/stat/98/2364], provided that: 
+[Pub. L. 98–509, title III][/us/pl/98/509/tIII], § 301(b), Oct. 19, 1984, [98 Stat. 2364][/us/stat/98/2364], provided that: 
 
 > “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[[21 U.S.C. 802(29)][/us/usc/t21/s802/29]\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former [42 U.S.C. 290aa–2(b)][/us/usc/t42/s290aa–2/b]\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
 
  __Construction of 2008 Amendment__ 
 
-[Pub. L. 110–425, § 4][/us/pl/110/425/s4], Oct. 15, 2008, [122 Stat. 4834][/us/stat/122/4834], provided that: 
+[Pub. L. 110–425][/us/pl/110/425], § 4, Oct. 15, 2008, [122 Stat. 4834][/us/stat/122/4834], provided that: 
 
 > “Nothing in this Act \[see Short Title of 2008 Amendment note set out under [section 801 of this title][/us/usc/t21/s801]\] or the amendments made by this Act shall be construed as authorizing, prohibiting, or limiting the use of electronic prescriptions for controlled substances.”
 
  __Preservation of State Authority To Regulate Scheduled Listed Chemicals__ 
 
-[Pub. L. 109–177, title VII, § 711(g)][/us/pl/109/177/s711/g], Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263], provided that: 
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 711(g), Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263], provided that: 
 
 > “This section \[amending this section and sections 830, 841, 842, and 844 of this title and enacting provisions set out as notes under sections 830 and 844 of this title\] and the amendments made by this section may not be construed as having any legal effect on section 708 of the Controlled Substances Act \[[21 U.S.C. 903][/us/usc/t21/s903]\] as applied to the regulation of scheduled listed chemicals (as defined in section 102(45) of such Act \[[21 U.S.C. 802(45)][/us/usc/t21/s802/45]\]).”
 
  __Report on Diversion of Ordinary, Over-the-Counter Pseudoephedrine and Phenylpropanolamine Products__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3642][/us/pl/106/310/s3642], Oct. 17, 2000, [114 Stat. 1237][/us/stat/114/1237], provided that:
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3642, Oct. 17, 2000, [114 Stat. 1237][/us/stat/114/1237], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -1033,11 +1033,11 @@
 
  __Regulation of Retail Sales of Certain Precursor Chemicals; Effect on Thresholds; Combination Ephedrine Products__ 
 
-    [Pub. L. 104–237, title IV, § 401(d)][/us/pl/104/237/s401/d]–(f), Oct. 3, 1996, [110 Stat. 3108][/us/stat/110/3108], which authorized the Attorney General to establish a single-transaction limit of 24 grams for pseudoephedrine, phenylpropanolamine, and combination ephedrine products for retail distributors, was repealed by [Pub. L. 109–177, title VII, § 712(b)][/us/pl/109/177/s712/b], Mar. 9, 2006, [120 Stat. 264][/us/stat/120/264].
+    [Pub. L. 104–237, title IV][/us/pl/104/237/tIV], § 401(d)–(f), Oct. 3, 1996, [110 Stat. 3108][/us/stat/110/3108], which authorized the Attorney General to establish a single-transaction limit of 24 grams for pseudoephedrine, phenylpropanolamine, and combination ephedrine products for retail distributors, was repealed by [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 712(b), Mar. 9, 2006, [120 Stat. 264][/us/stat/120/264].
 
  __Exemption for Substances in Paragraph (41)__ 
 
-[Pub. L. 101–647, title XIX, § 1903][/us/pl/101/647/s1903], Nov. 29, 1990, [104 Stat. 4853][/us/stat/104/4853], as amended by [Pub. L. 108–358, § 2(c)][/us/pl/108/358/s2/c], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663], provided that:
+[Pub. L. 101–647, title XIX][/us/pl/101/647/tXIX], § 1903, Nov. 29, 1990, [104 Stat. 4853][/us/stat/104/4853], as amended by [Pub. L. 108–358][/us/pl/108/358], § 2(c), Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663], provided that:
 
 >     “(a)  __Drugs for Treatment of Rare Diseases__  __.—__ 
 
@@ -1060,7 +1060,7 @@
 
 [/us/usc/t21/s321/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fg%2F1
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
-[/us/pl/101/647/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2301%2Fb
+[/us/pl/101/647/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIII
 [/us/stat/104/4858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4858
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
@@ -1097,55 +1097,55 @@
 [/us/usc/t21/s823/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823%2Ff
 [/us/usc/t21/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs829
 [/us/usc/t21/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs829
-[/us/pl/91/513/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs102
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
-[/us/pl/93/281/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281%2Fs2
+[/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
 [/us/stat/88/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F124
-[/us/pl/95/633/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs102%2Fb
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3772
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/132/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs16%2Fa
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1049
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2071
-[/us/pl/98/509/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs301%2Fa
+[/us/pl/98/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtIII
 [/us/stat/98/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2364
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-6
-[/us/pl/99/646/s83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs83
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3619
-[/us/pl/100/690/s6054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6054
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4316
-[/us/pl/101/647/s1902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1902%2Fb
+[/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4852
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2333
-[/us/pl/103/322/s90105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90105%2Fd
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1988
-[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3102
-[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3506
-[/us/pl/105/115/s126/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs126%2Fc%2F3
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2328
 [/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/stat/114/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F9
-[/us/pl/106/310/s3622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3622%2Fa
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1231
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/108/358/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fa
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1661
-[/us/pl/109/162/s1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1180
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F256
-[/us/pl/110/425/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fa
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4821
-[/us/pl/113/260/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fa
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/stat/128/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2929
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
@@ -1162,92 +1162,92 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/113/260/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fa%2F1
-[/us/pl/113/260/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fa%2F2
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
-[/us/pl/109/177/s712/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fa%2F1%2FA%2Fi
-[/us/pl/109/177/s712/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fa%2F1%2FA%2Fii
-[/us/pl/109/162/s1180/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1180%2F1
-[/us/pl/109/162/s1180/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1180%2F2
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/109/177/s711/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fa%2F1%2FA
-[/us/pl/108/358/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fa%2F1
-[/us/pl/108/358/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fa%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/106/172/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs5%2Fa%2F1
-[/us/pl/106/172/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs5%2Fa%2F2
-[/us/pl/106/172/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs3%2Fc
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s352/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs352%2Fd
-[/us/pl/104/294/s607/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fj%2F1
-[/us/pl/104/237/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs209%2F1
-[/us/pl/104/237/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs209%2F2
-[/us/pl/104/237/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs204%2Fa
-[/us/pl/104/237/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fa%2F1
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/usc/t21/s814/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs814%2Fe
-[/us/pl/104/237/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fa%2F2
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/usc/t21/s830/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fb%2F3
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/104/237/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fb%2F3
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
-[/us/pl/104/237/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fb%2F3
-[/us/pl/104/237/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fb%2F4
-[/us/pl/103/322/s330024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fb
-[/us/pl/103/322/s330024/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fd%2F1
-[/us/pl/103/200/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F4%2FB
-[/us/pl/103/322/s330024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fa
-[/us/pl/103/322/s90105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90105%2Fd
-[/us/pl/103/200/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F1
-[/us/pl/103/200/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F2
-[/us/pl/103/200/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F3
-[/us/pl/103/200/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F1
-[/us/pl/103/200/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F2
-[/us/pl/103/200/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F2
-[/us/pl/103/200/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F1
-[/us/pl/103/200/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F2
-[/us/pl/103/200/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F1
-[/us/pl/103/200/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F2
-[/us/pl/103/200/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs8%2F2
-[/us/pl/103/200/s2/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F4%2FA
-[/us/pl/103/200/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F4%2FB
-[/us/pl/103/322/s330024/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fd%2F1
-[/us/pl/103/200/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs9%2Fa
-[/us/pl/103/200/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F5
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
-[/us/pl/103/200/s2/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F6%2FB
-[/us/pl/103/200/s2/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F6%2FC
-[/us/pl/103/200/s2/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F6%2FD
-[/us/pl/103/200/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F7
-[/us/pl/103/200/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fa%2F8
-[/us/pl/101/647/s3599I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599I
-[/us/pl/101/647/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2301%2Fa
-[/us/pl/101/647/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2301%2Fb
-[/us/pl/101/647/s1902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1902%2Fb
-[/us/pl/100/690/s6054/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6054%2F1
-[/us/pl/100/690/s6054/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6054%2F2
-[/us/pl/100/690/s6054/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6054%2F3
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/570/s1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1870
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/99/570/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fb%2F1
-[/us/pl/99/570/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fb%2F2
-[/us/pl/99/570/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1203
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
-[/us/pl/98/473/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/110/425/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fj
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4832
 [/us/usc/t21/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs831
 [/us/usc/t21/s831/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs831%2Fh
@@ -1255,12 +1255,12 @@
 [/us/usc/t21/s802/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F54
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t42/s1395m/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fm
-[/us/pl/108/358/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fd
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1664
 [/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/106/310/s3622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3622%2Fb
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1231
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
@@ -1268,22 +1268,22 @@
 [/us/pl/104/294/s604/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F4
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/104/237/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fg
+[/us/pl/104/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtIV
 [/us/stat/110/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3110
 [/us/pl/104/237/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs1%2Fa
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs814
-[/us/pl/103/322/s330024/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Ff
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2151
-[/us/pl/103/200/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs11
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2341
 [/us/usc/t21/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs814
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/101/647/s1902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1902%2Fd
+[/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4852
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
 [/us/usc/t21/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs829
-[/us/pl/100/690/s6061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6061
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4320
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs971
@@ -1291,31 +1291,31 @@
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs112
 [/us/usc/t21/s801a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801a
-[/us/pl/110/425/s3/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fk%2F1
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4833
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/98/509/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs301%2Fb
+[/us/pl/98/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtIII
 [/us/stat/98/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2364
 [/us/usc/t21/s802/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F29
 [/us/usc/t42/s290aa–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%932%2Fb
-[/us/pl/110/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs4
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4834
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/109/177/s711/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fg
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F263
 [/us/usc/t21/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs903
 [/us/usc/t21/s802/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F45
-[/us/pl/106/310/s3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3642
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1237
 [/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/104/237/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fd
+[/us/pl/104/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtIV
 [/us/stat/110/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3108
-[/us/pl/109/177/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fb
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F264
-[/us/pl/101/647/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1903
+[/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4853
-[/us/pl/108/358/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fc
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1663
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
 

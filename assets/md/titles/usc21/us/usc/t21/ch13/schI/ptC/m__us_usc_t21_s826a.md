@@ -23,7 +23,7 @@
 
     (3) identifies drugs containing a controlled substance subject to [section 826 of this title][/us/usc/t21/s826] when such a drug is determined by the Secretary to be in shortage.
 
-([Pub. L. 112–144, title X, § 1006][/us/pl/112/144/s1006], July 9, 2012, [126 Stat. 1105][/us/stat/126/1105].)
+([Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1006, July 9, 2012, [126 Stat. 1105][/us/stat/126/1105].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t21/s826/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826%2Fh
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826
-[/us/pl/112/144/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1006
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1105
 [/us/pl/112/144/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1005
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826

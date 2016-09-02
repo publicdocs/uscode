@@ -269,11 +269,11 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([June 25, 1938, ch. 675, § 804][/us/act/1938-06-25/ch675/s804], as added [Pub. L. 108–173, title XI, § 1121(a)][/us/pl/108/173/s1121/a], Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 804, as added [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1121(a), Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464].)
 
  __Prior Provisions__ 
 
-    A prior section 384, [act June 25, 1938, ch. 675, § 804][/us/act/1938-06-25/ch675/s804], as added [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(c)(2)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–36, related to importation of covered products, prior to repeal by [Pub. L. 108–173, title XI, § 1121(a)][/us/pl/108/173/s1121/a], Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464].
+    A prior section 384, [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 804, as added [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 745(c)(2)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–36, related to importation of covered products, prior to repeal by [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1121(a), Dec. 8, 2003, [117 Stat. 2464][/us/stat/117/2464].
 
  __Transfer of Functions__ 
 
@@ -281,7 +281,7 @@
 
  __Study and Report on Importation of Drugs__ 
 
-    [Pub. L. 108–173, title XI, § 1122][/us/pl/108/173/s1122], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469], directed the Secretary of Health and Human Services to conduct a study on the importation of drugs into the United States pursuant to this section and to submit to Congress, not later than 12 months after Dec. 8, 2003, a report providing the findings of such study.
+    [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1122, Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469], directed the Secretary of Health and Human Services to conduct a study on the importation of drugs into the United States pursuant to this section and to submit to Congress, not later than 12 months after Dec. 8, 2003, a report providing the findings of such study.
 
 ----------
 
@@ -300,16 +300,16 @@
 [/us/usc/t21/s381/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fd%2F1
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
 [/us/usc/t21/s381/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fd%2F1
-[/us/act/1938-06-25/ch675/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs804
-[/us/pl/108/173/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1121%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2464
-[/us/act/1938-06-25/ch675/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs804
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/108/173/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1121%2Fa
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2464
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/173/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1122
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2469
 
 

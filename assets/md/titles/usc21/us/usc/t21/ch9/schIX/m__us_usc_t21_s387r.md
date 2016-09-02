@@ -41,7 +41,7 @@
 
             The report under paragraph (1) shall include the recommendations of the Secretary on how the Food and Drug Administration should coordinate and facilitate the exchange of information on such innovative products and treatments among relevant offices and centers within the Administration and within the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant agencies.
 
-([June 25, 1938, ch. 675, § 918][/us/act/1938-06-25/ch675/s918], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1825][/us/stat/123/1825].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 918, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1825][/us/stat/123/1825].)
 
  __Modification of Deadlines for Secretarial Action__ 
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t21/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356
-[/us/act/1938-06-25/ch675/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs918
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1825
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s387s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387s

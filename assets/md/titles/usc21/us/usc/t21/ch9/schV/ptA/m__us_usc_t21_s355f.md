@@ -121,11 +121,11 @@
 
         (2) qualifying pathogens listed by the Secretary under subsection (f).
 
-([June 25, 1938, ch. 675, § 505E][/us/act/1938-06-25/ch675/s505E], as added [Pub. L. 112–144, title VIII, § 801(a)][/us/pl/112/144/s801/a], July 9, 2012, [126 Stat. 1077][/us/stat/126/1077].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 505E, as added [Pub. L. 112–144, title VIII][/us/pl/112/144/tVIII], § 801(a), July 9, 2012, [126 Stat. 1077][/us/stat/126/1077].)
 
  __Effective Date__ 
 
-[Pub. L. 112–144, title VIII, § 801(b)][/us/pl/112/144/s801/b], July 9, 2012, [126 Stat. 1079][/us/stat/126/1079], provided that: 
+[Pub. L. 112–144, title VIII][/us/pl/112/144/tVIII], § 801(b), July 9, 2012, [126 Stat. 1079][/us/stat/126/1079], provided that: 
 
 > “Section 505E of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355f][/us/usc/t21/s355f]\], as added by subsection (a), applies only with respect to a drug that is first approved under section 505(c) of such Act ([21 U.S.C. 355(c)][/us/usc/t21/s355/c]) on or after the date of the enactment of this Act \[July 9, 2012\].”
 
@@ -144,10 +144,10 @@
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
-[/us/act/1938-06-25/ch675/s505E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505E
-[/us/pl/112/144/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs801%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVIII
 [/us/stat/126/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1077
-[/us/pl/112/144/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs801%2Fb
+[/us/pl/112/144/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVIII
 [/us/stat/126/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1079
 [/us/usc/t21/s355f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355f
 [/us/usc/t21/s355/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fc

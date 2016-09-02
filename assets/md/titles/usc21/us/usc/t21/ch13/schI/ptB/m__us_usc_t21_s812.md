@@ -485,7 +485,7 @@ Schedule III
 
 Schedule IV
 
-([Pub. L. 91–513, title II, § 202][/us/pl/91/513/s202], Oct. 27, 1970, [84 Stat. 1247][/us/stat/84/1247]; [Pub. L. 95–633, title I, § 103][/us/pl/95/633/s103], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 507(c), 509(b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 99–570, title I, § 1867][/us/pl/99/570/s1867], Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646, § 84][/us/pl/99/646/s84], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 101–647, title XIX, § 1902(a)][/us/pl/101/647/s1902/a], Nov. 29, 1990, [104 Stat. 4851][/us/stat/104/4851]; [Pub. L. 112–144, title XI, § 1152][/us/pl/112/144/s1152], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 202, Oct. 27, 1970, [84 Stat. 1247][/us/stat/84/1247]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 103, Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 507(c), 509(b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1867, Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646][/us/pl/99/646], § 84, Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 101–647, title XIX][/us/pl/101/647/tXIX], § 1902(a), Nov. 29, 1990, [104 Stat. 4851][/us/stat/104/4851]; [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1152, July 9, 2012, [126 Stat. 1130][/us/stat/126/1130].)
 
  __Amendment of Schedules of Controlled Substances__ 
 
@@ -493,9 +493,9 @@ Schedule IV
 
  __Amendments__ 
 
-    2012—Subsec. (c). [Pub. L. 112–144, § 1152(b)][/us/pl/112/144/s1152/b], added schedule I(c)(18) to (28).
+    2012—Subsec. (c). [Pub. L. 112–144][/us/pl/112/144], § 1152(b), added schedule I(c)(18) to (28).
 
-    [Pub. L. 112–144, § 1152(a)][/us/pl/112/144/s1152/a], added schedule I(d).
+    [Pub. L. 112–144][/us/pl/112/144], § 1152(a), added schedule I(d).
 
     1990—Subsec. (c). [Pub. L. 101–647][/us/pl/101/647] added item (e) at end of schedule III.
 
@@ -503,9 +503,9 @@ Schedule IV
 
     [Pub. L. 99–570][/us/pl/99/570] amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine.”
 
-    1984—Subsec. (c). [Pub. L. 98–473, § 507(c)][/us/pl/98/473/s507/c], in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
+    1984—Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
 
-    Subsec. (d). [Pub. L. 98–473, § 509(b)][/us/pl/98/473/s509/b], struck out subsec. (d) which related to authority of Attorney General to except stimulants or depressants containing active medicinal ingredients.
+    Subsec. (d). [Pub. L. 98–473][/us/pl/98/473], § 509(b), struck out subsec. (d) which related to authority of Attorney General to except stimulants or depressants containing active medicinal ingredients.
 
     1978—Subsec. (d)(3). [Pub. L. 95–633][/us/pl/95/633] added cl. (3).
 
@@ -555,7 +555,7 @@ Schedule IV
 
  __Placement of Pipradrol and SPA in Schedule IV To Carry Out Obligation Under Convention on Psychotropic Substances__ 
 
-[Pub. L. 95–633, title I, § 102(c)][/us/pl/95/633/s102/c], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772], provided that: 
+[Pub. L. 95–633, title I][/us/pl/95/633/tI], § 102(c), Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772], provided that: 
 
 > “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethyl­amino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and [section 811 of this title][/us/usc/t21/s811]\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
 
@@ -569,27 +569,27 @@ Schedule IV
 ----------
 
 [/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
-[/us/pl/91/513/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs202
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1247
-[/us/pl/95/633/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs103
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3772
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2071
-[/us/pl/99/570/s1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1867
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-55
-[/us/pl/99/646/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs84
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3619
-[/us/pl/101/647/s1902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1902%2Fa
+[/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4851
-[/us/pl/112/144/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1152
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1130
-[/us/pl/112/144/s1152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1152%2Fb
-[/us/pl/112/144/s1152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1152%2Fa
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/98/473/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fc
-[/us/pl/98/473/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs509%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/647/s1902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1902%2Fd
@@ -604,7 +604,7 @@ Schedule IV
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/95/633/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs102%2Fc
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3772
 [/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
 [/us/pl/95/633/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs102%2Fc

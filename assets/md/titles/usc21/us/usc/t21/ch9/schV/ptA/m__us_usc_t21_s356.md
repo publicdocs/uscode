@@ -123,7 +123,7 @@
 
         (2) establish a program to encourage the development of surrogate and clinical endpoints, including biomarkers, and other scientific methods and tools that can assist the Secretary in determining whether the evidence submitted in an application is reasonably likely to predict clinical benefit for serious or life-threatening conditions for which significant unmet medical needs exist.
 
-([June 25, 1938, ch. 675, § 506][/us/act/1938-06-25/ch675/s506], as added [Pub. L. 105–115, title I, § 112(a)][/us/pl/105/115/s112/a], Nov. 21, 1997, [111 Stat. 2309][/us/stat/111/2309]; amended [Pub. L. 112–144, title VIII, § 803][/us/pl/112/144/s803], title IX, §§ 901(b), 902(a), July 9, 2012, [126 Stat. 1079][/us/stat/126/1079], 1083, 1086.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506, as added [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 112(a), Nov. 21, 1997, [111 Stat. 2309][/us/stat/111/2309]; amended [Pub. L. 112–144, title VIII][/us/pl/112/144/tVIII], § 803, title IX, §§ 901(b), 902(a), July 9, 2012, [126 Stat. 1079][/us/stat/126/1079], 1083, 1086.)
 
  __References in Text__ 
 
@@ -131,21 +131,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 356, [act June 25, 1938, ch. 675, § 506][/us/act/1938-06-25/ch675/s506], as added [Dec. 22, 1941, ch. 613, § 3][/us/act/1941-12-22/ch613/s3], [55 Stat. 851][/us/stat/55/851]; amended [Pub. L. 102–300, § 6(b)(2)][/us/pl/102/300/s6/b/2], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80, § 3][/us/pl/103/80/s3](o), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777], related to certification of drugs containing insulin, prior to repeal by [Pub. L. 105–115, title I, § 125(a)(1)][/us/pl/105/115/s125/a/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
+    A prior section 356, [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506, as added [Dec. 22, 1941, ch. 613][/us/act/1941-12-22/ch613], § 3, [55 Stat. 851][/us/stat/55/851]; amended [Pub. L. 102–300][/us/pl/102/300], § 6(b)(2), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], § 3(o), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777], related to certification of drugs containing insulin, prior to repeal by [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(a)(1), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–144, § 901(b)][/us/pl/112/144/s901/b], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to designation of drugs as fast track products, approval of applications for fast track products, review of incomplete applications for approval of fast track products, and awareness efforts, respectively.
+    2012—[Pub. L. 112–144][/us/pl/112/144], § 901(b), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to designation of drugs as fast track products, approval of applications for fast track products, review of incomplete applications for approval of fast track products, and awareness efforts, respectively.
 
-    Subsec. (a). [Pub. L. 112–144, § 902(a)(3)][/us/pl/112/144/s902/a/3], added subsec. (a). Former subsec. (a) redesignated (b).
+    Subsec. (a). [Pub. L. 112–144][/us/pl/112/144], § 902(a)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (a)(1). [Pub. L. 112–144, § 803][/us/pl/112/144/s803], amended subsec. (a)(1), as amended by [Pub. L. 112–144, § 901(b)][/us/pl/112/144/s901/b], by inserting “, or if the Secretary designates the drug as a qualified infectious disease product under [section 355f(d) of this title][/us/usc/t21/s355f/d]” after “such a disease or condition”.
+    Subsec. (a)(1). [Pub. L. 112–144][/us/pl/112/144], § 803, amended subsec. (a)(1), as amended by [Pub. L. 112–144][/us/pl/112/144], § 901(b), by inserting “, or if the Secretary designates the drug as a qualified infectious disease product under [section 355f(d) of this title][/us/usc/t21/s355f/d]” after “such a disease or condition”.
 
-    Subsecs. (b) to (d). [Pub. L. 112–144, § 902(a)(1)][/us/pl/112/144/s902/a/1], redesignated subsecs. (a) to (c) as (b) to (d), respectively. Former subsec. (d) relating to awareness efforts redesignated (f).
+    Subsecs. (b) to (d). [Pub. L. 112–144][/us/pl/112/144], § 902(a)(1), redesignated subsecs. (a) to (c) as (b) to (d), respectively. Former subsec. (d) relating to awareness efforts redesignated (f).
 
-    Subsec. (f). [Pub. L. 112–144, § 902(a)(2)][/us/pl/112/144/s902/a/2], which directed the redesignation of subsec. (d) as (f), was executed by redesignating the subsec. (d) relating to awareness efforts as (f), to reflect the probable intent of Congress.
+    Subsec. (f). [Pub. L. 112–144][/us/pl/112/144], § 902(a)(2), which directed the redesignation of subsec. (d) as (f), was executed by redesignating the subsec. (d) relating to awareness efforts as (f), to reflect the probable intent of Congress.
 
-    Subsec. (f)(1). [Pub. L. 112–144, § 902(a)(4)][/us/pl/112/144/s902/a/4], substituted “applicable to breakthrough therapies, accelerated approval, and” for “applicable to accelerated approval”.
+    Subsec. (f)(1). [Pub. L. 112–144][/us/pl/112/144], § 902(a)(4), substituted “applicable to breakthrough therapies, accelerated approval, and” for “applicable to accelerated approval”.
 
  __Effective Date__ 
 
@@ -153,7 +153,7 @@
 
  __Findings and Sense of Congress on Enhancement of Accelerated Patient Access to New Medical Treatments__ 
 
-[Pub. L. 112–144, title IX, § 901(a)][/us/pl/112/144/s901/a], July 9, 2012, [126 Stat. 1082][/us/stat/126/1082], provided that:
+[Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 901(a), July 9, 2012, [126 Stat. 1082][/us/stat/126/1082], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -175,7 +175,7 @@
 
  __Guidance; Amended Regulations__ 
 
-[Pub. L. 112–144, title IX, § 901(c)][/us/pl/112/144/s901/c], July 9, 2012, [126 Stat. 1085][/us/stat/126/1085], provided that:
+[Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 901(c), July 9, 2012, [126 Stat. 1085][/us/stat/126/1085], provided that:
 
 >     “(1)  __Draft guidance__  __.—__ 
 
@@ -201,7 +201,7 @@
 
 >     The issuance (or nonissuance) of guidance or conforming regulations implementing the amendment made by subsection (b) shall not preclude the review of, or action on, a request for designation or an application for approval submitted pursuant to section 506 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 356][/us/usc/t21/s356]\], as amended by subsection (b).”
 
-[Pub. L. 112–144, title IX, § 902(b)][/us/pl/112/144/s902/b], July 9, 2012, [126 Stat. 1087][/us/stat/126/1087], provided that:
+[Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 902(b), July 9, 2012, [126 Stat. 1087][/us/stat/126/1087], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -237,7 +237,7 @@
 
 >         “(B) specify the actions the Secretary shall take to expedite the development and review of a breakthrough therapy pursuant to such designation under such section 506(a)(3), including updating good review management practices to reflect breakthrough therapies.”
 
-[Pub. L. 105–115, title I, § 112(b)][/us/pl/105/115/s112/b], Nov. 21, 1997, [111 Stat. 2310][/us/stat/111/2310], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 112(b), Nov. 21, 1997, [111 Stat. 2310][/us/stat/111/2310], provided that: 
 
 > “Within 1 year after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue guidance for fast track products (as defined in \[former\] section 506(a)(1) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 356(a)(1)][/us/usc/t21/s356/a/1]\]) that describes the policies and procedures that pertain to section 506 of such Act.”
 
@@ -260,44 +260,44 @@
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fd
 [/us/usc/t42/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fa
-[/us/act/1938-06-25/ch675/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506
-[/us/pl/105/115/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs112%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2309
-[/us/pl/112/144/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs803
+[/us/pl/112/144/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVIII
 [/us/stat/126/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1079
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/act/1938-06-25/ch675/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506
-[/us/act/1941-12-22/ch613/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-22%2Fch613%2Fs3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1941-12-22/ch613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-22%2Fch613
 [/us/stat/55/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F851
-[/us/pl/102/300/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F2
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/103/80/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F777
-[/us/pl/105/115/s125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fa%2F1
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
-[/us/pl/112/144/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs901%2Fb
-[/us/pl/112/144/s902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs902%2Fa%2F3
-[/us/pl/112/144/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs803
-[/us/pl/112/144/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs901%2Fb
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s355f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355f%2Fd
-[/us/pl/112/144/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs902%2Fa%2F1
-[/us/pl/112/144/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs902%2Fa%2F2
-[/us/pl/112/144/s902/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs902%2Fa%2F4
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/112/144/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs901%2Fa
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1082
 [/us/usc/t21/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356
-[/us/pl/112/144/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs901%2Fc
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1085
 [/us/usc/t21/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
 [/us/usc/t21/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356
-[/us/pl/112/144/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs902%2Fb
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1087
 [/us/usc/t21/s356/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356%2Fa
 [/us/usc/t21/s356/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356%2Fa%2F3
-[/us/pl/105/115/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs112%2Fb
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2310
 [/us/usc/t21/s356/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356%2Fa%2F1
 

@@ -59,17 +59,17 @@
 
             The agency delegated to carry out this program under [section 1531(d) of this title][/us/usc/t21/s1531/d] may use up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
 
-([Pub. L. 100–690, title I, § 1024][/us/pl/100/690/s1024], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 226][/us/stat/111/226]; amended [Pub. L. 107–82, § 1(b)][/us/pl/107/82/s1/b], (c), Dec. 14, 2001, [115 Stat. 817][/us/stat/115/817]; [Pub. L. 109–469, title VIII, § 801][/us/pl/109/469/s801], Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1024, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 226][/us/stat/111/226]; amended [Pub. L. 107–82][/us/pl/107/82], § 1(b), (c), Dec. 14, 2001, [115 Stat. 817][/us/stat/115/817]; [Pub. L. 109–469, title VIII][/us/pl/109/469/tVIII], § 801, Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535].)
 
  __Codification__ 
 
-    [Pub. L. 109–469, § 801][/us/pl/109/469/s801], which directed amendment of section 1024 of the “Drug-Free Communities Act of 1997”, was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+    [Pub. L. 109–469][/us/pl/109/469], § 801, which directed amendment of section 1024 of the “Drug-Free Communities Act of 1997”, was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
  __Amendments__ 
 
-    2006—Subsec. (a)(11) to (15). [Pub. L. 109–469, § 801(a)][/us/pl/109/469/s801/a], added pars. (11) to (15). See Codification note above.
+    2006—Subsec. (a)(11) to (15). [Pub. L. 109–469][/us/pl/109/469], § 801(a), added pars. (11) to (15). See Codification note above.
 
-    Subsec. (b). [Pub. L. 109–469, § 801(b)][/us/pl/109/469/s801/b], amended subsec. (b) generally. See Codification note above. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+    Subsec. (b). [Pub. L. 109–469][/us/pl/109/469], § 801(b), amended subsec. (b) generally. See Codification note above. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
 
     “(1) 10 percent for fiscal year 1998.
 
@@ -81,9 +81,9 @@
 
     “(5) 6 percent for each of fiscal years 2002 through 2007.”
 
-    2001—Subsec. (a)(5) to (10). [Pub. L. 107–82, § 1(b)][/us/pl/107/82/s1/b], added pars. (5) to (10) and struck out former par. (5) which read as follows: “$43,500,000 for fiscal year 2002.”
+    2001—Subsec. (a)(5) to (10). [Pub. L. 107–82][/us/pl/107/82], § 1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: “$43,500,000 for fiscal year 2002.”
 
-    Subsec. (b)(5). [Pub. L. 107–82, § 1(c)][/us/pl/107/82/s1/c], added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
+    Subsec. (b)(5). [Pub. L. 107–82][/us/pl/107/82], § 1(c), added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
 
 ----------
 
@@ -93,17 +93,17 @@
 ----------
 
 [/us/usc/t21/s1531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1531%2Fd
-[/us/pl/100/690/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1024
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F226
-[/us/pl/107/82/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fb
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F817
-[/us/pl/109/469/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs801
+[/us/pl/109/469/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtVIII
 [/us/stat/120/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3535
-[/us/pl/109/469/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs801
-[/us/pl/109/469/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs801%2Fa
-[/us/pl/109/469/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs801%2Fb
-[/us/pl/107/82/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fb
-[/us/pl/107/82/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fc
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 
 

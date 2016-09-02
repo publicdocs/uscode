@@ -35,7 +35,7 @@
 
             A final decision by the Secretary on any such application or submission shall be made within the applicable prescribed time period for review of the matter as set forth in this chapter or in the Public Health Service Act ([42 U.S.C. 201][/us/usc/t42/s201] et seq.).
 
-([June 25, 1938, ch. 675, § 1007][/us/act/1938-06-25/ch675/s1007], formerly § 907, as added [Pub. L. 105–115, title IV, § 415][/us/pl/105/115/s415], Nov. 21, 1997, [111 Stat. 2377][/us/stat/111/2377]; renumbered § 1007, [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1007, formerly § 907, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 415, Nov. 21, 1997, [111 Stat. 2377][/us/stat/111/2377]; renumbered § 1007, [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
  __References in Text__ 
 
@@ -55,10 +55,10 @@
 [/us/usc/t42/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fa
 [/us/usc/t21/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1938-06-25/ch675/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1007
-[/us/pl/105/115/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs415
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2377
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

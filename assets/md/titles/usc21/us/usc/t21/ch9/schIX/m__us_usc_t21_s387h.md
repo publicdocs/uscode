@@ -55,7 +55,7 @@
 
             The remedy provided by this subsection shall be in addition to remedies provided by subsection (a).
 
-([June 25, 1938, ch. 675, § 908][/us/act/1938-06-25/ch675/s908], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1804][/us/stat/123/1804].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 908, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1804][/us/stat/123/1804].)
 
  __Prior Provisions__ 
 
@@ -69,8 +69,8 @@
 ----------
 
 [/us/usc/t21/s375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs375%2Fb
-[/us/act/1938-06-25/ch675/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs908
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1804
 [/us/usc/t21/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs398
 

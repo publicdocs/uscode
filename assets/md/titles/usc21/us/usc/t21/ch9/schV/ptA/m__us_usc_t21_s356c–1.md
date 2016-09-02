@@ -51,7 +51,7 @@
 
         In this section, the term “drug shortage” or “shortage” has the meaning given such term in [section 356c of this title][/us/usc/t21/s356c].
 
-([June 25, 1938, ch. 675, § 506C–1][/us/act/1938-06-25/ch675/s506C–1], as added [Pub. L. 112–144, title X, § 1002][/us/pl/112/144/s1002], July 9, 2012, [126 Stat. 1102][/us/stat/126/1102].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506C–1, as added [Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1002, July 9, 2012, [126 Stat. 1102][/us/stat/126/1102].)
 
 ----------
 
@@ -65,8 +65,8 @@
 [/us/usc/t21/s356c/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c%2Fg%2F2
 [/us/usc/t21/s356c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c%2Ff
 [/us/usc/t21/s356c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c
-[/us/act/1938-06-25/ch675/s506C–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506C%E2%80%931
-[/us/pl/112/144/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1002
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1102
 
 

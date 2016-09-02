@@ -17,13 +17,13 @@
 
     All licenses issued under authority of this chapter to establishments where such viruses, serums, toxins, or analogous products are prepared for sale, barter, exchange, or shipment as aforesaid, shall be issued on condition that the licensee shall permit the inspection of such establishments and of such products and their preparation; and the Secretary of Agriculture may suspend or revoke any permit or license issued under authority of said chapter, after opportunity for hearing has been granted the licensee or importer, when the Secretary of Agriculture is satisfied that such license or permit is being used to facilitate or effect the preparation, sale, barter, exchange, or shipment as aforesaid, or the importation into the United States of any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product for use in the treatment of domestic animals.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 833][/us/stat/37/833].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 833][/us/stat/37/833].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], [37 Stat. 828][/us/stat/37/828], which enacted this chapter, sections 155 and 393 of Title 7, Agriculture, [section 316 of Title 15][/us/usc/t15/s316], Commerce and Trade, sections 501, 502, 512, 558, and 560 of Title 16, Conservation, and section 630 of former Title 31, Money and Finance, and amended section 83 of former Title 5, Executive Departments and Government Officers and Employees, and sections 518 and 673 of Title 16.
 
-    [Section 316 of Title 15][/us/usc/t15/s316] was omitted from the Code as superseded by section 5701 et seq. of Title 5, Government Organization and Employees. Section 630 of former Title 31 was repealed by [act Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(64), [64 Stat. 842][/us/stat/64/842]. Section 83 of former Title 5 was repealed and reenacted as [section 5946 of Title 5][/us/usc/t5/s5946] by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 514][/us/stat/80/514]. For complete classification of act Mar. 4, 1913, to the Code, see Tables.
+    [Section 316 of Title 15][/us/usc/t15/s316] was omitted from the Code as superseded by section 5701 et seq. of Title 5, Government Organization and Employees. Section 630 of former Title 31 was repealed by [act Sept. 12, 1950, ch. 946, title III][/us/act/1950-09-12/ch946/tIII], § 301(64), [64 Stat. 842][/us/stat/64/842]. Section 83 of former Title 5 was repealed and reenacted as [section 5946 of Title 5][/us/usc/t5/s5946] by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 514][/us/stat/80/514]. For complete classification of act Mar. 4, 1913, to the Code, see Tables.
 
  __Codification__ 
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F833
 [/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F828
 [/us/usc/t15/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs316
 [/us/usc/t15/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs316
-[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
+[/us/act/1950-09-12/ch946/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2FtIII
 [/us/stat/64/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F842
 [/us/usc/t5/s5946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5946
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

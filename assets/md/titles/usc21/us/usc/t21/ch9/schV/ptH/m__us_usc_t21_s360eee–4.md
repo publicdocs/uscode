@@ -53,7 +53,7 @@
 
         Nothing in this section shall be construed to preempt State requirements related to the distribution of prescription drugs if such requirements are not related to product tracing as described in subsection (a) or wholesale distributor and third-party logistics provider licensure as described in subsection (b) applicable under [section 353(e) of this title][/us/usc/t21/s353/e] or this part (or regulations issued thereunder).
 
-([June 25, 1938, ch. 675, § 585][/us/act/1938-06-25/ch675/s585], as added [Pub. L. 113–54, title II, § 205][/us/pl/113/54/s205], Nov. 27, 2013, [127 Stat. 638][/us/stat/127/638].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 585, as added [Pub. L. 113–54, title II][/us/pl/113/54/tII], § 205, Nov. 27, 2013, [127 Stat. 638][/us/stat/127/638].)
 
 ----------
 
@@ -69,8 +69,8 @@
 [/us/usc/t21/s353/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe
 [/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
 [/us/usc/t21/s353/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe
-[/us/act/1938-06-25/ch675/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs585
-[/us/pl/113/54/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs205
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtII
 [/us/stat/127/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F638
 
 

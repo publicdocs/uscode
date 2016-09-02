@@ -25,7 +25,7 @@
 
     (4) The term “reinspection” means, with respect to an outsourcing facility, 1 or more inspections conducted under [section 374 of this title][/us/usc/t21/s374] subsequent to an inspection conducted under such provision which identified noncompliance materially related to an applicable requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary’s satisfaction.
 
-([June 25, 1938, ch. 675, § 744J][/us/act/1938-06-25/ch675/s744J], as added [Pub. L. 113–54, title I, § 102(b)][/us/pl/113/54/s102/b], Nov. 27, 2013, [127 Stat. 593][/us/stat/127/593].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744J, as added [Pub. L. 113–54, title I][/us/pl/113/54/tI], § 102(b), Nov. 27, 2013, [127 Stat. 593][/us/stat/127/593].)
 
 ----------
 
@@ -37,8 +37,8 @@
 [/us/usc/t21/s379g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g%2F11
 [/us/usc/t21/s353b/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b%2Fd%2F4
 [/us/usc/t21/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374
-[/us/act/1938-06-25/ch675/s744J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744J
-[/us/pl/113/54/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtI
 [/us/stat/127/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F593
 
 

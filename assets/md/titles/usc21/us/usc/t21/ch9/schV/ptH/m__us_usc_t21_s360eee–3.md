@@ -123,7 +123,7 @@
 
         A license issued under this section shall remain valid as long as such third-party logistics provider remains licensed consistent with this section. If the Secretary finds that the third-party accreditation program demonstrates that all applicable requirements for licensure under this section are met, the Secretary shall issue a license under this section to a third-party logistics provider receiving accreditation, pursuant to subsection (d)(2)(A).
 
-([June 25, 1938, ch. 675, § 584][/us/act/1938-06-25/ch675/s584], as added [Pub. L. 113–54, title II, § 205][/us/pl/113/54/s205], Nov. 27, 2013, [127 Stat. 636][/us/stat/127/636].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 584, as added [Pub. L. 113–54, title II][/us/pl/113/54/tII], § 205, Nov. 27, 2013, [127 Stat. 636][/us/stat/127/636].)
 
 ----------
 
@@ -135,8 +135,8 @@
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/usc/t18/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/act/1938-06-25/ch675/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs584
-[/us/pl/113/54/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs205
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtII
 [/us/stat/127/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F636
 
 

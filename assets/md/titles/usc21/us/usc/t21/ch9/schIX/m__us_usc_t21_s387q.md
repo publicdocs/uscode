@@ -85,7 +85,7 @@
 
         The Advisory Committee shall make and maintain a transcript of any proceeding of the panel or committee. Each such panel and committee shall delete from any transcript made under this subsection information which is exempt from disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b].
 
-([June 25, 1938, ch. 675, § 917][/us/act/1938-06-25/ch675/s917], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1824][/us/stat/123/1824].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 917, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1824][/us/stat/123/1824].)
 
  __References in Text__ 
 
@@ -105,8 +105,8 @@
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/act/1938-06-25/ch675/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs917
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1824
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31

@@ -121,7 +121,7 @@
 
         The Secretary shall issue guidance that describes how the Secretary reviews the financial interests and involvement of advisory committee members that are disclosed under subsection (c) but that the Secretary determines not to meet the definition of a disqualifying interest under [section 208 of title 18][/us/usc/t18/s208] for the purposes of participating in a particular matter.
 
-([June 25, 1938, ch. 675, § 712][/us/act/1938-06-25/ch675/s712], as added [Pub. L. 110–85, title VII, § 701(a)][/us/pl/110/85/s701/a], Sept. 27, 2007, [121 Stat. 900][/us/stat/121/900]; amended [Pub. L. 112–144, title XI, § 1142(a)][/us/pl/112/144/s1142/a], July 9, 2012, [126 Stat. 1127][/us/stat/126/1127].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 712, as added [Pub. L. 110–85, title VII][/us/pl/110/85/tVII], § 701(a), Sept. 27, 2007, [121 Stat. 900][/us/stat/121/900]; amended [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1142(a), July 9, 2012, [126 Stat. 1127][/us/stat/126/1127].)
 
  __References in Text__ 
 
@@ -137,19 +137,19 @@
 
  __Amendments__ 
 
-    2012—Subsecs. (b), (c). [Pub. L. 112–144, § 1142(a)(1)][/us/pl/112/144/s1142/a/1], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to appointments to advisory committees and disclosures, prohibitions on participation, and waivers.
+    2012—Subsecs. (b), (c). [Pub. L. 112–144][/us/pl/112/144], § 1142(a)(1), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to appointments to advisory committees and disclosures, prohibitions on participation, and waivers.
 
-    Subsec. (d). [Pub. L. 112–144, § 1142(a)(2)][/us/pl/112/144/s1142/a/2], substituted “subsection (c)” for “subsection (c)(3)”.
+    Subsec. (d). [Pub. L. 112–144][/us/pl/112/144], § 1142(a)(2), substituted “subsection (c)” for “subsection (c)(3)”.
 
-    Subsec. (e). [Pub. L. 112–144, § 1142(a)(3)][/us/pl/112/144/s1142/a/3], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to annual report.
+    Subsec. (e). [Pub. L. 112–144][/us/pl/112/144], § 1142(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to annual report.
 
-    Subsec. (f). [Pub. L. 112–144, § 1142(a)(4)][/us/pl/112/144/s1142/a/4], substituted “shall—” for “shall review guidance of the Food and Drug Administration regarding conflict of interest waiver determinations with respect to advisory committees and update such guidance as necessary.” and added pars. (1) and (2).
+    Subsec. (f). [Pub. L. 112–144][/us/pl/112/144], § 1142(a)(4), substituted “shall—” for “shall review guidance of the Food and Drug Administration regarding conflict of interest waiver determinations with respect to advisory committees and update such guidance as necessary.” and added pars. (1) and (2).
 
-    Subsec. (g). [Pub. L. 112–144, § 1142(a)(5)][/us/pl/112/144/s1142/a/5], added subsec. (g).
+    Subsec. (g). [Pub. L. 112–144][/us/pl/112/144], § 1142(a)(5), added subsec. (g).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–144, title XI, § 1142(b)][/us/pl/112/144/s1142/b], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that: 
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1142(b), July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply beginning on October 1, 2012.”
 
@@ -174,10 +174,10 @@
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
-[/us/act/1938-06-25/ch675/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs712
-[/us/pl/110/85/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs701%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVII
 [/us/stat/121/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F900
-[/us/pl/112/144/s1142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fa
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1127
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -189,12 +189,12 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/usc/t21/s379d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379d
-[/us/pl/112/144/s1142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fa%2F1
-[/us/pl/112/144/s1142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fa%2F2
-[/us/pl/112/144/s1142/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fa%2F3
-[/us/pl/112/144/s1142/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fa%2F4
-[/us/pl/112/144/s1142/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fa%2F5
-[/us/pl/112/144/s1142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1142%2Fb
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1130
 [/us/pl/110/85/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs701%2Fc
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355

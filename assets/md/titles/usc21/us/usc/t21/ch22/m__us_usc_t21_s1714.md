@@ -67,7 +67,7 @@
 
         There is authorized to be appropriated to carry out this section $4,900,000 for each of fiscal years 2007 through 2009.
 
-([Pub. L. 105–277, div. C, title VII, § 716][/us/pl/105/277/s716], as added [Pub. L. 109–469, title XI, § 1119][/us/pl/109/469/s1119], Dec. 29, 2006, [120 Stat. 3547][/us/stat/120/3547].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 716, as added [Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1119, Dec. 29, 2006, [120 Stat. 3547][/us/stat/120/3547].)
 
  __Repeal of Section__ 
 
@@ -80,8 +80,8 @@
 ----------
 ----------
 
-[/us/pl/105/277/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs716
-[/us/pl/109/469/s1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1119
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
+[/us/pl/109/469/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtXI
 [/us/stat/120/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3547
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 

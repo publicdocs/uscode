@@ -23,7 +23,7 @@
 
         If the regulations promulgated under subsection (a) do not include provisions related to the effectiveness of various sun protection factor levels, and do not address all dosage forms known to the Secretary to be used in sunscreens marketed in the United States without a new drug approval under [section 355 of this title][/us/usc/t21/s355], the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the rationale for such provisions not being included in such regulations, and a plan and timeline to compile any information necessary to address such provisions through final regulations.
 
-([June 25, 1938, ch. 675, § 586E][/us/act/1938-06-25/ch675/s586E], as added [Pub. L. 113–195, § 2(a)][/us/pl/113/195/s2/a], Nov. 26, 2014, [128 Stat. 2045][/us/stat/128/2045].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586E, as added [Pub. L. 113–195][/us/pl/113/195], § 2(a), Nov. 26, 2014, [128 Stat. 2045][/us/stat/128/2045].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
-[/us/act/1938-06-25/ch675/s586E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586E
-[/us/pl/113/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2045
 
 

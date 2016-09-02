@@ -17,7 +17,7 @@
 
     The Secretary shall cause to be made, by experts in sanitation or by other competent inspectors, such inspection of all slaughtering, meat canning, salting, packing, rendering, or similar establishments in which amenable species are slaughtered and the meat and meat food products thereof are prepared for commerce as may be necessary to inform himself concerning the sanitary conditions of the same, and to prescribe the rules and regulations of sanitation under which such establishments shall be maintained; and where the sanitary conditions of any such establishment are such that the meat or meat food products are rendered adulterated, he shall refuse to allow said meat or meat food products to be labeled, marked, stamped or tagged as “inspected and passed.”
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 8, formerly 6th par., [34 Stat. 1262][/us/stat/34/1262]; renumbered § 8 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3, 12(a), (f), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 8, formerly 6th par., [34 Stat. 1262][/us/stat/34/1262]; renumbered § 8 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3, 12(a), (f), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 [/us/stat/34/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1262
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/usc/t21/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs76
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97

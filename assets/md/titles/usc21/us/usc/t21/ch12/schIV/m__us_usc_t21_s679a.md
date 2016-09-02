@@ -95,7 +95,7 @@
 
         From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act ([21 U.S.C. 451][/us/usc/t21/s451] et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 410, as added [Pub. L. 104–127, title IX, § 918(a)(1)(B)][/us/pl/104/127/s918/a/1/B], Apr. 4, 1996, [110 Stat. 1188][/us/stat/110/1188].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 410, as added [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 918(a)(1)(B), Apr. 4, 1996, [110 Stat. 1188][/us/stat/110/1188].)
 
  __References in Text__ 
 
@@ -124,7 +124,7 @@ Use of Appropriated Funds
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/104/127/s918/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs918%2Fa%2F1%2FB
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1188
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

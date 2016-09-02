@@ -35,7 +35,7 @@
 
         No provision of this subchapter relating to a tobacco product shall be construed to modify or otherwise affect any action or the liability of any person under the product liability law of any State.
 
-([June 25, 1938, ch. 675, § 916][/us/act/1938-06-25/ch675/s916], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1823][/us/stat/123/1823].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 916, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1823][/us/stat/123/1823].)
 
 ----------
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/act/1938-06-25/ch675/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs916
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1823
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to limit or interfere with the authority of a health care practitioner to prescribe or administer any legally marketed device to a patient for any condition or disease within a legitimate health care practitioner-patient relationship. This section shall not limit any existing authority of the Secretary to establish and enforce restrictions on the sale or distribution, or in the labeling, of a device that are part of a determination of substantial equivalence, established as a condition of approval, or promulgated through regulations. Further, this section shall not change any existing prohibition on the promotion of unapproved uses of legally marketed devices.
 
-([June 25, 1938, ch. 675, § 1006][/us/act/1938-06-25/ch675/s1006], formerly § 906, as added [Pub. L. 105–115, title II, § 214][/us/pl/105/115/s214], Nov. 21, 1997, [111 Stat. 2348][/us/stat/111/2348]; renumbered § 1006, [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1006, formerly § 906, as added [Pub. L. 105–115, title II][/us/pl/105/115/tII], § 214, Nov. 21, 1997, [111 Stat. 2348][/us/stat/111/2348]; renumbered § 1006, [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
  __Effective Date__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1006
-[/us/pl/105/115/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs214
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2348
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321

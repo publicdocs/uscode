@@ -117,7 +117,7 @@
 
         The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
 
-([Pub. L. 105–277, div. C, title VII, § 702][/us/pl/105/277/s702], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670]; [Pub. L. 109–469, title I, § 101][/us/pl/109/469/s101], Dec. 29, 2006, [120 Stat. 3503][/us/stat/120/3503].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 702, Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670]; [Pub. L. 109–469, title I][/us/pl/109/469/tI], § 101, Dec. 29, 2006, [120 Stat. 3503][/us/stat/120/3503].)
 
  __Repeal of Section__ 
 
@@ -133,21 +133,21 @@
 
  __Amendments__ 
 
-    2006—(1)(G). [Pub. L. 109–469, § 101(a)(2)][/us/pl/109/469/s101/a/2], substituted “, including the testing of employees;” for period at end.
+    2006—(1)(G). [Pub. L. 109–469][/us/pl/109/469], § 101(a)(2), substituted “, including the testing of employees;” for period at end.
 
-    Par. (1)(H) to (J). [Pub. L. 109–469, § 101(a)(1)][/us/pl/109/469/s101/a/1], (3), added subpars. (H) to (J).
+    Par. (1)(H) to (J). [Pub. L. 109–469][/us/pl/109/469], § 101(a)(1), (3), added subpars. (H) to (J).
 
-    Par. (6). [Pub. L. 109–469, § 101(b)][/us/pl/109/469/s101/b], inserted “, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs” before period at end.
+    Par. (6). [Pub. L. 109–469][/us/pl/109/469], § 101(b), inserted “, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs” before period at end.
 
-    Par. (7). [Pub. L. 109–469, § 101(c)][/us/pl/109/469/s101/c], in introductory provisions, substituted “National Intelligence Program,” for “National Foreign Intelligence Program,” and inserted “or (for purposes of [section 1703(d) of this title][/us/usc/t21/s1703/d]) an agency that is described in [section 530C(a) of title 28][/us/usc/t28/s530C/a],” after “Related Activities,”.
+    Par. (7). [Pub. L. 109–469][/us/pl/109/469], § 101(c), in introductory provisions, substituted “National Intelligence Program,” for “National Foreign Intelligence Program,” and inserted “or (for purposes of [section 1703(d) of this title][/us/usc/t21/s1703/d]) an agency that is described in [section 530C(a) of title 28][/us/usc/t28/s530C/a],” after “Related Activities,”.
 
-    Par. (9). [Pub. L. 109–469, § 101(d)][/us/pl/109/469/s101/d], substituted “indicates” for “implicates”.
+    Par. (9). [Pub. L. 109–469][/us/pl/109/469], § 101(d), substituted “indicates” for “implicates”.
 
-    Par. (10). [Pub. L. 109–469, § 101(e)][/us/pl/109/469/s101/e], amended par. (10) generally. Prior to amendment, text defined the term “State and local affairs”.
+    Par. (10). [Pub. L. 109–469][/us/pl/109/469], § 101(e), amended par. (10) generally. Prior to amendment, text defined the term “State and local affairs”.
 
-    Par. (11). [Pub. L. 109–469, § 101(f)][/us/pl/109/469/s101/f], amended par. (11) generally. Prior to amendment, text defined the term “supply reduction”.
+    Par. (11). [Pub. L. 109–469][/us/pl/109/469], § 101(f), amended par. (11) generally. Prior to amendment, text defined the term “supply reduction”.
 
-    Pars. (12), (13). [Pub. L. 109–469, § 101(g)][/us/pl/109/469/s101/g], added pars. (12) and (13).
+    Pars. (12), (13). [Pub. L. 109–469][/us/pl/109/469], § 101(g), added pars. (12) and (13).
 
  __Change of Name__ 
 
@@ -155,29 +155,29 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–356, § 1][/us/pl/111/356/s1], Jan. 4, 2011, [124 Stat. 3976][/us/stat/124/3976], provided that: 
+[Pub. L. 111–356][/us/pl/111/356], § 1, Jan. 4, 2011, [124 Stat. 3976][/us/stat/124/3976], provided that: 
 
 > “This Act \[amending provisions set out as a note under [section 1705 of this title][/us/usc/t21/s1705]\] may be cited as the ‘Northern Border Counternarcotics Strategy Act of 2010’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–469, § 1(a)][/us/pl/109/469/s1/a], Dec. 29, 2006, [120 Stat. 3502][/us/stat/120/3502], provided that: 
+[Pub. L. 109–469][/us/pl/109/469], § 1(a), Dec. 29, 2006, [120 Stat. 3502][/us/stat/120/3502], provided that: 
 
 > “This Act \[enacting sections 1708a, 1714, 2001 to 2003, and 2011 to 2014 of this title, amending this section, sections 823, 1524, 1532, 1702 to 1708, 1710 to 1712 of this title, and [section 458 of Title 6][/us/usc/t6/s458], Domestic Security, repealing sections 1509, 1709, and 1801 to 1804 of this title, enacting provisions set out as notes under this section, sections 1532, 1705, 1706, and 2001 of this title, and [section 112 of Title 32][/us/usc/t32/s112], National Guard, amending provisions set out as a note under [section 1521 of this title][/us/usc/t21/s1521], and repealing provisions set out as a note under [section 1801 of this title][/us/usc/t21/s1801]\] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 2006’.”
 
-[Pub. L. 109–469, title III, § 302(a)][/us/pl/109/469/s302/a], Dec. 29, 2006, [120 Stat. 3524][/us/stat/120/3524], provided that: 
+[Pub. L. 109–469, title III][/us/pl/109/469/tIII], § 302(a), Dec. 29, 2006, [120 Stat. 3524][/us/stat/120/3524], provided that: 
 
 > “This section \[amending [section 1706 of this title][/us/usc/t21/s1706] and enacting provisions set out as a note under [section 1706 of this title][/us/usc/t21/s1706]\] may be cited as the ‘Dawson Family Community Protection Act’.”
 
  __Short Title__ 
 
-[Pub. L. 105–277, div. C, title VII, § 701][/us/pl/105/277/s701], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], provided that: 
+[Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 701, Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], provided that: 
 
 > “This title \[enacting this chapter, amending [section 1509 of this title][/us/usc/t21/s1509], sections 5312 to 5314 of Title 5, Government Organization and Employees, [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, and [section 402 of Title 50][/us/usc/t50/s402], War and National Defense\] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 1998’.”
 
  __Model Acts__ 
 
-[Pub. L. 109–469, title XI, § 1105][/us/pl/109/469/s1105], Dec. 29, 2006, [120 Stat. 3541][/us/stat/120/3541], provided that:
+[Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1105, Dec. 29, 2006, [120 Stat. 3541][/us/stat/120/3541], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -226,9 +226,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t28/s530C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530C%2Fa
 [/us/usc/t21/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1705
 [/us/usc/t21/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1702%2Fa
-[/us/pl/105/277/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs702
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-670
-[/us/pl/109/469/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101
+[/us/pl/109/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtI
 [/us/stat/120/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3503
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
@@ -236,35 +236,35 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
-[/us/pl/109/469/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fa%2F2
-[/us/pl/109/469/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fa%2F1
-[/us/pl/109/469/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fb
-[/us/pl/109/469/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fc
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/usc/t21/s1703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1703%2Fd
 [/us/usc/t28/s530C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530C%2Fa
-[/us/pl/109/469/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fd
-[/us/pl/109/469/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fe
-[/us/pl/109/469/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Ff
-[/us/pl/109/469/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs101%2Fg
-[/us/pl/111/356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F356%2Fs1
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/111/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F356
 [/us/stat/124/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3976
 [/us/usc/t21/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1705
-[/us/pl/109/469/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1%2Fa
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/stat/120/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3502
 [/us/usc/t6/s458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs458
 [/us/usc/t32/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs112
 [/us/usc/t21/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1521
 [/us/usc/t21/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1801
-[/us/pl/109/469/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs302%2Fa
+[/us/pl/109/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtIII
 [/us/stat/120/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3524
 [/us/usc/t21/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1706
 [/us/usc/t21/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1706
-[/us/pl/105/277/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs701
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-670
 [/us/usc/t21/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
-[/us/pl/109/469/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1105
+[/us/pl/109/469/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtXI
 [/us/stat/120/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3541
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701

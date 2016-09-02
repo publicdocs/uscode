@@ -43,17 +43,17 @@
 
         Neither a drug subject to this section, nor animal feed bearing or containing such a drug, shall be deemed to be a prescription article under any Federal or State law.
 
-([June 25, 1938, ch. 675, § 504][/us/act/1938-06-25/ch675/s504], as added [Pub. L. 104–250, § 5(b)][/us/pl/104/250/s5/b], Oct. 9, 1996, [110 Stat. 3155][/us/stat/110/3155]; amended [Pub. L. 108–282, title I, § 102(b)(5)(G)][/us/pl/108/282/s102/b/5/G], (H), Aug. 2, 2004, [118 Stat. 903][/us/stat/118/903].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 504, as added [Pub. L. 104–250][/us/pl/104/250], § 5(b), Oct. 9, 1996, [110 Stat. 3155][/us/stat/110/3155]; amended [Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(b)(5)(G), (H), Aug. 2, 2004, [118 Stat. 903][/us/stat/118/903].)
 
  __Prior Provisions__ 
 
-    A prior section 354, [act June 25, 1938, ch. 675, § 504][/us/act/1938-06-25/ch675/s504], [52 Stat. 1052][/us/stat/52/1052], which directed Secretary to promulgate regulations for listing of coal-tar colors, was repealed effective July 12, 1960, subject to provisions of [section 203 of Pub. L. 86–618][/us/pl/86/618/s203], by [Pub. L. 86–618, title I, § 103(a)(2)][/us/pl/86/618/s103/a/2], title II, § 202, July 12, 1960, [74 Stat. 398][/us/stat/74/398], 404.
+    A prior section 354, [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 504, [52 Stat. 1052][/us/stat/52/1052], which directed Secretary to promulgate regulations for listing of coal-tar colors, was repealed effective July 12, 1960, subject to provisions of [section 203 of Pub. L. 86–618][/us/pl/86/618/s203], by [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 103(a)(2), title II, § 202, July 12, 1960, [74 Stat. 398][/us/stat/74/398], 404.
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–282, § 102(b)(5)(G)][/us/pl/108/282/s102/b/5/G], substituted “360b(b) of this title, a conditionally-approved application filed pursuant to [section 360ccc of this title][/us/usc/t21/s360ccc], or an index listing pursuant to [section 360ccc–1 of this title][/us/usc/t21/s360ccc–1]” for “360b(b) of this title”.
+    2004—Subsec. (a)(1). [Pub. L. 108–282][/us/pl/108/282], § 102(b)(5)(G), substituted “360b(b) of this title, a conditionally-approved application filed pursuant to [section 360ccc of this title][/us/usc/t21/s360ccc], or an index listing pursuant to [section 360ccc–1 of this title][/us/usc/t21/s360ccc–1]” for “360b(b) of this title”.
 
-    Subsecs. (a)(2)(B), (b). [Pub. L. 108–282, § 102(b)(5)(H)][/us/pl/108/282/s102/b/5/H], substituted “360b(i) of this title, or the index listing pursuant to [section 360ccc–1(e) of this title][/us/usc/t21/s360ccc–1/e]” for “360b(i) of this title”.
+    Subsecs. (a)(2)(B), (b). [Pub. L. 108–282][/us/pl/108/282], § 102(b)(5)(H), substituted “360b(i) of this title, or the index listing pursuant to [section 360ccc–1(e) of this title][/us/usc/t21/s360ccc–1/e]” for “360b(i) of this title”.
 
 ----------
 
@@ -70,20 +70,20 @@
 [/us/usc/t21/s360ccc–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931%2Fe
 [/us/usc/t21/s360b/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fi
 [/us/usc/t21/s360ccc–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931%2Fe
-[/us/act/1938-06-25/ch675/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs504
-[/us/pl/104/250/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F250%2Fs5%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/104/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F250
 [/us/stat/110/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3155
-[/us/pl/108/282/s102/b/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FG
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F903
-[/us/act/1938-06-25/ch675/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs504
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1052
 [/us/pl/86/618/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs203
-[/us/pl/86/618/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs103%2Fa%2F2
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
-[/us/pl/108/282/s102/b/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FG
+[/us/pl/108/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
 [/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931
-[/us/pl/108/282/s102/b/5/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FH
+[/us/pl/108/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282
 [/us/usc/t21/s360ccc–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931%2Fe
 
 

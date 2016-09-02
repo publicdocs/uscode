@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary for the purpose and administration of sections 321(q), (r), 342(a)(2), and 346a of this title.
 
-([July 22, 1954, ch. 559, § 4][/us/act/1954-07-22/ch559/s4], [68 Stat. 517][/us/stat/68/517].)
+([July 22, 1954, ch. 559][/us/act/1954-07-22/ch559], § 4, [68 Stat. 517][/us/stat/68/517].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1954-07-22/ch559/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559%2Fs4
+[/us/act/1954-07-22/ch559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559
 [/us/stat/68/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F517
 
 

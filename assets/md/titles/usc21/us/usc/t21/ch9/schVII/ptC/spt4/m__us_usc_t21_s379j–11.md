@@ -81,37 +81,37 @@
 
     (12) The term “affiliate” refers to the definition set forth in [section 379g(11) of this title][/us/usc/t21/s379g/11].
 
-([June 25, 1938, ch. 675, § 739][/us/act/1938-06-25/ch675/s739], as added [Pub. L. 108–130, § 3][/us/pl/108/130/s3], Nov. 18, 2003, [117 Stat. 1361][/us/stat/117/1361]; amended [Pub. L. 110–85, title I, § 109][/us/pl/110/85/s109], Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842]; [Pub. L. 110–316, title I, § 102][/us/pl/110/316/s102], Aug. 14, 2008, [122 Stat. 3510][/us/stat/122/3510]; [Pub. L. 113–14, title I, § 102][/us/pl/113/14/s102], June 13, 2013, [127 Stat. 452][/us/stat/127/452].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 739, as added [Pub. L. 108–130][/us/pl/108/130], § 3, Nov. 18, 2003, [117 Stat. 1361][/us/stat/117/1361]; amended [Pub. L. 110–85, title I][/us/pl/110/85/tI], § 109, Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842]; [Pub. L. 110–316, title I][/us/pl/110/316/tI], § 102, Aug. 14, 2008, [122 Stat. 3510][/us/stat/122/3510]; [Pub. L. 113–14, title I][/us/pl/113/14/tI], § 102, June 13, 2013, [127 Stat. 452][/us/stat/127/452].)
 
  __Amendments__ 
 
     2013—[Pub. L. 113–14][/us/pl/113/14] amended section generally. Prior to amendment, section consisted of pars. (1) to (12) defining similar terms for this subpart.
 
-    2008—Par. (6). [Pub. L. 110–316, § 102(1)][/us/pl/110/316/s102/1], substituted “that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary” for “, except for an approved application for which all subject products have been removed from listing under [section 360 of this title][/us/usc/t21/s360]”.
+    2008—Par. (6). [Pub. L. 110–316][/us/pl/110/316], § 102(1), substituted “that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary” for “, except for an approved application for which all subject products have been removed from listing under [section 360 of this title][/us/usc/t21/s360]”.
 
-    Par. (8)(H). [Pub. L. 110–316, § 102(2)][/us/pl/110/316/s102/2], substituted “but not after such application has been approved” for “but not such activities after an animal drug has been approved”.
+    Par. (8)(H). [Pub. L. 110–316][/us/pl/110/316], § 102(2), substituted “but not after such application has been approved” for “but not such activities after an animal drug has been approved”.
 
-    Par. (10). [Pub. L. 110–316, § 102(3)][/us/pl/110/316/s102/3], substituted “month being October 2002” for “year being 2003”.
+    Par. (10). [Pub. L. 110–316][/us/pl/110/316], § 102(3), substituted “month being October 2002” for “year being 2003”.
 
-    Pars. (11), (12). [Pub. L. 110–316, § 102(4)][/us/pl/110/316/s102/4], (5), added par. (11) and redesignated former par. (11) as (12).
+    Pars. (11), (12). [Pub. L. 110–316][/us/pl/110/316], § 102(4), (5), added par. (11) and redesignated former par. (11) as (12).
 
-    2007—[Pub. L. 110–85, § 109(a)][/us/pl/110/85/s109/a], substituted “subpart” for “part” in introductory provisions.
+    2007—[Pub. L. 110–85][/us/pl/110/85], § 109(a), substituted “subpart” for “part” in introductory provisions.
 
-    Par. (11). [Pub. L. 110–85, § 109(b)][/us/pl/110/85/s109/b], substituted “379g(11)” for “379g(9)”.
+    Par. (11). [Pub. L. 110–85][/us/pl/110/85], § 109(b), substituted “379g(11)” for “379g(9)”.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–14, title I, § 106][/us/pl/113/14/s106], June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that: 
+[Pub. L. 113–14, title I][/us/pl/113/14/tI], § 106, June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after October 1, 2013, regardless of the date of the enactment of this Act.”
 
  __Effective and Termination Dates of 2008 Amendment__ 
 
-[Pub. L. 110–316, title I, § 107][/us/pl/110/316/s107], Aug. 14, 2008, [122 Stat. 3514][/us/stat/122/3514], provided that: 
+[Pub. L. 110–316, title I][/us/pl/110/316/tI], § 107, Aug. 14, 2008, [122 Stat. 3514][/us/stat/122/3514], provided that: 
 
 > “The amendments made by sections 102, 103, and 104 \[enacting [section 379j–13 of this title][/us/usc/t21/s379j–13] and amending this section and [section 379j–12 of this title][/us/usc/t21/s379j–12]\] shall take effect on October 1, 2008, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after such date, regardless of the date of the enactment of this title \[Aug. 14, 2008\].”
 
-    [Pub. L. 110–316, title I, § 108][/us/pl/110/316/s108], Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515], which provided that the amendments made by sections 102 and 103 of [Pub. L. 110–316][/us/pl/110/316] (amending this section and [section 379j–12 of this title][/us/usc/t21/s379j–12]) would cease to be effective Oct. 1, 2013, and that the amendment made by [section 104 of Pub. L. 110–316][/us/pl/110/316/s104] (enacting [section 379j–13 of this title][/us/usc/t21/s379j–13]) would cease to be effective Jan. 31, 2014, was repealed by [Pub. L. 113–14, title I, § 107(c)(1)][/us/pl/113/14/s107/c/1], June 13, 2013, [127 Stat. 464][/us/stat/127/464].
+    [Pub. L. 110–316, title I][/us/pl/110/316/tI], § 108, Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515], which provided that the amendments made by sections 102 and 103 of [Pub. L. 110–316][/us/pl/110/316] (amending this section and [section 379j–12 of this title][/us/usc/t21/s379j–12]) would cease to be effective Oct. 1, 2013, and that the amendment made by [section 104 of Pub. L. 110–316][/us/pl/110/316/s104] (enacting [section 379j–13 of this title][/us/usc/t21/s379j–13]) would cease to be effective Jan. 31, 2014, was repealed by [Pub. L. 113–14, title I][/us/pl/113/14/tI], § 107(c)(1), June 13, 2013, [127 Stat. 464][/us/stat/127/464].
 
  __Effective Date of 2007 Amendment__ 
 
@@ -119,31 +119,31 @@
 
  __Termination Date__ 
 
-    [Pub. L. 108–130, § 5][/us/pl/108/130/s5], Nov. 18, 2003, [117 Stat. 1371][/us/stat/117/1371], which provided that the amendments made by [section 3 of Pub. L. 108–130][/us/pl/108/130/s3] (enacting this subpart) would not be in effect after Oct. 1, 2008, and that [section 4 of Pub. L. 108–130][/us/pl/108/130/s4] (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 2008, was repealed by [Pub. L. 113–14, title I, § 107(d)][/us/pl/113/14/s107/d], June 13, 2013, [127 Stat. 464][/us/stat/127/464].
+    [Pub. L. 108–130][/us/pl/108/130], § 5, Nov. 18, 2003, [117 Stat. 1371][/us/stat/117/1371], which provided that the amendments made by [section 3 of Pub. L. 108–130][/us/pl/108/130/s3] (enacting this subpart) would not be in effect after Oct. 1, 2008, and that [section 4 of Pub. L. 108–130][/us/pl/108/130/s4] (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 2008, was repealed by [Pub. L. 113–14, title I][/us/pl/113/14/tI], § 107(d), June 13, 2013, [127 Stat. 464][/us/stat/127/464].
 
-    \[[Pub. L. 113–14, title I, § 107(d)][/us/pl/113/14/s107/d], June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that the repeal of [section 5 of Pub. L. 108–130][/us/pl/108/130/s5], formerly set out above, is effective Nov. 18, 2003.\]
+    \[[Pub. L. 113–14, title I][/us/pl/113/14/tI], § 107(d), June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that the repeal of [section 5 of Pub. L. 108–130][/us/pl/108/130/s5], formerly set out above, is effective Nov. 18, 2003.\]
 
  __Savings Provisions__ 
 
-[Pub. L. 113–14, title I, § 105][/us/pl/113/14/s105], June 13, 2013, [127 Stat. 463][/us/stat/127/463], provided that: 
+[Pub. L. 113–14, title I][/us/pl/113/14/tI], § 105, June 13, 2013, [127 Stat. 463][/us/stat/127/463], provided that: 
 
 > “Notwithstanding the amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.), as in effect on the day before the date of the enactment of this title \[June 13, 2013\], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after October 1, 2008, but before October 1, 2013, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2014.”
 
-[Pub. L. 110–316, title I, § 106][/us/pl/110/316/s106], Aug. 14, 2008, [122 Stat. 3514][/us/stat/122/3514], provided that: 
+[Pub. L. 110–316, title I][/us/pl/110/316/tI], § 106, Aug. 14, 2008, [122 Stat. 3514][/us/stat/122/3514], provided that: 
 
 > “Notwithstanding section 5 of the Animal Drug User Fee Act of 2003 \[[Pub. L. 108–130][/us/pl/108/130]\] (\[former\] [21 U.S.C. 379j–11][/us/usc/t21/s379j–11] note), and notwithstanding the amendments made by this title \[enacting [section 379j–13 of this title][/us/usc/t21/s379j–13] and amending this section and sections 360b and 379j–12 of this title\], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.), as in effect on the day before the date of the enactment of this title \[Aug. 14, 2008\], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after September 1, 2003, but before October 1, 2008, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2009.”
 
  __Findings__ 
 
-[Pub. L. 113–14, title I, § 101(b)][/us/pl/113/14/s101/b], June 13, 2013, [127 Stat. 451][/us/stat/127/451], provided that: 
+[Pub. L. 113–14, title I][/us/pl/113/14/tI], § 101(b), June 13, 2013, [127 Stat. 451][/us/stat/127/451], provided that: 
 
 > “Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 
-[Pub. L. 110–316, title I, § 101(b)][/us/pl/110/316/s101/b], Aug. 14, 2008, [122 Stat. 3509][/us/stat/122/3509], provided that: 
+[Pub. L. 110–316, title I][/us/pl/110/316/tI], § 101(b), Aug. 14, 2008, [122 Stat. 3509][/us/stat/122/3509], provided that: 
 
 > “Congress finds that the fees authorized by the amendments made in this title \[enacting [section 379j–13 of this title][/us/usc/t21/s379j–13] and amending this section and sections 360b and 379j–12 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 
-[Pub. L. 108–130, § 2][/us/pl/108/130/s2], Nov. 18, 2003, [117 Stat. 1361][/us/stat/117/1361], provided that: 
+[Pub. L. 108–130][/us/pl/108/130], § 2, Nov. 18, 2003, [117 Stat. 1361][/us/stat/117/1361], provided that: 
 
 > “Congress finds as follows:
 
@@ -155,7 +155,7 @@
 
  __Accountability and Reports__ 
 
-[Pub. L. 108–130, § 4][/us/pl/108/130/s4], Nov. 18, 2003, [117 Stat. 1370][/us/stat/117/1370], provided that:
+[Pub. L. 108–130][/us/pl/108/130], § 4, Nov. 18, 2003, [117 Stat. 1370][/us/stat/117/1370], provided that:
 
 >     “(a) __Public Accountability.—__ 
 
@@ -197,71 +197,71 @@
 [/us/usc/t21/s379j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9312
 [/us/usc/t21/s379g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g%2F8
 [/us/usc/t21/s379g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g%2F11
-[/us/act/1938-06-25/ch675/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs739
-[/us/pl/108/130/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130
 [/us/stat/117/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1361
-[/us/pl/110/85/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs109
+[/us/pl/110/85/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtI
 [/us/stat/121/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F842
-[/us/pl/110/316/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs102
+[/us/pl/110/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtI
 [/us/stat/122/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3510
-[/us/pl/113/14/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs102
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F452
 [/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
-[/us/pl/110/316/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs102%2F1
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/pl/110/316/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs102%2F2
-[/us/pl/110/316/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs102%2F3
-[/us/pl/110/316/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs102%2F4
-[/us/pl/110/85/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs109%2Fa
-[/us/pl/110/85/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs109%2Fb
-[/us/pl/113/14/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs106
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F464
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/110/316/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs107
+[/us/pl/110/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtI
 [/us/stat/122/3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3514
 [/us/usc/t21/s379j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9313
 [/us/usc/t21/s379j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9312
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/110/316/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs108
+[/us/pl/110/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtI
 [/us/stat/122/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3515
 [/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/usc/t21/s379j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9312
 [/us/pl/110/316/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs104
 [/us/usc/t21/s379j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9313
-[/us/pl/113/14/s107/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs107%2Fc%2F1
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F464
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/110/85/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs107
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
-[/us/pl/108/130/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs5
+[/us/pl/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130
 [/us/stat/117/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1371
 [/us/pl/108/130/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs3
 [/us/pl/108/130/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs4
-[/us/pl/113/14/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs107%2Fd
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F464
-[/us/pl/113/14/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs107%2Fd
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F464
 [/us/pl/108/130/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs5
-[/us/pl/113/14/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs105
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F463
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/110/316/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs106
+[/us/pl/110/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtI
 [/us/stat/122/3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3514
 [/us/pl/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
 [/us/usc/t21/s379j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9313
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/113/14/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs101%2Fb
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F451
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/110/316/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs101%2Fb
+[/us/pl/110/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtI
 [/us/stat/122/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3509
 [/us/usc/t21/s379j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9313
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/108/130/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs2
+[/us/pl/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130
 [/us/stat/117/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1361
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/108/130/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs4
+[/us/pl/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130
 [/us/stat/117/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1370
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311

@@ -21,25 +21,25 @@
 
     The determination and order of the Secretary with respect thereto under this section shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the appropriate court as provided in [section 674 of this title][/us/usc/t21/s674]. Judicial review of any such order shall be upon the record upon which the determination and order are based.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 401, as added [Pub. L. 90–201, § 16][/us/pl/90/201/s16], Dec. 15, 1967, [81 Stat. 597][/us/stat/81/597]; amended [Pub. L. 99–641, title IV, § 403(b)][/us/pl/99/641/s403/b], Nov. 10, 1986, [100 Stat. 3568][/us/stat/100/3568].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 401, as added [Pub. L. 90–201][/us/pl/90/201], § 16, Dec. 15, 1967, [81 Stat. 597][/us/stat/81/597]; amended [Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 403(b), Nov. 10, 1986, [100 Stat. 3568][/us/stat/100/3568].)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–641, § 403(b)(1)][/us/pl/99/641/s403/b/1], (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
+    1986—Subsec. (a). [Pub. L. 99–641][/us/pl/99/641], § 403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
 
-    [Pub. L. 99–641, § 403(b)(2)(A)][/us/pl/99/641/s403/b/2/A], which directed that subsec. (a) be amended by substituting “applicant for” for “applicant, for”, could not be executed because “applicant, for” does not appear.
+    [Pub. L. 99–641][/us/pl/99/641], § 403(b)(2)(A), which directed that subsec. (a) be amended by substituting “applicant for” for “applicant, for”, could not be executed because “applicant, for” does not appear.
 
-    Subsecs. (b) to (e). [Pub. L. 99–641, § 403(b)(6)][/us/pl/99/641/s403/b/6], temporarily added subsecs. (b) to (e). See Effective and Termination Dates of 1986 Amendment note below.
+    Subsecs. (b) to (e). [Pub. L. 99–641][/us/pl/99/641], § 403(b)(6), temporarily added subsecs. (b) to (e). See Effective and Termination Dates of 1986 Amendment note below.
 
-    Subsec. (f). [Pub. L. 99–641, § 403(b)(3)][/us/pl/99/641/s403/b/3], temporarily designated provisions which related to other provisions for withdrawal of inspection services as subsec. (f). See Effective and Termination Dates of 1986 Amendment note below.
+    Subsec. (f). [Pub. L. 99–641][/us/pl/99/641], § 403(b)(3), temporarily designated provisions which related to other provisions for withdrawal of inspection services as subsec. (f). See Effective and Termination Dates of 1986 Amendment note below.
 
-    Subsec. (g). [Pub. L. 99–641, § 403(b)(4)][/us/pl/99/641/s403/b/4], temporarily designated provisions which related to responsible connection with business as subsec. (g). See Effective and Termination Dates of 1986 Amendment note below.
+    Subsec. (g). [Pub. L. 99–641][/us/pl/99/641], § 403(b)(4), temporarily designated provisions which related to responsible connection with business as subsec. (g). See Effective and Termination Dates of 1986 Amendment note below.
 
-    Subsec. (h). [Pub. L. 99–641, § 403(b)(5)][/us/pl/99/641/s403/b/5], temporarily designated provisions which related to finality of determination by Secretary and to judicial review as subsec. (h), substituted “Except as provided in subsection (e)(2) of this section, the determination” for “The determination” and “subsection (e) of this section” for “this section”. See Effective and Termination Dates of 1986 Amendment note below.
+    Subsec. (h). [Pub. L. 99–641][/us/pl/99/641], § 403(b)(5), temporarily designated provisions which related to finality of determination by Secretary and to judicial review as subsec. (h), substituted “Except as provided in subsection (e)(2) of this section, the determination” for “The determination” and “subsection (e) of this section” for “this section”. See Effective and Termination Dates of 1986 Amendment note below.
 
  __Effective and Termination Dates of 1986 Amendment__ 
 
-    [Pub. L. 99–641, title IV, § 403(b)][/us/pl/99/641/s403/b], Nov. 10, 1986, [100 Stat. 3568][/us/stat/100/3568], provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+    [Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 403(b), Nov. 10, 1986, [100 Stat. 3568][/us/stat/100/3568], provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
  __Effective Date__ 
 
@@ -58,17 +58,17 @@
 
 [/us/usc/t21/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs674
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs16
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F597
-[/us/pl/99/641/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3568
-[/us/pl/99/641/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb%2F1
-[/us/pl/99/641/s403/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb%2F2%2FA
-[/us/pl/99/641/s403/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb%2F6
-[/us/pl/99/641/s403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb%2F3
-[/us/pl/99/641/s403/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb%2F4
-[/us/pl/99/641/s403/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb%2F5
-[/us/pl/99/641/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fb
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3568
 [/us/pl/90/201/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601

@@ -73,7 +73,7 @@
 
         (3) For purposes of determining the 7-year period of exclusivity under paragraph (1) for a drug for which the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], the drug shall not be considered approved or conditionally approved until the date that the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
 
-([June 25, 1938, ch. 675, § 573][/us/act/1938-06-25/ch675/s573], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 900][/us/stat/118/900]; amended [Pub. L. 114–89, § 2(a)(4)][/us/pl/114/89/s2/a/4], Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 573, as added [Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(b)(4), Aug. 2, 2004, [118 Stat. 900][/us/stat/118/900]; amended [Pub. L. 114–89][/us/pl/114/89], § 2(a)(4), Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
 
  __References in Text__ 
 
@@ -100,10 +100,10 @@
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
-[/us/act/1938-06-25/ch675/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs573
-[/us/pl/108/282/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F4
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F900
-[/us/pl/114/89/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F4
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F700
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

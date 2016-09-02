@@ -23,7 +23,7 @@
 
         The Secretary shall refuse to render inspection to any establishment whose premises, facilities, or equipment, or the operation thereof, fail to meet the requirements of this section.
 
-([Pub. L. 85–172, § 7][/us/pl/85/172/s7], Aug. 28, 1957, [71 Stat. 444][/us/stat/71/444]; [Pub. L. 90–492, § 7][/us/pl/90/492/s7], Aug. 18, 1968, [82 Stat. 799][/us/stat/82/799].)
+([Pub. L. 85–172][/us/pl/85/172], § 7, Aug. 28, 1957, [71 Stat. 444][/us/stat/71/444]; [Pub. L. 90–492][/us/pl/90/492], § 7, Aug. 18, 1968, [82 Stat. 799][/us/stat/82/799].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/85/172/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs7
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F444
-[/us/pl/90/492/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs7
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F799
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

@@ -17,7 +17,7 @@
 
     The Secretary shall issue regulations to require that retail establishments for which the predominant business is the sale of tobacco products comply with any advertising restrictions applicable to retail establishments accessible to individuals under the age of 18.
 
-([June 25, 1938, ch. 675, § 913][/us/act/1938-06-25/ch675/s913], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1820][/us/stat/123/1820].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 913, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1820][/us/stat/123/1820].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs913
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1820
 
 

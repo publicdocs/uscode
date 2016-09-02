@@ -17,7 +17,7 @@
 
     The Advisory Commission shall terminate at the end of fiscal year 2007.
 
-([Pub. L. 100–690, title I, § 1048][/us/pl/100/690/s1048], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 234][/us/stat/111/234]; amended [Pub. L. 107–82, § 3][/us/pl/107/82/s3], Dec. 14, 2001, [115 Stat. 820][/us/stat/115/820].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1048, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 234][/us/stat/111/234]; amended [Pub. L. 107–82][/us/pl/107/82], § 3, Dec. 14, 2001, [115 Stat. 820][/us/stat/115/820].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/100/690/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1048
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F234
-[/us/pl/107/82/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs3
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F820
 [/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 

@@ -69,7 +69,7 @@
 
             (B) the dispensing or selling of a controlled substance pursuant to practices as determined by the Attorney General by regulation, which shall be consistent with effective controls against diversion.
 
-([Pub. L. 91–513, title II, § 309][/us/pl/91/513/s309], Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260]; [Pub. L. 110–425, § 2][/us/pl/110/425/s2], Oct. 15, 2008, [122 Stat. 4820][/us/stat/122/4820].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 309, Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260]; [Pub. L. 110–425][/us/pl/110/425], § 2, Oct. 15, 2008, [122 Stat. 4820][/us/stat/122/4820].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Effect of Scheduling on Prescriptions__ 
 
-[Pub. L. 101–647, title XIX, § 1902(c)][/us/pl/101/647/s1902/c], Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], provided that: 
+[Pub. L. 101–647, title XIX][/us/pl/101/647/tXIX], § 1902(c), Nov. 29, 1990, [104 Stat. 4852][/us/stat/104/4852], provided that: 
 
 > “Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section \[Nov. 29, 1990\] may be refilled without restriction under section 309(a) of the Controlled Substances Act ([21 U.S.C. 829(a)][/us/usc/t21/s829/a]).”
 
@@ -105,9 +105,9 @@
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/91/513/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs309
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1260
-[/us/pl/110/425/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs2
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4820
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -117,7 +117,7 @@
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/110/425/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fj
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/101/647/s1902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1902%2Fc
+[/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4852
 [/us/usc/t21/s829/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs829%2Fa
 

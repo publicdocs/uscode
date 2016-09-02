@@ -101,7 +101,7 @@
 
         The Secretary of Transportation, the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall provide assistance on request, to the extent resources are available, to the Secretary for the purposes of carrying out this section.
 
-([June 25, 1938, ch. 675, § 416][/us/act/1938-06-25/ch675/s416], as added [Pub. L. 109–59, title VII, § 7202(b)][/us/pl/109/59/s7202/b], Aug. 10, 2005, [119 Stat. 1911][/us/stat/119/1911].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 416, as added [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7202(b), Aug. 10, 2005, [119 Stat. 1911][/us/stat/119/1911].)
 
  __Effective Date__ 
 
@@ -109,7 +109,7 @@
 
  __Regulations__ 
 
-[Pub. L. 111–353, title I, § 111(a)][/us/pl/111/353/s111/a], Jan. 4, 2011, [124 Stat. 3916][/us/stat/124/3916], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 111(a), Jan. 4, 2011, [124 Stat. 3916][/us/stat/124/3916], provided that: 
 
 > “Not later than 18 months after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall promulgate regulations described in section 416(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 350e(b)][/us/usc/t21/s350e/b]).”
 
@@ -120,12 +120,12 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs416
-[/us/pl/109/59/s7202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7202%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1911
 [/us/pl/109/59/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7204
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
-[/us/pl/111/353/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs111%2Fa
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3916
 [/us/usc/t21/s350e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350e%2Fb
 

@@ -17,7 +17,7 @@
 
     No provision of this subchapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which that provision operates, including criminal penalties, to the exclusion of any State law on the same subject matter which would otherwise be within the authority of the State, unless there is a positive conflict between that provision of this subchapter and that State law so that the two cannot consistently stand together.
 
-([Pub. L. 91–513, title II, § 708][/us/pl/91/513/s708], Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 708, Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs708
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1284
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

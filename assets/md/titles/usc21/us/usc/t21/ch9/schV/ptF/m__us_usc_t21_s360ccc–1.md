@@ -219,7 +219,7 @@
 
         In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
 
-([June 25, 1938, ch. 675, § 572][/us/act/1938-06-25/ch675/s572], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 896][/us/stat/118/896]; amended [Pub. L. 114–89, § 2(a)(3)(C)][/us/pl/114/89/s2/a/3/C], Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 572, as added [Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(b)(4), Aug. 2, 2004, [118 Stat. 896][/us/stat/118/896]; amended [Pub. L. 114–89][/us/pl/114/89], § 2(a)(3)(C), Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
 
  __References in Text__ 
 
@@ -246,10 +246,10 @@
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
-[/us/act/1938-06-25/ch675/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs572
-[/us/pl/108/282/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F4
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F896
-[/us/pl/114/89/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F3%2FC
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F699
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

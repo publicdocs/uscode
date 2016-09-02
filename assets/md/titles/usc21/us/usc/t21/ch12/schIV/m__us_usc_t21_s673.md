@@ -55,7 +55,7 @@
 
         The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 403, as added [Pub. L. 90–201, § 16][/us/pl/90/201/s16], Dec. 15, 1967, [81 Stat. 598][/us/stat/81/598]; amended [Pub. L. 101–205, § 1][/us/pl/101/205/s1], Dec. 7, 1989, [103 Stat. 1829][/us/stat/103/1829].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 403, as added [Pub. L. 90–201][/us/pl/90/201], § 16, Dec. 15, 1967, [81 Stat. 598][/us/stat/81/598]; amended [Pub. L. 101–205][/us/pl/101/205], § 1, Dec. 7, 1989, [103 Stat. 1829][/us/stat/103/1829].)
 
  __Amendments__ 
 
@@ -73,9 +73,9 @@
 [/us/usc/t21/s601/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fm
 [/us/usc/t21/s601/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fm
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs16
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F598
-[/us/pl/101/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F205%2Fs1
+[/us/pl/101/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F205
 [/us/stat/103/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1829
 [/us/pl/101/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F205
 

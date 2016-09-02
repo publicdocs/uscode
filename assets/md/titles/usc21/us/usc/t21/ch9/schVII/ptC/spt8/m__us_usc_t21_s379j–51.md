@@ -139,7 +139,7 @@
 
     (14) The term “supplement” means a request to the Secretary to approve a change in a biosimilar biological product application which has been approved, including a supplement requesting that the Secretary determine that the biosimilar biological product meets the standards for interchangeability described in [section 262(k)(4) of title 42][/us/usc/t42/s262/k/4].
 
-([June 25, 1938, ch. 675, § 744G][/us/act/1938-06-25/ch675/s744G], as added [Pub. L. 112–144, title IV, § 402][/us/pl/112/144/s402], July 9, 2012, [126 Stat. 1026][/us/stat/126/1026].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744G, as added [Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 402, July 9, 2012, [126 Stat. 1026][/us/stat/126/1026].)
 
  __Termination of Section__ 
 
@@ -147,11 +147,11 @@
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 112–144, title IV, § 404(a)][/us/pl/112/144/s404/a], July 9, 2012, [126 Stat. 1038][/us/stat/126/1038], provided that: 
+[Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 404(a), July 9, 2012, [126 Stat. 1038][/us/stat/126/1038], provided that: 
 
 > “Sections 744G and 744H of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–51][/us/usc/t21/s379j–51], 379j–52\], as added by section 402 of this Act, shall cease to be effective October 1, 2017.”
 
-[Pub. L. 112–144, title IV, § 405][/us/pl/112/144/s405], July 9, 2012, [126 Stat. 1039][/us/stat/126/1039], provided that:
+[Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 405, July 9, 2012, [126 Stat. 1039][/us/stat/126/1039], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -167,7 +167,7 @@
 
  __Finding__ 
 
-[Pub. L. 112–144, title IV, § 401(b)][/us/pl/112/144/s401/b], July 9, 2012, [126 Stat. 1026][/us/stat/126/1026], provided that: 
+[Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 401(b), July 9, 2012, [126 Stat. 1026][/us/stat/126/1026], provided that: 
 
 > “The Congress finds that the fees authorized by the amendments made in this title \[enacting this section and sections 379j–52 and 379j–53 of this title and amending sections 379d–4 and 379g of this title\] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
@@ -190,16 +190,16 @@
 [/us/usc/t21/s355/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fp
 [/us/usc/t21/s355/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fk%2F5
 [/us/usc/t42/s262/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk%2F4
-[/us/act/1938-06-25/ch675/s744G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744G
-[/us/pl/112/144/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs402
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1026
 [/us/pl/112/144/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs404%2Fa
-[/us/pl/112/144/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs404%2Fa
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1038
 [/us/usc/t21/s379j–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9351
-[/us/pl/112/144/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs405
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1039
-[/us/pl/112/144/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs401%2Fb
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1026
 
 

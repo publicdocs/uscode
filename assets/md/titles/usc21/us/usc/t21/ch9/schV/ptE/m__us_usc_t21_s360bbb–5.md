@@ -69,7 +69,7 @@
 
         To carry out this section, there is authorized to be appropriated $6,000,000 for each of fiscal years 2013 through 2017.
 
-([June 25, 1938, ch. 675, § 566][/us/act/1938-06-25/ch675/s566], as added [Pub. L. 110–85, title VI, § 603][/us/pl/110/85/s603], Sept. 27, 2007, [121 Stat. 898][/us/stat/121/898]; amended [Pub. L. 112–144, title XI, § 1102][/us/pl/112/144/s1102], July 9, 2012, [126 Stat. 1108][/us/stat/126/1108].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 566, as added [Pub. L. 110–85, title VI][/us/pl/110/85/tVI], § 603, Sept. 27, 2007, [121 Stat. 898][/us/stat/121/898]; amended [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1102, July 9, 2012, [126 Stat. 1108][/us/stat/126/1108].)
 
  __Amendments__ 
 
@@ -85,10 +85,10 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs566
-[/us/pl/110/85/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs603
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVI
 [/us/stat/121/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F898
-[/us/pl/112/144/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1102
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1108
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 

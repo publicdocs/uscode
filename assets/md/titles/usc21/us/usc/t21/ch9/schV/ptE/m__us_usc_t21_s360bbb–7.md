@@ -53,7 +53,7 @@
 
         (3) any other person that distributes drugs except a person that distributes drugs exclusively for retail sale.
 
-([June 25, 1938, ch. 675, § 568][/us/act/1938-06-25/ch675/s568], as added [Pub. L. 112–144, title VII, § 715(b)][/us/pl/112/144/s715/b], July 9, 2012, [126 Stat. 1075][/us/stat/126/1075].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 568, as added [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 715(b), July 9, 2012, [126 Stat. 1075][/us/stat/126/1075].)
 
  __References in Text__ 
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1938-06-25/ch675/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs568
-[/us/pl/112/144/s715/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs715%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1075
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

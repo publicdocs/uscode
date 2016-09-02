@@ -61,7 +61,7 @@
 
             The Secretary may choose not to make information collected under this section publicly available under paragraph (1) or [section 356c(c) of this title][/us/usc/t21/s356c/c] if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of drug products to patients).
 
-([June 25, 1938, ch. 675, § 506E][/us/act/1938-06-25/ch675/s506E], as added [Pub. L. 112–144, title X, § 1004][/us/pl/112/144/s1004], July 9, 2012, [126 Stat. 1104][/us/stat/126/1104].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506E, as added [Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1004, July 9, 2012, [126 Stat. 1104][/us/stat/126/1104].)
 
 ----------
 
@@ -73,8 +73,8 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t21/s356c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c%2Fc
-[/us/act/1938-06-25/ch675/s506E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506E
-[/us/pl/112/144/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1004
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1104
 
 

@@ -17,7 +17,7 @@
 
     The barrels in which apples are packed in accordance with the provisions of sections 20 to 23 of this title may be branded in accordance with the provisions of [section 20 of this title][/us/usc/t21/s20].
 
-([Aug. 3, 1912, ch. 273, § 3][/us/act/1912-08-03/ch273/s3], [37 Stat. 251][/us/stat/37/251].)
+([Aug. 3, 1912, ch. 273][/us/act/1912-08-03/ch273], § 3, [37 Stat. 251][/us/stat/37/251].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t21/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs20
-[/us/act/1912-08-03/ch273/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273%2Fs3
+[/us/act/1912-08-03/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273
 [/us/stat/37/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F251
 
 

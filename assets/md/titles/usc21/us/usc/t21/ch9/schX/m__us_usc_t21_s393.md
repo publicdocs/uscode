@@ -145,21 +145,21 @@
 
         The Secretary shall make the reports required under subsection (h) available to the public on the Internet Web site of the Food and Drug Administration.
 
-([June 25, 1938, ch. 675, § 1003][/us/act/1938-06-25/ch675/s1003], formerly § 903, as added [Pub. L. 100–607, title V, § 503(a)][/us/pl/100/607/s503/a], Nov. 4, 1988, [102 Stat. 3121][/us/stat/102/3121]; amended [Pub. L. 100–690, title II, § 2631][/us/pl/100/690/s2631], Nov. 18, 1988, [102 Stat. 4244][/us/stat/102/4244]; [Pub. L. 105–115, title IV][/us/pl/105/115], §§ 406, 414, Nov. 21, 1997, [111 Stat. 2369][/us/stat/111/2369], 2377; renumbered § 1003 and amended [Pub. L. 111–31, div. A, title I][/us/pl/111/31], §§ 101(b)(2), 103(m), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784], 1838; [Pub. L. 111–353, title II, § 201(b)][/us/pl/111/353/s201/b], Jan. 4, 2011, [124 Stat. 3925][/us/stat/124/3925].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1003, formerly § 903, as added [Pub. L. 100–607, title V][/us/pl/100/607/tV], § 503(a), Nov. 4, 1988, [102 Stat. 3121][/us/stat/102/3121]; amended [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2631, Nov. 18, 1988, [102 Stat. 4244][/us/stat/102/4244]; [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], §§ 406, 414, Nov. 21, 1997, [111 Stat. 2369][/us/stat/111/2369], 2377; renumbered § 1003 and amended [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], §§ 101(b)(2), 103(m), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784], 1838; [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 201(b), Jan. 4, 2011, [124 Stat. 3925][/us/stat/124/3925].)
 
  __Amendments__ 
 
     2011—Subsecs. (h), (i). [Pub. L. 111–353][/us/pl/111/353] added subsecs. (h) and (i).
 
-    2009—Subsec. (d)(2)(C). [Pub. L. 111–31, § 103(m)][/us/pl/111/31/s103/m], struck out “and” after “cosmetics,” and inserted “, and tobacco products” after “devices”.
+    2009—Subsec. (d)(2)(C). [Pub. L. 111–31][/us/pl/111/31], § 103(m), struck out “and” after “cosmetics,” and inserted “, and tobacco products” after “devices”.
 
-    1997—Subsec. (b). [Pub. L. 105–115, § 406(a)(2)][/us/pl/105/115/s406/a/2], added subsec. (b). Former subsec. (b) redesignated (d).
+    1997—Subsec. (b). [Pub. L. 105–115][/us/pl/105/115], § 406(a)(2), added subsec. (b). Former subsec. (b) redesignated (d).
 
-    Subsec. (c). [Pub. L. 105–115, § 414][/us/pl/105/115/s414], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 105–115][/us/pl/105/115], § 414, added subsec. (c). Former subsec. (c) redesignated (e).
 
-    Subsecs. (d), (e). [Pub. L. 105–115, § 406(a)(1)][/us/pl/105/115/s406/a/1], redesignated subsecs. (b) and (c) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 105–115][/us/pl/105/115], § 406(a)(1), redesignated subsecs. (b) and (c) as (d) and (e), respectively.
 
-    Subsecs. (f), (g). [Pub. L. 105–115, § 406(b)][/us/pl/105/115/s406/b], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 105–115][/us/pl/105/115], § 406(b), added subsecs. (f) and (g).
 
     1988—Subsec. (b)(2). [Pub. L. 100–690][/us/pl/100/690] substituted “shall be responsible for executing this chapter and” for “shall be responsible”.
 
@@ -169,7 +169,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–607, title V, § 503(c)][/us/pl/100/607/s503/c], Nov. 4, 1988, [102 Stat. 3121][/us/stat/102/3121], provided that:
+[Pub. L. 100–607, title V][/us/pl/100/607/tV], § 503(c), Nov. 4, 1988, [102 Stat. 3121][/us/stat/102/3121], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this title \[enacting this section and amending sections 5315 and 5316 of Title 5, Government Organization and Employees\] shall take effect on the date of enactment of this Act \[Nov. 4, 1988\].
 
@@ -177,13 +177,13 @@
 
  __Office of Minor Use and Minor Species Animal Drug Development__ 
 
-[Pub. L. 108–282, title I, § 102(b)(7)][/us/pl/108/282/s102/b/7], Aug. 2, 2004, [118 Stat. 905][/us/stat/118/905], provided that: 
+[Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(b)(7), Aug. 2, 2004, [118 Stat. 905][/us/stat/118/905], provided that: 
 
 > “The Secretary of Health and Human Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter.”
 
  __Regulations for Sunscreen Products__ 
 
-[Pub. L. 105–115, title I, § 129][/us/pl/105/115/s129], Nov. 21, 1997, [111 Stat. 2331][/us/stat/111/2331], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 129, Nov. 21, 1997, [111 Stat. 2331][/us/stat/111/2331], provided that: 
 
 > “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
 
@@ -193,7 +193,7 @@
 
  __Advancing Regulatory Science To Promote Public Health Innovation__ 
 
-[Pub. L. 112–144, title XI, § 1124][/us/pl/112/144/s1124], July 9, 2012, [126 Stat. 1114][/us/stat/126/1114], provided that:
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1124, July 9, 2012, [126 Stat. 1114][/us/stat/126/1114], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -235,7 +235,7 @@
 
  __Information Technology__ 
 
-[Pub. L. 112–144, title XI, § 1125][/us/pl/112/144/s1125], July 9, 2012, [126 Stat. 1115][/us/stat/126/1115], provided that:
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1125, July 9, 2012, [126 Stat. 1115][/us/stat/126/1115], provided that:
 
 >     “(a)  __HHS Report__  __.—__ 
 
@@ -273,7 +273,7 @@
 
  __FDA Study of Mercury Compounds in Drugs and Food__ 
 
-[Pub. L. 105–115, title IV, § 413][/us/pl/105/115/s413], Nov. 21, 1997, [111 Stat. 2376][/us/stat/111/2376], provided that:
+[Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 413, Nov. 21, 1997, [111 Stat. 2376][/us/stat/111/2376], provided that:
 
 >     “(a)  __List and Analysis__  __.—__ 
 
@@ -307,11 +307,11 @@
 
  __Management Activities Study__ 
 
-    [Pub. L. 102–571, title II, § 205][/us/pl/102/571/s205], Oct. 29, 1992, [106 Stat. 4502][/us/stat/106/4502], directed Comptroller General to conduct a study of management of activities of the Food and Drug Administration that are related to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances and submit an interim report to Congress, not later than 6 months after Oct. 29, 1992, with a final report to be submitted not later than 12 months after Oct. 29, 1992.
+    [Pub. L. 102–571, title II][/us/pl/102/571/tII], § 205, Oct. 29, 1992, [106 Stat. 4502][/us/stat/106/4502], directed Comptroller General to conduct a study of management of activities of the Food and Drug Administration that are related to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances and submit an interim report to Congress, not later than 6 months after Oct. 29, 1992, with a final report to be submitted not later than 12 months after Oct. 29, 1992.
 
  __Congressional Findings__ 
 
-[Pub. L. 100–607, title V, § 502][/us/pl/100/607/s502], Nov. 4, 1988, [102 Stat. 3120][/us/stat/102/3120], provided that: 
+[Pub. L. 100–607, title V][/us/pl/100/607/tV], § 502, Nov. 4, 1988, [102 Stat. 3120][/us/stat/102/3120], provided that: 
 
 > “Congress finds that—
 
@@ -333,36 +333,36 @@
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s350j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350j
 [/us/usc/t21/s350j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350j
-[/us/act/1938-06-25/ch675/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1003
-[/us/pl/100/607/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs503%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/100/607/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtV
 [/us/stat/102/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3121
-[/us/pl/100/690/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2631
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4244
-[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2369
-[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
-[/us/pl/111/353/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs201%2Fb
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3925
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/111/31/s103/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fm
-[/us/pl/105/115/s406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs406%2Fa%2F2
-[/us/pl/105/115/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs414
-[/us/pl/105/115/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs406%2Fa%2F1
-[/us/pl/105/115/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs406%2Fb
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/100/607/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs503%2Fc
+[/us/pl/100/607/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtV
 [/us/stat/102/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3121
 [/us/usc/t21/s393/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs393%2Fb%2F1
-[/us/pl/108/282/s102/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F7
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F905
-[/us/pl/105/115/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs129
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2331
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/112/144/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1124
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1114
 [/us/usc/t21/s360bbb–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%935
 [/us/usc/t21/s379h–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379h%E2%80%932%2Fa
@@ -371,13 +371,13 @@
 [/us/usc/t21/s379j–53/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353%2Fa
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t42/s262/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fi
-[/us/pl/112/144/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1125
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1115
-[/us/pl/105/115/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs413
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2376
-[/us/pl/102/571/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs205
+[/us/pl/102/571/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtII
 [/us/stat/106/4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4502
-[/us/pl/100/607/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs502
+[/us/pl/100/607/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtV
 [/us/stat/102/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3120
 
 

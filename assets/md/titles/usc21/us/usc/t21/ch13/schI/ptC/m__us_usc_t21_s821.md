@@ -17,7 +17,7 @@
 
     The Attorney General is authorized to promulgate rules and regulations and to charge reasonable fees relating to the registration and control of the manufacture, distribution, and dispensing of controlled substances and to listed chemicals.
 
-([Pub. L. 91–513, title II, § 301][/us/pl/91/513/s301], Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 103–200, § 3(a)][/us/pl/103/200/s3/a], Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 108–447, div. B, title VI, § 633(b)][/us/pl/108/447/s633/b], Dec. 8, 2004, [118 Stat. 2922][/us/stat/118/2922].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 301, Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 103–200][/us/pl/103/200], § 3(a), Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 108–447, div. B, title VI][/us/pl/108/447/dB/tVI], § 633(b), Dec. 8, 2004, [118 Stat. 2922][/us/stat/118/2922].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/91/513/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs301
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1253
-[/us/pl/103/200/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fa
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2336
-[/us/pl/108/447/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs633%2Fb
+[/us/pl/108/447/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtVI
 [/us/stat/118/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2922
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200

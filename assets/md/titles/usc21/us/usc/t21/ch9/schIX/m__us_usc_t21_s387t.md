@@ -75,11 +75,11 @@
 
         In carrying out this section, the Secretary shall consult with the Attorney General of the United States and the Secretary of the Treasury, as appropriate.
 
-([June 25, 1938, ch. 675, § 920][/us/act/1938-06-25/ch675/s920], as added [Pub. L. 111–31, div. A, title III, § 301][/us/pl/111/31/s301], June 22, 2009, [123 Stat. 1850][/us/stat/123/1850].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 920, as added [Pub. L. 111–31, div. A, title III][/us/pl/111/31/dA/tIII], § 301, June 22, 2009, [123 Stat. 1850][/us/stat/123/1850].)
 
  __References in Text__ 
 
-    Section 201 of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a)(1), is [section 201 of div. A of Pub. L. 111–31][/us/pl/111/31/s201].
+    Section 201 of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a)(1), is [section 201 of div. A of Pub. L. 111–31][/us/pl/111/31/dA/s201].
 
 ----------
 
@@ -89,9 +89,9 @@
 ----------
 
 [/us/usc/t15/s1333/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333%2Fd
-[/us/act/1938-06-25/ch675/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs920
-[/us/pl/111/31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs301
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtIII
 [/us/stat/123/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1850
-[/us/pl/111/31/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201
+[/us/pl/111/31/dA/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2Fs201
 
 

@@ -53,7 +53,7 @@
 
                     (II) such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
 
-([Pub. L. 91–513, title II, § 305][/us/pl/91/513/s305], Oct. 27, 1970, [84 Stat. 1256][/us/stat/84/1256]; [Pub. L. 113–260, § 3(a)][/us/pl/113/260/s3/a], Dec. 18, 2014, [128 Stat. 2931][/us/stat/128/2931].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 305, Oct. 27, 1970, [84 Stat. 1256][/us/stat/84/1256]; [Pub. L. 113–260][/us/pl/113/260], § 3(a), Dec. 18, 2014, [128 Stat. 2931][/us/stat/128/2931].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Identification and Publication of List of Products Containing Anabolic Steroids__ 
 
-[Pub. L. 113–260, § 4][/us/pl/113/260/s4], Dec. 18, 2014, [128 Stat. 2932][/us/stat/128/2932], provided that:
+[Pub. L. 113–260][/us/pl/113/260], § 4, Dec. 18, 2014, [128 Stat. 2932][/us/stat/128/2932], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -93,9 +93,9 @@
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
-[/us/pl/91/513/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs305
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1256
-[/us/pl/113/260/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fa
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/stat/128/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2931
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
@@ -104,7 +104,7 @@
 [/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/pl/91/513/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs704%2Fc
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/113/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs4
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/stat/128/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2932
 [/us/pl/113/260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs1
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801

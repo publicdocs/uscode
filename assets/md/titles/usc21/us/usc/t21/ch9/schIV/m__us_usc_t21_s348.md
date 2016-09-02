@@ -181,21 +181,21 @@
 
         Without regard to subsections (b) to (i), inclusive, of this section, the Secretary shall by regulation provide for exempting from the requirements of this section any food additive, and any food bearing or containing such additive, intended solely for investigational use by qualified experts when in his opinion such exemption is consistent with the public health.
 
-([June 25, 1938, ch. 675, § 409][/us/act/1938-06-25/ch675/s409], as added [Pub. L. 85–929, § 4][/us/pl/85/929/s4], Sept. 6, 1958, [72 Stat. 1785][/us/stat/72/1785]; amended [Pub. L. 86–546, § 2][/us/pl/86/546/s2], June 29, 1960, [74 Stat. 255][/us/stat/74/255]; [Pub. L. 87–781, title I, § 104(f)(1)][/us/pl/87/781/s104/f/1], Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 98–620, title IV, § 402(25)(B)][/us/pl/98/620/s402/25/B], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 105–115, title III, § 309][/us/pl/105/115/s309], Nov. 21, 1997, [111 Stat. 2354][/us/stat/111/2354].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 409, as added [Pub. L. 85–929][/us/pl/85/929], § 4, Sept. 6, 1958, [72 Stat. 1785][/us/stat/72/1785]; amended [Pub. L. 86–546][/us/pl/86/546], § 2, June 29, 1960, [74 Stat. 255][/us/stat/74/255]; [Pub. L. 87–781, title I][/us/pl/87/781/tI], § 104(f)(1), Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(25)(B), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 105–115, title III][/us/pl/105/115/tIII], § 309, Nov. 21, 1997, [111 Stat. 2354][/us/stat/111/2354].)
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–115, § 309(a)(4)][/us/pl/105/115/s309/a/4], in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title][/us/usc/t21/s342/a/1].” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of [section 342(a) of this title][/us/usc/t21/s342/a].”
+    1997—Subsec. (a). [Pub. L. 105–115][/us/pl/105/115], § 309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title][/us/usc/t21/s342/a/1].” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of [section 342(a) of this title][/us/usc/t21/s342/a].”
 
-    Subsec. (a)(1). [Pub. L. 105–115, § 309(a)(1)][/us/pl/105/115/s309/a/1], substituted “subsection (j)” for “subsection (i)”.
+    Subsec. (a)(1). [Pub. L. 105–115][/us/pl/105/115], § 309(a)(1), substituted “subsection (j)” for “subsection (i)”.
 
-    Subsec. (a)(3). [Pub. L. 105–115, § 309(a)(1)(B)][/us/pl/105/115/s309/a/1/B], (2), (3), added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–115][/us/pl/105/115], § 309(a)(1)(B), (2), (3), added par. (3).
 
-    Subsec. (h). [Pub. L. 105–115, § 309(b)(2)][/us/pl/105/115/s309/b/2], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 105–115, § 309(b)(1)][/us/pl/105/115/s309/b/1], (3), redesignated subsec. (h) as (i) and inserted at end “The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.”
+    Subsec. (i). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(1), (3), redesignated subsec. (h) as (i) and inserted at end “The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.”
 
-    Subsec. (j). [Pub. L. 105–115, § 309(b)(1)][/us/pl/105/115/s309/b/1], (4), redesignated subsec. (i) as (j) and substituted “subsections (b) to (i)” for “subsections (b) to (h)”.
+    Subsec. (j). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(1), (4), redesignated subsec. (i) as (j) and substituted “subsections (b) to (i)” for “subsections (b) to (h)”.
 
     1984—Subsec. (g)(2). [Pub. L. 98–620][/us/pl/98/620] struck out provision that required the court to advance on the docket and expedite the disposition of all causes filed therein pursuant to this section.
 
@@ -227,7 +227,7 @@
 
  __Glass and Ceramic Ware__ 
 
-[Pub. L. 105–115, title III, § 308][/us/pl/105/115/s308], Nov. 21, 1997, [111 Stat. 2353][/us/stat/111/2353], provided that:
+[Pub. L. 105–115, title III][/us/pl/105/115/tIII], § 308, Nov. 21, 1997, [111 Stat. 2353][/us/stat/111/2353], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -245,7 +245,7 @@
 
  __Moratorium on Authority of Secretary With Respect to Saccharin__ 
 
-[Pub. L. 95–203, § 3][/us/pl/95/203/s3], Nov. 23, 1977, [91 Stat. 1452][/us/stat/91/1452], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–273][/us/pl/96/273], June 17, 1980, [94 Stat. 536][/us/stat/94/536]; [Pub. L. 97–42, § 2][/us/pl/97/42/s2], Aug. 14, 1981, [95 Stat. 946][/us/stat/95/946]; [Pub. L. 98–22, § 2][/us/pl/98/22/s2], Apr. 22, 1983, [97 Stat. 173][/us/stat/97/173]; [Pub. L. 99–46][/us/pl/99/46], May 24, 1985, [99 Stat. 81][/us/stat/99/81]; [Pub. L. 100–71, title I, § 101][/us/pl/100/71/s101], July 11, 1987, [101 Stat. 431][/us/stat/101/431]; [Pub. L. 102–142, title VI][/us/pl/102/142], Oct. 28, 1991, [105 Stat. 910][/us/stat/105/910]; [Pub. L. 104–180, title VI, § 602][/us/pl/104/180/s602], Aug. 6, 1996, [110 Stat. 1594][/us/stat/110/1594], provided that: 
+[Pub. L. 95–203][/us/pl/95/203], § 3, Nov. 23, 1977, [91 Stat. 1452][/us/stat/91/1452], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–273][/us/pl/96/273], June 17, 1980, [94 Stat. 536][/us/stat/94/536]; [Pub. L. 97–42][/us/pl/97/42], § 2, Aug. 14, 1981, [95 Stat. 946][/us/stat/95/946]; [Pub. L. 98–22][/us/pl/98/22], § 2, Apr. 22, 1983, [97 Stat. 173][/us/stat/97/173]; [Pub. L. 99–46][/us/pl/99/46], May 24, 1985, [99 Stat. 81][/us/stat/99/81]; [Pub. L. 100–71, title I][/us/pl/100/71/tI], § 101, July 11, 1987, [101 Stat. 431][/us/stat/101/431]; [Pub. L. 102–142, title VI][/us/pl/102/142/tVI], Oct. 28, 1991, [105 Stat. 910][/us/stat/105/910]; [Pub. L. 104–180, title VI][/us/pl/104/180/tVI], § 602, Aug. 6, 1996, [110 Stat. 1594][/us/stat/110/1594], provided that: 
 
 > “During the period ending May 1, 2002, the Secretary—
 
@@ -255,7 +255,7 @@
 
 >     solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both.”
 
-    \[Definition of “saccharin” as used in [section 3 of Pub. L. 95–203][/us/pl/95/203/s3], set out above, to include calcium saccharin, sodium saccharin, and ammonium saccharin, see [Pub. L. 95–203, § 2(d)][/us/pl/95/203/s2/d], Nov. 23, 1997, [91 Stat. 1452][/us/stat/91/1452].\]
+    \[Definition of “saccharin” as used in [section 3 of Pub. L. 95–203][/us/pl/95/203/s3], set out above, to include calcium saccharin, sodium saccharin, and ammonium saccharin, see [Pub. L. 95–203][/us/pl/95/203], § 2(d), Nov. 23, 1997, [91 Stat. 1452][/us/stat/91/1452].\]
 
 ----------
 
@@ -268,25 +268,25 @@
 [/us/usc/t21/s342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa%2F1
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/act/1938-06-25/ch675/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs409
-[/us/pl/85/929/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs4
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/85/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929
 [/us/stat/72/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1785
-[/us/pl/86/546/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F546%2Fs2
+[/us/pl/86/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F546
 [/us/stat/74/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F255
-[/us/pl/87/781/s104/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Ff%2F1
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F785
-[/us/pl/98/620/s402/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F25%2FB
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
-[/us/pl/105/115/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309
+[/us/pl/105/115/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIII
 [/us/stat/111/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2354
-[/us/pl/105/115/s309/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309%2Fa%2F4
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa%2F1
 [/us/usc/t21/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa
-[/us/pl/105/115/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309%2Fa%2F1
-[/us/pl/105/115/s309/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309%2Fa%2F1%2FB
-[/us/pl/105/115/s309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309%2Fb%2F2
-[/us/pl/105/115/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309%2Fb%2F1
-[/us/pl/105/115/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs309%2Fb%2F1
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/pl/86/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F546
@@ -302,30 +302,30 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/85/929/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs6%2Fa
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
-[/us/pl/105/115/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs308
+[/us/pl/105/115/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIII
 [/us/stat/111/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2353
-[/us/pl/95/203/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F203%2Fs3
+[/us/pl/95/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F203
 [/us/stat/91/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1452
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F273
 [/us/stat/94/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F536
-[/us/pl/97/42/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F42%2Fs2
+[/us/pl/97/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F42
 [/us/stat/95/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F946
-[/us/pl/98/22/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F22%2Fs2
+[/us/pl/98/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F22
 [/us/stat/97/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F173
 [/us/pl/99/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F46
 [/us/stat/99/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F81
-[/us/pl/100/71/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs101
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F431
-[/us/pl/102/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142
+[/us/pl/102/142/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F142%2FtVI
 [/us/stat/105/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F910
-[/us/pl/104/180/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs602
+[/us/pl/104/180/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVI
 [/us/stat/110/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1594
 [/us/usc/t21/s343a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343a
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
 [/us/pl/95/203/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F203%2Fs3
-[/us/pl/95/203/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F203%2Fs2%2Fd
+[/us/pl/95/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F203
 [/us/stat/91/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1452
 
 

@@ -17,7 +17,7 @@
 
     There is extraterritorial jurisdiction over any violation of this chapter relating to any article regulated under this chapter if such article was intended for import into the United States or if any act in furtherance of the violation was committed in the United States.
 
-([June 25, 1938, ch. 675, § 311][/us/act/1938-06-25/ch675/s311], as added [Pub. L. 112–144, title VII, § 718][/us/pl/112/144/s718], July 9, 2012, [126 Stat. 1077][/us/stat/126/1077].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 311, as added [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 718, July 9, 2012, [126 Stat. 1077][/us/stat/126/1077].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs311
-[/us/pl/112/144/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs718
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1077
 
 

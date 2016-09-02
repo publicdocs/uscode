@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be construed as authorizing the possession, sale, or serving of colored oleomargarine or colored margarine in any State or Territory in contravention of the laws of such State or Territory.
 
-([Mar. 16, 1950, ch. 61, § 6][/us/act/1950-03-16/ch61/s6], [64 Stat. 22][/us/stat/64/22].)
+([Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 6, [64 Stat. 22][/us/stat/64/22].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1950-03-16/ch61/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs6
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F22
 [/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F20

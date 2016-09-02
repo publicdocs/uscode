@@ -41,7 +41,7 @@
 
         The authority conferred on the Secretary by paragraph (b), (c), or (d) of this section with respect to persons engaged in the specified kinds of business in or for commerce may be exercised with respect to persons engaged, in any State or organized territory, in such kinds of business but not in or for commerce, whenever the Secretary determines, after consultation with an appropriate advisory committee provided for in [section 454 of this title][/us/usc/t21/s454], that the State or territory does not have at least equal authority under its laws or such authority is not exercised in a manner to effectuate the purposes of this chapter, including the State or territory providing for the Secretary or his representative being afforded access to such places of business and the facilities, inventories, and records thereof, and the taking of reasonable samples, where he determines necessary in carrying out his responsibilities under this chapter; and in such case the provisions of paragraph (b), (c), or (d) of this section, respectively, shall apply to such persons to the same extent and in the same manner as if they were engaged in such business in or for commerce and the transactions involved were in commerce.
 
-([Pub. L. 85–172, § 11][/us/pl/85/172/s11], Aug. 28, 1957, [71 Stat. 446][/us/stat/71/446]; [Pub. L. 90–492, § 11][/us/pl/90/492/s11], Aug. 18, 1968, [82 Stat. 801][/us/stat/82/801].)
+([Pub. L. 85–172][/us/pl/85/172], § 11, Aug. 28, 1957, [71 Stat. 446][/us/stat/71/446]; [Pub. L. 90–492][/us/pl/90/492], § 11, Aug. 18, 1968, [82 Stat. 801][/us/stat/82/801].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t21/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs454
-[/us/pl/85/172/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs11
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F446
-[/us/pl/90/492/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs11
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F801
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

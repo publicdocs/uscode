@@ -267,7 +267,7 @@
 
             Any person who knowingly or intentionally violates this subsection shall be sentenced in accordance with subsection (b).
 
-([Pub. L. 91–513, title II, § 401][/us/pl/91/513/s401], Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260]; [Pub. L. 95–633, title II, § 201][/us/pl/95/633/s201], Nov. 10, 1978, [92 Stat. 3774][/us/stat/92/3774]; [Pub. L. 96–359, § 8(c)][/us/pl/96/359/s8/c], Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 224(a), 502, 503(b)(1), (2), Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030], 2068, 2070; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1002, 1003(a), 1004(a), 1005(a), 1103, title XV, § 15005, Oct. 27, 1986, [100 Stat. 3207–2][/us/stat/100/3207-2], 3207–5, 3207–6, 3207–11, 3207–192; [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, [102 Stat. 4318][/us/stat/102/4318], 4367, 4371, 4378, 4381; [Pub. L. 101–647, title X, § 1002(e)][/us/pl/101/647/s1002/e], title XII, § 1202, title XXXV, § 3599K, Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828], 4830, 4932; [Pub. L. 103–322, title IX, § 90105(a)][/us/pl/103/322/s90105/a], (c), title XVIII, § 180201(b)(2)(A), Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987], 1988, 2047; [Pub. L. 104–237, title II, § 206(a)][/us/pl/104/237/s206/a], title III, § 302(a), Oct. 3, 1996, [110 Stat. 3103][/us/stat/110/3103], 3105; [Pub. L. 104–305, § 2(a)][/us/pl/104/305/s2/a], (b)(1), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807]; [Pub. L. 105–277, div. E, § 2(a)][/us/pl/105/277/s2/a], Oct. 21, 1998, [112 Stat. 2681–759][/us/stat/112/2681-759]; [Pub. L. 106–172][/us/pl/106/172], §§ 3(b)(1), 5(b), 9, Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9], 10, 13; [Pub. L. 107–273, div. B, title III, § 3005(a)][/us/pl/107/273/s3005/a], title IV, § 4002(d)(2)(A), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805], 1809; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(f)(1)(B), 732, Mar. 9, 2006, [120 Stat. 262][/us/stat/120/262], 270; [Pub. L. 109–248, title II, § 201][/us/pl/109/248/s201], July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 110–425, § 3(e)][/us/pl/110/425/s3/e], (f), Oct. 15, 2008, [122 Stat. 4828][/us/stat/122/4828], 4829; [Pub. L. 111–220][/us/pl/111/220], §§ 2(a), 4(a), Aug. 3, 2010, [124 Stat. 2372][/us/stat/124/2372].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 401, Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260]; [Pub. L. 95–633, title II][/us/pl/95/633/tII], § 201, Nov. 10, 1978, [92 Stat. 3774][/us/stat/92/3774]; [Pub. L. 96–359][/us/pl/96/359], § 8(c), Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 224(a), 502, 503(b)(1), (2), Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030], 2068, 2070; [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1002, 1003(a), 1004(a), 1005(a), 1103, title XV, § 15005, Oct. 27, 1986, [100 Stat. 3207–2][/us/stat/100/3207-2], 3207–5, 3207–6, 3207–11, 3207–192; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], §§ 6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, [102 Stat. 4318][/us/stat/102/4318], 4367, 4371, 4378, 4381; [Pub. L. 101–647, title X][/us/pl/101/647/tX], § 1002(e), title XII, § 1202, title XXXV, § 3599K, Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828], 4830, 4932; [Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90105(a), (c), title XVIII, § 180201(b)(2)(A), Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987], 1988, 2047; [Pub. L. 104–237, title II][/us/pl/104/237/tII], § 206(a), title III, § 302(a), Oct. 3, 1996, [110 Stat. 3103][/us/stat/110/3103], 3105; [Pub. L. 104–305][/us/pl/104/305], § 2(a), (b)(1), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807]; [Pub. L. 105–277, div. E][/us/pl/105/277/dE], § 2(a), Oct. 21, 1998, [112 Stat. 2681–759][/us/stat/112/2681-759]; [Pub. L. 106–172][/us/pl/106/172], §§ 3(b)(1), 5(b), 9, Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9], 10, 13; [Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3005(a), title IV, § 4002(d)(2)(A), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805], 1809; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], §§ 711(f)(1)(B), 732, Mar. 9, 2006, [120 Stat. 262][/us/stat/120/262], 270; [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 201, July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 110–425][/us/pl/110/425], § 3(e), (f), Oct. 15, 2008, [122 Stat. 4828][/us/stat/122/4828], 4829; [Pub. L. 111–220][/us/pl/111/220], §§ 2(a), 4(a), Aug. 3, 2010, [124 Stat. 2372][/us/stat/124/2372].)
 
  __References in Text__ 
 
@@ -283,89 +283,89 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1)(A). [Pub. L. 111–220, § 4(a)(1)][/us/pl/111/220/s4/a/1], in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
+    2010—Subsec. (b)(1)(A). [Pub. L. 111–220][/us/pl/111/220], § 4(a)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 111–220, § 2(a)(1)][/us/pl/111/220/s2/a/1], substituted “280 grams” for “50 grams”.
+    Subsec. (b)(1)(A)(iii). [Pub. L. 111–220][/us/pl/111/220], § 2(a)(1), substituted “280 grams” for “50 grams”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–220, § 4(a)(2)][/us/pl/111/220/s4/a/2], in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
+    Subsec. (b)(1)(B). [Pub. L. 111–220][/us/pl/111/220], § 4(a)(2), in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
 
-    Subsec. (b)(1)(B)(iii). [Pub. L. 111–220, § 2(a)(2)][/us/pl/111/220/s2/a/2], substituted “28 grams” for “5 grams”.
+    Subsec. (b)(1)(B)(iii). [Pub. L. 111–220][/us/pl/111/220], § 2(a)(2), substituted “28 grams” for “5 grams”.
 
-    2008—Subsec. (b)(1)(D). [Pub. L. 110–425, § 3(e)(1)(A)][/us/pl/110/425/s3/e/1/A], struck out “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam” after “hashish oil”.
+    2008—Subsec. (b)(1)(D). [Pub. L. 110–425][/us/pl/110/425], § 3(e)(1)(A), struck out “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam” after “hashish oil”.
 
-    Subsec. (b)(1)(E). [Pub. L. 110–425, § 3(e)(1)(B)][/us/pl/110/425/s3/e/1/B], added subpar. (E).
+    Subsec. (b)(1)(E). [Pub. L. 110–425][/us/pl/110/425], § 3(e)(1)(B), added subpar. (E).
 
-    Subsec. (b)(2). [Pub. L. 110–425, § 3(e)(2)][/us/pl/110/425/s3/e/2], substituted “5 years” for “3 years”, “10 years” for “6 years”, and “after a prior conviction for a felony drug offense has become final,” for “after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,”.
+    Subsec. (b)(2). [Pub. L. 110–425][/us/pl/110/425], § 3(e)(2), substituted “5 years” for “3 years”, “10 years” for “6 years”, and “after a prior conviction for a felony drug offense has become final,” for “after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,”.
 
-    Subsec. (b)(3). [Pub. L. 110–425, § 3(e)(3)][/us/pl/110/425/s3/e/3], substituted “4 years” for “2 years” and “after a prior conviction for a felony drug offense has become final,” for “after one or more convictions of him for an offense punishable under this paragraph, or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,” and inserted at end “Any sentence imposing a term of imprisonment under this paragraph may, if there was a prior conviction, impose a term of supervised release of not more than 1 year, in addition to such term of imprisonment.”
+    Subsec. (b)(3). [Pub. L. 110–425][/us/pl/110/425], § 3(e)(3), substituted “4 years” for “2 years” and “after a prior conviction for a felony drug offense has become final,” for “after one or more convictions of him for an offense punishable under this paragraph, or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,” and inserted at end “Any sentence imposing a term of imprisonment under this paragraph may, if there was a prior conviction, impose a term of supervised release of not more than 1 year, in addition to such term of imprisonment.”
 
-    Subsec. (h). [Pub. L. 110–425, § 3(f)][/us/pl/110/425/s3/f], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–425][/us/pl/110/425], § 3(f), added subsec. (h).
 
-    2006—Subsec. (b)(5). [Pub. L. 109–177, § 732][/us/pl/109/177/s732], inserted “or manufacturing” after “cultivating” in introductory provisions.
+    2006—Subsec. (b)(5). [Pub. L. 109–177][/us/pl/109/177], § 732, inserted “or manufacturing” after “cultivating” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 109–177, § 711(f)(1)(B)][/us/pl/109/177/s711/f/1/B], inserted “, except to the extent that paragraph (12), (13), or (14) of [section 842(a) of this title][/us/usc/t21/s842/a] applies,” after “shall”.
+    Subsec. (f)(1). [Pub. L. 109–177][/us/pl/109/177], § 711(f)(1)(B), inserted “, except to the extent that paragraph (12), (13), or (14) of [section 842(a) of this title][/us/usc/t21/s842/a] applies,” after “shall”.
 
     Subsec. (g). [Pub. L. 109–248][/us/pl/109/248] added subsec. (g).
 
-    2002—Subsec. (b)(1)(A), (B). [Pub. L. 107–273, § 3005(a)][/us/pl/107/273/s3005/a], substituted “Notwithstanding [section 3583 of title 18][/us/usc/t18/s3583], any sentence” for “Any sentence” in concluding provisions.
+    2002—Subsec. (b)(1)(A), (B). [Pub. L. 107–273][/us/pl/107/273], § 3005(a), substituted “Notwithstanding [section 3583 of title 18][/us/usc/t18/s3583], any sentence” for “Any sentence” in concluding provisions.
 
-    Subsec. (b)(1)(C), (D). [Pub. L. 107–273, § 3005(a)][/us/pl/107/273/s3005/a], substituted “Notwithstanding [section 3583 of title 18][/us/usc/t18/s3583], any sentence” for “Any sentence”.
+    Subsec. (b)(1)(C), (D). [Pub. L. 107–273][/us/pl/107/273], § 3005(a), substituted “Notwithstanding [section 3583 of title 18][/us/usc/t18/s3583], any sentence” for “Any sentence”.
 
-    Subsec. (d)(1). [Pub. L. 107–273, § 4002(d)(2)(A)(i)][/us/pl/107/273/s4002/d/2/A/i], substituted “or fined under title 18, or both” for “and shall be fined not more than $10,000”.
+    Subsec. (d)(1). [Pub. L. 107–273][/us/pl/107/273], § 4002(d)(2)(A)(i), substituted “or fined under title 18, or both” for “and shall be fined not more than $10,000”.
 
-    Subsec. (d)(2). [Pub. L. 107–273, § 4002(d)(2)(A)(ii)][/us/pl/107/273/s4002/d/2/A/ii], substituted “or fined under title 18, or both” for “and shall be fined not more than $20,000”.
+    Subsec. (d)(2). [Pub. L. 107–273][/us/pl/107/273], § 4002(d)(2)(A)(ii), substituted “or fined under title 18, or both” for “and shall be fined not more than $20,000”.
 
-    2000—Subsec. (b)(1)(C). [Pub. L. 106–172, § 3(b)(1)(A)][/us/pl/106/172/s3/b/1/A], inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
+    2000—Subsec. (b)(1)(C). [Pub. L. 106–172][/us/pl/106/172], § 3(b)(1)(A), inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
 
-    Subsec. (b)(1)(D). [Pub. L. 106–172, § 3(b)(1)(B)][/us/pl/106/172/s3/b/1/B], substituted “(other than gamma hydroxybutyric acid), or 30” for “, or 30”.
+    Subsec. (b)(1)(D). [Pub. L. 106–172][/us/pl/106/172], § 3(b)(1)(B), substituted “(other than gamma hydroxybutyric acid), or 30” for “, or 30”.
 
-    Subsec. (b)(7)(A). [Pub. L. 106–172, § 5(b)][/us/pl/106/172/s5/b], inserted “or controlled substance analogue” after “distributing a controlled substance”.
+    Subsec. (b)(7)(A). [Pub. L. 106–172][/us/pl/106/172], § 5(b), inserted “or controlled substance analogue” after “distributing a controlled substance”.
 
-    Subsecs. (c) to (g). [Pub. L. 106–172, § 9][/us/pl/106/172/s9], redesignated subsecs. (d) to (g) as (c) to (f), respectively.
+    Subsecs. (c) to (g). [Pub. L. 106–172][/us/pl/106/172], § 9, redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
     1998—Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277] in subpar. (A)(viii) substituted “50 grams” and “500 grams” for “100 grams” and “1 kilogram”, respectively, and in subpar. (B)(viii) substituted “5 grams” and “50 grams” for “10 grams” and “100 grams”, respectively.
 
-    1996—Subsec. (b)(1)(C). [Pub. L. 104–305, § 2(b)(1)(A)][/us/pl/104/305/s2/b/1/A], inserted “, or 1 gram of flunitrazepam,” after “schedule I or II”.
+    1996—Subsec. (b)(1)(C). [Pub. L. 104–305][/us/pl/104/305], § 2(b)(1)(A), inserted “, or 1 gram of flunitrazepam,” after “schedule I or II”.
 
-    Subsec. (b)(1)(D). [Pub. L. 104–305, § 2(b)(1)(B)][/us/pl/104/305/s2/b/1/B], inserted “or 30 milligrams of flunitrazepam,” after “schedule III,”.
+    Subsec. (b)(1)(D). [Pub. L. 104–305][/us/pl/104/305], § 2(b)(1)(B), inserted “or 30 milligrams of flunitrazepam,” after “schedule III,”.
 
-    Subsec. (b)(7). [Pub. L. 104–305, § 2(a)][/us/pl/104/305/s2/a], added par. (7).
+    Subsec. (b)(7). [Pub. L. 104–305][/us/pl/104/305], § 2(a), added par. (7).
 
-    Subsec. (d). [Pub. L. 104–237, § 302(a)][/us/pl/104/237/s302/a], in concluding provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (2) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (2) involving a list I chemical,” for “not more than 10 years,”.
+    Subsec. (d). [Pub. L. 104–237][/us/pl/104/237], § 302(a), in concluding provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (2) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (2) involving a list I chemical,” for “not more than 10 years,”.
 
-    Subsec. (f). [Pub. L. 104–237, § 206(a)][/us/pl/104/237/s206/a], inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
+    Subsec. (f). [Pub. L. 104–237][/us/pl/104/237], § 206(a), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
 
-    1994—Subsec. (b). [Pub. L. 103–322, § 180201(b)(2)(A)][/us/pl/103/322/s180201/b/2/A], inserted “849,” before “859,” in introductory provisions.
+    1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 180201(b)(2)(A), inserted “849,” before “859,” in introductory provisions.
 
     Subsec. (b)(1)(A). [Pub. L. 103–322][/us/pl/103/322], §§ 90105(c), 180201(b)(2)(A), in concluding provisions, inserted “849,” before “859,” and struck out “For purposes of this subparagraph, the term ‘felony drug offense’ means an offense that is a felony under any provision of this subchapter or any other Federal law that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances or a felony under any law of a State or a foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.” before “Any sentence under this subparagraph”.
 
-    Subsec. (b)(1)(B). [Pub. L. 103–322, § 90105(a)][/us/pl/103/322/s90105/a], in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+    Subsec. (b)(1)(B). [Pub. L. 103–322][/us/pl/103/322], § 90105(a), in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-    Subsec. (b)(1)(C). [Pub. L. 103–322, § 90105(a)][/us/pl/103/322/s90105/a], in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+    Subsec. (b)(1)(C). [Pub. L. 103–322][/us/pl/103/322], § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-    Subsec. (b)(1)(D). [Pub. L. 103–322, § 90105(a)][/us/pl/103/322/s90105/a], in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+    Subsec. (b)(1)(D). [Pub. L. 103–322][/us/pl/103/322], § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-    1990—Subsec. (b). [Pub. L. 101–647, § 1002(e)(1)][/us/pl/101/647/s1002/e/1], substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in introductory provisions.
+    1990—Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 1002(e)(1), substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 101–647, § 1002(e)(1)][/us/pl/101/647/s1002/e/1], substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in concluding provisions.
+    Subsec. (b)(1)(A). [Pub. L. 101–647][/us/pl/101/647], § 1002(e)(1), substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in concluding provisions.
 
-    Subsec. (b)(1)(A)(ii)(IV). [Pub. L. 101–647, § 3599K][/us/pl/101/647/s3599K], substituted “any of the substances” for “any of the substance”.
+    Subsec. (b)(1)(A)(ii)(IV). [Pub. L. 101–647][/us/pl/101/647], § 3599K, substituted “any of the substances” for “any of the substance”.
 
-    Subsec. (b)(1)(A)(viii). [Pub. L. 101–647, § 1202][/us/pl/101/647/s1202], substituted “or 1 kilogram or more of a mixture or substance containing a detectable amount of methamphetamine” for “or 100 grams or more of a mixture or substance containing a detectable amount of methamphetamine”.
+    Subsec. (b)(1)(A)(viii). [Pub. L. 101–647][/us/pl/101/647], § 1202, substituted “or 1 kilogram or more of a mixture or substance containing a detectable amount of methamphetamine” for “or 100 grams or more of a mixture or substance containing a detectable amount of methamphetamine”.
 
-    Subsec. (b)(1)(B)(ii)(IV). [Pub. L. 101–647, § 3599K][/us/pl/101/647/s3599K], substituted “any of the substances” for “any of the substance”.
+    Subsec. (b)(1)(B)(ii)(IV). [Pub. L. 101–647][/us/pl/101/647], § 3599K, substituted “any of the substances” for “any of the substance”.
 
-    Subsec. (c). [Pub. L. 101–647, § 1002(e)(2)][/us/pl/101/647/s1002/e/2], directed amendment of subsec. (c) by substituting “section 859, 860, or 861 of this title” for “section 845, 845a, or 845b of this title”. Subsec. (c) was previously repealed by [Pub. L. 98–473, § 224(a)(2)][/us/pl/98/473/s224/a/2], as renumbered by [Pub. L. 99–570, § 1005(a)][/us/pl/99/570/s1005/a], effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment. See 1984 Amendment note and Effective Date of 1984 Amendment note below.
+    Subsec. (c). [Pub. L. 101–647][/us/pl/101/647], § 1002(e)(2), directed amendment of subsec. (c) by substituting “section 859, 860, or 861 of this title” for “section 845, 845a, or 845b of this title”. Subsec. (c) was previously repealed by [Pub. L. 98–473][/us/pl/98/473], § 224(a)(2), as renumbered by [Pub. L. 99–570][/us/pl/99/570], § 1005(a), effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment. See 1984 Amendment note and Effective Date of 1984 Amendment note below.
 
     1988—Subsec. (b)(1)(A). [Pub. L. 100–690][/us/pl/100/690], §§ 6452(a), 6470(g), 6479(1), inserted “, or 1,000 or more marihuana plants regardless of weight” in cl. (vii), added cl. (viii), substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final” in second sentence, and added provisions relating to sentencing for a person who violates this subpar. or section 485, 485a, or 485b of this title after two or more prior convictions for a felony drug offense have become final and defining “felony drug offense”.
 
     Subsec. (b)(1)(B). [Pub. L. 100–690][/us/pl/100/690], §§ 6470(h), 6479(2), inserted “, or 100 or more marihuana plants regardless of weight” in cl. (vii) and added cl. (viii).
 
-    Subsec. (b)(1)(D). [Pub. L. 100–690, § 6479(3)][/us/pl/100/690/s6479/3], substituted “50 or more marihuana plants” for “100 or more marihuana plants”.
+    Subsec. (b)(1)(D). [Pub. L. 100–690][/us/pl/100/690], § 6479(3), substituted “50 or more marihuana plants” for “100 or more marihuana plants”.
 
-    Subsec. (b)(6). [Pub. L. 100–690, § 6254(h)][/us/pl/100/690/s6254/h], added par. (6).
+    Subsec. (b)(6). [Pub. L. 100–690][/us/pl/100/690], § 6254(h), added par. (6).
 
-    Subsec. (d). [Pub. L. 100–690, § 6055(a)][/us/pl/100/690/s6055/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 6055(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
 
     “(1) possesses any piperidine with intent to manufacture phencyclidine except as authorized by this subchapter, or
 
@@ -373,13 +373,13 @@
 
     shall be sentenced to a term of imprisonment of not more than 5 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both.”
 
-    Subsecs. (f), (g). [Pub. L. 100–690, § 6055(b)][/us/pl/100/690/s6055/b], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 100–690][/us/pl/100/690], § 6055(b), added subsecs. (f) and (g).
 
-    1986—[Pub. L. 99–570, § 1005(a)][/us/pl/99/570/s1005/a], amended [Pub. L. 98–473, § 224(a)][/us/pl/98/473/s224/a]. See 1984 Amendment note below.
+    1986—[Pub. L. 99–570][/us/pl/99/570], § 1005(a), amended [Pub. L. 98–473][/us/pl/98/473], § 224(a). See 1984 Amendment note below.
 
-    Subsec. (b). [Pub. L. 99–570, § 1103(a)][/us/pl/99/570/s1103/a], substituted “, 845a, or 845b” for “or 845a” in introductory provisions.
+    Subsec. (b). [Pub. L. 99–570][/us/pl/99/570], § 1103(a), substituted “, 845a, or 845b” for “or 845a” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 99–570, § 1002(2)][/us/pl/99/570/s1002/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a violation of subsection (a) of this section involving—
+    Subsec. (b)(1)(A). [Pub. L. 99–570][/us/pl/99/570], § 1002(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a violation of subsection (a) of this section involving—
 
     “(i) 100 grams or more of a controlled substance in schedule I or II which is a mixture or substance containing a detectable amount of a narcotic drug other than a narcotic drug consisting of—
 
@@ -397,71 +397,71 @@
 
     such person shall be sentenced to a term of imprisonment of not more than 20 years, a fine of not more than $250,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 40 years, a fine of not more than $500,000, or both”.
 
-    Subsec. (b)(1)(B). [Pub. L. 99–570, § 1002(2)][/us/pl/99/570/s1002/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of a controlled substance in schedule I or II except as provided in subparagraphs (A) and (C),, such person shall be sentenced to a term of imprisonment of not more than 15 years, a fine of not more than $125,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 30 years, a fine of not more than $250,000, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a special parole term of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a special parole term of at least 6 years in addition to such term of imprisonment.”
+    Subsec. (b)(1)(B). [Pub. L. 99–570][/us/pl/99/570], § 1002(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of a controlled substance in schedule I or II except as provided in subparagraphs (A) and (C),, such person shall be sentenced to a term of imprisonment of not more than 15 years, a fine of not more than $125,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 30 years, a fine of not more than $250,000, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a special parole term of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a special parole term of at least 6 years in addition to such term of imprisonment.”
 
-    Subsec. (b)(1)(C). [Pub. L. 99–570, § 1002(2)][/us/pl/99/570/s1002/2], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (b)(1)(C). [Pub. L. 99–570][/us/pl/99/570], § 1002(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (b)(1)(D). [Pub. L. 99–570, § 1004(a)][/us/pl/99/570/s1004/a], substituted “term of supervised release” for “special parole term” in two places.
+    Subsec. (b)(1)(D). [Pub. L. 99–570][/us/pl/99/570], § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
 
     [Pub. L. 99–570][/us/pl/99/570], §§ 1002(1), 1003(a)(1), redesignated former subpar. (C) as (D), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $100,000”, and inserted “except in the case of 100 or more marihuana plants regardless of weight,”.
 
-    Subsec. (b)(2). [Pub. L. 99–570, § 1004(a)][/us/pl/99/570/s1004/a], substituted “term of supervised release” for “special parole term” in two places.
+    Subsec. (b)(2). [Pub. L. 99–570][/us/pl/99/570], § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
 
-    [Pub. L. 99–570, § 1003(a)(2)][/us/pl/99/570/s1003/a/2], substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $25,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000”.
+    [Pub. L. 99–570][/us/pl/99/570], § 1003(a)(2), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $25,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000”.
 
-    Subsec. (b)(3). [Pub. L. 99–570, § 1003(a)(3)][/us/pl/99/570/s1003/a/3], substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $100,000 if the defendant is an individual or $250,000 if the defendant is other than an individual” for “a fine of not more than $10,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $200,000 if the defendant is an individual or $500,000 if the defendant is other than an individual” for “a fine of not more than $20,000”.
+    Subsec. (b)(3). [Pub. L. 99–570][/us/pl/99/570], § 1003(a)(3), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $100,000 if the defendant is an individual or $250,000 if the defendant is other than an individual” for “a fine of not more than $10,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $200,000 if the defendant is an individual or $500,000 if the defendant is other than an individual” for “a fine of not more than $20,000”.
 
-    Subsec. (b)(4). [Pub. L. 99–570, § 1003(a)(4)][/us/pl/99/570/s1003/a/4], which directed the substitution of “1(D)” for “1(C)” was executed by substituting “(1)(D)” for “(1)(C)” as the probable intent of Congress.
+    Subsec. (b)(4). [Pub. L. 99–570][/us/pl/99/570], § 1003(a)(4), which directed the substitution of “1(D)” for “1(C)” was executed by substituting “(1)(D)” for “(1)(C)” as the probable intent of Congress.
 
-    Subsec. (b)(5). [Pub. L. 99–570, § 1003(a)(5)][/us/pl/99/570/s1003/a/5], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Notwithstanding paragraph (1), any person who violates subsection (a) of this section by cultivating a controlled substance on Federal property shall be fined not more than—
+    Subsec. (b)(5). [Pub. L. 99–570][/us/pl/99/570], § 1003(a)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Notwithstanding paragraph (1), any person who violates subsection (a) of this section by cultivating a controlled substance on Federal property shall be fined not more than—
 
     “(A) $500,000 if such person is an individual; and
 
     “(B) $1,000,000 if such person is not an individual.”
 
-    Subsec. (c). [Pub. L. 99–570, § 1004(a)][/us/pl/99/570/s1004/a], substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by [Pub. L. 98–473, § 224(a)(2)][/us/pl/98/473/s224/a/2]. See 1984 Amendment note below.
+    Subsec. (c). [Pub. L. 99–570][/us/pl/99/570], § 1004(a), substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by [Pub. L. 98–473][/us/pl/98/473], § 224(a)(2). See 1984 Amendment note below.
 
-    [Pub. L. 99–570, § 1103(b)][/us/pl/99/570/s1103/b], substituted “, 845a, or 845b” for “845a” in two places.
+    [Pub. L. 99–570][/us/pl/99/570], § 1103(b), substituted “, 845a, or 845b” for “845a” in two places.
 
-    Subsec. (d). [Pub. L. 99–570, § 1003(a)(6)][/us/pl/99/570/s1003/a/6], substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $15,000”.
+    Subsec. (d). [Pub. L. 99–570][/us/pl/99/570], § 1003(a)(6), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $15,000”.
 
-    Subsec. (e). [Pub. L. 99–570, § 15005][/us/pl/99/570/s15005], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–570][/us/pl/99/570], § 15005, added subsec. (e).
 
-    1984—Subsec. (b). [Pub. L. 98–473, § 503(b)(1)][/us/pl/98/473/s503/b/1], inserted reference to [section 845a of this title][/us/usc/t21/s845a] in provisions preceding par. (1)(A).
+    1984—Subsec. (b). [Pub. L. 98–473][/us/pl/98/473], § 503(b)(1), inserted reference to [section 845a of this title][/us/usc/t21/s845a] in provisions preceding par. (1)(A).
 
-    [Pub. L. 98–473, § 224(a)(1)][/us/pl/98/473/s224/a/1]–(3), (5), which directed amendment of this subsection effective Nov. 1, 1987 (see [section 235(a)(1) of Pub. L. 98–473][/us/pl/98/473/s235/a/1] set out as an Effective Date note under [section 3551 of Title 18][/us/usc/t18/s3551], Crimes and Criminal Procedure) was repealed by [Pub. L. 99–570, § 1005(a)][/us/pl/99/570/s1005/a], and the remaining pars. (4) and (6) of [Pub. L. 98–473, § 224(a)][/us/pl/98/473/s224/a], were redesignated as pars. (1) and (2), respectively.
+    [Pub. L. 98–473][/us/pl/98/473], § 224(a)(1)–(3), (5), which directed amendment of this subsection effective Nov. 1, 1987 (see [section 235(a)(1) of Pub. L. 98–473][/us/pl/98/473/s235/a/1] set out as an Effective Date note under [section 3551 of Title 18][/us/usc/t18/s3551], Crimes and Criminal Procedure) was repealed by [Pub. L. 99–570][/us/pl/99/570], § 1005(a), and the remaining pars. (4) and (6) of [Pub. L. 98–473][/us/pl/98/473], § 224(a), were redesignated as pars. (1) and (2), respectively.
 
-    Subsec. (b)(1)(A). [Pub. L. 98–473, § 502(1)(A)][/us/pl/98/473/s502/1/A], added subpar. (A). Former subpar. (A) redesignated (B).
+    Subsec. (b)(1)(A). [Pub. L. 98–473][/us/pl/98/473], § 502(1)(A), added subpar. (A). Former subpar. (A) redesignated (B).
 
-    Subsec. (b)(1)(B). [Pub. L. 98–473, § 502(1)(A)][/us/pl/98/473/s502/1/A], (B), redesignated former subpar. (A) as (B), substituted “except as provided in subparagraphs (A) and (C),” for “which is a narcotic drug”, “$125,000” for “$25,000”, and “$250,000” for “$50,000”, and inserted references to laws of a State and a foreign country. Former subpar. (B) redesignated (C).
+    Subsec. (b)(1)(B). [Pub. L. 98–473][/us/pl/98/473], § 502(1)(A), (B), redesignated former subpar. (A) as (B), substituted “except as provided in subparagraphs (A) and (C),” for “which is a narcotic drug”, “$125,000” for “$25,000”, and “$250,000” for “$50,000”, and inserted references to laws of a State and a foreign country. Former subpar. (B) redesignated (C).
 
-    Subsec. (b)(1)(C). [Pub. L. 98–473, § 502(1)(A)][/us/pl/98/473/s502/1/A], (C), redesignated former subpar. (B) as (C), substituted “less than 50 kilograms of marihuana, 10 kilograms of hashish, or one kilogram of hashish oil” for “a controlled substance in schedule I or II which is not a narcotic drug”, “and (5)” for “, (5), and (6)”, “$50,000” for “$15,000”, and “$100,000” for “$30,000”, and inserted references to laws of a State and a foreign country.
+    Subsec. (b)(1)(C). [Pub. L. 98–473][/us/pl/98/473], § 502(1)(A), (C), redesignated former subpar. (B) as (C), substituted “less than 50 kilograms of marihuana, 10 kilograms of hashish, or one kilogram of hashish oil” for “a controlled substance in schedule I or II which is not a narcotic drug”, “and (5)” for “, (5), and (6)”, “$50,000” for “$15,000”, and “$100,000” for “$30,000”, and inserted references to laws of a State and a foreign country.
 
-    Subsec. (b)(2). [Pub. L. 98–473, § 502(2)][/us/pl/98/473/s502/2], substituted “$25,000” for “$10,000” and “$50,000” for “$20,000”, and inserted references to laws of a State or of a foreign country.
+    Subsec. (b)(2). [Pub. L. 98–473][/us/pl/98/473], § 502(2), substituted “$25,000” for “$10,000” and “$50,000” for “$20,000”, and inserted references to laws of a State or of a foreign country.
 
-    Subsec. (b)(3). [Pub. L. 98–473, § 502(3)][/us/pl/98/473/s502/3], substituted “$10,000” for “$5,000” and “$20,000” for “$10,000”, and inserted references to laws of a State or of a foreign country.
+    Subsec. (b)(3). [Pub. L. 98–473][/us/pl/98/473], § 502(3), substituted “$10,000” for “$5,000” and “$20,000” for “$10,000”, and inserted references to laws of a State or of a foreign country.
 
-    Subsec. (b)(4). [Pub. L. 98–473, § 502(4)][/us/pl/98/473/s502/4], substituted “(1)(C)” for “(1)(B)”.
+    Subsec. (b)(4). [Pub. L. 98–473][/us/pl/98/473], § 502(4), substituted “(1)(C)” for “(1)(B)”.
 
-    [Pub. L. 98–473, § 224(a)(1)][/us/pl/98/473/s224/a/1], as renumbered by [Pub. L. 99–570, § 1005(a)][/us/pl/99/570/s1005/a], substituted “in [section 844 of this title][/us/usc/t21/s844] and [section 3607 of title 18][/us/usc/t18/s3607]” for “in subsections (a) and (b) of [section 844 of this title][/us/usc/t21/s844]”.
+    [Pub. L. 98–473][/us/pl/98/473], § 224(a)(1), as renumbered by [Pub. L. 99–570][/us/pl/99/570], § 1005(a), substituted “in [section 844 of this title][/us/usc/t21/s844] and [section 3607 of title 18][/us/usc/t18/s3607]” for “in subsections (a) and (b) of [section 844 of this title][/us/usc/t21/s844]”.
 
-    Subsec. (b)(5). [Pub. L. 98–473, § 502(5)][/us/pl/98/473/s502/5], (6), added par. (5) and struck out former par. (5) which related to penalties for manufacturing, etc., phencyclidine.
+    Subsec. (b)(5). [Pub. L. 98–473][/us/pl/98/473], § 502(5), (6), added par. (5) and struck out former par. (5) which related to penalties for manufacturing, etc., phencyclidine.
 
-    Subsec. (b)(6). [Pub. L. 98–473, § 502(5)][/us/pl/98/473/s502/5], struck out par. (6) which related to penalties for violations involving a quantity of marihuana exceeding 1,000 pounds.
+    Subsec. (b)(6). [Pub. L. 98–473][/us/pl/98/473], § 502(5), struck out par. (6) which related to penalties for violations involving a quantity of marihuana exceeding 1,000 pounds.
 
-    Subsec. (c). [Pub. L. 98–473, § 224(a)(2)][/us/pl/98/473/s224/a/2], as renumbered by [Pub. L. 99–570, § 1005(a)][/us/pl/99/570/s1005/a], struck out subsec. (c) which read as follows: “A special parole term imposed under this section or section 845, 845a, or 845b of this title may be revoked if its terms and conditions are violated. In such circumstances the original term of imprisonment shall be increased by the period of the special parole term and the resulting new term of imprisonment shall not be diminished by the time which was spent on special parole. A person whose special parole term has been revoked may be required to serve all or part of the remainder of the new term of imprisonment. A special parole term provided for in this section or section 845, 845a, or 845b of this title shall be in addition to, and not in lieu of, any other parole provided for by law.”
+    Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 224(a)(2), as renumbered by [Pub. L. 99–570][/us/pl/99/570], § 1005(a), struck out subsec. (c) which read as follows: “A special parole term imposed under this section or section 845, 845a, or 845b of this title may be revoked if its terms and conditions are violated. In such circumstances the original term of imprisonment shall be increased by the period of the special parole term and the resulting new term of imprisonment shall not be diminished by the time which was spent on special parole. A person whose special parole term has been revoked may be required to serve all or part of the remainder of the new term of imprisonment. A special parole term provided for in this section or section 845, 845a, or 845b of this title shall be in addition to, and not in lieu of, any other parole provided for by law.”
 
-    [Pub. L. 98–473, § 503(b)(2)][/us/pl/98/473/s503/b/2], inserted reference to [section 845a of this title][/us/usc/t21/s845a] in two places.
+    [Pub. L. 98–473][/us/pl/98/473], § 503(b)(2), inserted reference to [section 845a of this title][/us/usc/t21/s845a] in two places.
 
-    1980—Subsec. (b)(1)(B). [Pub. L. 96–359, § 8(c)(1)][/us/pl/96/359/s8/c/1], inserted reference to par. (6) of this subsection.
+    1980—Subsec. (b)(1)(B). [Pub. L. 96–359][/us/pl/96/359], § 8(c)(1), inserted reference to par. (6) of this subsection.
 
-    Subsec. (b)(6). [Pub. L. 96–359, § 8(c)(2)][/us/pl/96/359/s8/c/2], added par. (6).
+    Subsec. (b)(6). [Pub. L. 96–359][/us/pl/96/359], § 8(c)(2), added par. (6).
 
-    1978—Subsec. (b)(1)(B). [Pub. L. 95–633, § 201(1)][/us/pl/95/633/s201/1], inserted “, except as provided in paragraphs (4) and (5) of this subsection,” after “such person shall”.
+    1978—Subsec. (b)(1)(B). [Pub. L. 95–633][/us/pl/95/633], § 201(1), inserted “, except as provided in paragraphs (4) and (5) of this subsection,” after “such person shall”.
 
-    Subsec. (b)(5). [Pub. L. 95–633, § 201(2)][/us/pl/95/633/s201/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 95–633][/us/pl/95/633], § 201(2), added par. (5).
 
-    Subsec. (d). [Pub. L. 95–633, § 201(3)][/us/pl/95/633/s201/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–633][/us/pl/95/633], § 201(3), added subsec. (d).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -473,7 +473,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1004(b)][/us/pl/99/570/s1004/b], Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1004(b), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 845, 845a, 960, and 962 of this title\] shall take effect on the date of the taking effect of [section 3583 of title 18][/us/usc/t18/s3583], United States Code \[Nov. 1, 1987\].”
 
@@ -487,7 +487,7 @@
 
  __Repeals__ 
 
-    [Pub. L. 96–359, § 8(b)][/us/pl/96/359/s8/b], Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194], repealed [section 203(d) of Pub. L. 95–633][/us/pl/95/633/s203/d], which had provided for the repeal of subsec. (d) of this section effective Jan. 1, 1981.
+    [Pub. L. 96–359][/us/pl/96/359], § 8(b), Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194], repealed [section 203(d) of Pub. L. 95–633][/us/pl/95/633/s203/d], which had provided for the repeal of subsec. (d) of this section effective Jan. 1, 1981.
 
 ----------
 
@@ -513,37 +513,37 @@
 [/us/usc/t21/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs831
 [/us/usc/t47/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs231
 [/us/usc/t47/s230/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230%2Fc
-[/us/pl/91/513/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs401
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1260
-[/us/pl/95/633/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs201
+[/us/pl/95/633/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtII
 [/us/stat/92/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3774
-[/us/pl/96/359/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fc
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1194
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2030
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-2
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4318
-[/us/pl/101/647/s1002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fe
+[/us/pl/101/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtX
 [/us/stat/104/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4828
-[/us/pl/103/322/s90105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90105%2Fa
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1987
-[/us/pl/104/237/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs206%2Fa
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3103
-[/us/pl/104/305/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs2%2Fa
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/stat/110/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3807
-[/us/pl/105/277/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2%2Fa
+[/us/pl/105/277/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdE
 [/us/stat/112/2681-759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-759
 [/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/stat/114/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F9
-[/us/pl/107/273/s3005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3005%2Fa
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1805
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F262
-[/us/pl/109/248/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs201
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F611
-[/us/pl/110/425/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fe
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4828
 [/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
 [/us/stat/124/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2372
@@ -558,108 +558,108 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/111/220/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs4%2Fa%2F1
-[/us/pl/111/220/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs2%2Fa%2F1
-[/us/pl/111/220/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs4%2Fa%2F2
-[/us/pl/111/220/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs2%2Fa%2F2
-[/us/pl/110/425/s3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fe%2F1%2FA
-[/us/pl/110/425/s3/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fe%2F1%2FB
-[/us/pl/110/425/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fe%2F2
-[/us/pl/110/425/s3/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fe%2F3
-[/us/pl/110/425/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Ff
-[/us/pl/109/177/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs732
-[/us/pl/109/177/s711/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Ff%2F1%2FB
+[/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
+[/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
+[/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
+[/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t21/s842/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs842%2Fa
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/107/273/s3005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3005%2Fa
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t18/s3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3583
-[/us/pl/107/273/s3005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3005%2Fa
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t18/s3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3583
-[/us/pl/107/273/s4002/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fd%2F2%2FA%2Fi
-[/us/pl/107/273/s4002/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fd%2F2%2FA%2Fii
-[/us/pl/106/172/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs3%2Fb%2F1%2FA
-[/us/pl/106/172/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs3%2Fb%2F1%2FB
-[/us/pl/106/172/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs5%2Fb
-[/us/pl/106/172/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs9
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/104/305/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs2%2Fb%2F1%2FA
-[/us/pl/104/305/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs2%2Fb%2F1%2FB
-[/us/pl/104/305/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs2%2Fa
-[/us/pl/104/237/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs302%2Fa
-[/us/pl/104/237/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs206%2Fa
-[/us/pl/103/322/s180201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180201%2Fb%2F2%2FA
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/103/322/s90105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90105%2Fa
-[/us/pl/103/322/s90105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90105%2Fa
-[/us/pl/103/322/s90105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90105%2Fa
-[/us/pl/101/647/s1002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fe%2F1
-[/us/pl/101/647/s1002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fe%2F1
-[/us/pl/101/647/s3599K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599K
-[/us/pl/101/647/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1202
-[/us/pl/101/647/s3599K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599K
-[/us/pl/101/647/s1002/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fe%2F2
-[/us/pl/98/473/s224/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa%2F2
-[/us/pl/99/570/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1005%2Fa
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/690/s6479/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6479%2F3
-[/us/pl/100/690/s6254/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fh
-[/us/pl/100/690/s6055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6055%2Fa
-[/us/pl/100/690/s6055/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6055%2Fb
-[/us/pl/99/570/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1005%2Fa
-[/us/pl/98/473/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa
-[/us/pl/99/570/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1103%2Fa
-[/us/pl/99/570/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1002%2F2
-[/us/pl/99/570/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1002%2F2
-[/us/pl/99/570/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1002%2F2
-[/us/pl/99/570/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fa
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/99/570/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fa
-[/us/pl/99/570/s1003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fa%2F2
-[/us/pl/99/570/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fa%2F3
-[/us/pl/99/570/s1003/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fa%2F4
-[/us/pl/99/570/s1003/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fa%2F5
-[/us/pl/99/570/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fa
-[/us/pl/98/473/s224/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa%2F2
-[/us/pl/99/570/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1103%2Fb
-[/us/pl/99/570/s1003/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fa%2F6
-[/us/pl/99/570/s15005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15005
-[/us/pl/98/473/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs503%2Fb%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t21/s845a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs845a
-[/us/pl/98/473/s224/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa%2F1
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/99/570/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1005%2Fa
-[/us/pl/98/473/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa
-[/us/pl/98/473/s502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F1%2FA
-[/us/pl/98/473/s502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F1%2FA
-[/us/pl/98/473/s502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F1%2FA
-[/us/pl/98/473/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F2
-[/us/pl/98/473/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F3
-[/us/pl/98/473/s502/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F4
-[/us/pl/98/473/s224/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa%2F1
-[/us/pl/99/570/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1005%2Fa
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs844
 [/us/usc/t18/s3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3607
 [/us/usc/t21/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs844
-[/us/pl/98/473/s502/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F5
-[/us/pl/98/473/s502/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs502%2F5
-[/us/pl/98/473/s224/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa%2F2
-[/us/pl/99/570/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1005%2Fa
-[/us/pl/98/473/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs503%2Fb%2F2
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t21/s845a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs845a
-[/us/pl/96/359/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fc%2F1
-[/us/pl/96/359/s8/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fc%2F2
-[/us/pl/95/633/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs201%2F1
-[/us/pl/95/633/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs201%2F2
-[/us/pl/95/633/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs201%2F3
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/110/425/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fj
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/pl/100/690/s6055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6055
 [/us/pl/100/690/s6061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6061
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/99/570/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fb
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-6
 [/us/usc/t18/s3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3583
 [/us/pl/98/473/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs224%2Fa
@@ -668,7 +668,7 @@
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fa
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/96/359/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fb
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1194
 [/us/pl/95/633/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fd
 

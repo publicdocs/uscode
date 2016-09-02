@@ -35,7 +35,7 @@
 
         Any person that is the subject of an adverse decision under subsection (a) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary’s decision) a petition requesting that the decision be modified or set aside.
 
-([June 25, 1938, ch. 675, § 308][/us/act/1938-06-25/ch675/s308], as added [Pub. L. 102–282, § 4][/us/pl/102/282/s4], May 13, 1992, [106 Stat. 160][/us/stat/106/160].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 308, as added [Pub. L. 102–282][/us/pl/102/282], § 4, May 13, 1992, [106 Stat. 160][/us/stat/106/160].)
 
  __Construction__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs308
-[/us/pl/102/282/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs4
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F160
 [/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/pl/102/282/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs7

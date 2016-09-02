@@ -17,7 +17,7 @@
 
     This subchapter, as amended by the Drug Amendments of 1962, shall not apply to any cosmetic unless such cosmetic is also a drug or device or component thereof.
 
-([June 25, 1938, ch. 675, § 509][/us/act/1938-06-25/ch675/s509], as added [Pub. L. 87–781, title I, § 113][/us/pl/87/781/s113], Oct. 10, 1962, [76 Stat. 791][/us/stat/76/791].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 509, as added [Pub. L. 87–781, title I][/us/pl/87/781/tI], § 113, Oct. 10, 1962, [76 Stat. 791][/us/stat/76/791].)
 
  __References in Text__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs509
-[/us/pl/87/781/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs113
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F791
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781

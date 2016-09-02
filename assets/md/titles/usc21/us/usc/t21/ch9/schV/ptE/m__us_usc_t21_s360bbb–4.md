@@ -213,23 +213,23 @@
 
             (B) another agency engaged in development or management of portfolios for such countermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
 
-([June 25, 1938, ch. 675, § 565][/us/act/1938-06-25/ch675/s565], as added [Pub. L. 109–417, title IV, § 404][/us/pl/109/417/s404], Dec. 19, 2006, [120 Stat. 2875][/us/stat/120/2875]; amended [Pub. L. 113–5, title III][/us/pl/113/5], §§ 303–306, Mar. 13, 2013, [127 Stat. 185–190][/us/stat/127/185-190].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 565, as added [Pub. L. 109–417, title IV][/us/pl/109/417/tIV], § 404, Dec. 19, 2006, [120 Stat. 2875][/us/stat/120/2875]; amended [Pub. L. 113–5, title III][/us/pl/113/5/tIII], §§ 303–306, Mar. 13, 2013, [127 Stat. 185–190][/us/stat/127/185-190].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–5, § 304(1)][/us/pl/113/5/s304/1], substituted “Countermeasure development, review, and technical assistance” for “Technical assistance” in section catchline.
+    2013—[Pub. L. 113–5][/us/pl/113/5], § 304(1), substituted “Countermeasure development, review, and technical assistance” for “Technical assistance” in section catchline.
 
-    [Pub. L. 113–5, § 303][/us/pl/113/5/s303], designated existing provisions as subsec. (b) and inserted heading.
+    [Pub. L. 113–5][/us/pl/113/5], § 303, designated existing provisions as subsec. (b) and inserted heading.
 
-    Subsec. (a). [Pub. L. 113–5, § 303][/us/pl/113/5/s303], added subsec. (a).
+    Subsec. (a). [Pub. L. 113–5][/us/pl/113/5], § 303, added subsec. (a).
 
-    Subsec. (b). [Pub. L. 113–5, § 304(2)][/us/pl/113/5/s304/2], reenacted heading without change, substituted “In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—” for “The Secretary, in consultation with the Commissioner of Food and Drugs, shall”, added pars. (1) to (4), and designated remainder of existing provisions as par. (5).
+    Subsec. (b). [Pub. L. 113–5][/us/pl/113/5], § 304(2), reenacted heading without change, substituted “In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—” for “The Secretary, in consultation with the Commissioner of Food and Drugs, shall”, added pars. (1) to (4), and designated remainder of existing provisions as par. (5).
 
-    Subsecs. (c) to (e). [Pub. L. 113–5, § 304(3)][/us/pl/113/5/s304/3], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 113–5][/us/pl/113/5], § 304(3), added subsecs. (c) to (e).
 
-    Subsec. (f). [Pub. L. 113–5, § 305][/us/pl/113/5/s305], added subsec. (f).
+    Subsec. (f). [Pub. L. 113–5][/us/pl/113/5], § 305, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 113–5, § 306][/us/pl/113/5/s306], added subsec. (g).
+    Subsec. (g). [Pub. L. 113–5][/us/pl/113/5], § 306, added subsec. (g).
 
 ----------
 
@@ -252,17 +252,17 @@
 [/us/usc/t21/s355/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb%2F5%2FB
 [/us/usc/t21/s360bbb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933
 [/us/usc/t21/s360bbb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933
-[/us/act/1938-06-25/ch675/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs565
-[/us/pl/109/417/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs404
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/109/417/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIV
 [/us/stat/120/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2875
-[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/185-190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F185-190
-[/us/pl/113/5/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs304%2F1
-[/us/pl/113/5/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs303
-[/us/pl/113/5/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs303
-[/us/pl/113/5/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs304%2F2
-[/us/pl/113/5/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs304%2F3
-[/us/pl/113/5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs305
-[/us/pl/113/5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs306
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 
 

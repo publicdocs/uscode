@@ -27,7 +27,7 @@
 
     (2) for each of fiscal years 2008 and 2009, such sums as are necessary for the operation of the NMIC and Council.
 
-([Pub. L. 109–469, title X, § 1005][/us/pl/109/469/s1005], Dec. 29, 2006, [120 Stat. 3539][/us/stat/120/3539].)
+([Pub. L. 109–469, title X][/us/pl/109/469/tX], § 1005, Dec. 29, 2006, [120 Stat. 3539][/us/stat/120/3539].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/469/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1005
+[/us/pl/109/469/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtX
 [/us/stat/120/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3539
 
 

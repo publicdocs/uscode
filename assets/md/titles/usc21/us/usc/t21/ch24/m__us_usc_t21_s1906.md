@@ -37,7 +37,7 @@
 
         Any penalty imposed under subsection (b) of this section shall be subject to judicial review only to the extent provided in [section 702 of title 5][/us/usc/t5/s702].
 
-([Pub. L. 106–120, title VIII, § 807][/us/pl/106/120/s807], Dec. 3, 1999, [113 Stat. 1631][/us/stat/113/1631].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 807, Dec. 3, 1999, [113 Stat. 1631][/us/stat/113/1631].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
-[/us/pl/106/120/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs807
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1631
 
 

@@ -39,7 +39,7 @@
 
             At the request of communities seeking assistance to prevent underage tobacco use, the Secretary shall provide such assistance, including assistance with strategies to address the prevention of underage tobacco use in communities with a disproportionate use of menthol cigarettes by minors.
 
-([Pub. L. 111–31, div. A, title I, § 105][/us/pl/111/31/s105], June 22, 2009, [123 Stat. 1841][/us/stat/123/1841].)
+([Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 105, June 22, 2009, [123 Stat. 1841][/us/stat/123/1841].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t21/s387a–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387a%E2%80%931%2Fa
 [/us/usc/t15/s1334/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1334%2Fc
 [/us/usc/t21/s387p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387p
-[/us/pl/111/31/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs105
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1841
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s387s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387s

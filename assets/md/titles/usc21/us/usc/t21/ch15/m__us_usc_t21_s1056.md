@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Pub. L. 91–597, § 28][/us/pl/91/597/s28], Dec. 29, 1970, [84 Stat. 1635][/us/stat/84/1635].)
+([Pub. L. 91–597][/us/pl/91/597], § 28, Dec. 29, 1970, [84 Stat. 1635][/us/stat/84/1635].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs28
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1635
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

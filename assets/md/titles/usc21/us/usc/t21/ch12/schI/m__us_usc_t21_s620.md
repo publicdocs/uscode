@@ -65,11 +65,11 @@
 
         (5) The action authorized under paragraph (4) may be used instead of, or in addition to, any other action taken under any other law.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 20, formerly 18th par., [34 Stat. 1264][/us/stat/34/1264]; renumbered § 20 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 10, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 590; [Pub. L. 95–445, § 4][/us/pl/95/445/s4], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069]; [Pub. L. 97–98, title XI, § 1122][/us/pl/97/98/s1122], Dec. 22, 1981, [95 Stat. 1273][/us/stat/95/1273]; [Pub. L. 99–198, title XVII, § 1702][/us/pl/99/198/s1702], Dec. 23, 1985, [99 Stat. 1634][/us/stat/99/1634]; [Pub. L. 100–418, title IV, § 4604][/us/pl/100/418/s4604], Aug. 23, 1988, [102 Stat. 1408][/us/stat/102/1408]; [Pub. L. 103–182, title III, § 361(f)][/us/pl/103/182/s361/f], Dec. 8, 1993, [107 Stat. 2124][/us/stat/107/2124]; [Pub. L. 103–437, § 8(2)][/us/pl/103/437/s8/2], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 103–465, title IV, § 431][/us/pl/103/465/s431](l), Dec. 8, 1994, [108 Stat. 4970][/us/stat/108/4970]; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 20, formerly 18th par., [34 Stat. 1264][/us/stat/34/1264]; renumbered § 20 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 10, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 590; [Pub. L. 95–445][/us/pl/95/445], § 4, Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069]; [Pub. L. 97–98, title XI][/us/pl/97/98/tXI], § 1122, Dec. 22, 1981, [95 Stat. 1273][/us/stat/95/1273]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1702, Dec. 23, 1985, [99 Stat. 1634][/us/stat/99/1634]; [Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4604, Aug. 23, 1988, [102 Stat. 1408][/us/stat/102/1408]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 361(f), Dec. 8, 1993, [107 Stat. 2124][/us/stat/107/2124]; [Pub. L. 103–437][/us/pl/103/437], § 8(2), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 431(l), Dec. 8, 1994, [108 Stat. 4970][/us/stat/108/4970]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
 
  __References in Text__ 
 
-    Act of August 27, 1958, referred to in subsec. (a), is [Pub. L. 85–765][/us/pl/85/765], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862], as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by [Pub. L. 95–445, § 5(b)][/us/pl/95/445/s5/b], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], effective as set forth in [section 7 of Pub. L. 95–445][/us/pl/95/445/s7], set out as an Effective Date of 1978 Amendment note under [section 603 of this title][/us/usc/t21/s603]. For complete classification of this Act to the Code, see Tables.
+    Act of August 27, 1958, referred to in subsec. (a), is [Pub. L. 85–765][/us/pl/85/765], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862], as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by [Pub. L. 95–445][/us/pl/95/445], § 5(b), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], effective as set forth in [section 7 of Pub. L. 95–445][/us/pl/95/445/s7], set out as an Effective Date of 1978 Amendment note under [section 603 of this title][/us/usc/t21/s603]. For complete classification of this Act to the Code, see Tables.
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
 
@@ -85,31 +85,31 @@
 
     1994—Subsec. (e). [Pub. L. 103–437][/us/pl/103/437] substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
 
-    Subsec. (e)(1)(A), (B). [Pub. L. 103–465, § 431][/us/pl/103/465/s431](l)(1), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+    Subsec. (e)(1)(A), (B). [Pub. L. 103–465][/us/pl/103/465], § 431(l)(1), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
     “(A) Subject to subparagraphs (B) and (C), a certification by the Secretary that foreign plants in Canada and Mexico that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with paragraph (2) or with requirements that are equivalent to United States requirements with regard to all inspection and building construction standards, and all other provisions of this chapter and regulations issued under this chapter.
 
     “(B) Subject to subparagraph (C), the Secretary may treat as equivalent to a United States requirement a requirement described in subparagraph (A) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the requirement or standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
 
-    Subsec. (e)(2) to (7). [Pub. L. 103–465, § 431][/us/pl/103/465/s431](l)(2), (3), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “A certification by the Secretary that, except as provided in paragraph (1), foreign plants that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that are at least equal to all inspection and building construction standards and all other provisions of this chapter and regulations issued under this chapter.”
+    Subsec. (e)(2) to (7). [Pub. L. 103–465][/us/pl/103/465], § 431(l)(2), (3), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “A certification by the Secretary that, except as provided in paragraph (1), foreign plants that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that are at least equal to all inspection and building construction standards and all other provisions of this chapter and regulations issued under this chapter.”
 
-    1993—Subsec. (e). [Pub. L. 103–182, § 361(f)(1)][/us/pl/103/182/s361/f/1], substituted “not be limited to the following:” for “not be limited to—” in introductory provisions.
+    1993—Subsec. (e). [Pub. L. 103–182][/us/pl/103/182], § 361(f)(1), substituted “not be limited to the following:” for “not be limited to—” in introductory provisions.
 
-    Subsec. (e)(1) to (7). [Pub. L. 103–182, § 361(f)(2)][/us/pl/103/182/s361/f/2]–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted “The” for “the” at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for “; and” at end of par. (6). Prior to amendment, former par. (1) read as follows: “a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;”.
+    Subsec. (e)(1) to (7). [Pub. L. 103–182][/us/pl/103/182], § 361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted “The” for “the” at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for “; and” at end of par. (6). Prior to amendment, former par. (1) read as follows: “a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;”.
 
-    1988—Subsec. (e)(6). [Pub. L. 100–418, § 4604(b)][/us/pl/100/418/s4604/b], added par. (6).
+    1988—Subsec. (e)(6). [Pub. L. 100–418][/us/pl/100/418], § 4604(b), added par. (6).
 
-    Subsec. (h). [Pub. L. 100–418, § 4604(a)][/us/pl/100/418/s4604/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 100–418][/us/pl/100/418], § 4604(a), added subsec. (h).
 
-    1985—Subsec. (f). [Pub. L. 99–198, § 1702(a)][/us/pl/99/198/s1702/a], struck out provision which had made this subsection effective six months after Dec. 22, 1981, and inserted provisions requiring that each foreign country from which meat articles are offered for importation into the United States obtain a certification issued by the Secretary stating that the country maintains a program using reliable analytical methods to ensure compliance with the United States standards for residues in such meat articles, that no meat article be permitted entry into the United States from a country for which the Secretary has not issued such certification, that the Secretary periodically review such certifications and revoke any certification if the Secretary determines that the country involved is not maintaining a program that uses reliable analytical methods to ensure compliance with United States standards for residues in such meat articles, and that the consideration of any application for a certification under this subsection and the review of any such certification, by the Secretary, include the inspection of individual establishments to ensure that the inspection program of the foreign country involved is meeting such United States standards.
+    1985—Subsec. (f). [Pub. L. 99–198][/us/pl/99/198], § 1702(a), struck out provision which had made this subsection effective six months after Dec. 22, 1981, and inserted provisions requiring that each foreign country from which meat articles are offered for importation into the United States obtain a certification issued by the Secretary stating that the country maintains a program using reliable analytical methods to ensure compliance with the United States standards for residues in such meat articles, that no meat article be permitted entry into the United States from a country for which the Secretary has not issued such certification, that the Secretary periodically review such certifications and revoke any certification if the Secretary determines that the country involved is not maintaining a program that uses reliable analytical methods to ensure compliance with United States standards for residues in such meat articles, and that the consideration of any application for a certification under this subsection and the review of any such certification, by the Secretary, include the inspection of individual establishments to ensure that the inspection program of the foreign country involved is meeting such United States standards.
 
-    Subsec. (g). [Pub. L. 99–198, § 1702(b)][/us/pl/99/198/s1702/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–198][/us/pl/99/198], § 1702(b), added subsec. (g).
 
     1981—Subsec. (f). [Pub. L. 97–98][/us/pl/97/98] added subsec. (f).
 
     1978—Subsec. (a). [Pub. L. 95–445][/us/pl/95/445] prohibited imports which do not comply with humane methods of slaughter.
 
-    1967—[Pub. L. 90–201, § 10][/us/pl/90/201/s10], substituted imported articles provisions for penalty provisions deeming offenses as misdemeanors and punishable by fine of $10,000 or imprisonment for two years or both. See [section 676(a) of this title][/us/usc/t21/s676/a].
+    1967—[Pub. L. 90–201][/us/pl/90/201], § 10, substituted imported articles provisions for penalty provisions deeming offenses as misdemeanors and punishable by fine of $10,000 or imprisonment for two years or both. See [section 676(a) of this title][/us/usc/t21/s676/a].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -145,25 +145,25 @@
 [/us/stat/34/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1264
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/95/445/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs4
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
-[/us/pl/97/98/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1122
+[/us/pl/97/98/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXI
 [/us/stat/95/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1273
-[/us/pl/99/198/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1702
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1634
-[/us/pl/100/418/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4604
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1408
-[/us/pl/103/182/s361/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Ff
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2124
-[/us/pl/103/437/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs8%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
-[/us/pl/103/465/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4970
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
-[/us/pl/95/445/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fb
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/pl/95/445/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs7
 [/us/usc/t21/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs603
@@ -175,17 +175,17 @@
 [/us/usc/t21/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs88
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/465/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431
-[/us/pl/103/465/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431
-[/us/pl/103/182/s361/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Ff%2F1
-[/us/pl/103/182/s361/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Ff%2F2
-[/us/pl/100/418/s4604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4604%2Fb
-[/us/pl/100/418/s4604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4604%2Fa
-[/us/pl/99/198/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1702%2Fa
-[/us/pl/99/198/s1702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1702%2Fb
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
-[/us/pl/90/201/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs10
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/usc/t21/s676/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs676%2Fa
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/109/97/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798%2Fb

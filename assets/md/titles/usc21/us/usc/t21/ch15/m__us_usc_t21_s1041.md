@@ -63,7 +63,7 @@
 
         No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of [section 1040 of this title][/us/usc/t21/s1040] or subsection (c) of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or ware­houseman.
 
-([Pub. L. 91–597, § 12][/us/pl/91/597/s12], Dec. 29, 1970, [84 Stat. 1628][/us/stat/84/1628]; [Pub. L. 102–237, title X, § 1012(d)][/us/pl/102/237/s1012/d], Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899].)
+([Pub. L. 91–597][/us/pl/91/597], § 12, Dec. 29, 1970, [84 Stat. 1628][/us/stat/84/1628]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(d), Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899].)
 
  __References in Text__ 
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–237, § 1012(d)(1)][/us/pl/102/237/s1012/d/1], (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of [section 1037 of this title][/us/usc/t21/s1037], as subsec. (d).
+    1991—Subsec. (a). [Pub. L. 102–237][/us/pl/102/237], § 1012(d)(1), (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of [section 1037 of this title][/us/usc/t21/s1037], as subsec. (d).
 
-    Subsec. (b). [Pub. L. 102–237, § 1012(d)(4)][/us/pl/102/237/s1012/d/4], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (e).
+    Subsec. (b). [Pub. L. 102–237][/us/pl/102/237], § 1012(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (e).
 
-    Subsec. (c). [Pub. L. 102–237, § 1012(d)(5)][/us/pl/102/237/s1012/d/5], added subsec. (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 102–237][/us/pl/102/237], § 1012(d)(5), added subsec. (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 102–237, § 1012(d)(2)][/us/pl/102/237/s1012/d/2], designated last sentence of subsec. (a), relating to scope of liability for violations of [section 1037 of this title][/us/usc/t21/s1037], as subsec. (d).
+    Subsec. (d). [Pub. L. 102–237][/us/pl/102/237], § 1012(d)(2), designated last sentence of subsec. (a), relating to scope of liability for violations of [section 1037 of this title][/us/usc/t21/s1037], as subsec. (d).
 
-    Subsec. (e). [Pub. L. 102–237, § 1012(d)(3)][/us/pl/102/237/s1012/d/3], redesignated subsec. (b) as (e).
+    Subsec. (e). [Pub. L. 102–237][/us/pl/102/237], § 1012(d)(3), redesignated subsec. (b) as (e).
 
  __Effective Date of 1991 Amendment__ 
 
@@ -96,20 +96,20 @@
 [/us/usc/t21/s1033/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1033%2Fa%2F8
 [/us/usc/t21/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1037
 [/us/usc/t21/s1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1040
-[/us/pl/91/597/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs12
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1628
-[/us/pl/102/237/s1012/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fd
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1899
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620
 [/us/usc/t21/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1031
-[/us/pl/102/237/s1012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fd%2F1
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t21/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1037
-[/us/pl/102/237/s1012/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fd%2F4
-[/us/pl/102/237/s1012/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fd%2F5
-[/us/pl/102/237/s1012/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fd%2F2
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t21/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1037
-[/us/pl/102/237/s1012/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fd%2F3
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/102/237/s1012/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fh
 [/us/usc/t21/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1034

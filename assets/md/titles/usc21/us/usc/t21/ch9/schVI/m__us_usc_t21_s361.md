@@ -27,7 +27,7 @@
 
     (e) If it is not a hair dye and it is, or it bears or contains, a color additive which is unsafe within the meaning of [section 379e(a) of this title][/us/usc/t21/s379e/a].
 
-([June 25, 1938, ch. 675, § 601][/us/act/1938-06-25/ch675/s601], [52 Stat. 1054][/us/stat/52/1054]; [Pub. L. 86–618, title I, § 102(c)(1)][/us/pl/86/618/s102/c/1], July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 102–571, title I, § 107(11)][/us/pl/102/571/s107/11], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(x)][/us/pl/103/80/s3/x], Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 601, [52 Stat. 1054][/us/stat/52/1054]; [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 102(c)(1), July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(11), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80][/us/pl/103/80], § 3(x), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778].)
 
  __Amendments__ 
 
@@ -57,13 +57,13 @@
 ----------
 
 [/us/usc/t21/s379e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379e%2Fa
-[/us/act/1938-06-25/ch675/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs601
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1054
-[/us/pl/86/618/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs102%2Fc%2F1
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
-[/us/pl/102/571/s107/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F11
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
-[/us/pl/103/80/s3/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fx
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571

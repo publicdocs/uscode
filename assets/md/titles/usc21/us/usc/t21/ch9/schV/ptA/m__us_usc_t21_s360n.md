@@ -143,7 +143,7 @@
 
             (B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-([June 25, 1938, ch. 675, § 524][/us/act/1938-06-25/ch675/s524], as added [Pub. L. 110–85, title XI, § 1102][/us/pl/110/85/s1102], Sept. 27, 2007, [121 Stat. 972][/us/stat/121/972]; amended [Pub. L. 113–233, § 2][/us/pl/113/233/s2], Dec. 16, 2014, [128 Stat. 2127][/us/stat/128/2127].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 524, as added [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1102, Sept. 27, 2007, [121 Stat. 972][/us/stat/121/972]; amended [Pub. L. 113–233][/us/pl/113/233], § 2, Dec. 16, 2014, [128 Stat. 2127][/us/stat/128/2127].)
 
  __References in Text__ 
 
@@ -151,11 +151,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3)(Q), (R). [Pub. L. 113–233, § 2(1)][/us/pl/113/233/s2/1], added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”.
+    2014—Subsec. (a)(3)(Q), (R). [Pub. L. 113–233][/us/pl/113/233], § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”.
 
-    Subsec. (b)(2). [Pub. L. 113–233, § 2(2)(A)][/us/pl/113/233/s2/2/A], inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.”
+    Subsec. (b)(2). [Pub. L. 113–233][/us/pl/113/233], § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.”
 
-    Subsec. (b)(4). [Pub. L. 113–233, § 2(2)(B)][/us/pl/113/233/s2/2/B], substituted “90 days” for “365 days”.
+    Subsec. (b)(4). [Pub. L. 113–233][/us/pl/113/233], § 2(2)(B), substituted “90 days” for “365 days”.
 
 ----------
 
@@ -174,15 +174,15 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb%2F1
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs524
-[/us/pl/110/85/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1102
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F972
-[/us/pl/113/233/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2
+[/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
 [/us/stat/128/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2127
 [/us/pl/110/85/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs101%2Fc
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
-[/us/pl/113/233/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2%2F1
-[/us/pl/113/233/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2%2F2%2FA
-[/us/pl/113/233/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233%2Fs2%2F2%2FB
+[/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
+[/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
+[/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
 
 

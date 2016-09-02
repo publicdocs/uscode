@@ -81,7 +81,7 @@
 
         (6) Drug treatment programs.
 
-([Pub. L. 104–193, title I, § 115][/us/pl/104/193/s115], Aug. 22, 1996, [110 Stat. 2180][/us/stat/110/2180]; [Pub. L. 105–33, title V, § 5516(a)][/us/pl/105/33/s5516/a], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 110–234, title IV, § 4115(c)(2)(C)][/us/pl/110/234/s4115/c/2/C], May 22, 2008, [122 Stat. 1109][/us/stat/122/1109]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4115(c)(2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1871; [Pub. L. 113–79, title IV, § 4030(n)][/us/pl/113/79/s4030/n], Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
+([Pub. L. 104–193, title I][/us/pl/104/193/tI], § 115, Aug. 22, 1996, [110 Stat. 2180][/us/stat/110/2180]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5516(a), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4115(c)(2)(C), May 22, 2008, [122 Stat. 1109][/us/stat/122/1109]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4115(c)(2)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1871; [Pub. L. 113–79, title IV][/us/pl/113/79/tIV], § 4030(n), Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
 
  __References in Text__ 
 
@@ -97,15 +97,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–79, § 4030(n)(1)][/us/pl/113/79/s4030/n/1], substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])) or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+    2014—Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79], § 4030(n)(1), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])) or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
 
-    Subsec. (b)(2). [Pub. L. 113–79, § 4030(n)(2)][/us/pl/113/79/s4030/n/2], substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])), or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
+    Subsec. (b)(2). [Pub. L. 113–79][/us/pl/113/79], § 4030(n)(2), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])), or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
 
-    Subsec. (e)(2). [Pub. L. 113–79, § 4030(n)(3)][/us/pl/113/79/s4030/n/3], substituted “section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012]), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+    Subsec. (e)(2). [Pub. L. 113–79][/us/pl/113/79], § 4030(n)(3), substituted “section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012]), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
 
-    2008—Subsecs. (a)(2), (b)(2). [Pub. L. 110–246, § 4115(c)(2)(C)(i)][/us/pl/110/246/s4115/c/2/C/i], substituted “section 3(l)” for “section 3(h)”.
+    2008—Subsecs. (a)(2), (b)(2). [Pub. L. 110–246][/us/pl/110/246], § 4115(c)(2)(C)(i), substituted “section 3(l)” for “section 3(h)”.
 
-    Subsec. (e)(2). [Pub. L. 110–246, § 4115(c)(2)(C)][/us/pl/110/246/s4115/c/2/C], substituted “section 3(s)” for “section 3(m)” and “section 3(l)” for “section 3(h)”.
+    Subsec. (e)(2). [Pub. L. 110–246][/us/pl/110/246], § 4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(l)” for “section 3(h)”.
 
     1997—Subsec. (d)(2). [Pub. L. 105–33][/us/pl/105/33] substituted “a conviction if the conviction is for conduct” for “convictions”.
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5518(d)][/us/pl/105/33/s5518/d], Aug. 5, 1997, [111 Stat. 621][/us/stat/111/621], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5518(d), Aug. 5, 1997, [111 Stat. 621][/us/stat/111/621], provided that: 
 
 > “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[[Pub. L. 104–193][/us/pl/104/193]\] that have not become part of another statute \[chapter 1 (§§ 5501–5518) of subtitle F of title V of [Pub. L. 105–33][/us/pl/105/33], amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under [section 612c of Title 7][/us/usc/t7/s612c], Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
 
@@ -148,15 +148,15 @@
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/104/193/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs115
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2180
-[/us/pl/105/33/s5516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5516%2Fa
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
-[/us/pl/110/234/s4115/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4115%2Fc%2F2%2FC
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1109
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s4030/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn
+[/us/pl/113/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIV
 [/us/stat/128/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F814
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -168,14 +168,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s4030/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/113/79/s4030/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/113/79/s4030/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fn%2F3
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/110/246/s4115/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FC%2Fi
-[/us/pl/110/246/s4115/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FC
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/110/246/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fc
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
@@ -187,7 +187,7 @@
 [/us/pl/110/246/s4115/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FC
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
-[/us/pl/105/33/s5518/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5518%2Fd
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F621
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

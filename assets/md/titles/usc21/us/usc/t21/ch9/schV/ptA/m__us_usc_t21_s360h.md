@@ -107,7 +107,7 @@
 
         (3) The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c) of this section.
 
-([June 25, 1938, ch. 675, § 518][/us/act/1938-06-25/ch675/s518], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 562][/us/stat/90/562]; amended [Pub. L. 101–629, § 8][/us/pl/101/629/s8], Nov. 28, 1990, [104 Stat. 4520][/us/stat/104/4520]; [Pub. L. 102–300, § 4][/us/pl/102/300/s4], June 16, 1992, [106 Stat. 239][/us/stat/106/239].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 518, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 562][/us/stat/90/562]; amended [Pub. L. 101–629][/us/pl/101/629], § 8, Nov. 28, 1990, [104 Stat. 4520][/us/stat/104/4520]; [Pub. L. 102–300][/us/pl/102/300], § 4, June 16, 1992, [106 Stat. 239][/us/stat/106/239].)
 
  __Amendments__ 
 
@@ -123,12 +123,12 @@
 ----------
 
 [/us/usc/t21/s375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs375%2Fb
-[/us/act/1938-06-25/ch675/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs518
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F562
-[/us/pl/101/629/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs8
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4520
-[/us/pl/102/300/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs4
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F239
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629

@@ -37,7 +37,7 @@
 
         In any proceeding brought under subsection (a) of this section, the burden of proof shall be on the United States to establish that an article or other such matter is false or misleading.
 
-([June 25, 1938, ch. 675, § 403B][/us/act/1938-06-25/ch675/s403B], as added [Pub. L. 103–417, § 5][/us/pl/103/417/s5], Oct. 25, 1994, [108 Stat. 4328][/us/stat/108/4328].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 403B, as added [Pub. L. 103–417][/us/pl/103/417], § 5, Oct. 25, 1994, [108 Stat. 4328][/us/stat/108/4328].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s403B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs403B
-[/us/pl/103/417/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs5
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/stat/108/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4328
 
 

@@ -23,7 +23,7 @@
 
         Six members of the Advisory Commission shall constitute a quorum.
 
-([Pub. L. 100–690, title I, § 1046][/us/pl/100/690/s1046], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 233][/us/stat/111/233].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1046, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 233][/us/stat/111/233].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/100/690/s1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1046
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F233
 
 

@@ -17,7 +17,7 @@
 
     The Attorney General may from time to time appoint committees to advise him with respect to preventing and controlling the abuse of controlled substances. Members of the committees may be entitled to receive compensation at the rate of $100 for each day (including traveltime) during which they are engaged in the actual performance of duties. While traveling on official business in the performance of duties for the committees, members of the committees shall be allowed expenses of travel, including per diem instead of subsistence, in accordance with subchapter I of chapter 57 of title 5.
 
-([Pub. L. 91–513, title II, § 504][/us/pl/91/513/s504], Oct. 27, 1970, [84 Stat. 1272][/us/stat/84/1272].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 504, Oct. 27, 1970, [84 Stat. 1272][/us/stat/84/1272].)
 
  __Termination of Advisory Committees__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs504
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1272
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

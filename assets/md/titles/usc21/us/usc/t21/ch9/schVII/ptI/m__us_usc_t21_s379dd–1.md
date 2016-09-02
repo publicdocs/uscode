@@ -17,7 +17,7 @@
 
     The Foundation shall, if practicable, be located not more than 20 miles from the District of Columbia.
 
-([June 25, 1938, ch. 675, § 771][/us/act/1938-06-25/ch675/s771], as added [Pub. L. 110–85, title VI, § 601(b)][/us/pl/110/85/s601/b], Sept. 27, 2007, [121 Stat. 897][/us/stat/121/897].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 771, as added [Pub. L. 110–85, title VI][/us/pl/110/85/tVI], § 601(b), Sept. 27, 2007, [121 Stat. 897][/us/stat/121/897].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs771
-[/us/pl/110/85/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs601%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVI
 [/us/stat/121/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F897
 
 

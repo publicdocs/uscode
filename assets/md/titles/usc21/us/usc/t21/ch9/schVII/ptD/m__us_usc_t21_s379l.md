@@ -31,7 +31,7 @@
 
         The Secretary, acting through the Commissioner, may, through fellowships and other training programs, conduct and support intramural research training for predoctoral and postdoctoral scientists and physicians. Any such fellowships and training programs under this section or under [section 379dd(d)(2)(A)(ix) of this title][/us/usc/t21/s379dd/d/2/A/ix] may include provision by such scientists and physicians of services on a voluntary and uncompensated basis, as the Secretary determines appropriate. Such scientists and physicians shall be subject to all legal and ethical requirements otherwise applicable to officers or employees of the Department of Health and Human Services.
 
-([June 25, 1938, ch. 675, § 746][/us/act/1938-06-25/ch675/s746], formerly § 742, as added [Pub. L. 105–115, title IV, § 408(a)][/us/pl/105/115/s408/a], Nov. 21, 1997, [111 Stat. 2371][/us/stat/111/2371]; amended [Pub. L. 110–85, title VI, § 601(c)][/us/pl/110/85/s601/c], Sept. 27, 2007, [121 Stat. 897][/us/stat/121/897]; renumbered § 746, [Pub. L. 110–316, title II, § 202(a)][/us/pl/110/316/s202/a], Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 746, formerly § 742, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 408(a), Nov. 21, 1997, [111 Stat. 2371][/us/stat/111/2371]; amended [Pub. L. 110–85, title VI][/us/pl/110/85/tVI], § 601(c), Sept. 27, 2007, [121 Stat. 897][/us/stat/121/897]; renumbered § 746, [Pub. L. 110–316, title II][/us/pl/110/316/tII], § 202(a), Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515].)
 
  __Prior Provisions__ 
 
@@ -54,12 +54,12 @@
 
 [/us/usc/t21/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374
 [/us/usc/t21/s379dd/d/2/A/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379dd%2Fd%2F2%2FA%2Fix
-[/us/act/1938-06-25/ch675/s746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs746
-[/us/pl/105/115/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs408%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2371
-[/us/pl/110/85/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs601%2Fc
+[/us/pl/110/85/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVI
 [/us/stat/121/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F897
-[/us/pl/110/316/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs202%2Fa
+[/us/pl/110/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtII
 [/us/stat/122/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3515
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t21/s379dd/d/2/A/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379dd%2Fd%2F2%2FA%2Fix

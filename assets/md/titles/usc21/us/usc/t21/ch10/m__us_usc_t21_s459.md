@@ -33,7 +33,7 @@
 
         (3) upon request, make the procedures and reassessed process control plans available to inspectors appointed by the Secretary for review and copying.
 
-([Pub. L. 85–172, § 10][/us/pl/85/172/s10], Aug. 28, 1957, [71 Stat. 446][/us/stat/71/446]; [Pub. L. 90–492, § 10][/us/pl/90/492/s10], Aug. 18, 1968, [82 Stat. 801][/us/stat/82/801]; [Pub. L. 110–234, title XI, § 11017(b)][/us/pl/110/234/s11017/b], May 22, 2008, [122 Stat. 1370][/us/stat/122/1370]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11017(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2132.)
+([Pub. L. 85–172][/us/pl/85/172], § 10, Aug. 28, 1957, [71 Stat. 446][/us/stat/71/446]; [Pub. L. 90–492][/us/pl/90/492], § 10, Aug. 18, 1968, [82 Stat. 801][/us/stat/82/801]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11017(b), May 22, 2008, [122 Stat. 1370][/us/stat/122/1370]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11017(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2132.)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 11017(b)][/us/pl/110/246/s11017/b], inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 11017(b), inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
     1968—[Pub. L. 90–492][/us/pl/90/492] substituted “otherwise subject to this chapter” for “in or for marketing in a designated major consuming area”.
 
@@ -60,19 +60,19 @@
 ----------
 ----------
 
-[/us/pl/85/172/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs10
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F446
-[/us/pl/90/492/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs10
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F801
-[/us/pl/110/234/s11017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11017%2Fb
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1370
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s11017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11017%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

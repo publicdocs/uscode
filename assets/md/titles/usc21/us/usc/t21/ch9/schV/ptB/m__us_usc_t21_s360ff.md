@@ -221,7 +221,7 @@
 
             Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-([June 25, 1938, ch. 675, § 529][/us/act/1938-06-25/ch675/s529], as added [Pub. L. 112–144, title IX, § 908][/us/pl/112/144/s908], July 9, 2012, [126 Stat. 1094][/us/stat/126/1094]; amended [Pub. L. 114–113, div. A, title VII, § 765][/us/pl/114/113/s765], Dec. 18, 2015, [129 Stat. 2286][/us/stat/129/2286].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 529, as added [Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 908, July 9, 2012, [126 Stat. 1094][/us/stat/126/1094]; amended [Pub. L. 114–113, div. A, title VII][/us/pl/114/113/dA/tVII], § 765, Dec. 18, 2015, [129 Stat. 2286][/us/stat/129/2286].)
 
  __References in Text__ 
 
@@ -259,10 +259,10 @@
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs529
-[/us/pl/112/144/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs908
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1094
-[/us/pl/114/113/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs765
+[/us/pl/114/113/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdA%2FtVII
 [/us/stat/129/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2286
 [/us/pl/112/144/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs101%2Fb
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g

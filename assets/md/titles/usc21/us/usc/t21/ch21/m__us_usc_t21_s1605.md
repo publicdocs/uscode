@@ -117,7 +117,7 @@
 
         The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
-([Pub. L. 105–230, § 6][/us/pl/105/230/s6], Aug. 13, 1998, [112 Stat. 1526][/us/stat/112/1526].)
+([Pub. L. 105–230][/us/pl/105/230], § 6, Aug. 13, 1998, [112 Stat. 1526][/us/stat/112/1526].)
 
 ----------
 
@@ -142,7 +142,7 @@
 [/us/usc/t21/s1604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1604%2Fd
 [/us/usc/t21/s1604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1604%2Fd
 [/us/usc/t21/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1606
-[/us/pl/105/230/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs6
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1526
 
 

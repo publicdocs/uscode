@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall derogate from the authority of the Secretary of the Treasury under the customs and related laws.
 
-([Pub. L. 91–513, title III, § 1016][/us/pl/91/513/s1016], Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1016, Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1016
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1291
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236

@@ -37,7 +37,7 @@
 
         The Secretary may, under an agreement entered into with a Federal, State, or local agency, use, on a reimbursable basis or otherwise, the personnel, services, and facilities of the agency to carry out the responsibilities of the agency under this section. An agreement entered into with a State agency under this subsection may provide for training of State employees.
 
-([Pub. L. 110–85, title X, § 1004][/us/pl/110/85/s1004], Sept. 27, 2007, [121 Stat. 964][/us/stat/121/964].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1004, Sept. 27, 2007, [121 Stat. 964][/us/stat/121/964].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1004
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F964
 
 

@@ -111,7 +111,7 @@
 
         Nothing in this section shall be construed to limit the ability of the Secretary to review and act upon information from food testing, including determining the sufficiency of such information and testing.
 
-([June 25, 1938, ch. 675, § 422][/us/act/1938-06-25/ch675/s422], as added [Pub. L. 111–353, title II, § 202(a)][/us/pl/111/353/s202/a], Jan. 4, 2011, [124 Stat. 3926][/us/stat/124/3926].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 422, as added [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 202(a), Jan. 4, 2011, [124 Stat. 3926][/us/stat/124/3926].)
 
  __Construction__ 
 
@@ -125,8 +125,8 @@
 ----------
 
 [/us/usc/t21/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fa
-[/us/act/1938-06-25/ch675/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs422
-[/us/pl/111/353/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs202%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3926
 
 

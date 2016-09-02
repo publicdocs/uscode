@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as are necessary to carry out the provisions of this chapter.
 
-([Pub. L. 85–172, § 26][/us/pl/85/172/s26], formerly § 20, Aug. 28, 1957, [71 Stat. 449][/us/stat/71/449], renumbered [Pub. L. 90–492, § 17][/us/pl/90/492/s17], Aug. 18, 1968, [82 Stat. 805][/us/stat/82/805].)
+([Pub. L. 85–172][/us/pl/85/172], § 26, formerly § 20, Aug. 28, 1957, [71 Stat. 449][/us/stat/71/449], renumbered [Pub. L. 90–492][/us/pl/90/492], § 17, Aug. 18, 1968, [82 Stat. 805][/us/stat/82/805].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/85/172/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs26
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F449
-[/us/pl/90/492/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs17
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F805
 
 

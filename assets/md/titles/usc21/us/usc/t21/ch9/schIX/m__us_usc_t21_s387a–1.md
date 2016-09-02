@@ -131,7 +131,7 @@
 
         (4) The document titled “Nicotine in Cigarettes and Smokeless Tobacco is a Drug and These Products are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act; Jurisdictional Determination” (61 Fed. Reg. 44619–45318 (August 28, 1996)).
 
-([Pub. L. 111–31, div. A, title I, § 102][/us/pl/111/31/s102], June 22, 2009, [123 Stat. 1830][/us/stat/123/1830].)
+([Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 102, June 22, 2009, [123 Stat. 1830][/us/stat/123/1830].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 [/us/usc/t21/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387
 [/us/usc/t21/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387
 [/us/usc/t5/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs801
-[/us/pl/111/31/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1830
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

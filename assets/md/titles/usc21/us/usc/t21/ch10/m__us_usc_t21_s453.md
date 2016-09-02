@@ -125,7 +125,7 @@
 
     (bb) The term “animal food manufacturer” means any person engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of poultry.
 
-([Pub. L. 85–172, § 4][/us/pl/85/172/s4], Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441]; [Pub. L. 87–498][/us/pl/87/498], June 25, 1962, [76 Stat. 110][/us/stat/76/110]; [Pub. L. 90–492, § 4][/us/pl/90/492/s4], Aug. 18, 1968, [82 Stat. 792][/us/stat/82/792]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–571, title I, § 107(13)][/us/pl/102/571/s107/13], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499].)
+([Pub. L. 85–172][/us/pl/85/172], § 4, Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441]; [Pub. L. 87–498][/us/pl/87/498], June 25, 1962, [76 Stat. 110][/us/stat/76/110]; [Pub. L. 90–492][/us/pl/90/492], § 4, Aug. 18, 1968, [82 Stat. 792][/us/stat/82/792]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(13), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499].)
 
  __References in Text__ 
 
@@ -163,15 +163,15 @@
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/85/172/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs4
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F441
 [/us/pl/87/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F498
 [/us/stat/76/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F110
-[/us/pl/90/492/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs4
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F792
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/571/s107/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F13
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

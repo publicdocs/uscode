@@ -81,7 +81,7 @@
 
         (5) Not later than July 1, 2000, the Secretary after evaluating the effectiveness of the Good Guidance Practices document, published in the Federal Register at 62 Fed. Reg. 8961, shall promulgate a regulation consistent with this subsection specifying the policies and procedures of the Food and Drug Administration for the development, issuance, and use of guidance documents.
 
-([June 25, 1938, ch. 675, § 701][/us/act/1938-06-25/ch675/s701], [52 Stat. 1055][/us/stat/52/1055]; [June 25, 1948, ch. 646, § 32][/us/act/1948-06-25/ch646/s32], [62 Stat. 991][/us/stat/62/991]; [Apr. 15, 1954, ch. 143, § 2][/us/act/1954-04-15/ch143/s2], [68 Stat. 55][/us/stat/68/55]; [Aug. 1, 1956, ch. 861, § 2][/us/act/1956-08-01/ch861/s2], [70 Stat. 919][/us/stat/70/919]; [Pub. L. 85–791, § 21][/us/pl/85/791/s21], Aug. 28, 1958, [72 Stat. 948][/us/stat/72/948]; [Pub. L. 86–618, title I, § 103(a)(4)][/us/pl/86/618/s103/a/4], July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 101–535, § 8][/us/pl/101/535/s8], Nov. 8, 1990, [104 Stat. 2365][/us/stat/104/2365]; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], §§ 3(y), (dd)(1), 4(c), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778], 779; [Pub. L. 103–396, § 3(b)][/us/pl/103/396/s3/b], Oct. 22, 1994, [108 Stat. 4155][/us/stat/108/4155]; [Pub. L. 105–115, title IV, § 405][/us/pl/105/115/s405], Nov. 21, 1997, [111 Stat. 2368][/us/stat/111/2368]; [Pub. L. 112–144, title VI, § 619][/us/pl/112/144/s619], July 9, 2012, [126 Stat. 1063][/us/stat/126/1063].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 701, [52 Stat. 1055][/us/stat/52/1055]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32, [62 Stat. 991][/us/stat/62/991]; [Apr. 15, 1954, ch. 143][/us/act/1954-04-15/ch143], § 2, [68 Stat. 55][/us/stat/68/55]; [Aug. 1, 1956, ch. 861][/us/act/1956-08-01/ch861], § 2, [70 Stat. 919][/us/stat/70/919]; [Pub. L. 85–791][/us/pl/85/791], § 21, Aug. 28, 1958, [72 Stat. 948][/us/stat/72/948]; [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 103(a)(4), July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 101–535][/us/pl/101/535], § 8, Nov. 8, 1990, [104 Stat. 2365][/us/stat/104/2365]; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(1), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], §§ 3(y), (dd)(1), 4(c), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778], 779; [Pub. L. 103–396][/us/pl/103/396], § 3(b), Oct. 22, 1994, [108 Stat. 4155][/us/stat/108/4155]; [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 405, Nov. 21, 1997, [111 Stat. 2368][/us/stat/111/2368]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 619, July 9, 2012, [126 Stat. 1063][/us/stat/126/1063].)
 
  __Amendments__ 
 
@@ -91,23 +91,23 @@
 
     1994—Subsec. (e)(1). [Pub. L. 103–396][/us/pl/103/396] which directed the amendment of par. (1) by striking out “or maple syrup (regulated under section 168.140 of title 21, Code of Federal Regulations).”, was executed by striking out “or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” before “shall be begun by a proposal”, to reflect the probable intent of Congress.
 
-    1993—Subsec. (b). [Pub. L. 103–80, § 3(dd)(1)][/us/pl/103/80/s3/dd/1], substituted “Health and Human Services” for “Agriculture” in two places.
+    1993—Subsec. (b). [Pub. L. 103–80][/us/pl/103/80], § 3(dd)(1), substituted “Health and Human Services” for “Agriculture” in two places.
 
-    Subsec. (e)(1). [Pub. L. 103–80, § 4(c)][/us/pl/103/80/s4/c], made technical correction to directory language of [Pub. L. 101–535, § 8][/us/pl/101/535/s8]. See 1990 Amendment note below.
+    Subsec. (e)(1). [Pub. L. 103–80][/us/pl/103/80], § 4(c), made technical correction to directory language of [Pub. L. 101–535][/us/pl/101/535], § 8. See 1990 Amendment note below.
 
-    [Pub. L. 103–80, § 3(y)(1)][/us/pl/103/80/s3/y/1], struck out period after second reference to “Regulations)”.
+    [Pub. L. 103–80][/us/pl/103/80], § 3(y)(1), struck out period after second reference to “Regulations)”.
 
-    Subsec. (f)(4). [Pub. L. 103–80, § 3(y)(2)][/us/pl/103/80/s3/y/2], substituted reference to [section 1254 of title 28][/us/usc/t28/s1254] for “sections 239 and 240 of the Judicial Code, as amended”.
+    Subsec. (f)(4). [Pub. L. 103–80][/us/pl/103/80], § 3(y)(2), substituted reference to [section 1254 of title 28][/us/usc/t28/s1254] for “sections 239 and 240 of the Judicial Code, as amended”.
 
     1992—Subsec. (b). [Pub. L. 102–300][/us/pl/102/300], which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
 
-    1990—Subsec. (e)(1). [Pub. L. 101–535, § 8][/us/pl/101/535/s8], as amended by [Pub. L. 103–80, § 4(c)][/us/pl/103/80/s4/c], substituted “Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under [section 341 of this title][/us/usc/t21/s341] for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” for “Any action for the issuance, amendment, or repeal of any regulation under section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title”.
+    1990—Subsec. (e)(1). [Pub. L. 101–535][/us/pl/101/535], § 8, as amended by [Pub. L. 103–80][/us/pl/103/80], § 4(c), substituted “Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under [section 341 of this title][/us/usc/t21/s341] for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” for “Any action for the issuance, amendment, or repeal of any regulation under section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title”.
 
     1960—Subsec. (e). [Pub. L. 86–618][/us/pl/86/618] substituted “section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h), of this title” for “section 341, 343(j), 344(a), 346(a) or (b), 351(b), 352(d) or (h), 354 or 364 of this title”.
 
-    1958—Subsec. (f)(1). [Pub. L. 85–791, § 21(a)][/us/pl/85/791/s21/a], substituted provisions requiring transmission of a copy of the petition by clerk to Secretary, and filing of the record by Secretary, for provisions which permitted service of summons and petition any place in United States and required Secretary to certify and file transcript of the proceedings and record upon service.
+    1958—Subsec. (f)(1). [Pub. L. 85–791][/us/pl/85/791], § 21(a), substituted provisions requiring transmission of a copy of the petition by clerk to Secretary, and filing of the record by Secretary, for provisions which permitted service of summons and petition any place in United States and required Secretary to certify and file transcript of the proceedings and record upon service.
 
-    Subsec. (f)(3). [Pub. L. 85–791, § 21(b)][/us/pl/85/791/s21/b], inserted “Upon the filing of the petition referred to in paragraph (1) of this subsection”.
+    Subsec. (f)(3). [Pub. L. 85–791][/us/pl/85/791], § 21(b), inserted “Upon the filing of the petition referred to in paragraph (1) of this subsection”.
 
     1956—Subsec. (e). Act Aug. 1, 1956, simplified procedures governing prescribing of regulations under certain provisions of this chapter.
 
@@ -135,13 +135,13 @@
 
  __Transfer of Functions__ 
 
-    Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+    Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
 
     For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title][/us/usc/t21/s321].
 
  __Notification of FDA Intent To Regulate Laboratory-Developed Tests__ 
 
-[Pub. L. 112–144, title XI, § 1143][/us/pl/112/144/s1143], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that:
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1143, July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Approval of Supplemental Applications for Approved Products__ 
 
-[Pub. L. 105–115, title IV, § 403][/us/pl/105/115/s403], Nov. 21, 1997, [111 Stat. 2367][/us/stat/111/2367], provided that:
+[Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 403, Nov. 21, 1997, [111 Stat. 2367][/us/stat/111/2367], provided that:
 
 >     “(a)  __Standards__  __.—__ 
 
@@ -200,46 +200,46 @@
 [/us/usc/t21/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs341
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/act/1938-06-25/ch675/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs701
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1055
-[/us/act/1948-06-25/ch646/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1954-04-15/ch143/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-15%2Fch143%2Fs2
+[/us/act/1954-04-15/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-15%2Fch143
 [/us/stat/68/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F55
-[/us/act/1956-08-01/ch861/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch861%2Fs2
+[/us/act/1956-08-01/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch861
 [/us/stat/70/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F919
-[/us/pl/85/791/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs21
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F948
-[/us/pl/86/618/s103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs103%2Fa%2F4
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
-[/us/pl/101/535/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535%2Fs8
+[/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
 [/us/stat/104/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2365
-[/us/pl/102/300/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F1
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
-[/us/pl/103/396/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F396%2Fs3%2Fb
+[/us/pl/103/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F396
 [/us/stat/108/4155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4155
-[/us/pl/105/115/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs405
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2368
-[/us/pl/112/144/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs619
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1063
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/103/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F396
-[/us/pl/103/80/s3/dd/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fdd%2F1
-[/us/pl/103/80/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fc
-[/us/pl/101/535/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535%2Fs8
-[/us/pl/103/80/s3/y/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fy%2F1
-[/us/pl/103/80/s3/y/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fy%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/101/535/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535%2Fs8
-[/us/pl/103/80/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fc
+[/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t21/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs341
 [/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
-[/us/pl/85/791/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs21%2Fa
-[/us/pl/85/791/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs21%2Fb
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t21/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs341
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
@@ -257,14 +257,14 @@
 [/us/pl/101/535/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535%2Fs9
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
 [/us/usc/t21/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs341
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/112/144/s1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1143
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1130
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/105/115/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs403
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2367
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262

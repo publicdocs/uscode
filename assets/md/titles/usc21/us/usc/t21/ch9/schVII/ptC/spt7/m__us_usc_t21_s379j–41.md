@@ -149,7 +149,7 @@
 
     (12) The term “Type II active pharmaceutical ingredient drug master file” means a submission of information to the Secretary by a person that intends to authorize the Food and Drug Administration to reference the information to support approval of a generic drug submission without the submitter having to disclose the information to the generic drug submission applicant.
 
-([June 25, 1938, ch. 675, § 744A][/us/act/1938-06-25/ch675/s744A], as added [Pub. L. 112–144, title III, § 302][/us/pl/112/144/s302], July 9, 2012, [126 Stat. 1008][/us/stat/126/1008].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744A, as added [Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 302, July 9, 2012, [126 Stat. 1008][/us/stat/126/1008].)
 
  __Termination of Section__ 
 
@@ -157,23 +157,23 @@
 
  __References in Text__ 
 
-    [Section 357 of this title][/us/usc/t21/s357], referred to in par. (1)(A), was repealed by [Pub. L. 105–115, title I, § 125(b)(1)][/us/pl/105/115/s125/b/1], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
+    [Section 357 of this title][/us/usc/t21/s357], referred to in par. (1)(A), was repealed by [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(1), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
     The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in par. (1)(A), is [Pub. L. 98–417][/us/pl/98/417], Sept. 24, 1984, [98 Stat. 1585][/us/stat/98/1585]. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 301 of this title][/us/usc/t21/s301] and Tables.
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 112–144, title III, § 304(a)][/us/pl/112/144/s304/a], July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], provided that: 
+[Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 304(a), July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], provided that: 
 
 > “Sections 744A and 744B of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–41][/us/usc/t21/s379j–41], 379j–42\], as added by section 302 of this Act, shall cease to be effective October 1, 2017.”
 
-[Pub. L. 112–144, title III, § 305][/us/pl/112/144/s305], July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], provided that: 
+[Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 305, July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], provided that: 
 
 > “The amendments made by this title \[enacting this section and sections 379d–4, 379j–42, and 379j–43 of this title and amending sections 352 and 379d–3 of this title\] shall take effect on October 1, 2012, or the date of the enactment of this title \[July 9, 2012\], whichever is later, except that fees under section 302 \[enacting this section and sections 379j–42 and 379j–43 of this title\] shall be assessed for all human generic drug submissions and Type II active pharmaceutical drug master files received on or after October 1, 2012, regardless of the date of enactment of this title.”
 
  __Finding__ 
 
-[Pub. L. 112–144, title III, § 301(b)][/us/pl/112/144/s301/b], July 9, 2012, [126 Stat. 1008][/us/stat/126/1008], provided that: 
+[Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 301(b), July 9, 2012, [126 Stat. 1008][/us/stat/126/1008], provided that: 
 
 > “The Congress finds that the fees authorized by the amendments made in this title \[enacting this section and sections 379d–4, 379j–42, and 379j–43 of this title and amending sections 352 and 379d–3 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
@@ -189,22 +189,22 @@
 [/us/usc/t21/s355/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fp
 [/us/usc/t21/s355/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fk%2F5
 [/us/usc/t21/s321/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fii
-[/us/act/1938-06-25/ch675/s744A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744A
-[/us/pl/112/144/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs302
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1008
 [/us/pl/112/144/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs304%2Fa
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
-[/us/pl/105/115/s125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F1
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/stat/98/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1585
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/112/144/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs304%2Fa
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1024
 [/us/usc/t21/s379j–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9341
-[/us/pl/112/144/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs305
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1024
-[/us/pl/112/144/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs301%2Fb
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1008
 
 

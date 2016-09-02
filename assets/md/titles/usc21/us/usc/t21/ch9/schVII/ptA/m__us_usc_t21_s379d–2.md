@@ -39,7 +39,7 @@
 
         Nothing in this section shall be construed as affecting any restrictions on such publication or presentation provided by other provisions of law.
 
-([June 25, 1938, ch. 675, § 713][/us/act/1938-06-25/ch675/s713], as added [Pub. L. 110–85, title XI, § 1101][/us/pl/110/85/s1101], Sept. 27, 2007, [121 Stat. 971][/us/stat/121/971].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 713, as added [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1101, Sept. 27, 2007, [121 Stat. 971][/us/stat/121/971].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs713
-[/us/pl/110/85/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1101
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F971
 
 

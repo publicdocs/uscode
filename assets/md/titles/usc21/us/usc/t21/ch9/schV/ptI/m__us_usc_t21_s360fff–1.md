@@ -17,7 +17,7 @@
 
     Any person may submit a request to the Secretary for a determination of whether a nonprescription sunscreen active ingredient or a combination of nonprescription sunscreen active ingredients, for use under specified conditions, to be prescribed, recommended, or suggested in the labeling thereof (including dosage form, dosage strength, and route of administration) is GRASE and should be included in part 352 of title 21, Code of Federal Regulations (or any successor regulations) concerning nonprescription sunscreen.
 
-([June 25, 1938, ch. 675, § 586A][/us/act/1938-06-25/ch675/s586A], as added [Pub. L. 113–195, § 2(a)][/us/pl/113/195/s2/a], Nov. 26, 2014, [128 Stat. 2036][/us/stat/128/2036].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586A, as added [Pub. L. 113–195][/us/pl/113/195], § 2(a), Nov. 26, 2014, [128 Stat. 2036][/us/stat/128/2036].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s586A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586A
-[/us/pl/113/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2036
 
 

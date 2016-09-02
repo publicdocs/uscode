@@ -17,7 +17,7 @@
 
     Not later than 2 years after July 9, 2012, the Secretary of Health and Human Services shall issue guidance that describes Food and Drug Administration policy regarding the promotion, using the Internet (including social media), of medical products that are regulated by such Administration.
 
-([Pub. L. 112–144, title XI, § 1121][/us/pl/112/144/s1121], July 9, 2012, [126 Stat. 1112][/us/stat/126/1112].)
+([Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1121, July 9, 2012, [126 Stat. 1112][/us/stat/126/1112].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/144/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1121
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1112
 
 

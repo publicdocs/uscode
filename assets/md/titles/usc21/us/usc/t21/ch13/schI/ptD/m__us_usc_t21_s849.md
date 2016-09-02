@@ -43,11 +43,11 @@
 
         (2) 3 times any term of supervised release authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense.
 
-([Pub. L. 91–513, title II, § 409][/us/pl/91/513/s409], as added [Pub. L. 103–322, title XVIII, § 180201(b)(1)][/us/pl/103/322/s180201/b/1], Sept. 13, 1994, [108 Stat. 2046][/us/stat/108/2046].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 409, as added [Pub. L. 103–322, title XVIII][/us/pl/103/322/tXVIII], § 180201(b)(1), Sept. 13, 1994, [108 Stat. 2046][/us/stat/108/2046].)
 
  __Prior Provisions__ 
 
-    A prior section 849, [Pub. L. 91–513, title II, § 409][/us/pl/91/513/s409], Oct. 27, 1970, [84 Stat. 1266][/us/stat/84/1266]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], related to dangerous special drug offender sentencing, prior to repeal by [Pub. L. 98–473, title II][/us/pl/98/473], §§ 219(a), 235(a)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2031, eff. Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal.
+    A prior section 849, [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 409, Oct. 27, 1970, [84 Stat. 1266][/us/stat/84/1266]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], related to dangerous special drug offender sentencing, prior to repeal by [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 219(a), 235(a)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2031, eff. Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal.
 
 ----------
 
@@ -65,14 +65,14 @@
 [/us/usc/t21/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs856
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/91/513/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs409
-[/us/pl/103/322/s180201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180201%2Fb%2F1
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/103/322/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVIII
 [/us/stat/108/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2046
-[/us/pl/91/513/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs409
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1266
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 
 

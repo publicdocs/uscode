@@ -31,7 +31,7 @@
 
         It shall be the duty of every manufacturer offering an electronic product for importation into the United States to designate in writing an agent upon whom service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made for and on behalf of said manufacturer, and to file such designation with the Secretary, which designation may from time to time be changed by like writing, similarly filed. Service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made upon said manufacturer by service upon such designated agent at his office or usual place of residence with like effect as if made personally upon said manufacturer, and in default of such designation of such agent, service of process, notice, order, requirement, or decision in any proceeding before the Secretary or in any judicial proceeding for enforcement of this part or any standards prescribed pursuant to this part may be made by posting such process, notice, order, requirement, or decision in the Office of the Secretary or in a place designated by him by regulation.
 
-([June 25, 1938, ch. 675, § 536][/us/act/1938-06-25/ch675/s536], formerly [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 536, formerly § 360, as added [Pub. L. 90–602, § 2(3)][/us/pl/90/602/s2/3], Oct. 18, 1968, [82 Stat. 1181][/us/stat/82/1181]; renumbered § 536 and amended [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(D), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80, § 4(a)(2)][/us/pl/103/80/s4/a/2], Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 536, formerly [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 536, formerly § 360, as added [Pub. L. 90–602][/us/pl/90/602], § 2(3), Oct. 18, 1968, [82 Stat. 1181][/us/stat/82/1181]; renumbered § 536 and amended [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(D), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(1), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], § 4(a)(2), Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
 
  __Codification__ 
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629, § 19(a)(4)][/us/pl/101/629/s19/a/4], which renumbered [section 263h of Title 42][/us/usc/t42/s263h], The Public Health and Welfare, as this section.
+    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629][/us/pl/101/629], § 19(a)(4), which renumbered [section 263h of Title 42][/us/usc/t42/s263h], The Public Health and Welfare, as this section.
 
     1992—Subsecs. (a), (b). [Pub. L. 102–300][/us/pl/102/300] substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-    1990—Subsec. (a). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(D), substituted “this part” for “this subpart”, “section 360kk(h)” for “section 263f(h)”, and “section 360kk” for “section 263f”.
+    1990—Subsec. (a). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(D), substituted “this part” for “this subpart”, “section 360kk(h)” for “section 263f(h)”, and “section 360kk” for “section 263f”.
 
-    Subsec. (b). [Pub. L. 101–629, § 19(a)(2)(D)][/us/pl/101/629/s19/a/2/D], substituted “section 360kk” for “section 263f”.
+    Subsec. (b). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(2)(D), substituted “section 360kk” for “section 263f”.
 
-    Subsec. (d). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], substituted “this part” for “this subpart” in two places.
+    Subsec. (d). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), substituted “this part” for “this subpart” in two places.
 
  __Noninterference With Other Federal Agencies__ 
 
@@ -63,25 +63,25 @@
 [/us/usc/t21/s360kk/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360kk%2Fh
 [/us/usc/t21/s360kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360kk
 [/us/usc/t21/s360kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360kk
-[/us/act/1938-06-25/ch675/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs536
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/602/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs2%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1181
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4529
-[/us/pl/102/300/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F1
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/103/80/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fa%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F779
 [/us/usc/t42/s263h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263h
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/101/629/s19/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F4
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t42/s263h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263h
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
-[/us/pl/101/629/s19/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F2%2FD
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/90/602/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs4
 [/us/usc/t21/s360hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360hh
 

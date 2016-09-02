@@ -43,7 +43,7 @@
 
         (5) For purposes of subchapter B of chapter 98 of title 26, the Fund established under this paragraph shall be treated in the same manner as a trust fund established under subchapter A of such chapter.
 
-([Pub. L. 91–513, title II, § 516][/us/pl/91/513/s516], Oct. 27, 1970, [84 Stat. 1279][/us/stat/84/1279]; [Pub. L. 96–132, § 16(b)][/us/pl/96/132/s16/b], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 100–690, title VI, § 6254(i)][/us/pl/100/690/s6254/i], Nov. 18, 1988, [102 Stat. 4367][/us/stat/102/4367].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 516, Oct. 27, 1970, [84 Stat. 1279][/us/stat/84/1279]; [Pub. L. 96–132][/us/pl/96/132], § 16(b), Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(i), Nov. 18, 1988, [102 Stat. 4367][/us/stat/102/4367].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
  __Reimbursement by Drug Enforcement Administration of Expenses Incurred To Remediate Methamphetamine Laboratories__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3672][/us/pl/106/310/s3672], Oct. 17, 2000, [114 Stat. 1246][/us/stat/114/1246], provided that:
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3672, Oct. 17, 2000, [114 Stat. 1246][/us/stat/114/1246], provided that:
 
 >     “(a)  __Reimbursement Authorized__  __.—__ 
 
@@ -82,16 +82,16 @@
 [/us/usc/t21/s841/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F6
 [/us/usc/t21/s841/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F6
 [/us/usc/t21/s841/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F6
-[/us/pl/91/513/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs516
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1279
-[/us/pl/96/132/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs16%2Fb
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1049
-[/us/pl/100/690/s6254/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fi
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4367
 [/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
-[/us/pl/106/310/s3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3672
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1246
 
 

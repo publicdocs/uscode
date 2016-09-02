@@ -23,17 +23,17 @@
 
         Nothing in this chapter shall be construed as requiring the Secretary to report for prosecution or for the institution of libel or injunction proceedings, minor violations of this chapter whenever he believes that the public interest will be adequately served by a suitable written notice of warning.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 406, as added [Pub. L. 90–201, § 16][/us/pl/90/201/s16], Dec. 15, 1967, [81 Stat. 599][/us/stat/81/599]; amended [Pub. L. 99–641, title IV, § 403(c)][/us/pl/99/641/s403/c], Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 406, as added [Pub. L. 90–201][/us/pl/90/201], § 16, Dec. 15, 1967, [81 Stat. 599][/us/stat/81/599]; amended [Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 403(c), Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570].)
 
  __Amendments__ 
 
-    1986—Subsec. (b). [Pub. L. 99–641, § 403(c)(1)][/us/pl/99/641/s403/c/1], temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
+    1986—Subsec. (b). [Pub. L. 99–641][/us/pl/99/641], § 403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
 
-    Subsec. (c). [Pub. L. 99–641, § 403(c)(2)][/us/pl/99/641/s403/c/2], temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
+    Subsec. (c). [Pub. L. 99–641][/us/pl/99/641], § 403(c)(2), temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
 
  __Effective and Termination Dates of 1986 Amendment__ 
 
-    [Pub. L. 99–641, title IV, § 403(c)][/us/pl/99/641/s403/c], Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570], provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+    [Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 403(c), Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570], provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
  __Construction and Effect of Amendments by Pub. L. 99–641__ 
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t21/s601/m/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fm%2F8
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs16
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F599
-[/us/pl/99/641/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fc
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3570
-[/us/pl/99/641/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fc%2F1
-[/us/pl/99/641/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fc%2F2
-[/us/pl/99/641/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fc
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3570
 [/us/pl/99/641/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641

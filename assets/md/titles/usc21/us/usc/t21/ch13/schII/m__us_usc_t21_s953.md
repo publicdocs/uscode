@@ -119,7 +119,7 @@
 
         (2) information concerning the consignee, country, and product be provided prior to exportation of the controlled substance from the United States or prior to each re-exportation among members of the European Economic Area.
 
-([Pub. L. 91–513, title III, § 1003][/us/pl/91/513/s1003], Oct. 27, 1970, [84 Stat. 1286][/us/stat/84/1286]; [Pub. L. 95–633, title I, § 106][/us/pl/95/633/s106], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II, § 522][/us/pl/98/473/s522], Oct. 12, 1984, [98 Stat. 2076][/us/stat/98/2076]; [Pub. L. 109–57, § 1(b)][/us/pl/109/57/s1/b], Aug. 2, 2005, [119 Stat. 592][/us/stat/119/592]; [Pub. L. 114–89, § 4][/us/pl/114/89/s4], Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1003, Oct. 27, 1970, [84 Stat. 1286][/us/stat/84/1286]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 106, Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 522, Oct. 12, 1984, [98 Stat. 2076][/us/stat/98/2076]; [Pub. L. 109–57][/us/pl/109/57], § 1(b), Aug. 2, 2005, [119 Stat. 592][/us/stat/119/592]; [Pub. L. 114–89][/us/pl/114/89], § 4, Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
 
  __References in Text__ 
 
@@ -127,11 +127,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (f)(5). [Pub. L. 114–89, § 4(1)(A)][/us/pl/114/89/s4/1/A], designated existing provisions as subpar. (A), inserted “, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area” before period at end, and added subpar. (B).
+    2015—Subsec. (f)(5). [Pub. L. 114–89][/us/pl/114/89], § 4(1)(A), designated existing provisions as subpar. (A), inserted “, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area” before period at end, and added subpar. (B).
 
-    Subsec. (f)(6). [Pub. L. 114–89, § 4(1)(B)][/us/pl/114/89/s4/1/B], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (f)(6). [Pub. L. 114–89][/us/pl/114/89], § 4(1)(B), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (g). [Pub. L. 114–89, § 4(2)][/us/pl/114/89/s4/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 114–89][/us/pl/114/89], § 4(2), added subsec. (g).
 
     2005—Subsec. (f). [Pub. L. 109–57][/us/pl/109/57] added subsec. (f).
 
@@ -150,20 +150,20 @@
 ----------
 ----------
 
-[/us/pl/91/513/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1003
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1286
-[/us/pl/95/633/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs106
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3772
-[/us/pl/98/473/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs522
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2076
-[/us/pl/109/57/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57%2Fs1%2Fb
+[/us/pl/109/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57
 [/us/stat/119/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F592
-[/us/pl/114/89/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F701
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/114/89/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4%2F1%2FA
-[/us/pl/114/89/s4/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4%2F1%2FB
-[/us/pl/114/89/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs4%2F2
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/109/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633

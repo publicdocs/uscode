@@ -113,7 +113,7 @@
 
                 For oxygen provided pursuant to subparagraph (A), the requirements of [section 353(b)(4) of this title][/us/usc/t21/s353/b/4] shall be deemed to have been met if its labeling bears a warning that the oxygen can be used for emergency use only and for all other medical applications a prescription is required.
 
-([June 25, 1938, ch. 675, § 576][/us/act/1938-06-25/ch675/s576], as added [Pub. L. 112–144, title XI, § 1111][/us/pl/112/144/s1111], July 9, 2012, [126 Stat. 1109][/us/stat/126/1109].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 576, as added [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1111, July 9, 2012, [126 Stat. 1109][/us/stat/126/1109].)
 
 ----------
 
@@ -137,8 +137,8 @@
 [/us/usc/t21/s353/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F3
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
 [/us/usc/t21/s353/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F4
-[/us/act/1938-06-25/ch675/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs576
-[/us/pl/112/144/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1111
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1109
 
 

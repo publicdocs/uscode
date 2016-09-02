@@ -21,7 +21,7 @@
 
     (2) If such a violation is prosecuted by an information or indictment which alleges that the violation was committed knowingly or intentionally and the trier of fact specifically finds that the violation was so committed, such person shall be sentenced to imprisonment for not more than one year or a fine of not more than $25,000 or both.
 
-([Pub. L. 91–513, title III, § 1011][/us/pl/91/513/s1011], Oct. 27, 1970, [84 Stat. 1290][/us/stat/84/1290]; [Pub. L. 100–690, title VI, § 6053(d)][/us/pl/100/690/s6053/d], Nov. 18, 1988, [102 Stat. 4316][/us/stat/102/4316].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1011, Oct. 27, 1970, [84 Stat. 1290][/us/stat/84/1290]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6053(d), Nov. 18, 1988, [102 Stat. 4316][/us/stat/102/4316].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t21/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs954
 [/us/usc/t21/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs971
-[/us/pl/91/513/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1011
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1290
-[/us/pl/100/690/s6053/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6053%2Fd
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4316
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs971

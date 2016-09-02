@@ -79,19 +79,19 @@
 
         The Secretary may by order suspend or terminate any exemption under this section with respect to any person whenever he finds that such action will aid in effectuating the purposes of this chapter.
 
-([Pub. L. 85–172, § 15][/us/pl/85/172/s15], Aug. 28, 1957, [71 Stat. 447][/us/stat/71/447]; [Pub. L. 90–492, § 14][/us/pl/90/492/s14], Aug. 18, 1968, [82 Stat. 803][/us/stat/82/803]; [Pub. L. 97–206][/us/pl/97/206], June 30, 1982, [96 Stat. 136][/us/stat/96/136]; [Pub. L. 102–237, title X, § 1016(b)][/us/pl/102/237/s1016/b], Dec. 13, 1991, [105 Stat. 1903][/us/stat/105/1903].)
+([Pub. L. 85–172][/us/pl/85/172], § 15, Aug. 28, 1957, [71 Stat. 447][/us/stat/71/447]; [Pub. L. 90–492][/us/pl/90/492], § 14, Aug. 18, 1968, [82 Stat. 803][/us/stat/82/803]; [Pub. L. 97–206][/us/pl/97/206], June 30, 1982, [96 Stat. 136][/us/stat/96/136]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1016(b), Dec. 13, 1991, [105 Stat. 1903][/us/stat/105/1903].)
 
  __Amendments__ 
 
     1991—Subsecs. (d) to (f). [Pub. L. 102–237][/us/pl/102/237] added subsec. (d), redesignated former subsec. (d) as (e) and substituted “(d)” for “(c)”, and redesignated former subsec. (e) as (f).
 
-    1982—Par. (c)(3). [Pub. L. 97–206, § 1][/us/pl/97/206/s1], substituted provisions that no exemption would be given to persons who during the current calendar year either slaughter or process the products of more than 20,000 poultry, or slaughter or process such poultry at a facility of another poultry producer or person, but that, in the latter case, the Secretary may grant the exemption upon application of such poultry producer or person if granting such exemption would not impair the purposes of this chapter, for provisions that an exemption would not be granted to those who slaughter or process the products of more than 5,000 turkeys or an equivalent number of poultry of all species in the current calendar year (four birds of other species being deemed equivalent of one turkey).
+    1982—Par. (c)(3). [Pub. L. 97–206][/us/pl/97/206], § 1, substituted provisions that no exemption would be given to persons who during the current calendar year either slaughter or process the products of more than 20,000 poultry, or slaughter or process such poultry at a facility of another poultry producer or person, but that, in the latter case, the Secretary may grant the exemption upon application of such poultry producer or person if granting such exemption would not impair the purposes of this chapter, for provisions that an exemption would not be granted to those who slaughter or process the products of more than 5,000 turkeys or an equivalent number of poultry of all species in the current calendar year (four birds of other species being deemed equivalent of one turkey).
 
-    Par. (c)(4)(i). [Pub. L. 97–206, § 2][/us/pl/97/206/s2], substituted “1,000 poultry during the calendar year for which this exemption is being determined” for “250 turkeys, or not more than an equivalent number of birds of all species during the calendar year for which this exemption is being determined (four birds of other species being deemed the equivalent of one turkey)”.
+    Par. (c)(4)(i). [Pub. L. 97–206][/us/pl/97/206], § 2, substituted “1,000 poultry during the calendar year for which this exemption is being determined” for “250 turkeys, or not more than an equivalent number of birds of all species during the calendar year for which this exemption is being determined (four birds of other species being deemed the equivalent of one turkey)”.
 
-    1968—Par. (a). [Pub. L. 90–492, § 14(a)][/us/pl/90/492/s14/a], (b), redesignated subpars. (2) to (4) as (1) to (3), respectively, and in subpar. (2), as so redesignated, substituted “January 1, 1970” for “July 1, 1960”. Former subpar. (1), which exempted poultry producers with respect to poultry of their own raising on their own farms which they sold directly to household consumers, hotels, etc., for use in their own dining rooms or in the preparation of meals for sales direct to consumers only, provided that such producers did not engage in buying or selling poultry products other than those produced from poultry raised on their own farms, was struck out.
+    1968—Par. (a). [Pub. L. 90–492][/us/pl/90/492], § 14(a), (b), redesignated subpars. (2) to (4) as (1) to (3), respectively, and in subpar. (2), as so redesignated, substituted “January 1, 1970” for “July 1, 1960”. Former subpar. (1), which exempted poultry producers with respect to poultry of their own raising on their own farms which they sold directly to household consumers, hotels, etc., for use in their own dining rooms or in the preparation of meals for sales direct to consumers only, provided that such producers did not engage in buying or selling poultry products other than those produced from poultry raised on their own farms, was struck out.
 
-    Pars. (b) to (e). [Pub. L. 90–492, § 14(c)][/us/pl/90/492/s14/c], added pars. (b) to (d) and redesignated former par. (b) as (e).
+    Pars. (b) to (e). [Pub. L. 90–492][/us/pl/90/492], § 14(c), added pars. (b) to (d) and redesignated former par. (b) as (e).
 
  __Effective Date of 1968 Amendment__ 
 
@@ -99,13 +99,13 @@
 
  __Regulations__ 
 
-[Pub. L. 102–237, title X, § 1016(c)][/us/pl/102/237/s1016/c], Dec. 13, 1991, [105 Stat. 1903][/us/stat/105/1903], provided that: 
+[Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1016(c), Dec. 13, 1991, [105 Stat. 1903][/us/stat/105/1903], provided that: 
 
 > “No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) of the Federal Meat Inspection Act \[[21 U.S.C. 623(c)][/us/usc/t21/s623/c]\] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act \[[21 U.S.C. 464(d)][/us/usc/t21/s464/d]\] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and food safety issues raised by the granting of each of the exemptions.”
 
  __Studies Concerning Grant of Future Exemptions for Poultry and Meat Food Products__ 
 
-    [Pub. L. 102–237, title X, § 1016(d)][/us/pl/102/237/s1016/d], Dec. 13, 1991, [105 Stat. 1903][/us/stat/105/1903], directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
+    [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1016(d), Dec. 13, 1991, [105 Stat. 1903][/us/stat/105/1903], directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
 
 ----------
 
@@ -115,27 +115,27 @@
 ----------
 
 [/us/usc/t21/s453/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs453%2Fa
-[/us/pl/85/172/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs15
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F447
-[/us/pl/90/492/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs14
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F803
 [/us/pl/97/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F206
 [/us/stat/96/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F136
-[/us/pl/102/237/s1016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1016%2Fb
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1903
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/97/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F206%2Fs1
-[/us/pl/97/206/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F206%2Fs2
-[/us/pl/90/492/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs14%2Fa
-[/us/pl/90/492/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs14%2Fc
+[/us/pl/97/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F206
+[/us/pl/97/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F206
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs20%2Fb
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451
-[/us/pl/102/237/s1016/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1016%2Fc
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1903
 [/us/usc/t21/s623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs623%2Fc
 [/us/usc/t21/s464/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs464%2Fd
-[/us/pl/102/237/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1016%2Fd
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1903
 
 

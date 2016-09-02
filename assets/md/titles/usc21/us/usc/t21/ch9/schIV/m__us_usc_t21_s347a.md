@@ -17,7 +17,7 @@
 
     The Congress finds and declares that the sale, or the serving in public eating places, of colored oleomargarine or colored margarine without clear identification as such or which is otherwise adulterated or misbranded within the meaning of this chapter depresses the market in interstate commerce for butter and for oleomargarine or margarine clearly identified and neither adulterated nor misbranded, and constitutes a burden on interstate commerce in such articles. Such burden exists, irrespective of whether such oleomargarine or margarine originates from an interstate source or from the State in which it is sold.
 
-([Mar. 16, 1950, ch. 61, § 3(a)][/us/act/1950-03-16/ch61/s3/a], [64 Stat. 20][/us/stat/64/20].)
+([Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 3(a), [64 Stat. 20][/us/stat/64/20].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1950-03-16/ch61/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs3%2Fa
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F20
 [/us/usc/t21/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs347
 

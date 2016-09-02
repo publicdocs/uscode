@@ -229,7 +229,7 @@
 
             Nothing in this subsection shall be construed to limit the Secretary’s authority to take action under this section or other sections of this chapter at any time applicable to any dissolvable tobacco product.
 
-([June 25, 1938, ch. 675, § 907][/us/act/1938-06-25/ch675/s907], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1799][/us/stat/123/1799].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 907, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1799][/us/stat/123/1799].)
 
  __Prior Provisions__ 
 
@@ -246,8 +246,8 @@
 [/us/usc/t21/s387q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387q%2Fa
 [/us/usc/t21/s387q/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387q%2Fc%2F4
 [/us/usc/t21/s387q/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387q%2Fc%2F4
-[/us/act/1938-06-25/ch675/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs907
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1799
 [/us/usc/t21/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs397
 

@@ -27,7 +27,7 @@
 
         If the Secretary does not provide the statement within the 60-day period described in subsection (b) of this section, the recommendation made by the person under subsection (a) of this section shall be considered to be a final determination by the Secretary of such classification of the product, or the component of the Food and Drug Administration that will regulate the product, as applicable, and may not be modified by the Secretary except with the written consent of the person, or for public health reasons based on scientific evidence.
 
-([June 25, 1938, ch. 675, § 563][/us/act/1938-06-25/ch675/s563], as added [Pub. L. 105–115, title IV, § 416][/us/pl/105/115/s416], Nov. 21, 1997, [111 Stat. 2378][/us/stat/111/2378].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 563, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 416, Nov. 21, 1997, [111 Stat. 2378][/us/stat/111/2378].)
 
  __Effective Date__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t21/s353/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fg
-[/us/act/1938-06-25/ch675/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs563
-[/us/pl/105/115/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs416
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2378
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321

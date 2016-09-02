@@ -85,11 +85,11 @@
 
                 (iii) If the Secretary disapproves the supplemental application, the Secretary may order the manufacturer to cease the distribution of the drugs that have been made with the manufacturing change.
 
-([June 25, 1938, ch. 675, § 506A][/us/act/1938-06-25/ch675/s506A], as added [Pub. L. 105–115, title I, § 116(a)][/us/pl/105/115/s116/a], Nov. 21, 1997, [111 Stat. 2313][/us/stat/111/2313].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506A, as added [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 116(a), Nov. 21, 1997, [111 Stat. 2313][/us/stat/111/2313].)
 
  __Effective Date__ 
 
-[Pub. L. 105–115, title I, § 116(b)][/us/pl/105/115/s116/b], Nov. 21, 1997, [111 Stat. 2315][/us/stat/111/2315], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 116(b), Nov. 21, 1997, [111 Stat. 2315][/us/stat/111/2315], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first.”
 
@@ -101,10 +101,10 @@
 ----------
 
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s506A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506A
-[/us/pl/105/115/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs116%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2313
-[/us/pl/105/115/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs116%2Fb
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2315
 
 

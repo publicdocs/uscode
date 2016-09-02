@@ -387,7 +387,7 @@
 
             Subsections (c)(3), (d), (e), (i), (j), and (l)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
 
-([June 25, 1938, ch. 675, § 306][/us/act/1938-06-25/ch675/s306], as added [Pub. L. 102–282, § 2][/us/pl/102/282/s2], May 13, 1992, [106 Stat. 150][/us/stat/106/150]; amended [Pub. L. 105–115, title I, § 125(b)(2)(C)][/us/pl/105/115/s125/b/2/C], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325]; [Pub. L. 107–188, title III, § 304(a)][/us/pl/107/188/s304/a]–(c), June 12, 2002, [116 Stat. 665][/us/stat/116/665], 666; [Pub. L. 107–250, title II, § 203][/us/pl/107/250/s203], Oct. 26, 2002, [116 Stat. 1610][/us/stat/116/1610].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 306, as added [Pub. L. 102–282][/us/pl/102/282], § 2, May 13, 1992, [106 Stat. 150][/us/stat/106/150]; amended [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(C), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325]; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 304(a)–(c), June 12, 2002, [116 Stat. 665][/us/stat/116/665], 666; [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 203, Oct. 26, 2002, [116 Stat. 1610][/us/stat/116/1610].)
 
  __Prior Provisions__ 
 
@@ -395,29 +395,29 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–188, § 304(b)(1)][/us/pl/107/188/s304/b/1], substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading.
+    2002—Subsec. (a). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(1), substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading.
 
-    Subsec. (b). [Pub. L. 107–188, § 304(b)(2)(A)][/us/pl/107/188/s304/b/2/A], substituted “Permissive debarment; certain drug applications; food imports” for “Permissive debarment” in heading.
+    Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(2)(A), substituted “Permissive debarment; certain drug applications; food imports” for “Permissive debarment” in heading.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–188, § 304(a)(1)][/us/pl/107/188/s304/a/1], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 107–188][/us/pl/107/188], § 304(a)(1), added subpar. (C).
 
-    Subsec. (b)(2). [Pub. L. 107–188, § 304(b)(2)(B)][/us/pl/107/188/s304/b/2/B], substituted “permissive debarment; certain drug applications” for “permissive debarment” in heading.
+    Subsec. (b)(2). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(2)(B), substituted “permissive debarment; certain drug applications” for “permissive debarment” in heading.
 
-    [Pub. L. 107–188, § 304(a)(2)(A)][/us/pl/107/188/s304/a/2/A], inserted “subparagraph (A) or (B) of” before “paragraph (1)” in introductory provisions.
+    [Pub. L. 107–188][/us/pl/107/188], § 304(a)(2)(A), inserted “subparagraph (A) or (B) of” before “paragraph (1)” in introductory provisions.
 
-    Subsec. (b)(3), (4). [Pub. L. 107–188, § 304(a)(2)(B)][/us/pl/107/188/s304/a/2/B], (C), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 107–188][/us/pl/107/188], § 304(a)(2)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (c)(2)(A)(iii). [Pub. L. 107–188, § 304(b)(3)][/us/pl/107/188/s304/b/3], substituted “paragraph (2) or (3) of subsection (b)” for “subsection (b)(2)”.
+    Subsec. (c)(2)(A)(iii). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(3), substituted “paragraph (2) or (3) of subsection (b)” for “subsection (b)(2)”.
 
-    Subsec. (d)(3)(A)(i). [Pub. L. 107–188, § 304(b)(4)(A)][/us/pl/107/188/s304/b/4/A], substituted “subsection (a)(1) of this section or paragraph (2)(A) or (3) of subsection (b)” for “subsection (a)(1) or (b)(2)(A)”.
+    Subsec. (d)(3)(A)(i). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(4)(A), substituted “subsection (a)(1) of this section or paragraph (2)(A) or (3) of subsection (b)” for “subsection (a)(1) or (b)(2)(A)”.
 
-    Subsec. (d)(3)(A)(ii)(II). [Pub. L. 107–188, § 304(b)(4)(B)][/us/pl/107/188/s304/b/4/B], inserted “in applicable cases,” before “sufficient audits”.
+    Subsec. (d)(3)(A)(ii)(II). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(4)(B), inserted “in applicable cases,” before “sufficient audits”.
 
-    Subsec. (d)(3)(B)(i). [Pub. L. 107–188, § 304(b)(4)(C)][/us/pl/107/188/s304/b/4/C], inserted “or subsection (b)(3)” after “subsection (b)(2)(B)”.
+    Subsec. (d)(3)(B)(i). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(4)(C), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)”.
 
-    Subsec. (d)(3)(B)(ii). [Pub. L. 107–188, § 304(b)(4)(C)][/us/pl/107/188/s304/b/4/C], (D), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)” and “or the food importation process, as the case may be” before period.
+    Subsec. (d)(3)(B)(ii). [Pub. L. 107–188][/us/pl/107/188], § 304(b)(4)(C), (D), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)” and “or the food importation process, as the case may be” before period.
 
-    Subsec. (l)(2). [Pub. L. 107–188, § 304(c)][/us/pl/107/188/s304/c], in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of this section” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
+    Subsec. (l)(2). [Pub. L. 107–188][/us/pl/107/188], § 304(c), in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of this section” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
 
     Subsec. (m). [Pub. L. 107–250][/us/pl/107/250] added subsec. (m).
 
@@ -425,13 +425,13 @@
 
  __Construction__ 
 
-[Pub. L. 102–282, § 7][/us/pl/102/282/s7], May 13, 1992, [106 Stat. 162][/us/stat/106/162], provided that: 
+[Pub. L. 102–282][/us/pl/102/282], § 7, May 13, 1992, [106 Stat. 162][/us/stat/106/162], provided that: 
 
 > “No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act.”
 
  __Congressional Findings__ 
 
-[Pub. L. 102–282, § 1(c)][/us/pl/102/282/s1/c], May 13, 1992, [106 Stat. 149][/us/stat/106/149], provided that: 
+[Pub. L. 102–282][/us/pl/102/282], § 1(c), May 13, 1992, [106 Stat. 149][/us/stat/106/149], provided that: 
 
 > “The Congress finds that—
 
@@ -452,33 +452,33 @@
 [/us/usc/t21/s335b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs335b
 [/us/usc/t21/s331/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Fgg
 [/us/usc/t21/s383/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs383%2Fb
-[/us/act/1938-06-25/ch675/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs306
-[/us/pl/102/282/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F150
-[/us/pl/105/115/s125/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FC
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
-[/us/pl/107/188/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fa
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F665
-[/us/pl/107/250/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs203
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1610
 [/us/usc/t21/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs336
-[/us/pl/107/188/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F1
-[/us/pl/107/188/s304/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F2%2FA
-[/us/pl/107/188/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fa%2F1
-[/us/pl/107/188/s304/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F2%2FB
-[/us/pl/107/188/s304/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fa%2F2%2FA
-[/us/pl/107/188/s304/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fa%2F2%2FB
-[/us/pl/107/188/s304/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F3
-[/us/pl/107/188/s304/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F4%2FA
-[/us/pl/107/188/s304/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F4%2FB
-[/us/pl/107/188/s304/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F4%2FC
-[/us/pl/107/188/s304/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fb%2F4%2FC
-[/us/pl/107/188/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fc
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
-[/us/pl/102/282/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs7
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F162
-[/us/pl/102/282/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs1%2Fc
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F149
 
 

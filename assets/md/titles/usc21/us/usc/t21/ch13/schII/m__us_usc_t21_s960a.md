@@ -41,7 +41,7 @@
 
         As used in this section, the term “anything of pecuniary value” has the meaning given the term in [section 1958(b)(1) of title 18][/us/usc/t18/s1958/b/1].
 
-([Pub. L. 91–513, title III, § 1010A][/us/pl/91/513/s1010A], as added [Pub. L. 109–177, title I, § 122][/us/pl/109/177/s122], Mar. 9, 2006, [120 Stat. 225][/us/stat/120/225].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1010A, as added [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 122, Mar. 9, 2006, [120 Stat. 225][/us/stat/120/225].)
 
  __References in Text__ 
 
@@ -60,8 +60,8 @@
 [/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
 [/us/usc/t22/s2656f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd%2F2
 [/us/usc/t18/s1958/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1958%2Fb%2F1
-[/us/pl/91/513/s1010A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1010A
-[/us/pl/109/177/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs122
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F225
 [/us/pl/91/513/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs401
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841

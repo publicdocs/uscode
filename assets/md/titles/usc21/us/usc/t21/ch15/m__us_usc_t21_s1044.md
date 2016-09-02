@@ -41,7 +41,7 @@
 
         The Secretary may immediately suspend or terminate any exemption under subsection (a)(2) or (6) of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
 
-([Pub. L. 91–597, § 15][/us/pl/91/597/s15], Dec. 29, 1970, [84 Stat. 1629][/us/stat/84/1629]; [Pub. L. 92–67][/us/pl/92/67], Aug. 6, 1971, [85 Stat. 173][/us/stat/85/173].)
+([Pub. L. 91–597][/us/pl/91/597], § 15, Dec. 29, 1970, [84 Stat. 1629][/us/stat/84/1629]; [Pub. L. 92–67][/us/pl/92/67], Aug. 6, 1971, [85 Stat. 173][/us/stat/85/173].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs15
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1629
 [/us/pl/92/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F67
 [/us/stat/85/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F173

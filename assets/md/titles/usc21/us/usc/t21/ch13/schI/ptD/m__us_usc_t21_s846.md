@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s844a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s845...845b.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
 
 ## § 846. Attempt and conspiracy
 
     Any person who attempts or conspires to commit any offense defined in this subchapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-([Pub. L. 91–513, title II, § 406][/us/pl/91/513/s406], Oct. 27, 1970, [84 Stat. 1265][/us/stat/84/1265]; [Pub. L. 100–690, title VI, § 6470(a)][/us/pl/100/690/s6470/a], Nov. 18, 1988, [102 Stat. 4377][/us/stat/102/4377].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 406, Oct. 27, 1970, [84 Stat. 1265][/us/stat/84/1265]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6470(a), Nov. 18, 1988, [102 Stat. 4377][/us/stat/102/4377].)
 
  __Amendments__ 
 
@@ -25,14 +25,14 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s844a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s845...845b.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
 
 ----------
 ----------
 
-[/us/pl/91/513/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs406
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1265
-[/us/pl/100/690/s6470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6470%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4377
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

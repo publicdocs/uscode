@@ -63,7 +63,7 @@
 
             (B) notify the qualified entity that submitted the item regarding the reason such item shall not be posted and modifications, if any, that the qualified entity may make to allow the item to be posted.
 
-([Pub. L. 109–469, title X, § 1004][/us/pl/109/469/s1004], Dec. 29, 2006, [120 Stat. 3538][/us/stat/120/3538].)
+([Pub. L. 109–469, title X][/us/pl/109/469/tX], § 1004, Dec. 29, 2006, [120 Stat. 3538][/us/stat/120/3538].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/109/469/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1004
+[/us/pl/109/469/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtX
 [/us/stat/120/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3538
 
 

@@ -25,7 +25,7 @@
 
     (4) increased Federal commitment to research into the behavioral and biomedical etiology of, the treatment of, and the mental and physical health and social and economic consequences of, drug abuse.
 
-([Pub. L. 92–255, title I, § 102][/us/pl/92/255/s102], Mar. 21, 1972, [86 Stat. 66][/us/stat/86/66]; [Pub. L. 94–237, § 2][/us/pl/94/237/s2], Mar. 19, 1976, [90 Stat. 241][/us/stat/90/241]; [Pub. L. 96–181, § 3][/us/pl/96/181/s3], Jan. 2, 1980, [93 Stat. 1309][/us/stat/93/1309].)
+([Pub. L. 92–255, title I][/us/pl/92/255/tI], § 102, Mar. 21, 1972, [86 Stat. 66][/us/stat/86/66]; [Pub. L. 94–237][/us/pl/94/237], § 2, Mar. 19, 1976, [90 Stat. 241][/us/stat/90/241]; [Pub. L. 96–181][/us/pl/96/181], § 3, Jan. 2, 1980, [93 Stat. 1309][/us/stat/93/1309].)
 
  __References in Text__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/92/255/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2Fs102
+[/us/pl/92/255/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2FtI
 [/us/stat/86/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F66
-[/us/pl/94/237/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237%2Fs2
+[/us/pl/94/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237
 [/us/stat/90/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F241
-[/us/pl/96/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs3
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
 [/us/stat/93/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1309
 [/us/pl/92/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255
 [/us/stat/86/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F65

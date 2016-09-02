@@ -17,7 +17,7 @@
 
     Any poisonous or deleterious substance added to any food, except where such substance is required in the production thereof or cannot be avoided by good manufacturing practice shall be deemed to be unsafe for purposes of the application of clause (2)(A) of [section 342(a) of this title][/us/usc/t21/s342/a]; but when such substance is so required or cannot be so avoided, the Secretary shall promulgate regulations limiting the quantity therein or thereon to such extent as he finds necessary for the protection of public health, and any quantity exceeding the limits so fixed shall also be deemed to be unsafe for purposes of the application of clause (2)(A) of [section 342(a) of this title][/us/usc/t21/s342/a]. While such a regulation is in effect limiting the quantity of any such substance in the case of any food, such food shall not, by reason of bearing or containing any added amount of such substance, be considered to be adulterated within the meaning of clause (1) of [section 342(a) of this title][/us/usc/t21/s342/a]. In determining the quantity of such added substance to be tolerated in or on different articles of food the Secretary shall take into account the extent to which the use of such substance is required or cannot be avoided in the production of each such article, and the other ways in which the consumer may be affected by the same or other poisonous or deleterious substances.
 
-([June 25, 1938, ch. 675, § 406][/us/act/1938-06-25/ch675/s406], [52 Stat. 1049][/us/stat/52/1049]; [Pub. L. 85–929, § 3(c)][/us/pl/85/929/s3/c], Sept. 6, 1958, [72 Stat. 1785][/us/stat/72/1785]; [Pub. L. 86–618, title I, § 103(a)(1)][/us/pl/86/618/s103/a/1], July 12, 1960, [74 Stat. 398][/us/stat/74/398].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 406, [52 Stat. 1049][/us/stat/52/1049]; [Pub. L. 85–929][/us/pl/85/929], § 3(c), Sept. 6, 1958, [72 Stat. 1785][/us/stat/72/1785]; [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 103(a)(1), July 12, 1960, [74 Stat. 398][/us/stat/74/398].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 [/us/usc/t21/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa
 [/us/usc/t21/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa
 [/us/usc/t21/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa
-[/us/act/1938-06-25/ch675/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs406
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1049
-[/us/pl/85/929/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs3%2Fc
+[/us/pl/85/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929
 [/us/stat/72/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1785
-[/us/pl/86/618/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs103%2Fa%2F1
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
 [/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
 [/us/pl/85/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929

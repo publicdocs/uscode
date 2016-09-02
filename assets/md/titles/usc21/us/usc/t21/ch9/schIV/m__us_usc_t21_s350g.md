@@ -313,11 +313,11 @@
 
             (G) Supplier verification activities that relate to the safety of food.
 
-([June 25, 1938, ch. 675, § 418][/us/act/1938-06-25/ch675/s418], as added [Pub. L. 111–353, title I, § 103(a)][/us/pl/111/353/s103/a], Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 418, as added [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(a), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889].)
 
  __Effective Date__ 
 
-[Pub. L. 111–353, title I, § 103(i)][/us/pl/111/353/s103/i], Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that:
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(i), Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -337,25 +337,25 @@
 
  __Guidance Document__ 
 
-[Pub. L. 111–353, title I, § 103(b)][/us/pl/111/353/s103/b], Jan. 4, 2011, [124 Stat. 3896][/us/stat/124/3896], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(b), Jan. 4, 2011, [124 Stat. 3896][/us/stat/124/3896], provided that: 
 
 > “The Secretary shall issue a guidance document related to the regulations promulgated under subsection (b)(1) \[probably means [21 U.S.C. 350g(n)(1)][/us/usc/t21/s350g/n/1]\] with respect to the hazard analysis and preventive controls under section 418 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350g][/us/usc/t21/s350g]\] (as added by subsection (a)).”
 
  __Small Entity Compliance Policy Guide__ 
 
-[Pub. L. 111–353, title I, § 103(d)][/us/pl/111/353/s103/d], Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(d), Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
 
 > “Not later than 180 days after the issuance of the regulations promulgated under subsection (n) of section 418 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350g(n)][/us/usc/t21/s350g/n]\] (as added by subsection (a)), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 418 and this section \[enacting this section, amending [section 331 of this title][/us/usc/t21/s331], and enacting provisions set out as notes under this section and sections 342 and 350d of this title\] to assist small entities in complying with the hazard analysis and other activities required under such section 418 and this section.”
 
  __No Effect on HACCP Authorities__ 
 
-[Pub. L. 111–353, title I, § 103(f)][/us/pl/111/353/s103/f], Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(f), Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
 
 > “Nothing in the amendments made by this section \[enacting this section and amending [section 331 of this title][/us/usc/t21/s331]\] limits the authority of the Secretary under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.) or the Public Health Service Act ([42 U.S.C. 201][/us/usc/t42/s201] et seq.) to revise, issue, or enforce Hazard Analysis Critical Control \[Points\] programs and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards.”
 
  __Dietary Supplements__ 
 
-[Pub. L. 111–353, title I, § 103(g)][/us/pl/111/353/s103/g], Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(g), Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
 
 > “Nothing in the amendments made by this section \[enacting this section and amending [section 331 of this title][/us/usc/t21/s331]\] shall apply to any facility with regard to the manufacturing, processing, packing, or holding of a dietary supplement that is in compliance with the requirements of sections 402(g)(2) and 761 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 342(g)(2)][/us/usc/t21/s342/g/2], 379aa–1).”
 
@@ -377,27 +377,27 @@
 [/us/usc/t21/s350h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350h
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
-[/us/act/1938-06-25/ch675/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs418
-[/us/pl/111/353/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3889
-[/us/pl/111/353/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fi
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3898
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/usc/t21/s350g/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g%2Fn
-[/us/pl/111/353/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fb
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3896
 [/us/usc/t21/s350g/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g%2Fn%2F1
 [/us/usc/t21/s350g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g
-[/us/pl/111/353/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fd
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3898
 [/us/usc/t21/s350g/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g%2Fn
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
-[/us/pl/111/353/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Ff
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3898
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/353/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fg
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3898
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/usc/t21/s342/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fg%2F2

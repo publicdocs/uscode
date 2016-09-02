@@ -319,7 +319,7 @@
 
         (2) adopt other administrative procedures to ensure that review times of abbreviated new animal drug applications do not increase from their current level due to activities under the user fee program.
 
-([June 25, 1938, ch. 675, § 740][/us/act/1938-06-25/ch675/s740], as added [Pub. L. 108–130, § 3][/us/pl/108/130/s3], Nov. 18, 2003, [117 Stat. 1363][/us/stat/117/1363]; amended [Pub. L. 110–316, title I, § 103][/us/pl/110/316/s103], Aug. 14, 2008, [122 Stat. 3510][/us/stat/122/3510]; [Pub. L. 113–14, title I, § 103][/us/pl/113/14/s103], June 13, 2013, [127 Stat. 454][/us/stat/127/454].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 740, as added [Pub. L. 108–130][/us/pl/108/130], § 3, Nov. 18, 2003, [117 Stat. 1363][/us/stat/117/1363]; amended [Pub. L. 110–316, title I][/us/pl/110/316/tI], § 103, Aug. 14, 2008, [122 Stat. 3510][/us/stat/122/3510]; [Pub. L. 113–14, title I][/us/pl/113/14/tI], § 103, June 13, 2013, [127 Stat. 454][/us/stat/127/454].)
 
  __Termination of Section__ 
 
@@ -329,25 +329,25 @@
 
     2013—[Pub. L. 113–14][/us/pl/113/14] amended section generally. Prior to amendment, section related to authority to assess and use animal drug fees.
 
-    2008—Subsec. (a)(1)(A)(i). [Pub. L. 110–316, § 103(a)(1)][/us/pl/110/316/s103/a/1], inserted “, except an animal drug application subject to the criteria set forth in [section 360b(d)(4) of this title][/us/usc/t21/s360b/d/4]” after “for an animal drug application”.
+    2008—Subsec. (a)(1)(A)(i). [Pub. L. 110–316][/us/pl/110/316], § 103(a)(1), inserted “, except an animal drug application subject to the criteria set forth in [section 360b(d)(4) of this title][/us/usc/t21/s360b/d/4]” after “for an animal drug application”.
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 110–316, § 103(a)(2)][/us/pl/110/316/s103/a/2], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).”
+    Subsec. (a)(1)(A)(ii). [Pub. L. 110–316][/us/pl/110/316], § 103(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).”
 
-    Subsec. (b)(1). [Pub. L. 110–316, § 103(b)(1)][/us/pl/110/316/s103/b/1], substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
+    Subsec. (b)(1). [Pub. L. 110–316][/us/pl/110/316], § 103(b)(1), substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
 
-    Subsec. (b)(2). [Pub. L. 110–316, § 103(b)(2)][/us/pl/110/316/s103/b/2], substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
+    Subsec. (b)(2). [Pub. L. 110–316][/us/pl/110/316], § 103(b)(2), substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
 
-    Subsec. (b)(3). [Pub. L. 110–316, § 103(b)(3)][/us/pl/110/316/s103/b/3], substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
+    Subsec. (b)(3). [Pub. L. 110–316][/us/pl/110/316], § 103(b)(3), substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
 
-    Subsec. (b)(4). [Pub. L. 110–316, § 103(b)(4)][/us/pl/110/316/s103/b/4], substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
+    Subsec. (b)(4). [Pub. L. 110–316][/us/pl/110/316], § 103(b)(4), substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.”
 
-    Subsec. (c)(1). [Pub. L. 110–316, § 103(c)(1)][/us/pl/110/316/s103/c/1]–(3), redesignated par. (2) as (1), substituted “The fee revenues shall be adjusted each fiscal year after fiscal year 2009” for “After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004” in introductory provisions, struck out “, as adjusted for inflation under paragraph (1)” before period in subpar. (B), and struck out former par. (1) relating to inflation adjustment.
+    Subsec. (c)(1). [Pub. L. 110–316][/us/pl/110/316], § 103(c)(1)–(3), redesignated par. (2) as (1), substituted “The fee revenues shall be adjusted each fiscal year after fiscal year 2009” for “After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004” in introductory provisions, struck out “, as adjusted for inflation under paragraph (1)” before period in subpar. (B), and struck out former par. (1) relating to inflation adjustment.
 
-    Subsec. (c)(2). [Pub. L. 110–316, § 103(c)(2)][/us/pl/110/316/s103/c/2], (4), redesignated par. (3) as (2) and substituted “2013” for “2008” in two places and “2014” for “2009”. Former par. (2) redesignated (1).
+    Subsec. (c)(2). [Pub. L. 110–316][/us/pl/110/316], § 103(c)(2), (4), redesignated par. (3) as (2) and substituted “2013” for “2008” in two places and “2014” for “2009”. Former par. (2) redesignated (1).
 
-    Subsec. (c)(3) to (5). [Pub. L. 110–316, § 103(c)(2)][/us/pl/110/316/s103/c/2], redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+    Subsec. (c)(3) to (5). [Pub. L. 110–316][/us/pl/110/316], § 103(c)(2), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-    Subsec. (g)(3)(A) to (E). [Pub. L. 110–316, § 103(d)][/us/pl/110/316/s103/d], amended subpars. (A) to (E) generally. Prior to amendment, subpars. (A) to (E) read as follows:
+    Subsec. (g)(3)(A) to (E). [Pub. L. 110–316][/us/pl/110/316], § 103(d), amended subpars. (A) to (E) generally. Prior to amendment, subpars. (A) to (E) read as follows:
 
     “(A) $5,000,000 for fiscal year 2004;
 
@@ -359,7 +359,7 @@
 
     “(E) $10,000,000 for fiscal year 2008;”.
 
-    Subsec. (g)(4). [Pub. L. 110–316, § 103(e)][/us/pl/110/316/s103/e], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.”
+    Subsec. (g)(4). [Pub. L. 110–316][/us/pl/110/316], § 103(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -371,7 +371,7 @@
 
  __Termination Date__ 
 
-[Pub. L. 113–14, title I, § 107(a)][/us/pl/113/14/s107/a], June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that: 
+[Pub. L. 113–14, title I][/us/pl/113/14/tI], § 107(a), June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that: 
 
 > “Section 740 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–12][/us/usc/t21/s379j–12]) shall cease to be effective October 1, 2018.”
 
@@ -391,34 +391,34 @@
 [/us/usc/t21/s379g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g%2F3
 [/us/usc/t21/s379h/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379h%2Fa%2F2
 [/us/usc/t21/s379j–11/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311%2F5%2FB
-[/us/act/1938-06-25/ch675/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs740
-[/us/pl/108/130/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130%2Fs3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F130
 [/us/stat/117/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1363
-[/us/pl/110/316/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103
+[/us/pl/110/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtI
 [/us/stat/122/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3510
-[/us/pl/113/14/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs103
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F454
 [/us/pl/113/14/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs107%2Fa
 [/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
-[/us/pl/110/316/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fa%2F1
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/usc/t21/s360b/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fd%2F4
-[/us/pl/110/316/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fa%2F2
-[/us/pl/110/316/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fb%2F1
-[/us/pl/110/316/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fb%2F2
-[/us/pl/110/316/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fb%2F3
-[/us/pl/110/316/s103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fb%2F4
-[/us/pl/110/316/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fc%2F1
-[/us/pl/110/316/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fc%2F2
-[/us/pl/110/316/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fc%2F2
-[/us/pl/110/316/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fd
-[/us/pl/110/316/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs103%2Fe
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
 [/us/pl/113/14/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs106
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
 [/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/pl/110/316/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs107
 [/us/usc/t21/s379j–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9311
-[/us/pl/113/14/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs107%2Fa
+[/us/pl/113/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtI
 [/us/stat/127/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F464
 [/us/usc/t21/s379j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9312
 

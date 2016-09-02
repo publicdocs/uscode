@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, States shall not be prohibited by the Federal Government from testing welfare recipients for use of controlled substances nor from sanctioning welfare recipients who test positive for use of controlled substances.
 
-([Pub. L. 104–193, title IX, § 902][/us/pl/104/193/s902], Aug. 22, 1996, [110 Stat. 2347][/us/stat/110/2347].)
+([Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 902, Aug. 22, 1996, [110 Stat. 2347][/us/stat/110/2347].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/193/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs902
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2347
 
 

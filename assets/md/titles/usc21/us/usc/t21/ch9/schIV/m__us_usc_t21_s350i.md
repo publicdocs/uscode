@@ -55,7 +55,7 @@
 
         For purposes of this section, the term “farm” has the meaning given that term in section 1.227 of title 21, Code of Federal Regulations (or any successor regulation).
 
-([June 25, 1938, ch. 675, § 420][/us/act/1938-06-25/ch675/s420], as added [Pub. L. 111–353, title I, § 106(a)][/us/pl/111/353/s106/a], Jan. 4, 2011, [124 Stat. 3905][/us/stat/124/3905].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 420, as added [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 106(a), Jan. 4, 2011, [124 Stat. 3905][/us/stat/124/3905].)
 
  __Construction__ 
 
@@ -63,7 +63,7 @@
 
  __Guidance Documents__ 
 
-[Pub. L. 111–353, title I, § 106(b)][/us/pl/111/353/s106/b], Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906], provided that:
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 106(b), Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Periodic Review__ 
 
-[Pub. L. 111–353, title I, § 106(c)][/us/pl/111/353/s106/c], Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 106(c), Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906], provided that: 
 
 > “The Secretary of Health and Human Services shall periodically review and, as appropriate, update the regulations under section 420(b) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 450i(b)][/us/usc/t21/s450i/b]\], as added by subsection (a), and the guidance documents under subsection (b) \[[section 106(b) of Pub. L. 111–353][/us/pl/111/353/s106/b], set out above\].”
 
@@ -96,13 +96,13 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs420
-[/us/pl/111/353/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs106%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3905
-[/us/pl/111/353/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs106%2Fb
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3906
 [/us/usc/t21/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs450i
-[/us/pl/111/353/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs106%2Fc
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3906
 [/us/usc/t21/s450i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs450i%2Fb
 [/us/pl/111/353/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs106%2Fb

@@ -35,7 +35,7 @@
 
         The Secretary of Homeland Security shall, on a biennial basis, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the progress of the integrated consortium of laboratory networks, as established under subsection (a), in carrying out this section.
 
-([Pub. L. 111–353, title II, § 203][/us/pl/111/353/s203], Jan. 4, 2011, [124 Stat. 3929][/us/stat/124/3929].)
+([Pub. L. 111–353, title II][/us/pl/111/353/tII], § 203, Jan. 4, 2011, [124 Stat. 3929][/us/stat/124/3929].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/353/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs203
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3929
 
 

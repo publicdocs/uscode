@@ -127,7 +127,7 @@
 
                 A person submitting information under this section shall identify at the time of such submission the portions of such information that the person considers to be confidential information described in subparagraph (A).
 
-([June 25, 1938, ch. 675, § 586B][/us/act/1938-06-25/ch675/s586B], as added [Pub. L. 113–195, § 2(a)][/us/pl/113/195/s2/a], Nov. 26, 2014, [128 Stat. 2036][/us/stat/128/2036].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586B, as added [Pub. L. 113–195][/us/pl/113/195], § 2(a), Nov. 26, 2014, [128 Stat. 2036][/us/stat/128/2036].)
 
 ----------
 
@@ -155,8 +155,8 @@
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t21/s331/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Fj
-[/us/act/1938-06-25/ch675/s586B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586B
-[/us/pl/113/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2036
 
 

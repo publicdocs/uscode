@@ -87,7 +87,7 @@
 
         Subsections (a), (b), (c), and (e) shall cease to be effective on the date that is 5 years after July 9, 2012.
 
-([June 25, 1938, ch. 675, § 506D][/us/act/1938-06-25/ch675/s506D], as added [Pub. L. 112–144, title X, § 1003][/us/pl/112/144/s1003], July 9, 2012, [126 Stat. 1103][/us/stat/126/1103].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506D, as added [Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1003, July 9, 2012, [126 Stat. 1103][/us/stat/126/1103].)
 
 ----------
 
@@ -99,8 +99,8 @@
 [/us/usc/t21/s356e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356e
 [/us/usc/t21/s356c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c%2Fa
 [/us/usc/t21/s356c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356c%2Fa
-[/us/act/1938-06-25/ch675/s506D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506D
-[/us/pl/112/144/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1003
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1103
 
 

@@ -139,7 +139,7 @@
 
         For fiscal year 2014 and each subsequent fiscal year, there is authorized to be appropriated for fees under this section an amount equivalent to the total amount of fees assessed for such fiscal year under this section.
 
-([June 25, 1938, ch. 675, § 744K][/us/act/1938-06-25/ch675/s744K], as added [Pub. L. 113–54, title I, § 102(b)][/us/pl/113/54/s102/b], Nov. 27, 2013, [127 Stat. 594][/us/stat/127/594].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744K, as added [Pub. L. 113–54, title I][/us/pl/113/54/tI], § 102(b), Nov. 27, 2013, [127 Stat. 594][/us/stat/127/594].)
 
 ----------
 
@@ -151,8 +151,8 @@
 [/us/usc/t21/s353b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b%2Fb
 [/us/usc/t21/s353b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b%2Fb
 [/us/usc/t21/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs352
-[/us/act/1938-06-25/ch675/s744K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744K
-[/us/pl/113/54/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtI
 [/us/stat/127/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F594
 
 

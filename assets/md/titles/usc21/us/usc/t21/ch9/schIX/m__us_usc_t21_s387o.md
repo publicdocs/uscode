@@ -95,7 +95,7 @@
 
         Nothing in subsection (d) or (e) shall be construed to authorize the extension of any deadline, or to otherwise affect any timeframe, under any provision of this chapter or the Family Smoking Prevention and Tobacco Control Act other than this section.
 
-([June 25, 1938, ch. 675, § 915][/us/act/1938-06-25/ch675/s915], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1820][/us/stat/123/1820].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 915, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1820][/us/stat/123/1820].)
 
  __References in Text__ 
 
@@ -113,8 +113,8 @@
 ----------
 
 [/us/usc/t21/s387j/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387j%2Fa%2F1%2FB
-[/us/act/1938-06-25/ch675/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs915
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1820
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/stat/123/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1776

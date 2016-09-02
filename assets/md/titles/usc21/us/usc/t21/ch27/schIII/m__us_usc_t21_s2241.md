@@ -35,7 +35,7 @@
 
             The Secretary of Health and Human Services shall consider the inspection reports described in subparagraph (A) in distributing inspection resources under [section 350j of this title][/us/usc/t21/s350j].
 
-([Pub. L. 111–353, title III, § 306(b)][/us/pl/111/353/s306/b], Jan. 4, 2011, [124 Stat. 3959][/us/stat/124/3959].)
+([Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 306(b), Jan. 4, 2011, [124 Stat. 3959][/us/stat/124/3959].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t21/s350j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350j
-[/us/pl/111/353/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs306%2Fb
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3959
 
 

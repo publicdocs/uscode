@@ -17,7 +17,7 @@
 
     The Secretary shall also cause to be made a careful inspection of the carcasses and parts thereof of all amenable species, the meat of which, fresh, salted, canned, corned, packed, cured, or otherwise prepared, is intended and offered for export to any foreign country, at such times and places and in such manner as he may deem proper.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 15, formerly 13th par., [34 Stat. 1263][/us/stat/34/1263]; renumbered § 15 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(b), 12(a), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 15, formerly 13th par., [34 Stat. 1263][/us/stat/34/1263]; renumbered § 15 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(b), 12(a), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 [/us/stat/34/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1263
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/usc/t21/s83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs83
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97

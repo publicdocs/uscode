@@ -17,7 +17,7 @@
 
     In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
-([Pub. L. 91–513, title II, § 415][/us/pl/91/513/s415], as added [Pub. L. 98–473, title II, § 2302][/us/pl/98/473/s2302], Oct. 12, 1984, [98 Stat. 2193][/us/stat/98/2193].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 415, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2302, Oct. 12, 1984, [98 Stat. 2193][/us/stat/98/2193].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/513/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs415
-[/us/pl/98/473/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2302
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2193
 
 

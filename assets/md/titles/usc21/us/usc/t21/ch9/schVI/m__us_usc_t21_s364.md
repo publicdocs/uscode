@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t21/ch9/schVI/m__us_usc_t21_s363.md) | [Next](./../../../../..//us/usc/t21/ch9/schVII/m__us_usc_t21_ch9_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs364)
 
-## § 364. Repealed. [Pub. L. 86–618, title I, § 103(a)(3)][/us/pl/86/618/s103/a/3], July 12, 1960, [74 Stat. 398][/us/stat/74/398]
+## § 364. Repealed. [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 103(a)(3), July 12, 1960, [74 Stat. 398][/us/stat/74/398]
 
-    Section, [act June 25, 1938, ch. 675, § 604][/us/act/1938-06-25/ch675/s604], [52 Stat. 1055][/us/stat/52/1055], directed Secretary to promulgate regulations for listing of coal-tar colors for cosmetics. See [section 379e of this title][/us/usc/t21/s379e].
+    Section, [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 604, [52 Stat. 1055][/us/stat/52/1055], directed Secretary to promulgate regulations for listing of coal-tar colors for cosmetics. See [section 379e of this title][/us/usc/t21/s379e].
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/86/618/s103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs103%2Fa%2F3
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
-[/us/act/1938-06-25/ch675/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs604
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1055
 [/us/usc/t21/s379e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379e
 [/us/pl/86/618/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs203

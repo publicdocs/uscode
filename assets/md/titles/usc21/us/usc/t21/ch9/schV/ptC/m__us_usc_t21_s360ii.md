@@ -51,23 +51,23 @@
 
         (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this part under other than competitive bidding procedures.
 
-([June 25, 1938, ch. 675, § 532][/us/act/1938-06-25/ch675/s532], formerly [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 532, formerly § 356, as added [Pub. L. 90–602, § 2(3)][/us/pl/90/602/s2/3], Oct. 18, 1968, [82 Stat. 1174][/us/stat/82/1174]; renumbered § 532 and amended [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(A), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80, § 4(a)(2)][/us/pl/103/80/s4/a/2], Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 532, formerly [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 532, formerly § 356, as added [Pub. L. 90–602][/us/pl/90/602], § 2(3), Oct. 18, 1968, [82 Stat. 1174][/us/stat/82/1174]; renumbered § 532 and amended [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(A), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80][/us/pl/103/80], § 4(a)(2), Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
 
  __Codification__ 
 
-    In subsec. (b)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was classified to [section 263d of Title 42][/us/usc/t42/s263d], The Public Health and Welfare, prior to renumbering by [Pub. L. 101–629][/us/pl/101/629].
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629, § 19(a)(4)][/us/pl/101/629/s19/a/4], which renumbered [section 263d of Title 42][/us/usc/t42/s263d], The Public Health and Welfare, as this section.
+    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629][/us/pl/101/629], § 19(a)(4), which renumbered [section 263d of Title 42][/us/usc/t42/s263d], The Public Health and Welfare, as this section.
 
-    1990—Subsec. (a)(1), (6). [Pub. L. 101–629, § 19(a)(2)(A)(i)][/us/pl/101/629/s19/a/2/A/i], substituted “section 360kk” for “section 263f”.
+    1990—Subsec. (a)(1), (6). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(2)(A)(i), substituted “section 360kk” for “section 263f”.
 
-    Subsec. (b)(3). [Pub. L. 101–629, § 19(a)(2)(A)(ii)][/us/pl/101/629/s19/a/2/A/ii], substituted reference to [section 3324 of title 31][/us/usc/t31/s3324] for reference to section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]).
+    Subsec. (b)(3). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(2)(A)(ii), substituted reference to [section 3324 of title 31][/us/usc/t31/s3324] for reference to section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529]).
 
-    Subsec. (c)(1), (2). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], substituted “this part” for “this subpart”.
+    Subsec. (c)(1), (2). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), substituted “this part” for “this subpart”.
 
  __Transfer of Functions__ 
 
@@ -88,28 +88,28 @@
 [/us/usc/t21/s360kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360kk
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/act/1938-06-25/ch675/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs532
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/602/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs2%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1174
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4529
-[/us/pl/103/80/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fa%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F779
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t42/s263d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263d
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/101/629/s19/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F4
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t42/s263d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263d
-[/us/pl/101/629/s19/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F2%2FA%2Fi
-[/us/pl/101/629/s19/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F2%2FA%2Fii
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/90/602/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs4
 [/us/usc/t21/s360hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360hh
 

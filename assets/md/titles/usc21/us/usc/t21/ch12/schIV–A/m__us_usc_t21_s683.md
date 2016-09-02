@@ -195,7 +195,7 @@
 
             Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title V, § 501, as added [Pub. L. 110–234, title XI, § 11015(a)][/us/pl/110/234/s11015/a], May 22, 2008, [122 Stat. 1362][/us/stat/122/1362], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11015(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2124.)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title V, § 501, as added [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11015(a), May 22, 2008, [122 Stat. 1362][/us/stat/122/1362], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11015(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2124.)
 
  __References in Text__ 
 
@@ -220,9 +220,9 @@
 
 [/us/usc/t21/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs661%2Fb
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/110/234/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11015%2Fa
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1362
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

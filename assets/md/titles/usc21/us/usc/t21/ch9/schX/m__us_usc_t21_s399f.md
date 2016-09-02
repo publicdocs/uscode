@@ -47,7 +47,7 @@
 
             The Secretary, acting through the Commissioner of Food and Drugs, shall publicly post the communication plan on the Internet Web site of the Office of Minority Health of the Food and Drug Administration, and provide links to any other appropriate Internet Web site, and seek public comment on the communication plan.
 
-([Pub. L. 112–144, title XI, § 1138][/us/pl/112/144/s1138], July 9, 2012, [126 Stat. 1125][/us/stat/126/1125].)
+([Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1138, July 9, 2012, [126 Stat. 1125][/us/stat/126/1125].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/112/144/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1138
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1125
 
 

@@ -21,7 +21,7 @@
 
     (b) The term “United States” means the fifty States and the District of Columbia.
 
-([Feb. 15, 1927, ch. 155, § 9][/us/act/1927-02-15/ch155/s9], [44 Stat. 1103][/us/stat/44/1103]; [Pub. L. 86–70, § 19][/us/pl/86/70/s19], June 25, 1959, [73 Stat. 145][/us/stat/73/145]; [Pub. L. 86–624, § 15][/us/pl/86/624/s15], July 12, 1960, [74 Stat. 415][/us/stat/74/415].)
+([Feb. 15, 1927, ch. 155][/us/act/1927-02-15/ch155], § 9, [44 Stat. 1103][/us/stat/44/1103]; [Pub. L. 86–70][/us/pl/86/70], § 19, June 25, 1959, [73 Stat. 145][/us/stat/73/145]; [Pub. L. 86–624][/us/pl/86/624], § 15, July 12, 1960, [74 Stat. 415][/us/stat/74/415].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1927-02-15/ch155/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155%2Fs9
+[/us/act/1927-02-15/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155
 [/us/stat/44/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1103
-[/us/pl/86/70/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs19
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F145
-[/us/pl/86/624/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs15
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F415
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70

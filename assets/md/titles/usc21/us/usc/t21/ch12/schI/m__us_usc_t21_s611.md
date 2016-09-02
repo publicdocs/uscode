@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–201, § 8][/us/pl/90/201/s8], clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeit official certificates, or similar items, and prohibition against false representations.
+    1967—[Pub. L. 90–201][/us/pl/90/201], § 8, clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeit official certificates, or similar items, and prohibition against false representations.
 
  __Effective Date of 1967 Amendment__ 
 
@@ -61,7 +61,7 @@
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
 [/us/usc/t21/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs79
-[/us/pl/90/201/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs8
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20%2Fb
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601

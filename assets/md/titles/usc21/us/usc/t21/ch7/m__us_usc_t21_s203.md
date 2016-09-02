@@ -17,7 +17,7 @@
 
     Every person whose permanent allegiance is due to the United States desiring to practice as a pharmacist in the consular districts in China shall file with the consul an application, duly verified under oath, setting forth the name and age of the applicant, the place or places at which he pursued and the time spent in the study of pharmacy, the experience which the applicant has had in compounding physicians’ prescriptions under the direction of a licensed pharmacist, and the name and location of the school or college of pharmacy, if any, of which he is a graduate, and shall submit evidence sufficient to show to the satisfaction of said consul that he is of good moral character and not addicted to the use of alcoholic liquors or narcotic drugs so as to render him unfit to practice pharmacy. Applicants shall be not less than twenty-one years of age and shall have had at least four years’ experience in the practice of pharmacy or shall have served three years under the instruction of a regularly licensed pharmacist, and any applicant who has been graduated from a school or college of pharmacy recognized by the proper board of his State, Territory, District of Columbia, or other possession of the United States as in good standing shall be entitled to practice upon presentation of his diploma.
 
-([Mar. 3, 1915, ch. 74, § 2][/us/act/1915-03-03/ch74/s2], [38 Stat. 818][/us/stat/38/818].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 2, [38 Stat. 818][/us/stat/38/818].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch74/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs2
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F818
 
 

@@ -59,7 +59,7 @@
 
         This section shall not apply on or after the date on which the Secretary issues final guidance that clarifies the policy of the Food and Drug Administration regarding hospital pharmacies repackaging and safely transferring repackaged drugs to other hospitals within the same health system during a drug shortage.
 
-([June 25, 1938, ch. 675, § 506F][/us/act/1938-06-25/ch675/s506F], as added [Pub. L. 112–144, title X, § 1007][/us/pl/112/144/s1007], July 9, 2012, [126 Stat. 1106][/us/stat/126/1106].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 506F, as added [Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1007, July 9, 2012, [126 Stat. 1106][/us/stat/126/1106].)
 
 ----------
 
@@ -72,8 +72,8 @@
 [/us/usc/t21/s356e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356e
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
 [/us/usc/t21/s356e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356e
-[/us/act/1938-06-25/ch675/s506F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs506F
-[/us/pl/112/144/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1007
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1106
 
 

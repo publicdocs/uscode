@@ -71,7 +71,7 @@
 
         For the purpose of avoiding unnecessary duplication, the Secretary shall coordinate any action taken under subchapter III of this chapter because of advertising which the Secretary determines causes a food to be misbranded with any action of the Federal Trade Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] with respect to such advertising.
 
-([June 25, 1938, ch. 675, § 707][/us/act/1938-06-25/ch675/s707], as added [Pub. L. 94–278, title V, § 502(b)][/us/pl/94/278/s502/b], Apr. 22, 1976, [90 Stat. 412][/us/stat/90/412].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 707, as added [Pub. L. 94–278, title V][/us/pl/94/278/tV], § 502(b), Apr. 22, 1976, [90 Stat. 412][/us/stat/90/412].)
 
  __References in Text__ 
 
@@ -91,8 +91,8 @@
 [/us/usc/t15/s45/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fb
 [/us/usc/t15/s56/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs56%2Fb
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1938-06-25/ch675/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs707
-[/us/pl/94/278/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs502%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/278/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtV
 [/us/stat/90/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F412
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

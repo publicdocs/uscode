@@ -33,7 +33,7 @@
 
     (5) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, and American Samoa.
 
-([June 25, 1938, ch. 675, § 531][/us/act/1938-06-25/ch675/s531], formerly [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 531, formerly § 355, as added [Pub. L. 90–602, § 2(3)][/us/pl/90/602/s2/3], Oct. 18, 1968, [82 Stat. 1174][/us/stat/82/1174]; amended [Pub. L. 94–484, title IX, § 905(b)(1)][/us/pl/94/484/s905/b/1], Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; renumbered § 531 and amended [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80, § 4(a)(2)][/us/pl/103/80/s4/a/2], Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 531, formerly [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 531, formerly § 355, as added [Pub. L. 90–602][/us/pl/90/602], § 2(3), Oct. 18, 1968, [82 Stat. 1174][/us/stat/82/1174]; amended [Pub. L. 94–484, title IX][/us/pl/94/484/tIX], § 905(b)(1), Oct. 12, 1976, [90 Stat. 2325][/us/stat/90/2325]; renumbered § 531 and amended [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80][/us/pl/103/80], § 4(a)(2), Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629, § 19(a)(4)][/us/pl/101/629/s19/a/4], which renumbered [section 263c of Title 42][/us/usc/t42/s263c], The Public Health and Welfare, as this section.
+    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629][/us/pl/101/629], § 19(a)(4), which renumbered [section 263c of Title 42][/us/usc/t42/s263c], The Public Health and Welfare, as this section.
 
-    1990—[Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], substituted “this part” for “this subpart” in introductory provisions.
+    1990—[Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), substituted “this part” for “this subpart” in introductory provisions.
 
     1976—Par. (5). [Pub. L. 94–484][/us/pl/94/484] defined “State” to include Northern Mariana Islands.
 
@@ -53,19 +53,19 @@
 
  __Transfer of Subpart; Construction__ 
 
-[Pub. L. 101–629, § 19(c)][/us/pl/101/629/s19/c], Nov. 28, 1990, [104 Stat. 4530][/us/stat/104/4530], provided that: 
+[Pub. L. 101–629][/us/pl/101/629], § 19(c), Nov. 28, 1990, [104 Stat. 4530][/us/stat/104/4530], provided that: 
 
 > “The transfer of subpart 3 of part F of title III of the Public Health Service Act \[[42 U.S.C. 263b][/us/usc/t42/s263b] et seq.\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] does not change the application of the requirements of such subpart and such Act to electronic products which were in effect on the date of the enactment of this Act \[Nov. 28, 1990\].”
 
  __Definition of “Secretary” and “Department”__ 
 
-[Pub. L. 90–602, § 3][/us/pl/90/602/s3], Oct. 18, 1968, [82 Stat. 1186][/us/stat/82/1186], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided that: 
+[Pub. L. 90–602][/us/pl/90/602], § 3, Oct. 18, 1968, [82 Stat. 1186][/us/stat/82/1186], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided that: 
 
 > “As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
 
  __Noninterference With Other Federal Agencies__ 
 
-[Pub. L. 90–602, § 4][/us/pl/90/602/s4], Oct. 18, 1968, [82 Stat. 1187][/us/stat/82/1187], provided that: 
+[Pub. L. 90–602][/us/pl/90/602], § 4, Oct. 18, 1968, [82 Stat. 1187][/us/stat/82/1187], provided that: 
 
 > “The amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\] shall not be construed as superseding or limiting the functions, under any other provision of law, of any officer or agency of the United States.”
 
@@ -76,34 +76,34 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs531
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/602/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs2%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1174
-[/us/pl/94/484/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs905%2Fb%2F1
+[/us/pl/94/484/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIX
 [/us/stat/90/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2325
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4529
-[/us/pl/103/80/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fa%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F779
 [/us/usc/t42/s263c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263c
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/101/629/s19/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F4
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t42/s263c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263c
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/pl/90/602/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs1
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/101/629/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fc
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4530
 [/us/usc/t42/s263b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263b
-[/us/pl/90/602/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs3
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1186
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/90/602/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs4
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1187
 
 

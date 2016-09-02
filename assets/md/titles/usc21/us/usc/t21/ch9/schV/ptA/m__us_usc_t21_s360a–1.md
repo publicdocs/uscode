@@ -47,7 +47,7 @@
 
         For purposes of this section, the term “qualified infectious disease product” has the meaning given such term in section 505E(g) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355f(g)][/us/usc/t21/s355f/g]\], as added by section 801 of this Act.
 
-([Pub. L. 112–144, title VIII, § 804][/us/pl/112/144/s804], July 9, 2012, [126 Stat. 1080][/us/stat/126/1080].)
+([Pub. L. 112–144, title VIII][/us/pl/112/144/tVIII], § 804, July 9, 2012, [126 Stat. 1080][/us/stat/126/1080].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t21/s355f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355f
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355f%2Fg
-[/us/pl/112/144/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs804
+[/us/pl/112/144/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVIII
 [/us/stat/126/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1080
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

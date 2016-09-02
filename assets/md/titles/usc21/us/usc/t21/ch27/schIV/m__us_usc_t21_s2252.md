@@ -17,7 +17,7 @@
 
     Nothing in this Act (or an amendment made by this Act) shall be construed in a manner inconsistent with the agreement establishing the World Trade Organization or any other treaty or international agreement to which the United States is a party.
 
-([Pub. L. 111–353, title IV, § 404][/us/pl/111/353/s404], Jan. 4, 2011, [124 Stat. 3972][/us/stat/124/3972].)
+([Pub. L. 111–353, title IV][/us/pl/111/353/tIV], § 404, Jan. 4, 2011, [124 Stat. 3972][/us/stat/124/3972].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/353/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs404
+[/us/pl/111/353/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIV
 [/us/stat/124/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3972
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885

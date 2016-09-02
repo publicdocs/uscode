@@ -101,7 +101,7 @@
 
                 The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-([June 25, 1938, ch. 675, § 738A][/us/act/1938-06-25/ch675/s738A], as added [Pub. L. 110–85, title II, § 213][/us/pl/110/85/s213], Sept. 27, 2007, [121 Stat. 850][/us/stat/121/850]; amended [Pub. L. 112–144, title II, § 204][/us/pl/112/144/s204], July 9, 2012, [126 Stat. 1006][/us/stat/126/1006].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 738A, as added [Pub. L. 110–85, title II][/us/pl/110/85/tII], § 213, Sept. 27, 2007, [121 Stat. 850][/us/stat/121/850]; amended [Pub. L. 112–144, title II][/us/pl/112/144/tII], § 204, July 9, 2012, [126 Stat. 1006][/us/stat/126/1006].)
 
  __Termination of Section__ 
 
@@ -113,13 +113,13 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–144, § 204(b)(1)][/us/pl/112/144/s204/b/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For fiscal years 2008 through 2012, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all device premarket applications and reports, supplements, and premarket notifications in the cohort.”
+    2012—Subsec. (a)(1). [Pub. L. 112–144][/us/pl/112/144], § 204(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For fiscal years 2008 through 2012, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all device premarket applications and reports, supplements, and premarket notifications in the cohort.”
 
-    Subsec. (a)(2). [Pub. L. 112–144, § 204(b)(2)][/us/pl/112/144/s204/b/2], substituted “2013 through 2017” for “2008 through 2012”.
+    Subsec. (a)(2). [Pub. L. 112–144][/us/pl/112/144], § 204(b)(2), substituted “2013 through 2017” for “2008 through 2012”.
 
-    Subsec. (b)(1). [Pub. L. 112–144, § 204(a)(1)][/us/pl/112/144/s204/a/1], substituted “2017” for “2012”.
+    Subsec. (b)(1). [Pub. L. 112–144][/us/pl/112/144], § 204(a)(1), substituted “2017” for “2012”.
 
-    Subsec. (b)(5). [Pub. L. 112–144, § 204(a)(2)][/us/pl/112/144/s204/a/2], substituted “2017” for “2012”.
+    Subsec. (b)(5). [Pub. L. 112–144][/us/pl/112/144], § 204(a)(2), substituted “2017” for “2012”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -138,18 +138,18 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s738A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs738A
-[/us/pl/110/85/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs213
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F850
-[/us/pl/112/144/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs204
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1006
 [/us/pl/112/144/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs207%2Fa
 [/us/pl/112/144/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs201%2Fb
 [/us/usc/t21/s379i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i
-[/us/pl/112/144/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs204%2Fb%2F1
-[/us/pl/112/144/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs204%2Fb%2F2
-[/us/pl/112/144/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs204%2Fa%2F1
-[/us/pl/112/144/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs204%2Fa%2F2
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s379j/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%2Fa%2F2%2FA
 [/us/pl/112/144/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs206

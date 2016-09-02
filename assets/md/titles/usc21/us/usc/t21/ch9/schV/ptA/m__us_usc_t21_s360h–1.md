@@ -49,7 +49,7 @@
 
         (2) the correction or removal from the market of a device at the initiative of the manufacturer or importer of the device that is required to be reported to the Secretary under [section 360i(g) of this title][/us/usc/t21/s360i/g].
 
-([June 25, 1938, ch. 675, § 518A][/us/act/1938-06-25/ch675/s518A], as added [Pub. L. 112–144, title VI, § 605][/us/pl/112/144/s605], July 9, 2012, [126 Stat. 1053][/us/stat/126/1053].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 518A, as added [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 605, July 9, 2012, [126 Stat. 1053][/us/stat/126/1053].)
 
 ----------
 
@@ -60,8 +60,8 @@
 
 [/us/usc/t21/s360h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360h
 [/us/usc/t21/s360i/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360i%2Fg
-[/us/act/1938-06-25/ch675/s518A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs518A
-[/us/pl/112/144/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs605
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1053
 
 

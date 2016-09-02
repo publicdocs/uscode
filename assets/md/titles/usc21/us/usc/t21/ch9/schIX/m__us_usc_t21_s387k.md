@@ -277,7 +277,7 @@
 
         Except as provided in this section, no distributor may take any action, after June 22, 2009, with respect to a tobacco product that would reasonably be expected to result in consumers believing that the tobacco product or its smoke may present a lower risk of disease or is less harmful than one or more commercially marketed tobacco products, or presents a reduced exposure to, or does not contain or is free of, a substance or substances.
 
-([June 25, 1938, ch. 675, § 911][/us/act/1938-06-25/ch675/s911], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1812][/us/stat/123/1812].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 911, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1812][/us/stat/123/1812].)
 
  __Modification of Deadlines for Secretarial Action__ 
 
@@ -292,8 +292,8 @@
 
 [/us/usc/t21/s387g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387g
 [/us/usc/t21/s387j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387j
-[/us/act/1938-06-25/ch675/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs911
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1812
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s387s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387s

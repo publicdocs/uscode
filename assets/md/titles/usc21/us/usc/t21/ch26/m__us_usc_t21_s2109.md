@@ -35,7 +35,7 @@
 
         The Commissioner of Food and Drugs, the Administrator of the Food Safety and Inspection Service, the Department of Commerce, and the head of the Agricultural Marketing Service shall enter into a memorandum of understanding to permit inclusion of data in the reports under subsection (a) relating to testing carried out by the Food Safety and Inspection Service and the Agricultural Marketing Service on meat, poultry, eggs, and certain raw agricultural products, respectively.
 
-([Pub. L. 110–85, title X, § 1010][/us/pl/110/85/s1010], Sept. 27, 2007, [121 Stat. 970][/us/stat/121/970].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1010, Sept. 27, 2007, [121 Stat. 970][/us/stat/121/970].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1010
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F970
 
 

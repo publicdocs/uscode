@@ -41,7 +41,7 @@
 
         (6) develop postmarket safety performance measures that are as measurable and rigorous as the ones already developed for premarket review.
 
-([June 25, 1938, ch. 675, § 1010][/us/act/1938-06-25/ch675/s1010], formerly § 910, as added [Pub. L. 110–85, title VI, § 602][/us/pl/110/85/s602], Sept. 27, 2007, [121 Stat. 898][/us/stat/121/898]; renumbered § 1010, [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1010, formerly § 910, as added [Pub. L. 110–85, title VI][/us/pl/110/85/tVI], § 602, Sept. 27, 2007, [121 Stat. 898][/us/stat/121/898]; renumbered § 1010, [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
 ----------
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1010
-[/us/pl/110/85/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs602
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVI
 [/us/stat/121/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F898
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 
 

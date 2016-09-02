@@ -89,7 +89,7 @@
 
                 The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-([June 25, 1938, ch. 675, § 744C][/us/act/1938-06-25/ch675/s744C], as added [Pub. L. 112–144, title III, § 303][/us/pl/112/144/s303], July 9, 2012, [126 Stat. 1022][/us/stat/126/1022].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744C, as added [Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 303, July 9, 2012, [126 Stat. 1022][/us/stat/126/1022].)
 
  __Termination of Section__ 
 
@@ -101,7 +101,7 @@
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 112–144, title III, § 304(b)][/us/pl/112/144/s304/b], July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], provided that: 
+[Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 304(b), July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], provided that: 
 
 > “Section 744C of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–43][/us/usc/t21/s379j–43]\], as added by section 303 of this Act, shall cease to be effective January 31, 2018.”
 
@@ -114,13 +114,13 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s744C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744C
-[/us/pl/112/144/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs303
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1022
 [/us/pl/112/144/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs304%2Fb
 [/us/pl/112/144/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs301%2Fb
 [/us/usc/t21/s379j–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9341
-[/us/pl/112/144/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs304%2Fb
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1024
 [/us/usc/t21/s379j–43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9343
 [/us/pl/112/144/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs305

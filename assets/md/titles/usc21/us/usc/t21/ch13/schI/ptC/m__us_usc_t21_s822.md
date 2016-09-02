@@ -65,13 +65,13 @@
 
         (4) If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent’s property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
 
-([Pub. L. 91–513, title II, § 302][/us/pl/91/513/s302], Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 98–473, title II, § 510][/us/pl/98/473/s510], Oct. 12, 1984, [98 Stat. 2072][/us/stat/98/2072]; [Pub. L. 103–200, § 3(b)][/us/pl/103/200/s3/b], Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 111–273, § 3(a)][/us/pl/111/273/s3/a], Oct. 12, 2010, [124 Stat. 2859][/us/stat/124/2859]; [Pub. L. 113–143, § 2][/us/pl/113/143/s2], Aug. 1, 2014, [128 Stat. 1750][/us/stat/128/1750].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 302, Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 510, Oct. 12, 1984, [98 Stat. 2072][/us/stat/98/2072]; [Pub. L. 103–200][/us/pl/103/200], § 3(b), Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 111–273][/us/pl/111/273], § 3(a), Oct. 12, 2010, [124 Stat. 2859][/us/stat/124/2859]; [Pub. L. 113–143][/us/pl/113/143], § 2, Aug. 1, 2014, [128 Stat. 1750][/us/stat/128/1750].)
 
  __References in Text__ 
 
     This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the original “this title”, meaning title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
-    [Section 802(25) of this title][/us/usc/t21/s802/25], referred to in subsec. (c)(3), was redesignated [section 802(26) of this title][/us/usc/t21/s802/26] by [Pub. L. 98–473, title II, § 507(a)][/us/pl/98/473/s507/a], Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], and was further redesignated [section 802(27) of this title][/us/usc/t21/s802/27] by [Pub. L. 99–570, title I, § 1003(b)(2)][/us/pl/99/570/s1003/b/2], Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6].
+    [Section 802(25) of this title][/us/usc/t21/s802/25], referred to in subsec. (c)(3), was redesignated [section 802(26) of this title][/us/usc/t21/s802/26] by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 507(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], and was further redesignated [section 802(27) of this title][/us/usc/t21/s802/27] by [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1003(b)(2), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6].
 
  __Amendments__ 
 
@@ -79,13 +79,13 @@
 
     2010—Subsec. (g). [Pub. L. 111–273][/us/pl/111/273] added subsec. (g).
 
-    1993—Subsec. (a)(1). [Pub. L. 103–200, § 3(b)(1)][/us/pl/103/200/s3/b/1], inserted “or list I chemical” after “controlled substance” in two places.
+    1993—Subsec. (a)(1). [Pub. L. 103–200][/us/pl/103/200], § 3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
 
-    Subsec. (b). [Pub. L. 103–200, § 3(b)(2)][/us/pl/103/200/s3/b/2], inserted “or list I chemicals” after “controlled substances” and “or chemicals” after “such substances”.
+    Subsec. (b). [Pub. L. 103–200][/us/pl/103/200], § 3(b)(2), inserted “or list I chemicals” after “controlled substances” and “or chemicals” after “such substances”.
 
-    Subsec. (c). [Pub. L. 103–200, § 3(b)(3)][/us/pl/103/200/s3/b/3], inserted “or list I chemical” after “controlled substance” wherever appearing.
+    Subsec. (c). [Pub. L. 103–200][/us/pl/103/200], § 3(b)(3), inserted “or list I chemical” after “controlled substance” wherever appearing.
 
-    Subsec. (e). [Pub. L. 103–200, § 3(b)(4)][/us/pl/103/200/s3/b/4], inserted “or list I chemicals” after “controlled substances”.
+    Subsec. (e). [Pub. L. 103–200][/us/pl/103/200], § 3(b)(4), inserted “or list I chemicals” after “controlled substances”.
 
     1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473] designated existing provisions as par. (1), struck out provisions relating to dispensing controlled substances, and added par. (2).
 
@@ -95,7 +95,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–273, § 2][/us/pl/111/273/s2], Oct. 12, 2010, [124 Stat. 2858][/us/stat/124/2858], provided that: 
+[Pub. L. 111–273][/us/pl/111/273], § 2, Oct. 12, 2010, [124 Stat. 2858][/us/stat/124/2858], provided that: 
 
 > “Congress finds the following:
 
@@ -137,7 +137,7 @@
 
  __Provisional Registration__ 
 
-[Pub. L. 91–513, title II, § 703][/us/pl/91/513/s703], Oct. 27, 1970, [84 Stat. 1283][/us/stat/84/1283], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–513, title II][/us/pl/91/513/tII], § 703, Oct. 27, 1970, [84 Stat. 1283][/us/stat/84/1283], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)
 
@@ -172,43 +172,43 @@
 ----------
 ----------
 
-[/us/pl/91/513/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs302
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1253
-[/us/pl/98/473/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs510
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2072
-[/us/pl/103/200/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fb
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2336
-[/us/pl/111/273/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273%2Fs3%2Fa
+[/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273
 [/us/stat/124/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2859
-[/us/pl/113/143/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143%2Fs2
+[/us/pl/113/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143
 [/us/stat/128/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1750
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s802/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F25
 [/us/usc/t21/s802/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F26
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2071
 [/us/usc/t21/s802/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F27
-[/us/pl/99/570/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fb%2F2
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-6
 [/us/pl/113/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143
 [/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273
-[/us/pl/103/200/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fb%2F1
-[/us/pl/103/200/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fb%2F2
-[/us/pl/103/200/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fb%2F3
-[/us/pl/103/200/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fb%2F4
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/103/200/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs11
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/111/273/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273%2Fs2
+[/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273
 [/us/stat/124/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2858
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/91/513/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs703
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1283
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
 [/us/usc/t26/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4722

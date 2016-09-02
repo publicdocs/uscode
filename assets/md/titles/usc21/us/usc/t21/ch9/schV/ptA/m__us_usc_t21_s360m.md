@@ -157,19 +157,19 @@
 
         (11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
 
-([June 25, 1938, ch. 675, § 523][/us/act/1938-06-25/ch675/s523], as added [Pub. L. 105–115, title II, § 210(a)][/us/pl/105/115/s210/a], Nov. 21, 1997, [111 Stat. 2342][/us/stat/111/2342]; amended [Pub. L. 107–250, title II, § 202][/us/pl/107/250/s202], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 110–85, title II, § 221][/us/pl/110/85/s221], Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852]; [Pub. L. 111–31, div. A, title I, § 103(f)][/us/pl/111/31/s103/f], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 112–144, title VI, § 611][/us/pl/112/144/s611], July 9, 2012, [126 Stat. 1059][/us/stat/126/1059].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 523, as added [Pub. L. 105–115, title II][/us/pl/105/115/tII], § 210(a), Nov. 21, 1997, [111 Stat. 2342][/us/stat/111/2342]; amended [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 202, Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 110–85, title II][/us/pl/110/85/tII], § 221, Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(f), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 611, July 9, 2012, [126 Stat. 1059][/us/stat/126/1059].)
 
  __Amendments__ 
 
-    2012—Subsec. (b)(2)(E). [Pub. L. 112–144, § 611(a)][/us/pl/112/144/s611/a], added subpar. (E).
+    2012—Subsec. (b)(2)(E). [Pub. L. 112–144][/us/pl/112/144], § 611(a), added subpar. (E).
 
-    Subsec. (c). [Pub. L. 112–144, § 611(b)][/us/pl/112/144/s611/b], substituted “October 1, 2017” for “October 1, 2012”.
+    Subsec. (c). [Pub. L. 112–144][/us/pl/112/144], § 611(b), substituted “October 1, 2017” for “October 1, 2012”.
 
     2009—Subsec. (b)(2)(D). [Pub. L. 111–31][/us/pl/111/31] made technical amendment to reference in original act which appears in text as reference to [section 393(g) of this title][/us/usc/t21/s393/g].
 
     2007—Subsec. (c). [Pub. L. 110–85][/us/pl/110/85] substituted “2012” for “2007”.
 
-    2002—Subsec. (c). [Pub. L. 107–250, § 202(1)][/us/pl/107/250/s202/1], substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
+    2002—Subsec. (c). [Pub. L. 107–250][/us/pl/107/250], § 202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
 
     “(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accredited under subsection (b) of this section are available to review at least 60 percent of the submissions under [section 360(k) of this title][/us/usc/t21/s360/k], or
 
@@ -177,7 +177,7 @@
 
     whichever occurs first.”
 
-    Subsec. (d). [Pub. L. 107–250, § 202(2)][/us/pl/107/250/s202/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–250][/us/pl/107/250], § 202(2), added subsec. (d).
 
  __Effective Date__ 
 
@@ -185,7 +185,7 @@
 
  __Reports on Program of Accreditation__ 
 
-[Pub. L. 105–115, title II, § 210(d)][/us/pl/105/115/s210/d], Nov. 21, 1997, [111 Stat. 2345][/us/stat/111/2345], provided that:
+[Pub. L. 105–115, title II][/us/pl/105/115/tII], § 210(d), Nov. 21, 1997, [111 Stat. 2345][/us/stat/111/2345], provided that:
 
 >     “(1) __Comptroller general.—__ 
 
@@ -219,28 +219,28 @@
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
-[/us/act/1938-06-25/ch675/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs523
-[/us/pl/105/115/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs210%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2342
-[/us/pl/107/250/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs202
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1609
-[/us/pl/110/85/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs221
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F852
-[/us/pl/111/31/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Ff
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
-[/us/pl/112/144/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs611
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1059
-[/us/pl/112/144/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs611%2Fa
-[/us/pl/112/144/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs611%2Fb
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s393/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs393%2Fg
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
-[/us/pl/107/250/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs202%2F1
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
-[/us/pl/107/250/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs202%2F2
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/105/115/s210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs210%2Fd
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2345
 [/us/usc/t21/s360m/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360m%2Fc
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301

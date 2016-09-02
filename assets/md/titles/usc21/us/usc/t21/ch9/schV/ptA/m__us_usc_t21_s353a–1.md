@@ -45,7 +45,7 @@
 
         (2) the Secretary makes a determination that a pharmacy is acting contrary to [section 353a of this title][/us/usc/t21/s353a].
 
-([Pub. L. 113–54, title I, § 105][/us/pl/113/54/s105], Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597].)
+([Pub. L. 113–54, title I][/us/pl/113/54/tI], § 105, Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t21/s353a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a
 [/us/usc/t21/s353a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a
-[/us/pl/113/54/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs105
+[/us/pl/113/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtI
 [/us/stat/127/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F597
 
 

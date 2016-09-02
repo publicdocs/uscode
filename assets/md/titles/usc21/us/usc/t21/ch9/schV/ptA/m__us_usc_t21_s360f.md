@@ -29,7 +29,7 @@
 
         The Secretary may declare a proposed regulation under subsection (a) of this section to be effective upon its publication in the Federal Register and until the effective date of any final action taken respecting such regulation if (1) he determines, on the basis of all available data and information, that the deception or risk of illness or injury associated with the use of the device which is subject to the regulation presents an unreasonable, direct, and substantial danger to the health of individuals, and (2) before the date of the publication of such regulation, the Secretary notifies the manufacturer of such device that such regulation is to be made so effective. If the Secretary makes a proposed regulation so effective, he shall, as expeditiously as possible, give interested persons prompt notice of his action under this subsection, provide reasonable opportunity for an informal hearing on the proposed regulation, and either affirm, modify, or revoke such proposed regulation.
 
-([June 25, 1938, ch. 675, § 516][/us/act/1938-06-25/ch675/s516], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 560][/us/stat/90/560]; amended [Pub. L. 101–629, § 18(d)][/us/pl/101/629/s18/d], Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 516, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 560][/us/stat/90/560]; amended [Pub. L. 101–629][/us/pl/101/629], § 18(d), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs516
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F560
-[/us/pl/101/629/s18/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs18%2Fd
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4529
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t21/s360c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c

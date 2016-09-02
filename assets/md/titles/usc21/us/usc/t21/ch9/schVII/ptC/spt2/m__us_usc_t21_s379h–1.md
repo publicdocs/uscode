@@ -257,7 +257,7 @@
 
         (11) The term “submission for advisory review” means an original submission of a direct-to-consumer television advertisement for which the sponsor voluntarily requests advisory comments before the advertisement is publicly disseminated.
 
-([June 25, 1938, ch. 675, § 736A][/us/act/1938-06-25/ch675/s736A], as added [Pub. L. 110–85, title I, § 104][/us/pl/110/85/s104], Sept. 27, 2007, [121 Stat. 832][/us/stat/121/832].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 736A, as added [Pub. L. 110–85, title I][/us/pl/110/85/tI], § 104, Sept. 27, 2007, [121 Stat. 832][/us/stat/121/832].)
 
  __Effective Date__ 
 
@@ -272,8 +272,8 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t21/s379g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g%2F3
-[/us/act/1938-06-25/ch675/s736A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs736A
-[/us/pl/110/85/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs104
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtI
 [/us/stat/121/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F832
 [/us/pl/110/85/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs107
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g

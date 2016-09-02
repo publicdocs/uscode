@@ -263,7 +263,7 @@
 
             Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
 
-([Pub. L. 91–513, title II, § 310][/us/pl/91/513/s310], as added [Pub. L. 95–633, title II, § 202(a)][/us/pl/95/633/s202/a], Nov. 10, 1978, [92 Stat. 3774][/us/stat/92/3774]; amended [Pub. L. 100–690, title VI, § 6052(a)][/us/pl/100/690/s6052/a], Nov. 18, 1988, [102 Stat. 4312][/us/stat/102/4312]; [Pub. L. 103–200][/us/pl/103/200], §§ 2(c), 10, Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336], 2341; [Pub. L. 104–237, title II, § 208][/us/pl/104/237/s208], title IV, § 402, Oct. 3, 1996, [110 Stat. 3104][/us/stat/110/3104], 3111; [Pub. L. 106–310, div. B, title XXXVI, § 3652][/us/pl/106/310/s3652], Oct. 17, 2000, [114 Stat. 1239][/us/stat/114/1239]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, [120 Stat. 257][/us/stat/120/257], 261, 267; [Pub. L. 110–415, § 2][/us/pl/110/415/s2], Oct. 14, 2008, [122 Stat. 4349][/us/stat/122/4349]; [Pub. L. 111–268][/us/pl/111/268], §§ 2, 3, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 310, as added [Pub. L. 95–633, title II][/us/pl/95/633/tII], § 202(a), Nov. 10, 1978, [92 Stat. 3774][/us/stat/92/3774]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6052(a), Nov. 18, 1988, [102 Stat. 4312][/us/stat/102/4312]; [Pub. L. 103–200][/us/pl/103/200], §§ 2(c), 10, Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336], 2341; [Pub. L. 104–237, title II][/us/pl/104/237/tII], § 208, title IV, § 402, Oct. 3, 1996, [110 Stat. 3104][/us/stat/110/3104], 3111; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3652, Oct. 17, 2000, [114 Stat. 1239][/us/stat/114/1239]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], §§ 711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, [120 Stat. 257][/us/stat/120/257], 261, 267; [Pub. L. 110–415][/us/pl/110/415], § 2, Oct. 14, 2008, [122 Stat. 4349][/us/stat/122/4349]; [Pub. L. 111–268][/us/pl/111/268], §§ 2, 3, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847].)
 
  __References in Text__ 
 
@@ -275,53 +275,53 @@
 
  __Amendments__ 
 
-    2010—Subsec. (e)(1)(B)(v). [Pub. L. 111–268, § 3][/us/pl/111/268/s3], added cl. (v).
+    2010—Subsec. (e)(1)(B)(v). [Pub. L. 111–268][/us/pl/111/268], § 3, added cl. (v).
 
-    Subsec. (e)(2)(C). [Pub. L. 111–268, § 2][/us/pl/111/268/s2], added subpar. (C).
+    Subsec. (e)(2)(C). [Pub. L. 111–268][/us/pl/111/268], § 2, added subpar. (C).
 
     2008—Subsec. (e)(1)(A)(iv) to (vi). [Pub. L. 110–415][/us/pl/110/415] added cls. (iv) to (vi) and struck out former cls. (iv) to (vi) which related to procedures for sales subject to the logbook requirement.
 
-    2006—Subsec. (b)(3)(D)(ii). [Pub. L. 109–177, § 711(c)(2)][/us/pl/109/177/s711/c/2], inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
+    2006—Subsec. (b)(3)(D)(ii). [Pub. L. 109–177][/us/pl/109/177], § 711(c)(2), inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
 
-    [Pub. L. 109–177, § 711(a)(2)(B)][/us/pl/109/177/s711/a/2/B], substituted “section 802(49)” for “section 802(46)”.
+    [Pub. L. 109–177][/us/pl/109/177], § 711(a)(2)(B), substituted “section 802(49)” for “section 802(46)”.
 
-    Subsec. (b)(3)(D)(v). [Pub. L. 109–177, § 716(b)(2)][/us/pl/109/177/s716/b/2], substituted “section 971(f)(2)” for “section 971(e)(2)”.
+    Subsec. (b)(3)(D)(v). [Pub. L. 109–177][/us/pl/109/177], § 716(b)(2), substituted “section 971(f)(2)” for “section 971(e)(2)”.
 
-    Subsec. (d). [Pub. L. 109–177, § 711(b)(1)][/us/pl/109/177/s711/b/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–177][/us/pl/109/177], § 711(b)(1), added subsec. (d).
 
-    Subsec. (e)(1). [Pub. L. 109–177, § 711(b)(1)][/us/pl/109/177/s711/b/1], added subsec. heading and par. (1).
+    Subsec. (e)(1). [Pub. L. 109–177][/us/pl/109/177], § 711(b)(1), added subsec. heading and par. (1).
 
-    Subsec. (e)(2). [Pub. L. 109–177, § 711(c)(1)][/us/pl/109/177/s711/c/1], added par. (2).
+    Subsec. (e)(2). [Pub. L. 109–177][/us/pl/109/177], § 711(c)(1), added par. (2).
 
-    Subsec. (e)(3). [Pub. L. 109–177, § 711(d)][/us/pl/109/177/s711/d], added par. (3).
+    Subsec. (e)(3). [Pub. L. 109–177][/us/pl/109/177], § 711(d), added par. (3).
 
     2000—Subsec. (b)(3). [Pub. L. 106–310][/us/pl/106/310] added subpars. (A), (D), and (E), redesignated former subpars. (A) and (B) as (B) and (C), respectively, and inserted “or who engages in an export transaction” after “nonregulated person” in introductory provisions of subpar. (B).
 
-    1996—Subsec. (a)(1). [Pub. L. 104–237, § 208][/us/pl/104/237/s208], substituted “for two years after the date of the transaction.” for the dash after “record of the transaction” and struck out subpars. (A) and (B) which read as follows:
+    1996—Subsec. (a)(1). [Pub. L. 104–237][/us/pl/104/237], § 208, substituted “for two years after the date of the transaction.” for the dash after “record of the transaction” and struck out subpars. (A) and (B) which read as follows:
 
     “(A) for 4 years after the date of the transaction, if the listed chemical is a list I chemical or if the transaction involves a tableting machine or an encapsulating machine; and
 
     “(B) for 2 years after the date of the transaction, if the listed chemical is a list II chemical.”
 
-    Subsec. (b)(3). [Pub. L. 104–237, § 402][/us/pl/104/237/s402], added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–237][/us/pl/104/237], § 402, added par. (3).
 
-    1993—Subsec. (a)(1). [Pub. L. 103–200, § 2(c)(1)][/us/pl/103/200/s2/c/1], substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
+    1993—Subsec. (a)(1). [Pub. L. 103–200][/us/pl/103/200], § 2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
 
-    Subsec. (b). [Pub. L. 103–200, § 10][/us/pl/103/200/s10], designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
+    Subsec. (b). [Pub. L. 103–200][/us/pl/103/200], § 10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
 
-    Subsec. (c)(2)(D). [Pub. L. 103–200, § 2(c)(2)][/us/pl/103/200/s2/c/2], substituted “chemical control laws” for “precursor chemical laws”.
+    Subsec. (c)(2)(D). [Pub. L. 103–200][/us/pl/103/200], § 2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
 
     1988—[Pub. L. 100–690][/us/pl/100/690] amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–268, § 6(a)][/us/pl/111/268/s6/a], Oct. 12, 2010, [124 Stat. 2848][/us/stat/124/2848], provided that: 
+[Pub. L. 111–268][/us/pl/111/268], § 6(a), Oct. 12, 2010, [124 Stat. 2848][/us/stat/124/2848], provided that: 
 
 > “This Act \[amending this section and [section 842 of this title][/us/usc/t21/s842] and enacting provisions set out as notes under this section and [section 801 of this title][/us/usc/t21/s801]\] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act \[Oct. 12, 2010\].”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–177, title VII, § 711(b)(2)][/us/pl/109/177/s711/b/2], Mar. 9, 2006, [120 Stat. 261][/us/stat/120/261], provided that: 
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 711(b)(2), Mar. 9, 2006, [120 Stat. 261][/us/stat/120/261], provided that: 
 
 > “With respect to subsections (d) and (e)(1) of section 310 of the Controlled Substances Act \[[21 U.S.C. 830(d)][/us/usc/t21/s830/d], (e)(1)\], as added by paragraph (1) of this subsection:
 
@@ -329,7 +329,7 @@
 
 >     “(B) Such subsection (e)(1) applies on and after September 30, 2006.”
 
-[Pub. L. 109–177, title VII, § 711(c)(3)][/us/pl/109/177/s711/c/3], Mar. 9, 2006, [120 Stat. 261][/us/stat/120/261], provided that: 
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 711(c)(3), Mar. 9, 2006, [120 Stat. 261][/us/stat/120/261], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
 
@@ -343,7 +343,7 @@
 
  __Effective Date; Time To Submit Piperidine Report; Required Information__ 
 
-[Pub. L. 95–633, title II, § 203(a)][/us/pl/95/633/s203/a], Nov. 10, 1978, [92 Stat. 3776][/us/stat/92/3776], provided that:
+[Pub. L. 95–633, title II][/us/pl/95/633/tII], § 203(a), Nov. 10, 1978, [92 Stat. 3776][/us/stat/92/3776], provided that:
 
 >     “(1) Except as provided under paragraph (2), the amendments made by this title \[enacting this section and amending sections 841 to 843 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1978\].
 
@@ -359,19 +359,19 @@
 
  __Repeals__ 
 
-    [Pub. L. 96–359, § 8(b)][/us/pl/96/359/s8/b], Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194], repealed [section 203(d) of Pub. L. 95–633][/us/pl/95/633/s203/d], which had provided for the repeal of this section effective Jan. 1, 1981.
+    [Pub. L. 96–359][/us/pl/96/359], § 8(b), Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194], repealed [section 203(d) of Pub. L. 95–633][/us/pl/95/633/s203/d], which had provided for the repeal of this section effective Jan. 1, 1981.
 
  __Regulations__ 
 
-[Pub. L. 111–268, § 6(b)][/us/pl/111/268/s6/b], Oct. 12, 2010, [124 Stat. 2848][/us/stat/124/2848], provided that: 
+[Pub. L. 111–268][/us/pl/111/268], § 6(b), Oct. 12, 2010, [124 Stat. 2848][/us/stat/124/2848], provided that: 
 
 > “In promulgating the regulations authorized by section 2 \[amending this section\], the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date \[see Effective Date of 2010 Amendment note above\].”
 
-    [Pub. L. 95–633, title II, § 203(b)][/us/pl/95/633/s203/b], Nov. 10, 1978, [92 Stat. 3777][/us/stat/92/3777], required the Attorney General to publish proposed interim regulations for piperidine reporting under [section 830(a) of this title][/us/usc/t21/s830/a] not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
+    [Pub. L. 95–633, title II][/us/pl/95/633/tII], § 203(b), Nov. 10, 1978, [92 Stat. 3777][/us/stat/92/3777], required the Attorney General to publish proposed interim regulations for piperidine reporting under [section 830(a) of this title][/us/usc/t21/s830/a] not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
 
  __Report to President and Congress on Effectiveness of Title II of__  __[__  __Pub. L. 95–633__  __][/us/pl/95/633]__ 
 
-    [Pub. L. 95–633, title II, § 203(c)][/us/pl/95/633/s203/c], Nov. 10, 1978, [92 Stat. 3777][/us/stat/92/3777], required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of [Pub. L. 95–633][/us/pl/95/633], and report to the President and Congress not later than Mar. 1, 1980.
+    [Pub. L. 95–633, title II][/us/pl/95/633/tII], § 203(c), Nov. 10, 1978, [92 Stat. 3777][/us/stat/92/3777], required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of [Pub. L. 95–633][/us/pl/95/633], and report to the President and Congress not later than Mar. 1, 1980.
 
 ----------
 
@@ -390,20 +390,20 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/91/513/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs310
-[/us/pl/95/633/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs202%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/95/633/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtII
 [/us/stat/92/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3774
-[/us/pl/100/690/s6052/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6052%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4312
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2336
-[/us/pl/104/237/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs208
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3104
-[/us/pl/106/310/s3652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3652
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1239
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F257
-[/us/pl/110/415/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F415%2Fs2
+[/us/pl/110/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F415
 [/us/stat/122/4349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4349
 [/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/stat/124/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2847
@@ -415,31 +415,31 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
-[/us/pl/111/268/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs3
-[/us/pl/111/268/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs2
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/pl/110/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F415
-[/us/pl/109/177/s711/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fc%2F2
-[/us/pl/109/177/s711/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fa%2F2%2FB
-[/us/pl/109/177/s716/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs716%2Fb%2F2
-[/us/pl/109/177/s711/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fb%2F1
-[/us/pl/109/177/s711/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fb%2F1
-[/us/pl/109/177/s711/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fc%2F1
-[/us/pl/109/177/s711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fd
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/104/237/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs208
-[/us/pl/104/237/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs402
-[/us/pl/103/200/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fc%2F1
-[/us/pl/103/200/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs10
-[/us/pl/103/200/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fc%2F2
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/111/268/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs6%2Fa
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/stat/124/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2848
 [/us/usc/t21/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs842
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/109/177/s711/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fb%2F2
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F261
 [/us/usc/t21/s830/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fd
-[/us/pl/109/177/s711/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Fc%2F3
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F261
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/103/200/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs11
@@ -447,19 +447,19 @@
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s6061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6061
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/95/633/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fa
+[/us/pl/95/633/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtII
 [/us/stat/92/3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3776
 [/us/usc/t21/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs202%2Fa%2F2
-[/us/pl/96/359/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fb
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1194
 [/us/pl/95/633/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fd
-[/us/pl/111/268/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs6%2Fb
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/stat/124/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2848
-[/us/pl/95/633/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fb
+[/us/pl/95/633/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtII
 [/us/stat/92/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3777
 [/us/usc/t21/s830/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fa
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
-[/us/pl/95/633/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fc
+[/us/pl/95/633/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtII
 [/us/stat/92/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3777
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 

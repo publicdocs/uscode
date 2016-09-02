@@ -57,7 +57,7 @@
 
     (f) No person, while an official or employee of the United States Government or any State or local governmental agency, or thereafter, shall use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State or other government in their official capacity, or as ordered by a court in a judicial proceeding, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
 
-([Pub. L. 91–597, § 8][/us/pl/91/597/s8], Dec. 29, 1970, [84 Stat. 1626][/us/stat/84/1626]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X, § 1012(c)][/us/pl/102/237/s1012/c], Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899].)
+([Pub. L. 91–597][/us/pl/91/597], § 8, Dec. 29, 1970, [84 Stat. 1626][/us/stat/84/1626]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(c), Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899].)
 
  __References in Text__ 
 
@@ -85,11 +85,11 @@
 [/us/usc/t21/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1036
 [/us/usc/t21/s1035/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1035%2Fa
 [/us/usc/t21/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1036
-[/us/pl/91/597/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs8
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1626
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/237/s1012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fc
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1899
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

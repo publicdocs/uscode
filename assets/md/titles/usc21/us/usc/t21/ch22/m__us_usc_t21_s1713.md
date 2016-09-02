@@ -17,7 +17,7 @@
 
     The Secretary of State, the Attorney General, the Secretary of Agriculture, the Secretary of Defense, the Director of the Office of National Drug Control Policy, and the Administrator of the Environmental Protection Agency are authorized to support the development and use of environmentally-approved herbicides to eliminate illicit narcotics crops, including coca, cannabis, and opium poppy, both in the United States and in foreign countries.
 
-([Pub. L. 105–277, div. C, title VIII, § 834][/us/pl/105/277/s834], Oct. 21, 1998, [112 Stat. 2681–702][/us/stat/112/2681-702].)
+([Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 834, Oct. 21, 1998, [112 Stat. 2681–702][/us/stat/112/2681-702].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs834
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-702
 
 

@@ -71,51 +71,51 @@
 
             (B) For purposes of this paragraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
 
-([Pub. L. 92–255, title IV, § 410][/us/pl/92/255/s410], Mar. 21, 1972, [86 Stat. 82][/us/stat/86/82]; [Pub. L. 94–237][/us/pl/94/237], §§ 10, 11, Mar. 19, 1976, [90 Stat. 247][/us/stat/90/247]; [Pub. L. 94–371, § 10(c)(1)][/us/pl/94/371/s10/c/1], July 26, 1976, [90 Stat. 1040][/us/stat/90/1040]; [Pub. L. 95–461][/us/pl/95/461], §§ 2(b), 6(a), Oct. 14, 1978, [92 Stat. 1268][/us/stat/92/1268], 1270; [Pub. L. 96–181, § 7][/us/pl/96/181/s7], Jan. 2, 1980, [93 Stat. 1312][/us/stat/93/1312]; [Pub. L. 97–35, title IX, § 970(b)][/us/pl/97/35/s970/b]–(f), Aug. 13, 1981, [95 Stat. 596][/us/stat/95/596], 597; [Pub. L. 98–24, § 5(a)(3)][/us/pl/98/24/s5/a/3], Apr. 26, 1983, [97 Stat. 183][/us/stat/97/183].)
+([Pub. L. 92–255, title IV][/us/pl/92/255/tIV], § 410, Mar. 21, 1972, [86 Stat. 82][/us/stat/86/82]; [Pub. L. 94–237][/us/pl/94/237], §§ 10, 11, Mar. 19, 1976, [90 Stat. 247][/us/stat/90/247]; [Pub. L. 94–371][/us/pl/94/371], § 10(c)(1), July 26, 1976, [90 Stat. 1040][/us/stat/90/1040]; [Pub. L. 95–461][/us/pl/95/461], §§ 2(b), 6(a), Oct. 14, 1978, [92 Stat. 1268][/us/stat/92/1268], 1270; [Pub. L. 96–181][/us/pl/96/181], § 7, Jan. 2, 1980, [93 Stat. 1312][/us/stat/93/1312]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 970(b)–(f), Aug. 13, 1981, [95 Stat. 596][/us/stat/95/596], 597; [Pub. L. 98–24][/us/pl/98/24], § 5(a)(3), Apr. 26, 1983, [97 Stat. 183][/us/stat/97/183].)
 
  __Amendments__ 
 
     1983—Subsec. (d). [Pub. L. 98–24][/us/pl/98/24] substituted “Native Americans (including Native Hawaiians and Native American Pacific Islanders)” for “native Americans”.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 970(b)][/us/pl/97/35/s970/b], substituted “The Secretary acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals, and public and private nonprofit entities” for “The Secretary shall” in introductory provision preceding par. (1), reduced the enumeration of authorized activities of the Secretary from six paragraphs to two paragraphs thereby eliminating provisions relating to the recruitment, training, and employment of participants in treatment programs, the establishment, conduct, and evaluation of drug abuse prevention, treatment, and rehabilitation programs, the development of methods to deal with drug abuse in particular areas, the improvement of drug maintenance techniques or programs, and the establishment, conduct, and evaluation of drug abuse prevention and treatment programs, and inserted provision that nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 970(b), substituted “The Secretary acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals, and public and private nonprofit entities” for “The Secretary shall” in introductory provision preceding par. (1), reduced the enumeration of authorized activities of the Secretary from six paragraphs to two paragraphs thereby eliminating provisions relating to the recruitment, training, and employment of participants in treatment programs, the establishment, conduct, and evaluation of drug abuse prevention, treatment, and rehabilitation programs, the development of methods to deal with drug abuse in particular areas, the improvement of drug maintenance techniques or programs, and the establishment, conduct, and evaluation of drug abuse prevention and treatment programs, and inserted provision that nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
 
-    Subsec. (b). [Pub. L. 97–35, § 970(c)][/us/pl/97/35/s970/c], inserted provisions relating to fiscal year ending Sept. 30, 1982.
+    Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 970(c), inserted provisions relating to fiscal year ending Sept. 30, 1982.
 
-    Subsec. (c)(2). [Pub. L. 97–35, § 970(d)(1)][/us/pl/97/35/s970/d/1], substituted “responsible for the administration of drug abuse prevention activities” for “designated or established under [section 1176 of this title][/us/usc/t21/s1176]” and “any State” for “the State” and struck out reference to drug abuse under [section 1176 of this title][/us/usc/t21/s1176].
+    Subsec. (c)(2). [Pub. L. 97–35][/us/pl/97/35], § 970(d)(1), substituted “responsible for the administration of drug abuse prevention activities” for “designated or established under [section 1176 of this title][/us/usc/t21/s1176]” and “any State” for “the State” and struck out reference to drug abuse under [section 1176 of this title][/us/usc/t21/s1176].
 
-    Subsec. (c)(3)(D). [Pub. L. 97–35, § 970(d)(2)][/us/pl/97/35/s970/d/2], struck out subpar. (D) which had provided that approval of a grant or contract could be granted only if the application provided for reasonable assurances that Federal funds made available under this section would be used to supplement and increase the level of State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this section and would not supplant State or local funds.
+    Subsec. (c)(3)(D). [Pub. L. 97–35][/us/pl/97/35], § 970(d)(2), struck out subpar. (D) which had provided that approval of a grant or contract could be granted only if the application provided for reasonable assurances that Federal funds made available under this section would be used to supplement and increase the level of State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this section and would not supplant State or local funds.
 
-    Subsec. (d). [Pub. L. 97–35, § 970(e)][/us/pl/97/35/s970/e], inserted applicability to racial and ethnic minorities, handicapped, native Americans, and families of drug abusers.
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 970(e), inserted applicability to racial and ethnic minorities, handicapped, native Americans, and families of drug abusers.
 
-    Subsec. (g). [Pub. L. 97–35, § 970(f)][/us/pl/97/35/s970/f], added subsec. (g).
+    Subsec. (g). [Pub. L. 97–35][/us/pl/97/35], § 970(f), added subsec. (g).
 
-    1980—Subsec. (a)(1). [Pub. L. 96–181, § 7(a)(1)][/us/pl/96/181/s7/a/1], substituted “development, demonstration and evaluation of drug abuse” for “development of drug abuse”.
+    1980—Subsec. (a)(1). [Pub. L. 96–181][/us/pl/96/181], § 7(a)(1), substituted “development, demonstration and evaluation of drug abuse” for “development of drug abuse”.
 
-    Subsec. (a)(5). [Pub. L. 96–181, § 7(a)(2)][/us/pl/96/181/s7/a/2], substituted “drug maintenance and detoxification techniques” for “drug maintenance techniques”.
+    Subsec. (a)(5). [Pub. L. 96–181][/us/pl/96/181], § 7(a)(2), substituted “drug maintenance and detoxification techniques” for “drug maintenance techniques”.
 
-    Subsec. (a)(6). [Pub. L. 96–181, § 7(a)(3)][/us/pl/96/181/s7/a/3], in provisions relating to evaluation of drug abuse prevention and treatment programs, inserted provision that such evaluation be with particular emphasis on replicating effective prevention and treatment programs.
+    Subsec. (a)(6). [Pub. L. 96–181][/us/pl/96/181], § 7(a)(3), in provisions relating to evaluation of drug abuse prevention and treatment programs, inserted provision that such evaluation be with particular emphasis on replicating effective prevention and treatment programs.
 
-    Subsec. (b). [Pub. L. 96–181, § 7(b)][/us/pl/96/181/s7/b], inserted authorization of appropriations for grants and contracts under pars. (3) and (6) of subsec. (a) and for other programs and activities for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981, and required certain percentage of appropriated funds to be obligated for grants and contracts for primary prevention and intervention programs designed to discourage individuals from abusing drugs.
+    Subsec. (b). [Pub. L. 96–181][/us/pl/96/181], § 7(b), inserted authorization of appropriations for grants and contracts under pars. (3) and (6) of subsec. (a) and for other programs and activities for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981, and required certain percentage of appropriated funds to be obligated for grants and contracts for primary prevention and intervention programs designed to discourage individuals from abusing drugs.
 
-    Subsec. (d). [Pub. L. 96–181, § 7(c)][/us/pl/96/181/s7/c], inserted provisions for special consideration to applications for programs and projects for prevention and treatment of drug abuse and drug dependence by elderly.
+    Subsec. (d). [Pub. L. 96–181][/us/pl/96/181], § 7(c), inserted provisions for special consideration to applications for programs and projects for prevention and treatment of drug abuse and drug dependence by elderly.
 
-    Subsec. (f). [Pub. L. 96–181, § 7(d)][/us/pl/96/181/s7/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–181][/us/pl/96/181], § 7(d), added subsec. (f).
 
-    1978—Subsec. (a). [Pub. L. 95–461, § 6(a)][/us/pl/95/461/s6/a], inserted provision requiring Secretary to act through National Institute on Drug Abuse in making special proj­ect grants.
+    1978—Subsec. (a). [Pub. L. 95–461][/us/pl/95/461], § 6(a), inserted provision requiring Secretary to act through National Institute on Drug Abuse in making special proj­ect grants.
 
-    Subsec. (b). [Pub. L. 95–461, § 2(b)][/us/pl/95/461/s2/b], inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
+    Subsec. (b). [Pub. L. 95–461][/us/pl/95/461], § 2(b), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
 
-    1976—Subsec. (a). [Pub. L. 94–237, § 10(a)][/us/pl/94/237/s10/a], inserted provisions which authorized Secretary to give a high priority to applications for grants and contracts for primary prevention programs, and set forth programs included within primary prevention programs and scope of Secretary’s funding authority.
+    1976—Subsec. (a). [Pub. L. 94–237][/us/pl/94/237], § 10(a), inserted provisions which authorized Secretary to give a high priority to applications for grants and contracts for primary prevention programs, and set forth programs included within primary prevention programs and scope of Secretary’s funding authority.
 
-    Subsec. (b). [Pub. L. 94–237, § 11][/us/pl/94/237/s11], substituted “$160,000,000 for each of the fiscal years ending June 30, 1975 and June 30, 1976; $40,000,000 for the period July 1, 1976, through September 30, 1976; and $160,000,000 for each of the fiscal years ending September 30, 1977, and September 30, 1978,” for “and $160,000,000 for the fiscal year ending June 30, 1975,”.
+    Subsec. (b). [Pub. L. 94–237][/us/pl/94/237], § 11, substituted “$160,000,000 for each of the fiscal years ending June 30, 1975 and June 30, 1976; $40,000,000 for the period July 1, 1976, through September 30, 1976; and $160,000,000 for each of the fiscal years ending September 30, 1977, and September 30, 1978,” for “and $160,000,000 for the fiscal year ending June 30, 1975,”.
 
-    Subsec. (c)(4). [Pub. L. 94–237, § 10(b)][/us/pl/94/237/s10/b], added par. (4).
+    Subsec. (c)(4). [Pub. L. 94–237][/us/pl/94/237], § 10(b), added par. (4).
 
     Subsecs. (d), (e). [Pub. L. 94–371][/us/pl/94/371] added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–371, § 10(c)(2)][/us/pl/94/371/s10/c/2], July 26, 1976, [90 Stat. 1041][/us/stat/90/1041], provided that: 
+[Pub. L. 94–371][/us/pl/94/371], § 10(c)(2), July 26, 1976, [90 Stat. 1041][/us/stat/90/1041], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to applications submitted for grants or contracts under section 410 of the Drug Abuse Office and Treatment Act of 1972 \[this section\] after June 30, 1976.”
 
@@ -126,42 +126,42 @@
 ----------
 ----------
 
-[/us/pl/92/255/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2Fs410
+[/us/pl/92/255/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2FtIV
 [/us/stat/86/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F82
 [/us/pl/94/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237
 [/us/stat/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F247
-[/us/pl/94/371/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs10%2Fc%2F1
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1040
 [/us/pl/95/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461
 [/us/stat/92/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1268
-[/us/pl/96/181/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
 [/us/stat/93/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1312
-[/us/pl/97/35/s970/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Fb
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F596
-[/us/pl/98/24/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs5%2Fa%2F3
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F183
 [/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
-[/us/pl/97/35/s970/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Fb
-[/us/pl/97/35/s970/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Fc
-[/us/pl/97/35/s970/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Fd%2F1
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t21/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176
 [/us/usc/t21/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176
-[/us/pl/97/35/s970/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Fd%2F2
-[/us/pl/97/35/s970/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Fe
-[/us/pl/97/35/s970/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs970%2Ff
-[/us/pl/96/181/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7%2Fa%2F1
-[/us/pl/96/181/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7%2Fa%2F2
-[/us/pl/96/181/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7%2Fa%2F3
-[/us/pl/96/181/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7%2Fb
-[/us/pl/96/181/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7%2Fc
-[/us/pl/96/181/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181%2Fs7%2Fd
-[/us/pl/95/461/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461%2Fs6%2Fa
-[/us/pl/95/461/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461%2Fs2%2Fb
-[/us/pl/94/237/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237%2Fs10%2Fa
-[/us/pl/94/237/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237%2Fs11
-[/us/pl/94/237/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237%2Fs10%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
+[/us/pl/96/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F181
+[/us/pl/95/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461
+[/us/pl/95/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F461
+[/us/pl/94/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237
+[/us/pl/94/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237
+[/us/pl/94/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F237
 [/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
-[/us/pl/94/371/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs10%2Fc%2F2
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1041
 
 

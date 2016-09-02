@@ -17,7 +17,7 @@
 
     Part E of subchapter I of this chapter shall apply with respect to functions of the Attorney General (and of officers and employees of the Bureau of Narcotics and Dangerous Drugs) under this subchapter, to administrative and judicial proceedings under this subchapter, and to violations of this subchapter, to the same extent that such part applies to functions of the Attorney General (and such officers and employees) under subchapter I of this chapter, to such proceedings under subchapter I of this chapter, and to violations of subchapter I of this chapter. For purposes of the application of this section to section 880 or 881 of this title, any reference in such section 880 or 881 of this title to “this subchapter” shall be deemed to be a reference to this subchapter, any reference to [section 823 of this title][/us/usc/t21/s823] shall be deemed to be a reference to [section 958 of this title][/us/usc/t21/s958], and any reference to [section 822(d) of this title][/us/usc/t21/s822/d] shall be deemed to be a reference to [section 957(b)(2) of this title][/us/usc/t21/s957/b/2].
 
-([Pub. L. 91–513, title III, § 1015][/us/pl/91/513/s1015], Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291]; [Pub. L. 95–633, title III, § 301(b)][/us/pl/95/633/s301/b], Nov. 10, 1978, [92 Stat. 3778][/us/stat/92/3778].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1015, Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291]; [Pub. L. 95–633, title III][/us/pl/95/633/tIII], § 301(b), Nov. 10, 1978, [92 Stat. 3778][/us/stat/92/3778].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 [/us/usc/t21/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958
 [/us/usc/t21/s822/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822%2Fd
 [/us/usc/t21/s957/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs957%2Fb%2F2
-[/us/pl/91/513/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1015
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1291
-[/us/pl/95/633/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs301%2Fb
+[/us/pl/95/633/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtIII
 [/us/stat/92/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3778
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/stat/87/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1091

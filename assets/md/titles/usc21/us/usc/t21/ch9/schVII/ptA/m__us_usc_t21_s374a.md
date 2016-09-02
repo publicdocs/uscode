@@ -21,7 +21,7 @@
 
     (2) to ensure that major food allergens are properly labeled on foods.
 
-([Pub. L. 108–282, title II, § 205][/us/pl/108/282/s205], Aug. 2, 2004, [118 Stat. 909][/us/stat/118/909].)
+([Pub. L. 108–282, title II][/us/pl/108/282/tII], § 205, Aug. 2, 2004, [118 Stat. 909][/us/stat/118/909].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t21/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374
-[/us/pl/108/282/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs205
+[/us/pl/108/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtII
 [/us/stat/118/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F909
 
 

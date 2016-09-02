@@ -713,13 +713,13 @@
 
         Nothing in this section shall be construed to amend or modify the provisions of the Toxic Substances Control Act \[[15 U.S.C. 2601][/us/usc/t15/s2601] et seq.\] or the Federal Insecticide, Fungicide, and Rodenticide Act \[[7 U.S.C. 136][/us/usc/t7/s136] et seq.\].
 
-([June 25, 1938, ch. 675, § 408][/us/act/1938-06-25/ch675/s408], as added [July 22, 1954, ch. 559, § 3][/us/act/1954-07-22/ch559/s3], [68 Stat. 511][/us/stat/68/511]; amended [Pub. L. 85–791, § 20][/us/pl/85/791/s20], Aug. 28, 1958, [72 Stat. 947][/us/stat/72/947]; [Pub. L. 91–515, title VI, § 601(d)(1)][/us/pl/91/515/s601/d/1], Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; [Pub. L. 92–157, title III, § 303(a)][/us/pl/92/157/s303/a], Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 92–516, § 3(3)][/us/pl/92/516/s3/3], Oct. 21, 1972, [86 Stat. 998][/us/stat/86/998]; [Pub. L. 98–620, title IV, § 402(25)(A)][/us/pl/98/620/s402/25/A], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–571, title I, § 107(7)][/us/pl/102/571/s107/7], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(k)][/us/pl/103/80/s3/k], Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776]; [Pub. L. 104–170, title IV, § 405][/us/pl/104/170/s405], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 105–324, § 2(b)][/us/pl/105/324/s2/b], Oct. 30, 1998, [112 Stat. 3036][/us/stat/112/3036]; [Pub. L. 110–94, § 4(d)(2)][/us/pl/110/94/s4/d/2], Oct. 9, 2007, [121 Stat. 1002][/us/stat/121/1002]; [Pub. L. 112–177, § 2(a)(3)][/us/pl/112/177/s2/a/3], Sept. 28, 2012, [126 Stat. 1329][/us/stat/126/1329].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 408, as added [July 22, 1954, ch. 559][/us/act/1954-07-22/ch559], § 3, [68 Stat. 511][/us/stat/68/511]; amended [Pub. L. 85–791][/us/pl/85/791], § 20, Aug. 28, 1958, [72 Stat. 947][/us/stat/72/947]; [Pub. L. 91–515, title VI][/us/pl/91/515/tVI], § 601(d)(1), Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; [Pub. L. 92–157, title III][/us/pl/92/157/tIII], § 303(a), Nov. 18, 1971, [85 Stat. 464][/us/stat/85/464]; [Pub. L. 92–516][/us/pl/92/516], § 3(3), Oct. 21, 1972, [86 Stat. 998][/us/stat/86/998]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(25)(A), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(1), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(7), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80][/us/pl/103/80], § 3(k), Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776]; [Pub. L. 104–170, title IV][/us/pl/104/170/tIV], § 405, Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 105–324][/us/pl/105/324], § 2(b), Oct. 30, 1998, [112 Stat. 3036][/us/stat/112/3036]; [Pub. L. 110–94][/us/pl/110/94], § 4(d)(2), Oct. 9, 2007, [121 Stat. 1002][/us/stat/121/1002]; [Pub. L. 112–177][/us/pl/112/177], § 2(a)(3), Sept. 28, 2012, [126 Stat. 1329][/us/stat/126/1329].)
 
  __References in Text__ 
 
     The Federal Rules of Civil Procedure, referred to in subsec. (g)(2)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-    [Section 346 of this title][/us/usc/t21/s346], referred to in subsec. (j)(1), originally consisted of subsecs. (a) and (b). Subsec. (a) was redesignated as the entire section 346 and subsec. (b) was repealed by [Pub. L. 86–618, title I, § 103(a)(1)][/us/pl/86/618/s103/a/1], [74 Stat. 398][/us/stat/74/398].
+    [Section 346 of this title][/us/usc/t21/s346], referred to in subsec. (j)(1), originally consisted of subsecs. (a) and (b). Subsec. (a) was redesignated as the entire section 346 and subsec. (b) was repealed by [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 103(a)(1), [74 Stat. 398][/us/stat/74/398].
 
     The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsecs. (l), (n)(1)(A), (r), and (s), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7][/us/usc/t7/s136] and Tables.
 
@@ -741,17 +741,17 @@
 
     1996—[Pub. L. 104–170][/us/pl/104/170] amended section generally, substituting, in subsec. (a), provisions relating to requirement for tolerance or exemption for provisions relating to conditions for safety; in subsec. (b), provisions relating to authority and standard for tolerance for provisions relating to establishment of tolerances; in subsec. (c), provisions relating to authority and standard for exemptions for provisions relating to exemptions; in subsec. (d), provisions relating to petition for tolerance or exemption for provisions relating to regulations pursuant to petition, publication of notice, time for issuance, referral to advisory committees, effective date, and hearings; in subsec. (e), provisions relating to action on Administrator’s own initiative for provisions relating to regulations pursuant to Administrator’s proposals; in subsec. (f), provisions relating to special data requirements for provisions relating to data submitted as confidential; in subsec. (g), provisions relating to effective date, objections, hearings, and administrative review for provisions relating to advisory committees and their appointment, composition, compensation, and clerical assistance; in subsec. (h), provisions relating to judicial review for provisions relating to right of consultation; in subsec. (i), provisions relating to confidentiality and use of data for provisions relating to judicial review; in subsec. (j), provisions relating to status of previously issued regulations for provisions relating to temporary tolerances; in subsec. (k), provisions relating to transitions for provisions relating to regulations based on public hearings before January 1, 1953; in subsec. (l), provisions relating to harmonization with action under other laws for provisions relating to pesticides under Federal Insecticide, Fungicide, and Rodenticide Act, functions of Administrator of Environmental Protection Agency, certifications, hearings, time limitations, opinions, and regulations; in subsec. (m), provisions relating to fees for provisions relating to amendment of regulations; in subsec. (n), provisions relating to national uniformity of tolerances for provisions relating to guaranties; in subsec. (o), provisions relating to consumer right to know for provisions relating to payment of fees, services or functions conditioned on payment, and waiver or refund of fees; and adding subsecs. (p) to (s).
 
-    1993—[Pub. L. 103–80, § 3(k)(6)][/us/pl/103/80/s3/k/6], substituted “Administrator” for “Secretary” wherever appearing except when followed by “of Agriculture”.
+    1993—[Pub. L. 103–80][/us/pl/103/80], § 3(k)(6), substituted “Administrator” for “Secretary” wherever appearing except when followed by “of Agriculture”.
 
-    Subsec. (a)(1). [Pub. L. 103–80, § 3(k)(1)][/us/pl/103/80/s3/k/1], substituted “Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’)” for “Secretary of Health and Human Services”.
+    Subsec. (a)(1). [Pub. L. 103–80][/us/pl/103/80], § 3(k)(1), substituted “Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’)” for “Secretary of Health and Human Services”.
 
-    Subsec. (d)(5). [Pub. L. 103–80, § 3(k)(2)][/us/pl/103/80/s3/k/2], substituted “[section 556(c) of title 5][/us/usc/t5/s556/c]” for “section 7(c) of the Administrative Procedure Act (5 U.S.C., sec. 1006(c))”.
+    Subsec. (d)(5). [Pub. L. 103–80][/us/pl/103/80], § 3(k)(2), substituted “[section 556(c) of title 5][/us/usc/t5/s556/c]” for “section 7(c) of the Administrative Procedure Act (5 U.S.C., sec. 1006(c))”.
 
-    Subsec. (l). [Pub. L. 103–80, § 3(k)(3)][/us/pl/103/80/s3/k/3], substituted “In the event” for “It the event” before “a hearing is requested”.
+    Subsec. (l). [Pub. L. 103–80][/us/pl/103/80], § 3(k)(3), substituted “In the event” for “It the event” before “a hearing is requested”.
 
-    Subsec. (n). [Pub. L. 103–80, § 3(k)(4)][/us/pl/103/80/s3/k/4], made technical amendment to reference to [section 333(c) of this title][/us/usc/t21/s333/c] to reflect amendment of corresponding provision of original act.
+    Subsec. (n). [Pub. L. 103–80][/us/pl/103/80], § 3(k)(4), made technical amendment to reference to [section 333(c) of this title][/us/usc/t21/s333/c] to reflect amendment of corresponding provision of original act.
 
-    Subsec. (o). [Pub. L. 103–80, § 3(k)(5)][/us/pl/103/80/s3/k/5], which directed the substitution of “Administrator” for “Secretary of Health and Human Services” wherever appearing in the original text, was executed by making the substitution in the first sentence before “shall by regulation require”, the only place “Secretary of Health and Human Services” appeared in the original text.
+    Subsec. (o). [Pub. L. 103–80][/us/pl/103/80], § 3(k)(5), which directed the substitution of “Administrator” for “Secretary of Health and Human Services” wherever appearing in the original text, was executed by making the substitution in the first sentence before “shall by regulation require”, the only place “Secretary of Health and Human Services” appeared in the original text.
 
     1992—Subsecs. (a), (d), (h), (i), (l), (m), (o). [Pub. L. 102–300][/us/pl/102/300] substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing in the original statutory text.
 
@@ -765,9 +765,9 @@
 
     1970—Subsec. (g). [Pub. L. 91–515][/us/pl/91/515] substituted provisions authorizing members of an advisory committee to receive compensation and travel expenses in accordance with [section 376(b)(5)(D) of this title][/us/usc/t21/s376/b/5/D], for provisions authorizing such members to receive as compensation a reasonable per diem for time actually spent on committee work, and necessary traveling and subsistence expenses while serving away from their places of residence.
 
-    1958—Subsec. (i)(2). [Pub. L. 85–791, § 20(a)][/us/pl/85/791/s20/a], in first sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon the Secretary, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and which, in second sentence, substituted “the filing of such petition” for “such filing”.
+    1958—Subsec. (i)(2). [Pub. L. 85–791][/us/pl/85/791], § 20(a), in first sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon the Secretary, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and which, in second sentence, substituted “the filing of such petition” for “such filing”.
 
-    Subsec. (i)(3). [Pub. L. 85–791, § 20(b)][/us/pl/85/791/s20/b], in first sentence, substituted “transmitted by the clerk of the court to the Secretary of Agriculture, or” for “served upon the Secretary of Agriculture, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and, in second sentence, substituted “the filing of such petition” for “such filing”.
+    Subsec. (i)(3). [Pub. L. 85–791][/us/pl/85/791], § 20(b), in first sentence, substituted “transmitted by the clerk of the court to the Secretary of Agriculture, or” for “served upon the Secretary of Agriculture, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and, in second sentence, substituted “the filing of such petition” for “such filing”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -787,19 +787,19 @@
 
  __Regulation of Sulfuryl Fluoride__ 
 
-[Pub. L. 113–79, title X, § 10015][/us/pl/113/79/s10015], Feb. 7, 2014, [128 Stat. 952][/us/stat/128/952], provided that: 
+[Pub. L. 113–79, title X][/us/pl/113/79/tX], § 10015, Feb. 7, 2014, [128 Stat. 952][/us/stat/128/952], provided that: 
 
 > “Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a][/us/usc/t21/s346a]) when assessing tolerances associated with residues from the pesticide.”
 
  __Tolerance Fees__ 
 
-[Pub. L. 108–199, div. G, title V, § 501(d)(2)][/us/pl/108/199/s501/d/2], Jan. 23, 2004, [118 Stat. 422][/us/stat/118/422], provided that: 
+[Pub. L. 108–199, div. G, title V][/us/pl/108/199/dG/tV], § 501(d)(2), Jan. 23, 2004, [118 Stat. 422][/us/stat/118/422], provided that: 
 
 > “Notwithstanding section 408(m)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a(m)(1)][/us/usc/t21/s346a/m/1]), during the period beginning on October 1, 2003, and ending on September 30, 2008, the Administrator of the Environmental Protection Agency shall not collect any tolerance fees under that section.”
 
  __Data Collection Activities To Assure Health of Infants and Children__ 
 
-[Pub. L. 104–170, title III, § 301][/us/pl/104/170/s301], Aug. 3, 1996, [110 Stat. 1511][/us/stat/110/1511], provided that:
+[Pub. L. 104–170, title III][/us/pl/104/170/tIII], § 301, Aug. 3, 1996, [110 Stat. 1511][/us/stat/110/1511], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -852,35 +852,35 @@
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/act/1938-06-25/ch675/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs408
-[/us/act/1954-07-22/ch559/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559%2Fs3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1954-07-22/ch559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559
 [/us/stat/68/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F511
-[/us/pl/85/791/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs20
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F947
-[/us/pl/91/515/s601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fd%2F1
+[/us/pl/91/515/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtVI
 [/us/stat/84/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1311
-[/us/pl/92/157/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs303%2Fa
+[/us/pl/92/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtIII
 [/us/stat/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F464
-[/us/pl/92/516/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs3%2F3
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F998
-[/us/pl/98/620/s402/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F25%2FA
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
-[/us/pl/102/300/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F1
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/102/571/s107/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F7
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
-[/us/pl/103/80/s3/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F776
-[/us/pl/104/170/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs405
+[/us/pl/104/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtIV
 [/us/stat/110/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1514
-[/us/pl/105/324/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F324%2Fs2%2Fb
+[/us/pl/105/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F324
 [/us/stat/112/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3036
-[/us/pl/110/94/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94%2Fs4%2Fd%2F2
+[/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/stat/121/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1002
-[/us/pl/112/177/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fa%2F3
+[/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/stat/126/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1329
 [/us/usc/t21/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346
-[/us/pl/86/618/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs103%2Fa%2F1
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
@@ -895,14 +895,14 @@
 [/us/pl/110/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F94
 [/us/pl/105/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F324
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
-[/us/pl/103/80/s3/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk%2F6
-[/us/pl/103/80/s3/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk%2F1
-[/us/pl/103/80/s3/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t5/s556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556%2Fc
-[/us/pl/103/80/s3/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk%2F3
-[/us/pl/103/80/s3/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk%2F4
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t21/s333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs333%2Fc
-[/us/pl/103/80/s3/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fk%2F5
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
@@ -911,9 +911,9 @@
 [/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/usc/t21/s376/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs376%2Fb%2F5%2FD
-[/us/pl/85/791/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs20%2Fa
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/85/791/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs20%2Fb
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/pl/112/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177
 [/us/pl/112/177/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F177%2Fs2%2Fc
@@ -928,13 +928,13 @@
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/113/79/s10015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10015
+[/us/pl/113/79/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtX
 [/us/stat/128/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F952
 [/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
-[/us/pl/108/199/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs501%2Fd%2F2
+[/us/pl/108/199/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtV
 [/us/stat/118/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F422
 [/us/usc/t21/s346a/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a%2Fm%2F1
-[/us/pl/104/170/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs301
+[/us/pl/104/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtIII
 [/us/stat/110/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1511
 
 

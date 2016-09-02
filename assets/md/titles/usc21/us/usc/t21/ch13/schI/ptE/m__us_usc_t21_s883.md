@@ -17,7 +17,7 @@
 
     Before any violation of this subchapter is reported by the Administrator of the Drug Enforcement Administration to any United States attorney for institution of a criminal proceeding, the Administrator may require that the person against whom such proceeding is contemplated is given appropriate notice and an opportunity to present his views, either orally or in writing, with regard to such contemplated proceeding.
 
-([Pub. L. 91–513, title II, § 513][/us/pl/91/513/s513], Oct. 27, 1970, [84 Stat. 1278][/us/stat/84/1278]; [Pub. L. 96–132, § 16(c)][/us/pl/96/132/s16/c], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 513, Oct. 27, 1970, [84 Stat. 1278][/us/stat/84/1278]; [Pub. L. 96–132][/us/pl/96/132], § 16(c), Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/513/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs513
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1278
-[/us/pl/96/132/s16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs16%2Fc
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1049
 [/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 

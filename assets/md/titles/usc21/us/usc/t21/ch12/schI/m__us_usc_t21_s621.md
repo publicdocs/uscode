@@ -17,7 +17,7 @@
 
     The Secretary shall appoint from time to time inspectors to make examination and inspection of all amenable species, inspection of which is hereby provided for and of all carcasses and parts thereof, and of all meats and meat food products thereof, and of the sanitary conditions of all establishments in which such meat and meat food products hereinbefore described are prepared; and said inspectors shall refuse to stamp, mark, tag, or label any carcass or any part thereof, or meat food product therefrom, prepared in any establishment hereinbefore mentioned, until the same shall have actually been inspected and found to be not adulterated; and shall perform such other duties as are provided by this chapter and by the rules and regulations to be prescribed by said Secretary; and said Secretary shall, from time to time, make such rules and regulations as are necessary for the efficient execution of the provisions of this chapter, and all inspections and examinations made under this chapter, shall be such and made in such manner as described in the rules and regulations prescribed by said Secretary not inconsistent with provisions of this chapter.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 21, formerly 19th par., [34 Stat. 1264][/us/stat/34/1264]; renumbered § 21 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(b), 12(a), (i), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592, 593; [Pub. L. 99–641, title IV, § 403(d)(2)][/us/pl/99/641/s403/d/2], Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570]; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 21, formerly 19th par., [34 Stat. 1264][/us/stat/34/1264]; renumbered § 21 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(b), 12(a), (i), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592, 593; [Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 403(d)(2), Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Effective and Termination Dates of 1986 Amendment__ 
 
-    [Pub. L. 99–641, title IV, § 403(d)(2)][/us/pl/99/641/s403/d/2], Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570], provided that the amendment made by that section is effective only during the 6-year period beginning on Nov. 10, 1986.
+    [Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 403(d)(2), Nov. 10, 1986, [100 Stat. 3570][/us/stat/100/3570], provided that the amendment made by that section is effective only during the 6-year period beginning on Nov. 10, 1986.
 
     Amendment by [Pub. L. 99–641][/us/pl/99/641] effective Nov. 10, 1986, except that this section as in effect immediately before Nov. 10, 1986, applies with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by [section 403(a) of Pub. L. 99–641][/us/pl/99/641/s403/a] to [section 606 of this title][/us/usc/t21/s606], see [section 408 of Pub. L. 99–641][/us/pl/99/641/s408], set out as a note under [section 609 of this title][/us/usc/t21/s609].
 
@@ -60,9 +60,9 @@
 [/us/stat/34/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1264
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/99/641/s403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fd%2F2
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3570
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/usc/t21/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs89
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
@@ -71,7 +71,7 @@
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/109/97/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798%2Fb
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
-[/us/pl/99/641/s403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fd%2F2
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3570
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/99/641/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs403%2Fa

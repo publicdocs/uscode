@@ -23,7 +23,7 @@
 
         Except as otherwise provided in this subchapter, notice shall be given and hearings shall be conducted under appropriate procedures of subchapter II of chapter 5 of title 5.
 
-([Pub. L. 91–513, title II, § 505][/us/pl/91/513/s505], Oct. 27, 1970, [84 Stat. 1272][/us/stat/84/1272].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 505, Oct. 27, 1970, [84 Stat. 1272][/us/stat/84/1272].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs505
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1272
 
 

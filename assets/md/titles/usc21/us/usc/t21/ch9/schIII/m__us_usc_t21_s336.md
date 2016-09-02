@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as requiring the Secretary to report for prosecution, or for the institution of libel or injunction proceedings, minor violations of this chapter whenever he believes that the public interest will be adequately served by a suitable written notice or warning.
 
-([June 25, 1938, ch. 675, § 309][/us/act/1938-06-25/ch675/s309], formerly § 306, [52 Stat. 1045][/us/stat/52/1045]; renumbered § 309, [Pub. L. 102–282, § 2][/us/pl/102/282/s2], May 13, 1992, [106 Stat. 150][/us/stat/106/150].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 309, formerly § 306, [52 Stat. 1045][/us/stat/52/1045]; renumbered § 309, [Pub. L. 102–282][/us/pl/102/282], § 2, May 13, 1992, [106 Stat. 150][/us/stat/106/150].)
 
  __Transfer of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs309
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1045
-[/us/pl/102/282/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs2
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F150
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 

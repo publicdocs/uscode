@@ -123,7 +123,7 @@
 
         Any transfer between pharmacies of information relating to a prescription for a controlled substance shall meet the applicable requirements under regulations promulgated by the Attorney General under this chapter.
 
-([Pub. L. 91–513, title II, § 311][/us/pl/91/513/s311], as added [Pub. L. 110–425, § 3(d)(1)][/us/pl/110/425/s3/d/1], Oct. 15, 2008, [122 Stat. 4825][/us/stat/122/4825].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 311, as added [Pub. L. 110–425][/us/pl/110/425], § 3(d)(1), Oct. 15, 2008, [122 Stat. 4825][/us/stat/122/4825].)
 
  __References in Text__ 
 
@@ -155,8 +155,8 @@
 [/us/usc/t21/s823/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823%2Ff
 [/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
 [/us/usc/t21/s802/54/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F54%2FF
-[/us/pl/91/513/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs311
-[/us/pl/110/425/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fd%2F1
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4825
 [/us/pl/91/513/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs309
 [/us/usc/t21/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs829

@@ -17,7 +17,7 @@
 
     [Section 853 of this title][/us/usc/t21/s853], relating to criminal forfeitures, shall apply in every respect to a violation of this subchapter punishable by imprisonment for more than one year.
 
-([Pub. L. 91–513, title III, § 1017][/us/pl/91/513/s1017], as added [Pub. L. 98–473, title II, § 307][/us/pl/98/473/s307], Oct. 12, 1984, [98 Stat. 2051][/us/stat/98/2051].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1017, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 307, Oct. 12, 1984, [98 Stat. 2051][/us/stat/98/2051].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/91/513/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1017
-[/us/pl/98/473/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs307
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2051
 
 

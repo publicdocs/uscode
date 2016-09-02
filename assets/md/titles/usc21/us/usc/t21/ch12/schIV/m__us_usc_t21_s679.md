@@ -23,7 +23,7 @@
 
         The detainer authority conferred by [section 672 of this title][/us/usc/t21/s672] shall apply to any authorized representative of the Secretary of Health and Human Services for purposes of the enforcement of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\] with respect to any carcass, part thereof, meat, or meat food product of cattle, sheep, swine, goats, or equines that is outside any premises at which inspection is being maintained under this chapter, and for such purposes the first reference to the Secretary in [section 672 of this title][/us/usc/t21/s672] shall be deemed to refer to the Secretary of Health and Human Services.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 409, as added [Pub. L. 90–201, § 16][/us/pl/90/201/s16], Dec. 15, 1967, [81 Stat. 600][/us/stat/81/600]; amended [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 111–31, div. A, title I, § 103][/us/pl/111/31/s103](o), June 22, 2009, [123 Stat. 1838][/us/stat/123/1838].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 409, as added [Pub. L. 90–201][/us/pl/90/201], § 16, Dec. 15, 1967, [81 Stat. 600][/us/stat/81/600]; amended [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(o), June 22, 2009, [123 Stat. 1838][/us/stat/123/1838].)
 
  __References in Text__ 
 
@@ -50,11 +50,11 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs672
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs16
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F600
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/111/31/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1838
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

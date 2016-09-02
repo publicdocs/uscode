@@ -17,7 +17,7 @@
 
     The word “consul” as used in this chapter shall mean the consular officer in charge of the district concerned.
 
-([Mar. 3, 1915, ch. 74, § 12][/us/act/1915-03-03/ch74/s12], [38 Stat. 822][/us/stat/38/822].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 12, [38 Stat. 822][/us/stat/38/822].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch74/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs12
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F822
 
 

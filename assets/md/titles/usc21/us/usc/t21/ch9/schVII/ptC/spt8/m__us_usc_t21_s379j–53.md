@@ -77,7 +77,7 @@
 
             Not later than January 15, 2017, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
-([June 25, 1938, ch. 675, § 744I][/us/act/1938-06-25/ch675/s744I], as added [Pub. L. 112–144, title IV, § 403][/us/pl/112/144/s403], July 9, 2012, [126 Stat. 1037][/us/stat/126/1037].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744I, as added [Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 403, July 9, 2012, [126 Stat. 1037][/us/stat/126/1037].)
 
  __Termination of Section__ 
 
@@ -89,7 +89,7 @@
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 112–144, title IV, § 404(b)][/us/pl/112/144/s404/b], July 9, 2012, [126 Stat. 1038][/us/stat/126/1038], provided that: 
+[Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 404(b), July 9, 2012, [126 Stat. 1038][/us/stat/126/1038], provided that: 
 
 > “Section 744I of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–53][/us/usc/t21/s379j–53]\], as added by section 403 of this Act, shall cease to be effective January 31, 2018.”
 
@@ -102,13 +102,13 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s744I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744I
-[/us/pl/112/144/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs403
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1037
 [/us/pl/112/144/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs404%2Fb
 [/us/pl/112/144/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs401%2Fb
 [/us/usc/t21/s379j–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9351
-[/us/pl/112/144/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs404%2Fb
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1038
 [/us/usc/t21/s379j–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353
 [/us/pl/112/144/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs405

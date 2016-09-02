@@ -39,7 +39,7 @@
 
         (2) in the Senate, the Committee on the Judiciary, the Committee on Commerce, Science, and Transportation, and the Caucus on International Narcotics Control.
 
-([Pub. L. 109–177, title VII, § 736][/us/pl/109/177/s736], Mar. 9, 2006, [120 Stat. 271][/us/stat/120/271].)
+([Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 736, Mar. 9, 2006, [120 Stat. 271][/us/stat/120/271].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/109/177/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs736
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F271
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

@@ -17,7 +17,7 @@
 
     The Commissioner of Food and Drugs shall consult with the Assistant Administrator of the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration to produce a report on any environmental risks associated with genetically engineered seafood products, including the impact on wild fish stocks.
 
-([Pub. L. 110–85, title X, § 1007][/us/pl/110/85/s1007], Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1007, Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1007
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F969
 
 

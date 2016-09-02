@@ -39,7 +39,7 @@
 
         The ex officio membership of the Advisory Commission shall consist of any two officers or employees of the United States that the Director determines to be necessary for the Advisory Commission to effectively carry out its functions.
 
-([Pub. L. 100–690, title I, § 1043][/us/pl/100/690/s1043], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 232][/us/stat/111/232].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1043, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 232][/us/stat/111/232].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/100/690/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1043
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F232
 
 

@@ -31,7 +31,7 @@
 
         (2) such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
 
-([Pub. L. 91–513, title II, § 514][/us/pl/91/513/s514], Oct. 27, 1970, [84 Stat. 1278][/us/stat/84/1278]; [Pub. L. 100–690, title VII, § 7020(f)][/us/pl/100/690/s7020/f], Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 514, Oct. 27, 1970, [84 Stat. 1278][/us/stat/84/1278]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7020(f), Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/91/513/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs514
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1278
-[/us/pl/100/690/s7020/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7020%2Ff
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4396
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

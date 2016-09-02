@@ -215,7 +215,7 @@
 
         The Secretary may exempt tobacco products intended for investigational use from the provisions of this subchapter under such conditions as the Secretary may by regulation prescribe.
 
-([June 25, 1938, ch. 675, § 910][/us/act/1938-06-25/ch675/s910], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1807][/us/stat/123/1807].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 910, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1807][/us/stat/123/1807].)
 
  __Prior Provisions__ 
 
@@ -243,8 +243,8 @@
 [/us/usc/t21/s387e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387e
 [/us/usc/t21/s387f/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387f%2Fe
 [/us/usc/t21/s387g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387g
-[/us/act/1938-06-25/ch675/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs910
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1807
 [/us/usc/t21/s399a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399a
 

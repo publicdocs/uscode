@@ -47,17 +47,17 @@
 
         Any person who violates subsection (a) of this section shall be subject to declaratory and injunctive remedies as set forth in [section 843(f) of this title][/us/usc/t21/s843/f].
 
-([Pub. L. 91–513, title II, § 416][/us/pl/91/513/s416], as added [Pub. L. 99–570, title I, § 1841(a)][/us/pl/99/570/s1841/a], Oct. 27, 1986, [100 Stat. 3207–52][/us/stat/100/3207-52]; amended [Pub. L. 106–310, div. B, title XXXVI, § 3613(e)][/us/pl/106/310/s3613/e], Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 108–21, title VI, § 608(b)(1)][/us/pl/108/21/s608/b/1], (2), (c), Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 416, as added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1841(a), Oct. 27, 1986, [100 Stat. 3207–52][/us/stat/100/3207-52]; amended [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3613(e), Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 608(b)(1), (2), (c), Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–21, § 608(b)(2)][/us/pl/108/21/s608/b/2], substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
+    2003—[Pub. L. 108–21][/us/pl/108/21], § 608(b)(2), substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 108–21, § 608(b)(1)(A)][/us/pl/108/21/s608/b/1/A], substituted “open, lease, rent, use, or maintain any place, whether permanently or temporarily,” for “open or maintain any place”.
+    Subsec. (a)(1). [Pub. L. 108–21][/us/pl/108/21], § 608(b)(1)(A), substituted “open, lease, rent, use, or maintain any place, whether permanently or temporarily,” for “open or maintain any place”.
 
-    Subsec. (a)(2). [Pub. L. 108–21, § 608(b)(1)(B)][/us/pl/108/21/s608/b/1/B], added par. (2) and struck out former par. (2) which read as follows: “manage or control any building, room, or enclosure, either as an owner, lessee, agent, employee, or mortgagee, and knowingly and intentionally rent, lease, or make available for use, with or without compensation, the building, room, or enclosure for the purpose of unlawfully manufacturing, storing, distributing, or using a controlled substance.”
+    Subsec. (a)(2). [Pub. L. 108–21][/us/pl/108/21], § 608(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “manage or control any building, room, or enclosure, either as an owner, lessee, agent, employee, or mortgagee, and knowingly and intentionally rent, lease, or make available for use, with or without compensation, the building, room, or enclosure for the purpose of unlawfully manufacturing, storing, distributing, or using a controlled substance.”
 
-    Subsecs. (d), (e). [Pub. L. 108–21, § 608(c)][/us/pl/108/21/s608/c], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 108–21][/us/pl/108/21], § 608(c), added subsecs. (d) and (e).
 
     2000—Subsec. (c). [Pub. L. 106–310][/us/pl/106/310] added subsec. (c).
 
@@ -70,17 +70,17 @@
 
 [/us/usc/t18/s3663A/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663A%2Fc%2F1%2FA%2Fii
 [/us/usc/t21/s843/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs843%2Ff
-[/us/pl/91/513/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs416
-[/us/pl/99/570/s1841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1841%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-52
-[/us/pl/106/310/s3613/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3613%2Fe
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1230
-[/us/pl/108/21/s608/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fb%2F1
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F691
-[/us/pl/108/21/s608/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fb%2F2
-[/us/pl/108/21/s608/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fb%2F1%2FA
-[/us/pl/108/21/s608/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fb%2F1%2FB
-[/us/pl/108/21/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fc
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 
 

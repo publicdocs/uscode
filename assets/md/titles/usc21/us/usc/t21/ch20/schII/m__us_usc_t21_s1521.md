@@ -41,11 +41,11 @@
 
     (8) Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate the reduction of substance abuse among youth in communities throughout the United States.
 
-([Pub. L. 100–690, title I, § 1021][/us/pl/100/690/s1021], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 224][/us/stat/111/224].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1021, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 224][/us/stat/111/224].)
 
  __Five-Year Extension of Drug-Free Communities Support Program__ 
 
-[Pub. L. 107–82, § 1(a)][/us/pl/107/82/s1/a], Dec. 14, 2001, [115 Stat. 814][/us/stat/115/814], provided that: 
+[Pub. L. 107–82][/us/pl/107/82], § 1(a), Dec. 14, 2001, [115 Stat. 814][/us/stat/115/814], provided that: 
 
 > “Congress makes the following findings:
 
@@ -145,7 +145,7 @@
 
  __Authorization for National Community Antidrug Coalition Institute__ 
 
-[Pub. L. 107–82, § 4][/us/pl/107/82/s4], Dec. 14, 2001, [115 Stat. 821][/us/stat/115/821], as amended by [Pub. L. 109–469, title VIII, § 805][/us/pl/109/469/s805], Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535], provided that:
+[Pub. L. 107–82][/us/pl/107/82], § 4, Dec. 14, 2001, [115 Stat. 821][/us/stat/115/821], as amended by [Pub. L. 109–469, title VIII][/us/pl/109/469/tVIII], § 805, Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -175,7 +175,7 @@
 
  __Prohibition Against Duplication of Effort__ 
 
-[Pub. L. 107–82, § 5][/us/pl/107/82/s5], Dec. 14, 2001, [115 Stat. 821][/us/stat/115/821], provided that: 
+[Pub. L. 107–82][/us/pl/107/82], § 5, Dec. 14, 2001, [115 Stat. 821][/us/stat/115/821], provided that: 
 
 > “The Director of the Office of National Drug Control Policy shall ensure that the same or similar activities are not carried out, through the use of funds for administrative costs provided under subchapter II \[probably means chapter 2\] of the National Narcotics Leadership Act of 1988 ([21 U.S.C. 1521][/us/usc/t21/s1521] et seq.) or funds provided under section 4 of this Act \[set out as a note above\], by more than one recipient of such funds.”
 
@@ -186,16 +186,16 @@
 ----------
 ----------
 
-[/us/pl/100/690/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1021
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F224
-[/us/pl/107/82/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fa
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F814
-[/us/pl/107/82/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs4
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F821
-[/us/pl/109/469/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs805
+[/us/pl/109/469/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtVIII
 [/us/stat/120/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3535
-[/us/pl/107/82/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs5
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F821
 [/us/usc/t21/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1521
 

@@ -41,7 +41,7 @@
 
         Not later than one year after August 23, 1988, the Secretary of Health and Human Services shall report to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives on the activities undertaken by the Secretary to implement this section. The report shall be made available to appropriate Federal and State agencies and to interested persons.
 
-([Pub. L. 100–418, title IV, § 4703][/us/pl/100/418/s4703], Aug. 23, 1988, [102 Stat. 1413][/us/stat/102/1413].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4703, Aug. 23, 1988, [102 Stat. 1413][/us/stat/102/1413].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/100/418/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4703
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1413
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

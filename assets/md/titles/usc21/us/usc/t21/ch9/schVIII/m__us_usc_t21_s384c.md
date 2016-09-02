@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law, food shall be refused admission into the United States if it is from a foreign factory, warehouse, or other establishment of which the owner, operator, or agent in charge, or the government of the foreign country, refuses to permit entry of United States inspectors or other individuals duly designated by the Secretary, upon request, to inspect such factory, warehouse, or other establishment. For purposes of this subsection, such an owner, operator, or agent in charge shall be considered to have refused an inspection if such owner, operator, or agent in charge does not permit an inspection of a factory, warehouse, or other establishment during the 24-hour period after such request is submitted, or after such other time period, as agreed upon by the Secretary and the foreign factory, warehouse, or other establishment.
 
-([June 25, 1938, ch. 675, § 807][/us/act/1938-06-25/ch675/s807], as added [Pub. L. 111–353, title III, § 306(a)][/us/pl/111/353/s306/a], Jan. 4, 2011, [124 Stat. 3958][/us/stat/124/3958].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 807, as added [Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 306(a), Jan. 4, 2011, [124 Stat. 3958][/us/stat/124/3958].)
 
  __Construction__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
-[/us/act/1938-06-25/ch675/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs807
-[/us/pl/111/353/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs306%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3958
 
 

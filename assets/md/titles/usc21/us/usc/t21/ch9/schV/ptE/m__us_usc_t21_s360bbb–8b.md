@@ -23,7 +23,7 @@
 
         If the Secretary finds under subsection (a) that the data from clinical investigations conducted outside the United States, including in the European Union, are inadequate for the purpose of making a determination on approval, clearance, or licensure of a drug or device pursuant to an application submitted under this subchapter, the Secretary shall provide written notice to the sponsor of the application of such finding and include the rationale for such finding.
 
-([June 25, 1938, ch. 675, § 569B][/us/act/1938-06-25/ch675/s569B], as added [Pub. L. 112–144, title XI, § 1123][/us/pl/112/144/s1123], July 9, 2012, [126 Stat. 1113][/us/stat/126/1113].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 569B, as added [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1123, July 9, 2012, [126 Stat. 1113][/us/stat/126/1113].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s569B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs569B
-[/us/pl/112/144/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1123
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1113
 
 

@@ -259,105 +259,105 @@
 
         (14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in [section 383(b) of this title][/us/usc/t21/s383/b] between the Secretary and a foreign country.
 
-([June 25, 1938, ch. 675, § 704][/us/act/1938-06-25/ch675/s704], [52 Stat. 1057][/us/stat/52/1057]; [Aug. 7, 1953, ch. 350, § 1][/us/act/1953-08-07/ch350/s1], [67 Stat. 476][/us/stat/67/476]; [Pub. L. 87–781, title II, § 201(a)][/us/pl/87/781/s201/a], (b), Oct. 10, 1962, [76 Stat. 792][/us/stat/76/792], 793; [Pub. L. 94–295, § 6][/us/pl/94/295/s6], May 28, 1976, [90 Stat. 581][/us/stat/90/581]; [Pub. L. 96–359, § 4][/us/pl/96/359/s4], Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193]; [Pub. L. 103–80, § 3(aa)][/us/pl/103/80/s3/aa], Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 105–115, title I, § 125(b)(2)(L)][/us/pl/105/115/s125/b/2/L], title II, § 210(b), title IV, § 412(b), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326], 2344, 2375; [Pub. L. 107–188, title III, § 306(b)][/us/pl/107/188/s306/b], June 12, 2002, [116 Stat. 670][/us/stat/116/670]; [Pub. L. 107–250, title II, § 201(a)][/us/pl/107/250/s201/a], (b), Oct. 26, 2002, [116 Stat. 1602][/us/stat/116/1602], 1609; [Pub. L. 108–214, § 2(b)(1)][/us/pl/108/214/s2/b/1], Apr. 1, 2004, [118 Stat. 573][/us/stat/118/573]; [Pub. L. 110–85, title II, § 228][/us/pl/110/85/s228], Sept. 27, 2007, [121 Stat. 855][/us/stat/121/855]; [Pub. L. 111–31, div. A, title I, § 103(i)][/us/pl/111/31/s103/i], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–353, title I, § 101(b)][/us/pl/111/353/s101/b], Jan. 4, 2011, [124 Stat. 3887][/us/stat/124/3887]; [Pub. L. 112–144, title VI, § 612][/us/pl/112/144/s612], title VII, § 706, July 9, 2012, [126 Stat. 1060][/us/stat/126/1060], 1067.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 704, [52 Stat. 1057][/us/stat/52/1057]; [Aug. 7, 1953, ch. 350][/us/act/1953-08-07/ch350], § 1, [67 Stat. 476][/us/stat/67/476]; [Pub. L. 87–781, title II][/us/pl/87/781/tII], § 201(a), (b), Oct. 10, 1962, [76 Stat. 792][/us/stat/76/792], 793; [Pub. L. 94–295][/us/pl/94/295], § 6, May 28, 1976, [90 Stat. 581][/us/stat/90/581]; [Pub. L. 96–359][/us/pl/96/359], § 4, Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193]; [Pub. L. 103–80][/us/pl/103/80], § 3(aa), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(L), title II, § 210(b), title IV, § 412(b), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326], 2344, 2375; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 306(b), June 12, 2002, [116 Stat. 670][/us/stat/116/670]; [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 201(a), (b), Oct. 26, 2002, [116 Stat. 1602][/us/stat/116/1602], 1609; [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1), Apr. 1, 2004, [118 Stat. 573][/us/stat/118/573]; [Pub. L. 110–85, title II][/us/pl/110/85/tII], § 228, Sept. 27, 2007, [121 Stat. 855][/us/stat/121/855]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(i), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 101(b), Jan. 4, 2011, [124 Stat. 3887][/us/stat/124/3887]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 612, title VII, § 706, July 9, 2012, [126 Stat. 1060][/us/stat/126/1060], 1067.)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(4). [Pub. L. 112–144, § 706][/us/pl/112/144/s706], added par. (4).
+    2012—Subsec. (a)(4). [Pub. L. 112–144][/us/pl/112/144], § 706, added par. (4).
 
-    Subsec. (g)(11). [Pub. L. 112–144, § 612][/us/pl/112/144/s612], substituted “October 1, 2017” for “October 1, 2012”.
+    Subsec. (g)(11). [Pub. L. 112–144][/us/pl/112/144], § 612, substituted “October 1, 2017” for “October 1, 2012”.
 
     2011—Subsec. (a)(1). [Pub. L. 111–353][/us/pl/111/353], which directed the amendment of subsec. (a)(1)(B) by substituting “[section 350c of this title][/us/usc/t21/s350c], when the standard for records inspection under paragraph (1) or (2) of [section 350c(a) of this title][/us/usc/t21/s350c/a] applies, subject to” for “[section 350c of this title][/us/usc/t21/s350c] when” and all that follows through “subject to”, was executed by making the substitution for “[section 350c of this title][/us/usc/t21/s350c] when the Secretary has a reasonable belief that an article of food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, subject to” in the sentence following subpar. (B) of subsec. (a)(1), to reflect the probable intent of Congress.
 
-    2009—Subsec. (a)(1). [Pub. L. 111–31, § 103(i)(1)(C)][/us/pl/111/31/s103/i/1/C], substituted “devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) of this title, [section 360i of this title][/us/usc/t21/s360i], [section 360j(g) of this title][/us/usc/t21/s360j/g], or subchapter IX and data relating to other drugs, devices, or tobacco products” for “and devices and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) section 360i, or 360j(g) of this title, and data relating to other drugs or devices”.
+    2009—Subsec. (a)(1). [Pub. L. 111–31][/us/pl/111/31], § 103(i)(1)(C), substituted “devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) of this title, [section 360i of this title][/us/usc/t21/s360i], [section 360j(g) of this title][/us/usc/t21/s360j/g], or subchapter IX and data relating to other drugs, devices, or tobacco products” for “and devices and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) section 360i, or 360j(g) of this title, and data relating to other drugs or devices”.
 
-    [Pub. L. 111–31, § 103(i)(1)(B)][/us/pl/111/31/s103/i/1/B], substituted “restricted devices, or tobacco products” for “or restricted devices” in two places.
+    [Pub. L. 111–31][/us/pl/111/31], § 103(i)(1)(B), substituted “restricted devices, or tobacco products” for “or restricted devices” in two places.
 
-    Subsec. (a)(1)(A). [Pub. L. 111–31, § 103(i)(1)(A)][/us/pl/111/31/s103/i/1/A], substituted “devices, tobacco products, or cosmetics” for “devices, or cosmetics” in two places.
+    Subsec. (a)(1)(A). [Pub. L. 111–31][/us/pl/111/31], § 103(i)(1)(A), substituted “devices, tobacco products, or cosmetics” for “devices, or cosmetics” in two places.
 
-    Subsec. (b). [Pub. L. 111–31, § 103(i)(2)][/us/pl/111/31/s103/i/2], inserted “tobacco product,” after “device,”.
+    Subsec. (b). [Pub. L. 111–31][/us/pl/111/31], § 103(i)(2), inserted “tobacco product,” after “device,”.
 
-    Subsec. (g)(13). [Pub. L. 111–31, § 103(i)(3)][/us/pl/111/31/s103/i/3], made technical amendment to reference in original act which appears in text as reference to [section 393(g) of this title][/us/usc/t21/s393/g].
+    Subsec. (g)(13). [Pub. L. 111–31][/us/pl/111/31], § 103(i)(3), made technical amendment to reference in original act which appears in text as reference to [section 393(g) of this title][/us/usc/t21/s393/g].
 
-    2007—Subsec. (g)(1). [Pub. L. 110–85, § 228(1)][/us/pl/110/85/s228/1], substituted “The Secretary” for “Not later than one year after October 26, 2002, the Secretary”.
+    2007—Subsec. (g)(1). [Pub. L. 110–85][/us/pl/110/85], § 228(1), substituted “The Secretary” for “Not later than one year after October 26, 2002, the Secretary”.
 
-    Subsec. (g)(2). [Pub. L. 110–85, § 228(2)][/us/pl/110/85/s228/2], substituted “The Secretary” for “Not later than 180 days after October 26, 2002, the Secretary” and struck out at end “In the first year following the publication in the Federal Register of criteria to accredit or deny accreditation to persons who request to perform the duties specified in paragraph (1), the Secretary shall accredit no more than 15 persons who request to perform duties specified in paragraph (1).”
+    Subsec. (g)(2). [Pub. L. 110–85][/us/pl/110/85], § 228(2), substituted “The Secretary” for “Not later than 180 days after October 26, 2002, the Secretary” and struck out at end “In the first year following the publication in the Federal Register of criteria to accredit or deny accreditation to persons who request to perform the duties specified in paragraph (1), the Secretary shall accredit no more than 15 persons who request to perform duties specified in paragraph (1).”
 
-    Subsec. (g)(3)(F), (G). [Pub. L. 110–85, § 228(3)][/us/pl/110/85/s228/3], added subpars. (F) and (G).
+    Subsec. (g)(3)(F), (G). [Pub. L. 110–85][/us/pl/110/85], § 228(3), added subpars. (F) and (G).
 
-    Subsec. (g)(6). [Pub. L. 110–85, § 228(4)][/us/pl/110/85/s228/4], amended par. (6) generally, revising and restating provisions of former subpars. (A) to (C).
+    Subsec. (g)(6). [Pub. L. 110–85][/us/pl/110/85], § 228(4), amended par. (6) generally, revising and restating provisions of former subpars. (A) to (C).
 
-    Subsec. (g)(7)(A). [Pub. L. 110–85, § 228(5)(A)][/us/pl/110/85/s228/5/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “Persons accredited under paragraph (2) to conduct inspections shall record in writing their inspection observations and shall present the observations to the device establishment’s designated representative and describe each observation. Additionally, such accredited person shall prepare an inspection report (including for inspections classified as ‘no action indicated’) in a form and manner consistent with such reports prepared by employees and officials designated by the Secretary to conduct inspections.”
+    Subsec. (g)(7)(A). [Pub. L. 110–85][/us/pl/110/85], § 228(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Persons accredited under paragraph (2) to conduct inspections shall record in writing their inspection observations and shall present the observations to the device establishment’s designated representative and describe each observation. Additionally, such accredited person shall prepare an inspection report (including for inspections classified as ‘no action indicated’) in a form and manner consistent with such reports prepared by employees and officials designated by the Secretary to conduct inspections.”
 
-    Subsec. (g)(7)(F). [Pub. L. 110–85, § 228(5)(B)][/us/pl/110/85/s228/5/B], added subpar. (F).
+    Subsec. (g)(7)(F). [Pub. L. 110–85][/us/pl/110/85], § 228(5)(B), added subpar. (F).
 
-    Subsec. (g)(10)(C)(iii). [Pub. L. 110–85, § 228(6)][/us/pl/110/85/s228/6], substituted “base amount applicable” for “based amount applicable”.
+    Subsec. (g)(10)(C)(iii). [Pub. L. 110–85][/us/pl/110/85], § 228(6), substituted “base amount applicable” for “based amount applicable”.
 
-    2004—Subsec. (g)(1). [Pub. L. 108–214, § 2(b)(1)(A)][/us/pl/108/214/s2/b/1/A], in first sentence, substituted “conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under [section 360(h) of this title][/us/usc/t21/s360/h] or are inspections of such establishments required to register under [section 360(i) of this title][/us/usc/t21/s360/i].” for “conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in [section 360(h) of this title][/us/usc/t21/s360/h], or inspections of such establishments required to register pursuant to [section 360(i) of this title][/us/usc/t21/s360/i].”
+    2004—Subsec. (g)(1). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(A), in first sentence, substituted “conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under [section 360(h) of this title][/us/usc/t21/s360/h] or are inspections of such establishments required to register under [section 360(i) of this title][/us/usc/t21/s360/i].” for “conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in [section 360(h) of this title][/us/usc/t21/s360/h], or inspections of such establishments required to register pursuant to [section 360(i) of this title][/us/usc/t21/s360/i].”
 
-    Subsec. (g)(5)(B). [Pub. L. 108–214, § 2(b)(1)(B)][/us/pl/108/214/s2/b/1/B], in first sentence, substituted “poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection.” for “or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this subsection.”
+    Subsec. (g)(5)(B). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(B), in first sentence, substituted “poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection.” for “or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this subsection.”
 
-    Subsec. (g)(6)(A)(i). [Pub. L. 108–214, § 2(b)(1)(C)(i)][/us/pl/108/214/s2/b/1/C/i], substituted “described in paragraph (1)” for “of the establishment pursuant to subsection (h) or (i) of [section 360 of this title][/us/usc/t21/s360]”.
+    Subsec. (g)(6)(A)(i). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(i), substituted “described in paragraph (1)” for “of the establishment pursuant to subsection (h) or (i) of [section 360 of this title][/us/usc/t21/s360]”.
 
-    Subsec. (g)(6)(A)(ii). [Pub. L. 108–214, § 2(b)(1)(C)(ii)(I)][/us/pl/108/214/s2/b/1/C/ii/I], substituted “inspections” for “each inspection” and inserted “during a 2-year period” after “person” in introductory provisions.
+    Subsec. (g)(6)(A)(ii). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(ii)(I), substituted “inspections” for “each inspection” and inserted “during a 2-year period” after “person” in introductory provisions.
 
-    Subsec. (g)(6)(A)(ii)(I). [Pub. L. 108–214, § 2(b)(1)(C)(ii)(II)][/us/pl/108/214/s2/b/1/C/ii/II], substituted “an accredited person” for “such a person”.
+    Subsec. (g)(6)(A)(ii)(I). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(ii)(II), substituted “an accredited person” for “such a person”.
 
-    Subsec. (g)(6)(A)(iii). [Pub. L. 108–214, § 2(b)(1)(C)(iii)(I)][/us/pl/108/214/s2/b/1/C/iii/I], substituted “and 1 or both of the following additional conditions are met:” for “and the following additional conditions are met:” in introductory provisions.
+    Subsec. (g)(6)(A)(iii). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(iii)(I), substituted “and 1 or both of the following additional conditions are met:” for “and the following additional conditions are met:” in introductory provisions.
 
-    Subsec. (g)(6)(A)(iii)(I). [Pub. L. 108–214, § 2(b)(1)(C)(iii)(II)][/us/pl/108/214/s2/b/1/C/iii/II], substituted “(accredited under paragraph (2) and identified under clause (ii)(II)) as a person authorized to conduct such inspections of device establishments.” for “accredited under paragraph (2) and identified under subclause (II) of this clause.”
+    Subsec. (g)(6)(A)(iii)(I). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(iii)(II), substituted “(accredited under paragraph (2) and identified under clause (ii)(II)) as a person authorized to conduct such inspections of device establishments.” for “accredited under paragraph (2) and identified under subclause (II) of this clause.”
 
-    Subsec. (g)(6)(A)(iii)(II). [Pub. L. 108–214, § 2(b)(1)(C)(iii)(III)][/us/pl/108/214/s2/b/1/C/iii/III], inserted “or by a person accredited under paragraph (2)” after “by the Secretary”.
+    Subsec. (g)(6)(A)(iii)(II). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(iii)(III), inserted “or by a person accredited under paragraph (2)” after “by the Secretary”.
 
-    Subsec. (g)(6)(A)(iv)(I). [Pub. L. 108–214, § 2(b)(1)(C)(iv)][/us/pl/108/214/s2/b/1/C/iv], in first sentence, inserted “section” after “pursuant to” and substituted “inspections of the establishment during the previous 4 years” for “the two immediately preceding inspections of the establishment”, in third sentence, struck out “the petition states a commercial reason for the waiver;” after “granted only if” and inserted “not” after “the Secretary has not determined that the public health would”, and, in last sentence, substituted “granted or deemed to be granted until” for “granted until”.
+    Subsec. (g)(6)(A)(iv)(I). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(iv), in first sentence, inserted “section” after “pursuant to” and substituted “inspections of the establishment during the previous 4 years” for “the two immediately preceding inspections of the establishment”, in third sentence, struck out “the petition states a commercial reason for the waiver;” after “granted only if” and inserted “not” after “the Secretary has not determined that the public health would”, and, in last sentence, substituted “granted or deemed to be granted until” for “granted until”.
 
-    Subsec. (g)(6)(A)(iv)(II). [Pub. L. 108–214, § 2(b)(1)(C)(v)][/us/pl/108/214/s2/b/1/C/v], inserted “of a device establishment required to register” after “to be conducted” and “section” after “pursuant to”.
+    Subsec. (g)(6)(A)(iv)(II). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(C)(v), inserted “of a device establishment required to register” after “to be conducted” and “section” after “pursuant to”.
 
-    Subsec. (g)(6)(B)(iii). [Pub. L. 108–214, § 2(b)(1)(D)][/us/pl/108/214/s2/b/1/D], in first sentence, substituted “and with other” for “, and data otherwise describing whether the establishment has consistently been in compliance with sections 351 and 352 of this title and other” and, in second sentence, substituted “inspectional findings” for “inspections” and inserted “relevant” after “together with all other”.
+    Subsec. (g)(6)(B)(iii). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(D), in first sentence, substituted “and with other” for “, and data otherwise describing whether the establishment has consistently been in compliance with sections 351 and 352 of this title and other” and, in second sentence, substituted “inspectional findings” for “inspections” and inserted “relevant” after “together with all other”.
 
-    Subsec. (g)(6)(B)(iv). [Pub. L. 108–214, § 2(b)(1)(E)][/us/pl/108/214/s2/b/1/E], designated existing provisions as subcl. (I) and added subcl. (II).
+    Subsec. (g)(6)(B)(iv). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(E), designated existing provisions as subcl. (I) and added subcl. (II).
 
-    Subsec. (g)(6)(C)(ii). [Pub. L. 108–214, § 2(b)(1)(F)][/us/pl/108/214/s2/b/1/F], struck out “in accordance with [section 360(h) of this title][/us/usc/t21/s360/h], or has not during such period been inspected pursuant to [section 360(i) of this title][/us/usc/t21/s360/i], as applicable” after “inspected by the Secretary”.
+    Subsec. (g)(6)(C)(ii). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(F), struck out “in accordance with [section 360(h) of this title][/us/usc/t21/s360/h], or has not during such period been inspected pursuant to [section 360(i) of this title][/us/usc/t21/s360/i], as applicable” after “inspected by the Secretary”.
 
-    Subsec. (g)(10)(B)(iii). [Pub. L. 108–214, § 2(b)(1)(G)][/us/pl/108/214/s2/b/1/G], substituted “a report” for “a reporting”.
+    Subsec. (g)(10)(B)(iii). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(G), substituted “a report” for “a reporting”.
 
-    Subsec. (g)(12)(A). [Pub. L. 108–214, § 2(b)(1)(H)(i)][/us/pl/108/214/s2/b/1/H/i], added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of inspections pursuant to subsections (h) and (i) of [section 360 of this title][/us/usc/t21/s360] conducted by accredited persons and the number of inspections pursuant to such subsections conducted by Federal employees;”.
+    Subsec. (g)(12)(A). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(H)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of inspections pursuant to subsections (h) and (i) of [section 360 of this title][/us/usc/t21/s360] conducted by accredited persons and the number of inspections pursuant to such subsections conducted by Federal employees;”.
 
-    Subsec. (g)(12)(E). [Pub. L. 108–214, § 2(b)(1)(H)(ii)][/us/pl/108/214/s2/b/1/H/ii], substituted “obtained by the Secretary pursuant to inspections conducted by Federal employees;” for “obtained by the Secretary pursuant to subsection (h) or (i) of [section 360 of this title][/us/usc/t21/s360];”.
+    Subsec. (g)(12)(E). [Pub. L. 108–214][/us/pl/108/214], § 2(b)(1)(H)(ii), substituted “obtained by the Secretary pursuant to inspections conducted by Federal employees;” for “obtained by the Secretary pursuant to subsection (h) or (i) of [section 360 of this title][/us/usc/t21/s360];”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–188, § 306(b)(1)][/us/pl/107/188/s306/b/1], inserted after first sentence “In the case of any person (excluding farms and restaurants) who manufactures, processes, packs, transports, distributes, holds, or imports foods, the inspection shall extend to all records and other information described in [section 350c of this title][/us/usc/t21/s350c] when the Secretary has a reasonable belief that an article of food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, subject to the limitations established in [section 350c(d) of this title][/us/usc/t21/s350c/d].”
+    2002—Subsec. (a)(1). [Pub. L. 107–188][/us/pl/107/188], § 306(b)(1), inserted after first sentence “In the case of any person (excluding farms and restaurants) who manufactures, processes, packs, transports, distributes, holds, or imports foods, the inspection shall extend to all records and other information described in [section 350c of this title][/us/usc/t21/s350c] when the Secretary has a reasonable belief that an article of food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, subject to the limitations established in [section 350c(d) of this title][/us/usc/t21/s350c/d].”
 
-    Subsec. (a)(2). [Pub. L. 107–188, § 306(b)(2)][/us/pl/107/188/s306/b/2], substituted “third sentence” for “second sentence” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 107–188][/us/pl/107/188], § 306(b)(2), substituted “third sentence” for “second sentence” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 107–250, § 201(b)(1)][/us/pl/107/250/s201/b/1], in first sentence, substituted “An accredited person described in paragraph (3) shall maintain records” for “A person accredited under [section 360m of this title][/us/usc/t21/s360m] to review reports made under [section 360(k) of this title][/us/usc/t21/s360/k] and make recommendations of initial classifications of devices to the Secretary shall maintain records”.
+    Subsec. (f)(1). [Pub. L. 107–250][/us/pl/107/250], § 201(b)(1), in first sentence, substituted “An accredited person described in paragraph (3) shall maintain records” for “A person accredited under [section 360m of this title][/us/usc/t21/s360m] to review reports made under [section 360(k) of this title][/us/usc/t21/s360/k] and make recommendations of initial classifications of devices to the Secretary shall maintain records”.
 
-    Subsec. (f)(2). [Pub. L. 107–250, § 201(b)(2)][/us/pl/107/250/s201/b/2], substituted “an accredited person described in paragraph (3)” for “a person accredited under [section 360m of this title][/us/usc/t21/s360m]”.
+    Subsec. (f)(2). [Pub. L. 107–250][/us/pl/107/250], § 201(b)(2), substituted “an accredited person described in paragraph (3)” for “a person accredited under [section 360m of this title][/us/usc/t21/s360m]”.
 
-    Subsec. (f)(3). [Pub. L. 107–250, § 201(b)(3)][/us/pl/107/250/s201/b/3], added par. (3).
+    Subsec. (f)(3). [Pub. L. 107–250][/us/pl/107/250], § 201(b)(3), added par. (3).
 
-    Subsec. (g). [Pub. L. 107–250, § 201(a)][/us/pl/107/250/s201/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–250][/us/pl/107/250], § 201(a), added subsec. (g).
 
-    1997—Subsec. (a)(1). [Pub. L. 105–115, § 412(b)][/us/pl/105/115/s412/b], substituted “prescription drugs, nonprescription drugs intended for human use,” for “prescription drugs” in two places.
+    1997—Subsec. (a)(1). [Pub. L. 105–115][/us/pl/105/115], § 412(b), substituted “prescription drugs, nonprescription drugs intended for human use,” for “prescription drugs” in two places.
 
-    [Pub. L. 105–115, § 125(b)(2)(L)][/us/pl/105/115/s125/b/2/L], struck out “, section 357(d) or (g),” before “section 360i”.
+    [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(L), struck out “, section 357(d) or (g),” before “section 360i”.
 
-    Subsec. (f). [Pub. L. 105–115, § 210(b)][/us/pl/105/115/s210/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–115][/us/pl/105/115], § 210(b), added subsec. (f).
 
     1993—Subsec. (a)(1). [Pub. L. 103–80][/us/pl/103/80] substituted a comma for semicolon after “finished and unfinished materials” and “section 355(i) or (k)” for “section 355(i) or (j)”.
 
-    1980—Subsec. (a)(1). [Pub. L. 96–359, § 4(1)][/us/pl/96/359/s4/1], (2), restructured first five sentences of former subsec. (a) as par. (1) and, as so restructured, inserted reference to paragraph (3) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively.
+    1980—Subsec. (a)(1). [Pub. L. 96–359][/us/pl/96/359], § 4(1), (2), restructured first five sentences of former subsec. (a) as par. (1) and, as so restructured, inserted reference to paragraph (3) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively.
 
-    Subsec. (a)(2). [Pub. L. 96–359, § 4(3)][/us/pl/96/359/s4/3], redesignated sixth sentence of former subsec. (a) as par. (2) and, as so redesignated, substituted reference to second sentence of paragraph (1) for reference to former second sentence of this subsection, and “(A)”, “(B)”, “(C)”, and “(D)”, for “(1)”, “(2)”, “(3)”, and “(4)”, respectively.
+    Subsec. (a)(2). [Pub. L. 96–359][/us/pl/96/359], § 4(3), redesignated sixth sentence of former subsec. (a) as par. (2) and, as so redesignated, substituted reference to second sentence of paragraph (1) for reference to former second sentence of this subsection, and “(A)”, “(B)”, “(C)”, and “(D)”, for “(1)”, “(2)”, “(3)”, and “(4)”, respectively.
 
-    Subsec. (a)(3). [Pub. L. 96–359, § 4(4)][/us/pl/96/359/s4/4], added par. (3).
+    Subsec. (a)(3). [Pub. L. 96–359][/us/pl/96/359], § 4(4), added par. (3).
 
-    1976—Subsec. (a). [Pub. L. 94–295, § 6(a)][/us/pl/94/295/s6/a]–(c), expanded existing provisions to encompass medical devices by inserting references to factories, warehouses, establishments, and consulting laboratories in which restricted devices are manufactured, processed, packed, or held, inspections relating to devices, reporting and inspection regulations issued pursuant to sections 360i and 360j(g) of this title, and the manufacture and processing of devices.
+    1976—Subsec. (a). [Pub. L. 94–295][/us/pl/94/295], § 6(a)–(c), expanded existing provisions to encompass medical devices by inserting references to factories, warehouses, establishments, and consulting laboratories in which restricted devices are manufactured, processed, packed, or held, inspections relating to devices, reporting and inspection regulations issued pursuant to sections 360i and 360j(g) of this title, and the manufacture and processing of devices.
 
-    Subsec. (e). [Pub. L. 94–295, § 6(d)][/us/pl/94/295/s6/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 94–295][/us/pl/94/295], § 6(d), added subsec. (e).
 
-    1962—Subsec. (a). [Pub. L. 87–781, § 201(a)][/us/pl/87/781/s201/a], extended the inspection, where prescription drugs are manufactured, processed, packed, or held, to all things bearing on whether adulterated or misbranded drugs, or any which may not be manufactured, introduced in interstate commerce, or sold or offered for sale under any provision of this chapter, have been or are being manufactured, processed, packed, transported or held in any such place, or otherwise bearing on violation of this chapter, but excluded from such inspection, data concerning finance, sales other than shipment, pricing, personnel other than qualifications of technical and professional personnel, research other than relating to new drugs subject to reporting, provided that provisions of second sentence of this subsection shall be inapplicable to pharmacies, practitioners and other persons enumerated in pars. (1) to (4), and struck out “are held” before “after such introduction”.
+    1962—Subsec. (a). [Pub. L. 87–781][/us/pl/87/781], § 201(a), extended the inspection, where prescription drugs are manufactured, processed, packed, or held, to all things bearing on whether adulterated or misbranded drugs, or any which may not be manufactured, introduced in interstate commerce, or sold or offered for sale under any provision of this chapter, have been or are being manufactured, processed, packed, transported or held in any such place, or otherwise bearing on violation of this chapter, but excluded from such inspection, data concerning finance, sales other than shipment, pricing, personnel other than qualifications of technical and professional personnel, research other than relating to new drugs subject to reporting, provided that provisions of second sentence of this subsection shall be inapplicable to pharmacies, practitioners and other persons enumerated in pars. (1) to (4), and struck out “are held” before “after such introduction”.
 
-    Subsec. (b). [Pub. L. 87–781, § 201(b)][/us/pl/87/781/s201/b], inserted “consulting laboratory” after “warehouse”.
+    Subsec. (b). [Pub. L. 87–781][/us/pl/87/781], § 201(b), inserted “consulting laboratory” after “warehouse”.
 
     1953—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspection shall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
 
@@ -379,7 +379,7 @@
 
  __Authority of Secretary Prior to__  __October 10, 1962__ 
 
-[Pub. L. 87–781, title II, § 201(d)][/us/pl/87/781/s201/d], Oct. 10, 1962, [76 Stat. 793][/us/stat/76/793], provided that: 
+[Pub. L. 87–781, title II][/us/pl/87/781/tII], § 201(d), Oct. 10, 1962, [76 Stat. 793][/us/stat/76/793], provided that: 
 
 > “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed to negate or derogate from any authority of the Secretary existing prior to the enactment of this Act \[Oct. 10, 1962\].”
 
@@ -409,103 +409,103 @@
 [/us/usc/t21/s360/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fi
 [/us/usc/t21/s393/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs393%2Fg
 [/us/usc/t21/s383/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs383%2Fb
-[/us/act/1938-06-25/ch675/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs704
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1057
-[/us/act/1953-08-07/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch350%2Fs1
+[/us/act/1953-08-07/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch350
 [/us/stat/67/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F476
-[/us/pl/87/781/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs201%2Fa
+[/us/pl/87/781/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtII
 [/us/stat/76/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F792
-[/us/pl/94/295/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs6
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F581
-[/us/pl/96/359/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs4
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1193
-[/us/pl/103/80/s3/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Faa
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
-[/us/pl/105/115/s125/b/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FL
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2326
-[/us/pl/107/188/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs306%2Fb
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F670
-[/us/pl/107/250/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs201%2Fa
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1602
-[/us/pl/108/214/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/stat/118/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F573
-[/us/pl/110/85/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F855
-[/us/pl/111/31/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fi
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
-[/us/pl/111/353/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs101%2Fb
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3887
-[/us/pl/112/144/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs612
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1060
-[/us/pl/112/144/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs706
-[/us/pl/112/144/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs612
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s350c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c
 [/us/usc/t21/s350c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c%2Fa
 [/us/usc/t21/s350c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c
 [/us/usc/t21/s350c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c
-[/us/pl/111/31/s103/i/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fi%2F1%2FC
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s360i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360i
 [/us/usc/t21/s360j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fg
-[/us/pl/111/31/s103/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fi%2F1%2FB
-[/us/pl/111/31/s103/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fi%2F1%2FA
-[/us/pl/111/31/s103/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fi%2F2
-[/us/pl/111/31/s103/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fi%2F3
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s393/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs393%2Fg
-[/us/pl/110/85/s228/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F1
-[/us/pl/110/85/s228/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F2
-[/us/pl/110/85/s228/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F3
-[/us/pl/110/85/s228/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F4
-[/us/pl/110/85/s228/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F5%2FA
-[/us/pl/110/85/s228/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F5%2FB
-[/us/pl/110/85/s228/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs228%2F6
-[/us/pl/108/214/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FA
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/usc/t21/s360/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fh
 [/us/usc/t21/s360/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fi
 [/us/usc/t21/s360/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fh
 [/us/usc/t21/s360/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fi
-[/us/pl/108/214/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FB
-[/us/pl/108/214/s2/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fi
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/pl/108/214/s2/b/1/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fii%2FI
-[/us/pl/108/214/s2/b/1/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fii%2FII
-[/us/pl/108/214/s2/b/1/C/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fiii%2FI
-[/us/pl/108/214/s2/b/1/C/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fiii%2FII
-[/us/pl/108/214/s2/b/1/C/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fiii%2FIII
-[/us/pl/108/214/s2/b/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fiv
-[/us/pl/108/214/s2/b/1/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FC%2Fv
-[/us/pl/108/214/s2/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FD
-[/us/pl/108/214/s2/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FE
-[/us/pl/108/214/s2/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FF
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/usc/t21/s360/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fh
 [/us/usc/t21/s360/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fi
-[/us/pl/108/214/s2/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FG
-[/us/pl/108/214/s2/b/1/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FH%2Fi
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/pl/108/214/s2/b/1/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fb%2F1%2FH%2Fii
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/pl/107/188/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs306%2Fb%2F1
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/usc/t21/s350c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c
 [/us/usc/t21/s350c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c%2Fd
-[/us/pl/107/188/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs306%2Fb%2F2
-[/us/pl/107/250/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs201%2Fb%2F1
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/usc/t21/s360m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360m
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
-[/us/pl/107/250/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs201%2Fb%2F2
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/usc/t21/s360m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360m
-[/us/pl/107/250/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs201%2Fb%2F3
-[/us/pl/107/250/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs201%2Fa
-[/us/pl/105/115/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs412%2Fb
-[/us/pl/105/115/s125/b/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FL
-[/us/pl/105/115/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs210%2Fb
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/96/359/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs4%2F1
-[/us/pl/96/359/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs4%2F3
-[/us/pl/96/359/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs4%2F4
-[/us/pl/94/295/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs6%2Fa
-[/us/pl/94/295/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs6%2Fd
-[/us/pl/87/781/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs201%2Fa
-[/us/pl/87/781/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs201%2Fb
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
@@ -514,7 +514,7 @@
 [/us/usc/t21/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs332
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/87/781/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs201%2Fd
+[/us/pl/87/781/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtII
 [/us/stat/76/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F793
 
 

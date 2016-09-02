@@ -67,13 +67,13 @@
 
             Amounts for activities under paragraph (2)(B) may not be derived from amounts under [section 1524(a) of this title][/us/usc/t21/s1524/a] except for amounts that are available under [section 1524(b) of this title][/us/usc/t21/s1524/b] for administrative costs.
 
-([Pub. L. 100–690, title I, § 1033][/us/pl/100/690/s1033], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 230][/us/stat/111/230]; amended [Pub. L. 107–82, § 1(e)][/us/pl/107/82/s1/e], (f), Dec. 14, 2001, [115 Stat. 818][/us/stat/115/818].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1033, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 230][/us/stat/111/230]; amended [Pub. L. 107–82][/us/pl/107/82], § 1(e), (f), Dec. 14, 2001, [115 Stat. 818][/us/stat/115/818].)
 
  __Amendments__ 
 
-    2001—Subsec. (b)(3). [Pub. L. 107–82, § 1(e)][/us/pl/107/82/s1/e], added par. (3).
+    2001—Subsec. (b)(3). [Pub. L. 107–82][/us/pl/107/82], § 1(e), added par. (3).
 
-    Subsec. (b)(4). [Pub. L. 107–82, § 1(f)][/us/pl/107/82/s1/f], added par. (4).
+    Subsec. (b)(4). [Pub. L. 107–82][/us/pl/107/82], § 1(f), added par. (4).
 
 ----------
 
@@ -86,12 +86,12 @@
 [/us/usc/t21/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1532
 [/us/usc/t21/s1524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1524%2Fa
 [/us/usc/t21/s1524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1524%2Fb
-[/us/pl/100/690/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1033
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F230
-[/us/pl/107/82/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fe
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F818
-[/us/pl/107/82/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fe
-[/us/pl/107/82/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Ff
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 
 

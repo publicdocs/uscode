@@ -273,7 +273,7 @@
 
             The mechanisms under [section 360bbb of this title][/us/usc/t21/s360bbb] to provide for expanded access for patients with serious or life-threatening diseases or conditions may be used to provide access for patients with a serious or life-threatening disease or condition, the treatment of which is not an approved use for the drug, to a drug that is subject to elements to assure safe use under this subsection. The Secretary shall promulgate regulations for how a physician may provide the drug under the mechanisms of [section 360bbb of this title][/us/usc/t21/s360bbb].
 
-        (7) __Repealed.__  __[__  __Pub. L. 113–5, title III, § 302(c)(1)__  __][/us/pl/113/5/s302/c/1]__  __,__  __Mar. 13, 2013__  __,__  __[__  __127 Stat. 185__  __][/us/stat/127/185]__ 
+        (7) __Repealed.__  __[__  __Pub. L. 113–5, title III__  __][/us/pl/113/5/tIII]__  __, § 302(c)(1),__  __Mar. 13, 2013__  __,__  __[__  __127 Stat. 185__  __][/us/stat/127/185]__ 
 
         (8) __Limitation__ 
 
@@ -541,7 +541,7 @@
 
         (2) the identification of a material threat described in subparagraph (D) of [section 360bbb–3(b)(1) of this title][/us/usc/t21/s360bbb–3/b/1] has been made pursuant to [section 247d–6b of title 42][/us/usc/t42/s247d–6b].
 
-([June 25, 1938, ch. 675, § 505–1][/us/act/1938-06-25/ch675/s505–1], as added [Pub. L. 110–85, title IX, § 901(b)][/us/pl/110/85/s901/b], Sept. 27, 2007, [121 Stat. 926][/us/stat/121/926]; amended [Pub. L. 112–144, title XI, § 1132(a)][/us/pl/112/144/s1132/a], (b), July 9, 2012, [126 Stat. 1119][/us/stat/126/1119], 1120; [Pub. L. 113–5, title III, § 302(c)][/us/pl/113/5/s302/c], Mar. 13, 2013, [127 Stat. 185][/us/stat/127/185].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 505–1, as added [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 901(b), Sept. 27, 2007, [121 Stat. 926][/us/stat/121/926]; amended [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1132(a), (b), July 9, 2012, [126 Stat. 1119][/us/stat/126/1119], 1120; [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 302(c), Mar. 13, 2013, [127 Stat. 185][/us/stat/127/185].)
 
  __References in Text__ 
 
@@ -551,55 +551,55 @@
 
  __Amendments__ 
 
-    2013—Subsec. (f)(7). [Pub. L. 113–5, § 302(c)(1)][/us/pl/113/5/s302/c/1], struck out par. (7) which related to waiver of subsec. (f) requirements in public health emergencies.
+    2013—Subsec. (f)(7). [Pub. L. 113–5][/us/pl/113/5], § 302(c)(1), struck out par. (7) which related to waiver of subsec. (f) requirements in public health emergencies.
 
-    Subsec. (k). [Pub. L. 113–5, § 302(c)(2)][/us/pl/113/5/s302/c/2], added subsec. (k).
+    Subsec. (k). [Pub. L. 113–5][/us/pl/113/5], § 302(c)(2), added subsec. (k).
 
-    2012—Subsec. (g)(1). [Pub. L. 112–144, § 1132(a)(1)][/us/pl/112/144/s1132/a/1], struck out “, and propose a modification to,” after “an assessment of”.
+    2012—Subsec. (g)(1). [Pub. L. 112–144][/us/pl/112/144], § 1132(a)(1), struck out “, and propose a modification to,” after “an assessment of”.
 
-    Subsec. (g)(2). [Pub. L. 112–144, § 1132(a)(2)(A)][/us/pl/112/144/s1132/a/2/A], in introductory provisions, struck out “, subject to paragraph (5),” after “shall” and “, and may propose a modification to,” after “an assessment of”.
+    Subsec. (g)(2). [Pub. L. 112–144][/us/pl/112/144], § 1132(a)(2)(A), in introductory provisions, struck out “, subject to paragraph (5),” after “shall” and “, and may propose a modification to,” after “an assessment of”.
 
-    Subsec. (g)(2)(C). [Pub. L. 112–144, § 1132(a)(2)(B)][/us/pl/112/144/s1132/a/2/B], substituted “an assessment is needed to evaluate whether the approved strategy should be modified to—” and cls. (i) and (ii) for “new safety or effectiveness information indicates that—
+    Subsec. (g)(2)(C). [Pub. L. 112–144][/us/pl/112/144], § 1132(a)(2)(B), substituted “an assessment is needed to evaluate whether the approved strategy should be modified to—” and cls. (i) and (ii) for “new safety or effectiveness information indicates that—
 
     “(i) an element under subsection (d) or (e) should be modified or included in the strategy; or
 
     “(ii) an element under subsection (f) should be modified or included in the strategy; or”.
 
-    Subsec. (g)(2)(D). [Pub. L. 112–144, § 1132(a)(2)(C)][/us/pl/112/144/s1132/a/2/C], struck out subpar. (D) which read as follows: “within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under [section 355(e) of this title][/us/usc/t21/s355/e].”
+    Subsec. (g)(2)(D). [Pub. L. 112–144][/us/pl/112/144], § 1132(a)(2)(C), struck out subpar. (D) which read as follows: “within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under [section 355(e) of this title][/us/usc/t21/s355/e].”
 
-    Subsec. (g)(3). [Pub. L. 112–144, § 1132(a)(3)][/us/pl/112/144/s1132/a/3], substituted “for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved strategy, including each element of the strategy, is meeting the goal or whether 1 or more such goals or such elements should be modified.” for “for a drug shall include—” and struck out subpars. (A) to (C) which related to assessment of elements to assure safe use, postapproval studies, and postapproval clinical trials.
+    Subsec. (g)(3). [Pub. L. 112–144][/us/pl/112/144], § 1132(a)(3), substituted “for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved strategy, including each element of the strategy, is meeting the goal or whether 1 or more such goals or such elements should be modified.” for “for a drug shall include—” and struck out subpars. (A) to (C) which related to assessment of elements to assure safe use, postapproval studies, and postapproval clinical trials.
 
-    Subsec. (g)(4). [Pub. L. 112–144, § 1132(a)(4)][/us/pl/112/144/s1132/a/4], amended par. (4) generally. Prior to amendment, text read as follows: “A modification (whether an enhancement or a reduction) to the approved risk evaluation and mitigation strategy for a drug may include the addition or modification of any element under subsection (d) or the addition, modification, or removal of any element under subsection (e) or (f), such as—
+    Subsec. (g)(4). [Pub. L. 112–144][/us/pl/112/144], § 1132(a)(4), amended par. (4) generally. Prior to amendment, text read as follows: “A modification (whether an enhancement or a reduction) to the approved risk evaluation and mitigation strategy for a drug may include the addition or modification of any element under subsection (d) or the addition, modification, or removal of any element under subsection (e) or (f), such as—
 
     “(A) modifying the timetable for assessments of the strategy as provided in subsection (d)(3), including to eliminate assessments; or
 
     “(B) adding, modifying, or removing an element to assure safe use under subsection (f).”
 
-    Subsec. (h). [Pub. L. 112–144, § 1132(b)(1)][/us/pl/112/144/s1132/b/1], inserted “and modifications” after “review of assessments” in heading.
+    Subsec. (h). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(1), inserted “and modifications” after “review of assessments” in heading.
 
-    Subsec. (h)(1). [Pub. L. 112–144, § 1132(b)(2)][/us/pl/112/144/s1132/b/2], inserted “and proposed modification to” after “under subsection (a) and each assessment of” and “, and, if necessary, promptly initiate discussions with the responsible person about such proposed strategy, assessment, or modification” after “subsection (g)”.
+    Subsec. (h)(1). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(2), inserted “and proposed modification to” after “under subsection (a) and each assessment of” and “, and, if necessary, promptly initiate discussions with the responsible person about such proposed strategy, assessment, or modification” after “subsection (g)”.
 
-    Subsec. (h)(2). [Pub. L. 112–144, § 1132(b)(3)][/us/pl/112/144/s1132/b/3], (4), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary, in consultation with the offices described in subsection (c)(2), shall initiate discussions with the responsible person for purposes of this subsection to determine a strategy not later than 60 days after any such assessment is submitted or, in the case of an assessment submitted under subsection (g)(2)(D), not later than 30 days after such assessment is submitted.”
+    Subsec. (h)(2). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(3), (4), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary, in consultation with the offices described in subsection (c)(2), shall initiate discussions with the responsible person for purposes of this subsection to determine a strategy not later than 60 days after any such assessment is submitted or, in the case of an assessment submitted under subsection (g)(2)(D), not later than 30 days after such assessment is submitted.”
 
-    Subsec. (h)(2)(A). [Pub. L. 112–144, § 1132(b)(5)(A)][/us/pl/112/144/s1132/b/5/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) related to Secretary’s description of any required risk evaluation and mitigation strategy for a drug as part of the action letter on the application or in an order.
+    Subsec. (h)(2)(A). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to Secretary’s description of any required risk evaluation and mitigation strategy for a drug as part of the action letter on the application or in an order.
 
-    Subsec. (h)(2)(C). [Pub. L. 112–144, § 1132(b)(5)(B)][/us/pl/112/144/s1132/b/5/B], amended subpar. (C) generally. Prior to amendment, text read as follows: “Any action letter described in subparagraph (A)(i) or order described in subparagraph (A)(ii) shall be made publicly available.”
+    Subsec. (h)(2)(C). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(5)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: “Any action letter described in subparagraph (A)(i) or order described in subparagraph (A)(ii) shall be made publicly available.”
 
-    Subsec. (h)(3), (4). [Pub. L. 112–144, § 1132(b)(4)][/us/pl/112/144/s1132/b/4], redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+    Subsec. (h)(3), (4). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(4), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-    Subsec. (h)(4)(A)(i). [Pub. L. 112–144, § 1132(b)(6)(A)][/us/pl/112/144/s1132/b/6/A], substituted “The responsible” for “Not earlier than 15 days, and not later than 35 days, after discussions under paragraph (2) have begun, the responsible” and inserted “, after the sponsor is required to make a submission under subsection (a)(2) or (g),” before “request in writing”.
+    Subsec. (h)(4)(A)(i). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(6)(A), substituted “The responsible” for “Not earlier than 15 days, and not later than 35 days, after discussions under paragraph (2) have begun, the responsible” and inserted “, after the sponsor is required to make a submission under subsection (a)(2) or (g),” before “request in writing”.
 
-    Subsec. (h)(4)(I). [Pub. L. 112–144, § 1132(b)(6)(B)][/us/pl/112/144/s1132/b/6/B], substituted “if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.” for “if the Secretary—” and struck out cls. (i) and (ii) which read as follows:
+    Subsec. (h)(4)(I). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(6)(B), substituted “if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.” for “if the Secretary—” and struck out cls. (i) and (ii) which read as follows:
 
     “(i) has initiated the discussions described under paragraph (2) not less than 60 days before such action deadline; and
 
     “(ii) has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.”
 
-    Subsec. (h)(5). [Pub. L. 112–144, § 1132(b)(4)][/us/pl/112/144/s1132/b/4], (7), redesignated par. (6) as (5) and substituted “subparagraph (B) or (C)” for “any of subparagraphs (B) through (D)” in subpar. (A) and “paragraph (3) or (4)” for “paragraph (4) or (5)” in subpar. (C). Former par. (5) redesignated (4).
+    Subsec. (h)(5). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(4), (7), redesignated par. (6) as (5) and substituted “subparagraph (B) or (C)” for “any of subparagraphs (B) through (D)” in subpar. (A) and “paragraph (3) or (4)” for “paragraph (4) or (5)” in subpar. (C). Former par. (5) redesignated (4).
 
-    Subsec. (h)(6), (7). [Pub. L. 112–144, § 1132(b)(4)][/us/pl/112/144/s1132/b/4], redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6) redesignated (5).
+    Subsec. (h)(6), (7). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(4), redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6) redesignated (5).
 
-    Subsec. (h)(8), (9). [Pub. L. 112–144, § 1132(b)(4)][/us/pl/112/144/s1132/b/4], (8), redesignated par. (9) as (8) and substituted “paragraphs (6) and (7).” for “paragraphs (7) and (8)”. Former par. (8) redesignated (7).
+    Subsec. (h)(8), (9). [Pub. L. 112–144][/us/pl/112/144], § 1132(b)(4), (8), redesignated par. (9) as (8) and substituted “paragraphs (6) and (7).” for “paragraphs (7) and (8)”. Former par. (8) redesignated (7).
 
  __Effective Date__ 
 
@@ -607,7 +607,7 @@
 
  __Guidance__ 
 
-[Pub. L. 112–144, title XI, § 1132(c)][/us/pl/112/144/s1132/c], July 9, 2012, [126 Stat. 1122][/us/stat/126/1122], provided that: 
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1132(c), July 9, 2012, [126 Stat. 1122][/us/stat/126/1122], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355–1(h)(2)(A)][/us/usc/t21/s355–1/h/2/A]), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies.”
 
@@ -624,7 +624,7 @@
 [/us/usc/t21/s355/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fk%2F4
 [/us/usc/t21/s360bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb
 [/us/usc/t21/s360bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb
-[/us/pl/113/5/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fc%2F1
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F185
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
@@ -637,38 +637,38 @@
 [/us/usc/t21/s360bbb–3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933%2Fb%2F1
 [/us/usc/t21/s360bbb–3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933%2Fb%2F1
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
-[/us/act/1938-06-25/ch675/s505–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505%E2%80%931
-[/us/pl/110/85/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F926
-[/us/pl/112/144/s1132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1119
-[/us/pl/113/5/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fc
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F185
 [/us/pl/110/85/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs101%2Fc
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
-[/us/pl/113/5/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fc%2F1
-[/us/pl/113/5/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fc%2F2
-[/us/pl/112/144/s1132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa%2F1
-[/us/pl/112/144/s1132/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa%2F2%2FA
-[/us/pl/112/144/s1132/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa%2F2%2FB
-[/us/pl/112/144/s1132/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa%2F2%2FC
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s355/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fe
-[/us/pl/112/144/s1132/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa%2F3
-[/us/pl/112/144/s1132/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fa%2F4
-[/us/pl/112/144/s1132/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F1
-[/us/pl/112/144/s1132/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F2
-[/us/pl/112/144/s1132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F3
-[/us/pl/112/144/s1132/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F5%2FA
-[/us/pl/112/144/s1132/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F5%2FB
-[/us/pl/112/144/s1132/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F4
-[/us/pl/112/144/s1132/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F6%2FA
-[/us/pl/112/144/s1132/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F6%2FB
-[/us/pl/112/144/s1132/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F4
-[/us/pl/112/144/s1132/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F4
-[/us/pl/112/144/s1132/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fb%2F4
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/110/85/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs909
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
-[/us/pl/112/144/s1132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1132%2Fc
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1122
 [/us/usc/t21/s355–1/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%E2%80%931%2Fh%2F2%2FA
 

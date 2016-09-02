@@ -39,7 +39,7 @@
 
     (7) The United States is a party to the Single Convention on Narcotic Drugs, 1961, and other international conventions designed to establish effective control over international and domestic traffic in controlled substances.
 
-([Pub. L. 91–513, title II, § 101][/us/pl/91/513/s101], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 101, Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–513, title II, § 704][/us/pl/91/513/s704], Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284], provided that:
+[Pub. L. 91–513, title II][/us/pl/91/513/tII], § 704, Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284], provided that:
 
 >     “(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
 
@@ -57,191 +57,191 @@
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–260, § 1][/us/pl/113/260/s1], Dec. 18, 2014, [128 Stat. 2929][/us/stat/128/2929], provided that: 
+[Pub. L. 113–260][/us/pl/113/260], § 1, Dec. 18, 2014, [128 Stat. 2929][/us/stat/128/2929], provided that: 
 
 > “This Act \[amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under [section 825 of this title][/us/usc/t21/s825]\] may be cited as the ‘Designer Anabolic Steroid Control Act of 2014’.”
 
-[Pub. L. 113–143, § 1][/us/pl/113/143/s1], Aug. 1, 2014, [128 Stat. 1750][/us/stat/128/1750], provided that: 
+[Pub. L. 113–143][/us/pl/113/143], § 1, Aug. 1, 2014, [128 Stat. 1750][/us/stat/128/1750], provided that: 
 
 > “This Act \[amending [section 822 of this title][/us/usc/t21/s822]\] may be cited as the ‘Veterinary Medicine Mobility Act of 2014’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–144, title XI, § 1151][/us/pl/112/144/s1151], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that: 
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1151, July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that: 
 
 > “This subtitle \[subtitle D (§§ 1151–1153) of title XI of [Pub. L. 112–144][/us/pl/112/144], amending sections 811 and 812 of this title\] may be cited as the ‘Synthetic Drug Abuse Prevention Act of 2012’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–273, § 1][/us/pl/111/273/s1], Oct. 12, 2010, [124 Stat. 2858][/us/stat/124/2858], provided that: 
+[Pub. L. 111–273][/us/pl/111/273], § 1, Oct. 12, 2010, [124 Stat. 2858][/us/stat/124/2858], provided that: 
 
 > “This Act \[amending sections 822 and 828 of this title and enacting provisions set out as a note under [section 822 of this title][/us/usc/t21/s822] and listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Secure and Responsible Drug Disposal Act of 2010’.”
 
-[Pub. L. 111–268, § 1][/us/pl/111/268/s1], Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847], provided that: 
+[Pub. L. 111–268][/us/pl/111/268], § 1, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847], provided that: 
 
 > “This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under [section 830 of this title][/us/usc/t21/s830]\] may be cited as the ‘Combat Methamphetamine Enhancement Act of 2010’.”
 
-[Pub. L. 111–220, § 1][/us/pl/111/220/s1], Aug. 3, 2010, [124 Stat. 2372][/us/stat/124/2372], provided that: 
+[Pub. L. 111–220][/us/pl/111/220], § 1, Aug. 3, 2010, [124 Stat. 2372][/us/stat/124/2372], provided that: 
 
 > “This Act \[amending sections 841, 844, and 960 of this title and enacting provisions listed in a table relating to sentencing guidelines set out under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Fair Sentencing Act of 2010’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–425, § 1][/us/pl/110/425/s1], Oct. 15, 2008, [122 Stat. 4820][/us/stat/122/4820], provided that: 
+[Pub. L. 110–425][/us/pl/110/425], § 1, Oct. 15, 2008, [122 Stat. 4820][/us/stat/122/4820], provided that: 
 
 > “This Act \[enacting [section 831 of this title][/us/usc/t21/s831], amending sections 802, 823, 827, 829, 841, 843, 882, and 960 of this title, and enacting provisions set out as notes under [section 802 of this title][/us/usc/t21/s802] and listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Ryan Haight Online Pharmacy Consumer Protection Act of 2008’.”
 
-[Pub. L. 110–415, § 1][/us/pl/110/415/s1], Oct. 14, 2008, [122 Stat. 4349][/us/stat/122/4349], provided that: 
+[Pub. L. 110–415][/us/pl/110/415], § 1, Oct. 14, 2008, [122 Stat. 4349][/us/stat/122/4349], provided that: 
 
 > “This Act \[amending [section 830 of this title][/us/usc/t21/s830]\] may be cited as the ‘Methamphetamine Production Prevention Act of 2008’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–177, title VII, § 701][/us/pl/109/177/s701], Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], provided that: 
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 701, Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Combat Methamphetamine Epidemic Act of 2005’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–57, § 1(a)][/us/pl/109/57/s1/a], Aug. 2, 2005, [119 Stat. 592][/us/stat/119/592], provided that: 
+[Pub. L. 109–57][/us/pl/109/57], § 1(a), Aug. 2, 2005, [119 Stat. 592][/us/stat/119/592], provided that: 
 
 > “This Act \[amending [section 953 of this title][/us/usc/t21/s953]\] may be cited as the ‘Controlled Substances Export Reform Act of 2005’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–358, § 1][/us/pl/108/358/s1], Oct. 22, 2004, [118 Stat. 1661][/us/stat/118/1661], provided that: 
+[Pub. L. 108–358][/us/pl/108/358], § 1, Oct. 22, 2004, [118 Stat. 1661][/us/stat/118/1661], provided that: 
 
 > “This Act \[enacting [section 290bb–25f of Title 42][/us/usc/t42/s290bb–25f], The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under [section 802 of this title][/us/usc/t21/s802] and [section 290aa–4 of Title 42][/us/usc/t42/s290aa–4] and listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure, and amending provisions set out as a note under [section 802 of this title][/us/usc/t21/s802]\] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–21, title VI, § 608(a)][/us/pl/108/21/s608/a], Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691], provided that: 
+[Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 608(a), Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691], provided that: 
 
 > “This section \[amending sections 843 and 856 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Illicit Drug Anti-Proliferation Act of 2003’.”
 
  __Short Title of 2000 Amendments__ 
 
-[Pub. L. 106–310, div. B, title XXXV, § 3501][/us/pl/106/310/s3501], Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222], provided that: 
+[Pub. L. 106–310, div. B, title XXXV][/us/pl/106/310/dB/tXXXV], § 3501, Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222], provided that: 
 
 > “This title \[amending sections 823 and 824 of this title\] may be cited as the ‘Drug Addiction Treatment Act of 2000’.”
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3601][/us/pl/106/310/s3601], Oct. 17, 2000, [114 Stat. 1227][/us/stat/114/1227], provided that: 
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3601, Oct. 17, 2000, [114 Stat. 1227][/us/stat/114/1227], provided that: 
 
 > “This title \[enacting [section 864 of this title][/us/usc/t21/s864] and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and Criminal Procedure, [section 524 of Title 28][/us/usc/t28/s524], Judiciary and Judicial Procedure, and sections 285o–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42\] may be cited as the ‘Methamphetamine Anti-Proliferation Act of 2000’.”
 
-[Pub. L. 106–172, § 1][/us/pl/106/172/s1], Feb. 18, 2000, [114 Stat. 7][/us/stat/114/7], provided that: 
+[Pub. L. 106–172][/us/pl/106/172], § 1, Feb. 18, 2000, [114 Stat. 7][/us/stat/114/7], provided that: 
 
 > “This Act \[amending sections 802, 827, 841 and 960 of this title and enacting provisions set out as notes under this section and [section 812 of this title][/us/usc/t21/s812]\] may be cited as the ‘Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. C, title VIII, § 801(a)][/us/pl/105/277/s801/a], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693], provided that: 
+[Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 801(a), Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693], provided that: 
 
 > “This title \[enacting [section 1713 of this title][/us/usc/t21/s1713] and [section 2291–5 of Title 22][/us/usc/t22/s2291–5], Foreign Relations and Intercourse, amending [section 956 of this title][/us/usc/t21/s956], and enacting provisions set out as notes under sections 801 and 956 of this title and [section 2291 of Title 22][/us/usc/t22/s2291]\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
 
-    [Pub. L. 105–277, div. C, title VIII][/us/pl/105/277], subtitle G (§§ 871, 872), § 871, Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], and [Pub. L. 105–357, § 1][/us/pl/105/357/s1], Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271], provided that such subtitle and such Act, which amended [section 956 of this title][/us/usc/t21/s956] and enacted provisions set out as notes under [section 956 of this title][/us/usc/t21/s956] “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
+    [Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], subtitle G (§§ 871, 872), § 871, Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], and [Pub. L. 105–357][/us/pl/105/357], § 1, Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271], provided that such subtitle and such Act, which amended [section 956 of this title][/us/usc/t21/s956] and enacted provisions set out as notes under [section 956 of this title][/us/usc/t21/s956] “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
 
-[Pub. L. 105–277, div. E, § 1][/us/pl/105/277/s1], Oct. 21, 1998, [112 Stat. 2681–759][/us/stat/112/2681-759], provided that: 
+[Pub. L. 105–277, div. E][/us/pl/105/277/dE], § 1, Oct. 21, 1998, [112 Stat. 2681–759][/us/stat/112/2681-759], provided that: 
 
 > “This division \[amending sections 841 and 960 of this title and [section 13705 of Title 42][/us/usc/t42/s13705], The Public Health and Welfare\] may be cited as the ‘Methamphetamine Trafficking Penalty Enhancement Act of 1998’.”
 
  __Short Title of 1996 Amendments__ 
 
-[Pub. L. 104–305, § 1][/us/pl/104/305/s1], Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807], provided that: 
+[Pub. L. 104–305][/us/pl/104/305], § 1, Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807], provided that: 
 
 > “This Act \[amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under [section 872 of this title][/us/usc/t21/s872] and [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Drug-Induced Rape Prevention and Punishment Act of 1996’.”
 
-[Pub. L. 104–237, § 1(a)][/us/pl/104/237/s1/a], Oct. 3, 1996, [110 Stat. 3099][/us/stat/110/3099], provided that: 
+[Pub. L. 104–237][/us/pl/104/237], § 1(a), Oct. 3, 1996, [110 Stat. 3099][/us/stat/110/3099], provided that: 
 
 > “This Act \[enacting [section 872a of this title][/us/usc/t21/s872a], amending sections 802, 814, 830, 841 to 844, 853, 881, 959, and 960 of this title and [section 1607 of Title 19][/us/usc/t19/s1607], Customs Duties, and enacting provisions set out as notes under this section and sections 802, 872, and 971 of this title, [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure, and [section 290aa–4 of Title 42][/us/usc/t42/s290aa–4], The Public Health and Welfare\] may be cited as the ‘Comprehensive Methamphetamine Control Act of 1996’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–322, title XVIII, § 180201(a)][/us/pl/103/322/s180201/a], Sept. 13, 1994, [108 Stat. 2046][/us/stat/108/2046], provided that: 
+[Pub. L. 103–322, title XVIII][/us/pl/103/322/tXVIII], § 180201(a), Sept. 13, 1994, [108 Stat. 2046][/us/stat/108/2046], provided that: 
 
 > “This section \[enacting [section 849 of this title][/us/usc/t21/s849], amending [section 841 of this title][/us/usc/t21/s841], and enacting provisions set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Drug Free Truck Stop Act’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–200, § 1][/us/pl/103/200/s1], Dec. 17, 1993, [107 Stat. 2333][/us/stat/107/2333], provided that: 
+[Pub. L. 103–200][/us/pl/103/200], § 1, Dec. 17, 1993, [107 Stat. 2333][/us/stat/107/2333], provided that: 
 
 > “This Act \[enacting [section 814 of this title][/us/usc/t21/s814], amending sections 802, 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under [section 802 of this title][/us/usc/t21/s802]\] may be cited as the ‘Domestic Chemical Diversion Control Act of 1993’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–647, title XIX, § 1901][/us/pl/101/647/s1901], Nov. 29, 1990, [104 Stat. 4851][/us/stat/104/4851], provided that: 
+[Pub. L. 101–647, title XIX][/us/pl/101/647/tXIX], § 1901, Nov. 29, 1990, [104 Stat. 4851][/us/stat/104/4851], provided that: 
 
 > “This Act \[probably means title XIX of [Pub. L. 101–647][/us/pl/101/647], which amended sections 333, 802, 812, and 844 of this title and [section 290aa–6 of Title 42][/us/usc/t42/s290aa–6], The Public Health and Welfare, repealed [section 333a of this title][/us/usc/t21/s333a], and enacted provisions set out as notes under sections 802 and 829 of this title\] may be cited as the ‘Anabolic Steroids Control Act of 1990’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–690, title VI, § 6001][/us/pl/100/690/s6001], Nov. 18, 1988, [102 Stat. 4312][/us/stat/102/4312], provided that: 
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6001, Nov. 18, 1988, [102 Stat. 4312][/us/stat/102/4312], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Anti-Drug Abuse Amendments Act of 1988’.”
 
-[Pub. L. 100–690, title VI, § 6051][/us/pl/100/690/s6051], Nov. 18, 1988, [102 Stat. 4312][/us/stat/102/4312], provided that: 
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6051, Nov. 18, 1988, [102 Stat. 4312][/us/stat/102/4312], provided that: 
 
 > “This subtitle \[subtitle A (§§ 6051–6061) of title VI of [Pub. L. 100–690][/us/pl/100/690], enacting [section 971 of this title][/us/usc/t21/s971], amending sections 802, 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under sections 802 and 971 of this title\] may be cited as the ‘Chemical Diversion and Trafficking Act of 1988’.”
 
-[Pub. L. 100–690, title VI, § 6071][/us/pl/100/690/s6071], Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320], provided that: 
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6071, Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320], provided that: 
 
 > “This subtitle \[subtitle B (§§ 6071–6080) of title VI of [Pub. L. 100–690][/us/pl/100/690], enacting sections 881–1, 887, and 1509 of this title, amending [section 881 of this title][/us/usc/t21/s881], [section 1594 of Title 19][/us/usc/t19/s1594], Customs Duties, [section 524 of Title 28][/us/usc/t28/s524], Judiciary and Judicial Procedure, and section 782 of former Title 49, Transportation, and enacting provisions set out as notes under [section 881 of this title][/us/usc/t21/s881]\] may be cited as the ‘Asset Forfeiture Amendments Act of 1988’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–570, § 1][/us/pl/99/570/s1], Oct. 27, 1986, [100 Stat. 3207][/us/stat/100/3207], provided that: 
+[Pub. L. 99–570][/us/pl/99/570], § 1, Oct. 27, 1986, [100 Stat. 3207][/us/stat/100/3207], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Anti-Drug Abuse Act of 1986’.”
 
-[Pub. L. 99–570, title I, § 1001][/us/pl/99/570/s1001], Oct. 27, 1986, [100 Stat. 3207–2][/us/stat/100/3207-2], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1001, Oct. 27, 1986, [100 Stat. 3207–2][/us/stat/100/3207-2], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1001–1009) of title I of [Pub. L. 99–570][/us/pl/99/570], amending sections 802, 841, 845, 845a, 848, 881, 960, and 962 of this title, sections 3553 and 3583 of Title 18, Crimes and Criminal Procedure, rule 35 of the Federal Rules of Criminal Procedure, Title 18, Appendix, and [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure, and enacting provisions set out as notes under [section 841 of this title][/us/usc/t21/s841], sections 3553 and 3583 of Title 18, and rule 35 of the Federal Rules of Criminal Procedure\] may be cited as the ‘Narcotics Penalties and Enforcement Act of 1986’.”
 
-[Pub. L. 99–570, title I, § 1051][/us/pl/99/570/s1051], Oct. 27, 1986, [100 Stat. 3207–8][/us/stat/100/3207-8], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1051, Oct. 27, 1986, [100 Stat. 3207–8][/us/stat/100/3207-8], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1051, 1052) of title I of [Pub. L. 99–570][/us/pl/99/570], amending [section 844 of this title][/us/usc/t21/s844]\] may be cited as the ‘Drug Possession Penalty Act of 1986’.”
 
-[Pub. L. 99–570, title I, § 1101][/us/pl/99/570/s1101], Oct. 27, 1986, [100 Stat. 3207–10][/us/stat/100/3207-10], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1101, Oct. 27, 1986, [100 Stat. 3207–10][/us/stat/100/3207-10], provided that: 
 
 > “This subtitle \[subtitle C (§§ 1101–1105) of title I of [Pub. L. 99–570][/us/pl/99/570], enacting [section 845b of this title][/us/usc/t21/s845b] and amending sections 841, 845, and 845a of this title\] may be cited as the ‘Juvenile Drug Trafficking Act of 1986’.”
 
-[Pub. L. 99–570, title I, § 1201][/us/pl/99/570/s1201], Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1201, Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13], provided that: 
 
 > “This subtitle \[subtitle E (§§ 1201–1204) of title I of [Pub. L. 99–570][/us/pl/99/570], enacting [section 813 of this title][/us/usc/t21/s813] and amending [section 802 of this title][/us/usc/t21/s802]\] may be cited as the ‘Controlled Substance Analogue Enforcement Act of 1986’.”
 
-[Pub. L. 99–570, title I, § 1251][/us/pl/99/570/s1251], Oct. 27, 1986, [100 Stat. 3207–14][/us/stat/100/3207-14], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1251, Oct. 27, 1986, [100 Stat. 3207–14][/us/stat/100/3207-14], provided that: 
 
 > “This subtitle \[subtitle F (§§ 1251–1253) of title I of [Pub. L. 99–570][/us/pl/99/570], amending [section 848 of this title][/us/usc/t21/s848]\] may be cited as the ‘Continuing Drug Enterprises Act of 1986’.”
 
-[Pub. L. 99–570, title I, § 1301][/us/pl/99/570/s1301], Oct. 27, 1986, [100 Stat. 3207–15][/us/stat/100/3207-15], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1301, Oct. 27, 1986, [100 Stat. 3207–15][/us/stat/100/3207-15], provided that: 
 
 > “This subtitle \[subtitle G (§§ 1301, 1302) of title I of [Pub. L. 99–570][/us/pl/99/570], amending [section 960 of this title][/us/usc/t21/s960]\] may be cited as the ‘Controlled Substances Import and Export Penalties Enhancement Act of 1986’.”
 
-    [Pub. L. 99–570, title I, § 1821][/us/pl/99/570/s1821], Oct. 27, 1986, [100 Stat. 3207–51][/us/stat/100/3207-51], which provided that subtitle O (§§ 1821–1823) of title I of [Pub. L. 99–570][/us/pl/99/570], enacting [section 857 of this title][/us/usc/t21/s857] and provisions set out as a note under [section 857 of this title][/us/usc/t21/s857], was to be cited as the “Mail Order Drug Paraphernalia Control Act”, was repealed by [Pub. L. 101–647, title XXIV, § 2401(d)][/us/pl/101/647/s2401/d], Nov. 29, 1990, [104 Stat. 4859][/us/stat/104/4859].
+    [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1821, Oct. 27, 1986, [100 Stat. 3207–51][/us/stat/100/3207-51], which provided that subtitle O (§§ 1821–1823) of title I of [Pub. L. 99–570][/us/pl/99/570], enacting [section 857 of this title][/us/usc/t21/s857] and provisions set out as a note under [section 857 of this title][/us/usc/t21/s857], was to be cited as the “Mail Order Drug Paraphernalia Control Act”, was repealed by [Pub. L. 101–647, title XXIV][/us/pl/101/647/tXXIV], § 2401(d), Nov. 29, 1990, [104 Stat. 4859][/us/stat/104/4859].
 
-[Pub. L. 99–570, title I, § 1991][/us/pl/99/570/s1991], Oct. 27, 1986, [100 Stat. 3207–59][/us/stat/100/3207-59], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1991, Oct. 27, 1986, [100 Stat. 3207–59][/us/stat/100/3207-59], provided that: 
 
 > “This subtitle \[subtitle U (§§ 1991, 1992) of title I of [Pub. L. 99–570][/us/pl/99/570], amending [section 881 of this title][/us/usc/t21/s881]\] may be cited as the ‘Federal Drug Law Enforcement Agent Protection Act of 1986’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 501][/us/pl/98/473/s501], Oct. 12, 1984, [98 Stat. 2068][/us/stat/98/2068], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 501, Oct. 12, 1984, [98 Stat. 2068][/us/stat/98/2068], provided that: 
 
 > “This chapter \[chapter V (§§ 501–525) of title II of [Pub. L. 98–473][/us/pl/98/473], enacting [section 845a of this title][/us/usc/t21/s845a], amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
-[Pub. L. 98–473, title II, § 506(a)][/us/pl/98/473/s506/a], Oct. 12, 1984, [98 Stat. 2070][/us/stat/98/2070], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 506(a), Oct. 12, 1984, [98 Stat. 2070][/us/stat/98/2070], provided that: 
 
 > “This part \[part B of chapter V (§§ 506–525) of title II of [Pub. L. 98–473][/us/pl/98/473], amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–633, § 1][/us/pl/95/633/s1], Nov. 10, 1978, [92 Stat. 3768][/us/stat/92/3768], provided: 
+[Pub. L. 95–633][/us/pl/95/633], § 1, Nov. 10, 1978, [92 Stat. 3768][/us/stat/92/3768], provided: 
 
 > “That this Act \[enacting sections 801a, 830, and 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and [section 242a of Title 42][/us/usc/t42/s242a], The Public Health and Welfare, repealing [section 830 of this title][/us/usc/t21/s830] (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title\] may be cited as the ‘Psychotropic Substances Act of 1978’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–281, § 1][/us/pl/93/281/s1], May 14, 1974, [88 Stat. 124][/us/stat/88/124], provided: 
+[Pub. L. 93–281][/us/pl/93/281], § 1, May 14, 1974, [88 Stat. 124][/us/stat/88/124], provided: 
 
 > “That this Act \[amending sections 802, 823, 824, and 827 of this title\] may be cited as the ‘Narcotic Addict Treatment Act of 1974’.”
 
@@ -251,7 +251,7 @@
 
 > “That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, [section 2901 of Title 28][/us/usc/t28/s2901], Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and [section 787 of Title 49][/us/usc/t49/s787], Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and [section 1421m of Title 48][/us/usc/t48/s1421m], Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the ‘Comprehensive Drug Abuse Prevention and Control Act of 1970’.”
 
-[Pub. L. 91–513, title II, § 100][/us/pl/91/513/s100], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], provided that: 
+[Pub. L. 91–513, title II][/us/pl/91/513/tII], § 100, Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], provided that: 
 
 > “This title \[enacting this subchapter, repealing [section 360a of this title][/us/usc/t21/s360a], amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and [section 242 of Title 42][/us/usc/t42/s242], The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the ‘Controlled Substances Act’.”
 
@@ -259,29 +259,29 @@
 
  __Severability__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3673][/us/pl/106/310/s3673], Oct. 17, 2000, [114 Stat. 1246][/us/stat/114/1246], provided that: 
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3673, Oct. 17, 2000, [114 Stat. 1246][/us/stat/114/1246], provided that: 
 
 > “Any provision of this title \[see Short Title of 2000 Amendments note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances.”
 
  __Continuation of Orders, Rules, and Regulations__ 
 
-[Pub. L. 91–513, title II, § 705][/us/pl/91/513/s705], Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284], provided that: 
+[Pub. L. 91–513, title II][/us/pl/91/513/tII], § 705, Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284], provided that: 
 
 > “Any orders, rules, and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
 
  __Anti-Drug Messages on Federal Government Internet Sites__ 
 
-[Pub. L. 106–391, title III, § 320][/us/pl/106/391/s320], Oct. 30, 2000, [114 Stat. 1597][/us/stat/114/1597], provided that: 
+[Pub. L. 106–391, title III][/us/pl/106/391/tIII], § 320, Oct. 30, 2000, [114 Stat. 1597][/us/stat/114/1597], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Administrator \[of the National Aeronautics and Space Administration\], in consultation with the Director of the Office of National Drug Control Policy, shall place anti-drug messages on Internet sites controlled by the National Aeronautics and Space Administration.”
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3671][/us/pl/106/310/s3671], Oct. 17, 2000, [114 Stat. 1245][/us/stat/114/1245], provided that: 
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3671, Oct. 17, 2000, [114 Stat. 1245][/us/stat/114/1245], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2000\], the head of each department, agency, and establishment of the Federal Government shall, in consultation with the Director of the Office of National Drug Control Policy, place antidrug messages on appropriate Internet websites controlled by such department, agency, or establishment which messages shall, where appropriate, contain an electronic hyperlink to the Internet website, if any, of the Office.”
 
  __Protocols for Investigations and Prosecutions Relating to Date-Rape Drugs and Other Controlled Substances; Annual Report; National Awareness Campaign__ 
 
-[Pub. L. 106–172][/us/pl/106/172], §§ 6, 7, Feb. 18, 2000, [114 Stat. 11][/us/stat/114/11], as amended by [Pub. L. 111–8, div. G, title I, § 1301(d)][/us/pl/111/8/s1301/d], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829], provided that:
+[Pub. L. 106–172][/us/pl/106/172], §§ 6, 7, Feb. 18, 2000, [114 Stat. 11][/us/stat/114/11], as amended by [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(d), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829], provided that:
 
 > “SEC. 6. __DEVELOPMENT OF MODEL PROTOCOLS, TRAINING MATERIALS, FORENSIC FIELD TESTS, AND COORDINATION MECHANISM FOR INVESTIGATIONS AND PROSECUTIONS RELATING TO GAMMA HYDROXYBUTYRIC ACID, OTHER CONTROLLED SUBSTANCES, AND DESIGNER DRUGS.__ 
 
@@ -353,7 +353,7 @@
 
  __Congressional Findings Regarding Methamphetamine Manufacture and Abuse__ 
 
-[Pub. L. 104–237, § 2][/us/pl/104/237/s2], Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100], provided that: 
+[Pub. L. 104–237][/us/pl/104/237], § 2, Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100], provided that: 
 
 > “The Congress finds the following:
 
@@ -373,13 +373,13 @@
 
  __Support for International Efforts To Control Methamphetamine and Precursors__ 
 
-[Pub. L. 104–237, title I, § 101][/us/pl/104/237/s101], Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100], provided that: 
+[Pub. L. 104–237, title I][/us/pl/104/237/tI], § 101, Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100], provided that: 
 
 > “The Attorney General, in consultation with the Secretary of State, shall coordinate international drug enforcement efforts to decrease the movement of methamphetamine and methamphetamine precursors into the United States.”
 
  __Interagency Methamphetamine Task Force__ 
 
-[Pub. L. 104–237, title V, § 501][/us/pl/104/237/s501], Oct. 3, 1996, [110 Stat. 3111][/us/stat/110/3111], provided that:
+[Pub. L. 104–237, title V][/us/pl/104/237/tV], § 501, Oct. 3, 1996, [110 Stat. 3111][/us/stat/110/3111], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -421,7 +421,7 @@
 
  __Suspicious Orders Task Force__ 
 
-[Pub. L. 104–237, title V, § 504][/us/pl/104/237/s504], Oct. 3, 1996, [110 Stat. 3112][/us/stat/110/3112], provided that:
+[Pub. L. 104–237, title V][/us/pl/104/237/tV], § 504, Oct. 3, 1996, [110 Stat. 3112][/us/stat/110/3112], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -457,7 +457,7 @@
 
  __Joint Federal Task Force on Illegal Drug Laboratories__ 
 
-[Pub. L. 100–690, title II, § 2405][/us/pl/100/690/s2405], Nov. 18, 1988, [102 Stat. 4231][/us/stat/102/4231], provided that:
+[Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2405, Nov. 18, 1988, [102 Stat. 4231][/us/stat/102/4231], provided that:
 
 >     “(a)  __Establishment of Task Force__  __.—__ 
 
@@ -509,7 +509,7 @@
 
  __Great Lakes Drug Interdiction__ 
 
-[Pub. L. 100–690, title VII, § 7404][/us/pl/100/690/s7404], Nov. 18, 1988, [102 Stat. 4484][/us/stat/102/4484], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7404, Nov. 18, 1988, [102 Stat. 4484][/us/stat/102/4484], provided that:
 
 >     “(a)  __Interagency Agreement__  __.—__ 
 
@@ -525,17 +525,17 @@
 
  __GAO Study of Capabilities of United States To Control Drug Smuggling Into United States__ 
 
-    [Pub. L. 100–180, div. A, title XII, § 1241][/us/pl/100/180/s1241], Dec. 4, 1987, [101 Stat. 1162][/us/stat/101/1162], directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
+    [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1241, Dec. 4, 1987, [101 Stat. 1162][/us/stat/101/1162], directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
 
  __Compliance With Budget Act__ 
 
-[Pub. L. 99–570, § 3][/us/pl/99/570/s3], Oct. 27, 1986, [100 Stat. 3207–1][/us/stat/100/3207-1], provided that: 
+[Pub. L. 99–570][/us/pl/99/570], § 3, Oct. 27, 1986, [100 Stat. 3207–1][/us/stat/100/3207-1], provided that: 
 
 > “Notwithstanding any other provision of this Act \[see Tables for classification\], any spending authority and any credit authority provided under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[[2 U.S.C. 651(c)(2)][/us/usc/t2/s651/c/2]\] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional \[sic\] Budget Act of 1974 \[[2 U.S.C. 622(10)][/us/usc/t2/s622/10]\].”
 
  __Drug Interdiction__ 
 
-[Pub. L. 99–570, title III][/us/pl/99/570], §§ 3001–3003, 3301, Oct. 27, 1986, [100 Stat. 3207–73][/us/stat/100/3207-73], 3207–74, 3207–98, as amended by [Pub. L. 104–66, title I, § 1091(a)][/us/pl/104/66/s1091/a], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722], provided that:
+[Pub. L. 99–570, title III][/us/pl/99/570/tIII], §§ 3001–3003, 3301, Oct. 27, 1986, [100 Stat. 3207–73][/us/stat/100/3207-73], 3207–74, 3207–98, as amended by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1091(a), Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722], provided that:
 
 > “SEC. 3001. __SHORT TITLE.__ 
 
@@ -615,11 +615,11 @@
 
  __Information on Drug Abuse at the Workplace__ 
 
-    [Pub. L. 99–570, title IV, § 4303][/us/pl/99/570/s4303], Oct. 27, 1986, [100 Stat. 3207–154][/us/stat/100/3207-154], directed Secretary of Labor to collect such information as is available on the incidence of drug abuse in the workplace and efforts to assist workers, including counseling, rehabilitation and employee assistance programs, to conduct such additional research as is necessary to assess the impact and extent of drug abuse and remediation efforts, and submit the findings of such collection and research to Congress no later than two years from Oct. 27, 1986.
+    [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4303, Oct. 27, 1986, [100 Stat. 3207–154][/us/stat/100/3207-154], directed Secretary of Labor to collect such information as is available on the incidence of drug abuse in the workplace and efforts to assist workers, including counseling, rehabilitation and employee assistance programs, to conduct such additional research as is necessary to assess the impact and extent of drug abuse and remediation efforts, and submit the findings of such collection and research to Congress no later than two years from Oct. 27, 1986.
 
  __Interagency Coordination__ 
 
-[Pub. L. 99–570, title IV, § 4304][/us/pl/99/570/s4304], Oct. 27, 1986, [100 Stat. 3207–154][/us/stat/100/3207-154], provided that:
+[Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4304, Oct. 27, 1986, [100 Stat. 3207–154][/us/stat/100/3207-154], provided that:
 
 >     “(a) The Secretary of Education, the Secretary of Health and Human Services, and the Secretary of Labor shall each designate an officer or employee of the Departments of Education, Health and Human Services, and Labor, respectively, to coordinate interagency drug abuse prevention activities to prevent duplication of effort.
 
@@ -627,11 +627,11 @@
 
  __Substance Abuse Coverage Study__ 
 
-    [Pub. L. 99–570, title VI, § 6005][/us/pl/99/570/s6005], Oct. 27, 1986, [100 Stat. 3207–160][/us/stat/100/3207-160], as amended by [Pub. L. 100–690, title II, § 2058(c)][/us/pl/100/690/s2058/c], Nov. 18, 1988, [102 Stat. 4214][/us/stat/102/4214], directed Secretary of Health and Human Services to contract with Institute of Medicine of National Academy of Sciences to conduct a study of extent to which cost of drug abuse treatment is covered by private insurance, public programs, and other sources of payment, and adequacy of such coverage for the rehabilitation of drug abusers, and not later than 18 months after execution of such contract to transmit to Congress a report of results of study, including recommendations of means to meet the needs identified in such study.
+    [Pub. L. 99–570, title VI][/us/pl/99/570/tVI], § 6005, Oct. 27, 1986, [100 Stat. 3207–160][/us/stat/100/3207-160], as amended by [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2058(c), Nov. 18, 1988, [102 Stat. 4214][/us/stat/102/4214], directed Secretary of Health and Human Services to contract with Institute of Medicine of National Academy of Sciences to conduct a study of extent to which cost of drug abuse treatment is covered by private insurance, public programs, and other sources of payment, and adequacy of such coverage for the rehabilitation of drug abusers, and not later than 18 months after execution of such contract to transmit to Congress a report of results of study, including recommendations of means to meet the needs identified in such study.
 
  __Health Insurance Coverage for Drug and Alcohol Treatment__ 
 
-[Pub. L. 99–570, title VI, § 6006][/us/pl/99/570/s6006], Oct. 27, 1986, [100 Stat. 3207–160][/us/stat/100/3207-160], provided that:
+[Pub. L. 99–570, title VI][/us/pl/99/570/tVI], § 6006, Oct. 27, 1986, [100 Stat. 3207–160][/us/stat/100/3207-160], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -657,7 +657,7 @@
 
  __Commission on Marihuana and Drug Abuse__ 
 
-[Pub. L. 91–513, title II, § 601][/us/pl/91/513/s601], Oct. 27, 1970, [84 Stat. 1280][/us/stat/84/1280], as amended by [Pub. L. 92–13][/us/pl/92/13], May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that:
+[Pub. L. 91–513, title II][/us/pl/91/513/tII], § 601, Oct. 27, 1970, [84 Stat. 1280][/us/stat/84/1280], as amended by [Pub. L. 92–13][/us/pl/92/13], May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that:
 
 >     “(a)  __\[Establishment; composition\]__  __There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—__ 
 
@@ -754,221 +754,221 @@
 ----------
 ----------
 
-[/us/pl/91/513/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs101
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
-[/us/pl/91/513/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs704
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1284
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826
-[/us/pl/113/260/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs1
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/stat/128/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2929
 [/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
-[/us/pl/113/143/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143%2Fs1
+[/us/pl/113/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143
 [/us/stat/128/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1750
 [/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
-[/us/pl/112/144/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1151
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1130
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/111/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273%2Fs1
+[/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273
 [/us/stat/124/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2858
 [/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/111/268/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs1
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/stat/124/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2847
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/111/220/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220%2Fs1
+[/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
 [/us/stat/124/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2372
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/110/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs1
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4820
 [/us/usc/t21/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs831
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/110/415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F415%2Fs1
+[/us/pl/110/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F415
 [/us/stat/122/4349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4349
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/109/177/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs701
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F256
-[/us/pl/109/57/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57%2Fs1%2Fa
+[/us/pl/109/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F57
 [/us/stat/119/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F592
 [/us/usc/t21/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs953
-[/us/pl/108/358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs1
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1661
 [/us/usc/t42/s290bb–25f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9325f
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t42/s290aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%934
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/108/21/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fa
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F691
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/106/310/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3501
+[/us/pl/106/310/dB/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXV
 [/us/stat/114/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1222
-[/us/pl/106/310/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3601
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1227
 [/us/usc/t21/s864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs864
 [/us/usc/t28/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs524
-[/us/pl/106/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs1
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/stat/114/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F7
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/pl/105/277/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs801%2Fa
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-693
 [/us/usc/t21/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1713
 [/us/usc/t22/s2291–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%E2%80%935
 [/us/usc/t21/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-707
-[/us/pl/105/357/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357%2Fs1
+[/us/pl/105/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357
 [/us/stat/112/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3271
 [/us/usc/t21/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956
 [/us/usc/t21/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956
-[/us/pl/105/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1
+[/us/pl/105/277/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdE
 [/us/stat/112/2681-759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-759
 [/us/usc/t42/s13705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13705
-[/us/pl/104/305/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs1
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/stat/110/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3807
 [/us/usc/t21/s872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs872
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/104/237/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs1%2Fa
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/stat/110/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3099
 [/us/usc/t21/s872a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs872a
 [/us/usc/t19/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1607
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t42/s290aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%934
-[/us/pl/103/322/s180201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180201%2Fa
+[/us/pl/103/322/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVIII
 [/us/stat/108/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2046
 [/us/usc/t21/s849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs849
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/103/200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs1
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2333
 [/us/usc/t21/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs814
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/101/647/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1901
+[/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4851
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t42/s290aa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%936
 [/us/usc/t21/s333a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs333a
-[/us/pl/100/690/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6001
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4312
-[/us/pl/100/690/s6051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6051
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4312
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs971
-[/us/pl/100/690/s6071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6071
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4320
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881
 [/us/usc/t19/s1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1594
 [/us/usc/t28/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs524
 [/us/usc/t21/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881
-[/us/pl/99/570/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207
-[/us/pl/99/570/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1001
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-2
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
-[/us/pl/99/570/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1051
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-8
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs844
-[/us/pl/99/570/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1101
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-10
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s845b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs845b
-[/us/pl/99/570/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1201
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-13
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs813
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/99/570/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1251
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-14
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848
-[/us/pl/99/570/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1301
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-15
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960
-[/us/pl/99/570/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1821
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-51
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs857
 [/us/usc/t21/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs857
-[/us/pl/101/647/s2401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fd
+[/us/pl/101/647/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIV
 [/us/stat/104/4859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4859
-[/us/pl/99/570/s1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1991
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-59
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881
-[/us/pl/98/473/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs501
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2068
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t21/s845a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs845a
-[/us/pl/98/473/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs506%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2070
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/95/633/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs1
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/stat/92/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3768
 [/us/usc/t42/s242a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242a
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/93/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281%2Fs1
+[/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
 [/us/stat/88/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F124
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
 [/us/usc/t28/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2901
 [/us/usc/t49/s787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs787
 [/us/usc/t48/s1421m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421m
-[/us/pl/91/513/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs100
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s360a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360a
 [/us/usc/t42/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1000
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
-[/us/pl/106/310/s3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3673
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1246
-[/us/pl/91/513/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs705
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1284
-[/us/pl/106/391/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs320
+[/us/pl/106/391/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2FtIII
 [/us/stat/114/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1597
-[/us/pl/106/310/s3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3671
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1245
 [/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/stat/114/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F11
-[/us/pl/111/8/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fd
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/104/237/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs2
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/stat/110/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3100
-[/us/pl/104/237/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs101
+[/us/pl/104/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtI
 [/us/stat/110/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3100
-[/us/pl/104/237/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs501
+[/us/pl/104/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtV
 [/us/stat/110/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3111
-[/us/pl/104/237/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs504
+[/us/pl/104/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtV
 [/us/stat/110/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3112
-[/us/pl/100/690/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2405
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4231
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/100/690/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7404
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4484
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/180/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1241
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1162
-[/us/pl/99/570/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207-1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-1
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
 [/us/usc/t2/s622/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs622%2F10
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-73
-[/us/pl/104/66/s1091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1091%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
 [/us/usc/t10/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs379
 [/us/usc/t47/s312a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs312a
@@ -985,17 +985,17 @@
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
 [/us/usc/t19/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2075
 [/us/pl/99/570/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3001
-[/us/pl/99/570/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4303
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-154
-[/us/pl/99/570/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4304
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-154
-[/us/pl/99/570/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs6005
+[/us/pl/99/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtVI
 [/us/stat/100/3207-160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-160
-[/us/pl/100/690/s2058/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2058%2Fc
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4214
-[/us/pl/99/570/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs6006
+[/us/pl/99/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtVI
 [/us/stat/100/3207-160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-160
-[/us/pl/91/513/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs601
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1280
 [/us/pl/92/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F13
 [/us/stat/85/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F37

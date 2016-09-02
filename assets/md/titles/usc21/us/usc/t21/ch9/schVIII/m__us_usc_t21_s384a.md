@@ -89,7 +89,7 @@
 
         The Secretary shall publish and maintain on the Internet Web site of the Food and Drug Administration a current list that includes the name of, location of, and other information deemed necessary by the Secretary about, importers participating under this section.
 
-([June 25, 1938, ch. 675, § 805][/us/act/1938-06-25/ch675/s805], as added [Pub. L. 111–353, title III, § 301(a)][/us/pl/111/353/s301/a], Jan. 4, 2011, [124 Stat. 3953][/us/stat/124/3953].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 805, as added [Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 301(a), Jan. 4, 2011, [124 Stat. 3953][/us/stat/124/3953].)
 
  __Effective Date__ 
 
@@ -115,8 +115,8 @@
 [/us/usc/t21/s350h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350h
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
 [/us/usc/t21/s343/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343%2Fw
-[/us/act/1938-06-25/ch675/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs805
-[/us/pl/111/353/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs301%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3953
 [/us/pl/111/353/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs301%2Fd
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331

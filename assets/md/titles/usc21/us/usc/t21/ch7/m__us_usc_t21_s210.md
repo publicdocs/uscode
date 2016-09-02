@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person whose permanent allegiance is due to the United States, not legally licensed as a pharmacist, to take, use, or exhibit the title of pharmacist, or licensed or registered pharmacist, or the title of druggist or apothecary, or any other title or description of like import.
 
-([Mar. 3, 1915, ch. 74, § 10][/us/act/1915-03-03/ch74/s10], [38 Stat. 821][/us/stat/38/821].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 10, [38 Stat. 821][/us/stat/38/821].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch74/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs10
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F821
 
 

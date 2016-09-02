@@ -105,7 +105,7 @@
 
         For the purpose of making grants under this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.
 
-([June 25, 1938, ch. 675, § 1009][/us/act/1938-06-25/ch675/s1009], formerly § 909, as added [Pub. L. 107–188, title III, § 311][/us/pl/107/188/s311], June 12, 2002, [116 Stat. 673][/us/stat/116/673]; renumbered § 1009 and amended [Pub. L. 111–31, div. A, title I][/us/pl/111/31], §§ 101(b)(2), 103(n), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784], 1838; [Pub. L. 111–353, title II, § 210(a)][/us/pl/111/353/s210/a], Jan. 4, 2011, [124 Stat. 3948][/us/stat/124/3948].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1009, formerly § 909, as added [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 311, June 12, 2002, [116 Stat. 673][/us/stat/116/673]; renumbered § 1009 and amended [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], §§ 101(b)(2), 103(n), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784], 1838; [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 210(a), Jan. 4, 2011, [124 Stat. 3948][/us/stat/124/3948].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
     2011—[Pub. L. 111–353][/us/pl/111/353] amended section generally. Prior to amendment, section related to grants to States for inspections.
 
-    2009—Subsec. (b). [Pub. L. 111–31, § 103(n)][/us/pl/111/31/s103/n], made technical amendment to reference in original act which appears in text as reference to [section 398 of this title][/us/usc/t21/s398].
+    2009—Subsec. (b). [Pub. L. 111–31][/us/pl/111/31], § 103(n), made technical amendment to reference in original act which appears in text as reference to [section 398 of this title][/us/usc/t21/s398].
 
  __Construction of 2011 Amendment__ 
 
@@ -131,12 +131,12 @@
 [/us/usc/t21/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs372
 [/us/usc/t21/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs398
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/act/1938-06-25/ch675/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1009
-[/us/pl/107/188/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs311
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F673
-[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
-[/us/pl/111/353/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs210%2Fa
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3948
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885
@@ -145,7 +145,7 @@
 [/us/usc/t42/s247b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9320
 [/us/usc/t21/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2201
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/111/31/s103/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fn
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs398
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 

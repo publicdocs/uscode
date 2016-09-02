@@ -259,7 +259,7 @@
 
             The Secretary shall ensure the accuracy and coordination of relevant Food and Drug Administration databases in order to identify and inform risk-based inspections under subsection (h).
 
-([June 25, 1938, ch. 675, § 510][/us/act/1938-06-25/ch675/s510], as added [Pub. L. 87–781, title III, § 302][/us/pl/87/781/s302], Oct. 10, 1962, [76 Stat. 794][/us/stat/76/794]; amended [Pub. L. 89–74, § 4][/us/pl/89/74/s4], July 15, 1965, [79 Stat. 231][/us/stat/79/231]; [Pub. L. 91–513, title II, § 701(e)][/us/pl/91/513/s701/e], Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282]; [Pub. L. 92–387][/us/pl/92/387], §§ 3, 4(a)–(c), Aug. 16, 1972, [86 Stat. 560–562][/us/stat/86/560-562]; [Pub. L. 94–295, § 4(a)][/us/pl/94/295/s4/a], May 28, 1976, [90 Stat. 579][/us/stat/90/579]; [Pub. L. 105–115, title I, § 125(a)(2)(C)][/us/pl/105/115/s125/a/2/C], title II, §§ 206(a), 209(a), 213(b), title IV, § 417, Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2338, 2341, 2347, 2379; [Pub. L. 107–188, title III, § 321(a)][/us/pl/107/188/s321/a], June 12, 2002, [116 Stat. 675][/us/stat/116/675]; [Pub. L. 107–250, title II][/us/pl/107/250], §§ 201(e), 207, 211, title III, § 302(b), Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609], 1613, 1614, 1616; [Pub. L. 108–214, § 2(c)(2)][/us/pl/108/214/s2/c/2], Apr. 1, 2004, [118 Stat. 576][/us/stat/118/576]; [Pub. L. 110–85, title II][/us/pl/110/85], §§ 222–224, title VIII, § 801(b)(3)(C), Sept. 27, 2007, [121 Stat. 853][/us/stat/121/853], 921; [Pub. L. 112–144, title VI, § 604][/us/pl/112/144/s604], title VII, §§ 701, 702(b)–705, July 9, 2012, [126 Stat. 1052][/us/stat/126/1052], 1064–1066.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 510, as added [Pub. L. 87–781, title III][/us/pl/87/781/tIII], § 302, Oct. 10, 1962, [76 Stat. 794][/us/stat/76/794]; amended [Pub. L. 89–74][/us/pl/89/74], § 4, July 15, 1965, [79 Stat. 231][/us/stat/79/231]; [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 701(e), Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282]; [Pub. L. 92–387][/us/pl/92/387], §§ 3, 4(a)–(c), Aug. 16, 1972, [86 Stat. 560–562][/us/stat/86/560-562]; [Pub. L. 94–295][/us/pl/94/295], § 4(a), May 28, 1976, [90 Stat. 579][/us/stat/90/579]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(a)(2)(C), title II, §§ 206(a), 209(a), 213(b), title IV, § 417, Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2338, 2341, 2347, 2379; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 321(a), June 12, 2002, [116 Stat. 675][/us/stat/116/675]; [Pub. L. 107–250, title II][/us/pl/107/250/tII], §§ 201(e), 207, 211, title III, § 302(b), Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609], 1613, 1614, 1616; [Pub. L. 108–214][/us/pl/108/214], § 2(c)(2), Apr. 1, 2004, [118 Stat. 576][/us/stat/118/576]; [Pub. L. 110–85, title II][/us/pl/110/85/tII], §§ 222–224, title VIII, § 801(b)(3)(C), Sept. 27, 2007, [121 Stat. 853][/us/stat/121/853], 921; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 604, title VII, §§ 701, 702(b)–705, July 9, 2012, [126 Stat. 1052][/us/stat/126/1052], 1064–1066.)
 
  __References in Text__ 
 
@@ -267,111 +267,111 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1). [Pub. L. 112–144, § 701(1)(A)][/us/pl/112/144/s701/1/A], which directed amendment of par. (1) by “striking ‘On or before’ and all that follows through the period at the end and inserting the following: ‘During the period beginning on October 1 and ending on December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary the name of such person, places of business of such person, all such establishments, the unique facility identifier of each such establishment, and a point of contact e-mail address.; and”, was executed as if an end quotation mark for the inserted material followed “address.”, to reflect the probable intent of Congress. Prior to amendment, stricken text read as follows: “On or before December 31 of each year every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary his name, places of business, and all such establishments.”
+    2012—Subsec. (b)(1). [Pub. L. 112–144][/us/pl/112/144], § 701(1)(A), which directed amendment of par. (1) by “striking ‘On or before’ and all that follows through the period at the end and inserting the following: ‘During the period beginning on October 1 and ending on December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary the name of such person, places of business of such person, all such establishments, the unique facility identifier of each such establishment, and a point of contact e-mail address.; and”, was executed as if an end quotation mark for the inserted material followed “address.”, to reflect the probable intent of Congress. Prior to amendment, stricken text read as follows: “On or before December 31 of each year every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary his name, places of business, and all such establishments.”
 
-    Subsec. (b)(3). [Pub. L. 112–144, § 701(1)(B)][/us/pl/112/144/s701/1/B], added par. (3).
+    Subsec. (b)(3). [Pub. L. 112–144][/us/pl/112/144], § 701(1)(B), added par. (3).
 
-    Subsec. (c). [Pub. L. 112–144, § 701(2)][/us/pl/112/144/s701/2], substituted “with the Secretary—” and pars. (1) and (2) for “with the Secretary his name, place of business, and such establishment”.
+    Subsec. (c). [Pub. L. 112–144][/us/pl/112/144], § 701(2), substituted “with the Secretary—” and pars. (1) and (2) for “with the Secretary his name, place of business, and such establishment”.
 
-    Subsec. (h). [Pub. L. 112–144, § 705][/us/pl/112/144/s705], amended subsec. (h) generally. Prior to amendment, text read as follows: “Every establishment in any State registered with the Secretary pursuant to this section shall be subject to inspection pursuant to [section 374 of this title][/us/usc/t21/s374] and every such establishment engaged in the manufacture, propagation, compounding, or processing of a drug or drugs or of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under [section 374(g) of this title][/us/usc/t21/s374/g], at least once in the two-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive two-year period thereafter.”
+    Subsec. (h). [Pub. L. 112–144][/us/pl/112/144], § 705, amended subsec. (h) generally. Prior to amendment, text read as follows: “Every establishment in any State registered with the Secretary pursuant to this section shall be subject to inspection pursuant to [section 374 of this title][/us/usc/t21/s374] and every such establishment engaged in the manufacture, propagation, compounding, or processing of a drug or drugs or of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under [section 374(g) of this title][/us/usc/t21/s374/g], at least once in the two-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive two-year period thereafter.”
 
-    Subsec. (i)(1). [Pub. L. 112–144, § 702(b)(1)(A)][/us/pl/112/144/s702/b/1/A], amended introductory provisions generally. Prior to amendment, text read as follows: “Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—”.
+    Subsec. (i)(1). [Pub. L. 112–144][/us/pl/112/144], § 702(b)(1)(A), amended introductory provisions generally. Prior to amendment, text read as follows: “Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—”.
 
-    Subsec. (i)(1)(A). [Pub. L. 112–144, § 702(b)(1)(B)][/us/pl/112/144/s702/b/1/B], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “upon first engaging in any such activity, immediately register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation; and”.
+    Subsec. (i)(1)(A). [Pub. L. 112–144][/us/pl/112/144], § 702(b)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “upon first engaging in any such activity, immediately register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation; and”.
 
-    Subsec. (i)(1)(B). [Pub. L. 112–144, § 702(b)(1)(C)][/us/pl/112/144/s702/b/1/C], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “each establishment subject to the requirements of subparagraph (A) shall thereafter—
+    Subsec. (i)(1)(B). [Pub. L. 112–144][/us/pl/112/144], § 702(b)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “each establishment subject to the requirements of subparagraph (A) shall thereafter—
 
     “(i) with respect to drugs, register with the Secretary on or before December 31 of each year; and
 
     “(ii) with respect to devices, register with the Secretary during the period beginning on October 1 and ending on December 31 of each year.”
 
-    Subsec. (i)(4). [Pub. L. 112–144, § 702(b)(2)][/us/pl/112/144/s702/b/2], added par. (4).
+    Subsec. (i)(4). [Pub. L. 112–144][/us/pl/112/144], § 702(b)(2), added par. (4).
 
-    Subsec. (j)(1)(E). [Pub. L. 112–144, § 703(1)][/us/pl/112/144/s703/1], added subpar. (E).
+    Subsec. (j)(1)(E). [Pub. L. 112–144][/us/pl/112/144], § 703(1), added subpar. (E).
 
-    Subsec. (j)(4). [Pub. L. 112–144, § 703(2)][/us/pl/112/144/s703/2], added par. (4).
+    Subsec. (j)(4). [Pub. L. 112–144][/us/pl/112/144], § 703(2), added par. (4).
 
-    Subsec. (n). [Pub. L. 112–144, § 604][/us/pl/112/144/s604], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (n). [Pub. L. 112–144][/us/pl/112/144], § 604, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (p). [Pub. L. 112–144, § 704][/us/pl/112/144/s704], inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) and (3).
+    Subsec. (p). [Pub. L. 112–144][/us/pl/112/144], § 704, inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) and (3).
 
-    2007—Subsec. (b). [Pub. L. 110–85, § 222(a)][/us/pl/110/85/s222/a], designated existing provisions as par. (1), struck out “or a device or devices” after “drug or drugs”, and added par. (2).
+    2007—Subsec. (b). [Pub. L. 110–85][/us/pl/110/85], § 222(a), designated existing provisions as par. (1), struck out “or a device or devices” after “drug or drugs”, and added par. (2).
 
-    Subsec. (i)(1). [Pub. L. 110–85, § 222(b)][/us/pl/110/85/s222/b], inserted text of par. (1) and struck out former text of par. (1) which related to registration requirement for foreign establishments engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device to be imported or offered for import into the United States.
+    Subsec. (i)(1). [Pub. L. 110–85][/us/pl/110/85], § 222(b), inserted text of par. (1) and struck out former text of par. (1) which related to registration requirement for foreign establishments engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device to be imported or offered for import into the United States.
 
-    Subsec. (j)(2). [Pub. L. 110–85, § 223][/us/pl/110/85/s223], in introductory provisions, substituted “Each person who registers with the Secretary under this section shall report to the Secretary, with regard to drugs once during the month of June of each year and once during the month of December of each year, and with regard to devices once each year during the period beginning on October 1 and ending on December 31, the following information:” for “Each person who registers with the Secretary under this section shall report to the Secretary once during the month of June of each year and once during the month of December of each year the following information:”.
+    Subsec. (j)(2). [Pub. L. 110–85][/us/pl/110/85], § 223, in introductory provisions, substituted “Each person who registers with the Secretary under this section shall report to the Secretary, with regard to drugs once during the month of June of each year and once during the month of December of each year, and with regard to devices once each year during the period beginning on October 1 and ending on December 31, the following information:” for “Each person who registers with the Secretary under this section shall report to the Secretary once during the month of June of each year and once during the month of December of each year the following information:”.
 
-    Subsec. (k). [Pub. L. 110–85, § 801(b)(3)(C)][/us/pl/110/85/s801/b/3/C], inserted concluding provisions.
+    Subsec. (k). [Pub. L. 110–85][/us/pl/110/85], § 801(b)(3)(C), inserted concluding provisions.
 
-    Subsec. (p). [Pub. L. 110–85, § 224][/us/pl/110/85/s224], amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “Registrations under subsections (b), (c), (d), and (i) of this section (including the submission of updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary that the electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.”
+    Subsec. (p). [Pub. L. 110–85][/us/pl/110/85], § 224, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “Registrations under subsections (b), (c), (d), and (i) of this section (including the submission of updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary that the electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.”
 
-    2004—Subsec. (o)(1)(B), (2)(B). [Pub. L. 108–214, § 2(c)(2)(A)][/us/pl/108/214/s2/c/2/A], (B)(i), substituted “or adulterated” for “, adulterated”.
+    2004—Subsec. (o)(1)(B), (2)(B). [Pub. L. 108–214][/us/pl/108/214], § 2(c)(2)(A), (B)(i), substituted “or adulterated” for “, adulterated”.
 
-    Subsec. (o)(2)(E). [Pub. L. 108–214, § 2(c)(2)(B)(ii)][/us/pl/108/214/s2/c/2/B/ii], substituted “semi-critical” for “semicritical”.
+    Subsec. (o)(2)(E). [Pub. L. 108–214][/us/pl/108/214], § 2(c)(2)(B)(ii), substituted “semi-critical” for “semicritical”.
 
-    2002—Subsec. (h). [Pub. L. 107–250, § 201(e)][/us/pl/107/250/s201/e], inserted “, or by persons accredited to conduct inspections under [section 374(g) of this title][/us/usc/t21/s374/g],” after “duly designated by the Secretary”.
+    2002—Subsec. (h). [Pub. L. 107–250][/us/pl/107/250], § 201(e), inserted “, or by persons accredited to conduct inspections under [section 374(g) of this title][/us/usc/t21/s374/g],” after “duly designated by the Secretary”.
 
-    Subsec. (i)(1). [Pub. L. 107–188, § 321(a)(1)][/us/pl/107/188/s321/a/1], substituted “On or before December 31 of each year, any establishment” for “Any establishment” and “shall, through electronic means in accordance with the criteria of the Secretary, register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation” for “shall register with the Secretary the name and place of business of the establishment and the name of the United States agent for the establishment”.
+    Subsec. (i)(1). [Pub. L. 107–188][/us/pl/107/188], § 321(a)(1), substituted “On or before December 31 of each year, any establishment” for “Any establishment” and “shall, through electronic means in accordance with the criteria of the Secretary, register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation” for “shall register with the Secretary the name and place of business of the establishment and the name of the United States agent for the establishment”.
 
-    Subsec. (j)(1). [Pub. L. 107–188, § 321(a)(2)][/us/pl/107/188/s321/a/2], substituted “subsection (b), (c), (d), or (i)” for “subsection (b), (c), or (d)” in first sentence.
+    Subsec. (j)(1). [Pub. L. 107–188][/us/pl/107/188], § 321(a)(2), substituted “subsection (b), (c), (d), or (i)” for “subsection (b), (c), or (d)” in first sentence.
 
-    Subsec. (m)(1). [Pub. L. 107–250, § 211][/us/pl/107/250/s211], inserted at end “The Secretary shall publish such list on the Internet site of the Food and Drug Administration. The list so published shall be updated not later than 30 days after each revision of the list by the Secretary.”
+    Subsec. (m)(1). [Pub. L. 107–250][/us/pl/107/250], § 211, inserted at end “The Secretary shall publish such list on the Internet site of the Food and Drug Administration. The list so published shall be updated not later than 30 days after each revision of the list by the Secretary.”
 
-    Subsec. (o). [Pub. L. 107–250, § 302(b)][/us/pl/107/250/s302/b], added subsec. (o).
+    Subsec. (o). [Pub. L. 107–250][/us/pl/107/250], § 302(b), added subsec. (o).
 
-    Subsec. (p). [Pub. L. 107–250, § 207][/us/pl/107/250/s207], added subsec. (p).
+    Subsec. (p). [Pub. L. 107–250][/us/pl/107/250], § 207, added subsec. (p).
 
-    1997—Subsec. (g). [Pub. L. 105–115, § 213(b)(3)][/us/pl/105/115/s213/b/3], inserted at end “In this subsection, the term ‘wholesale distributor’ means any person (other than the manufacturer or the initial importer) who distributes a device from the original place of manufacture to the person who makes the final delivery or sale of the device to the ultimate consumer or user.”
+    1997—Subsec. (g). [Pub. L. 105–115][/us/pl/105/115], § 213(b)(3), inserted at end “In this subsection, the term ‘wholesale distributor’ means any person (other than the manufacturer or the initial importer) who distributes a device from the original place of manufacture to the person who makes the final delivery or sale of the device to the ultimate consumer or user.”
 
-    Subsec. (g)(4), (5). [Pub. L. 105–115, § 213(b)(1)][/us/pl/105/115/s213/b/1], (2), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (g)(4), (5). [Pub. L. 105–115][/us/pl/105/115], § 213(b)(1), (2), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (i). [Pub. L. 105–115, § 417][/us/pl/105/115/s417], amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs, or a device or devices, shall be permitted to register under this section pursuant to regulations promulgated by the Secretary. Such regulations shall require such establishment to provide the information required by subsection (j) of this section and shall require such establishment to provide the information required by subsection (j) of this section in the case of a device or devices and shall include provisions for registration of any such establishment upon condition that adequate and effective means are available, by arrangement with the government of such foreign country or otherwise, to enable the Secretary to determine from time to time whether drugs or devices manufactured, prepared, propagated, compounded, or processed in such establishment, if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in [section 381(a) of this title][/us/usc/t21/s381/a].”
+    Subsec. (i). [Pub. L. 105–115][/us/pl/105/115], § 417, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs, or a device or devices, shall be permitted to register under this section pursuant to regulations promulgated by the Secretary. Such regulations shall require such establishment to provide the information required by subsection (j) of this section and shall require such establishment to provide the information required by subsection (j) of this section in the case of a device or devices and shall include provisions for registration of any such establishment upon condition that adequate and effective means are available, by arrangement with the government of such foreign country or otherwise, to enable the Secretary to determine from time to time whether drugs or devices manufactured, prepared, propagated, compounded, or processed in such establishment, if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in [section 381(a) of this title][/us/usc/t21/s381/a].”
 
-    Subsec. (j)(1)(A), (D). [Pub. L. 105–115, § 125(a)(2)(C)][/us/pl/105/115/s125/a/2/C], struck out “, 356, 357,” before “or 360b of this title”.
+    Subsec. (j)(1)(A), (D). [Pub. L. 105–115][/us/pl/105/115], § 125(a)(2)(C), struck out “, 356, 357,” before “or 360b of this title”.
 
-    Subsec. (k). [Pub. L. 105–115, § 206(a)(1)][/us/pl/105/115/s206/a/1], inserted “or person who is accredited under [section 360m(a) of this title][/us/usc/t21/s360m/a]” after “report to the Secretary”.
+    Subsec. (k). [Pub. L. 105–115][/us/pl/105/115], § 206(a)(1), inserted “or person who is accredited under [section 360m(a) of this title][/us/usc/t21/s360m/a]” after “report to the Secretary”.
 
-    Subsecs. (l), (m). [Pub. L. 105–115, § 206(a)(2)][/us/pl/105/115/s206/a/2], added subsecs. (l) and (m).
+    Subsecs. (l), (m). [Pub. L. 105–115][/us/pl/105/115], § 206(a)(2), added subsecs. (l) and (m).
 
-    Subsec. (n). [Pub. L. 105–115, § 209(a)][/us/pl/105/115/s209/a], added subsec. (n).
+    Subsec. (n). [Pub. L. 105–115][/us/pl/105/115], § 209(a), added subsec. (n).
 
-    1976—Subsec. (a)(1). [Pub. L. 94–295, § 4(a)(2)][/us/pl/94/295/s4/a/2], substituted “drug package or device package” for “drug package”, “distribution of the drug or device” for “distribution of the drug”, and “ultimate consumer or user” for “ultimate consumer”.
+    1976—Subsec. (a)(1). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(2), substituted “drug package or device package” for “drug package”, “distribution of the drug or device” for “distribution of the drug”, and “ultimate consumer or user” for “ultimate consumer”.
 
-    Subsecs. (b) to (d). [Pub. L. 94–295, § 4(a)(3)][/us/pl/94/295/s4/a/3], inserted “or a device or devices” after “drug or drugs”.
+    Subsecs. (b) to (d). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(3), inserted “or a device or devices” after “drug or drugs”.
 
-    Subsec. (e). [Pub. L. 94–295, § 4(a)(4)][/us/pl/94/295/s4/a/4], authorized the Secretary to prescribe by regulation a uniform system for the identification of devices intended for human use and authorized him, in addition, to require that persons who are required to list devices pursuant to subsec. (j) also list such devices in accordance with the system.
+    Subsec. (e). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(4), authorized the Secretary to prescribe by regulation a uniform system for the identification of devices intended for human use and authorized him, in addition, to require that persons who are required to list devices pursuant to subsec. (j) also list such devices in accordance with the system.
 
-    Subsec. (g)(1) to (3). [Pub. L. 94–295, § 4(a)(5)][/us/pl/94/295/s4/a/5], substituted “drugs or devices” for “drugs”.
+    Subsec. (g)(1) to (3). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(5), substituted “drugs or devices” for “drugs”.
 
-    Subsec. (h). [Pub. L. 94–295, § 4(a)(6)][/us/pl/94/295/s4/a/6], inserted reference to establishments engaged in the manufacture, propagation, compounding, or processing of a drug or drugs or of a device or devices classified in class II or III.
+    Subsec. (h). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(6), inserted reference to establishments engaged in the manufacture, propagation, compounding, or processing of a drug or drugs or of a device or devices classified in class II or III.
 
-    Subsec. (i). [Pub. L. 94–295, § 4(a)(7)][/us/pl/94/295/s4/a/7], inserted reference to devices and inserted requirement that regulations require establishments to provide the information required by subsection (j) of this section in the case of a device or devices.
+    Subsec. (i). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(7), inserted reference to devices and inserted requirement that regulations require establishments to provide the information required by subsection (j) of this section in the case of a device or devices.
 
-    Subsec. (j)(1). [Pub. L. 94–295, § 4(a)(8)(A)][/us/pl/94/295/s4/a/8/A], in introductory provisions substituted “a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name” for “a list of all drugs (by established name” and “drugs or devices filed” for “drugs filed”.
+    Subsec. (j)(1). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(A), in introductory provisions substituted “a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name” for “a list of all drugs (by established name” and “drugs or devices filed” for “drugs filed”.
 
-    Subsec. (j)(1)(A). [Pub. L. 94–295, § 4(a)(8)(B)][/us/pl/94/295/s4/a/8/B], substituted “the applicable list” for “such list”, inserted “or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under [section 360d of this title][/us/usc/t21/s360d] or which is subject to [section 360e of this title][/us/usc/t21/s360e],” after “360b of this title,”, and substituted “such drug or device” for “such drug” wherever appearing.
+    Subsec. (j)(1)(A). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(B), substituted “the applicable list” for “such list”, inserted “or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under [section 360d of this title][/us/usc/t21/s360d] or which is subject to [section 360e of this title][/us/usc/t21/s360e],” after “360b of this title,”, and substituted “such drug or device” for “such drug” wherever appearing.
 
-    Subsec. (j)(1)(B). [Pub. L. 94–295, § 4(a)(8)(C)][/us/pl/94/295/s4/a/8/C], in introductory provisions substituted “drug or device contained in an applicable list” for “drug contained in such list”.
+    Subsec. (j)(1)(B). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(C), in introductory provisions substituted “drug or device contained in an applicable list” for “drug contained in such list”.
 
-    Subsec. (j)(1)(B)(i). [Pub. L. 94–295, § 4(a)(8)(D)][/us/pl/94/295/s4/a/8/D], substituted “which drug is subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1], or which device is a restricted device, a copy of all labeling for such drug or device, a representative sampling of advertisements for such drug or device, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product or device, or” for “which is subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1], a copy of all labeling for such drug, a representative sampling of advertisements for such drug, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product, or”.
+    Subsec. (j)(1)(B)(i). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(D), substituted “which drug is subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1], or which device is a restricted device, a copy of all labeling for such drug or device, a representative sampling of advertisements for such drug or device, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product or device, or” for “which is subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1], a copy of all labeling for such drug, a representative sampling of advertisements for such drug, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product, or”.
 
-    Subsec. (j)(1)(B)(ii). [Pub. L. 94–295, § 4(a)(8)(E)][/us/pl/94/295/s4/a/8/E], substituted “which drug is not subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1] or which device is not a restricted device, the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1], the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
+    Subsec. (j)(1)(B)(ii). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(E), substituted “which drug is not subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1] or which device is not a restricted device, the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1], the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
 
-    Subsec. (j)(1)(C). [Pub. L. 94–295, § 4(a)(8)(F)][/us/pl/94/295/s4/a/8/F], substituted “an applicable list” for “such list”.
+    Subsec. (j)(1)(C). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(F), substituted “an applicable list” for “such list”.
 
-    Subsec. (j)(1)(D). [Pub. L. 94–295, § 4(a)(8)(G)][/us/pl/94/295/s4/a/8/G], substituted “a list” for “the list”, inserted “or the particular device contained in such list is not subject to a performance standard established under [section 360d of this title][/us/usc/t21/s360d] or to [section 360e of this title][/us/usc/t21/s360e] or is not a restricted device” after “or 360b of this title,”, and substituted “particular drug product or device” for “particular drug product” wherever appearing.
+    Subsec. (j)(1)(D). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(G), substituted “a list” for “the list”, inserted “or the particular device contained in such list is not subject to a performance standard established under [section 360d of this title][/us/usc/t21/s360d] or to [section 360e of this title][/us/usc/t21/s360e] or is not a restricted device” after “or 360b of this title,”, and substituted “particular drug product or device” for “particular drug product” wherever appearing.
 
-    Subsec. (j)(2). [Pub. L. 94–295, § 4(a)(8)(H)][/us/pl/94/295/s4/a/8/H], substituted “drug or device” for “drug” in subpars. (A), (B), and (C), and substituted “(each by established name” for “(by established name” in subpar. (C).
+    Subsec. (j)(2). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(8)(H), substituted “drug or device” for “drug” in subpars. (A), (B), and (C), and substituted “(each by established name” for “(by established name” in subpar. (C).
 
-    Subsec. (k). [Pub. L. 94–295, § 4(a)(9)][/us/pl/94/295/s4/a/9], added subsec. (k).
+    Subsec. (k). [Pub. L. 94–295][/us/pl/94/295], § 4(a)(9), added subsec. (k).
 
-    1972—Subsec. (e). [Pub. L. 92–387, § 4(a)][/us/pl/92/387/s4/a], inserted provision that the Secretary may assign a listing number to each drug or class of drugs listed under subsec. (j).
+    1972—Subsec. (e). [Pub. L. 92–387][/us/pl/92/387], § 4(a), inserted provision that the Secretary may assign a listing number to each drug or class of drugs listed under subsec. (j).
 
-    Subsec. (f). [Pub. L. 92–387, § 4(b)][/us/pl/92/387/s4/b], inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exempt from inspection unless the Secretary determines otherwise.
+    Subsec. (f). [Pub. L. 92–387][/us/pl/92/387], § 4(b), inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exempt from inspection unless the Secretary determines otherwise.
 
-    Subsec. (i). [Pub. L. 92–387, § 4(c)][/us/pl/92/387/s4/c], inserted provision that the regulations shall require such establishment to provide the information required by subsec. (j).
+    Subsec. (i). [Pub. L. 92–387][/us/pl/92/387], § 4(c), inserted provision that the regulations shall require such establishment to provide the information required by subsec. (j).
 
-    Subsec. (j). [Pub. L. 92–387, § 3][/us/pl/92/387/s3], added subsec. (j).
+    Subsec. (j). [Pub. L. 92–387][/us/pl/92/387], § 3, added subsec. (j).
 
     1970—Subsec. (a). [Pub. L. 91–513][/us/pl/91/513] struck out provisions defining the wholesaling, jobbing, or distributing of depressant or stimulant drugs.
 
@@ -381,11 +381,11 @@
 
     Subsec. (d). [Pub. L. 91–513][/us/pl/91/513] struck out number designation “(1)” preceding first sentence, struck out portion of such redesignated provisions covering the wholesaling, jobbing, or distributing of depressant or stimulant drugs, and struck out par. (2) covering the filing of supplemental registration whenever a person not previously engaged or involved with depressant or stimulant drugs goes into the manufacturing, preparation, or processing thereof.
 
-    1965—[Pub. L. 89–74, § 4(e)][/us/pl/89/74/s4/e], included certain wholesalers in section catchline.
+    1965—[Pub. L. 89–74][/us/pl/89/74], § 4(e), included certain wholesalers in section catchline.
 
-    Subsec. (a)(2), (3). [Pub. L. 89–74, § 4(a)][/us/pl/89/74/s4/a], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 89–74][/us/pl/89/74], § 4(a), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsecs. (b), (c). [Pub. L. 89–74, § 4(b)][/us/pl/89/74/s4/b], (c), inserted “or in the wholesaling, jobbing, or distributing of any depressant or stimulant drug” after “drug or drugs” and inserted requirement that establishment indicate activity in depressant or stimulant drugs at time of registration.
+    Subsecs. (b), (c). [Pub. L. 89–74][/us/pl/89/74], § 4(b), (c), inserted “or in the wholesaling, jobbing, or distributing of any depressant or stimulant drug” after “drug or drugs” and inserted requirement that establishment indicate activity in depressant or stimulant drugs at time of registration.
 
     Subsec. (d). [Pub. L. 89–74][/us/pl/89/74] § 4(d), designated existing provisions as par. (1), inserted “or the wholesaling, jobbing, or distributing of any depressant or stimulant drug” and the requirement that the additional establishment indicate activity in depressant or stimulant drugs at time of registration, and added par. (2).
 
@@ -399,7 +399,7 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–387, § 5][/us/pl/92/387/s5], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562], provided that: 
+[Pub. L. 92–387][/us/pl/92/387], § 5, Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\].”
 
@@ -417,19 +417,19 @@
 
  __Congressional Declaration of Need for Registration and Inspection of Drug Establishments__ 
 
-[Pub. L. 87–781, title III, § 301][/us/pl/87/781/s301], Oct. 10, 1962, [76 Stat. 793][/us/stat/76/793], provided that: 
+[Pub. L. 87–781, title III][/us/pl/87/781/tIII], § 301, Oct. 10, 1962, [76 Stat. 793][/us/stat/76/793], provided that: 
 
 > “The Congress hereby finds and declares that in order to make regulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments in which drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce.”
 
  __Declaration of Policy of Drug Listing Act of 1972__ 
 
-[Pub. L. 92–387, § 2][/us/pl/92/387/s2], Aug. 16, 1972, [86 Stat. 559][/us/stat/86/559], provided that: 
+[Pub. L. 92–387][/us/pl/92/387], § 2, Aug. 16, 1972, [86 Stat. 559][/us/stat/86/559], provided that: 
 
 > “The Federal Government which is responsible for regulating drugs has no ready means of determining what drugs are actually being manufactured or packed by establishments registered under the Federal Food, Drug, and Cosmetic Act \[this chapter\] except by periodic inspection of such registered establishments. Knowledge of which particular drugs are being manufactured or packed by each registered establishment would substantially assist in the enforcement of Federal laws requiring that such drugs be pure, safe, effective, and properly labeled. Information on the discontinuance of a particular drug could serve to alleviate the burden of reviewing and implementing enforcement actions against drugs which, although commercially discontinued, remain active for regulatory purposes. Information on the type and number of different drugs being manufactured or packed by drug establishments could permit more effective and timely regulation by the agencies of the Federal Government responsible for regulating drugs, including identification of which drugs in interstate commerce are subject to section 505 or 507 \[section 355 or 357 of this title\], or to other provisions of the Federal Food, Drug, and Cosmetic Act.”
 
  __Registration of Certain Persons Owning or Operating Drug Establishments Prior to__  __Oct. 10, 1962__ 
 
-    [Pub. L. 87–781, title III, § 303][/us/pl/87/781/s303], Oct. 10, 1962, [76 Stat. 795][/us/stat/76/795], provided that any person who, on the day immediately preceding Oct. 10, 1962, owned or operated an establishment which manufactured or processed drugs, registered before the first day of the seventh month following October, 1962, would be deemed to be registered in accordance with subsec. (b) of this section for the calendar year 1962 and if registered within this period and effected in 1963, be deemed in compliance for that calendar year.
+    [Pub. L. 87–781, title III][/us/pl/87/781/tIII], § 303, Oct. 10, 1962, [76 Stat. 795][/us/stat/76/795], provided that any person who, on the day immediately preceding Oct. 10, 1962, owned or operated an establishment which manufactured or processed drugs, registered before the first day of the seventh month following October, 1962, would be deemed to be registered in accordance with subsec. (b) of this section for the calendar year 1962 and if registered within this period and effected in 1963, be deemed in compliance for that calendar year.
 
 ----------
 
@@ -464,101 +464,101 @@
 [/us/usc/t21/s351/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs351%2Ff%2F1%2FB
 [/us/usc/t21/s331/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Fp
 [/us/usc/t21/s381/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fr
-[/us/act/1938-06-25/ch675/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs510
-[/us/pl/87/781/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs302
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/87/781/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtIII
 [/us/stat/76/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F794
-[/us/pl/89/74/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs4
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/stat/79/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F231
-[/us/pl/91/513/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Fe
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1282
 [/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
 [/us/stat/86/560-562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F560-562
-[/us/pl/94/295/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F579
-[/us/pl/105/115/s125/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fa%2F2%2FC
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
-[/us/pl/107/188/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fa
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F675
-[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1609
-[/us/pl/108/214/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fc%2F2
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/stat/118/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F576
-[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F853
-[/us/pl/112/144/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs604
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1052
 [/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
-[/us/pl/112/144/s701/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs701%2F1%2FA
-[/us/pl/112/144/s701/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs701%2F1%2FB
-[/us/pl/112/144/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs701%2F2
-[/us/pl/112/144/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs705
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374
 [/us/usc/t21/s374/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374%2Fg
-[/us/pl/112/144/s702/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs702%2Fb%2F1%2FA
-[/us/pl/112/144/s702/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs702%2Fb%2F1%2FB
-[/us/pl/112/144/s702/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs702%2Fb%2F1%2FC
-[/us/pl/112/144/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs702%2Fb%2F2
-[/us/pl/112/144/s703/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs703%2F1
-[/us/pl/112/144/s703/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs703%2F2
-[/us/pl/112/144/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs604
-[/us/pl/112/144/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs704
-[/us/pl/110/85/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs222%2Fa
-[/us/pl/110/85/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs222%2Fb
-[/us/pl/110/85/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs223
-[/us/pl/110/85/s801/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fb%2F3%2FC
-[/us/pl/110/85/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs224
-[/us/pl/108/214/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fc%2F2%2FA
-[/us/pl/108/214/s2/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fc%2F2%2FB%2Fii
-[/us/pl/107/250/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs201%2Fe
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/usc/t21/s374/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374%2Fg
-[/us/pl/107/188/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fa%2F1
-[/us/pl/107/188/s321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fa%2F2
-[/us/pl/107/250/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs211
-[/us/pl/107/250/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs302%2Fb
-[/us/pl/107/250/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs207
-[/us/pl/105/115/s213/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs213%2Fb%2F3
-[/us/pl/105/115/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs213%2Fb%2F1
-[/us/pl/105/115/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs417
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fa
-[/us/pl/105/115/s125/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fa%2F2%2FC
-[/us/pl/105/115/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs206%2Fa%2F1
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s360m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360m%2Fa
-[/us/pl/105/115/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs206%2Fa%2F2
-[/us/pl/105/115/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs209%2Fa
-[/us/pl/94/295/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F2
-[/us/pl/94/295/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F3
-[/us/pl/94/295/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F4
-[/us/pl/94/295/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F5
-[/us/pl/94/295/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F6
-[/us/pl/94/295/s4/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F7
-[/us/pl/94/295/s4/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FA
-[/us/pl/94/295/s4/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FB
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/usc/t21/s360d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360d
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
-[/us/pl/94/295/s4/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FC
-[/us/pl/94/295/s4/a/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FD
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
-[/us/pl/94/295/s4/a/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FE
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
-[/us/pl/94/295/s4/a/8/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FF
-[/us/pl/94/295/s4/a/8/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FG
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/usc/t21/s360d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360d
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
-[/us/pl/94/295/s4/a/8/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F8%2FH
-[/us/pl/94/295/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs4%2Fa%2F9
-[/us/pl/92/387/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs4%2Fa
-[/us/pl/92/387/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs4%2Fb
-[/us/pl/92/387/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs4%2Fc
-[/us/pl/92/387/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs3
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
-[/us/pl/89/74/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs4%2Fe
-[/us/pl/89/74/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs4%2Fa
-[/us/pl/89/74/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs4%2Fb
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/107/188/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fc
@@ -566,7 +566,7 @@
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/92/387/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs5
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
 [/us/stat/86/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F562
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs704
@@ -577,11 +577,11 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs702
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/87/781/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs301
+[/us/pl/87/781/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtIII
 [/us/stat/76/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F793
-[/us/pl/92/387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs2
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
 [/us/stat/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F559
-[/us/pl/87/781/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs303
+[/us/pl/87/781/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtIII
 [/us/stat/76/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F795
 
 

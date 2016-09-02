@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s96.md) | [Next](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs98)
+[Previous](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s97...97d.md) | [Next](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs98)
 
 ## § 98. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s96.md) | [Next](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs98)
+[Previous](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s97...97d.md) | [Next](./../../../../..//us/usc/t21/ch4/schI/m__us_usc_t21_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs98)
 
 ----------
 ----------

@@ -31,7 +31,7 @@
 
         If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this chapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person using or proposing to use the marking, labeling, or container does not accept the determination of the Secretary, such person may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person adversely affected thereby appeals to the United States Court of Appeals for the circuit in which such person has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of [section 194 of title 7][/us/usc/t7/s194] shall be applicable to appeals taken under this section.
 
-([Pub. L. 85–172, § 8][/us/pl/85/172/s8], Aug. 28, 1957, [71 Stat. 444][/us/stat/71/444]; [Pub. L. 90–492, § 8][/us/pl/90/492/s8], Aug. 18, 1968, [82 Stat. 799][/us/stat/82/799]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 85–172][/us/pl/85/172], § 8, Aug. 28, 1957, [71 Stat. 444][/us/stat/71/444]; [Pub. L. 90–492][/us/pl/90/492], § 8, Aug. 18, 1968, [82 Stat. 799][/us/stat/82/799]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -66,11 +66,11 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs454
 [/us/usc/t7/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs194
-[/us/pl/85/172/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs8
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F444
-[/us/pl/90/492/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs8
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F799
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

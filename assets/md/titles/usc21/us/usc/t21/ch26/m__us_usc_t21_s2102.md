@@ -37,7 +37,7 @@
 
         (4) use such information and conduct such other activities as the Secretary deems appropriate.
 
-([Pub. L. 110–85, title X, § 1002][/us/pl/110/85/s1002], Sept. 27, 2007, [121 Stat. 963][/us/stat/121/963].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1002, Sept. 27, 2007, [121 Stat. 963][/us/stat/121/963].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1002
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F963
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/stat/121/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F962

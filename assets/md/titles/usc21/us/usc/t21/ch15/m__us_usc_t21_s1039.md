@@ -17,7 +17,7 @@
 
     Inspection shall not be provided under this chapter at any plant for the processing of any egg products which are not intended for use as human food, but such articles, prior to their offer for sale or transportation in commerce, shall be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person shall buy, sell, or transport or offer to buy or sell, or offer or receive for transportation, in commerce, any restricted eggs or egg products which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary.
 
-([Pub. L. 91–597, § 10][/us/pl/91/597/s10], Dec. 29, 1970, [84 Stat. 1627][/us/stat/84/1627].)
+([Pub. L. 91–597][/us/pl/91/597], § 10, Dec. 29, 1970, [84 Stat. 1627][/us/stat/84/1627].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs10
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1627
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

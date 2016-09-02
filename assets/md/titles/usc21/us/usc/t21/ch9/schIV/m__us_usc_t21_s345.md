@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate regulations exempting from any labeling requirement of this chapter (1) small open containers of fresh fruits and fresh vegetables and (2) food which is, in accordance with the practice of the trade, to be processed, labeled, or repacked in substantial quantities at establishments other than those where originally processed or packed, on condition that such food is not adulterated or misbranded under the provisions of this chapter upon removal from such processing, labeling, or repacking establishment. This section does not apply to the labeling requirements of sections 343(q) and 343(r) of this title.
 
-([June 25, 1938, ch. 675, § 405][/us/act/1938-06-25/ch675/s405], [52 Stat. 1049][/us/stat/52/1049]; [Pub. L. 101–535, § 5(a)][/us/pl/101/535/s5/a], Nov. 8, 1990, [104 Stat. 2362][/us/stat/104/2362].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 405, [52 Stat. 1049][/us/stat/52/1049]; [Pub. L. 101–535][/us/pl/101/535], § 5(a), Nov. 8, 1990, [104 Stat. 2362][/us/stat/104/2362].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs405
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1049
-[/us/pl/101/535/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535%2Fs5%2Fa
+[/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
 [/us/stat/104/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2362
 [/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
 [/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535

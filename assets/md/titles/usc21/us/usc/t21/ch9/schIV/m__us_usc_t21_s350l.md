@@ -139,7 +139,7 @@
 
             The Secretary may establish multiple or concurrent incident command operations or similar operations in the event of multiple recalls or foodborne illness outbreaks necessitating such action by the Department of Health and Human Services.
 
-([June 25, 1938, ch. 675, § 423][/us/act/1938-06-25/ch675/s423], as added [Pub. L. 111–353, title II, § 206(a)][/us/pl/111/353/s206/a], Jan. 4, 2011, [124 Stat. 3939][/us/stat/124/3939].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 423, as added [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 206(a), Jan. 4, 2011, [124 Stat. 3939][/us/stat/124/3939].)
 
  __References in Text__ 
 
@@ -151,7 +151,7 @@
 
  __Search Engine__ 
 
-[Pub. L. 111–353, title II, § 206(b)][/us/pl/111/353/s206/b], Jan. 4, 2011, [124 Stat. 3942][/us/stat/124/3942], provided that: 
+[Pub. L. 111–353, title II][/us/pl/111/353/tII], § 206(b), Jan. 4, 2011, [124 Stat. 3942][/us/stat/124/3942], provided that: 
 
 > “Not later than 90 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall modify the Internet Web site of the Food and Drug Administration to include a search engine that—
 
@@ -173,13 +173,13 @@
 [/us/usc/t21/s350c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350c
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s1769f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769f%2Fb
-[/us/act/1938-06-25/ch675/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs423
-[/us/pl/111/353/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs206%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3939
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/353/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs206%2Fb
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3942
 [/us/usc/t21/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350
 

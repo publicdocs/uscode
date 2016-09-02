@@ -17,7 +17,7 @@
 
     Before any violation of this chapter is reported by the Secretary to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given appropriate notice and an opportunity to present his views, either orally or in writing, with regard to such contemplated proceeding.
 
-([June 25, 1938, ch. 675, § 305][/us/act/1938-06-25/ch675/s305], [52 Stat. 1045][/us/stat/52/1045].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 305, [52 Stat. 1045][/us/stat/52/1045].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs305
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1045
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 

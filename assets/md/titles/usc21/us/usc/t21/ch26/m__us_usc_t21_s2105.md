@@ -43,7 +43,7 @@
 
         Upon the request by any State, the Secretary may enter into partnership agreements, as soon as practicable after the request is made, to implement inspection programs to Federal standards regarding the importation of aquaculture and seafood.
 
-([Pub. L. 110–85, title X, § 1006][/us/pl/110/85/s1006], Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1006, Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1006
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F969
 
 

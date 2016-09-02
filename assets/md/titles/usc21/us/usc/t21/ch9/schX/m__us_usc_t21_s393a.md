@@ -39,7 +39,7 @@
 
         For the 5-year period beginning on July 9, 2012, at least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.
 
-([Pub. L. 107–109, § 6][/us/pl/107/109/s6], Jan. 4, 2002, [115 Stat. 1414][/us/stat/115/1414]; [Pub. L. 110–85, title III, § 306(a)][/us/pl/110/85/s306/a], Sept. 27, 2007, [121 Stat. 864][/us/stat/121/864]; [Pub. L. 112–144, title V, § 511][/us/pl/112/144/s511], July 9, 2012, [126 Stat. 1050][/us/stat/126/1050].)
+([Pub. L. 107–109][/us/pl/107/109], § 6, Jan. 4, 2002, [115 Stat. 1414][/us/stat/115/1414]; [Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 306(a), Sept. 27, 2007, [121 Stat. 864][/us/stat/121/864]; [Pub. L. 112–144, title V][/us/pl/112/144/tV], § 511, July 9, 2012, [126 Stat. 1050][/us/stat/126/1050].)
 
  __Codification__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (c)(2) to (4). [Pub. L. 112–144, § 511(1)][/us/pl/112/144/s511/1], added pars. (2) and (3) and redesignated former par. (2) as (4).
+    2012—Subsec. (c)(2) to (4). [Pub. L. 112–144][/us/pl/112/144], § 511(1), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-    Subsec. (d). [Pub. L. 112–144, § 511(2)][/us/pl/112/144/s511/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–144][/us/pl/112/144], § 511(2), added subsec. (d).
 
     2007—Subsec. (b). [Pub. L. 110–85][/us/pl/110/85] inserted “, including increasing pediatric access to medical devices” before period at end.
 
@@ -62,14 +62,14 @@
 
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/usc/t21/s355c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c
-[/us/pl/107/109/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs6
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1414
-[/us/pl/110/85/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs306%2Fa
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F864
-[/us/pl/112/144/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs511
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1050
-[/us/pl/112/144/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs511%2F1
-[/us/pl/112/144/s511/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs511%2F2
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 
 

@@ -23,7 +23,7 @@
 
         The term “holiday” for the purposes of assessment or reimbursement of the cost of inspection performed under this chapter, the Wholesome Poultry Products Act \[[21 U.S.C. 467a][/us/usc/t21/s467a] et seq.\] and the Wholesome Meat Act \[[21 U.S.C. 601][/us/usc/t21/s601] et seq.\] shall mean the legal public holidays specified by the Congress in [section 6103(a) of title 5][/us/usc/t5/s6103/a].
 
-([Pub. L. 91–597, § 24][/us/pl/91/597/s24], Dec. 29, 1970, [84 Stat. 1633][/us/stat/84/1633].)
+([Pub. L. 91–597][/us/pl/91/597], § 24, Dec. 29, 1970, [84 Stat. 1633][/us/stat/84/1633].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t21/s467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs467a
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/usc/t5/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103%2Fa
-[/us/pl/91/597/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs24
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1633
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

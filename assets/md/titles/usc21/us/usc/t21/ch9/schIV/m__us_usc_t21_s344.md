@@ -27,7 +27,7 @@
 
         Any officer or employee duly designated by the Secretary shall have access to any factory or establishment, the operator of which holds a permit from the Secretary, for the purpose of ascertaining whether or not the conditions of the permit are being complied with, and denial of access for such inspection shall be ground for suspension of the permit until such access is freely given by the operator.
 
-([June 25, 1938, ch. 675, § 404][/us/act/1938-06-25/ch675/s404], [52 Stat. 1048][/us/stat/52/1048].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 404, [52 Stat. 1048][/us/stat/52/1048].)
 
  __Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs404
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1048
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 

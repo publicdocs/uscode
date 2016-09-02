@@ -57,7 +57,7 @@
 
         The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-([Pub. L. 85–172, § 20][/us/pl/85/172/s20], as added [Pub. L. 90–492, § 17][/us/pl/90/492/s17], Aug. 18, 1968, [82 Stat. 806][/us/stat/82/806]; amended [Pub. L. 101–205, § 2][/us/pl/101/205/s2], Dec. 7, 1989, [103 Stat. 1830][/us/stat/103/1830].)
+([Pub. L. 85–172][/us/pl/85/172], § 20, as added [Pub. L. 90–492][/us/pl/90/492], § 17, Aug. 18, 1968, [82 Stat. 806][/us/stat/82/806]; amended [Pub. L. 101–205][/us/pl/101/205], § 2, Dec. 7, 1989, [103 Stat. 1830][/us/stat/103/1830].)
 
  __Amendments__ 
 
@@ -74,10 +74,10 @@
 [/us/usc/t21/s453/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs453%2Fg
 [/us/usc/t21/s453/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs453%2Fg
 [/us/usc/t21/s453/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs453%2Fg
-[/us/pl/85/172/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs20
-[/us/pl/90/492/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs17
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F806
-[/us/pl/101/205/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F205%2Fs2
+[/us/pl/101/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F205
 [/us/stat/103/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1830
 [/us/pl/101/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F205
 

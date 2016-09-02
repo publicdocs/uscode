@@ -49,7 +49,7 @@
 
         (4) The term “swimming pool” includes any parking lot appurtenant thereto.
 
-([Pub. L. 91–513, title II, § 419][/us/pl/91/513/s419], formerly § 405A, as added [Pub. L. 98–473, title II, § 503(a)][/us/pl/98/473/s503/a], Oct. 12, 1984, [98 Stat. 2069][/us/stat/98/2069]; amended [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–11, 3207–52, 3207–55; [Pub. L. 99–646, § 28][/us/pl/99/646/s28], Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6452(b)(1), 6457, 6458, Nov. 18, 1988, [102 Stat. 4371][/us/stat/102/4371], 4373; renumbered § 419 and amended [Pub. L. 101–647, title X][/us/pl/101/647], §§ 1002(b), 1003(b), title XII, § 1214, title XV, § 1502, title XXXV, § 3599L, Nov. 29, 1990, [104 Stat. 4827][/us/stat/104/4827], 4829, 4833, 4836, 4932; [Pub. L. 103–322, title XIV, § 140006][/us/pl/103/322/s140006], title XXXII, § 320107, title XXXIII, § 330009(a), Sept. 13, 1994, [108 Stat. 2032][/us/stat/108/2032], 2111, 2143.)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 419, formerly § 405A, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 503(a), Oct. 12, 1984, [98 Stat. 2069][/us/stat/98/2069]; amended [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–11, 3207–52, 3207–55; [Pub. L. 99–646][/us/pl/99/646], § 28, Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], §§ 6452(b)(1), 6457, 6458, Nov. 18, 1988, [102 Stat. 4371][/us/stat/102/4371], 4373; renumbered § 419 and amended [Pub. L. 101–647, title X][/us/pl/101/647/tX], §§ 1002(b), 1003(b), title XII, § 1214, title XV, § 1502, title XXXV, § 3599L, Nov. 29, 1990, [104 Stat. 4827][/us/stat/104/4827], 4829, 4833, 4836, 4932; [Pub. L. 103–322, title XIV][/us/pl/103/322/tXIV], § 140006, title XXXII, § 320107, title XXXIII, § 330009(a), Sept. 13, 1994, [108 Stat. 2032][/us/stat/108/2032], 2111, 2143.)
 
  __Codification__ 
 
@@ -57,53 +57,53 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 320107][/us/pl/103/322/s320107], substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within”.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 320107, substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within”.
 
     Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], §§ 320107, 330009(a), substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within” and inserted a period at end of penultimate sentence.
 
-    Subsecs. (c) to (e). [Pub. L. 103–322, § 140006][/us/pl/103/322/s140006], added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 103–322][/us/pl/103/322], § 140006, added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-    1990—Subsec. (a). [Pub. L. 101–647, § 1502(1)][/us/pl/101/647/s1502/1], inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
+    1990—Subsec. (a). [Pub. L. 101–647][/us/pl/101/647], § 1502(1), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
 
-    [Pub. L. 101–647, § 1214(1)(C)][/us/pl/101/647/s1214/1/C], substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term of imprisonment under this subsection shall be not less than one year”.
+    [Pub. L. 101–647][/us/pl/101/647], § 1214(1)(C), substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term of imprisonment under this subsection shall be not less than one year”.
 
-    [Pub. L. 101–647, § 1214(1)(B)][/us/pl/101/647/s1214/1/B], inserted “A fine up to twice that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] may be imposed in addition to any term of imprisonment authorized by this subsection.”
+    [Pub. L. 101–647][/us/pl/101/647], § 1214(1)(B), inserted “A fine up to twice that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] may be imposed in addition to any term of imprisonment authorized by this subsection.”
 
-    [Pub. L. 101–647, § 1214(1)(A)][/us/pl/101/647/s1214/1/A], which directed the amendment of par. (1) by striking out “, or a fine, or both,” could not be executed because those words did not appear. See note below.
+    [Pub. L. 101–647][/us/pl/101/647], § 1214(1)(A), which directed the amendment of par. (1) by striking out “, or a fine, or both,” could not be executed because those words did not appear. See note below.
 
-    [Pub. L. 101–647, § 1003(b)(1)][/us/pl/101/647/s1003/b/1], which directed the substitution of “subject to (1) twice the maximum punishment authorized by [section 841(b) of this title][/us/usc/t21/s841/b]” for “punishable (1) by a term of imprisonment, or a fine, or both, up to twice that authorized by [section 841(b) of this title][/us/usc/t21/s841/b]”, was executed by making the substitution for “punishable (1) by a term of imprisonment, or fine, or both, up to twice that authorized by [section 841(b) of this title][/us/usc/t21/s841/b]” to reflect the probable intent of Congress.
+    [Pub. L. 101–647][/us/pl/101/647], § 1003(b)(1), which directed the substitution of “subject to (1) twice the maximum punishment authorized by [section 841(b) of this title][/us/usc/t21/s841/b]” for “punishable (1) by a term of imprisonment, or a fine, or both, up to twice that authorized by [section 841(b) of this title][/us/usc/t21/s841/b]”, was executed by making the substitution for “punishable (1) by a term of imprisonment, or fine, or both, up to twice that authorized by [section 841(b) of this title][/us/usc/t21/s841/b]” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 101–647, § 3599L][/us/pl/101/647/s3599L], substituted “has become final” for “have become final”.
+    Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 3599L, substituted “has become final” for “have become final”.
 
-    [Pub. L. 101–647, § 1502(2)][/us/pl/101/647/s1502/2], inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
+    [Pub. L. 101–647][/us/pl/101/647], § 1502(2), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
 
-    [Pub. L. 101–647, § 1214(2)(B)][/us/pl/101/647/s1214/2/B], inserted after first sentence “A fine up to three times that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by [section 841(b) of this title][/us/usc/t21/s841/b], a person shall be sentenced under this subsection to a term of imprisonment of not less than three years”.
+    [Pub. L. 101–647][/us/pl/101/647], § 1214(2)(B), inserted after first sentence “A fine up to three times that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by [section 841(b) of this title][/us/usc/t21/s841/b], a person shall be sentenced under this subsection to a term of imprisonment of not less than three years”.
 
-    Subsec. (b)(1)(B). [Pub. L. 101–647, § 1214(2)(A)][/us/pl/101/647/s1214/2/A], which directed the amendment of subpar. (B) by striking “, or a fine up to three times that” through “or both”, could not be executed because the language did not appear after execution of the intervening amendment by [Pub. L. 101–647, § 1003(b)(2)][/us/pl/101/647/s1003/b/2]. See below.
+    Subsec. (b)(1)(B). [Pub. L. 101–647][/us/pl/101/647], § 1214(2)(A), which directed the amendment of subpar. (B) by striking “, or a fine up to three times that” through “or both”, could not be executed because the language did not appear after execution of the intervening amendment by [Pub. L. 101–647][/us/pl/101/647], § 1003(b)(2). See below.
 
-    [Pub. L. 101–647, § 1003(b)(2)][/us/pl/101/647/s1003/b/2], substituted “three times the maximum punishment authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense” for “a term of imprisonment of up to three times that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense, or a fine up to three times that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense, or both”.
+    [Pub. L. 101–647][/us/pl/101/647], § 1003(b)(2), substituted “three times the maximum punishment authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense” for “a term of imprisonment of up to three times that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense, or a fine up to three times that authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a first offense, or both”.
 
-    Subsec. (c). [Pub. L. 101–647, § 1214(3)][/us/pl/101/647/s1214/3], inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b)” after “imposed under”, struck out “of” before “this section” in a reference to “of this section” which was editorially added before “, imposition or”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
+    Subsec. (c). [Pub. L. 101–647][/us/pl/101/647], § 1214(3), inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b)” after “imposed under”, struck out “of” before “this section” in a reference to “of this section” which was editorially added before “, imposition or”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
 
     1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], §§ 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing” and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”.
 
     Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], §§ 6452(b)(1), 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing”, and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”, substituted “a prior conviction” for “a prior conviction or convictions”, and inserted at end “Penalties for third and subsequent convictions shall be governed by [section 841(b)(1)(A) of this title][/us/usc/t21/s841/b/1/A].”
 
-    Subsec. (d). [Pub. L. 100–690, § 6458(b)][/us/pl/100/690/s6458/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 6458(b), added subsec. (d).
 
     1986—Subsec. (a). [Pub. L. 99–570][/us/pl/99/570], §§ 1104(a), (b), 1105(c), 1841(b)(1), inserted “or [section 856 of this title][/us/usc/t21/s856]” and “or manufacturing”, substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”, struck out “involving the same controlled substance and schedule” after “for a first offense”, and inserted “Except to the extent a greater minimum sentence is otherwise provided by [section 841(b) of this title][/us/usc/t21/s841/b], a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
 
-    [Pub. L. 99–570, § 1004(a)][/us/pl/99/570/s1004/a], substituted “term of supervised release” for “special parole term”.
+    [Pub. L. 99–570][/us/pl/99/570], § 1004(a), substituted “term of supervised release” for “special parole term”.
 
-    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646] which directed that “parole” be inserted after “(2) at least three times any special” could not be executed in view of prior amendment by [Pub. L. 99–570, § 1104(c)][/us/pl/99/570/s1104/c] below.
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646] which directed that “parole” be inserted after “(2) at least three times any special” could not be executed in view of prior amendment by [Pub. L. 99–570][/us/pl/99/570], § 1104(c) below.
 
-    [Pub. L. 99–570, § 1866(b)][/us/pl/99/570/s1866/b], which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by [Pub. L. 99–570, § 1104(c)][/us/pl/99/570/s1104/c] below.
+    [Pub. L. 99–570][/us/pl/99/570], § 1866(b), which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by [Pub. L. 99–570][/us/pl/99/570], § 1104(c) below.
 
     [Pub. L. 99–570][/us/pl/99/570], §§ 1104(a), 1841(b)(2), inserted reference to [section 856 of this title][/us/usc/t21/s856], inserted “or manufacturing” after “distributing” and substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”.
 
-    [Pub. L. 99–570, § 1104(c)][/us/pl/99/570/s1104/c], amended cls. (1) and (2) generally. Prior to amendment, cls. (1) and (2) read as follows: “(1) by a term of imprisonment of not less than three years and not more than life imprisonment and (2) at least three times any special term authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a second or subsequent offense involving the same controlled substance and schedule.”
+    [Pub. L. 99–570][/us/pl/99/570], § 1104(c), amended cls. (1) and (2) generally. Prior to amendment, cls. (1) and (2) read as follows: “(1) by a term of imprisonment of not less than three years and not more than life imprisonment and (2) at least three times any special term authorized by [section 841(b) of this title][/us/usc/t21/s841/b] for a second or subsequent offense involving the same controlled substance and schedule.”
 
-    Subsec. (c). [Pub. L. 99–570, § 1866(c)][/us/pl/99/570/s1866/c], substituted reference to chapter 311 of title 18 for reference to section 4202 of that title.
+    Subsec. (c). [Pub. L. 99–570][/us/pl/99/570], § 1866(c), substituted reference to chapter 311 of title 18 for reference to section 4202 of that title.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -130,62 +130,62 @@
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
 [/us/usc/t21/s841/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F1%2FA
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
-[/us/pl/91/513/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs419
-[/us/pl/98/473/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs503%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2069
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-6
-[/us/pl/99/646/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs28
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3598
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4371
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtX
 [/us/stat/104/4827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4827
-[/us/pl/103/322/s140006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs140006
+[/us/pl/103/322/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIV
 [/us/stat/108/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2032
 [/us/usc/t21/s845a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs845a
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/103/322/s320107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320107
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/103/322/s140006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs140006
-[/us/pl/101/647/s1502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1502%2F1
-[/us/pl/101/647/s1214/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1214%2F1%2FC
-[/us/pl/101/647/s1214/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1214%2F1%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/101/647/s1214/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1214%2F1%2FA
-[/us/pl/101/647/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1003%2Fb%2F1
-[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/101/647/s3599L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599L
-[/us/pl/101/647/s1502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1502%2F2
-[/us/pl/101/647/s1214/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1214%2F2%2FB
-[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/101/647/s1214/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1214%2F2%2FA
-[/us/pl/101/647/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1003%2Fb%2F2
-[/us/pl/101/647/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1003%2Fb%2F2
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/101/647/s1214/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1214%2F3
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
+[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
+[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
+[/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s841/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F1%2FA
-[/us/pl/100/690/s6458/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6458%2Fb
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs856
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/99/570/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fa
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/99/570/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1104%2Fc
-[/us/pl/99/570/s1866/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1866%2Fb
-[/us/pl/99/570/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1104%2Fc
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs856
-[/us/pl/99/570/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1104%2Fc
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb
-[/us/pl/99/570/s1866/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1866%2Fc
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/570/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fa
 [/us/usc/t18/s3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3583
 [/us/pl/99/570/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fb

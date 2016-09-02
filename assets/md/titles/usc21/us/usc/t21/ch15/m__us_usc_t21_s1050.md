@@ -17,7 +17,7 @@
 
     The United States district courts and the District Court of the Virgin Islands are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other cases, arising under this chapter, except as provided in [section 1047 of this title][/us/usc/t21/s1047]. All proceedings for the enforcement or to restrain violations of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any such proceeding.
 
-([Pub. L. 91–597, § 21][/us/pl/91/597/s21], Dec. 29, 1970, [84 Stat. 1632][/us/stat/84/1632].)
+([Pub. L. 91–597][/us/pl/91/597], § 21, Dec. 29, 1970, [84 Stat. 1632][/us/stat/84/1632].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t21/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1047
-[/us/pl/91/597/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs21
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1632
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

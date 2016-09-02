@@ -181,7 +181,7 @@
 
         A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) shall be included in each report submitted under subsection (b).
 
-([Pub. L. 105–277, div. C, title VII, § 706][/us/pl/105/277/s706], Oct. 21, 1998, [112 Stat. 2681–681][/us/stat/112/2681-681]; [Pub. L. 109–469, title II][/us/pl/109/469], §§ 201, 202, Dec. 29, 2006, [120 Stat. 3513][/us/stat/120/3513], 3517.)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 706, Oct. 21, 1998, [112 Stat. 2681–681][/us/stat/112/2681-681]; [Pub. L. 109–469, title II][/us/pl/109/469/tII], §§ 201, 202, Dec. 29, 2006, [120 Stat. 3513][/us/stat/120/3513], 3517.)
 
  __Repeal of Section__ 
 
@@ -189,13 +189,13 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–469, § 201][/us/pl/109/469/s201], amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
+    2006—[Pub. L. 109–469][/us/pl/109/469], § 201, amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
 
-    Subsecs. (c), (d). [Pub. L. 109–469, § 202][/us/pl/109/469/s202], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 109–469][/us/pl/109/469], § 202, added subsecs. (c) and (d).
 
  __Requirement for Southwest Border Counternarcotics Strategy__ 
 
-[Pub. L. 109–469, title XI, § 1110][/us/pl/109/469/s1110], Dec. 29, 2006, [120 Stat. 3543][/us/stat/120/3543], provided that:
+[Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1110, Dec. 29, 2006, [120 Stat. 3543][/us/stat/120/3543], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -237,7 +237,7 @@
 
  __Requirement for Northern Border Counternarcotics Strategy__ 
 
-[Pub. L. 109–469, title XI, § 1110A][/us/pl/109/469/s1110A], as added by [Pub. L. 111–356, § 2][/us/pl/111/356/s2], Jan. 4, 2011, [124 Stat. 3976][/us/stat/124/3976], provided that:
+[Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1110A, as added by [Pub. L. 111–356][/us/pl/111/356], § 2, Jan. 4, 2011, [124 Stat. 3976][/us/stat/124/3976], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -301,19 +301,19 @@
 ----------
 
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
-[/us/pl/105/277/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs706
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-681
-[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtII
 [/us/stat/120/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3513
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
-[/us/pl/109/469/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs201
-[/us/pl/109/469/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs202
-[/us/pl/109/469/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1110
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtXI
 [/us/stat/120/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3543
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
-[/us/pl/109/469/s1110A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1110A
-[/us/pl/111/356/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F356%2Fs2
+[/us/pl/109/469/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtXI
+[/us/pl/111/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F356
 [/us/stat/124/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3976
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 

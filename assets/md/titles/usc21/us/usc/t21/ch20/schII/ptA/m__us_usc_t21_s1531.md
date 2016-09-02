@@ -37,7 +37,7 @@
 
         The Director may employ any necessary staff and may enter into contracts or agreements with national drug control agencies, including interagency agreements to delegate authority for the execution of grants and for such other activities necessary to carry out this subchapter.
 
-([Pub. L. 100–690, title I, § 1031][/us/pl/100/690/s1031], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 226][/us/stat/111/226].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1031, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 226][/us/stat/111/226].)
 
 ----------
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t21/s1542/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1542%2Fa%2F1
-[/us/pl/100/690/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1031
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F226
 
 

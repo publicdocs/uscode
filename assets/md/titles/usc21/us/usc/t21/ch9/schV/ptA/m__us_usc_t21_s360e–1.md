@@ -55,11 +55,11 @@
 
         For purposes of this section, the term “pediatric subpopulation” has the meaning given the term in [section 360j(m)(6)(E)(ii) of this title][/us/usc/t21/s360j/m/6/E/ii].
 
-([June 25, 1938, ch. 675, § 515A][/us/act/1938-06-25/ch675/s515A], as added [Pub. L. 110–85, title III, § 302][/us/pl/110/85/s302], Sept. 27, 2007, [121 Stat. 859][/us/stat/121/859].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 515A, as added [Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 302, Sept. 27, 2007, [121 Stat. 859][/us/stat/121/859].)
 
  __Final Rule Relating to Tracking of Pediatric Uses of Devices__ 
 
-[Pub. L. 112–144, title VI, § 620(b)][/us/pl/112/144/s620/b], July 9, 2012, [126 Stat. 1064][/us/stat/126/1064], provided that: 
+[Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 620(b), July 9, 2012, [126 Stat. 1064][/us/stat/126/1064], provided that: 
 
 > “The Secretary of Health and Human Services shall issue—
 
@@ -78,10 +78,10 @@
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
 [/us/usc/t21/s379j/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%2Fa%2F2%2FB%2Fv
 [/us/usc/t21/s360j/m/6/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fm%2F6%2FE%2Fii
-[/us/act/1938-06-25/ch675/s515A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs515A
-[/us/pl/110/85/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs302
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F859
-[/us/pl/112/144/s620/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs620%2Fb
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1064
 [/us/usc/t21/s360e–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e%E2%80%931%2Fa%2F2
 

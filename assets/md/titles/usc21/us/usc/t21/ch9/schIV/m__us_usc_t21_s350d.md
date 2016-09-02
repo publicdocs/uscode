@@ -113,21 +113,21 @@
 
         Nothing in this section shall be construed to authorize the Secretary to require an application, review, or licensing process for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b).
 
-([June 25, 1938, ch. 675, § 415][/us/act/1938-06-25/ch675/s415], as added [Pub. L. 107–188, title III, § 305(a)][/us/pl/107/188/s305/a], June 12, 2002, [116 Stat. 667][/us/stat/116/667]; amended [Pub. L. 111–353, title I, § 102(a)][/us/pl/111/353/s102/a]–(b)(1), (d)(2), Jan. 4, 2011, [124 Stat. 3887][/us/stat/124/3887], 3889.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 415, as added [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 305(a), June 12, 2002, [116 Stat. 667][/us/stat/116/667]; amended [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 102(a)–(b)(1), (d)(2), Jan. 4, 2011, [124 Stat. 3887][/us/stat/124/3887], 3889.)
 
  __Amendments__ 
 
-    2011—Subsec. (a)(2). [Pub. L. 111–353, § 102(a)(1)][/us/pl/111/353/s102/a/1], (b)(1)(A), substituted “conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and” for “conducts business and”, inserted “, or any other food categories as determined appropriate by the Secretary, including by guidance” after “Code of Federal Regulations”, and inserted after first sentence “The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter.”
+    2011—Subsec. (a)(2). [Pub. L. 111–353][/us/pl/111/353], § 102(a)(1), (b)(1)(A), substituted “conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and” for “conducts business and”, inserted “, or any other food categories as determined appropriate by the Secretary, including by guidance” after “Code of Federal Regulations”, and inserted after first sentence “The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter.”
 
-    Subsec. (a)(3) to (5). [Pub. L. 111–353, § 102(a)(2)][/us/pl/111/353/s102/a/2], (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (a)(3) to (5). [Pub. L. 111–353][/us/pl/111/353], § 102(a)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsecs. (b), (c). [Pub. L. 111–353, § 102(b)(1)(B)][/us/pl/111/353/s102/b/1/B], (C), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 111–353][/us/pl/111/353], § 102(b)(1)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 111–353, § 102(b)(1)(B)][/us/pl/111/353/s102/b/1/B], (d)(2), redesignated subsec. (c) as (d) and inserted “for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)” before period at end.
+    Subsec. (d). [Pub. L. 111–353][/us/pl/111/353], § 102(b)(1)(B), (d)(2), redesignated subsec. (c) as (d) and inserted “for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)” before period at end.
 
  __Regulations__ 
 
-[Pub. L. 111–353, title I, § 102(c)][/us/pl/111/353/s102/c], Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], provided that:
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 102(c), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], provided that:
 
 >     “(1)  __Retail food establishment__  __.—__ 
 
@@ -147,7 +147,7 @@
 
 >         “(B) the term ‘consumer’ does not include a business.”
 
-[Pub. L. 111–353, title I, § 103(c)][/us/pl/111/353/s103/c], Jan. 4, 2011, [124 Stat. 3896][/us/stat/124/3896], provided that:
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(c), Jan. 4, 2011, [124 Stat. 3896][/us/stat/124/3896], provided that:
 
 >     “(1) __Proposed rulemaking.—__ 
 
@@ -191,7 +191,7 @@
 
 >         “(C) the requirements under sections 418 and 421 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350g][/us/usc/t21/s350g], 350j\], as added by this Act, from which the Secretary may issue exemptions or modifications of the requirements for certain types of facilities.”
 
-[Pub. L. 107–188, title III, § 305(e)][/us/pl/107/188/s305/e], June 12, 2002, [116 Stat. 669][/us/stat/116/669], provided that: 
+[Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 305(e), June 12, 2002, [116 Stat. 669][/us/stat/116/669], provided that: 
 
 > “Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350d][/us/usc/t21/s350d]\] (as added by subsection (a) of this section). Such requirement of registration takes effect—
 
@@ -205,13 +205,13 @@
 
  __Small Entity Compliance Policy Guide__ 
 
-[Pub. L. 111–353, title I, § 102(b)(2)][/us/pl/111/353/s102/b/2], Jan. 4, 2011, [124 Stat. 3888][/us/stat/124/3888], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 102(b)(2), Jan. 4, 2011, [124 Stat. 3888][/us/stat/124/3888], provided that: 
 
 > “Not later than 180 days after the issuance of the regulations promulgated under section 415(b)(5) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350d(b)(5)][/us/usc/t21/s350d/b/5]\] (as added by this section), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such regulations to assist small entities in complying with registration requirements and other activities required under such section.”
 
  __Electronic Filing__ 
 
-[Pub. L. 107–188, title III, § 305(d)][/us/pl/107/188/s305/d], June 12, 2002, [116 Stat. 668][/us/stat/116/668], provided that: 
+[Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 305(d), June 12, 2002, [116 Stat. 668][/us/stat/116/668], provided that: 
 
 > “For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section \[enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section\]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate.”
 
@@ -224,18 +224,18 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/act/1938-06-25/ch675/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs415
-[/us/pl/107/188/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs305%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F667
-[/us/pl/111/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fa
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3887
-[/us/pl/111/353/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fa%2F1
-[/us/pl/111/353/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fa%2F2
-[/us/pl/111/353/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fb%2F1%2FB
-[/us/pl/111/353/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fb%2F1%2FB
-[/us/pl/111/353/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fc
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3889
-[/us/pl/111/353/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fc
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3896
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2201
@@ -244,14 +244,14 @@
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s350g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g
-[/us/pl/107/188/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs305%2Fe
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F669
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/111/353/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fb%2F2
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3888
 [/us/usc/t21/s350d/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d%2Fb%2F5
-[/us/pl/107/188/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs305%2Fd
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F668
 
 

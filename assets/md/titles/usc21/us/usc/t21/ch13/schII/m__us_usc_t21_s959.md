@@ -35,7 +35,7 @@
 
         This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
 
-([Pub. L. 91–513, title III, § 1009][/us/pl/91/513/s1009], Oct. 27, 1970, [84 Stat. 1289][/us/stat/84/1289]; [Pub. L. 99–570, title III, § 3161(a)][/us/pl/99/570/s3161/a], Oct. 27, 1986, [100 Stat. 3207–94][/us/stat/100/3207-94]; [Pub. L. 104–237, title I, § 102(a)][/us/pl/104/237/s102/a], (b), Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100]; [Pub. L. 104–305, § 2(b)(2)(A)][/us/pl/104/305/s2/b/2/A], Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1009, Oct. 27, 1970, [84 Stat. 1289][/us/stat/84/1289]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3161(a), Oct. 27, 1986, [100 Stat. 3207–94][/us/stat/100/3207-94]; [Pub. L. 104–237, title I][/us/pl/104/237/tI], § 102(a), (b), Oct. 3, 1996, [110 Stat. 3100][/us/stat/110/3100]; [Pub. L. 104–305][/us/pl/104/305], § 2(b)(2)(A), Oct. 13, 1996, [110 Stat. 3807][/us/stat/110/3807].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
     1996—Subsec. (a). [Pub. L. 104–305][/us/pl/104/305] inserted “or flunitrazepam” after “schedule I or II” in introductory provisions.
 
-    [Pub. L. 104–237, § 102(a)][/us/pl/104/237/s102/a], inserted “or listed chemical” after “schedule I or II” in introductory provisions and “or chemical” after “substance” in pars. (1) and (2).
+    [Pub. L. 104–237][/us/pl/104/237], § 102(a), inserted “or listed chemical” after “schedule I or II” in introductory provisions and “or chemical” after “substance” in pars. (1) and (2).
 
-    Subsec. (b). [Pub. L. 104–237, § 102(b)][/us/pl/104/237/s102/b], inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
+    Subsec. (b). [Pub. L. 104–237][/us/pl/104/237], § 102(b), inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
 
     1986—[Pub. L. 99–570][/us/pl/99/570] designated first sentence as subsec. (a) and inserted “or into waters within a distance of 12 miles of the coast of the United States” in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
 
@@ -58,18 +58,18 @@
 ----------
 ----------
 
-[/us/pl/91/513/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1009
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1289
-[/us/pl/99/570/s3161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3161%2Fa
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-94
-[/us/pl/104/237/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs102%2Fa
+[/us/pl/104/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtI
 [/us/stat/110/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3100
-[/us/pl/104/305/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs2%2Fb%2F2%2FA
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/stat/110/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3807
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
-[/us/pl/104/237/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs102%2Fa
-[/us/pl/104/237/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs102%2Fb
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 
 

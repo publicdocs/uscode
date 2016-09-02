@@ -45,7 +45,7 @@
 
         As used in this section, the term “State” means any State (including the Commonwealth of Puerto Rico) or organized territory.
 
-([Pub. L. 85–172, § 5][/us/pl/85/172/s5], Aug. 28, 1957, [71 Stat. 443][/us/stat/71/443]; [Pub. L. 90–492, § 5][/us/pl/90/492/s5], Aug. 18, 1968, [82 Stat. 796][/us/stat/82/796]; [Pub. L. 98–487, § 2][/us/pl/98/487/s2], Oct. 17, 1984, [98 Stat. 2264][/us/stat/98/2264]; [Pub. L. 103–437, § 8(1)][/us/pl/103/437/s8/1], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
+([Pub. L. 85–172][/us/pl/85/172], § 5, Aug. 28, 1957, [71 Stat. 443][/us/stat/71/443]; [Pub. L. 90–492][/us/pl/90/492], § 5, Aug. 18, 1968, [82 Stat. 796][/us/stat/82/796]; [Pub. L. 98–487][/us/pl/98/487], § 2, Oct. 17, 1984, [98 Stat. 2264][/us/stat/98/2264]; [Pub. L. 103–437][/us/pl/103/437], § 8(1), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
 
  __References in Text__ 
 
@@ -76,13 +76,13 @@
 
 [/us/usc/t21/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs460
 [/us/usc/t21/s460/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs460%2Fb
-[/us/pl/85/172/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs5
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F443
-[/us/pl/90/492/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs5
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F796
-[/us/pl/98/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F487%2Fs2
+[/us/pl/98/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F487
 [/us/stat/98/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2264
-[/us/pl/103/437/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs8%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/usc/t21/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs470
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

@@ -143,7 +143,7 @@
 
         Subsection (a) shall not apply with respect to an employee of an entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food who, acting without direction from such entity (or such entity’s agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, rule, regulation, standard, or ban under this chapter.
 
-([June 25, 1938, ch. 675, § 1012][/us/act/1938-06-25/ch675/s1012], as added [Pub. L. 111–353, title IV, § 402][/us/pl/111/353/s402], Jan. 4, 2011, [124 Stat. 3968][/us/stat/124/3968].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1012, as added [Pub. L. 111–353, title IV][/us/pl/111/353/tIV], § 402, Jan. 4, 2011, [124 Stat. 3968][/us/stat/124/3968].)
 
  __Construction__ 
 
@@ -157,8 +157,8 @@
 ----------
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
-[/us/act/1938-06-25/ch675/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1012
-[/us/pl/111/353/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs402
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIV
 [/us/stat/124/3968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3968
 
 

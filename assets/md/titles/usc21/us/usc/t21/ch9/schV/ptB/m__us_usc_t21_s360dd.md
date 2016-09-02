@@ -17,7 +17,7 @@
 
     If a drug is designated under [section 360bb of this title][/us/usc/t21/s360bb] as a drug for a rare disease or condition and if notice of a claimed exemption under [section 355(i) of this title][/us/usc/t21/s355/i] or regulations issued thereunder is filed for such drug, the Secretary shall encourage the sponsor of such drug to design protocols for clinical investigations of the drug which may be conducted under the exemption to permit the addition to the investigations of persons with the disease or condition who need the drug to treat the disease or condition and who cannot be satisfactorily treated by available alternative drugs.
 
-([June 25, 1938, ch. 675, § 528][/us/act/1938-06-25/ch675/s528], as added [Pub. L. 97–414, § 2(a)][/us/pl/97/414/s2/a], Jan. 4, 1983, [96 Stat. 2051][/us/stat/96/2051].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 528, as added [Pub. L. 97–414][/us/pl/97/414], § 2(a), Jan. 4, 1983, [96 Stat. 2051][/us/stat/96/2051].)
 
 ----------
 
@@ -28,8 +28,8 @@
 
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
-[/us/act/1938-06-25/ch675/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs528
-[/us/pl/97/414/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2051
 
 

@@ -169,7 +169,7 @@
 
             (iii) any person who acts in only a financial capacity with respect to the sale of an implant.
 
-([Pub. L. 105–230, § 3][/us/pl/105/230/s3], Aug. 13, 1998, [112 Stat. 1520][/us/stat/112/1520].)
+([Pub. L. 105–230][/us/pl/105/230], § 3, Aug. 13, 1998, [112 Stat. 1520][/us/stat/112/1520].)
 
 ----------
 
@@ -183,7 +183,7 @@
 [/us/usc/t21/s360/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fj
 [/us/usc/t21/s321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fh
 [/us/usc/t21/s353/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fg
-[/us/pl/105/230/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs3
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1520
 
 

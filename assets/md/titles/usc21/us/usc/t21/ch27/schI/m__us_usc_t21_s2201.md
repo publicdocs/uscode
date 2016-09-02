@@ -37,7 +37,7 @@
 
         The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.
 
-([Pub. L. 111–353, title I, § 104][/us/pl/111/353/s104], Jan. 4, 2011, [124 Stat. 3899][/us/stat/124/3899].)
+([Pub. L. 111–353, title I][/us/pl/111/353/tI], § 104, Jan. 4, 2011, [124 Stat. 3899][/us/stat/124/3899].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Short Title__ 
 
-[Pub. L. 111–353, § 1(a)][/us/pl/111/353/s1/a], Jan. 4, 2011, [124 Stat. 3885][/us/stat/124/3885], provided that: 
+[Pub. L. 111–353][/us/pl/111/353], § 1(a), Jan. 4, 2011, [124 Stat. 3885][/us/stat/124/3885], provided that: 
 
 > “This Act \[enacting this chapter and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, [section 7625 of Title 7][/us/usc/t7/s7625], Agriculture, and [section 280g–16 of Title 42][/us/usc/t42/s280g–16], The Public Health and Welfare, amending sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and [section 247b–20 of Title 42][/us/usc/t42/s247b–20], and enacting provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title\] may be cited as the ‘FDA Food Safety Modernization Act’.”
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
 [/us/usc/t42/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs264
-[/us/pl/111/353/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs104
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3899
-[/us/pl/111/353/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs1%2Fa
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885
 [/us/usc/t7/s7625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7625
 [/us/usc/t42/s280g–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%9316

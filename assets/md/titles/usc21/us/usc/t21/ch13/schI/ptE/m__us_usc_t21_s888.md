@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s887.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s889.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs888)
 
-## § 888. Repealed. [Pub. L. 106–185, § 2(c)(3)][/us/pl/106/185/s2/c/3], Apr. 25, 2000, [114 Stat. 210][/us/stat/114/210]
+## § 888. Repealed. [Pub. L. 106–185][/us/pl/106/185], § 2(c)(3), Apr. 25, 2000, [114 Stat. 210][/us/stat/114/210]
 
-    Section, [Pub. L. 91–513, title II, § 518][/us/pl/91/513/s518], formerly § 511A, as added [Pub. L. 100–690, title VI, § 6080(a)][/us/pl/100/690/s6080/a], Nov. 18, 1988, [102 Stat. 4326][/us/stat/102/4326]; renumbered § 518, [Pub. L. 101–647, title X, § 1002(h)(1)][/us/pl/101/647/s1002/h/1], Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828], related to expedited procedures for seized conveyances.
+    Section, [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 518, formerly § 511A, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6080(a), Nov. 18, 1988, [102 Stat. 4326][/us/stat/102/4326]; renumbered § 518, [Pub. L. 101–647, title X][/us/pl/101/647/tX], § 1002(h)(1), Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828], related to expedited procedures for seized conveyances.
 
     Section was classified to [section 881–1 of this title][/us/usc/t21/s881–1] prior to renumbering by [Pub. L. 101–647][/us/pl/101/647].
 
@@ -30,12 +30,12 @@
 ----------
 ----------
 
-[/us/pl/106/185/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs2%2Fc%2F3
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F210
-[/us/pl/91/513/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs518
-[/us/pl/100/690/s6080/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6080%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4326
-[/us/pl/101/647/s1002/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fh%2F1
+[/us/pl/101/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtX
 [/us/stat/104/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4828
 [/us/usc/t21/s881–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881%E2%80%931
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647

@@ -205,7 +205,7 @@
 
         Insulin and antibiotic drugs may be exported without regard to the requirements in this section if the insulin and antibiotic drugs meet the requirements of [section 381(e)(1) of this title][/us/usc/t21/s381/e/1].
 
-([June 25, 1938, ch. 675, § 802][/us/act/1938-06-25/ch675/s802], as added [Pub. L. 99–660, title I, § 102(2)][/us/pl/99/660/s102/2], Nov. 14, 1986, [100 Stat. 3743][/us/stat/100/3743]; amended [Pub. L. 104–134, title III, § 2102(d)(1)][/us/pl/104/134/s2102/d/1], Apr. 26, 1996, [110 Stat. 1321–315][/us/stat/110/1321-315]; [Pub. L. 104–180, title VI, § 603(c)][/us/pl/104/180/s603/c], Aug. 6, 1996, [110 Stat. 1595][/us/stat/110/1595]; [Pub. L. 105–115, title I, § 125(c)][/us/pl/105/115/s125/c], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 802, as added [Pub. L. 99–660, title I][/us/pl/99/660/tI], § 102(2), Nov. 14, 1986, [100 Stat. 3743][/us/stat/100/3743]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 2102(d)(1), Apr. 26, 1996, [110 Stat. 1321–315][/us/stat/110/1321-315]; [Pub. L. 104–180, title VI][/us/pl/104/180/tVI], § 603(c), Aug. 6, 1996, [110 Stat. 1595][/us/stat/110/1595]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(c), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326].)
 
  __References in Text__ 
 
@@ -240,14 +240,14 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/stat/37/832-833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832-833
 [/us/usc/t21/s381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fe%2F1
-[/us/act/1938-06-25/ch675/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs802
-[/us/pl/99/660/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs102%2F2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/99/660/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtI
 [/us/stat/100/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3743
-[/us/pl/104/134/s2102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fd%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-315
-[/us/pl/104/180/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs603%2Fc
+[/us/pl/104/180/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVI
 [/us/stat/110/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1595
-[/us/pl/105/115/s125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fc
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2326
 [/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832

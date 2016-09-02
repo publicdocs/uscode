@@ -27,7 +27,7 @@
 
         In applying the provisions of [section 553(c) of title 5][/us/usc/t5/s553/c] to proposed rule making under this chapter, an opportunity for the oral presentation of views shall be accorded all interested persons.
 
-([Pub. L. 85–172, § 14][/us/pl/85/172/s14], Aug. 28, 1957, [71 Stat. 447][/us/stat/71/447]; [Pub. L. 90–492, § 13][/us/pl/90/492/s13], Aug. 18, 1968, [82 Stat. 803][/us/stat/82/803].)
+([Pub. L. 85–172][/us/pl/85/172], § 14, Aug. 28, 1957, [71 Stat. 447][/us/stat/71/447]; [Pub. L. 90–492][/us/pl/90/492], § 13, Aug. 18, 1968, [82 Stat. 803][/us/stat/82/803].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t5/s553/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fc
-[/us/pl/85/172/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs14
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F447
-[/us/pl/90/492/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs13
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F803
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

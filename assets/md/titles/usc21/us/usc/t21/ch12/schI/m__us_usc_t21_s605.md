@@ -17,7 +17,7 @@
 
     The foregoing provisions shall apply to all carcasses or parts of carcasses of amenable species or the meat or meat products thereof which may be brought into any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and such examination and inspection shall be had before the said carcasses or parts thereof shall be allowed to enter into any department wherein the same are to be treated and prepared for meat food products; and the foregoing provisions shall also apply to all such products, which, after having been issued from any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, shall be returned to the same or to any similar establishment where such inspection is maintained. The Secretary may limit the entry of carcasses, parts of carcasses, meat and meat food products, and other materials into any establishment at which inspection under this subchapter is maintained, under such conditions as he may prescribe to assure that allowing the entry of such articles into such inspected establishments will be consistent with the purposes of this chapter.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 5, formerly 3rd par., [34 Stat. 1261][/us/stat/34/1261]; renumbered § 5 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 5, 12(a), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 5, formerly 3rd par., [34 Stat. 1261][/us/stat/34/1261]; renumbered § 5 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 5, 12(a), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 [/us/stat/34/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1261
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/usc/t21/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs73
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97

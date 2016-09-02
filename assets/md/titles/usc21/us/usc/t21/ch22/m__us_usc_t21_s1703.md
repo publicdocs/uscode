@@ -395,7 +395,7 @@
 
         Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of National Intelligence or the Director of the Central Intelligence Agency contained in the National Security Act of 1947 \[[50 U.S.C. 3001][/us/usc/t50/s3001] et seq.\], the Central Intelligence Agency Act of 1949 \[[50 U.S.C. 3501][/us/usc/t50/s3501] et seq.\], or any other law.
 
-([Pub. L. 105–277, div. C, title VII, § 704][/us/pl/105/277/s704], Oct. 21, 1998, [112 Stat. 2681–672][/us/stat/112/2681-672]; [Pub. L. 109–469, title I][/us/pl/109/469], §§ 103(a)–(e), (f)(3), 105, Dec. 29, 2006, [120 Stat. 3506][/us/stat/120/3506], 3507, 3510, 3511; [Pub. L. 112–166, § 2(t)][/us/pl/112/166/s2/t], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 704, Oct. 21, 1998, [112 Stat. 2681–672][/us/stat/112/2681-672]; [Pub. L. 109–469, title I][/us/pl/109/469/tI], §§ 103(a)–(e), (f)(3), 105, Dec. 29, 2006, [120 Stat. 3506][/us/stat/120/3506], 3507, 3510, 3511; [Pub. L. 112–166][/us/pl/112/166], § 2(t), Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
 
  __Repeal of Section__ 
 
@@ -405,7 +405,7 @@
 
     Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and (e)(2)(C), are set out in sections 5314 and 5315, respectively, of Title 5, Government Organization and Employees.
 
-    This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
+    This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
 
     The National Security Act of 1947, referred to in subsec. (h), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -413,67 +413,67 @@
 
  __Codification__ 
 
-    In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
     2012—Subsec. (a)(1). [Pub. L. 112–166][/us/pl/112/166] amended par. (1) generally. Prior to amendment, text read as follows: “The Director, the Deputy Director of National Drug Control Policy, the Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State and Local Affairs, shall each be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. In appointing the Deputy Director for Demand Reduction under this paragraph, the President shall take into consideration the scientific, educational or professional background of the individual, and whether the individual has experience in the fields of substance abuse prevention, education, or treatment.”
 
-    2006—Subsec. (a)(3). [Pub. L. 109–469, § 103(a)][/us/pl/109/469/s103/a], amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
+    2006—Subsec. (a)(3). [Pub. L. 109–469][/us/pl/109/469], § 103(a), amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
 
-    Subsec. (b)(4). [Pub. L. 109–469, § 103(b)(1)][/us/pl/109/469/s103/b/1], substituted “National Drug Control Program agencies” for “Federal departments and agencies engaged in drug enforcement”.
+    Subsec. (b)(4). [Pub. L. 109–469][/us/pl/109/469], § 103(b)(1), substituted “National Drug Control Program agencies” for “Federal departments and agencies engaged in drug enforcement”.
 
-    Subsec. (b)(7). [Pub. L. 109–469, § 103(b)(2)][/us/pl/109/469/s103/b/2], inserted “and the appropriate congressional committees” after “President”.
+    Subsec. (b)(7). [Pub. L. 109–469][/us/pl/109/469], § 103(b)(2), inserted “and the appropriate congressional committees” after “President”.
 
-    Subsec. (b)(13). [Pub. L. 109–469, § 103(b)(3)][/us/pl/109/469/s103/b/3], struck out “(beginning in 1999)” after “basis” in introductory provisions.
+    Subsec. (b)(13). [Pub. L. 109–469][/us/pl/109/469], § 103(b)(3), struck out “(beginning in 1999)” after “basis” in introductory provisions.
 
-    Subsec. (b)(14). [Pub. L. 109–469, § 103(b)(4)][/us/pl/109/469/s103/b/4], added par. (14) and struck out former par. (14) which read as follows: “shall submit to the Appropriations committees and the authorizing committees of jurisdiction of the House of Representatives and the Senate on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
+    Subsec. (b)(14). [Pub. L. 109–469][/us/pl/109/469], § 103(b)(4), added par. (14) and struck out former par. (14) which read as follows: “shall submit to the Appropriations committees and the authorizing committees of jurisdiction of the House of Representatives and the Senate on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
 
     “(A) each of the evaluations received by the Director under paragraph (13); and
 
     “(B) the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under [section 1705(c) of this title][/us/usc/t21/s1705/c]; and”.
 
-    Subsec. (b)(15)(C). [Pub. L. 109–469, § 103(b)(5)][/us/pl/109/469/s103/b/5], added subpar. (C) and struck out former subpar. (C) which read as follows: “developing a single interagency clearinghouse for the dissemination of research and information by such agencies to State and local governments and nongovernmental agencies involved in demand reduction.”
+    Subsec. (b)(15)(C). [Pub. L. 109–469][/us/pl/109/469], § 103(b)(5), added subpar. (C) and struck out former subpar. (C) which read as follows: “developing a single interagency clearinghouse for the dissemination of research and information by such agencies to State and local governments and nongovernmental agencies involved in demand reduction.”
 
-    Subsec. (b)(16) to (20). [Pub. L. 109–469, § 103(b)(6)][/us/pl/109/469/s103/b/6], added pars. (16) to (20).
+    Subsec. (b)(16) to (20). [Pub. L. 109–469][/us/pl/109/469], § 103(b)(6), added pars. (16) to (20).
 
-    Subsec. (c)(1)(C). [Pub. L. 109–469, § 105(a)][/us/pl/109/469/s105/a], added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 109–469][/us/pl/109/469], § 105(a), added subpar. (C).
 
-    Subsec. (c)(2). [Pub. L. 109–469, § 105(b)(1)][/us/pl/109/469/s105/b/1], inserted “and the head of each major national organization that represents law enforcement officers, agencies, or associations” after “agency” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 109–469][/us/pl/109/469], § 105(b)(1), inserted “and the head of each major national organization that represents law enforcement officers, agencies, or associations” after “agency” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 109–469, § 105(b)(2)][/us/pl/109/469/s105/b/2], inserted “and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C)” before semicolon at end.
+    Subsec. (c)(2)(A). [Pub. L. 109–469][/us/pl/109/469], § 105(b)(2), inserted “and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C)” before semicolon at end.
 
-    Subsec. (c)(3)(C). [Pub. L. 109–469, § 105(c)(2)][/us/pl/109/469/s105/c/2], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (c)(3)(C). [Pub. L. 109–469][/us/pl/109/469], § 105(c)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (c)(3)(C)(iii). [Pub. L. 109–469, § 103(c)(1)][/us/pl/109/469/s103/c/1], inserted “and the appropriate congressional committees,” after “House of Representatives”.
+    Subsec. (c)(3)(C)(iii). [Pub. L. 109–469][/us/pl/109/469], § 103(c)(1), inserted “and the appropriate congressional committees,” after “House of Representatives”.
 
-    Subsec. (c)(3)(D). [Pub. L. 109–469, § 105(c)(1)][/us/pl/109/469/s105/c/1], redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+    Subsec. (c)(3)(D). [Pub. L. 109–469][/us/pl/109/469], § 105(c)(1), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (c)(3)(D)(ii)(II)(bb). [Pub. L. 109–469, § 103(c)(2)][/us/pl/109/469/s103/c/2], inserted “and the appropriate congressional committees,” after “House of Representatives”.
+    Subsec. (c)(3)(D)(ii)(II)(bb). [Pub. L. 109–469][/us/pl/109/469], § 103(c)(2), inserted “and the appropriate congressional committees,” after “House of Representatives”.
 
-    Subsec. (c)(3)(D)(iii). [Pub. L. 109–469, § 105(c)(3)][/us/pl/109/469/s105/c/3], which directed amendment of cl. (iii) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by [Pub. L. 109–469, § 103(c)(1)][/us/pl/109/469/s103/c/1] to subpar. (C)(iii) prior to its redesignation as (D)(iii). See above.
+    Subsec. (c)(3)(D)(iii). [Pub. L. 109–469][/us/pl/109/469], § 105(c)(3), which directed amendment of cl. (iii) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by [Pub. L. 109–469][/us/pl/109/469], § 103(c)(1) to subpar. (C)(iii) prior to its redesignation as (D)(iii). See above.
 
-    Subsec. (c)(3)(E). [Pub. L. 109–469, § 105(c)(1)][/us/pl/109/469/s105/c/1], redesignated subpar. (D) as (E).
+    Subsec. (c)(3)(E). [Pub. L. 109–469][/us/pl/109/469], § 105(c)(1), redesignated subpar. (D) as (E).
 
-    Subsec. (c)(3)(E)(ii)(II)(bb). [Pub. L. 109–469, § 105(c)(4)][/us/pl/109/469/s105/c/4], which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by [Pub. L. 109–469, § 103(c)(2)][/us/pl/109/469/s103/c/2] to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
+    Subsec. (c)(3)(E)(ii)(II)(bb). [Pub. L. 109–469][/us/pl/109/469], § 105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by [Pub. L. 109–469][/us/pl/109/469], § 103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
 
-    Subsec. (c)(4)(A). [Pub. L. 109–469, § 105(d)][/us/pl/109/469/s105/d], substituted “$1,000,000” for “$5,000,000” and inserted at end “If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.”
+    Subsec. (c)(4)(A). [Pub. L. 109–469][/us/pl/109/469], § 105(d), substituted “$1,000,000” for “$5,000,000” and inserted at end “If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.”
 
-    Subsec. (d)(8)(D). [Pub. L. 109–469, § 105(e)(1)][/us/pl/109/469/s105/e/1], substituted “authorized by law;” for “have been authorized by Congress;”.
+    Subsec. (d)(8)(D). [Pub. L. 109–469][/us/pl/109/469], § 105(e)(1), substituted “authorized by law;” for “have been authorized by Congress;”.
 
-    Subsec. (d)(9). [Pub. L. 109–469, § 105(e)(2)][/us/pl/109/469/s105/e/2], which directed the substitution of “Strategy and notify the appropriate congressional committees of any fund control notice issued; and” for “Strategy; and”, could not be executed because the words “Strategy; and” did not appear subsequent to amendment by [Pub. L. 109–469, § 103(d)(1)][/us/pl/109/469/s103/d/1]. See below.
+    Subsec. (d)(9). [Pub. L. 109–469][/us/pl/109/469], § 105(e)(2), which directed the substitution of “Strategy and notify the appropriate congressional committees of any fund control notice issued; and” for “Strategy; and”, could not be executed because the words “Strategy; and” did not appear subsequent to amendment by [Pub. L. 109–469][/us/pl/109/469], § 103(d)(1). See below.
 
-    [Pub. L. 109–469, § 103(d)(1)][/us/pl/109/469/s103/d/1], substituted “Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);” for “Strategy; and”.
+    [Pub. L. 109–469][/us/pl/109/469], § 103(d)(1), substituted “Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);” for “Strategy; and”.
 
     Subsec. (d)(10). [Pub. L. 109–469][/us/pl/109/469], §§ 103(d)(2) and 105(e)(3), made identical amendments, inserting “and [section 2291j–1 of title 22][/us/usc/t22/s2291j–1]” before period at end.
 
-    Subsec. (f)(4), (5). [Pub. L. 109–469, § 105(f)][/us/pl/109/469/s105/f], added pars. (4) and (5) set out second.
+    Subsec. (f)(4), (5). [Pub. L. 109–469][/us/pl/109/469], § 105(f), added pars. (4) and (5) set out second.
 
-    [Pub. L. 109–469, § 103(e)][/us/pl/109/469/s103/e], added pars. (4) and (5) set out first.
+    [Pub. L. 109–469][/us/pl/109/469], § 103(e), added pars. (4) and (5) set out first.
 
-    Subsec. (g). [Pub. L. 109–469, § 103(f)(3)(A)][/us/pl/109/469/s103/f/3/A], amended subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of this section shall not apply to the National Foreign Intelligence Program, the Joint Military Intelligence Program and Tactical Intelligence and Related Activities unless the agency that carries out such program is designated as a National Drug Control Program agency by the President or jointly by the Director and the head of the agency.”
+    Subsec. (g). [Pub. L. 109–469][/us/pl/109/469], § 103(f)(3)(A), amended subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of this section shall not apply to the National Foreign Intelligence Program, the Joint Military Intelligence Program and Tactical Intelligence and Related Activities unless the agency that carries out such program is designated as a National Drug Control Program agency by the President or jointly by the Director and the head of the agency.”
 
-    Subsec. (h). [Pub. L. 109–469, § 103(f)(3)(B)][/us/pl/109/469/s103/f/3/B], amended subsec. (h) generally. Prior to amendment, text read as follows: “Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law.”
+    Subsec. (h). [Pub. L. 109–469][/us/pl/109/469], § 103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: “Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -481,7 +481,7 @@
 
  __Report on Streamlining Federal Prevention and Treatment Efforts__ 
 
-    [Pub. L. 105–277, div. D, title II, § 221][/us/pl/105/277/s221], Oct. 21, 1998, [112 Stat. 2681–758][/us/stat/112/2681-758], expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
+    [Pub. L. 105–277, div. D, title II][/us/pl/105/277/dD/tII], § 221, Oct. 21, 1998, [112 Stat. 2681–758][/us/stat/112/2681-758], expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
 
  __Ex. Ord. No. 12880. National Drug Control Program__ 
 
@@ -544,58 +544,58 @@ Therefore, by the authority vested in me as President by the Constitution and th
 [/us/usc/t22/s2291j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j%E2%80%931
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t50/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3501
-[/us/pl/105/277/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs704
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-672
-[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtI
 [/us/stat/120/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3506
-[/us/pl/112/166/s2/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Ft
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1288
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-670
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/stat/63/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F208
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/109/469/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fa
-[/us/pl/109/469/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fb%2F1
-[/us/pl/109/469/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fb%2F2
-[/us/pl/109/469/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fb%2F3
-[/us/pl/109/469/s103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fb%2F4
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/usc/t21/s1705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1705%2Fc
-[/us/pl/109/469/s103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fb%2F5
-[/us/pl/109/469/s103/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fb%2F6
-[/us/pl/109/469/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fa
-[/us/pl/109/469/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fb%2F1
-[/us/pl/109/469/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fb%2F2
-[/us/pl/109/469/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fc%2F2
-[/us/pl/109/469/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fc%2F1
-[/us/pl/109/469/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fc%2F1
-[/us/pl/109/469/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fc%2F2
-[/us/pl/109/469/s105/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fc%2F3
-[/us/pl/109/469/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fc%2F1
-[/us/pl/109/469/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fc%2F1
-[/us/pl/109/469/s105/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fc%2F4
-[/us/pl/109/469/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fc%2F2
-[/us/pl/109/469/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fd
-[/us/pl/109/469/s105/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fe%2F1
-[/us/pl/109/469/s105/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Fe%2F2
-[/us/pl/109/469/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fd%2F1
-[/us/pl/109/469/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fd%2F1
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/usc/t22/s2291j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j%E2%80%931
-[/us/pl/109/469/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs105%2Ff
-[/us/pl/109/469/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Fe
-[/us/pl/109/469/s103/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Ff%2F3%2FA
-[/us/pl/109/469/s103/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Ff%2F3%2FB
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
-[/us/pl/105/277/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs221
+[/us/pl/105/277/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdD%2FtII
 [/us/stat/112/2681-758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-758
 [/us/usc/t21/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1501
 [/us/usc/t50/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402%2Ff

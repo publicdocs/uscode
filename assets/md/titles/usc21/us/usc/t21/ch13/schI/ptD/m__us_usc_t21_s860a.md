@@ -17,7 +17,7 @@
 
     Whoever violates [section 841(a)(1) of this title][/us/usc/t21/s841/a/1] by manufacturing or distributing, or possessing with intent to manufacture or distribute, methamphetamine or its salts, isomers or salts of isomers on premises in which an individual who is under the age of 18 years is present or resides, shall, in addition to any other sentence imposed, be imprisoned for a period of any term of years but not more than 20 years, subject to a fine, or both.
 
-([Pub. L. 91–513, title II, § 419a][/us/pl/91/513/s419a], as added [Pub. L. 109–177, title VII, § 734(a)][/us/pl/109/177/s734/a], Mar. 9, 2006, [120 Stat. 270][/us/stat/120/270].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 419a, as added [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 734(a), Mar. 9, 2006, [120 Stat. 270][/us/stat/120/270].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t21/s841/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fa%2F1
-[/us/pl/91/513/s419a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs419a
-[/us/pl/109/177/s734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs734%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F270
 
 

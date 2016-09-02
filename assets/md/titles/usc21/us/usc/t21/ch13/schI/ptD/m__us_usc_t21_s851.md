@@ -41,7 +41,7 @@
 
         No person who stands convicted of an offense under this part may challenge the validity of any prior conviction alleged under this section which occurred more than five years before the date of the information alleging such prior conviction.
 
-([Pub. L. 91–513, title II, § 411][/us/pl/91/513/s411], Oct. 27, 1970, [84 Stat. 1269][/us/stat/84/1269].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 411, Oct. 27, 1970, [84 Stat. 1269][/us/stat/84/1269].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs411
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1269
 
 

@@ -291,7 +291,7 @@
 
         From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
 
-([June 25, 1938, ch. 675, § 770][/us/act/1938-06-25/ch675/s770], as added [Pub. L. 110–85, title VI, § 601(a)][/us/pl/110/85/s601/a], Sept. 27, 2007, [121 Stat. 890][/us/stat/121/890].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 770, as added [Pub. L. 110–85, title VI][/us/pl/110/85/tVI], § 601(a), Sept. 27, 2007, [121 Stat. 890][/us/stat/121/890].)
 
 ----------
 
@@ -304,8 +304,8 @@
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/usc/t21/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379
-[/us/act/1938-06-25/ch675/s770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs770
-[/us/pl/110/85/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs601%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVI
 [/us/stat/121/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F890
 
 

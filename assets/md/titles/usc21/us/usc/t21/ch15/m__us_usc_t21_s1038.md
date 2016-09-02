@@ -17,7 +17,7 @@
 
     The Secretary shall, whenever he determines that it would effectuate the purposes of this chapter, cooperate with appropriate State and other governmental agencies, in carrying out any provisions of this chapter. In carrying out the provisions of this chapter, the Secretary may conduct such examinations, investigations, and inspections as he determines practicable through any officer or employee of any such agency commissioned by him for such purpose. The Secretary shall reimburse the States and other agencies for the costs incurred by them in such cooperative programs.
 
-([Pub. L. 91–597, § 9][/us/pl/91/597/s9], Dec. 29, 1970, [84 Stat. 1627][/us/stat/84/1627].)
+([Pub. L. 91–597][/us/pl/91/597], § 9, Dec. 29, 1970, [84 Stat. 1627][/us/stat/84/1627].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs9
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1627
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

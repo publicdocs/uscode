@@ -17,7 +17,7 @@
 
     Annual appropriations of the sum of $3,000,000 from the general fund of the Treasury are authorized for the expenses of the inspection of cattle, sheep, swine, and goats and the meat and meat food products thereof which enter into interstate or foreign commerce and for all expenses necessary to carry into effect the provisions of this Act relating to meat inspection, including rent and the employment of labor in Washington and elsewhere, for each year, and in addition there is authorized to be appropriated such other sums as may be necessary in the enforcement of the meat inspection laws.
 
-([June 30, 1906, ch. 3913][/us/act/1906-06-30/ch3913], [34 Stat. 679][/us/stat/34/679]; [June 26, 1934, ch. 756, § 2][/us/act/1934-06-26/ch756/s2], [48 Stat. 1225][/us/stat/48/1225].)
+([June 30, 1906, ch. 3913][/us/act/1906-06-30/ch3913], [34 Stat. 679][/us/stat/34/679]; [June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 2, [48 Stat. 1225][/us/stat/48/1225].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1906-06-30/ch3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-30%2Fch3913
 [/us/stat/34/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F679
-[/us/act/1934-06-26/ch756/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs2
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1225
 [/us/act/1906-06-30/ch3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-30%2Fch3913
 [/us/stat/34/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F669

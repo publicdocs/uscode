@@ -251,7 +251,7 @@
 
         In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall be given to a coalition serving economically disadvantaged areas.
 
-([Pub. L. 100–690, title I, § 1032][/us/pl/100/690/s1032], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 227][/us/stat/111/227]; amended [Pub. L. 107–82, § 1(d)][/us/pl/107/82/s1/d], (g), (h), Dec. 14, 2001, [115 Stat. 818][/us/stat/115/818], 819; [Pub. L. 109–469, title VIII][/us/pl/109/469], §§ 802(a), 803, 804, Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1032, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 227][/us/stat/111/227]; amended [Pub. L. 107–82][/us/pl/107/82], § 1(d), (g), (h), Dec. 14, 2001, [115 Stat. 818][/us/stat/115/818], 819; [Pub. L. 109–469, title VIII][/us/pl/109/469/tVIII], §§ 802(a), 803, 804, Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535].)
 
  __Codification__ 
 
@@ -259,21 +259,21 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(7). [Pub. L. 109–469, § 804][/us/pl/109/469/s804], added par. (7). See Codification note above.
+    2006—Subsec. (a)(7). [Pub. L. 109–469][/us/pl/109/469], § 804, added par. (7). See Codification note above.
 
-    Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). [Pub. L. 109–469, § 803][/us/pl/109/469/s803], substituted “$125,000” for “$100,000”. See Codification note above.
+    Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). [Pub. L. 109–469][/us/pl/109/469], § 803, substituted “$125,000” for “$100,000”. See Codification note above.
 
-    Subsec. (b)(4). [Pub. L. 109–469, § 802(a)][/us/pl/109/469/s802/a], added par. (4). See Codification note above.
+    Subsec. (b)(4). [Pub. L. 109–469][/us/pl/109/469], § 802(a), added par. (4). See Codification note above.
 
-    2001—Subsec. (b)(3). [Pub. L. 107–82, § 1(d)][/us/pl/107/82/s1/d], added par. (3).
+    2001—Subsec. (b)(3). [Pub. L. 107–82][/us/pl/107/82], § 1(d), added par. (3).
 
-    Subsec. (c). [Pub. L. 107–82, § 1(g)][/us/pl/107/82/s1/g], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–82][/us/pl/107/82], § 1(g), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 107–82, § 1(h)][/us/pl/107/82/s1/h], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–82][/us/pl/107/82], § 1(h), added subsec. (d).
 
  __Report to Congress__ 
 
-[Pub. L. 109–469, title VIII, § 802(b)][/us/pl/109/469/s802/b], Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535], provided that: 
+[Pub. L. 109–469, title VIII][/us/pl/109/469/tVIII], § 802(b), Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535], provided that: 
 
 > “Not later than 60 days after the date of enactment of this Act \[Dec. 29, 2006\], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Drug-Free Communities Act of 1997 \[probably means [21 U.S.C. 1532(b)(4)][/us/usc/t21/s1532/b/4]\], as added by subsection (a) \[see 2006 Amendments note above\].”
 
@@ -293,21 +293,21 @@
 [/us/usc/t21/s1523/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1523%2F9%2FA
 [/us/usc/t21/s1523/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1523%2F9%2FA
 [/us/usc/t21/s1523/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1523%2F9%2FA
-[/us/pl/100/690/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1032
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F227
-[/us/pl/107/82/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fd
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F818
-[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtVIII
 [/us/stat/120/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3535
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
-[/us/pl/109/469/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs804
-[/us/pl/109/469/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs803
-[/us/pl/109/469/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs802%2Fa
-[/us/pl/107/82/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fd
-[/us/pl/107/82/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fg
-[/us/pl/107/82/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs1%2Fh
-[/us/pl/109/469/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs802%2Fb
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
+[/us/pl/109/469/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtVIII
 [/us/stat/120/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3535
 [/us/usc/t21/s1532/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1532%2Fb%2F4
 

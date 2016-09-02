@@ -33,7 +33,7 @@
 
         Except as provided in sections 2234 and 2235 of title 18, no civil or criminal liability shall be imposed by virtue of this subchapter upon any duly authorized Federal officer lawfully engaged in the enforcement of this subchapter, or upon any duly authorized officer of any State, territory, political subdivision thereof, the District of Columbia, or any possession of the United States, who shall be lawfully engaged in the enforcement of any law or municipal ordinance relating to controlled substances.
 
-([Pub. L. 91–513, title II, § 515][/us/pl/91/513/s515], Oct. 27, 1970, [84 Stat. 1279][/us/stat/84/1279].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 515, Oct. 27, 1970, [84 Stat. 1279][/us/stat/84/1279].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t21/s844/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs844%2Fa
 [/us/usc/t21/s353/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F2
-[/us/pl/91/513/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs515
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1279
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 

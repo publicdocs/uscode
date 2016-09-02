@@ -371,7 +371,7 @@
 
                     If the requirements under subsection (g) of this section are made applicable to the investigational use of such a device, they shall be made applicable in such a manner that the device shall be made reasonably available to physicians meeting appropriate qualifications prescribed by the Secretary.
 
-        (4) Repealed. [Pub. L. 105–115, title I, § 125(b)(2)(E)][/us/pl/105/115/s125/b/2/E], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
+        (4) Repealed. [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(E), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].
 
         (5)
 
@@ -463,7 +463,7 @@
 
         (2) Paragraph (1) shall not be construed as bearing on or being relevant to the question of whether any product other than a contact lens is a device as defined by [section 321(h) of this title][/us/usc/t21/s321/h] or a drug as defined by [section 321(g) of this title][/us/usc/t21/s321/g].
 
-([June 25, 1938, ch. 675, § 520][/us/act/1938-06-25/ch675/s520], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 565][/us/stat/90/565]; amended [Pub. L. 101–629][/us/pl/101/629], §§ 3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, [104 Stat. 4514][/us/stat/104/4514], 4516, 4518, 4519, 4522, 4524, 4529; [Pub. L. 102–571, title I, § 107(10)][/us/pl/102/571/s107/10], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 105–115, title I, § 125(b)(2)(E)][/us/pl/105/115/s125/b/2/E], title II, §§ 201(a), 203, 216(a)(1), title IV, § 410(a), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2332, 2334, 2349, 2372; [Pub. L. 109–96, § 1][/us/pl/109/96/s1], Nov. 9, 2005, [119 Stat. 2119][/us/stat/119/2119]; [Pub. L. 110–85, title III, § 303(a)][/us/pl/110/85/s303/a], title VIII, § 801(b)(3)(E), Sept. 27, 2007, [121 Stat. 860][/us/stat/121/860], 921; [Pub. L. 112–144, title V, § 507(c)][/us/pl/112/144/s507/c], title VI, §§ 601, 606, 613(a), 617, July 9, 2012, [126 Stat. 1045][/us/stat/126/1045], 1051, 1054, 1060, 1062.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 520, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 565][/us/stat/90/565]; amended [Pub. L. 101–629][/us/pl/101/629], §§ 3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, [104 Stat. 4514][/us/stat/104/4514], 4516, 4518, 4519, 4522, 4524, 4529; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(10), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(E), title II, §§ 201(a), 203, 216(a)(1), title IV, § 410(a), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2332, 2334, 2349, 2372; [Pub. L. 109–96][/us/pl/109/96], § 1, Nov. 9, 2005, [119 Stat. 2119][/us/stat/119/2119]; [Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 303(a), title VIII, § 801(b)(3)(E), Sept. 27, 2007, [121 Stat. 860][/us/stat/121/860], 921; [Pub. L. 112–144, title V][/us/pl/112/144/tV], § 507(c), title VI, §§ 601, 606, 613(a), 617, July 9, 2012, [126 Stat. 1045][/us/stat/126/1045], 1051, 1054, 1060, 1062.)
 
  __References in Text__ 
 
@@ -473,53 +473,53 @@
 
  __Codification__ 
 
-    In subsec. (k), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529], [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (k), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529], [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–144, § 617][/us/pl/112/144/s617], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to custom devices.
+    2012—Subsec. (b). [Pub. L. 112–144][/us/pl/112/144], § 617, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to custom devices.
 
-    Subsec. (g)(2)(B)(ii). [Pub. L. 112–144, § 601(1)][/us/pl/112/144/s601/1], inserted “safety or effectiveness” before “data obtained”.
+    Subsec. (g)(2)(B)(ii). [Pub. L. 112–144][/us/pl/112/144], § 601(1), inserted “safety or effectiveness” before “data obtained”.
 
-    Subsec. (g)(4)(C). [Pub. L. 112–144, § 601(2)][/us/pl/112/144/s601/2], added subpar. (C).
+    Subsec. (g)(4)(C). [Pub. L. 112–144][/us/pl/112/144], § 601(2), added subpar. (C).
 
-    Subsec. (g)(8). [Pub. L. 112–144, § 606][/us/pl/112/144/s606], added par. (8).
+    Subsec. (g)(8). [Pub. L. 112–144][/us/pl/112/144], § 606, added par. (8).
 
-    Subsec. (m)(6)(A)(i). [Pub. L. 112–144, § 613(a)(1)(A)(i)][/us/pl/112/144/s613/a/1/A/i], added cl. (i) and struck out former cl. (i) which read as follows:
+    Subsec. (m)(6)(A)(i). [Pub. L. 112–144][/us/pl/112/144], § 613(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows:
 
     “(i)(I) The device with respect to which the exemption is granted is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use in pediatric patients or in a pediatric subpopulation in which the disease or condition occurs.
 
     “(II) The device was not previously approved under this subsection for the pediatric patients or the pediatric subpopulation described in subclause (I) prior to September 27, 2007.”
 
-    Subsec. (m)(6)(A)(ii). [Pub. L. 112–144, § 613(a)(1)(A)(ii)][/us/pl/112/144/s613/a/1/A/ii], added cl. (ii) and struck out former cl. (ii) which read as follows: “During any calendar year, the number of such devices distributed during that year does not exceed the annual distribution number specified by the Secretary when the Secretary grants such exemption. The annual distribution number shall be based on the number of individuals affected by the disease or condition that such device is intended to treat, diagnose, or cure, and of that number, the number of individuals likely to use the device, and the number of devices reasonably necessary to treat such individuals. In no case shall the annual distribution number exceed the number identified in paragraph (2)(A).”
+    Subsec. (m)(6)(A)(ii). [Pub. L. 112–144][/us/pl/112/144], § 613(a)(1)(A)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: “During any calendar year, the number of such devices distributed during that year does not exceed the annual distribution number specified by the Secretary when the Secretary grants such exemption. The annual distribution number shall be based on the number of individuals affected by the disease or condition that such device is intended to treat, diagnose, or cure, and of that number, the number of individuals likely to use the device, and the number of devices reasonably necessary to treat such individuals. In no case shall the annual distribution number exceed the number identified in paragraph (2)(A).”
 
-    Subsec. (m)(6)(A)(iv). [Pub. L. 112–144, § 507(c)][/us/pl/112/144/s507/c], substituted “2017” for “2012”.
+    Subsec. (m)(6)(A)(iv). [Pub. L. 112–144][/us/pl/112/144], § 507(c), substituted “2017” for “2012”.
 
-    Subsec. (m)(6)(C). [Pub. L. 112–144, § 613(a)(1)(B)][/us/pl/112/144/s613/a/1/B], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A).”
+    Subsec. (m)(6)(C). [Pub. L. 112–144][/us/pl/112/144], § 613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A).”
 
-    Subsec. (m)(7). [Pub. L. 112–144, § 613(a)(2)][/us/pl/112/144/s613/a/2], substituted “regarding a device described in paragraph (6)(A)(i)(I)” for “regarding a device”.
+    Subsec. (m)(7). [Pub. L. 112–144][/us/pl/112/144], § 613(a)(2), substituted “regarding a device described in paragraph (6)(A)(i)(I)” for “regarding a device”.
 
-    Subsec. (m)(8). [Pub. L. 112–144, § 613(a)(3)][/us/pl/112/144/s613/a/3], substituted “of all devices described in paragraph (6)(A)(i)(I)” for “of all devices described in paragraph (6)”.
+    Subsec. (m)(8). [Pub. L. 112–144][/us/pl/112/144], § 613(a)(3), substituted “of all devices described in paragraph (6)(A)(i)(I)” for “of all devices described in paragraph (6)”.
 
-    2007—Subsec. (m)(2). [Pub. L. 110–85, § 801(b)(3)(E)][/us/pl/110/85/s801/b/3/E], inserted before period at end of first sentence of concluding provisions “and such application shall include the certification required under [section 282(j)(5)(B) of title 42][/us/usc/t42/s282/j/5/B] (which shall not be considered an element of such application)”.
+    2007—Subsec. (m)(2). [Pub. L. 110–85][/us/pl/110/85], § 801(b)(3)(E), inserted before period at end of first sentence of concluding provisions “and such application shall include the certification required under [section 282(j)(5)(B) of title 42][/us/usc/t42/s282/j/5/B] (which shall not be considered an element of such application)”.
 
-    Subsec. (m)(3). [Pub. L. 110–85, § 303(a)(1)][/us/pl/110/85/s303/a/1], substituted “Except as provided in paragraph (6), no” for “No”.
+    Subsec. (m)(3). [Pub. L. 110–85][/us/pl/110/85], § 303(a)(1), substituted “Except as provided in paragraph (6), no” for “No”.
 
-    Subsec. (m)(5). [Pub. L. 110–85, § 303(a)(2)][/us/pl/110/85/s303/a/2], inserted “, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met,” after “public health” and inserted at end “If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.”
+    Subsec. (m)(5). [Pub. L. 110–85][/us/pl/110/85], § 303(a)(2), inserted “, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met,” after “public health” and inserted at end “If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.”
 
-    Subsec. (m)(6) to (8). [Pub. L. 110–85, § 303(a)(3)][/us/pl/110/85/s303/a/3], added pars. (6) to (8) and struck out former par. (6) which read as follows: “The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.”
+    Subsec. (m)(6) to (8). [Pub. L. 110–85][/us/pl/110/85], § 303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: “The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.”
 
     2005—Subsec. (n). [Pub. L. 109–96][/us/pl/109/96] added subsec. (n).
 
-    1997—Subsec. (f)(1)(B)(iii). [Pub. L. 105–115, § 410(a)][/us/pl/105/115/s410/a], added cl. (iii).
+    1997—Subsec. (f)(1)(B)(iii). [Pub. L. 105–115][/us/pl/105/115], § 410(a), added cl. (iii).
 
-    Subsec. (g)(6), (7). [Pub. L. 105–115, § 201(a)][/us/pl/105/115/s201/a], added pars. (6) and (7).
+    Subsec. (g)(6), (7). [Pub. L. 105–115][/us/pl/105/115], § 201(a), added pars. (6) and (7).
 
-    Subsec. (h)(4). [Pub. L. 105–115, § 216(a)(1)][/us/pl/105/115/s216/a/1], amended par. (4) generally. Prior to amendment, par. (4) related to premarket approval of devices.
+    Subsec. (h)(4). [Pub. L. 105–115][/us/pl/105/115], § 216(a)(1), amended par. (4) generally. Prior to amendment, par. (4) related to premarket approval of devices.
 
-    Subsec. (l). [Pub. L. 105–115, § 125(b)(2)(E)][/us/pl/105/115/s125/b/2/E], struck out “or antibiotic drugs” after “new drugs” in heading.
+    Subsec. (l). [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(E), struck out “or antibiotic drugs” after “new drugs” in heading.
 
-    Subsec. (l)(4). [Pub. L. 105–115, § 125(b)(2)(E)][/us/pl/105/115/s125/b/2/E], struck out par. (4) which read as follows: “Any device intended for human use which on the enactment date was subject to the requirements of [section 357 of this title][/us/usc/t21/s357] shall be subject to such requirements as follows:
+    Subsec. (l)(4). [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(E), struck out par. (4) which read as follows: “Any device intended for human use which on the enactment date was subject to the requirements of [section 357 of this title][/us/usc/t21/s357] shall be subject to such requirements as follows:
 
     “(A) In the case of such a device which is classified into class I, such requirements shall apply to such device until the effective date of the regulation classifying the device into such class.
 
@@ -527,37 +527,37 @@
 
     “(C) In the case of such a device which is classified into class III, such requirements shall apply to such device until the date on which the device is required to have in effect an approved application under [section 360e of this title][/us/usc/t21/s360e].”
 
-    Subsec. (m)(2). [Pub. L. 105–115, § 203(1)][/us/pl/105/115/s203/1], inserted at end “The request shall be in the form of an application submitted to the Secretary. Not later than 75 days after the date of the receipt of the application, the Secretary shall issue an order approving or denying the application.”
+    Subsec. (m)(2). [Pub. L. 105–115][/us/pl/105/115], § 203(1), inserted at end “The request shall be in the form of an application submitted to the Secretary. Not later than 75 days after the date of the receipt of the application, the Secretary shall issue an order approving or denying the application.”
 
-    Subsec. (m)(4). [Pub. L. 105–115, § 203(2)(B)][/us/pl/105/115/s203/2/B], inserted at end “In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the local institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.”
+    Subsec. (m)(4). [Pub. L. 105–115][/us/pl/105/115], § 203(2)(B), inserted at end “In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the local institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.”
 
-    Subsec. (m)(4)(B). [Pub. L. 105–115, § 203(2)(A)][/us/pl/105/115/s203/2/A], inserted before period at end “, unless a physician determines in an emergency situation that approval from a local institutional review committee can not be obtained in time to prevent serious harm or death to a patient”.
+    Subsec. (m)(4)(B). [Pub. L. 105–115][/us/pl/105/115], § 203(2)(A), inserted before period at end “, unless a physician determines in an emergency situation that approval from a local institutional review committee can not be obtained in time to prevent serious harm or death to a patient”.
 
-    Subsec. (m)(5). [Pub. L. 105–115, § 203(3)][/us/pl/105/115/s203/3], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “An exemption under paragraph (2) shall be for a term of 18 months and may only be initially granted in the 5-year period beginning on the date regulations under paragraph (6) take effect. The Secretary may extend such an exemption for a period of 18 months if the Secretary is able to make the findings set forth in paragraph (2) and if the applicant supplies information demonstrating compliance with paragraph (3). An exemption may be extended more than once and may be extended after the expiration of such 5-year period.”
+    Subsec. (m)(5). [Pub. L. 105–115][/us/pl/105/115], § 203(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “An exemption under paragraph (2) shall be for a term of 18 months and may only be initially granted in the 5-year period beginning on the date regulations under paragraph (6) take effect. The Secretary may extend such an exemption for a period of 18 months if the Secretary is able to make the findings set forth in paragraph (2) and if the applicant supplies information demonstrating compliance with paragraph (3). An exemption may be extended more than once and may be extended after the expiration of such 5-year period.”
 
-    Subsec. (m)(6). [Pub. L. 105–115, § 203(4)][/us/pl/105/115/s203/4], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Within one year of November 28, 1990, the Secretary shall issue regulations to implement this subsection.”
+    Subsec. (m)(6). [Pub. L. 105–115][/us/pl/105/115], § 203(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Within one year of November 28, 1990, the Secretary shall issue regulations to implement this subsection.”
 
     1992—Subsec. (g)(2)(A). [Pub. L. 102–571][/us/pl/102/571] substituted “379e” for “376”.
 
-    1990—Subsec. (c). [Pub. L. 101–629, § 11(1)][/us/pl/101/629/s11/1], substituted “from class III to class II or class I” for “under [section 360c of this title][/us/usc/t21/s360c] from class III to class II” and inserted “(1) in accordance with subsection (h) of this section, and (2)” after “except”.
+    1990—Subsec. (c). [Pub. L. 101–629][/us/pl/101/629], § 11(1), substituted “from class III to class II or class I” for “under [section 360c of this title][/us/usc/t21/s360c] from class III to class II” and inserted “(1) in accordance with subsection (h) of this section, and (2)” after “except”.
 
-    Subsec. (f)(1)(A). [Pub. L. 101–629, § 18(e)][/us/pl/101/629/s18/e], inserted “pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device),” after “manufacture,”.
+    Subsec. (f)(1)(A). [Pub. L. 101–629][/us/pl/101/629], § 18(e), inserted “pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device),” after “manufacture,”.
 
-    Subsec. (h)(3). [Pub. L. 101–629, § 11(2)(A)][/us/pl/101/629/s11/2/A], substituted “Except as provided in paragraph (4), any” for “Any”.
+    Subsec. (h)(3). [Pub. L. 101–629][/us/pl/101/629], § 11(2)(A), substituted “Except as provided in paragraph (4), any” for “Any”.
 
-    Subsec. (h)(4). [Pub. L. 101–629, § 11(2)(B)][/us/pl/101/629/s11/2/B], added par. (4).
+    Subsec. (h)(4). [Pub. L. 101–629][/us/pl/101/629], § 11(2)(B), added par. (4).
 
-    Subsec. (i). [Pub. L. 101–629, § 6(b)(2)][/us/pl/101/629/s6/b/2], substituted “section 360d(b)(5)(B)” for “section 360d(g)(5)(B)”.
+    Subsec. (i). [Pub. L. 101–629][/us/pl/101/629], § 6(b)(2), substituted “section 360d(b)(5)(B)” for “section 360d(g)(5)(B)”.
 
-    Subsec. (j). [Pub. L. 101–629, § 3(b)(2)][/us/pl/101/629/s3/b/2], substituted “Except as provided in [section 360i(e) of this title][/us/usc/t21/s360i/e], no” for “No”.
+    Subsec. (j). [Pub. L. 101–629][/us/pl/101/629], § 3(b)(2), substituted “Except as provided in [section 360i(e) of this title][/us/usc/t21/s360i/e], no” for “No”.
 
-    Subsec. (l)(2). [Pub. L. 101–629, § 18(f)][/us/pl/101/629/s18/f], struck out “and after affording the petitioner an opportunity for an informal hearing” after “under this paragraph”.
+    Subsec. (l)(2). [Pub. L. 101–629][/us/pl/101/629], § 18(f), struck out “and after affording the petitioner an opportunity for an informal hearing” after “under this paragraph”.
 
-    [Pub. L. 101–629, § 5(c)(2)][/us/pl/101/629/s5/c/2], substituted “The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer” for “The manufacturer”.
+    [Pub. L. 101–629][/us/pl/101/629], § 5(c)(2), substituted “The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer” for “The manufacturer”.
 
-    Subsec. (l)(5). [Pub. L. 101–629, § 4(b)(2)][/us/pl/101/629/s4/b/2], added par. (5).
+    Subsec. (l)(5). [Pub. L. 101–629][/us/pl/101/629], § 4(b)(2), added par. (5).
 
-    Subsec. (m). [Pub. L. 101–629, § 14(a)][/us/pl/101/629/s14/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 101–629][/us/pl/101/629], § 14(a), added subsec. (m).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -565,23 +565,23 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–629, § 14(b)][/us/pl/101/629/s14/b], Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525], provided that: 
+[Pub. L. 101–629][/us/pl/101/629], § 14(b), Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525], provided that: 
 
 > “Subsection (m) of section 520 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360j(m)][/us/usc/t21/s360j/m]\], as added by the amendment made by subsection (a), shall take effect on the effective date of the regulations issued by the Secretary under paragraph (6) of such subsection.”
 
  __Applicability to Existing Devices__ 
 
-[Pub. L. 112–144, title VI, § 613(b)][/us/pl/112/144/s613/b], July 9, 2012, [126 Stat. 1061][/us/stat/126/1061], provided that: 
+[Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 613(b), July 9, 2012, [126 Stat. 1061][/us/stat/126/1061], provided that: 
 
 > “A sponsor of a device for which an exemption was approved under paragraph (2) of section 520(m) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360j(m)][/us/usc/t21/s360j/m]) before the date of enactment of this Act \[July 9, 2012\] may seek a determination under subclause (I) or (II) of section 520(m)(6)(A)(i) (as amended by subsection (a)). If the Secretary of Health and Human Services determines that such subclause (I) or (II) applies with respect to a device, clauses (ii), (iii), and (iv) of subparagraph (A) and subparagraphs (B), (C), (D), and (E) of paragraph (6) of such section 520(m) shall apply to such device, and the Secretary shall determine the annual distribution number for purposes of clause (ii) of such subparagraph (A) when making the determination under this subsection.”
 
  __Guidance__ 
 
-[Pub. L. 110–85, title III, § 303(c)][/us/pl/110/85/s303/c], Sept. 27, 2007, [121 Stat. 862][/us/stat/121/862], provided that: 
+[Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 303(c), Sept. 27, 2007, [121 Stat. 862][/us/stat/121/862], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Sept. 27, 2007\], the Commissioner of Food and Drugs shall issue guidance for institutional review committees on how to evaluate requests for approval for devices for which a humanitarian device exemption under section 520(m)(2) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360j(m)(2)][/us/usc/t21/s360j/m/2]) has been granted.”
 
-[Pub. L. 107–250, title II, § 213][/us/pl/107/250/s213], Oct. 26, 2002, [116 Stat. 1614][/us/stat/116/1614], provided that: 
+[Pub. L. 107–250, title II][/us/pl/107/250/tII], § 213, Oct. 26, 2002, [116 Stat. 1614][/us/stat/116/1614], provided that: 
 
 > “Not later than 270 days after the date of the enactment of this Act \[Oct. 26, 2002\], the Secretary of Health and Human Services shall issue guidance on the following:
 
@@ -591,7 +591,7 @@
 
  __Report on Humanitarian Device Exemptions__ 
 
-    [Pub. L. 101–629, § 14(c)][/us/pl/101/629/s14/c], Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525], directed Secretary of Health and Human Services, within 4 years after issuance of regulations under [21 U.S.C. 360j(m)(6)][/us/usc/t21/s360j/m/6], to report to Congress on types of devices exempted, an evaluation of effects of such section, and a recommendation on extension of the section.
+    [Pub. L. 101–629][/us/pl/101/629], § 14(c), Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525], directed Secretary of Health and Human Services, within 4 years after issuance of regulations under [21 U.S.C. 360j(m)(6)][/us/usc/t21/s360j/m/6], to report to Congress on types of devices exempted, an evaluation of effects of such section, and a recommendation on extension of the section.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -645,7 +645,7 @@
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
-[/us/pl/105/115/s125/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FE
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
 [/us/usc/t21/s360i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360i
 [/us/usc/t21/s360c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fa
@@ -654,87 +654,87 @@
 [/us/usc/t21/s321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fh
 [/us/usc/t21/s321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fh
 [/us/usc/t21/s321/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fg
-[/us/act/1938-06-25/ch675/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs520
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F565
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4514
-[/us/pl/102/571/s107/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F10
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
-[/us/pl/105/115/s125/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FE
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
-[/us/pl/109/96/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F96%2Fs1
+[/us/pl/109/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F96
 [/us/stat/119/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2119
-[/us/pl/110/85/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs303%2Fa
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F860
-[/us/pl/112/144/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs507%2Fc
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1045
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/112/144/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs617
-[/us/pl/112/144/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs601%2F1
-[/us/pl/112/144/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs601%2F2
-[/us/pl/112/144/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs606
-[/us/pl/112/144/s613/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs613%2Fa%2F1%2FA%2Fi
-[/us/pl/112/144/s613/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs613%2Fa%2F1%2FA%2Fii
-[/us/pl/112/144/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs507%2Fc
-[/us/pl/112/144/s613/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs613%2Fa%2F1%2FB
-[/us/pl/112/144/s613/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs613%2Fa%2F2
-[/us/pl/112/144/s613/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs613%2Fa%2F3
-[/us/pl/110/85/s801/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fb%2F3%2FE
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t42/s282/j/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj%2F5%2FB
-[/us/pl/110/85/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs303%2Fa%2F1
-[/us/pl/110/85/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs303%2Fa%2F2
-[/us/pl/110/85/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs303%2Fa%2F3
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/109/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F96
-[/us/pl/105/115/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs410%2Fa
-[/us/pl/105/115/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs201%2Fa
-[/us/pl/105/115/s216/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs216%2Fa%2F1
-[/us/pl/105/115/s125/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FE
-[/us/pl/105/115/s125/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FE
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t21/s360d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360d
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
-[/us/pl/105/115/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs203%2F1
-[/us/pl/105/115/s203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs203%2F2%2FB
-[/us/pl/105/115/s203/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs203%2F2%2FA
-[/us/pl/105/115/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs203%2F3
-[/us/pl/105/115/s203/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs203%2F4
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
-[/us/pl/101/629/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs11%2F1
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t21/s360c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c
-[/us/pl/101/629/s18/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs18%2Fe
-[/us/pl/101/629/s11/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs11%2F2%2FA
-[/us/pl/101/629/s11/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs11%2F2%2FB
-[/us/pl/101/629/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs6%2Fb%2F2
-[/us/pl/101/629/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs3%2Fb%2F2
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t21/s360i/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360i%2Fe
-[/us/pl/101/629/s18/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs18%2Ff
-[/us/pl/101/629/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fc%2F2
-[/us/pl/101/629/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs4%2Fb%2F2
-[/us/pl/101/629/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs14%2Fa
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/101/629/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs14%2Fb
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4525
 [/us/usc/t21/s360j/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fm
-[/us/pl/112/144/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs613%2Fb
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1061
 [/us/usc/t21/s360j/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fm
-[/us/pl/110/85/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs303%2Fc
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F862
 [/us/usc/t21/s360j/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fm%2F2
-[/us/pl/107/250/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs213
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1614
-[/us/pl/101/629/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs14%2Fc
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4525
 [/us/usc/t21/s360j/m/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fm%2F6
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

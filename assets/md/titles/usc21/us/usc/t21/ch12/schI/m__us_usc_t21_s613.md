@@ -23,7 +23,7 @@
 
     (3) upon request, make the procedures and reassessed process control plans available to inspectors appointed by the Secretary for review and copying.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 13, as added [Pub. L. 110–234, title XI, § 11017(a)][/us/pl/110/234/s11017/a], May 22, 2008, [122 Stat. 1370][/us/stat/122/1370], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11017(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2132.)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 13, as added [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11017(a), May 22, 2008, [122 Stat. 1370][/us/stat/122/1370], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11017(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2132.)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 613, acts [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 13, formerly 11th par., [34 Stat. 1263][/us/stat/34/1263]; renumbered § 13 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(b), 12(a), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592, related to inspectors of animals for export and certificates of condition, prior to repeal by [Pub. L. 107–171, title X, § 10418(a)(19)][/us/pl/107/171/s10418/a/19], May 13, 2002, [116 Stat. 508][/us/stat/116/508]. Section was formerly classified to [section 81 of this title][/us/usc/t21/s81].
+    A prior section 613, acts [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 13, formerly 11th par., [34 Stat. 1263][/us/stat/34/1263]; renumbered § 13 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(b), 12(a), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592, related to inspectors of animals for export and certificates of condition, prior to repeal by [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(a)(19), May 13, 2002, [116 Stat. 508][/us/stat/116/508]. Section was formerly classified to [section 81 of this title][/us/usc/t21/s81].
 
  __Effective Date__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/110/234/s11017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11017%2Fa
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1370
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -57,7 +57,7 @@
 [/us/stat/34/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1263
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/107/171/s10418/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fa%2F19
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F508
 [/us/usc/t21/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs81
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

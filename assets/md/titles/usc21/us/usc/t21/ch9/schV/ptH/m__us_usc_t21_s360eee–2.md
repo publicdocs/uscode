@@ -69,7 +69,7 @@
 
         (3) provide that the final regulation take effect on the date that is 2 years after the date such final regulation is published.
 
-([June 25, 1938, ch. 675, § 583][/us/act/1938-06-25/ch675/s583], as added [Pub. L. 113–54, title II, § 204(a)(5)][/us/pl/113/54/s204/a/5], Nov. 27, 2013, [127 Stat. 634][/us/stat/127/634].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 583, as added [Pub. L. 113–54, title II][/us/pl/113/54/tII], § 204(a)(5), Nov. 27, 2013, [127 Stat. 634][/us/stat/127/634].)
 
  __Effective Date__ 
 
@@ -87,8 +87,8 @@
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/usc/t18/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/act/1938-06-25/ch675/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs583
-[/us/pl/113/54/s204/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fa%2F5
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtII
 [/us/stat/127/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F634
 [/us/pl/113/54/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fc
 [/us/usc/t21/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353

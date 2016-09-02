@@ -45,17 +45,17 @@
 
         For the purpose of this section colored oleomargarine or colored margarine is oleomargarine or margarine having a tint or shade containing more than one and six-tenths degrees of yellow, or of yellow and red collectively, but with an excess of yellow over red, measured in terms of Lovibond tintometer scale or its equivalent.
 
-([June 25, 1938, ch. 675, § 407][/us/act/1938-06-25/ch675/s407], as added [Mar. 16, 1950, ch. 61, § 3(c)][/us/act/1950-03-16/ch61/s3/c], [64 Stat. 20][/us/stat/64/20].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 407, as added [Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 3(c), [64 Stat. 20][/us/stat/64/20].)
 
  __Effective Date__ 
 
-[Act Mar. 16, 1950, ch. 61, § 7][/us/act/1950-03-16/ch61/s7], [64 Stat. 22][/us/stat/64/22], provided that: 
+[Act Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 7, [64 Stat. 22][/us/stat/64/22], provided that: 
 
 > “This Act \[enacting this section and sections 347a and 347b of this title and amending sections 331 and 342 of this title and sections 45 and 55 of Title 15, Commerce and Trade\] shall become effective on July 1, 1950.”
 
  __Transfer of Appropriations__ 
 
-[Act Mar. 16, 1950, ch. 61, § 5][/us/act/1950-03-16/ch61/s5], [64 Stat. 22][/us/stat/64/22], provided that: 
+[Act Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 5, [64 Stat. 22][/us/stat/64/22], provided that: 
 
 > “So much of the unexpended balances of appropriations, allocations, or other funds (including funds available for the fiscal year ending June 30, 1950) for the use of the Bureau of Internal Revenue of the Treasury Department in the exercise of functions under the Oleomargarine Tax Act (26 U.S.C., § 2300, subchapter A) \[now section 4591 et seq. of Title 26, Internal Revenue Code\], as the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\] may determine, shall be transferred to the Federal Security Agency (Food and Drug Administration) \[now the Department of Health and Human Services\] for use in the enforcement of this Act \[see Effective Date note above\].”
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
-[/us/act/1938-06-25/ch675/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs407
-[/us/act/1950-03-16/ch61/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs3%2Fc
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F20
-[/us/act/1950-03-16/ch61/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs7
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F22
-[/us/act/1950-03-16/ch61/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs5
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F22
 
 

@@ -71,7 +71,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal years 2011 through 2015.
 
-([June 25, 1938, ch. 675, § 1011][/us/act/1938-06-25/ch675/s1011], as added [Pub. L. 111–353, title II, § 209(a)][/us/pl/111/353/s209/a], Jan. 4, 2011, [124 Stat. 3945][/us/stat/124/3945].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1011, as added [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 209(a), Jan. 4, 2011, [124 Stat. 3945][/us/stat/124/3945].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Codification__ 
 
-    Another section 1011 of [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], was enacted by [Pub. L. 111–148, title III, § 3509(g)][/us/pl/111/148/s3509/g], Mar. 23, 2010, [124 Stat. 536][/us/stat/124/536], and is classified to [section 399b of this title][/us/usc/t21/s399b].
+    Another section 1011 of [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], was enacted by [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(g), Mar. 23, 2010, [124 Stat. 536][/us/stat/124/536], and is classified to [section 399b of this title][/us/usc/t21/s399b].
 
  __Construction__ 
 
@@ -94,8 +94,8 @@
 
 [/us/usc/t21/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs372
 [/us/usc/t7/s7625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7625
-[/us/act/1938-06-25/ch675/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1011
-[/us/pl/111/353/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs209%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3945
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885
@@ -104,7 +104,7 @@
 [/us/usc/t42/s247b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9320
 [/us/usc/t21/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2201
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
-[/us/pl/111/148/s3509/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fg
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F536
 [/us/usc/t21/s399b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399b
 

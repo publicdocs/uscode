@@ -45,11 +45,11 @@
 
         (B) is administered as a gas.
 
-([June 25, 1938, ch. 675, § 575][/us/act/1938-06-25/ch675/s575], as added [Pub. L. 112–144, title XI, § 1111][/us/pl/112/144/s1111], July 9, 2012, [126 Stat. 1108][/us/stat/126/1108].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 575, as added [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1111, July 9, 2012, [126 Stat. 1108][/us/stat/126/1108].)
 
  __Changes to Regulations__ 
 
-[Pub. L. 112–144, title XI, § 1112][/us/pl/112/144/s1112], July 9, 2012, [126 Stat. 1111][/us/stat/126/1111], provided that:
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1112, July 9, 2012, [126 Stat. 1111][/us/stat/126/1111], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -75,7 +75,7 @@
 
  __Rules of Construction__ 
 
-[Pub. L. 112–144, title XI, § 1113][/us/pl/112/144/s1113], July 9, 2012, [126 Stat. 1112][/us/stat/126/1112], provided that: 
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1113, July 9, 2012, [126 Stat. 1112][/us/stat/126/1112], provided that: 
 
 > “Nothing in this subtitle \[subtitle B (§§ 1111–1113) of title XI of [Pub. L. 112–144][/us/pl/112/144], enacting this section and sections 360ddd–1 and 360ddd–2 of this title and provisions set out as notes under this section\] and the amendments made by this subtitle applies with respect to—
 
@@ -107,13 +107,13 @@
 [/us/usc/t21/s355/c/3/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fc%2F3%2FE%2Fii
 [/us/usc/t21/s355/j/5/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F5%2FF%2Fii
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
-[/us/act/1938-06-25/ch675/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs575
-[/us/pl/112/144/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1111
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1108
-[/us/pl/112/144/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1112
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1111
 [/us/usc/t21/s360ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ddd
-[/us/pl/112/144/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1113
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1112
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355

@@ -67,7 +67,7 @@
 
         In this section, the term “prescription drug” means a drug subject to [section 353(b)(1) of this title][/us/usc/t21/s353/b/1].
 
-([June 25, 1938, ch. 675, § 505D][/us/act/1938-06-25/ch675/s505D], as added [Pub. L. 110–85, title IX, § 913][/us/pl/110/85/s913], Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 505D, as added [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 913, Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952].)
 
 ----------
 
@@ -77,8 +77,8 @@
 ----------
 
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
-[/us/act/1938-06-25/ch675/s505D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505D
-[/us/pl/110/85/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs913
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F952
 
 

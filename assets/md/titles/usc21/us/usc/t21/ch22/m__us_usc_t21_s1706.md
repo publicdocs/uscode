@@ -261,7 +261,7 @@
 
             (B) to combat illegal drug trafficking through such methods as the Director considers appropriate, such as establishing or operating (or both) a toll-free telephone hotline for use by the public to provide information about illegal drug-related activities.
 
-([Pub. L. 105–277, div. C, title VII, § 707][/us/pl/105/277/s707], Oct. 21, 1998, [112 Stat. 2681–686][/us/stat/112/2681-686]; [Pub. L. 109–469, title III][/us/pl/109/469], §§ 301, § 302(c), Dec. 29, 2006, [120 Stat. 3518][/us/stat/120/3518], 3525.)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 707, Oct. 21, 1998, [112 Stat. 2681–686][/us/stat/112/2681-686]; [Pub. L. 109–469, title III][/us/pl/109/469/tIII], §§ 301, § 302(c), Dec. 29, 2006, [120 Stat. 3518][/us/stat/120/3518], 3525.)
 
  __Repeal of Section__ 
 
@@ -273,13 +273,13 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–469, § 301][/us/pl/109/469/s301], amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
+    2006—[Pub. L. 109–469][/us/pl/109/469], § 301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
 
-    Subsec. (q). [Pub. L. 109–469, § 302(c)][/us/pl/109/469/s302/c], added subsec. (q).
+    Subsec. (q). [Pub. L. 109–469][/us/pl/109/469], § 302(c), added subsec. (q).
 
  __Findings__ 
 
-[Pub. L. 109–469, title III, § 302(b)][/us/pl/109/469/s302/b], Dec. 29, 2006, [120 Stat. 3524][/us/stat/120/3524], provided that: 
+[Pub. L. 109–469, title III][/us/pl/109/469/tIII], § 302(b), Dec. 29, 2006, [120 Stat. 3524][/us/stat/120/3524], provided that: 
 
 > “Congress finds the following:
 
@@ -301,7 +301,7 @@
 
  __Combating Methamphetamine and Amphetamine in High Intensity Drug Trafficking Areas__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3624][/us/pl/106/310/s3624], Oct. 17, 2000, [114 Stat. 1232][/us/stat/114/1232], provided that:
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3624, Oct. 17, 2000, [114 Stat. 1232][/us/stat/114/1232], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -347,7 +347,7 @@
 
  __Funding for High Intensity Drug Trafficking Areas Program__ 
 
-[Pub. L. 106–58, title III][/us/pl/106/58], Sept. 29, 1999, [113 Stat. 448][/us/stat/113/448], provided in part: 
+[Pub. L. 106–58, title III][/us/pl/106/58/tIII], Sept. 29, 1999, [113 Stat. 448][/us/stat/113/448], provided in part: 
 
 > “That, hereafter, of the amount appropriated for fiscal year 2000 or any succeeding fiscal year for the High Intensity Drug Trafficking Areas Program, the funds to be obligated or expended during such fiscal year for programs addressing the treatment or prevention of drug use as part of the approved strategy for a designated High Intensity Drug Trafficking Area (HIDTA) shall not be less than the funds obligated or expended for such programs during fiscal year 1999 for each designated HIDTA without the prior approval of the Committees on Appropriations”.
 
@@ -360,20 +360,20 @@
 
 [/us/usc/t21/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1703
 [/us/usc/t21/s802/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F33
-[/us/pl/105/277/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs707
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-686
-[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtIII
 [/us/stat/120/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3518
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
-[/us/pl/109/469/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs301
-[/us/pl/109/469/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs302%2Fc
-[/us/pl/109/469/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs302%2Fb
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtIII
 [/us/stat/120/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3524
-[/us/pl/106/310/s3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3624
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1232
 [/us/usc/t21/s802/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F33
-[/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
+[/us/pl/106/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtIII
 [/us/stat/113/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F448
 
 

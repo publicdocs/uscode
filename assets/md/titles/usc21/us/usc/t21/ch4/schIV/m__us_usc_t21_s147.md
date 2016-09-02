@@ -17,7 +17,7 @@
 
     Any laws or parts of laws inconsistent with this subchapter are repealed.
 
-([Feb. 15, 1927, ch. 155, § 7][/us/act/1927-02-15/ch155/s7], [44 Stat. 1103][/us/stat/44/1103].)
+([Feb. 15, 1927, ch. 155][/us/act/1927-02-15/ch155], § 7, [44 Stat. 1103][/us/stat/44/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-15/ch155/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155%2Fs7
+[/us/act/1927-02-15/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155
 [/us/stat/44/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1103
 
 

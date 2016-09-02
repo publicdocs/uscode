@@ -951,31 +951,31 @@
 
             </table>
 
-([June 25, 1938, ch. 675, § 412][/us/act/1938-06-25/ch675/s412], as added [Pub. L. 96–359, § 2][/us/pl/96/359/s2], Sept. 26, 1980, [94 Stat. 1190][/us/stat/94/1190]; amended [Pub. L. 99–570, title IV, § 4014(a)][/us/pl/99/570/s4014/a], (b)(1), Oct. 27, 1986, [100 Stat. 3207–116][/us/stat/100/3207-116], 3207–120; [Pub. L. 103–80, § 3][/us/pl/103/80/s3](l), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 412, as added [Pub. L. 96–359][/us/pl/96/359], § 2, Sept. 26, 1980, [94 Stat. 1190][/us/stat/94/1190]; amended [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4014(a), (b)(1), Oct. 27, 1986, [100 Stat. 3207–116][/us/stat/100/3207-116], 3207–120; [Pub. L. 103–80][/us/pl/103/80], § 3(l), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777].)
 
  __Amendments__ 
 
     1993—Subsec. (h)(1). [Pub. L. 103–80][/us/pl/103/80] substituted “(e)(1)(B) of this section” for “(c)(1)(B) of this section,” in concluding provisions.
 
-    1986—Subsecs. (a) to (d). [Pub. L. 99–570, § 4014(a)(7)][/us/pl/99/570/s4014/a/7], added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer.
+    1986—Subsecs. (a) to (d). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(7), added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer.
 
-    Subsecs. (e), (f). [Pub. L. 99–570, § 4014(a)(1)][/us/pl/99/570/s4014/a/1], (7), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively.
+    Subsecs. (e), (f). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(1), (7), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively.
 
-    Subsec. (g). [Pub. L. 99–570, § 4014(a)(1)][/us/pl/99/570/s4014/a/1], (2), redesignated subsec. (e) as (g) and substituted “Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula” for “No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made”. Former subsec. (g) redesignated (i).
+    Subsec. (g). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(1), (2), redesignated subsec. (e) as (g) and substituted “Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula” for “No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made”. Former subsec. (g) redesignated (i).
 
-    Subsec. (h). [Pub. L. 99–570, § 4014(a)(1)][/us/pl/99/570/s4014/a/1], redesignated subsec. (f) as (h).
+    Subsec. (h). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(1), redesignated subsec. (f) as (h).
 
-    Subsec. (h)(1). [Pub. L. 99–570, § 4014(a)(3)][/us/pl/99/570/s4014/a/3], (4), substituted “(a), (b), and (c)” for “(a) and (b)” and “(e)(1)” for “(c)(1)”.
+    Subsec. (h)(1). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(3), (4), substituted “(a), (b), and (c)” for “(a) and (b)” and “(e)(1)” for “(c)(1)”.
 
-    [Pub. L. 99–570, § 4014(a)(5)][/us/pl/99/570/s4014/a/5], which directed that “(d)(1)(B)” be substituted for “(e)(1)(B)” in second sentence could not be executed because “(e)(1)(B)” did not appear. See 1993 Amendment note above.
+    [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(5), which directed that “(d)(1)(B)” be substituted for “(e)(1)(B)” in second sentence could not be executed because “(e)(1)(B)” did not appear. See 1993 Amendment note above.
 
-    Subsec. (h)(2). [Pub. L. 99–570, § 4014(a)(6)][/us/pl/99/570/s4014/a/6], substituted “(a), (b), and (c)” for “(a) and (b)”.
+    Subsec. (h)(2). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(6), substituted “(a), (b), and (c)” for “(a) and (b)”.
 
-    Subsec. (i). [Pub. L. 99–570, § 4014(a)(1)][/us/pl/99/570/s4014/a/1], (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
+    Subsec. (i). [Pub. L. 99–570][/us/pl/99/570], § 4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–359, § 6][/us/pl/96/359/s6], Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193], provided that: 
+[Pub. L. 96–359][/us/pl/96/359], § 6, Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193], provided that: 
 
 > “Section 412 of the Federal Food, Drug, and Cosmetic Act (added by section 2) \[this section\] shall apply with respect to infant formulas manufactured on or after the 90th day after the date of the enactment of this Act \[Sept. 26, 1980\].”
 
@@ -987,23 +987,23 @@
 ----------
 
 [/us/usc/t21/s342/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa%2F2%2FC
-[/us/act/1938-06-25/ch675/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs412
-[/us/pl/96/359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1190
-[/us/pl/99/570/s4014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-116
-[/us/pl/103/80/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F777
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/99/570/s4014/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F7
-[/us/pl/99/570/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F1
-[/us/pl/99/570/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F1
-[/us/pl/99/570/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F1
-[/us/pl/99/570/s4014/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F3
-[/us/pl/99/570/s4014/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F5
-[/us/pl/99/570/s4014/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F6
-[/us/pl/99/570/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4014%2Fa%2F1
-[/us/pl/96/359/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs6
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1193
 
 

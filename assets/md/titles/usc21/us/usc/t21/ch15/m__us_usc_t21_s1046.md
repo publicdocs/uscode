@@ -37,7 +37,7 @@
 
         The importation of any article contrary to this section is prohibited.
 
-([Pub. L. 91–597, § 17][/us/pl/91/597/s17], Dec. 29, 1970, [84 Stat. 1630][/us/stat/84/1630]; [Pub. L. 102–237, title X, § 1012(f)][/us/pl/102/237/s1012/f], Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901].)
+([Pub. L. 91–597][/us/pl/91/597], § 17, Dec. 29, 1970, [84 Stat. 1630][/us/stat/84/1630]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(f), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901].)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/91/597/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs17
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1630
-[/us/pl/102/237/s1012/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Ff
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1901
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

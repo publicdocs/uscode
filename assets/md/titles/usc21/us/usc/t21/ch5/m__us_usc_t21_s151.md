@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person, firm, or corporation to prepare, sell, barter, or exchange in the District of Columbia, or in the Territories, or in any place under the jurisdiction of the United States, or to ship or deliver for shipment in or from the United States, the District of Columbia, any territory of the United States, or any place under the jurisdiction of the United States, any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product intended for use in the treatment of domestic animals, and no person, firm, or corporation shall prepare, sell, barter, exchange, or ship as aforesaid any virus, serum, toxin, or analogous product manufactured within the United States and intended for use in the treatment of domestic animals, unless and until the said virus, serum, toxin, or analogous product shall have been prepared, under and in compliance with regulations prescribed by the Secretary of Agriculture, at an establishment holding an unsuspended and unrevoked license issued by the Secretary of Agriculture as hereinafter authorized.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 832][/us/stat/37/832]; [Pub. L. 99–198, title XVII, § 1768(a)][/us/pl/99/198/s1768/a], Dec. 23, 1985, [99 Stat. 1654][/us/stat/99/1654].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 832][/us/stat/37/832]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1768(a), Dec. 23, 1985, [99 Stat. 1654][/us/stat/99/1654].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVII, § 1768(f)][/us/pl/99/198/s1768/f], Dec. 23, 1985, [99 Stat. 1655][/us/stat/99/1655], provided that:
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1768(f), Dec. 23, 1985, [99 Stat. 1655][/us/stat/99/1655], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 154a and 159 of this title and amending this section and sections 154 and 157 of this title\] shall become effective on the date of enactment of this Act \[Dec. 23, 1985\].
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-    [Act Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] \[part\], [37 Stat. 832][/us/stat/37/832], which is classified to this chapter, is popularly known as the “Virus-Serum-Toxin Act”.
+    [Act Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 \[part\], [37 Stat. 832][/us/stat/37/832], which is classified to this chapter, is popularly known as the “Virus-Serum-Toxin Act”.
 
  __Transfer of Functions__ 
 
@@ -64,16 +64,16 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832
-[/us/pl/99/198/s1768/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768%2Fa
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1654
 [/us/pl/99/198/s1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768
 [/us/usc/t7/s136y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136y
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/99/198/s1768/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768%2Ff
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1655
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/act/1925-02-10/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-10%2Fch200

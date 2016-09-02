@@ -29,7 +29,7 @@
 
     (2) A controlled substance in schedule II, III, or IV may be so imported, transferred, or transshipped if and only if advance notice is given to the Attorney General in accordance with regulations of the Attorney General.
 
-([Pub. L. 91–513, title III, § 1004][/us/pl/91/513/s1004], Oct. 27, 1970, [84 Stat. 1287][/us/stat/84/1287].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1004, Oct. 27, 1970, [84 Stat. 1287][/us/stat/84/1287].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1004
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1287
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 

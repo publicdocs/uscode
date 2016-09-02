@@ -47,7 +47,7 @@
 
         (6) knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has respectively, not been so inspected and passed, or exempted.
 
-([Pub. L. 85–172, § 9][/us/pl/85/172/s9], Aug. 28, 1957, [71 Stat. 445][/us/stat/71/445]; [Pub. L. 90–492, § 9][/us/pl/90/492/s9], Aug. 18, 1968, [82 Stat. 800][/us/stat/82/800].)
+([Pub. L. 85–172][/us/pl/85/172], § 9, Aug. 28, 1957, [71 Stat. 445][/us/stat/71/445]; [Pub. L. 90–492][/us/pl/90/492], § 9, Aug. 18, 1968, [82 Stat. 800][/us/stat/82/800].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/85/172/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs9
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F445
-[/us/pl/90/492/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs9
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F800
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

@@ -55,7 +55,7 @@
 
         Nothing in this section may be construed as having any effect on requirements under [section 352(n) of this title][/us/usc/t21/s352/n] or on the authority of the Secretary under section 314.550, 314.640, 601.45, or 601.94 of title 21, Code of Federal Regulations (or successor regulations).
 
-([June 25, 1938, ch. 675, § 503C][/us/act/1938-06-25/ch675/s503C], formerly § 503B, as added [Pub. L. 110–85, title IX, § 901(d)(2)][/us/pl/110/85/s901/d/2], Sept. 27, 2007, [121 Stat. 939][/us/stat/121/939], renumbered § 503C, [Pub. L. 113–54, title I, § 102(a)(1)][/us/pl/113/54/s102/a/1], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 503C, formerly § 503B, as added [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 901(d)(2), Sept. 27, 2007, [121 Stat. 939][/us/stat/121/939], renumbered § 503C, [Pub. L. 113–54, title I][/us/pl/113/54/tI], § 102(a)(1), Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587].)
 
  __Codification__ 
 
@@ -75,10 +75,10 @@
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s352/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs352%2Fn
-[/us/act/1938-06-25/ch675/s503C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs503C
-[/us/pl/110/85/s901/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fd%2F2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F939
-[/us/pl/113/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F1
+[/us/pl/113/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtI
 [/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
 [/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
 [/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54

@@ -73,11 +73,11 @@
 
             (C) Supplying a special dietary need by reason of being a food for use as the sole item of the diet.
 
-([June 25, 1938, ch. 675, § 411][/us/act/1938-06-25/ch675/s411], as added [Pub. L. 94–278, title V, § 501(a)][/us/pl/94/278/s501/a], Apr. 22, 1976, [90 Stat. 410][/us/stat/90/410]; amended [Pub. L. 103–417][/us/pl/103/417], §§ 3(c), 7(d), Oct. 25, 1994, [108 Stat. 4328][/us/stat/108/4328], 4331.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 411, as added [Pub. L. 94–278, title V][/us/pl/94/278/tV], § 501(a), Apr. 22, 1976, [90 Stat. 410][/us/stat/90/410]; amended [Pub. L. 103–417][/us/pl/103/417], §§ 3(c), 7(d), Oct. 25, 1994, [108 Stat. 4328][/us/stat/108/4328], 4331.)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(2). [Pub. L. 103–417, § 7(d)][/us/pl/103/417/s7/d], redesignated subpar. (A) as par. (2), substituted “dietary supplement ingredients described in [section 321(ff) of this title][/us/usc/t21/s321/ff]” for “vitamins or minerals”, and struck out former subpar. (B), which read as follows: “Notwithstanding the provisions of subparagraph (A), the labeling and advertising for any food to which this section applies may not give prominence to or emphasize ingredients which are not—
+    1994—Subsec. (b)(2). [Pub. L. 103–417][/us/pl/103/417], § 7(d), redesignated subpar. (A) as par. (2), substituted “dietary supplement ingredients described in [section 321(ff) of this title][/us/usc/t21/s321/ff]” for “vitamins or minerals”, and struck out former subpar. (B), which read as follows: “Notwithstanding the provisions of subparagraph (A), the labeling and advertising for any food to which this section applies may not give prominence to or emphasize ingredients which are not—
 
     “(i) vitamins,
 
@@ -85,9 +85,9 @@
 
     “(iii) represented as a source of vitamins or minerals.”
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 103–417, § 3(c)(1)][/us/pl/103/417/s3/c/1], inserted “powder, softgel, gelcap,” after “capsule,”.
+    Subsec. (c)(1)(B)(i). [Pub. L. 103–417][/us/pl/103/417], § 3(c)(1), inserted “powder, softgel, gelcap,” after “capsule,”.
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 103–417, § 3(c)(2)][/us/pl/103/417/s3/c/2], struck out “does not simulate and” after “in such a form,”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 103–417][/us/pl/103/417], § 3(c)(2), struck out “does not simulate and” after “in such a form,”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -95,7 +95,7 @@
 
  __Amendment of Inconsistent Regulations by Secretary__ 
 
-[Pub. L. 94–278, title V, § 501(b)][/us/pl/94/278/s501/b], Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided that: 
+[Pub. L. 94–278, title V][/us/pl/94/278/tV], § 501(b), Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided that: 
 
 > “The Secretary of Health and Human Services shall amend any regulation promulgated under the Federal Food, Drug, and Cosmetic Act \[this chapter\] which is inconsistent with section 411 of such Act \[[section 350 of this title][/us/usc/t21/s350]\] (as added by subsection (a)) and such amendments shall be promulgated in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code.”
 
@@ -111,21 +111,21 @@
 [/us/usc/t21/s321/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fff
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
 [/us/usc/t21/s343/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343%2Fj
-[/us/act/1938-06-25/ch675/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs411
-[/us/pl/94/278/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs501%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/278/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtV
 [/us/stat/90/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F410
 [/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/stat/108/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4328
-[/us/pl/103/417/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs7%2Fd
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/usc/t21/s321/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fff
-[/us/pl/103/417/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs3%2Fc%2F1
-[/us/pl/103/417/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs3%2Fc%2F2
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/pl/103/417/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs7%2Fd
 [/us/pl/103/417/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs7%2Fe
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
-[/us/pl/94/278/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs501%2Fb
+[/us/pl/94/278/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtV
 [/us/stat/90/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F411
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t21/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

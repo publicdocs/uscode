@@ -17,7 +17,7 @@
 
     Any person, firm or corporation, or association who shall knowingly pack or cause to be packed apples in barrels or who shall knowingly sell or offer for sale such barrels in violation of the provisions of sections 20 to 23 of this title shall be liable to a penalty of $1 and costs for each such barrel so sold or offered for sale, to be recovered at the suit of the United States in any court of the United States having jurisdiction.
 
-([Aug. 3, 1912, ch. 273, § 6][/us/act/1912-08-03/ch273/s6], [37 Stat. 251][/us/stat/37/251].)
+([Aug. 3, 1912, ch. 273][/us/act/1912-08-03/ch273], § 6, [37 Stat. 251][/us/stat/37/251].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1912-08-03/ch273/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273%2Fs6
+[/us/act/1912-08-03/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273
 [/us/stat/37/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F251
 [/us/usc/t15/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs233
 

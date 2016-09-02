@@ -51,11 +51,11 @@
 
         The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
 
-([Pub. L. 91–513, title II, § 502][/us/pl/91/513/s502], Oct. 27, 1970, [84 Stat. 1271][/us/stat/84/1271]; [Pub. L. 95–633, title I, § 108(a)][/us/pl/95/633/s108/a], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 100–690, title VI, § 6060][/us/pl/100/690/s6060], Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320]; [Pub. L. 111–211, title II, § 232(a)][/us/pl/111/211/s232/a], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 502, Oct. 27, 1970, [84 Stat. 1271][/us/stat/84/1271]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 108(a), Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6060, Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 232(a), July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
 
  __Codification__ 
 
-    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Effect of Grants__ 
 
-[Pub. L. 111–211, title II, § 232(e)][/us/pl/111/211/s232/e], July 29, 2010, [124 Stat. 2279][/us/stat/124/2279], provided that: 
+[Pub. L. 111–211, title II][/us/pl/111/211/tII], § 232(e), July 29, 2010, [124 Stat. 2279][/us/stat/124/2279], provided that: 
 
 > “Nothing in this section \[amending this section and sections 872a, 873, and 878 of this title\] or any amendment made by this section—
 
@@ -87,7 +87,7 @@
 
  __Training for Drug Enforcement Administration and State and Local Law Enforcement Personnel Relating to Clandestine Laboratories__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3623][/us/pl/106/310/s3623], Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231], provided that:
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3623, Oct. 17, 2000, [114 Stat. 1231][/us/stat/114/1231], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -131,7 +131,7 @@
 
  __Educational Program for Police Departments__ 
 
-[Pub. L. 104–305, § 4][/us/pl/104/305/s4], Oct. 13, 1996, [110 Stat. 3809][/us/stat/110/3809], provided that: 
+[Pub. L. 104–305][/us/pl/104/305], § 4, Oct. 13, 1996, [110 Stat. 3809][/us/stat/110/3809], provided that: 
 
 > “The Attorney General may—
 
@@ -141,7 +141,7 @@
 
  __Study and Report on Measures To Prevent Sales of Agents Used in Methamphetamine Production__ 
 
-[Pub. L. 104–237, title II, § 202][/us/pl/104/237/s202], Oct. 3, 1996, [110 Stat. 3101][/us/stat/110/3101], provided that:
+[Pub. L. 104–237, title II][/us/pl/104/237/tII], § 202, Oct. 3, 1996, [110 Stat. 3101][/us/stat/110/3101], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -170,17 +170,17 @@
 
 [/us/usc/t21/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/91/513/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs502
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1271
-[/us/pl/95/633/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs108%2Fa
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3773
-[/us/pl/100/690/s6060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6060
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4320
-[/us/pl/111/211/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2278
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
@@ -191,17 +191,17 @@
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs112
 [/us/usc/t21/s801a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801a
-[/us/pl/111/211/s232/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fe
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2279
 [/us/pl/111/211/s232/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fe
 [/us/pl/111/211/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs203%2Fa
 [/us/usc/t25/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2801
-[/us/pl/106/310/s3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3623
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1231
-[/us/pl/104/305/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs4
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/stat/110/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3809
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/104/237/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs202
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3101
 
 

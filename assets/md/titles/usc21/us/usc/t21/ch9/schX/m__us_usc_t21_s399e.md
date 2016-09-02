@@ -41,7 +41,7 @@
 
         (9) carry out other activities that the Secretary determines are necessary and consistent with the purposes described in paragraphs (1) through (8).
 
-([Pub. L. 112–144, title XI, § 1126][/us/pl/112/144/s1126], July 9, 2012, [126 Stat. 1116][/us/stat/126/1116].)
+([Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1126, July 9, 2012, [126 Stat. 1116][/us/stat/126/1116].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/112/144/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1126
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1116
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

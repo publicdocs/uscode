@@ -107,7 +107,7 @@
 
     (13) The term “establishment subject to a registration fee” means an establishment that is registered (or is required to register) with the Secretary under [section 360 of this title][/us/usc/t21/s360] because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
-([June 25, 1938, ch. 675, § 737][/us/act/1938-06-25/ch675/s737], as added [Pub. L. 107–250, title I, § 102(a)][/us/pl/107/250/s102/a], Oct. 26, 2002, [116 Stat. 1589][/us/stat/116/1589]; amended [Pub. L. 108–214, § 2(a)(1)][/us/pl/108/214/s2/a/1], (d)(3)(A), Apr. 1, 2004, [118 Stat. 572][/us/stat/118/572], 577; [Pub. L. 110–85, title II, § 211][/us/pl/110/85/s211], Sept. 27, 2007, [121 Stat. 843][/us/stat/121/843]; [Pub. L. 112–144, title II, § 202][/us/pl/112/144/s202], July 9, 2012, [126 Stat. 1002][/us/stat/126/1002].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 737, as added [Pub. L. 107–250, title I][/us/pl/107/250/tI], § 102(a), Oct. 26, 2002, [116 Stat. 1589][/us/stat/116/1589]; amended [Pub. L. 108–214][/us/pl/108/214], § 2(a)(1), (d)(3)(A), Apr. 1, 2004, [118 Stat. 572][/us/stat/118/572], 577; [Pub. L. 110–85, title II][/us/pl/110/85/tII], § 211, Sept. 27, 2007, [121 Stat. 843][/us/stat/121/843]; [Pub. L. 112–144, title II][/us/pl/112/144/tII], § 202, July 9, 2012, [126 Stat. 1002][/us/stat/126/1002].)
 
  __Termination of Section__ 
 
@@ -115,83 +115,83 @@
 
  __Amendments__ 
 
-    2012—Par. (9). [Pub. L. 112–144, § 202(1)][/us/pl/112/144/s202/1], struck out “incurred” after “expenses” in introductory provisions.
+    2012—Par. (9). [Pub. L. 112–144][/us/pl/112/144], § 202(1), struck out “incurred” after “expenses” in introductory provisions.
 
-    Par. (10). [Pub. L. 112–144, § 202(2)][/us/pl/112/144/s202/2], substituted “October 2011” for “October 2001”.
+    Par. (10). [Pub. L. 112–144][/us/pl/112/144], § 202(2), substituted “October 2011” for “October 2001”.
 
-    Par. (13). [Pub. L. 112–144, § 202(3)][/us/pl/112/144/s202/3], substituted “is registered (or is required to register) with the Secretary under [section 360 of this title][/us/usc/t21/s360] because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.” for “is required to register with the Secretary under [section 360 of this title][/us/usc/t21/s360] and is one of the following types of establishments:” and struck out subpars. (A) to (C) which related to manufacturer, single-use device reprocessor, and specification developer establishments.
+    Par. (13). [Pub. L. 112–144][/us/pl/112/144], § 202(3), substituted “is registered (or is required to register) with the Secretary under [section 360 of this title][/us/usc/t21/s360] because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.” for “is required to register with the Secretary under [section 360 of this title][/us/usc/t21/s360] and is one of the following types of establishments:” and struck out subpars. (A) to (C) which related to manufacturer, single-use device reprocessor, and specification developer establishments.
 
-    2007—[Pub. L. 110–85, § 211(1)][/us/pl/110/85/s211/1], substituted “For purposes of this subpart” for “For purposes of this part” in introductory provisions.
+    2007—[Pub. L. 110–85][/us/pl/110/85], § 211(1), substituted “For purposes of this subpart” for “For purposes of this part” in introductory provisions.
 
-    Pars. (5) to (9). [Pub. L. 110–85, § 211(2)][/us/pl/110/85/s211/2], (3), added pars. (5) to (7) and redesignated former pars. (5) and (6) as (8) and (9), respectively. Former pars. (7) and (8) redesignated (10) and (12), respectively.
+    Pars. (5) to (9). [Pub. L. 110–85][/us/pl/110/85], § 211(2), (3), added pars. (5) to (7) and redesignated former pars. (5) and (6) as (8) and (9), respectively. Former pars. (7) and (8) redesignated (10) and (12), respectively.
 
-    Par. (10). [Pub. L. 110–85, § 211(2)][/us/pl/110/85/s211/2], (4), redesignated par. (7) as (10) and substituted “October of the preceding fiscal year” for “April of the preceding fiscal year” and “October 2001” for “April 2002”.
+    Par. (10). [Pub. L. 110–85][/us/pl/110/85], § 211(2), (4), redesignated par. (7) as (10) and substituted “October of the preceding fiscal year” for “April of the preceding fiscal year” and “October 2001” for “April 2002”.
 
-    Par. (11). [Pub. L. 110–85, § 211(5)][/us/pl/110/85/s211/5], added par. (11).
+    Par. (11). [Pub. L. 110–85][/us/pl/110/85], § 211(5), added par. (11).
 
-    Par. (12). [Pub. L. 110–85, § 211(2)][/us/pl/110/85/s211/2], redesignated par. (8) as (12).
+    Par. (12). [Pub. L. 110–85][/us/pl/110/85], § 211(2), redesignated par. (8) as (12).
 
-    Par. (13). [Pub. L. 110–85, § 211(6)][/us/pl/110/85/s211/6], added par. (13).
+    Par. (13). [Pub. L. 110–85][/us/pl/110/85], § 211(6), added par. (13).
 
-    2004—[Pub. L. 108–214, § 2(d)(3)(A)][/us/pl/108/214/s2/d/3/A], made technical correction to directory language of [Pub. L. 107–250, § 102(a)][/us/pl/107/250/s102/a], which enacted this section.
+    2004—[Pub. L. 108–214][/us/pl/108/214], § 2(d)(3)(A), made technical correction to directory language of [Pub. L. 107–250][/us/pl/107/250], § 102(a), which enacted this section.
 
-    Par. (4)(B). [Pub. L. 108–214, § 2(a)(1)(A)][/us/pl/108/214/s2/a/1/A], substituted “and for which substantial clinical data are necessary to provide a reasonable assurance of safety and effectiveness” for “and for which clinical data are generally necessary to provide a reasonable assurance of safety and effectiveness”.
+    Par. (4)(B). [Pub. L. 108–214][/us/pl/108/214], § 2(a)(1)(A), substituted “and for which substantial clinical data are necessary to provide a reasonable assurance of safety and effectiveness” for “and for which clinical data are generally necessary to provide a reasonable assurance of safety and effectiveness”.
 
-    Par. (4)(D). [Pub. L. 108–214, § 2(a)(1)(B)][/us/pl/108/214/s2/a/1/B], struck out “manufacturing,” after “software,”.
+    Par. (4)(D). [Pub. L. 108–214][/us/pl/108/214], § 2(a)(1)(B), struck out “manufacturing,” after “software,”.
 
-    Par. (5)(J). [Pub. L. 108–214, § 2(a)(1)(C)][/us/pl/108/214/s2/a/1/C], substituted “a premarket application or premarket report under [section 360e of this title][/us/usc/t21/s360e] or a premarket application under [section 262 of title 42][/us/usc/t42/s262].” for “a premarket application under [section 360e of this title][/us/usc/t21/s360e] or [section 262 of title 42][/us/usc/t42/s262].”
+    Par. (5)(J). [Pub. L. 108–214][/us/pl/108/214], § 2(a)(1)(C), substituted “a premarket application or premarket report under [section 360e of this title][/us/usc/t21/s360e] or a premarket application under [section 262 of title 42][/us/usc/t42/s262].” for “a premarket application under [section 360e of this title][/us/usc/t21/s360e] or [section 262 of title 42][/us/usc/t42/s262].”
 
-    Par. (8). [Pub. L. 108–214, § 2(a)(1)(D)][/us/pl/108/214/s2/a/1/D], substituted “The term ‘affiliate’ means a business entity that has a relationship with a second business entity (whether domestic or international)” for “The term ‘affiliate’ means a business entity that has a relationship with a second business entity”.
+    Par. (8). [Pub. L. 108–214][/us/pl/108/214], § 2(a)(1)(D), substituted “The term ‘affiliate’ means a business entity that has a relationship with a second business entity (whether domestic or international)” for “The term ‘affiliate’ means a business entity that has a relationship with a second business entity”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–144, title II, § 206][/us/pl/112/144/s206], July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that: 
+[Pub. L. 112–144, title II][/us/pl/112/144/tII], § 206, July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that: 
 
 > “The amendments made by this title \[enacting [section 379d–3 of this title][/us/usc/t21/s379d–3], amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section\] shall take effect on October 1, 2012, or the date of the enactment of this Act \[July 9, 2012\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act \[[21 U.S.C. 379j(a)(2)(A)][/us/usc/t21/s379j/a/2/A]\] received on or after October 1, 2012, regardless of the date of the enactment of this Act.”
 
  __Effective and Termination Dates of 2007 Amendment__ 
 
-[Pub. L. 110–85, title II, § 216][/us/pl/110/85/s216], Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852], provided that: 
+[Pub. L. 110–85, title II][/us/pl/110/85/tII], § 216, Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852], provided that: 
 
 > “The amendments made by this subtitle \[subtitle A (§§ 211–217) of title II of [Pub. L. 110–85][/us/pl/110/85], enacting [section 379j–1 of this title][/us/usc/t21/s379j–1] and amending this section and [section 379j of this title][/us/usc/t21/s379j]\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all premarket applications, premarket reports, supplements, 30-day notices, and premarket notification submissions received on or after October 1, 2007, regardless of the date of the enactment of this Act.”
 
-    [Pub. L. 110–85, title II, § 217][/us/pl/110/85/s217], Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852], which provided that the amendments by sections 211 to 217 of [Pub. L. 110–85][/us/pl/110/85] (amending this section and [section 379j of this title][/us/usc/t21/s379j]) would cease to be effective Oct. 1, 2012, and that [section 379j–1 of this title][/us/usc/t21/s379j–1] would cease to be effective Jan. 31, 2013, was repealed by [Pub. L. 112–144, title II, § 207(b)(1)][/us/pl/112/144/s207/b/1], July 9, 2012, [126 Stat. 1007][/us/stat/126/1007].
+    [Pub. L. 110–85, title II][/us/pl/110/85/tII], § 217, Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852], which provided that the amendments by sections 211 to 217 of [Pub. L. 110–85][/us/pl/110/85] (amending this section and [section 379j of this title][/us/usc/t21/s379j]) would cease to be effective Oct. 1, 2012, and that [section 379j–1 of this title][/us/usc/t21/s379j–1] would cease to be effective Jan. 31, 2013, was repealed by [Pub. L. 112–144, title II][/us/pl/112/144/tII], § 207(b)(1), July 9, 2012, [126 Stat. 1007][/us/stat/126/1007].
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 112–144, title II, § 207(a)][/us/pl/112/144/s207/a], July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that: 
+[Pub. L. 112–144, title II][/us/pl/112/144/tII], § 207(a), July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that: 
 
 > “Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 739i][/us/usc/t21/s739i] \[379i\]; 739j \[379j\]) shall cease to be effective October 1, 2017. Section 738A ([21 U.S.C. 739j–1][/us/usc/t21/s739j–1] \[379j–1\]) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) shall cease to be effective January 31, 2018.”
 
-[Pub. L. 107–250, title I, § 106][/us/pl/107/250/s106], Oct. 26, 2002, [116 Stat. 1602][/us/stat/116/1602], provided that: 
+[Pub. L. 107–250, title I][/us/pl/107/250/tI], § 106, Oct. 26, 2002, [116 Stat. 1602][/us/stat/116/1602], provided that: 
 
 > “The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment.”
 
-    [Pub. L. 107–250, title I, § 107][/us/pl/107/250/s107], Oct. 26, 2002, [116 Stat. 1602][/us/stat/116/1602], which provided that the amendments made by title I of [Pub. L. 107–250][/us/pl/107/250] (enacting this subpart) would cease to be effective Oct. 1, 2007, except that [section 103 of Pub. L. 107–250][/us/pl/107/250/s103], set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by [Pub. L. 112–144, title II, § 207(c)(1)][/us/pl/112/144/s207/c/1], July 9, 2012, [126 Stat. 1007][/us/stat/126/1007].
+    [Pub. L. 107–250, title I][/us/pl/107/250/tI], § 107, Oct. 26, 2002, [116 Stat. 1602][/us/stat/116/1602], which provided that the amendments made by title I of [Pub. L. 107–250][/us/pl/107/250] (enacting this subpart) would cease to be effective Oct. 1, 2007, except that [section 103 of Pub. L. 107–250][/us/pl/107/250/s103], set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by [Pub. L. 112–144, title II][/us/pl/112/144/tII], § 207(c)(1), July 9, 2012, [126 Stat. 1007][/us/stat/126/1007].
 
-    \[[Pub. L. 112–144, title II, § 207(c)][/us/pl/112/144/s207/c], July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that the repeal of [section 107 of Pub. L. 107–250][/us/pl/107/250/s107], formerly set out above, is effective Sept. 30, 2007.\]
+    \[[Pub. L. 112–144, title II][/us/pl/112/144/tII], § 207(c), July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that the repeal of [section 107 of Pub. L. 107–250][/us/pl/107/250/s107], formerly set out above, is effective Sept. 30, 2007.\]
 
  __Savings Provision__ 
 
-[Pub. L. 112–144, title II, § 205][/us/pl/112/144/s205], July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that: 
+[Pub. L. 112–144, title II][/us/pl/112/144/tII], § 205, July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], provided that: 
 
 > “Notwithstanding the amendments made by this title \[enacting [section 379d–3 of this title][/us/usc/t21/s379d–3], amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379i][/us/usc/t21/s379i] et seq.), as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act \[[21 U.S.C. 379j(a)(2)(A)][/us/usc/t21/s379j/a/2/A]\] (in effect as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013.”
 
-[Pub. L. 110–85, title II, § 214][/us/pl/110/85/s214], Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852], provided that: 
+[Pub. L. 110–85, title II][/us/pl/110/85/tII], § 214, Sept. 27, 2007, [121 Stat. 852][/us/stat/121/852], provided that: 
 
 > “Notwithstanding section 107 of the Medical Device User Fee and Modernization Act of 2002 ([Public Law 107–250][/us/pl/107/250]) \[formerly set out as an Effective and Termination Dates note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§ 211–217) of title II of [Pub. L. 110–85][/us/pl/110/85], enacting [section 379j–1 of this title][/us/usc/t21/s379j–1] and amending this section and [section 379j of this title][/us/usc/t21/s379j]\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379i][/us/usc/t21/s379i] et seq.), as in effect on the day before the date of the enactment of this subtitle \[Sept. 27, 2007\], shall continue to be in effect with respect to premarket applications, premarket reports, premarket notification submissions, and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008.”
 
  __Findings__ 
 
-[Pub. L. 112–144, title II, § 201(b)][/us/pl/112/144/s201/b], July 9, 2012, [126 Stat. 1002][/us/stat/126/1002], provided that: 
+[Pub. L. 112–144, title II][/us/pl/112/144/tII], § 201(b), July 9, 2012, [126 Stat. 1002][/us/stat/126/1002], provided that: 
 
 > “The Congress finds that the fees authorized under the amendments made by this title \[enacting [section 379d–3 of this title][/us/usc/t21/s379d–3], amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section\] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
-[Pub. L. 110–85, title II, § 201(c)][/us/pl/110/85/s201/c], Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842], provided that: 
+[Pub. L. 110–85, title II][/us/pl/110/85/tII], § 201(c), Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842], provided that: 
 
 > “The Congress finds that the fees authorized under the amendments made by this title \[enacting [section 379j–1 of this title][/us/usc/t21/s379j–1] and amending this section and sections 333, 360, 360i, 360m, 374, and 379j of this title\] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
-[Pub. L. 107–250, title I, § 101][/us/pl/107/250/s101], Oct. 26, 2002, [116 Stat. 1589][/us/stat/116/1589], provided that: 
+[Pub. L. 107–250, title I][/us/pl/107/250/tI], § 101, Oct. 26, 2002, [116 Stat. 1589][/us/stat/116/1589], provided that: 
 
 > “The Congress finds that—
 
@@ -203,7 +203,7 @@
 
  __Annual Reports__ 
 
-[Pub. L. 107–250, title I, § 103][/us/pl/107/250/s103], Oct. 26, 2002, [116 Stat. 1600][/us/stat/116/1600], as amended by [Pub. L. 109–43, § 2(b)][/us/pl/109/43/s2/b], Aug. 1, 2005, [119 Stat. 441][/us/stat/119/441], provided that:
+[Pub. L. 107–250, title I][/us/pl/107/250/tI], § 103, Oct. 26, 2002, [116 Stat. 1600][/us/stat/116/1600], as amended by [Pub. L. 109–43][/us/pl/109/43], § 2(b), Aug. 1, 2005, [119 Stat. 441][/us/stat/119/441], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -223,11 +223,11 @@
 
  __Study__ 
 
-    [Pub. L. 107–250, title I, § 104(b)][/us/pl/107/250/s104/b], Oct. 26, 2002, [116 Stat. 1601][/us/stat/116/1601], directed the Secretary of Health and Human Services to conduct a study for the purpose of making certain determinations regarding the medical device user-fee program established under the amendment made by [section 102 of Pub. L. 107–250][/us/pl/107/250/s102] and to submit a report to Congress by Jan. 10, 2007.
+    [Pub. L. 107–250, title I][/us/pl/107/250/tI], § 104(b), Oct. 26, 2002, [116 Stat. 1601][/us/stat/116/1601], directed the Secretary of Health and Human Services to conduct a study for the purpose of making certain determinations regarding the medical device user-fee program established under the amendment made by [section 102 of Pub. L. 107–250][/us/pl/107/250/s102] and to submit a report to Congress by Jan. 10, 2007.
 
  __Consultation__ 
 
-[Pub. L. 107–250, title I, § 105][/us/pl/107/250/s105], Oct. 26, 2002, [116 Stat. 1601][/us/stat/116/1601], provided that:
+[Pub. L. 107–250, title I][/us/pl/107/250/tI], § 105, Oct. 26, 2002, [116 Stat. 1601][/us/stat/116/1601], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -266,99 +266,99 @@
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/act/1938-06-25/ch675/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs737
-[/us/pl/107/250/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs102%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1589
-[/us/pl/108/214/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fa%2F1
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/stat/118/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F572
-[/us/pl/110/85/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F843
-[/us/pl/112/144/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs202
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1002
 [/us/pl/112/144/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs207%2Fa
-[/us/pl/112/144/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs202%2F1
-[/us/pl/112/144/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs202%2F2
-[/us/pl/112/144/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs202%2F3
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
-[/us/pl/110/85/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211%2F1
-[/us/pl/110/85/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211%2F2
-[/us/pl/110/85/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211%2F2
-[/us/pl/110/85/s211/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211%2F5
-[/us/pl/110/85/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211%2F2
-[/us/pl/110/85/s211/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs211%2F6
-[/us/pl/108/214/s2/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F3%2FA
-[/us/pl/107/250/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs102%2Fa
-[/us/pl/108/214/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fa%2F1%2FA
-[/us/pl/108/214/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fa%2F1%2FB
-[/us/pl/108/214/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fa%2F1%2FC
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/108/214/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fa%2F1%2FD
-[/us/pl/112/144/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs206
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
 [/us/usc/t21/s379d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379d%E2%80%933
 [/us/usc/t21/s379j/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%2Fa%2F2%2FA
-[/us/pl/110/85/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs216
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F852
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t21/s379j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%931
 [/us/usc/t21/s379j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j
-[/us/pl/110/85/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs217
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F852
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t21/s379j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j
 [/us/usc/t21/s379j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%931
-[/us/pl/112/144/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs207%2Fb%2F1
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
-[/us/pl/112/144/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs207%2Fa
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
 [/us/usc/t21/s739i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs739i
 [/us/usc/t21/s739j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs739j%E2%80%931
-[/us/pl/107/250/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs106
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1602
-[/us/pl/107/250/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs107
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1602
 [/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/pl/107/250/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs103
-[/us/pl/112/144/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs207%2Fc%2F1
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
-[/us/pl/112/144/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs207%2Fc
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
 [/us/pl/107/250/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs107
-[/us/pl/112/144/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs205
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
 [/us/usc/t21/s379d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379d%E2%80%933
 [/us/usc/t21/s379i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i
 [/us/usc/t21/s379j/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%2Fa%2F2%2FA
-[/us/pl/110/85/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs214
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F852
 [/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t21/s379j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%931
 [/us/usc/t21/s379j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j
 [/us/usc/t21/s379i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i
-[/us/pl/112/144/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs201%2Fb
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1002
 [/us/usc/t21/s379d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379d%E2%80%933
-[/us/pl/110/85/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs201%2Fc
+[/us/pl/110/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtII
 [/us/stat/121/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F842
 [/us/usc/t21/s379j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%931
-[/us/pl/107/250/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs101
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1589
 [/us/usc/t21/s379j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j
-[/us/pl/107/250/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs103
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1600
-[/us/pl/109/43/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F43%2Fs2%2Fb
+[/us/pl/109/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F43
 [/us/stat/119/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F441
 [/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
 [/us/usc/t21/s379i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i
-[/us/pl/107/250/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs104%2Fb
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1601
 [/us/pl/107/250/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs102
-[/us/pl/107/250/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs105
+[/us/pl/107/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtI
 [/us/stat/116/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1601
 [/us/usc/t21/s379i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i
 

@@ -59,17 +59,17 @@
 
         To facilitate judicial review under this section or under any other provision of law of a regulation or order issued under section 360c, 360d, 360e, 360f, 360h, 360i, 360j, or 360k of this title each such regulation or order shall contain a statement of the reasons for its issuance and the basis, in the record of the proceedings held in connection with its issuance, for its issuance.
 
-([June 25, 1938, ch. 675, § 517][/us/act/1938-06-25/ch675/s517], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 560][/us/stat/90/560]; amended [Pub. L. 101–629, § 13][/us/pl/101/629/s13], Nov. 28, 1990, [104 Stat. 4524][/us/stat/104/4524]; [Pub. L. 102–300, § 6(f)][/us/pl/102/300/s6/f], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 105–115, title II, § 216(a)(2)][/us/pl/105/115/s216/a/2], Nov. 21, 1997, [111 Stat. 2349][/us/stat/111/2349]; [Pub. L. 112–144, title VI, § 608(a)(2)(C)][/us/pl/112/144/s608/a/2/C], July 9, 2012, [126 Stat. 1056][/us/stat/126/1056].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 517, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 560][/us/stat/90/560]; amended [Pub. L. 101–629][/us/pl/101/629], § 13, Nov. 28, 1990, [104 Stat. 4524][/us/stat/104/4524]; [Pub. L. 102–300][/us/pl/102/300], § 6(f), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 105–115, title II][/us/pl/105/115/tII], § 216(a)(2), Nov. 21, 1997, [111 Stat. 2349][/us/stat/111/2349]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 608(a)(2)(C), July 9, 2012, [126 Stat. 1056][/us/stat/126/1056].)
 
  __Amendments__ 
 
     2012—Subsec. (a)(1). [Pub. L. 112–144][/us/pl/112/144] substituted “, an administrative order changing the classification of a device to class I,” for “or changing the classification of a device to class I”.
 
-    1997—Subsec. (a)(8). [Pub. L. 105–115, § 216(a)(2)(A)][/us/pl/105/115/s216/a/2/A], inserted “or” at end.
+    1997—Subsec. (a)(8). [Pub. L. 105–115][/us/pl/105/115], § 216(a)(2)(A), inserted “or” at end.
 
-    Subsec. (a)(9). [Pub. L. 105–115, § 216(a)(2)(B)][/us/pl/105/115/s216/a/2/B], substituted comma for “, or” at end.
+    Subsec. (a)(9). [Pub. L. 105–115][/us/pl/105/115], § 216(a)(2)(B), substituted comma for “, or” at end.
 
-    Subsec. (a)(10). [Pub. L. 105–115, § 216(a)(2)(C)][/us/pl/105/115/s216/a/2/C], struck out par. (10) which read as follows: “an order under [section 360j(h)(4)(B) of this title][/us/usc/t21/s360j/h/4/B],”.
+    Subsec. (a)(10). [Pub. L. 105–115][/us/pl/105/115], § 216(a)(2)(C), struck out par. (10) which read as follows: “an order under [section 360j(h)(4)(B) of this title][/us/usc/t21/s360j/h/4/B],”.
 
     1992—Subsec. (a)(10). [Pub. L. 102–300][/us/pl/102/300] substituted “360j(h)(4)(B)” for “360j(c)(4)(B)”.
 
@@ -97,21 +97,21 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t21/s360e/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e%2Fg
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/act/1938-06-25/ch675/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs517
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F560
-[/us/pl/101/629/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs13
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4524
-[/us/pl/102/300/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Ff
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/105/115/s216/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs216%2Fa%2F2
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2349
-[/us/pl/112/144/s608/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fa%2F2%2FC
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1056
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/105/115/s216/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs216%2Fa%2F2%2FA
-[/us/pl/105/115/s216/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs216%2Fa%2F2%2FB
-[/us/pl/105/115/s216/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs216%2Fa%2F2%2FC
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s360j/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fh%2F4%2FB
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629

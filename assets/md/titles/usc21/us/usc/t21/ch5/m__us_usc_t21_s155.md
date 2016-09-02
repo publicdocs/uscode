@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to issue permits for the importation into the United States of viruses, serums, toxins, and analogous products, for use in the treatment of domestic animals, which are not worthless, contaminated, dangerous, or harmful.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 833][/us/stat/37/833].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 833][/us/stat/37/833].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F833
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

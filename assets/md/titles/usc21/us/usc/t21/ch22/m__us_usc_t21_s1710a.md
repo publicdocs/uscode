@@ -27,7 +27,7 @@
 
         (2) a communication by an individual in any form, including speech, print, or by any electronic means.
 
-([Pub. L. 105–277, div. C, title VII, § 712][/us/pl/105/277/s712], as added [Pub. L. 109–469, title XI, § 1118][/us/pl/109/469/s1118], Dec. 29, 2006, [120 Stat. 3546][/us/stat/120/3546].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 712, as added [Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1118, Dec. 29, 2006, [120 Stat. 3546][/us/stat/120/3546].)
 
  __Repeal of Section__ 
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Another [section 712 of title VII of div. C of Pub. L. 105–277][/us/pl/105/277/s712] amended former [section 1509 of this title][/us/usc/t21/s1509].
+    Another [section 712 of title VII of div. C of Pub. L. 105–277][/us/pl/105/277/dC/tVII/s712] amended former [section 1509 of this title][/us/usc/t21/s1509].
 
 ----------
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/105/277/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs712
-[/us/pl/109/469/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1118
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
+[/us/pl/109/469/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtXI
 [/us/stat/120/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3546
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
-[/us/pl/105/277/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs712
+[/us/pl/105/277/dC/tVII/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII%2Fs712
 [/us/usc/t21/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509
 
 

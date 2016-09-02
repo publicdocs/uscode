@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This part was classified to subpart 3 (§ 263c et seq.) of part F of subchapter II of chapter 6A of Title 42, The Public Health and Welfare, prior to its renumbering by [Pub. L. 101–629, § 19(a)(4)][/us/pl/101/629/s19/a/4], Nov. 28, 1990, [104 Stat. 4530][/us/stat/104/4530], as amended by [Pub. L. 103–80, § 4(a)(2)][/us/pl/103/80/s4/a/2], Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].
+    This part was classified to subpart 3 (§ 263c et seq.) of part F of subchapter II of chapter 6A of Title 42, The Public Health and Welfare, prior to its renumbering by [Pub. L. 101–629][/us/pl/101/629], § 19(a)(4), Nov. 28, 1990, [104 Stat. 4530][/us/stat/104/4530], as amended by [Pub. L. 103–80][/us/pl/103/80], § 4(a)(2), Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/101/629/s19/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F4
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4530
-[/us/pl/103/80/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fa%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F779
 
 

@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter IX of this chapter, consisting of sections 391 to 399a of this title, was redesignated subchapter X by [Pub. L. 111–31, div. A, title I, § 101(b)(1)][/us/pl/111/31/s101/b/1], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].
+    A prior subchapter IX of this chapter, consisting of sections 391 to 399a of this title, was redesignated subchapter X by [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(1), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/31/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F1
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 
 

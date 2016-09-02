@@ -47,7 +47,7 @@
 
             (B) set forth criteria for waivers of and exemptions from the requirements of this subsection.
 
-([June 25, 1938, ch. 675, § 745A][/us/act/1938-06-25/ch675/s745A], as added [Pub. L. 112–144, title XI, § 1136][/us/pl/112/144/s1136], July 9, 2012, [126 Stat. 1123][/us/stat/126/1123].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 745A, as added [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1136, July 9, 2012, [126 Stat. 1123][/us/stat/126/1123].)
 
 ----------
 
@@ -60,8 +60,8 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s745A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs745A
-[/us/pl/112/144/s1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1136
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1123
 
 

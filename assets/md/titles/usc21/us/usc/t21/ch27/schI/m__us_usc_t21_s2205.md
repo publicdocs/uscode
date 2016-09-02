@@ -223,11 +223,19 @@
 
             Notwithstanding paragraph (1), the Secretary may enforce an agreement by a local educational agency to implement food allergy and anaphylaxis management guidelines as a condition of the receipt of a grant under subsection (c).
 
-([Pub. L. 111–353, title I, § 112][/us/pl/111/353/s112], Jan. 4, 2011, [124 Stat. 3916][/us/stat/124/3916].)
+([Pub. L. 111–353, title I][/us/pl/111/353/tI], § 112, Jan. 4, 2011, [124 Stat. 3916][/us/stat/124/3916]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(jj), Dec. 10, 2015, [129 Stat. 2175][/us/stat/129/2175].)
 
  __References in Text__ 
 
     The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
 ----------
 
@@ -240,10 +248,17 @@
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
-[/us/pl/111/353/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs112
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3916
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2175
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

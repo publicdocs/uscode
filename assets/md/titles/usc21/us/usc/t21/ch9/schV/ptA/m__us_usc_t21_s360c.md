@@ -341,7 +341,7 @@
 
             (B) Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 
-([June 25, 1938, ch. 675, § 513][/us/act/1938-06-25/ch675/s513], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 540][/us/stat/90/540]; amended [Pub. L. 101–629][/us/pl/101/629], §§ 4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, [104 Stat. 4515][/us/stat/104/4515], 4517, 4518, 4523, 4528; [Pub. L. 102–300, § 6(e)][/us/pl/102/300/s6/e], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80, § 3(s)][/us/pl/103/80/s3/s], Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 105–115, title II][/us/pl/105/115], §§ 205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, [111 Stat. 2336][/us/stat/111/2336], 2337, 2339, 2340, 2350; [Pub. L. 107–250, title II, § 208][/us/pl/107/250/s208], Oct. 26, 2002, [116 Stat. 1613][/us/stat/116/1613]; [Pub. L. 112–144, title VI][/us/pl/112/144], §§ 602, 607–608(a)(2)(A), July 9, 2012, [126 Stat. 1051][/us/stat/126/1051], 1054–1056.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 513, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 540][/us/stat/90/540]; amended [Pub. L. 101–629][/us/pl/101/629], §§ 4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, [104 Stat. 4515][/us/stat/104/4515], 4517, 4518, 4523, 4528; [Pub. L. 102–300][/us/pl/102/300], § 6(e), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], § 3(s), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 105–115, title II][/us/pl/105/115/tII], §§ 205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, [111 Stat. 2336][/us/stat/111/2336], 2337, 2339, 2340, 2350; [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 208, Oct. 26, 2002, [116 Stat. 1613][/us/stat/116/1613]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], §§ 602, 607–608(a)(2)(A), July 9, 2012, [126 Stat. 1051][/us/stat/126/1051], 1054–1056.)
 
  __References in Text__ 
 
@@ -349,63 +349,63 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(3)(D)(iii) to (v). [Pub. L. 112–144, § 602(a)][/us/pl/112/144/s602/a], added cls. (iii) and (iv) and redesignated former cl. (iii) as (v).
+    2012—Subsec. (a)(3)(D)(iii) to (v). [Pub. L. 112–144][/us/pl/112/144], § 602(a), added cls. (iii) and (iv) and redesignated former cl. (iii) as (v).
 
-    Subsec. (e)(1). [Pub. L. 112–144, § 608(a)(1)][/us/pl/112/144/s608/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Based on new information respecting a device, the Secretary may, upon his own initiative or upon petition of an interested person, by regulation (A) change such device’s classification, and (B) revoke, because of the change in classification, any regulation or requirement in effect under section 360d or 360e of this title with respect to such device. In the promulgation of such a regulation respecting a device’s classification, the Secretary may secure from the panel to which the device was last referred pursuant to subsection (c) of this section a recommendation respecting the proposed change in the device’s classification and shall publish in the Federal Register any recommendation submitted to the Secretary by the panel respecting such change. A regulation under this subsection changing the classification of a device from class III to class II may provide that such classification shall not take effect until the effective date of a performance standard established under [section 360d of this title][/us/usc/t21/s360d] for such device.”
+    Subsec. (e)(1). [Pub. L. 112–144][/us/pl/112/144], § 608(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Based on new information respecting a device, the Secretary may, upon his own initiative or upon petition of an interested person, by regulation (A) change such device’s classification, and (B) revoke, because of the change in classification, any regulation or requirement in effect under section 360d or 360e of this title with respect to such device. In the promulgation of such a regulation respecting a device’s classification, the Secretary may secure from the panel to which the device was last referred pursuant to subsection (c) of this section a recommendation respecting the proposed change in the device’s classification and shall publish in the Federal Register any recommendation submitted to the Secretary by the panel respecting such change. A regulation under this subsection changing the classification of a device from class III to class II may provide that such classification shall not take effect until the effective date of a performance standard established under [section 360d of this title][/us/usc/t21/s360d] for such device.”
 
-    Subsec. (e)(2). [Pub. L. 112–144, § 608(a)(2)(A)][/us/pl/112/144/s608/a/2/A], substituted “an order issued” for “regulation promulgated” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 112–144][/us/pl/112/144], § 608(a)(2)(A), substituted “an order issued” for “regulation promulgated” in introductory provisions.
 
-    Subsec. (f)(1)(C). [Pub. L. 112–144, § 607(b)][/us/pl/112/144/s607/b], added subpar. (C).
+    Subsec. (f)(1)(C). [Pub. L. 112–144][/us/pl/112/144], § 607(b), added subpar. (C).
 
-    Subsec. (f)(2)(A). [Pub. L. 112–144, § 607(a)(1)][/us/pl/112/144/s607/a/1]–(3), designated existing provisions as cl. (i), struck out “under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) of this section. The person may, in the request, recommend to the Secretary a classification for the device. Any such request shall describe the device and provide detailed information and reasons for the recommended classification” before period at end, and added cls. (ii) to (v).
+    Subsec. (f)(2)(A). [Pub. L. 112–144][/us/pl/112/144], § 607(a)(1)–(3), designated existing provisions as cl. (i), struck out “under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) of this section. The person may, in the request, recommend to the Secretary a classification for the device. Any such request shall describe the device and provide detailed information and reasons for the recommended classification” before period at end, and added cls. (ii) to (v).
 
-    Subsec. (f)(2)(B)(i). [Pub. L. 112–144, § 607(a)(4)][/us/pl/112/144/s607/a/4], substituted “The Secretary” for “Not later than 60 days after the date of the submission of the request under subparagraph (A), the Secretary”.
+    Subsec. (f)(2)(B)(i). [Pub. L. 112–144][/us/pl/112/144], § 607(a)(4), substituted “The Secretary” for “Not later than 60 days after the date of the submission of the request under subparagraph (A), the Secretary”.
 
-    Subsec. (i)(1)(D). [Pub. L. 112–144, § 602(b)][/us/pl/112/144/s602/b], designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+    Subsec. (i)(1)(D). [Pub. L. 112–144][/us/pl/112/144], § 602(b), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
     2002—Subsec. (i)(1)(E)(iv). [Pub. L. 107–250][/us/pl/107/250] struck out cl. (iv) which read as follows: “This subparagraph has no legal effect after the expiration of the five-year period beginning on November 21, 1997.”
 
-    1997—Subsec. (a)(3)(A). [Pub. L. 105–115, § 217][/us/pl/105/115/s217], substituted “1 or more clinical investigations” for “clinical investigations”.
+    1997—Subsec. (a)(3)(A). [Pub. L. 105–115][/us/pl/105/115], § 217, substituted “1 or more clinical investigations” for “clinical investigations”.
 
-    Subsec. (a)(3)(C), (D). [Pub. L. 105–115, § 205(a)][/us/pl/105/115/s205/a], added subpars. (C) and (D).
+    Subsec. (a)(3)(C), (D). [Pub. L. 105–115][/us/pl/105/115], § 205(a), added subpars. (C) and (D).
 
-    Subsec. (b)(5) to (8). [Pub. L. 105–115, § 208][/us/pl/105/115/s208], added pars. (5) to (8).
+    Subsec. (b)(5) to (8). [Pub. L. 105–115][/us/pl/105/115], § 208, added pars. (5) to (8).
 
-    Subsec. (f)(1). [Pub. L. 105–115, § 207(1)(B)][/us/pl/105/115/s207/1/B], substituted “paragraph (2) or (3)” for “paragraph (2)” in closing provisions.
+    Subsec. (f)(1). [Pub. L. 105–115][/us/pl/105/115], § 207(1)(B), substituted “paragraph (2) or (3)” for “paragraph (2)” in closing provisions.
 
-    Subsec. (f)(1)(B). [Pub. L. 105–115, § 207(1)(A)][/us/pl/105/115/s207/1/A], substituted “paragraph (3)” for “paragraph (2)”.
+    Subsec. (f)(1)(B). [Pub. L. 105–115][/us/pl/105/115], § 207(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
 
-    Subsec. (f)(2) to (4). [Pub. L. 105–115, § 207(2)][/us/pl/105/115/s207/2], (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (f)(2) to (4). [Pub. L. 105–115][/us/pl/105/115], § 207(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (f)(5). [Pub. L. 105–115, § 206(b)][/us/pl/105/115/s206/b], added par. (5).
+    Subsec. (f)(5). [Pub. L. 105–115][/us/pl/105/115], § 206(b), added par. (5).
 
-    Subsec. (i)(1)(A)(ii). [Pub. L. 105–115, § 206(c)(1)][/us/pl/105/115/s206/c/1], substituted “appropriate clinical or scientific data” for “clinical data”, inserted “or a person accredited under [section 360m of this title][/us/usc/t21/s360m]” after “Secretary”, and substituted “effectiveness” for “efficacy”.
+    Subsec. (i)(1)(A)(ii). [Pub. L. 105–115][/us/pl/105/115], § 206(c)(1), substituted “appropriate clinical or scientific data” for “clinical data”, inserted “or a person accredited under [section 360m of this title][/us/usc/t21/s360m]” after “Secretary”, and substituted “effectiveness” for “efficacy”.
 
-    Subsec. (i)(1)(C) to (E). [Pub. L. 105–115, § 205(b)][/us/pl/105/115/s205/b], added subpars. (C) to (E).
+    Subsec. (i)(1)(C) to (E). [Pub. L. 105–115][/us/pl/105/115], § 205(b), added subpars. (C) to (E).
 
-    Subsec. (i)(1)(F). [Pub. L. 105–115, § 206(c)(2)][/us/pl/105/115/s206/c/2], added subpar. (F).
+    Subsec. (i)(1)(F). [Pub. L. 105–115][/us/pl/105/115], § 206(c)(2), added subpar. (F).
 
     1993—Subsec. (b)(3). [Pub. L. 103–80][/us/pl/103/80] substituted “5703” for “5703(b)”.
 
     1992—Subsec. (f)(3). [Pub. L. 102–300][/us/pl/102/300] redesignated clauses (i) to (iii) as subpars. (A) to (C), respectively, and substituted “the section 360(k) report” for “the 360(k) report” in closing provisions.
 
-    1990—Subsec. (a)(1)(A)(ii). [Pub. L. 101–629, § 5(a)(1)][/us/pl/101/629/s5/a/1], substituted “or to establish special controls” for “or to establish a performance standard”.
+    1990—Subsec. (a)(1)(A)(ii). [Pub. L. 101–629][/us/pl/101/629], § 5(a)(1), substituted “or to establish special controls” for “or to establish a performance standard”.
 
-    Subsec. (a)(1)(B). [Pub. L. 101–629, § 5(a)(2)][/us/pl/101/629/s5/a/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Class II, Performance Standards.—A device which cannot be classified as a class I device because the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title by themselves are insufficient to provide reasonable assurance of the safety and effectiveness of the device, for which there is sufficient information to establish a performance standard to provide such assurance, and for which it is therefore necessary to establish for the device a performance standard under [section 360d of this title][/us/usc/t21/s360d] to provide reasonable assurance of its safety and effectiveness.”
+    Subsec. (a)(1)(B). [Pub. L. 101–629][/us/pl/101/629], § 5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Class II, Performance Standards.—A device which cannot be classified as a class I device because the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title by themselves are insufficient to provide reasonable assurance of the safety and effectiveness of the device, for which there is sufficient information to establish a performance standard to provide such assurance, and for which it is therefore necessary to establish for the device a performance standard under [section 360d of this title][/us/usc/t21/s360d] to provide reasonable assurance of its safety and effectiveness.”
 
-    Subsec. (a)(1)(C)(i). [Pub. L. 101–629, § 5(a)(3)][/us/pl/101/629/s5/a/3], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “it (I) cannot be classified as a class I device because insufficient information exists to determine that the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title are sufficient to provide reasonable assurance of the safety and effectiveness of the device and (II) cannot be classified as a class II device because insufficient information exists for the establishment of a performance standard to provide reasonable assurance of its safety and effectiveness, and”.
+    Subsec. (a)(1)(C)(i). [Pub. L. 101–629][/us/pl/101/629], § 5(a)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “it (I) cannot be classified as a class I device because insufficient information exists to determine that the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title are sufficient to provide reasonable assurance of the safety and effectiveness of the device and (II) cannot be classified as a class II device because insufficient information exists for the establishment of a performance standard to provide reasonable assurance of its safety and effectiveness, and”.
 
-    Subsec. (e). [Pub. L. 101–629, § 5(b)][/us/pl/101/629/s5/b], designated existing provisions as par. (1), redesignated cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
+    Subsec. (e). [Pub. L. 101–629][/us/pl/101/629], § 5(b), designated existing provisions as par. (1), redesignated cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
 
-    Subsec. (f). [Pub. L. 101–629, § 5(c)(3)][/us/pl/101/629/s5/c/3], inserted “and reclassification” before “of” in heading.
+    Subsec. (f). [Pub. L. 101–629][/us/pl/101/629], § 5(c)(3), inserted “and reclassification” before “of” in heading.
 
-    Subsec. (f)(2)(A). [Pub. L. 101–629, § 5(c)(1)][/us/pl/101/629/s5/c/1], substituted “The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer” for “The manufacturer”.
+    Subsec. (f)(2)(A). [Pub. L. 101–629][/us/pl/101/629], § 5(c)(1), substituted “The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer” for “The manufacturer”.
 
-    Subsec. (f)(2)(B)(i). [Pub. L. 101–629, § 18(a)][/us/pl/101/629/s18/a], substituted “the Secretary may for good cause shown” for “the Secretary shall”.
+    Subsec. (f)(2)(B)(i). [Pub. L. 101–629][/us/pl/101/629], § 18(a), substituted “the Secretary may for good cause shown” for “the Secretary shall”.
 
-    Subsec. (f)(3). [Pub. L. 101–629, § 4(a)][/us/pl/101/629/s4/a], added par. (3).
+    Subsec. (f)(3). [Pub. L. 101–629][/us/pl/101/629], § 4(a), added par. (3).
 
-    Subsec. (i). [Pub. L. 101–629, § 12(a)][/us/pl/101/629/s12/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–629][/us/pl/101/629], § 12(a), added subsec. (i).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -413,19 +413,19 @@
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–295, § 1(a)][/us/pl/94/295/s1/a], May 28, 1976, [90 Stat. 539][/us/stat/90/539], provided that: 
+[Pub. L. 94–295][/us/pl/94/295], § 1(a), May 28, 1976, [90 Stat. 539][/us/stat/90/539], provided that: 
 
 > “This Act \[enacting sections 360c to 360k, 379, and 379a of this title and [section 3512 of Title 42][/us/usc/t42/s3512], The Public Health and Welfare, and amending sections 321, 331, 334, 351, 352, 358, 360, 374, 379e, and 381 of this title and [section 55 of Title 15][/us/usc/t15/s55], Commerce and Trade\] may be cited as the ‘Medical Device Amendments of 1976’.”
 
  __Regulations__ 
 
-[Pub. L. 101–629, § 12(b)][/us/pl/101/629/s12/b], Nov. 28, 1990, [104 Stat. 4524][/us/stat/104/4524], provided that: 
+[Pub. L. 101–629][/us/pl/101/629], § 12(b), Nov. 28, 1990, [104 Stat. 4524][/us/stat/104/4524], provided that: 
 
 > “Within 12 months of the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Health and Human Services shall issue regulations establishing the requirements of the summaries under section 513(i)(3) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360c(i)(3)][/us/usc/t21/s360c/i/3]\], as added by the amendment made by subsection (a).”
 
  __Devices Reclassified Prior to__  __July 9, 2012__ 
 
-[Pub. L. 112–144, title VI, § 608(a)(3)][/us/pl/112/144/s608/a/3], July 9, 2012, [126 Stat. 1056][/us/stat/126/1056], provided that:
+[Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 608(a)(3), July 9, 2012, [126 Stat. 1056][/us/stat/126/1056], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -437,7 +437,7 @@
 
  __Daily Wear Soft or Daily Wear Nonhydrophilic Plastic Contact Lenses__ 
 
-[Pub. L. 101–629, § 4(b)(3)][/us/pl/101/629/s4/b/3], Nov. 28, 1990, [104 Stat. 4517][/us/stat/104/4517], provided that:
+[Pub. L. 101–629][/us/pl/101/629], § 4(b)(3), Nov. 28, 1990, [104 Stat. 4517][/us/stat/104/4517], provided that:
 
 >     “(A) Notwithstanding section 520(l)(5) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360j][/us/usc/t21/s360j](l)(5)\], the Secretary of Health and Human Services shall not retain any daily wear soft or daily wear nonhydrophilic plastic contact lens in class III under such Act \[this chapter\] unless the Secretary finds that it meets the criteria set forth in section 513(a)(1)(C) of such Act \[[21 U.S.C. 360c(a)(1)(C)][/us/usc/t21/s360c/a/1/C]\]. The finding and the grounds for the finding shall be published in the Federal Register. For any such lens, the Secretary shall make the determination respecting reclassification required in section 520(l)(5)(B) of such Act within 24 months of the date of the enactment of this paragraph \[Nov. 28, 1990\].
 
@@ -489,71 +489,71 @@
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
-[/us/act/1938-06-25/ch675/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs513
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F540
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4515
-[/us/pl/102/300/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fe
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/103/80/s3/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fs
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
-[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2336
-[/us/pl/107/250/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs208
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1613
-[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1051
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/112/144/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs602%2Fa
-[/us/pl/112/144/s608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fa%2F1
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360d
-[/us/pl/112/144/s608/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fa%2F2%2FA
-[/us/pl/112/144/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs607%2Fb
-[/us/pl/112/144/s607/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs607%2Fa%2F1
-[/us/pl/112/144/s607/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs607%2Fa%2F4
-[/us/pl/112/144/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs602%2Fb
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
-[/us/pl/105/115/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs217
-[/us/pl/105/115/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs205%2Fa
-[/us/pl/105/115/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs208
-[/us/pl/105/115/s207/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs207%2F1%2FB
-[/us/pl/105/115/s207/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs207%2F1%2FA
-[/us/pl/105/115/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs207%2F2
-[/us/pl/105/115/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs206%2Fb
-[/us/pl/105/115/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs206%2Fc%2F1
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s360m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360m
-[/us/pl/105/115/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs205%2Fb
-[/us/pl/105/115/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs206%2Fc%2F2
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/101/629/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fa%2F1
-[/us/pl/101/629/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fa%2F2
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t21/s360d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360d
-[/us/pl/101/629/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fa%2F3
-[/us/pl/101/629/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fb
-[/us/pl/101/629/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fc%2F3
-[/us/pl/101/629/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs5%2Fc%2F1
-[/us/pl/101/629/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs18%2Fa
-[/us/pl/101/629/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs4%2Fa
-[/us/pl/101/629/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs12%2Fa
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/94/295/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs1%2Fa
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F539
 [/us/usc/t42/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3512
 [/us/usc/t15/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs55
-[/us/pl/101/629/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs12%2Fb
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4524
 [/us/usc/t21/s360c/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fi%2F3
-[/us/pl/112/144/s608/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fa%2F3
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1056
 [/us/usc/t21/s360c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fe
 [/us/usc/t21/s360c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fe
 [/us/usc/t21/s360g/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360g%2Fa%2F1
-[/us/pl/101/629/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs4%2Fb%2F3
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4517
 [/us/usc/t21/s360j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j
 [/us/usc/t21/s360c/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fa%2F1%2FC

@@ -113,7 +113,7 @@
 
         (2) such failure to meet applicable contractual requirements or specifications was an actual and proximate cause of the harm to the claimant.
 
-([Pub. L. 105–230, § 5][/us/pl/105/230/s5], Aug. 13, 1998, [112 Stat. 1524][/us/stat/112/1524].)
+([Pub. L. 105–230][/us/pl/105/230], § 5, Aug. 13, 1998, [112 Stat. 1524][/us/stat/112/1524].)
 
 ----------
 
@@ -131,7 +131,7 @@
 [/us/usc/t21/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1605
 [/us/usc/t21/s1605/c/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1605%2Fc%2F3%2FB%2Fii
 [/us/usc/t21/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1605
-[/us/pl/105/230/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs5
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1524
 
 

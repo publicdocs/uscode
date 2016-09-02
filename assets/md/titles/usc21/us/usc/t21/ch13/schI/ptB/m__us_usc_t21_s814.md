@@ -69,7 +69,7 @@
 
             (B) there is a significant change in the data that led to the issuance of the regulation.
 
-([Pub. L. 91–513, title II, § 204][/us/pl/91/513/s204], as added [Pub. L. 103–200, § 2(b)(1)][/us/pl/103/200/s2/b/1], Dec. 17, 1993, [107 Stat. 2334][/us/stat/107/2334]; amended [Pub. L. 104–237, title IV, § 401(c)][/us/pl/104/237/s401/c], Oct. 3, 1996, [110 Stat. 3108][/us/stat/110/3108]; [Pub. L. 109–177, title VII, § 712(a)(2)][/us/pl/109/177/s712/a/2], Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 204, as added [Pub. L. 103–200][/us/pl/103/200], § 2(b)(1), Dec. 17, 1993, [107 Stat. 2334][/us/stat/107/2334]; amended [Pub. L. 104–237, title IV][/us/pl/104/237/tIV], § 401(c), Oct. 3, 1996, [110 Stat. 3108][/us/stat/110/3108]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 712(a)(2), Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263].)
 
  __Amendments__ 
 
@@ -93,12 +93,12 @@
 ----------
 
 [/us/usc/t21/s802/39/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F39%2FA%2Fiv
-[/us/pl/91/513/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs204
-[/us/pl/103/200/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs2%2Fb%2F1
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2334
-[/us/pl/104/237/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs401%2Fc
+[/us/pl/104/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtIV
 [/us/stat/110/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3108
-[/us/pl/109/177/s712/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fa%2F2
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F263
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237

@@ -87,7 +87,7 @@
 
             (B) Not later than the date of the public notice issued pursuant to subparagraph (A), the President shall notify, in writing and in classified or unclassified form, the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate of actions taken under this paragraph and a description of the basis for such actions.
 
-([Pub. L. 106–120, title VIII, § 804][/us/pl/106/120/s804], Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 804, Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
 
  __References in Text__ 
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/106/120/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs804
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1626
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

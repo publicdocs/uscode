@@ -25,7 +25,7 @@
 
     (4) the term “qualified entity” means a State, local, or tribal government, school board, or public health, law enforcement, nonprofit, community anti-drug coalition, or other nongovernmental organization providing services related to methamphetamines.
 
-([Pub. L. 109–469, title X, § 1002][/us/pl/109/469/s1002], Dec. 29, 2006, [120 Stat. 3537][/us/stat/120/3537].)
+([Pub. L. 109–469, title X][/us/pl/109/469/tX], § 1002, Dec. 29, 2006, [120 Stat. 3537][/us/stat/120/3537].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t21/s2012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2012%2Fb%2F1
 [/us/usc/t21/s2012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2012%2Fa
-[/us/pl/109/469/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1002
+[/us/pl/109/469/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtX
 [/us/stat/120/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3537
 
 

@@ -17,7 +17,7 @@
 
     Meat and meat food products are an important source of the Nation’s total supply of food. They are consumed throughout the Nation and the major portion thereof moves in interstate or foreign commerce. It is essential in the public interest that the health and welfare of consumers be protected by assuring that meat and meat food products distributed to them are wholesome, not adulterated, and properly marked, labeled, and packaged. Unwholesome, adulterated, or misbranded meat or meat food products impair the effective regulation of meat and meat food products in interstate or foreign commerce, are injurious to the public welfare, destroy markets for wholesome, not adulterated, and properly labeled and packaged meat and meat food products, and result in sundry losses to livestock producers and processors of meat and meat food products, as well as injury to consumers. The unwholesome, adulterated, mislabeled, or deceptively packaged articles can be sold at lower prices and compete unfairly with the wholesome, not adulterated, and properly labeled and packaged articles, to the detriment of consumers and the public generally. It is hereby found that all articles and animals which are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce, and that regulation by the Secretary and cooperation by the States and other jurisdictions as contemplated by this chapter are appropriate to prevent and eliminate burdens upon such commerce, to effectively regulate such commerce, and to protect the health and welfare of consumers.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 2, as added [Pub. L. 90–201, § 2][/us/pl/90/201/s2], Dec. 15, 1967, [81 Stat. 587][/us/stat/81/587].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 2, as added [Pub. L. 90–201][/us/pl/90/201], § 2, Dec. 15, 1967, [81 Stat. 587][/us/stat/81/587].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs2
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F587
 
 

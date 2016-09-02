@@ -23,7 +23,7 @@
 
     (3) aggregated data on the findings of such inspections, including data related to violations of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\], and enforcement actions used to follow-up on such findings and violations.
 
-([Pub. L. 110–85, title X, § 1009][/us/pl/110/85/s1009], Sept. 27, 2007, [121 Stat. 970][/us/stat/121/970].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1009, Sept. 27, 2007, [121 Stat. 970][/us/stat/121/970].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/110/85/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1009
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F970
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

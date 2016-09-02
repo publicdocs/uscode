@@ -15,7 +15,7 @@
 
 ## § 99. Repealed. [July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I, § 101, [67 Stat. 208][/us/stat/67/208]
 
-    Section, [act Aug. 31, 1951, ch. 374][/us/act/1951-08-31/ch374], title I, § 101, [65 Stat. 229][/us/stat/65/229], related to reimbursement for excess expenses of meat inspection.
+    Section, [act Aug. 31, 1951, ch. 374, title I][/us/act/1951-08-31/ch374/tI], § 101, [65 Stat. 229][/us/stat/65/229], related to reimbursement for excess expenses of meat inspection.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1953-07-28/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch251
 [/us/stat/67/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F208
-[/us/act/1951-08-31/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-31%2Fch374
+[/us/act/1951-08-31/ch374/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-31%2Fch374%2FtI
 [/us/stat/65/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F229
 
 

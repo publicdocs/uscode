@@ -91,33 +91,33 @@
 
         (3) If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine in any case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
 
-([Pub. L. 91–513, title III, § 1018][/us/pl/91/513/s1018], as added [Pub. L. 100–690, title VI, § 6053(a)][/us/pl/100/690/s6053/a], Nov. 18, 1988, [102 Stat. 4314][/us/stat/102/4314]; amended [Pub. L. 103–200][/us/pl/103/200], §§ 4(a), 5(a), 9(b), Dec. 17, 1993, [107 Stat. 2338–2340][/us/stat/107/2338-2340]; [Pub. L. 103–322, title XXXIII, § 330024(c)][/us/pl/103/322/s330024/c], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 716(a), (b)(1)(B), 721, Mar. 9, 2006, [120 Stat. 265][/us/stat/120/265], 267.)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1018, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6053(a), Nov. 18, 1988, [102 Stat. 4314][/us/stat/102/4314]; amended [Pub. L. 103–200][/us/pl/103/200], §§ 4(a), 5(a), 9(b), Dec. 17, 1993, [107 Stat. 2338–2340][/us/stat/107/2338-2340]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330024(c), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], §§ 716(a), (b)(1)(B), 721, Mar. 9, 2006, [120 Stat. 265][/us/stat/120/265], 267.)
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1). [Pub. L. 109–177, § 716(a)(1)][/us/pl/109/177/s716/a/1], substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
+    2006—Subsec. (b)(1). [Pub. L. 109–177][/us/pl/109/177], § 716(a)(1), substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
 
-    Subsec. (c)(1). [Pub. L. 109–177, § 716(b)(1)(B)][/us/pl/109/177/s716/b/1/B], inserted “(without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred)” after “manufacture of a controlled substance”.
+    Subsec. (c)(1). [Pub. L. 109–177][/us/pl/109/177], § 716(b)(1)(B), inserted “(without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred)” after “manufacture of a controlled substance”.
 
-    Subsecs. (d) to (f). [Pub. L. 109–177, § 716(a)(2)][/us/pl/109/177/s716/a/2], (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (d) to (f). [Pub. L. 109–177][/us/pl/109/177], § 716(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-    Subsec. (g). [Pub. L. 109–177, § 716(a)(4)][/us/pl/109/177/s716/a/4], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–177][/us/pl/109/177], § 716(a)(4), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 109–177, § 721][/us/pl/109/177/s721], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–177][/us/pl/109/177], § 721, added subsec. (h).
 
-    1994—Subsecs. (b)(1), (2), (c)(1). [Pub. L. 103–322, § 330024(c)(2)][/us/pl/103/322/s330024/c/2], made technical amendment to directory language of [Pub. L. 103–200, § 9(b)][/us/pl/103/200/s9/b]. See 1993 Amendment notes below.
+    1994—Subsecs. (b)(1), (2), (c)(1). [Pub. L. 103–322][/us/pl/103/322], § 330024(c)(2), made technical amendment to directory language of [Pub. L. 103–200][/us/pl/103/200], § 9(b). See 1993 Amendment notes below.
 
-    Subsec. (e). [Pub. L. 103–322, § 330024(c)(1)][/us/pl/103/322/s330024/c/1], made technical amendment to directory language of [Pub. L. 103–200, § 5(a)][/us/pl/103/200/s5/a]. See 1993 Amendment note below.
+    Subsec. (e). [Pub. L. 103–322][/us/pl/103/322], § 330024(c)(1), made technical amendment to directory language of [Pub. L. 103–200][/us/pl/103/200], § 5(a). See 1993 Amendment note below.
 
-    1993—Subsec. (b)(1). [Pub. L. 103–200, § 9(b)(1)(A)][/us/pl/103/200/s9/b/1/A], as amended by [Pub. L. 103–322, § 330024(c)(2)][/us/pl/103/322/s330024/c/2], substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
+    1993—Subsec. (b)(1). [Pub. L. 103–200][/us/pl/103/200], § 9(b)(1)(A), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330024(c)(2), substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
 
-    Subsec. (b)(2). [Pub. L. 103–200, § 9(b)(1)(B)][/us/pl/103/200/s9/b/1/B], as amended by [Pub. L. 103–322, § 330024(c)(2)][/us/pl/103/322/s330024/c/2], substituted “a customer of a regulated person or to an importer” for “a customer or supplier of a regulated person” and “the importer as a regular importer” for “regular supplier”.
+    Subsec. (b)(2). [Pub. L. 103–200][/us/pl/103/200], § 9(b)(1)(B), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330024(c)(2), substituted “a customer of a regulated person or to an importer” for “a customer or supplier of a regulated person” and “the importer as a regular importer” for “regular supplier”.
 
-    Subsec. (c)(1). [Pub. L. 103–200, § 9(b)(2)][/us/pl/103/200/s9/b/2], as amended by [Pub. L. 103–322, § 330024(c)(2)][/us/pl/103/322/s330024/c/2], substituted “regular importer” for “regular supplier”.
+    Subsec. (c)(1). [Pub. L. 103–200][/us/pl/103/200], § 9(b)(2), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330024(c)(2), substituted “regular importer” for “regular supplier”.
 
-    Subsec. (d). [Pub. L. 103–200, § 4(a)][/us/pl/103/200/s4/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–200][/us/pl/103/200], § 4(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 103–200, § 5(a)][/us/pl/103/200/s5/a], as amended by [Pub. L. 103–322, § 330024(c)(1)][/us/pl/103/322/s330024/c/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–200][/us/pl/103/200], § 5(a), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330024(c)(1), added subsec. (e).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -129,7 +129,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–690, title VI, § 6053(b)][/us/pl/100/690/s6053/b], Nov. 18, 1988, [102 Stat. 4315][/us/stat/102/4315], provided that:
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6053(b), Nov. 18, 1988, [102 Stat. 4315][/us/stat/102/4315], provided that:
 
 >     “(1) Not later than 45 days after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall forward to the Director of the Office of Management and Budget proposed regulations required by the amendment made by subsection (a) \[enacting this section\].
 
@@ -153,7 +153,7 @@
 
  __Exception for Iodine to Importation and Exportation Requirements for Listed Chemicals__ 
 
-[Pub. L. 104–237, title II, § 204(b)][/us/pl/104/237/s204/b], Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102], provided that:
+[Pub. L. 104–237, title II][/us/pl/104/237/tII], § 204(b), Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102], provided that:
 
 >     “(1) Iodine shall not be subject to the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act ([21 U.S.C. 971][/us/usc/t21/s971]).
 
@@ -168,44 +168,44 @@
 ----------
 ----------
 
-[/us/pl/91/513/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1018
-[/us/pl/100/690/s6053/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6053%2Fa
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4314
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2338-2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2338-2340
-[/us/pl/103/322/s330024/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F265
-[/us/pl/109/177/s716/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs716%2Fa%2F1
-[/us/pl/109/177/s716/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs716%2Fb%2F1%2FB
-[/us/pl/109/177/s716/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs716%2Fa%2F2
-[/us/pl/109/177/s716/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs716%2Fa%2F4
-[/us/pl/109/177/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs721
-[/us/pl/103/322/s330024/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc%2F2
-[/us/pl/103/200/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs9%2Fb
-[/us/pl/103/322/s330024/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc%2F1
-[/us/pl/103/200/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs5%2Fa
-[/us/pl/103/200/s9/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs9%2Fb%2F1%2FA
-[/us/pl/103/322/s330024/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc%2F2
-[/us/pl/103/200/s9/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs9%2Fb%2F1%2FB
-[/us/pl/103/322/s330024/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc%2F2
-[/us/pl/103/200/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs9%2Fb%2F2
-[/us/pl/103/322/s330024/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc%2F2
-[/us/pl/103/200/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs4%2Fa
-[/us/pl/103/200/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs5%2Fa
-[/us/pl/103/322/s330024/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Fc%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322/s330024/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330024%2Ff
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/103/200/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs11
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/100/690/s6053/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6053%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4315
 [/us/pl/100/690/s6061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6061
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/104/237/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs204%2Fb
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3102
 [/us/usc/t21/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs971
 [/us/usc/t21/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs971

@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated to carry out this section $100,000,000 for fiscal year 1991, and such sums as may be necessary for each of the subsequent fiscal years, to remain available until expended.
 
-([June 25, 1938, ch. 675, § 710][/us/act/1938-06-25/ch675/s710], as added [Pub. L. 101–635, title I, § 101][/us/pl/101/635/s101], Nov. 28, 1990, [104 Stat. 4583][/us/stat/104/4583].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 710, as added [Pub. L. 101–635, title I][/us/pl/101/635/tI], § 101, Nov. 28, 1990, [104 Stat. 4583][/us/stat/104/4583].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs710
-[/us/pl/101/635/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F635%2Fs101
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/101/635/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F635%2FtI
 [/us/stat/104/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4583
 
 

@@ -17,7 +17,7 @@
 
     It is hereby declared to be the policy of the Congress to provide for the inspection of certain egg products, restrictions upon the disposition of certain qualities of eggs, and uniformity of standards for eggs, and otherwise regulate the processing and distribution of eggs and egg products as hereinafter prescribed to prevent the movement or sale for human food, of eggs and egg products which are adulterated or misbranded or otherwise in violation of this chapter.
 
-([Pub. L. 91–597, § 3][/us/pl/91/597/s3], Dec. 29, 1970, [84 Stat. 1621][/us/stat/84/1621].)
+([Pub. L. 91–597][/us/pl/91/597], § 3, Dec. 29, 1970, [84 Stat. 1621][/us/stat/84/1621].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs3
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1621
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

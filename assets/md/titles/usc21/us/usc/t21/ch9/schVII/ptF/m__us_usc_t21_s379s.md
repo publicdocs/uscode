@@ -41,7 +41,7 @@
 
         This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997.
 
-([June 25, 1938, ch. 675, § 752][/us/act/1938-06-25/ch675/s752], as added [Pub. L. 105–115, title IV, § 412(d)][/us/pl/105/115/s412/d], Nov. 21, 1997, [111 Stat. 2376][/us/stat/111/2376].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 752, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 412(d), Nov. 21, 1997, [111 Stat. 2376][/us/stat/111/2376].)
 
  __References in Text__ 
 
@@ -62,8 +62,8 @@
 
 [/us/usc/t15/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471
 [/us/usc/t15/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1451
-[/us/act/1938-06-25/ch675/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs752
-[/us/pl/105/115/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs412%2Fd
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2376
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670

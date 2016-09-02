@@ -17,7 +17,7 @@
 
     For the purpose of enforcing the provisions of this chapter and the regulations promulgated thereunder, all persons engaged in the business of transporting, shipping, or receiving any eggs or egg products in commerce or holding such articles so received, and all egg handlers, shall maintain such records showing, for such time and in such form and manner, as the Secretary of Agriculture or the Secretary of Health and Human Services may prescribe, to the extent that they are concerned therewith, the receipt, delivery, sale, movement, and disposition of all eggs and egg products handled by them, and shall, upon the request of a duly authorized representative of either of said Secretaries, permit him at reasonable times to have access to and to copy all such records.
 
-([Pub. L. 91–597, § 11][/us/pl/91/597/s11], Dec. 29, 1970, [84 Stat. 1627][/us/stat/84/1627]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–597][/us/pl/91/597], § 11, Dec. 29, 1970, [84 Stat. 1627][/us/stat/84/1627]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/597/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs11
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1627
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

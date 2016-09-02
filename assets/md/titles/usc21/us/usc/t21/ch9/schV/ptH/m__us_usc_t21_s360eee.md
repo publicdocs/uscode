@@ -307,13 +307,13 @@
 
         The term “wholesale distributor” means a person (other than a manufacturer, a manufacturer’s co-licensed partner, a third-party logistics provider, or repackager) engaged in wholesale distribution (as defined in [section 353(e)(4) of this title][/us/usc/t21/s353/e/4]).
 
-([June 25, 1938, ch. 675, § 581][/us/act/1938-06-25/ch675/s581], as added [Pub. L. 113–54, title II, § 202][/us/pl/113/54/s202], Nov. 27, 2013, [127 Stat. 599][/us/stat/127/599].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 581, as added [Pub. L. 113–54, title II][/us/pl/113/54/tII], § 202, Nov. 27, 2013, [127 Stat. 599][/us/stat/127/599].)
 
  __References in Text__ 
 
     The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1236][/us/stat/84/1236], which is classified principally to chapter 13 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
-    The Drug Supply Chain Security Act, referred to in par. (27)(A), (B), is [Pub. L. 113–54, title II][/us/pl/113/54], Nov. 27, 2013, [127 Stat. 599][/us/stat/127/599]. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title][/us/usc/t21/s301] and Tables.
+    The Drug Supply Chain Security Act, referred to in par. (27)(A), (B), is [Pub. L. 113–54, title II][/us/pl/113/54/tII], Nov. 27, 2013, [127 Stat. 599][/us/stat/127/599]. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title][/us/usc/t21/s301] and Tables.
 
 ----------
 
@@ -359,13 +359,13 @@
 [/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
 [/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
 [/us/usc/t21/s353/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe%2F4
-[/us/act/1938-06-25/ch675/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs581
-[/us/pl/113/54/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs202
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtII
 [/us/stat/127/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F599
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
+[/us/pl/113/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtII
 [/us/stat/127/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F599
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 

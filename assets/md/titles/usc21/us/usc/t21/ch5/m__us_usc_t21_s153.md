@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to cause the Bureau of Animal Industry to examine and inspect all viruses, serums, toxins, and analogous products, for use in the treatment of domestic animals, which are being imported or offered for importation into the United States, to determine whether such viruses, serums, toxins, and analogous products are worthless, contaminated, dangerous, or harmful, and if it shall appear that any such virus, serum, toxin, or analogous product, for use in the treatment of domestic animals, is worthless, contaminated, dangerous, or harmful, the same shall be denied entry and shall be destroyed or returned at the expense of the owner or importer.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 832][/us/stat/37/832].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 832][/us/stat/37/832].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

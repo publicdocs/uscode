@@ -39,21 +39,21 @@
 
         (2) The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.
 
-([Pub. L. 91–513, title III, § 1007][/us/pl/91/513/s1007], Oct. 27, 1970, [84 Stat. 1288][/us/stat/84/1288]; [Pub. L. 98–473, title II, § 523][/us/pl/98/473/s523], Oct. 12, 1984, [98 Stat. 2076][/us/stat/98/2076]; [Pub. L. 103–200, § 3(e)][/us/pl/103/200/s3/e], Dec. 17, 1993, [107 Stat. 2337][/us/stat/107/2337].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1007, Oct. 27, 1970, [84 Stat. 1288][/us/stat/84/1288]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 523, Oct. 12, 1984, [98 Stat. 2076][/us/stat/98/2076]; [Pub. L. 103–200][/us/pl/103/200], § 3(e), Dec. 17, 1993, [107 Stat. 2337][/us/stat/107/2337].)
 
  __References in Text__ 
 
-    [Section 802(25) of this title][/us/usc/t21/s802/25], referred to in subsec. (b)(1)(C), was redesignated [section 802(26) of this title][/us/usc/t21/s802/26] by [Pub. L. 98–473, title II, § 507(a)][/us/pl/98/473/s507/a], Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], and was further redesignated [section 802(27) of this title][/us/usc/t21/s802/27] by [Pub. L. 99–570, title I, § 1003(b)(2)][/us/pl/99/570/s1003/b/2], Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6].
+    [Section 802(25) of this title][/us/usc/t21/s802/25], referred to in subsec. (b)(1)(C), was redesignated [section 802(26) of this title][/us/usc/t21/s802/26] by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 507(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], and was further redesignated [section 802(27) of this title][/us/usc/t21/s802/27] by [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1003(b)(2), Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6].
 
  __Amendments__ 
 
-    1993—Subsec. (a)(1). [Pub. L. 103–200, § 3(e)(1)(A)][/us/pl/103/200/s3/e/1/A], inserted “or list I chemical” after “controlled substance”.
+    1993—Subsec. (a)(1). [Pub. L. 103–200][/us/pl/103/200], § 3(e)(1)(A), inserted “or list I chemical” after “controlled substance”.
 
-    Subsec. (a)(2). [Pub. L. 103–200, § 3(e)(1)(B)][/us/pl/103/200/s3/e/1/B], substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”.
+    Subsec. (a)(2). [Pub. L. 103–200][/us/pl/103/200], § 3(e)(1)(B), substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”.
 
-    Subsec. (b)(1). [Pub. L. 103–200, § 3(e)(2)(A)][/us/pl/103/200/s3/e/2/A], inserted “or list I chemical” after “controlled substance” in introductory provisions and subpar. (B).
+    Subsec. (b)(1). [Pub. L. 103–200][/us/pl/103/200], § 3(e)(2)(A), inserted “or list I chemical” after “controlled substance” in introductory provisions and subpar. (B).
 
-    Subsec. (b)(2). [Pub. L. 103–200, § 3(e)(2)(B)][/us/pl/103/200/s3/e/2/B], inserted “or list I chemicals” after “controlled substances”.
+    Subsec. (b)(2). [Pub. L. 103–200][/us/pl/103/200], § 3(e)(2)(B), inserted “or list I chemicals” after “controlled substances”.
 
     1984—Subsec. (a)(2). [Pub. L. 98–473][/us/pl/98/473] inserted reference to schedule V.
 
@@ -63,7 +63,7 @@
 
  __Provisional Registration__ 
 
-[Pub. L. 91–513, title III, § 1104][/us/pl/91/513/s1104], Oct. 27, 1970, [84 Stat. 1294][/us/stat/84/1294], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1104, Oct. 27, 1970, [84 Stat. 1294][/us/stat/84/1294], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)
 
@@ -103,30 +103,30 @@
 [/us/usc/t21/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958
 [/us/usc/t21/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958
 [/us/usc/t21/s956/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956%2Fa
-[/us/pl/91/513/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1007
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1288
-[/us/pl/98/473/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs523
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2076
-[/us/pl/103/200/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fe
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2337
 [/us/usc/t21/s802/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F25
 [/us/usc/t21/s802/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F26
-[/us/pl/98/473/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs507%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2071
 [/us/usc/t21/s802/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F27
-[/us/pl/99/570/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1003%2Fb%2F2
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-6
-[/us/pl/103/200/s3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fe%2F1%2FA
-[/us/pl/103/200/s3/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fe%2F1%2FB
-[/us/pl/103/200/s3/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fe%2F2%2FA
-[/us/pl/103/200/s3/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fe%2F2%2FB
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/103/200/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs11
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/91/513/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1104
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1294
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
 [/us/usc/t26/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4722

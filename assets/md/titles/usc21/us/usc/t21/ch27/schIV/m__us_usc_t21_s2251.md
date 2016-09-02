@@ -51,7 +51,7 @@
 
     (5) alter, impede, or affect the authority of the Secretary of Homeland Security under the Homeland Security Act of 2002 ([6 U.S.C. 101][/us/usc/t6/s101] et seq.) or any other statute, including any authority related to securing the borders of the United States, managing ports of entry, or agricultural import and entry inspection activities.
 
-([Pub. L. 111–353, title IV, § 403][/us/pl/111/353/s403], Jan. 4, 2011, [124 Stat. 3972][/us/stat/124/3972].)
+([Pub. L. 111–353, title IV][/us/pl/111/353/tIV], § 403, Jan. 4, 2011, [124 Stat. 3972][/us/stat/124/3972].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
     The Public Health Service Act, referred to in par. (3)(B), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
-    The Federal Meat Inspection Act, referred to in par. (4)(A), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI, § 11015(a)][/us/pl/110/246/s11015/a], June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title][/us/usc/t21/s601] and Tables.
+    The Federal Meat Inspection Act, referred to in par. (4)(A), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI][/us/pl/110/246/tXI], § 11015(a), June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title][/us/usc/t21/s601] and Tables.
 
     The Poultry Products Inspection Act, referred to in par. (4)(B), is [Pub. L. 85–172][/us/pl/85/172], Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441], which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of this title][/us/usc/t21/s451] and Tables.
 
@@ -98,7 +98,7 @@
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/111/353/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs403
+[/us/pl/111/353/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIV
 [/us/stat/124/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3972
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885
@@ -118,7 +118,7 @@
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/110/246/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11015%2Fa
+[/us/pl/110/246/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXI
 [/us/stat/122/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2124
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172

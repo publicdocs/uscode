@@ -21,7 +21,7 @@
 
     (2) the adverse event reporting system for dietary supplements created under the Dietary Supplement and Nonprescription Drug Consumer Protection Act ([Public Law 109–462][/us/pl/109/462]).
 
-([Pub. L. 110–85, title X, § 1011][/us/pl/110/85/s1011], Sept. 27, 2007, [121 Stat. 971][/us/stat/121/971].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1011, Sept. 27, 2007, [121 Stat. 971][/us/stat/121/971].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Construction__ 
 
-[Pub. L. 110–85, title X, § 1005(g)][/us/pl/110/85/s1005/g], Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969], provided that: 
+[Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1005(g), Sept. 27, 2007, [121 Stat. 969][/us/stat/121/969], provided that: 
 
 > “Nothing in this title \[enacting this chapter and [section 350f of this title][/us/usc/t21/s350f], amending sections 321 and 331 of this title, and enacting provisions set out as notes under [section 350f of this title][/us/usc/t21/s350f]\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”
 
@@ -46,7 +46,7 @@
 
 [/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
-[/us/pl/110/85/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1011
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F971
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/stat/121/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F962
@@ -60,7 +60,7 @@
 [/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3469
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/110/85/s1005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1005%2Fg
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F969
 [/us/usc/t21/s350f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350f
 [/us/usc/t21/s350f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350f

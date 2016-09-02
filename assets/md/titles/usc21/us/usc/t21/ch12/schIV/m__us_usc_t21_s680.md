@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 411, formerly § 410, as added [Pub. L. 90–201, § 16][/us/pl/90/201/s16], Dec. 15, 1967, [81 Stat. 600][/us/stat/81/600]; renumbered § 411, [Pub. L. 104–127, title IX, § 918(a)(1)(A)][/us/pl/104/127/s918/a/1/A], Apr. 4, 1996, [110 Stat. 1188][/us/stat/110/1188].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 411, formerly § 410, as added [Pub. L. 90–201][/us/pl/90/201], § 16, Dec. 15, 1967, [81 Stat. 600][/us/stat/81/600]; renumbered § 411, [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 918(a)(1)(A), Apr. 4, 1996, [110 Stat. 1188][/us/stat/110/1188].)
 
 ----------
 
@@ -27,9 +27,9 @@
 ----------
 
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs16
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F600
-[/us/pl/104/127/s918/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs918%2Fa%2F1%2FA
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1188
 
 

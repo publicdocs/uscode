@@ -43,13 +43,13 @@
 
         The authority to appoint employees under this section shall terminate on the date that is 3 years after July 9, 2012.
 
-([June 25, 1938, ch. 675, § 714][/us/act/1938-06-25/ch675/s714], as added and amended [Pub. L. 112–144, title II, § 208][/us/pl/112/144/s208], title III, § 307, July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], 1025.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 714, as added and amended [Pub. L. 112–144, title II][/us/pl/112/144/tII], § 208, title III, § 307, July 9, 2012, [126 Stat. 1007][/us/stat/126/1007], 1025.)
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–144, § 307(1)][/us/pl/112/144/s307/1], amended subsec. (b) generally. Prior to amendment, text read as follows: “The activities described in this subsection are activities under this chapter related to the process for the review of device applications (as defined in [section 379i(8) of this title][/us/usc/t21/s379i/8]).”
+    2012—Subsec. (b). [Pub. L. 112–144][/us/pl/112/144], § 307(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The activities described in this subsection are activities under this chapter related to the process for the review of device applications (as defined in [section 379i(8) of this title][/us/usc/t21/s379i/8]).”
 
-    Subsec. (c). [Pub. L. 112–144, § 307(2)][/us/pl/112/144/s307/2], amended subsec. (c) generally. Prior to amendment, text read as follows: “The objectives specified in this subsection are with respect to the activities under subsection (b), the goals referred to in [section 379j–1(a)(1) of this title][/us/usc/t21/s379j–1/a/1].”
+    Subsec. (c). [Pub. L. 112–144][/us/pl/112/144], § 307(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The objectives specified in this subsection are with respect to the activities under subsection (b), the goals referred to in [section 379j–1(a)(1) of this title][/us/usc/t21/s379j–1/a/1].”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -70,12 +70,12 @@
 [/us/usc/t21/s379j–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9341
 [/us/usc/t21/s379j–1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%931%2Fa%2F1
 [/us/usc/t21/s379j–43/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9343%2Fa
-[/us/act/1938-06-25/ch675/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs714
-[/us/pl/112/144/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs208
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1007
-[/us/pl/112/144/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs307%2F1
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s379i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i%2F8
-[/us/pl/112/144/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs307%2F2
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s379j–1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%931%2Fa%2F1
 [/us/pl/112/144/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs307
 [/us/pl/112/144/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs305

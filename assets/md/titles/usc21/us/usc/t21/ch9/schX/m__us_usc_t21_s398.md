@@ -23,7 +23,7 @@
 
         Subsection (a) of this section may not be construed as limiting the authority of the Secretary with respect to food under any other provision of this chapter.
 
-([June 25, 1938, ch. 675, § 1008][/us/act/1938-06-25/ch675/s1008], formerly § 908, as added [Pub. L. 107–188, title III, § 310][/us/pl/107/188/s310], June 12, 2002, [116 Stat. 673][/us/stat/116/673]; renumbered § 1008, [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1008, formerly § 908, as added [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 310, June 12, 2002, [116 Stat. 673][/us/stat/116/673]; renumbered § 1008, [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1008
-[/us/pl/107/188/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs310
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F673
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 
 

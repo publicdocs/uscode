@@ -19,7 +19,7 @@
 
     (b) In this section, the term “radiation disclosure statement” means a written statement that discloses that a food has been intentionally subject to radiation.
 
-([June 25, 1938, ch. 675, § 403C][/us/act/1938-06-25/ch675/s403C], as added [Pub. L. 105–115, title III, § 306][/us/pl/105/115/s306], Nov. 21, 1997, [111 Stat. 2353][/us/stat/111/2353].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 403C, as added [Pub. L. 105–115, title III][/us/pl/105/115/tIII], § 306, Nov. 21, 1997, [111 Stat. 2353][/us/stat/111/2353].)
 
  __Effective Date__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t21/s343/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343%2Fi%2F2
-[/us/act/1938-06-25/ch675/s403C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs403C
-[/us/pl/105/115/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs306
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIII
 [/us/stat/111/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2353
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321

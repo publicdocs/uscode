@@ -23,7 +23,7 @@
 
         A shipper, carrier by motor vehicle or rail vehicle, receiver, or other person subject to [section 350e of this title][/us/usc/t21/s350e] shall, on request of an officer or employee designated by the Secretary, permit the officer or employee, at reasonable times, to have access to and to copy all records that the Secretary requires to be kept under [section 350e(c)(1)(E) of this title][/us/usc/t21/s350e/c/1/E].
 
-([June 25, 1938, ch. 675, § 703][/us/act/1938-06-25/ch675/s703], [52 Stat. 1057][/us/stat/52/1057]; [Pub. L. 91–452, title II, § 230][/us/pl/91/452/s230], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 103–80, § 3(z)][/us/pl/103/80/s3/z], Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 109–59, title VII, § 7202(c)][/us/pl/109/59/s7202/c], Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913]; [Pub. L. 111–31, div. A, title I, § 103(h)][/us/pl/111/31/s103/h], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 703, [52 Stat. 1057][/us/stat/52/1057]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 230, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 103–80][/us/pl/103/80], § 3(z), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7202(c), Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(h), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837].)
 
  __Amendments__ 
 
@@ -56,15 +56,15 @@
 
 [/us/usc/t21/s350e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350e
 [/us/usc/t21/s350e/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350e%2Fc%2F1%2FE
-[/us/act/1938-06-25/ch675/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs703
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1057
-[/us/pl/91/452/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs230
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/103/80/s3/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fz
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
-[/us/pl/109/59/s7202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7202%2Fc
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1913
-[/us/pl/111/31/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fh
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

@@ -59,7 +59,7 @@
 
             (B) random sampling and testing of internal organs and fat of carcasses for residues at the point of slaughter by the exporting country, in accordance with methods approved by the Secretary.
 
-([Pub. L. 85–172, § 17][/us/pl/85/172/s17], Aug. 28, 1957, [71 Stat. 448][/us/stat/71/448]; [Pub. L. 99–198, title XVII, § 1701(a)][/us/pl/99/198/s1701/a], Dec. 23, 1985, [99 Stat. 1633][/us/stat/99/1633]; [Pub. L. 103–182, title III, § 361(e)][/us/pl/103/182/s361/e], Dec. 8, 1993, [107 Stat. 2123][/us/stat/107/2123]; [Pub. L. 103–465, title IV, § 431(k)][/us/pl/103/465/s431/k], Dec. 8, 1994, [108 Stat. 4969][/us/stat/108/4969].)
+([Pub. L. 85–172][/us/pl/85/172], § 17, Aug. 28, 1957, [71 Stat. 448][/us/stat/71/448]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1701(a), Dec. 23, 1985, [99 Stat. 1633][/us/stat/99/1633]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 361(e), Dec. 8, 1993, [107 Stat. 2123][/us/stat/107/2123]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 431(k), Dec. 8, 1994, [108 Stat. 4969][/us/stat/108/4969].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    1994—Subsec. (d)(1). [Pub. L. 103–465, § 431(k)(1)][/us/pl/103/465/s431/k/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
+    1994—Subsec. (d)(1). [Pub. L. 103–465][/us/pl/103/465], § 431(k)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
 
     “(A) be subject to the same inspection, sanitary, quality, species verification, and residue standards applied to products produced in the United States; and
 
     “(B) have been processed in facilities and under conditions that are the same as those under which similar products are processed in the United States.”
 
-    Subsec. (d)(2)(A). [Pub. L. 103–465, § 431(k)(2)(A)][/us/pl/103/465/s431/k/2/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Notwithstanding any other provision of law, all poultry, or parts or products of poultry, capable of use as human food offered for importation into the United States from Canada and Mexico shall—
+    Subsec. (d)(2)(A). [Pub. L. 103–465][/us/pl/103/465], § 431(k)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Notwithstanding any other provision of law, all poultry, or parts or products of poultry, capable of use as human food offered for importation into the United States from Canada and Mexico shall—
 
     “(i) comply with paragraph (1); or
 
@@ -81,7 +81,7 @@
 
     “(II) have been processed in facilities and under conditions that meet standards that are equivalent to United States standards.”
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 103–465, § 431(k)(2)(B)][/us/pl/103/465/s431/k/2/B], (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary may treat as equivalent to a United States standard a standard of Canada or Mexico described in subparagraph (A)(ii) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
+    Subsec. (d)(2)(B), (C). [Pub. L. 103–465][/us/pl/103/465], § 431(k)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary may treat as equivalent to a United States standard a standard of Canada or Mexico described in subparagraph (A)(ii) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
 
     1993—Subsec. (d). [Pub. L. 103–182][/us/pl/103/182], in par. (1), inserted “except as provided in paragraph (2),” before “all poultry” in introductory provisions, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVII, § 1701(b)][/us/pl/99/198/s1701/b], Dec. 23, 1985, [99 Stat. 1633][/us/stat/99/1633], provided that: 
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1701(b), Dec. 23, 1985, [99 Stat. 1633][/us/stat/99/1633], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall become effective 6 months after the date of enactment of this Act \[Dec. 23, 1985\].”
 
@@ -105,26 +105,26 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/85/172/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs17
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F448
-[/us/pl/99/198/s1701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1701%2Fa
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1633
-[/us/pl/103/182/s361/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361%2Fe
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2123
-[/us/pl/103/465/s431/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431%2Fk
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4969
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/103/465/s431/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431%2Fk%2F1
-[/us/pl/103/465/s431/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431%2Fk%2F2%2FA
-[/us/pl/103/465/s431/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431%2Fk%2F2%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451
 [/us/usc/t19/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3601
-[/us/pl/99/198/s1701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1701%2Fb
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1633
 
 

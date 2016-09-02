@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch18/m__us_usc_t21_ch18.md) | [Next](./../../../..//us/usc/t21/ch19/m__us_usc_t21_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch19)
+[Previous](./../../../..//us/usc/t21/ch18/m__us_usc_t21_s1301...1308.md) | [Next](./../../../..//us/usc/t21/ch19/m__us_usc_t21_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch19)
 
 ## CHAPTER 19—PESTICIDE MONITORING IMPROVEMENTS
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch18/m__us_usc_t21_ch18.md) | [Next](./../../../..//us/usc/t21/ch19/m__us_usc_t21_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch19)
+[Previous](./../../../..//us/usc/t21/ch18/m__us_usc_t21_s1301...1308.md) | [Next](./../../../..//us/usc/t21/ch19/m__us_usc_t21_s1401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch19)
 
 ----------
 ----------

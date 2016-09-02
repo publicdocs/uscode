@@ -43,11 +43,11 @@
 
                 (ii) providing that for purposes of this paragraph the effective date for such regulation is the same as the effective date for the regulation for purposes of the Safe Drinking Water Act \[[42 U.S.C. 300f][/us/usc/t42/s300f] et seq.\] (or, if the exception under paragraph (1) applies to the regulation, that the effective date for the regulation is not later than 2 years and 180 days after August 6, 1996).
 
-([June 25, 1938, ch. 675, § 410][/us/act/1938-06-25/ch675/s410], as added [Pub. L. 93–523, § 4][/us/pl/93/523/s4], Dec. 16, 1974, [88 Stat. 1694][/us/stat/88/1694]; amended [Pub. L. 104–182, title III, § 305][/us/pl/104/182/s305], Aug. 6, 1996, [110 Stat. 1684][/us/stat/110/1684].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 410, as added [Pub. L. 93–523][/us/pl/93/523], § 4, Dec. 16, 1974, [88 Stat. 1694][/us/stat/88/1694]; amended [Pub. L. 104–182, title III][/us/pl/104/182/tIII], § 305, Aug. 6, 1996, [110 Stat. 1684][/us/stat/110/1684].)
 
  __References in Text__ 
 
-    The Safe Drinking Water Act, referred to in subsec. (b)(4)(B)(ii), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (b)(4)(B)(ii), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Bottled Water Study__ 
 
-[Pub. L. 104–182, title I, § 114(b)][/us/pl/104/182/s114/b], Aug. 6, 1996, [110 Stat. 1641][/us/stat/110/1641], provided that: 
+[Pub. L. 104–182, title I][/us/pl/104/182/tI], § 114(b), Aug. 6, 1996, [110 Stat. 1641][/us/stat/110/1641], provided that: 
 
 > “Not later than 18 months after the date of enactment of this Act \[Aug. 6, 1996\], the Administrator of the Food and Drug Administration, in consultation with the Administrator of the Environmental Protection Agency, shall publish for public notice and comment a draft study on the feasibility of appropriate methods, if any, of informing customers of the contents of bottled water. The Administrator of the Food and Drug Administration shall publish a final study not later than 30 months after the date of enactment of this Act.”
 
@@ -72,16 +72,16 @@
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
-[/us/act/1938-06-25/ch675/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs410
-[/us/pl/93/523/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs4
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1694
-[/us/pl/104/182/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs305
+[/us/pl/104/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIII
 [/us/stat/110/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1684
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
-[/us/pl/104/182/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs114%2Fb
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1641
 
 

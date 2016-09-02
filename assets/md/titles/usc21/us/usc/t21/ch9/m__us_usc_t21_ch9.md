@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch8/m__us_usc_t21_ch8.md) | [Next](./../../../..//us/usc/t21/ch9/schI/m__us_usc_t21_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9)
+[Previous](./../../../..//us/usc/t21/ch8/m__us_usc_t21_s221...237.md) | [Next](./../../../..//us/usc/t21/ch9/schI/m__us_usc_t21_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9)
 
 ## CHAPTER 9—FEDERAL FOOD, DRUG, AND COSMETIC ACT
 
@@ -433,7 +433,7 @@ SUBCHAPTER IV—FOOD  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs350" data-uslm-ref="/us/usc/t21/s350">350</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs350l" data-uslm-ref="/us/usc/t21/s350l">350l</a>.  </td>
 
     <td> Mandatory recall authority.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER IV—FOOD  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs350" data-uslm-ref="/us/usc/t21/s350">350</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs350l" data-uslm-ref="/us/usc/t21/s350l">350l</a>–1.  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -833,7 +833,7 @@ Part A—Drugs and Devices  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360" data-uslm-ref="/us/usc/t21/s360">360</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360l" data-uslm-ref="/us/usc/t21/s360l">360l.</a>  </td>
 
     <td> Postmarket surveillance.  </td>
 
@@ -961,7 +961,7 @@ Part C—Electronic Product Radiation Control  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360" data-uslm-ref="/us/usc/t21/s360">360</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360ll" data-uslm-ref="/us/usc/t21/s360ll">360ll.</a>  </td>
 
     <td> Notification of defects in and repair or replacement of electronic products.  </td>
 
@@ -985,7 +985,7 @@ Part C—Electronic Product Radiation Control  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360" data-uslm-ref="/us/usc/t21/s360">360</a>oo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360oo" data-uslm-ref="/us/usc/t21/s360oo">360oo.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -1857,7 +1857,7 @@ Part D—Information and Education  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379" data-uslm-ref="/us/usc/t21/s379">379</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379l" data-uslm-ref="/us/usc/t21/s379l">379l</a>.  </td>
 
     <td> Education.  </td>
 
@@ -1873,7 +1873,7 @@ Part E—Environmental Impact Review  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379" data-uslm-ref="/us/usc/t21/s379">379</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379o" data-uslm-ref="/us/usc/t21/s379o">379o</a>.  </td>
 
     <td> Environmental impact.  </td>
 
@@ -2177,7 +2177,7 @@ SUBCHAPTER IX—TOBACCO PRODUCTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs387" data-uslm-ref="/us/usc/t21/s387">387</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs387l" data-uslm-ref="/us/usc/t21/s387l">387l</a>.  </td>
 
     <td> Judicial review.  </td>
 
@@ -2201,7 +2201,7 @@ SUBCHAPTER IX—TOBACCO PRODUCTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs387" data-uslm-ref="/us/usc/t21/s387">387</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs387o" data-uslm-ref="/us/usc/t21/s387o">387o</a>.  </td>
 
     <td> Regulation requirement.  </td>
 
@@ -2395,7 +2395,7 @@ SUBCHAPTER X—MISCELLANEOUS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch8/m__us_usc_t21_ch8.md) | [Next](./../../../..//us/usc/t21/ch9/schI/m__us_usc_t21_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9)
+[Previous](./../../../..//us/usc/t21/ch8/m__us_usc_t21_s221...237.md) | [Next](./../../../..//us/usc/t21/ch9/schI/m__us_usc_t21_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     Every license to practice pharmacy shall be conspicuously displayed by the person to whom the same has been issued in the pharmacy, drug store, or place of business, if any, of which the said person is the owner or part owner or manager.
 
-([Mar. 3, 1915, ch. 74, § 5][/us/act/1915-03-03/ch74/s5], [38 Stat. 819][/us/stat/38/819].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 5, [38 Stat. 819][/us/stat/38/819].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch74/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs5
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F819
 
 

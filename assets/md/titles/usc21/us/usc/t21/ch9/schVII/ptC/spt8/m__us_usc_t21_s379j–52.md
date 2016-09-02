@@ -323,7 +323,7 @@
 
         This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of biosimilar biological product applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-([June 25, 1938, ch. 675, § 744H][/us/act/1938-06-25/ch675/s744H], as added [Pub. L. 112–144, title IV, § 402][/us/pl/112/144/s402], July 9, 2012, [126 Stat. 1029][/us/stat/126/1029].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744H, as added [Pub. L. 112–144, title IV][/us/pl/112/144/tIV], § 402, July 9, 2012, [126 Stat. 1029][/us/stat/126/1029].)
 
  __Termination of Section__ 
 
@@ -333,7 +333,7 @@
 
     July 9, 2012, referred to in subsec. (a)(1)(A)(v), was in the original “the date of the enactment of the Biosimilars User Fee Act of 2012”, which was translated as meaning the date of enactment of the Biosimilar User Fee Act of 2012, title IV of [Pub. L. 112–144][/us/pl/112/144], to reflect the probable intent of Congress.
 
-    Section 404 of the Biosimilar User Fee Act of 2012, referred to in subsec. (a)(2)(B), is [section 404 of title IV of Pub. L. 112–144][/us/pl/112/144/s404], July 9, 2012, [126 Stat. 1038][/us/stat/126/1038]. Section 404(a) is set out as a note under [section 379j–51 of this title][/us/usc/t21/s379j–51], and section 404(b) is set out as a note under [section 379j–53 of this title][/us/usc/t21/s379j–53].
+    Section 404 of the Biosimilar User Fee Act of 2012, referred to in subsec. (a)(2)(B), is [section 404 of title IV of Pub. L. 112–144][/us/pl/112/144/tIV/s404], July 9, 2012, [126 Stat. 1038][/us/stat/126/1038]. Section 404(a) is set out as a note under [section 379j–51 of this title][/us/usc/t21/s379j–51], and section 404(b) is set out as a note under [section 379j–53 of this title][/us/usc/t21/s379j–53].
 
  __Effective and Termination Dates__ 
 
@@ -364,12 +364,12 @@
 [/us/usc/t21/s379h/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379h%2Fc%2F4
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
 [/us/usc/t21/s379j–51/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9351%2F4
-[/us/act/1938-06-25/ch675/s744H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744H
-[/us/pl/112/144/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs402
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV
 [/us/stat/126/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1029
 [/us/pl/112/144/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs404%2Fa
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/112/144/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs404
+[/us/pl/112/144/tIV/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIV%2Fs404
 [/us/stat/126/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1038
 [/us/usc/t21/s379j–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9351
 [/us/usc/t21/s379j–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353

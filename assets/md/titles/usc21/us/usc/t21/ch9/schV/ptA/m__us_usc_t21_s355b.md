@@ -35,7 +35,7 @@
 
             Paragraph (1) may not be construed as restricting the authority of the Secretary of Health and Human Services to continue carrying out the activities described in such paragraph regarding a drug after the one-year period described in such paragraph regarding the drug has expired.
 
-([Pub. L. 107–109, § 17][/us/pl/107/109/s17], Jan. 4, 2002, [115 Stat. 1422][/us/stat/115/1422]; [Pub. L. 108–155, § 3(b)(5)][/us/pl/108/155/s3/b/5], Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942].)
+([Pub. L. 107–109][/us/pl/107/109], § 17, Jan. 4, 2002, [115 Stat. 1422][/us/stat/115/1422]; [Pub. L. 108–155][/us/pl/108/155], § 3(b)(5), Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/usc/t21/s393a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs393a
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/107/109/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs17
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1422
-[/us/pl/108/155/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F5
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1942
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

@@ -117,19 +117,19 @@
 
         As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product’s manufacturer and other manufacturer directions consistent with that labeling.
 
-([June 25, 1938, ch. 675, § 503A][/us/act/1938-06-25/ch675/s503A], as added [Pub. L. 105–115, title I, § 127(a)][/us/pl/105/115/s127/a], Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; amended [Pub. L. 113–54, title I, § 106(a)][/us/pl/113/54/s106/a], Nov. 27, 2013, [127 Stat. 598][/us/stat/127/598].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 503A, as added [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 127(a), Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; amended [Pub. L. 113–54, title I][/us/pl/113/54/tI], § 106(a), Nov. 27, 2013, [127 Stat. 598][/us/stat/127/598].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–54, § 106(a)(1)][/us/pl/113/54/s106/a/1], struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions.
+    2013—Subsec. (a). [Pub. L. 113–54][/us/pl/113/54], § 106(a)(1), struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions.
 
-    Subsec. (b)(1)(A)(i)(III). [Pub. L. 113–54, § 106(a)(4)][/us/pl/113/54/s106/a/4], substituted “subsection (c)” for “subsection (d)”.
+    Subsec. (b)(1)(A)(i)(III). [Pub. L. 113–54][/us/pl/113/54], § 106(a)(4), substituted “subsection (c)” for “subsection (d)”.
 
-    Subsecs. (c) to (f). [Pub. L. 113–54, § 106(a)(2)][/us/pl/113/54/s106/a/2], (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
+    Subsecs. (c) to (f). [Pub. L. 113–54][/us/pl/113/54], § 106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
 
  __Effective Date__ 
 
-[Pub. L. 105–115, title I, § 127(b)][/us/pl/105/115/s127/b], Nov. 21, 1997, [111 Stat. 2330][/us/stat/111/2330], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 127(b), Nov. 21, 1997, [111 Stat. 2330][/us/stat/111/2330], provided that: 
 
 > “Section 503A of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 353a][/us/usc/t21/s353a]\], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Nov. 21, 1997\].”
 
@@ -143,15 +143,15 @@
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
 [/us/usc/t21/s360/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fi
 [/us/usc/t21/s321/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fii
-[/us/act/1938-06-25/ch675/s503A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs503A
-[/us/pl/105/115/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs127%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2328
-[/us/pl/113/54/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa
+[/us/pl/113/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtI
 [/us/stat/127/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F598
-[/us/pl/113/54/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa%2F1
-[/us/pl/113/54/s106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa%2F4
-[/us/pl/113/54/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa%2F2
-[/us/pl/105/115/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs127%2Fb
+[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
+[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
+[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2330
 [/us/usc/t21/s353a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a
 

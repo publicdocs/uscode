@@ -61,7 +61,7 @@
 
         (3) protect the interests of tenants and sharecroppers.
 
-([Pub. L. 91–513, title II, § 519][/us/pl/91/513/s519], formerly [Pub. L. 99–198, title XVII, § 1764][/us/pl/99/198/s1764], Dec. 23, 1985, [99 Stat. 1652][/us/stat/99/1652]; renumbered [§ 519 of Pub. L. 91–513][/us/pl/91/513/s519], [Pub. L. 101–647, title X, § 1002(h)(2)][/us/pl/101/647/s1002/h/2], Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 519, formerly [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1764, Dec. 23, 1985, [99 Stat. 1652][/us/stat/99/1652]; renumbered § 519 of [Pub. L. 91–513][/us/pl/91/513], [Pub. L. 101–647, title X][/us/pl/101/647/tX], § 1002(h)(2), Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828].)
 
  __References in Text__ 
 
@@ -100,11 +100,11 @@
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t15/s714b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714b
-[/us/pl/91/513/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs519
-[/us/pl/99/198/s1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1764
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1652
-[/us/pl/91/513/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs519
-[/us/pl/101/647/s1002/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fh%2F2
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/pl/101/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtX
 [/us/stat/104/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4828
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

@@ -151,7 +151,7 @@
 
         In this section and [section 360ccc–1 of this title][/us/usc/t21/s360ccc–1], the term “transgenic animal” means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term “transgenic animal” does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
 
-([June 25, 1938, ch. 675, § 571][/us/act/1938-06-25/ch675/s571], as added [Pub. L. 108–282, title I, § 102(b)(4)][/us/pl/108/282/s102/b/4], Aug. 2, 2004, [118 Stat. 892][/us/stat/118/892]; amended [Pub. L. 114–89, § 2(a)(3)(B)][/us/pl/114/89/s2/a/3/B], Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 571, as added [Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(b)(4), Aug. 2, 2004, [118 Stat. 892][/us/stat/118/892]; amended [Pub. L. 114–89][/us/pl/114/89], § 2(a)(3)(B), Nov. 25, 2015, [129 Stat. 699][/us/stat/129/699].)
 
  __References in Text__ 
 
@@ -163,7 +163,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–282, title I, § 102(a)][/us/pl/108/282/s102/a], Aug. 2, 2004, [118 Stat. 891][/us/stat/118/891], provided that: 
+[Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(a), Aug. 2, 2004, [118 Stat. 891][/us/stat/118/891], provided that: 
 
 > “Congress makes the following findings:
 
@@ -181,7 +181,7 @@
 
  __Regulations__ 
 
-[Pub. L. 108–282, title I, § 102(b)(6)][/us/pl/108/282/s102/b/6], Aug. 2, 2004, [118 Stat. 905][/us/stat/118/905], provided that: 
+[Pub. L. 108–282, title I][/us/pl/108/282/tI], § 102(b)(6), Aug. 2, 2004, [118 Stat. 905][/us/stat/118/905], provided that: 
 
 > “On the date of enactment of this Act \[Aug. 2, 2004\], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360ccc][/us/usc/t21/s360ccc], 360ccc–2\] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) \[[21 U.S.C. 360ccc–1][/us/usc/t21/s360ccc–1]\], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) \[no subsection (i) of section 102 has been enacted\] are not in fact appropriated.”
 
@@ -214,18 +214,18 @@
 [/us/usc/t21/s360b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fd
 [/us/usc/t21/s360b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fc
 [/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931
-[/us/act/1938-06-25/ch675/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs571
-[/us/pl/108/282/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F4
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F892
-[/us/pl/114/89/s2/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F3%2FB
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F699
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
-[/us/pl/108/282/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fa
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F891
-[/us/pl/108/282/s102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F6
+[/us/pl/108/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2FtI
 [/us/stat/118/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F905
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
 [/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931

@@ -61,7 +61,7 @@
 
         As used in this section, the term “State” means any State (including the Commonwealth of Puerto Rico) or organized Territory.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title III § 301, as added [Pub. L. 90–201, § 15][/us/pl/90/201/s15], Dec. 15, 1967, [81 Stat. 595][/us/stat/81/595]; amended [Pub. L. 98–487, § 1][/us/pl/98/487/s1], Oct. 17, 1984, [98 Stat. 2264][/us/stat/98/2264]; [Pub. L. 103–437, § 8(2)][/us/pl/103/437/s8/2], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title III § 301, as added [Pub. L. 90–201][/us/pl/90/201], § 15, Dec. 15, 1967, [81 Stat. 595][/us/stat/81/595]; amended [Pub. L. 98–487][/us/pl/98/487], § 1, Oct. 17, 1984, [98 Stat. 2264][/us/stat/98/2264]; [Pub. L. 103–437][/us/pl/103/437], § 8(2), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
 
  __References in Text__ 
 
@@ -95,11 +95,11 @@
 [/us/usc/t21/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs661
 [/us/usc/t21/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs642
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs15
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F595
-[/us/pl/98/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F487%2Fs1
+[/us/pl/98/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F487
 [/us/stat/98/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2264
-[/us/pl/103/437/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs8%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/usc/t21/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs691
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

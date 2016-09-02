@@ -17,7 +17,7 @@
 
     Any officer, agent, or employee of the Department of Agriculture duly authorized by the Secretary of Agriculture for the purpose may, at any hour during the daytime or nighttime, enter and inspect any establishment where any virus, serum, toxin, or analogous product for use in the treatment of domestic animals is prepared for sale, barter, exchange, or shipment as aforesaid.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 833][/us/stat/37/833]; [Pub. L. 99–198, title XVII, § 1768(d)][/us/pl/99/198/s1768/d], Dec. 23, 1985, [99 Stat. 1655][/us/stat/99/1655].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 833][/us/stat/37/833]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1768(d), Dec. 23, 1985, [99 Stat. 1655][/us/stat/99/1655].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F833
-[/us/pl/99/198/s1768/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768%2Fd
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1655
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/pl/99/198/s1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768

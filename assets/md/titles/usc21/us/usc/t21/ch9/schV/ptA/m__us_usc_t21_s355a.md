@@ -349,7 +349,7 @@
 
         (6) offer recommendations for ensuring pediatric testing of biological products, including consideration of any incentives, such as those provided under this section or [section 262(m) of title 42][/us/usc/t42/s262/m].
 
-([June 25, 1938, ch. 675, § 505A][/us/act/1938-06-25/ch675/s505A], as added [Pub. L. 105–115, title I, § 111][/us/pl/105/115/s111], Nov. 21, 1997, [111 Stat. 2305][/us/stat/111/2305]; amended [Pub. L. 107–109][/us/pl/107/109], §§ 2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408], 1411, 1413–1415, 1423, 1424; [Pub. L. 108–155][/us/pl/108/155], §§ 2(b)(2), 3(a), (b)(1), Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 108–173, title XI, § 1104][/us/pl/108/173/s1104], Dec. 8, 2003, [117 Stat. 2461][/us/stat/117/2461]; [Pub. L. 110–85, title V, § 502(a)(1)][/us/pl/110/85/s502/a/1], Sept. 27, 2007, [121 Stat. 876][/us/stat/121/876]; [Pub. L. 111–148, title VII, § 7002(g)(2)(B)][/us/pl/111/148/s7002/g/2/B], Mar. 23, 2010, [124 Stat. 820][/us/stat/124/820]; [Pub. L. 112–144, title V][/us/pl/112/144], §§ 501(a), 502(a)(1), (b), 509(a), July 9, 2012, [126 Stat. 1039][/us/stat/126/1039], 1040, 1047; [Pub. L. 113–5, title III, § 307(a)][/us/pl/113/5/s307/a], Mar. 13, 2013, [127 Stat. 191][/us/stat/127/191].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 505A, as added [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 111, Nov. 21, 1997, [111 Stat. 2305][/us/stat/111/2305]; amended [Pub. L. 107–109][/us/pl/107/109], §§ 2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, [115 Stat. 1408][/us/stat/115/1408], 1411, 1413–1415, 1423, 1424; [Pub. L. 108–155][/us/pl/108/155], §§ 2(b)(2), 3(a), (b)(1), Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1104, Dec. 8, 2003, [117 Stat. 2461][/us/stat/117/2461]; [Pub. L. 110–85, title V][/us/pl/110/85/tV], § 502(a)(1), Sept. 27, 2007, [121 Stat. 876][/us/stat/121/876]; [Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(g)(2)(B), Mar. 23, 2010, [124 Stat. 820][/us/stat/124/820]; [Pub. L. 112–144, title V][/us/pl/112/144/tV], §§ 501(a), 502(a)(1), (b), 509(a), July 9, 2012, [126 Stat. 1039][/us/stat/126/1039], 1040, 1047; [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 307(a), Mar. 13, 2013, [127 Stat. 191][/us/stat/127/191].)
 
  __References in Text__ 
 
@@ -357,33 +357,33 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(5). [Pub. L. 113–5, § 307(a)(1)][/us/pl/113/5/s307/a/1], added par. (5).
+    2013—Subsec. (d)(5). [Pub. L. 113–5][/us/pl/113/5], § 307(a)(1), added par. (5).
 
-    Subsec. (n)(1)(C). [Pub. L. 113–5, § 307(a)(2)][/us/pl/113/5/s307/a/2], added subpar. (C).
+    Subsec. (n)(1)(C). [Pub. L. 113–5][/us/pl/113/5], § 307(a)(2), added subpar. (C).
 
-    2012—Subsec. (d)(1)(A). [Pub. L. 112–144, § 502(b)][/us/pl/112/144/s502/b], inserted at end “If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates.”
+    2012—Subsec. (d)(1)(A). [Pub. L. 112–144][/us/pl/112/144], § 502(b), inserted at end “If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates.”
 
-    Subsec. (h). [Pub. L. 112–144, § 502(a)(1)][/us/pl/112/144/s502/a/1], amended subsec. (h) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section.”
+    Subsec. (h). [Pub. L. 112–144][/us/pl/112/144], § 502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section.”
 
-    Subsec. (k)(2). [Pub. L. 112–144, § 509(a)(1)][/us/pl/112/144/s509/a/1], substituted “subsection (f)(6)(F)” for “subsection (f)(3)(F)”.
+    Subsec. (k)(2). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(1), substituted “subsection (f)(6)(F)” for “subsection (f)(3)(F)”.
 
-    Subsec. (l)(1). [Pub. L. 112–144, § 509(a)(2)(A)][/us/pl/112/144/s509/a/2/A], substituted “first 18-month period” for “year one” in heading and “18-month” for “one-year” in text.
+    Subsec. (l)(1). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(2)(A), substituted “first 18-month period” for “year one” in heading and “18-month” for “one-year” in text.
 
-    Subsec. (l)(2). [Pub. L. 112–144, § 509(a)(2)(B)][/us/pl/112/144/s509/a/2/B], substituted “periods” for “years” in heading and “18-month period” for “one-year period” in text.
+    Subsec. (l)(2). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(2)(B), substituted “periods” for “years” in heading and “18-month period” for “one-year period” in text.
 
-    Subsec. (l)(3), (4). [Pub. L. 112–144, § 509(a)(2)(C)][/us/pl/112/144/s509/a/2/C], (D), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (l)(3), (4). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(2)(C), (D), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (n). [Pub. L. 112–144, § 509(a)(3)(A)][/us/pl/112/144/s509/a/3/A], substituted “submitted” for “completed” in heading.
+    Subsec. (n). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(3)(A), substituted “submitted” for “completed” in heading.
 
-    Subsec. (n)(1). [Pub. L. 112–144, § 509(a)(3)(B)(i)][/us/pl/112/144/s509/a/3/B/i], substituted “have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request” for “have not been completed” in introductory provisions.
+    Subsec. (n)(1). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(3)(B)(i), substituted “have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request” for “have not been completed” in introductory provisions.
 
-    Subsec. (n)(1)(A). [Pub. L. 112–144, § 509(a)(3)(B)(ii)][/us/pl/112/144/s509/a/3/B/ii], inserted “, or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of [section 262 of title 42][/us/usc/t42/s262] has not ended” after “expired” and struck out at end “Prior to making such a determination, the Secretary may not take more than 30 days to certify whether the Foundation for the National Institutes of Health has sufficient funding at the time of such certification to initiate and fund all of the studies in the written request in their entirety within the timeframes specified within the written request. Only if the Secretary makes such certification in the affirmative, the Secretary shall refer all pediatric studies in the written request to the Foundation for the National Institutes of Health for the conduct of such studies, and such Foundation shall fund such studies. If no certification has been made at the end of the 30-day period, or if the Secretary certifies that funds are not sufficient to initiate and fund all the studies in their entirety, the Secretary shall consider whether assessments shall be required under [section 355c(b) of this title][/us/usc/t21/s355c/b] for such drug.”
+    Subsec. (n)(1)(A). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(3)(B)(ii), inserted “, or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of [section 262 of title 42][/us/usc/t42/s262] has not ended” after “expired” and struck out at end “Prior to making such a determination, the Secretary may not take more than 30 days to certify whether the Foundation for the National Institutes of Health has sufficient funding at the time of such certification to initiate and fund all of the studies in the written request in their entirety within the timeframes specified within the written request. Only if the Secretary makes such certification in the affirmative, the Secretary shall refer all pediatric studies in the written request to the Foundation for the National Institutes of Health for the conduct of such studies, and such Foundation shall fund such studies. If no certification has been made at the end of the 30-day period, or if the Secretary certifies that funds are not sufficient to initiate and fund all the studies in their entirety, the Secretary shall consider whether assessments shall be required under [section 355c(b) of this title][/us/usc/t21/s355c/b] for such drug.”
 
-    Subsec. (n)(1)(B). [Pub. L. 112–144, § 509(a)(3)(B)(iii)][/us/pl/112/144/s509/a/3/B/iii], substituted “no unexpired listed patents and for which no unexpired periods of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of [section 262 of title 42][/us/usc/t42/s262] apply,” for “no listed patents or has 1 or more listed patents that have expired,”.
+    Subsec. (n)(1)(B). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(3)(B)(iii), substituted “no unexpired listed patents and for which no unexpired periods of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of [section 262 of title 42][/us/usc/t42/s262] apply,” for “no listed patents or has 1 or more listed patents that have expired,”.
 
-    Subsec. (o)(2)(B). [Pub. L. 112–144, § 509(a)(4)][/us/pl/112/144/s509/a/4], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a statement of any appropriate pediatric contraindications, warnings, or precautions that the Secretary considers necessary.”
+    Subsec. (o)(2)(B). [Pub. L. 112–144][/us/pl/112/144], § 509(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a statement of any appropriate pediatric contraindications, warnings, or precautions that the Secretary considers necessary.”
 
-    Subsec. (q). [Pub. L. 112–144, § 501(a)][/us/pl/112/144/s501/a], struck out subsec. (q). Text read as follows: “A drug may not receive any 6-month period under subsection (b) or (c) unless—
+    Subsec. (q). [Pub. L. 112–144][/us/pl/112/144], § 501(a), struck out subsec. (q). Text read as follows: “A drug may not receive any 6-month period under subsection (b) or (c) unless—
 
     “(1) on or before October 1, 2012, the Secretary makes a written request for pediatric studies of the drug;
 
@@ -399,59 +399,59 @@
 
     2007—[Pub. L. 110–85][/us/pl/110/85] amended section generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to pediatric studies of drugs, including market exclusivity, conduct of pediatric studies, delay of effective date for certain applications, notice of determinations on studies requirement, limitations, research requirements, labeling supplements, dissemination of information, prompt approval of drugs, report to Congress not later than Jan. 1, 2001, and sunset provisions.
 
-    2003—Subsec. (b)(1)(A)(i). [Pub. L. 108–173, § 1104(1)][/us/pl/108/173/s1104/1], substituted “(j)(5)(F)(ii)” for “(j)(5)(D)(ii)” in two places.
+    2003—Subsec. (b)(1)(A)(i). [Pub. L. 108–173][/us/pl/108/173], § 1104(1), substituted “(j)(5)(F)(ii)” for “(j)(5)(D)(ii)” in two places.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 108–173, § 1104(2)][/us/pl/108/173/s1104/2], substituted “(j)(5)(F)” for “(j)(5)(D)”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 108–173][/us/pl/108/173], § 1104(2), substituted “(j)(5)(F)” for “(j)(5)(D)”.
 
-    Subsec. (b)(2). [Pub. L. 108–155, § 3(a)][/us/pl/108/155/s3/a], substituted “355(j)(5)(B)” for “355(j)(4)(B)” in two places.
+    Subsec. (b)(2). [Pub. L. 108–155][/us/pl/108/155], § 3(a), substituted “355(j)(5)(B)” for “355(j)(4)(B)” in two places.
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 108–173, § 1104(1)][/us/pl/108/173/s1104/1], substituted “(j)(5)(F)(ii)” for “(j)(5)(D)(ii)” in two places.
+    Subsec. (c)(1)(A)(i). [Pub. L. 108–173][/us/pl/108/173], § 1104(1), substituted “(j)(5)(F)(ii)” for “(j)(5)(D)(ii)” in two places.
 
-    Subsec. (c)(1)(A)(ii). [Pub. L. 108–173, § 1104(2)][/us/pl/108/173/s1104/2], substituted “(j)(5)(F)” for “(j)(5)(D)”.
+    Subsec. (c)(1)(A)(ii). [Pub. L. 108–173][/us/pl/108/173], § 1104(2), substituted “(j)(5)(F)” for “(j)(5)(D)”.
 
-    Subsec. (c)(2). [Pub. L. 108–155, § 3(a)][/us/pl/108/155/s3/a], substituted “355(j)(5)(B)” for “355(j)(4)(B)” in two places.
+    Subsec. (c)(2). [Pub. L. 108–155][/us/pl/108/155], § 3(a), substituted “355(j)(5)(B)” for “355(j)(4)(B)” in two places.
 
-    Subsec. (e). [Pub. L. 108–173, § 1104(3)][/us/pl/108/173/s1104/3], substituted “355(j)(5)(F)” for “355(j)(5)(D)”.
+    Subsec. (e). [Pub. L. 108–173][/us/pl/108/173], § 1104(3), substituted “355(j)(5)(F)” for “355(j)(5)(D)”.
 
-    Subsec. (h). [Pub. L. 108–155, § 2(b)(2)][/us/pl/108/155/s2/b/2], substituted “pediatric research requirements” for “regulations” in heading and “by a provision of law (including a regulation) other than this section” for “pursuant to regulations promulgated by the Secretary” in text.
+    Subsec. (h). [Pub. L. 108–155][/us/pl/108/155], § 2(b)(2), substituted “pediatric research requirements” for “regulations” in heading and “by a provision of law (including a regulation) other than this section” for “pursuant to regulations promulgated by the Secretary” in text.
 
-    Subsec. (i)(2). [Pub. L. 108–155, § 3(b)(1)][/us/pl/108/155/s3/b/1], struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+    Subsec. (i)(2). [Pub. L. 108–155][/us/pl/108/155], § 3(b)(1), struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
 
-    Subsec. (l). [Pub. L. 108–173, § 1104(3)][/us/pl/108/173/s1104/3], substituted “355(j)(5)(F)” for “355(j)(5)(D)” wherever appearing.
+    Subsec. (l). [Pub. L. 108–173][/us/pl/108/173], § 1104(3), substituted “355(j)(5)(F)” for “355(j)(5)(D)” wherever appearing.
 
-    2002—Subsec. (a). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (g) as (a). Former subsec. (a) redesignated (b).
+    2002—Subsec. (a). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (g) as (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (a)(1)(A). [Pub. L. 107–109, § 19(1)(A)][/us/pl/107/109/s19/1/A], (B), substituted “(j)(5)(D)(ii)” for “(j)(4)(D)(ii)” in two places in cl. (i) and “(j)(5)(D)” for “(j)(4)(D)” in cl. (ii).
+    Subsec. (a)(1)(A). [Pub. L. 107–109][/us/pl/107/109], § 19(1)(A), (B), substituted “(j)(5)(D)(ii)” for “(j)(4)(D)(ii)” in two places in cl. (i) and “(j)(5)(D)” for “(j)(4)(D)” in cl. (ii).
 
-    Subsec. (b). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (a) as (b).
+    Subsec. (b). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (a) as (b).
 
-    [Pub. L. 107–109, § 2(1)][/us/pl/107/109/s2/1], struck out heading and text of subsec. (b). Text read as follows: “Not later than 180 days after November 21, 1997, the Secretary, after consultation with experts in pediatric research shall develop, prioritize, and publish an initial list of approved drugs for which additional pediatric information may produce health benefits in the pediatric population. The Secretary shall annually update the list.”
+    [Pub. L. 107–109][/us/pl/107/109], § 2(1), struck out heading and text of subsec. (b). Text read as follows: “Not later than 180 days after November 21, 1997, the Secretary, after consultation with experts in pediatric research shall develop, prioritize, and publish an initial list of approved drugs for which additional pediatric information may produce health benefits in the pediatric population. The Secretary shall annually update the list.”
 
-    Subsec. (c). [Pub. L. 107–109, § 2(2)][/us/pl/107/109/s2/2], in introductory provisions, inserted “determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and” after “the Secretary” and struck out “concerning a drug identified in the list described in subsection (b) of this section” after “such studies)”.
+    Subsec. (c). [Pub. L. 107–109][/us/pl/107/109], § 2(2), in introductory provisions, inserted “determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and” after “the Secretary” and struck out “concerning a drug identified in the list described in subsection (b) of this section” after “such studies)”.
 
-    Subsec. (c)(1)(A). [Pub. L. 107–109, § 19(1)(A)][/us/pl/107/109/s19/1/A], (B), substituted “(j)(5)(D)(ii)” for “(j)(4)(D)(ii)” in two places in cl. (i) and “(j)(5)(D)” for “(j)(4)(D)” in cl. (ii).
+    Subsec. (c)(1)(A). [Pub. L. 107–109][/us/pl/107/109], § 19(1)(A), (B), substituted “(j)(5)(D)(ii)” for “(j)(4)(D)(ii)” in two places in cl. (i) and “(j)(5)(D)” for “(j)(4)(D)” in cl. (ii).
 
-    Subsec. (d)(1). [Pub. L. 107–109, § 19(4)][/us/pl/107/109/s19/4], substituted “subsection (b) or (c)” for “subsection (a) or (c)” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 107–109][/us/pl/107/109], § 19(4), substituted “subsection (b) or (c)” for “subsection (a) or (c)” in introductory provisions.
 
     Subsec. (d)(2). [Pub. L. 107–109][/us/pl/107/109], §§ 18(a), 19(4), substituted “subsection (b) or (c)” for “subsection (a) or (c)” and inserted “In reaching an agreement regarding written protocols, the Secretary shall take into account adequate representation of children of ethnic and racial minorities.” after first sentence.
 
-    Subsec. (d)(3). [Pub. L. 107–109, § 19(4)][/us/pl/107/109/s19/4], substituted “subsection (b) or (c)” for “subsection (a) or (c)”.
+    Subsec. (d)(3). [Pub. L. 107–109][/us/pl/107/109], § 19(4), substituted “subsection (b) or (c)” for “subsection (a) or (c)”.
 
-    Subsec. (d)(4). [Pub. L. 107–109, § 4][/us/pl/107/109/s4], added par. (4).
+    Subsec. (d)(4). [Pub. L. 107–109][/us/pl/107/109], § 4, added par. (4).
 
-    Subsec. (e). [Pub. L. 107–109, § 19(1)(C)][/us/pl/107/109/s19/1/C], (4), substituted “section 355(j)(5)(D)” for “section 355(j)(4)(D)” and “subsection (b) or (c)” for “subsection (a) or (c)”.
+    Subsec. (e). [Pub. L. 107–109][/us/pl/107/109], § 19(1)(C), (4), substituted “section 355(j)(5)(D)” for “section 355(j)(4)(D)” and “subsection (b) or (c)” for “subsection (a) or (c)”.
 
-    Subsec. (g). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), (5), redesignated subsec. (h) as (g) and substituted “subsection (b) or (c)” for “subsection (a) or (b)” in introductory provisions. Former subsec. (g) redesignated (a).
+    Subsec. (g). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), (5), redesignated subsec. (h) as (g) and substituted “subsection (b) or (c)” for “subsection (a) or (b)” in introductory provisions. Former subsec. (g) redesignated (a).
 
-    [Pub. L. 107–109, § 7][/us/pl/107/109/s7], inserted “(including neonates in appropriate cases)” after “pediatric age groups”.
+    [Pub. L. 107–109][/us/pl/107/109], § 7, inserted “(including neonates in appropriate cases)” after “pediatric age groups”.
 
-    Subsec. (h). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-    Subsec. (i). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (l) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (l) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (j). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (m) as (j). Former subsec. (j) redesignated (n).
+    Subsec. (j). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (m) as (j). Former subsec. (j) redesignated (n).
 
-    [Pub. L. 107–109, § 8][/us/pl/107/109/s8], added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under [section 355(b)(1) of this title][/us/usc/t21/s355/b/1] is submitted on or before January 1, 2002. After January 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
+    [Pub. L. 107–109][/us/pl/107/109], § 8, added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under [section 355(b)(1) of this title][/us/usc/t21/s355/b/1] is submitted on or before January 1, 2002. After January 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
 
     “(1) the drug was in commercial distribution as of November 21, 1997;
 
@@ -461,29 +461,29 @@
 
     “(4) all requirements of this section are met.”
 
-    Subsec. (k). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (n) as (k). Former subsec. (k) redesignated (m).
+    Subsec. (k). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (n) as (k). Former subsec. (k) redesignated (m).
 
-    Subsec. (l). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (o) as (l). Former subsec. (l) redesignated (i).
+    Subsec. (l). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (o) as (l). Former subsec. (l) redesignated (i).
 
-    [Pub. L. 107–109, § 5(b)(2)][/us/pl/107/109/s5/b/2], added subsec. (l).
+    [Pub. L. 107–109][/us/pl/107/109], § 5(b)(2), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (k) as (m). Former subsec. (m) redesignated (j).
+    Subsec. (m). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (k) as (m). Former subsec. (m) redesignated (j).
 
-    [Pub. L. 107–109, § 9][/us/pl/107/109/s9], added subsec. (m).
+    [Pub. L. 107–109][/us/pl/107/109], § 9, added subsec. (m).
 
-    Subsec. (n). [Pub. L. 107–109, § 19(4)][/us/pl/107/109/s19/4], which directed substitution of “subsection (b) or (c)” for “subsection (a) or (c)” in subsec. (m), was executed by making the substitution in introductory provisions of subsec. (n), to reflect the probable intent of Congress.
+    Subsec. (n). [Pub. L. 107–109][/us/pl/107/109], § 19(4), which directed substitution of “subsection (b) or (c)” for “subsection (a) or (c)” in subsec. (m), was executed by making the substitution in introductory provisions of subsec. (n), to reflect the probable intent of Congress.
 
-    [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (j) as (n). Former subsec. (n) redesignated (k).
+    [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (j) as (n). Former subsec. (n) redesignated (k).
 
-    [Pub. L. 107–109, § 10][/us/pl/107/109/s10], added subsec. (n).
+    [Pub. L. 107–109][/us/pl/107/109], § 10, added subsec. (n).
 
-    Subsec. (o). [Pub. L. 107–109, § 19(2)][/us/pl/107/109/s19/2], (3), redesignated subsec. (o) as (l).
+    Subsec. (o). [Pub. L. 107–109][/us/pl/107/109], § 19(2), (3), redesignated subsec. (o) as (l).
 
-    [Pub. L. 107–109, § 11(a)][/us/pl/107/109/s11/a], added subsec. (o).
+    [Pub. L. 107–109][/us/pl/107/109], § 11(a), added subsec. (o).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–144, title V, § 509(g)][/us/pl/112/144/s509/g], July 9, 2012, [126 Stat. 1050][/us/stat/126/1050], provided that:
+[Pub. L. 112–144, title V][/us/pl/112/144/tV], § 509(g), July 9, 2012, [126 Stat. 1050][/us/stat/126/1050], provided that:
 
 >     “(1)  __Application__  __.—__ 
 
@@ -495,7 +495,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–85, title V, § 502(a)(2)][/us/pl/110/85/s502/a/2], Sept. 27, 2007, [121 Stat. 885][/us/stat/121/885], provided that:
+[Pub. L. 110–85, title V][/us/pl/110/85/tV], § 502(a)(2), Sept. 27, 2007, [121 Stat. 885][/us/stat/121/885], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -511,35 +511,35 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–109, § 11(b)][/us/pl/107/109/s11/b], Jan. 4, 2002, [115 Stat. 1416][/us/stat/115/1416], provided that: 
+[Pub. L. 107–109][/us/pl/107/109], § 11(b), Jan. 4, 2002, [115 Stat. 1416][/us/stat/115/1416], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect on the date of enactment of this Act \[Jan. 4, 2002\], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j]) that are approved or pending on that date.”
 
  __Construction of 2007 Amendments on Pediatric Studies__ 
 
-[Pub. L. 110–85, title IX, § 901(e)][/us/pl/110/85/s901/e], Sept. 27, 2007, [121 Stat. 942][/us/stat/121/942], provided that: 
+[Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 901(e), Sept. 27, 2007, [121 Stat. 942][/us/stat/121/942], provided that: 
 
 > “This title \[enacting sections 353c, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title\] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355a][/us/usc/t21/s355a]\] or to require such studies under section 505B of such Act \[[21 U.S.C. 355c][/us/usc/t21/s355c]\].”
 
  __Communication With Pediatric Review Committee__ 
 
-[Pub. L. 112–144, title V, § 503][/us/pl/112/144/s503], July 9, 2012, [126 Stat. 1040][/us/stat/126/1040], provided that: 
+[Pub. L. 112–144, title V][/us/pl/112/144/tV], § 503, July 9, 2012, [126 Stat. 1040][/us/stat/126/1040], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this title \[see Tables for classification\] as the ‘Secretary’) shall issue internal standard operating procedures that provide for the review by the internal review committee established under section 505C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355d][/us/usc/t21/s355d]) of any significant modifications to initial pediatric study plans, agreed initial pediatric study plans, and written requests under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a][/us/usc/t21/s355a], 355c). Such internal standard operating procedures shall be made publicly available on the Internet Web site of the Food and Drug Administration.”
 
  __Access to Data__ 
 
-[Pub. L. 112–144, title V, § 504][/us/pl/112/144/s504], July 9, 2012, [126 Stat. 1040][/us/stat/126/1040], provided that: 
+[Pub. L. 112–144, title V][/us/pl/112/144/tV], § 504, July 9, 2012, [126 Stat. 1040][/us/stat/126/1040], provided that: 
 
 > “Not later than 3 years after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a][/us/usc/t21/s355a]) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a(k)][/us/usc/t21/s355a/k]).”
 
  __Report on Pediatric Exclusivity Program__ 
 
-    [Pub. L. 107–109, § 16][/us/pl/107/109/s16], Jan. 4, 2002, [115 Stat. 1421][/us/stat/115/1421], as amended by [Pub. L. 108–155, § 3(b)(4)][/us/pl/108/155/s3/b/4], Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942], required the Comptroller General, not later than Oct. 1, 2006, and in consultation with the Secretary of Health and Human Services, to submit to Congress a report on specified issues concerning the effectiveness of the pediatric exclusivity program.
+    [Pub. L. 107–109][/us/pl/107/109], § 16, Jan. 4, 2002, [115 Stat. 1421][/us/stat/115/1421], as amended by [Pub. L. 108–155][/us/pl/108/155], § 3(b)(4), Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942], required the Comptroller General, not later than Oct. 1, 2006, and in consultation with the Secretary of Health and Human Services, to submit to Congress a report on specified issues concerning the effectiveness of the pediatric exclusivity program.
 
  __Study by General Accounting Office__ 
 
-    [Pub. L. 107–109, § 18(b)][/us/pl/107/109/s18/b], Jan. 4, 2002, [115 Stat. 1423][/us/stat/115/1423], required the Comptroller General, not later than Jan. 10, 2003, to conduct a study relating to the representation of children of ethnic and racial minorities in studies under [section 355a of this title][/us/usc/t21/s355a] and to submit a report to Congress describing the findings of the study.
+    [Pub. L. 107–109][/us/pl/107/109], § 18(b), Jan. 4, 2002, [115 Stat. 1423][/us/stat/115/1423], required the Comptroller General, not later than Jan. 10, 2003, to conduct a study relating to the representation of children of ethnic and racial minorities in studies under [section 355a of this title][/us/usc/t21/s355a] and to submit a report to Congress describing the findings of the study.
 
 ----------
 
@@ -613,22 +613,22 @@
 [/us/usc/t21/s355/j/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F5%2FF
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fm
-[/us/act/1938-06-25/ch675/s505A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505A
-[/us/pl/105/115/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs111
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2305
 [/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1408
 [/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1941
-[/us/pl/108/173/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2461
-[/us/pl/110/85/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs502%2Fa%2F1
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F876
-[/us/pl/111/148/s7002/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fg%2F2%2FB
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F820
-[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1039
-[/us/pl/113/5/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fa
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F191
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F804
@@ -636,96 +636,96 @@
 [/us/usc/t35/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs271
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/113/5/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fa%2F1
-[/us/pl/113/5/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs307%2Fa%2F2
-[/us/pl/112/144/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs502%2Fb
-[/us/pl/112/144/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs502%2Fa%2F1
-[/us/pl/112/144/s509/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F1
-[/us/pl/112/144/s509/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F2%2FA
-[/us/pl/112/144/s509/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F2%2FB
-[/us/pl/112/144/s509/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F2%2FC
-[/us/pl/112/144/s509/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F3%2FA
-[/us/pl/112/144/s509/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F3%2FB%2Fi
-[/us/pl/112/144/s509/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F3%2FB%2Fii
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c%2Fb
-[/us/pl/112/144/s509/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F3%2FB%2Fiii
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/112/144/s509/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fa%2F4
-[/us/pl/112/144/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs501%2Fa
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t21/s355c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
-[/us/pl/108/173/s1104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104%2F1
-[/us/pl/108/173/s1104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104%2F2
-[/us/pl/108/155/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fa
-[/us/pl/108/173/s1104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104%2F1
-[/us/pl/108/173/s1104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104%2F2
-[/us/pl/108/155/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fa
-[/us/pl/108/173/s1104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104%2F3
-[/us/pl/108/155/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs2%2Fb%2F2
-[/us/pl/108/155/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F1
-[/us/pl/108/173/s1104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1104%2F3
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s19/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F1%2FA
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs2%2F1
-[/us/pl/107/109/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs2%2F2
-[/us/pl/107/109/s19/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F1%2FA
-[/us/pl/107/109/s19/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F4
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
-[/us/pl/107/109/s19/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F4
-[/us/pl/107/109/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs4
-[/us/pl/107/109/s19/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F1%2FC
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs7
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs8
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/usc/t21/s355/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb%2F1
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs5%2Fb%2F2
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs9
-[/us/pl/107/109/s19/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F4
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs10
-[/us/pl/107/109/s19/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs19%2F2
-[/us/pl/107/109/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs11%2Fa
-[/us/pl/112/144/s509/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs509%2Fg
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1050
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
-[/us/pl/110/85/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs502%2Fa%2F2
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F885
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/pl/108/155/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs4
 [/us/usc/t21/s355c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c
-[/us/pl/107/109/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs11%2Fb
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1416
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
-[/us/pl/110/85/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fe
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F942
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/usc/t21/s355c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c
-[/us/pl/112/144/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs503
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1040
 [/us/usc/t21/s355d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355d
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
-[/us/pl/112/144/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs504
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1040
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/usc/t21/s355a/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a%2Fk
-[/us/pl/107/109/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs16
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1421
-[/us/pl/108/155/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs3%2Fb%2F4
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1942
-[/us/pl/107/109/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs18%2Fb
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1423
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 

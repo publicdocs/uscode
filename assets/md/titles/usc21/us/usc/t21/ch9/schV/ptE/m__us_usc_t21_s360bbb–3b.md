@@ -29,7 +29,7 @@
 
         (C) is authorized for use under [section 360bbb–3 of this title][/us/usc/t21/s360bbb–3].
 
-([June 25, 1938, ch. 675, § 564B][/us/act/1938-06-25/ch675/s564B], as added [Pub. L. 113–5, title III, § 302(d)][/us/pl/113/5/s302/d], Mar. 13, 2013, [127 Stat. 185][/us/stat/127/185].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 564B, as added [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 302(d), Mar. 13, 2013, [127 Stat. 185][/us/stat/127/185].)
 
  __References in Text__ 
 
@@ -47,8 +47,8 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360bbb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933
-[/us/act/1938-06-25/ch675/s564B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs564B
-[/us/pl/113/5/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fd
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F185
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

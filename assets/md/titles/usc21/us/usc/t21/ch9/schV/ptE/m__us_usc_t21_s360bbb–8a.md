@@ -39,7 +39,7 @@
 
         Nothing in this section shall alter the criteria for evaluating the safety or effectiveness of a medical product under this chapter.
 
-([June 25, 1938, ch. 675, § 569A][/us/act/1938-06-25/ch675/s569A], as added [Pub. L. 112–144, title XI, § 1123][/us/pl/112/144/s1123], July 9, 2012, [126 Stat. 1113][/us/stat/126/1113].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 569A, as added [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1123, July 9, 2012, [126 Stat. 1113][/us/stat/126/1113].)
 
 ----------
 
@@ -50,8 +50,8 @@
 
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t42/s262/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fi
-[/us/act/1938-06-25/ch675/s569A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs569A
-[/us/pl/112/144/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1123
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1113
 
 

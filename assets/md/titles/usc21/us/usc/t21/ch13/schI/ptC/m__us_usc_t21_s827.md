@@ -89,7 +89,7 @@
 
         (6) That [section 830(b)(3) of this title][/us/usc/t21/s830/b/3] (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 
-([Pub. L. 91–513, title II, § 307][/us/pl/91/513/s307], Oct. 27, 1970, [84 Stat. 1258][/us/stat/84/1258]; [Pub. L. 93–281, § 5][/us/pl/93/281/s5], May 14, 1974, [88 Stat. 125][/us/stat/88/125]; [Pub. L. 95–633, title I][/us/pl/95/633], §§ 104, 110, Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772], 3773; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 514, 515, Oct. 12, 1984, [98 Stat. 2074][/us/stat/98/2074]; [Pub. L. 106–172, § 4][/us/pl/106/172/s4], Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9]; [Pub. L. 110–425, § 3(c)][/us/pl/110/425/s3/c], Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 307, Oct. 27, 1970, [84 Stat. 1258][/us/stat/84/1258]; [Pub. L. 93–281][/us/pl/93/281], § 5, May 14, 1974, [88 Stat. 125][/us/stat/88/125]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], §§ 104, 110, Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772], 3773; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 514, 515, Oct. 12, 1984, [98 Stat. 2074][/us/stat/98/2074]; [Pub. L. 106–172][/us/pl/106/172], § 4, Feb. 18, 2000, [114 Stat. 9][/us/stat/114/9]; [Pub. L. 110–425][/us/pl/110/425], § 3(c), Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824].)
 
  __References in Text__ 
 
@@ -101,13 +101,13 @@
 
     2000—Subsec. (h). [Pub. L. 106–172][/us/pl/106/172] added subsec. (h).
 
-    1984—Subsec. (c)(1)(A). [Pub. L. 98–473, § 514(a)][/us/pl/98/473/s514/a], substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
+    1984—Subsec. (c)(1)(A). [Pub. L. 98–473][/us/pl/98/473], § 514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
 
-    Subsec. (c)(1)(B). [Pub. L. 98–473, § 514(b)][/us/pl/98/473/s514/b], substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
+    Subsec. (c)(1)(B). [Pub. L. 98–473][/us/pl/98/473], § 514(b), substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
 
-    Subsec. (g). [Pub. L. 98–473, § 515][/us/pl/98/473/s515], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–473][/us/pl/98/473], § 515, added subsec. (g).
 
-    1978—Subsec. (c). [Pub. L. 95–633, § 110][/us/pl/95/633/s110], inserted provision following par. (3) relating to the construction of the Convention on Psychotropic Substances.
+    1978—Subsec. (c). [Pub. L. 95–633][/us/pl/95/633], § 110, inserted provision following par. (3) relating to the construction of the Convention on Psychotropic Substances.
 
     Subsecs. (e), (f). [Pub. L. 95–633][/us/pl/95/633] added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -134,25 +134,25 @@
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s830/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fb%2F3
-[/us/pl/91/513/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs307
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1258
-[/us/pl/93/281/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281%2Fs5
+[/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
 [/us/stat/88/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F125
-[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3772
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2074
-[/us/pl/106/172/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs4
+[/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
 [/us/stat/114/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F9
-[/us/pl/110/425/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fc
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4824
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172
-[/us/pl/98/473/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs514%2Fa
-[/us/pl/98/473/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs514%2Fb
-[/us/pl/98/473/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs515
-[/us/pl/95/633/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs110
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425

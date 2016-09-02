@@ -17,7 +17,7 @@
 
     If a provision of this chapter is held invalid, all valid provisions that are severable shall remain in effect. If a provision of this chapter is held invalid in one or more of its applications, the provision shall remain in effect in all its valid applications that are severable.
 
-([Pub. L. 91–513, title II, § 706][/us/pl/91/513/s706], Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 706, Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs706
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1284
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236

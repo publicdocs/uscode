@@ -47,7 +47,7 @@
 
         For purposes of this section, the term “new dietary ingredient” means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
 
-([June 25, 1938, ch. 675, § 413][/us/act/1938-06-25/ch675/s413], as added [Pub. L. 103–417, § 8][/us/pl/103/417/s8], Oct. 25, 1994, [108 Stat. 4331][/us/stat/108/4331]; amended [Pub. L. 111–353, title I, § 113(a)][/us/pl/111/353/s113/a], Jan. 4, 2011, [124 Stat. 3920][/us/stat/124/3920].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 413, as added [Pub. L. 103–417][/us/pl/103/417], § 8, Oct. 25, 1994, [108 Stat. 4331][/us/stat/108/4331]; amended [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 113(a), Jan. 4, 2011, [124 Stat. 3920][/us/stat/124/3920].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Guidance__ 
 
-[Pub. L. 111–353, title I, § 113(b)][/us/pl/111/353/s113/b], Jan. 4, 2011, [124 Stat. 3921][/us/stat/124/3921], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 113(b), Jan. 4, 2011, [124 Stat. 3921][/us/stat/124/3921], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350b(a)(2)][/us/usc/t21/s350b/a/2]\], the evidence needed to document the safety of new dietary ingredients, and appropriate methods for establishing the identify \[sic\] of a new dietary ingredient.”
 
@@ -72,13 +72,13 @@
 
 [/us/usc/t21/s342/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Ff
 [/us/usc/t21/s802/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F41
-[/us/act/1938-06-25/ch675/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs413
-[/us/pl/103/417/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs8
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/stat/108/4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4331
-[/us/pl/111/353/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs113%2Fa
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3920
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/111/353/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs113%2Fb
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3921
 [/us/usc/t21/s350b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350b%2Fa%2F2
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353

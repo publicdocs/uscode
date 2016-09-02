@@ -151,17 +151,17 @@
 
         The term “United States” means the 50 States of the United States of America and the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Atoll, the Northern Mariana Islands, and any other trust territory or possession of the United States.
 
-([June 25, 1938, ch. 675, § 900][/us/act/1938-06-25/ch675/s900], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 900, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
  __Severability__ 
 
-[Pub. L. 111–31, div. A, § 5][/us/pl/111/31/s5], June 22, 2009, [123 Stat. 1782][/us/stat/123/1782], provided that: 
+[Pub. L. 111–31, div. A][/us/pl/111/31/dA], § 5, June 22, 2009, [123 Stat. 1782][/us/stat/123/1782], provided that: 
 
 > “If any provision of this division \[see Short Title of 2009 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\], of the amendments made by this division, or of the regulations promulgated under this division (or under such amendments), or the application of any such provision to any person or circumstance is held to be invalid, the remainder of this division, such amendments and such regulations, and the application of such provisions to any other person or circumstance shall not be affected and shall continue to be enforced to the fullest extent possible.”
 
  __Construction__ 
 
-[Pub. L. 111–31, div. A, § 4][/us/pl/111/31/s4], June 22, 2009, [123 Stat. 1782][/us/stat/123/1782], provided that:
+[Pub. L. 111–31, div. A][/us/pl/111/31/dA], § 4, June 22, 2009, [123 Stat. 1782][/us/stat/123/1782], provided that:
 
 >     “(a)  __Intended Effect__  __.—__ 
 
@@ -181,7 +181,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–31, div. A, § 2][/us/pl/111/31/s2], June 22, 2009, [123 Stat. 1776][/us/stat/123/1776], provided that: 
+[Pub. L. 111–31, div. A][/us/pl/111/31/dA], § 2, June 22, 2009, [123 Stat. 1776][/us/stat/123/1776], provided that: 
 
 > “The Congress finds the following:
 
@@ -285,7 +285,7 @@
 
  __Purpose__ 
 
-[Pub. L. 111–31, div. A, § 3][/us/pl/111/31/s3], June 22, 2009, [123 Stat. 1781][/us/stat/123/1781], provided that: 
+[Pub. L. 111–31, div. A][/us/pl/111/31/dA], § 3, June 22, 2009, [123 Stat. 1781][/us/stat/123/1781], provided that: 
 
 > “The purposes of this division \[see Short Title of 2009 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\] are—
 
@@ -311,7 +311,7 @@
 
  __Modification of Deadlines for Secretarial Action__ 
 
-[Pub. L. 111–31, div. A, § 6][/us/pl/111/31/s6], June 22, 2009, [123 Stat. 1783][/us/stat/123/1783], provided that:
+[Pub. L. 111–31, div. A][/us/pl/111/31/dA], § 6, June 22, 2009, [123 Stat. 1783][/us/stat/123/1783], provided that:
 
 >     “(a) __Delayed Commencement of Dates for Secretarial Action.—__ 
 
@@ -353,26 +353,26 @@
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t15/s1332/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1332%2F7
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/act/1938-06-25/ch675/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs900
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
-[/us/pl/111/31/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs5
+[/us/pl/111/31/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA
 [/us/stat/123/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1782
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/111/31/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs4
+[/us/pl/111/31/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA
 [/us/stat/123/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1782
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t26/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5701
-[/us/pl/111/31/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs2
+[/us/pl/111/31/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA
 [/us/stat/123/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1776
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/111/31/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs3
+[/us/pl/111/31/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA
 [/us/stat/123/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1781
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/111/31/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs6
+[/us/pl/111/31/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA
 [/us/stat/123/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1783
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s387s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387s

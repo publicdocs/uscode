@@ -17,7 +17,7 @@
 
     No person, firm, or corporation whose permanent allegiance is due to the United States seeking to procure in the consular districts of the United States in China any substance the sale of which is regulated by the provisions of this chapter shall make any fraudulent representations so as to evade or defeat the restrictions herein imposed.
 
-([Mar. 3, 1915, ch. 74, § 8][/us/act/1915-03-03/ch74/s8], [38 Stat. 821][/us/stat/38/821].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 8, [38 Stat. 821][/us/stat/38/821].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch74/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs8
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F821
 
 

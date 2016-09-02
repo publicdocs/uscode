@@ -85,7 +85,7 @@
 
         Not later than 90 days after the expiration of 1 year after the data management systems are placed into effect under subsection (a) of this section and annually thereafter, the Secretary of Health and Human Services shall compile a summary of the information described in subsection (b) of this section with respect to the previous year. When the Food and Drug Administration is able to make summaries under subsection (c) of this section, the Secretary shall include in the compilation under the preceding sentence a compilation of the information described in subsection (c) of this section. Compilations under this subsection shall be made available to Federal and State agencies and other interested persons.
 
-([Pub. L. 100–418, title IV, § 4702][/us/pl/100/418/s4702], Aug. 23, 1988, [102 Stat. 1412][/us/stat/102/1412].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4702, Aug. 23, 1988, [102 Stat. 1412][/us/stat/102/1412].)
 
  __References in Text__ 
 
@@ -95,13 +95,13 @@
 
  __Short Title__ 
 
-[Pub. L. 100–418, title IV, § 4701][/us/pl/100/418/s4701], Aug. 23, 1988, [102 Stat. 1411][/us/stat/102/1411], provided that: 
+[Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4701, Aug. 23, 1988, [102 Stat. 1411][/us/stat/102/1411], provided that: 
 
 > “This subtitle \[subtitle G (§§ 4701–4704) of title IV of [Pub. L. 100–418][/us/pl/100/418], enacting this chapter\] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
 
  __Imported Meat, Poultry Products, Eggs, and Egg Products__ 
 
-[Pub. L. 100–418, title IV, § 4506][/us/pl/100/418/s4506], Aug. 23, 1988, [102 Stat. 1404][/us/stat/102/1404], provided that:
+[Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4506, Aug. 23, 1988, [102 Stat. 1404][/us/stat/102/1404], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -158,7 +158,7 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/100/418/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4702
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1412
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
@@ -167,10 +167,10 @@
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/100/418/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4701
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1411
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/418/s4506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4506
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1404
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451

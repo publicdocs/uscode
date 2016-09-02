@@ -51,13 +51,13 @@
 
         (5) Paragraphs (1) through (4) shall not apply with respect to products defined in [section 321(ff) of this title][/us/usc/t21/s321/ff].
 
-([June 25, 1938, ch. 675, § 803][/us/act/1938-06-25/ch675/s803], as added [Pub. L. 101–629, § 15(a)][/us/pl/101/629/s15/a], Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525]; amended [Pub. L. 105–115, title IV, § 410(b)][/us/pl/105/115/s410/b], Nov. 21, 1997, [111 Stat. 2373][/us/stat/111/2373]; [Pub. L. 112–144, title VI][/us/pl/112/144], §§ 609, 610, July 9, 2012, [126 Stat. 1059][/us/stat/126/1059].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 803, as added [Pub. L. 101–629][/us/pl/101/629], § 15(a), Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525]; amended [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 410(b), Nov. 21, 1997, [111 Stat. 2373][/us/stat/111/2373]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], §§ 609, 610, July 9, 2012, [126 Stat. 1059][/us/stat/126/1059].)
 
  __Amendments__ 
 
-    2012—Subsec. (c)(3). [Pub. L. 112–144, § 610][/us/pl/112/144/s610], designated existing provisions as subpar. (A) and added subpar. (B).
+    2012—Subsec. (c)(3). [Pub. L. 112–144][/us/pl/112/144], § 610, designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c)(4). [Pub. L. 112–144, § 609][/us/pl/112/144/s609], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall, not later than 180 days after November 21, 1997, make public a plan that establishes a framework for achieving mutual recognition of good manufacturing practices inspections.”
+    Subsec. (c)(4). [Pub. L. 112–144][/us/pl/112/144], § 609, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall, not later than 180 days after November 21, 1997, make public a plan that establishes a framework for achieving mutual recognition of good manufacturing practices inspections.”
 
     1997—Subsec. (c). [Pub. L. 105–115][/us/pl/105/115] added subsec. (c).
 
@@ -67,7 +67,7 @@
 
  __Report on Activities of Office of International Relations__ 
 
-    [Pub. L. 101–629, § 15(b)][/us/pl/101/629/s15/b], Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525], directed Secretary of Health and Human Services, not later than 2 years after Nov. 28, 1990, to prepare and submit to the appropriate committees of Congress a report on the activities of the Office of International Relations under [21 U.S.C. 383][/us/usc/t21/s383].
+    [Pub. L. 101–629][/us/pl/101/629], § 15(b), Nov. 28, 1990, [104 Stat. 4525][/us/stat/104/4525], directed Secretary of Health and Human Services, not later than 2 years after Nov. 28, 1990, to prepare and submit to the appropriate committees of Congress a report on the activities of the Office of International Relations under [21 U.S.C. 383][/us/usc/t21/s383].
 
 ----------
 
@@ -78,20 +78,20 @@
 
 [/us/usc/t21/s360j/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Ff
 [/us/usc/t21/s321/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fff
-[/us/act/1938-06-25/ch675/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs803
-[/us/pl/101/629/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs15%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4525
-[/us/pl/105/115/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs410%2Fb
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2373
-[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1059
-[/us/pl/112/144/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs610
-[/us/pl/112/144/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs609
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/101/629/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs15%2Fb
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4525
 [/us/usc/t21/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs383
 

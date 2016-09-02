@@ -31,7 +31,7 @@
 
         It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4) of this section.
 
-([Pub. L. 106–120, title VIII, § 802][/us/pl/106/120/s802], Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 802, Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–120, title VIII, § 811][/us/pl/106/120/s811], Dec. 3, 1999, [113 Stat. 1636][/us/stat/113/1636], provided that: 
+[Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 811, Dec. 3, 1999, [113 Stat. 1636][/us/stat/113/1636], provided that: 
 
 > “This title \[see Short Title note set out below\] shall take effect on the date of the enactment of this Act \[Dec. 3, 1999\].”
 
  __Short Title__ 
 
-[Pub. L. 106–120, title VIII, § 801][/us/pl/106/120/s801], Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626], provided that: 
+[Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 801, Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626], provided that: 
 
 > “This title \[enacting this chapter and amending [section 1182 of Title 8][/us/usc/t8/s1182], Aliens and Nationality\] may be cited as the ‘Foreign Narcotics Kingpin Designation Act’.”
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/106/120/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs802
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/106/120/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs811
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1636
-[/us/pl/106/120/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs801
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1626
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 

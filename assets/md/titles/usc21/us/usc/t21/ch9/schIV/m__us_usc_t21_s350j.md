@@ -123,7 +123,7 @@
 
         For purposes of this section, the term “facility” means a domestic facility or a foreign facility that is required to register under [section 350d of this title][/us/usc/t21/s350d].
 
-([June 25, 1938, ch. 675, § 421][/us/act/1938-06-25/ch675/s421], as added [Pub. L. 111–353, title II, § 201(a)][/us/pl/111/353/s201/a], Jan. 4, 2011, [124 Stat. 3923][/us/stat/124/3923].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 421, as added [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 201(a), Jan. 4, 2011, [124 Stat. 3923][/us/stat/124/3923].)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 
  __Advisory Committee Consultation__ 
 
-[Pub. L. 111–353, title II, § 201(c)][/us/pl/111/353/s201/c], Jan. 4, 2011, [124 Stat. 3926][/us/stat/124/3926], provided that: 
+[Pub. L. 111–353, title II][/us/pl/111/353/tII], § 201(c), Jan. 4, 2011, [124 Stat. 3926][/us/stat/124/3926], provided that: 
 
 > “In allocating inspection resources as described in section 421 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 450j][/us/usc/t21/s450j]\] (as added by subsection (a)), the Secretary may, as appropriate, consult with any relevant advisory committee within the Department of Health and Human Services.”
 
@@ -152,12 +152,12 @@
 [/us/usc/t21/s381/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fh%2F1
 [/us/usc/t21/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
-[/us/act/1938-06-25/ch675/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs421
-[/us/pl/111/353/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs201%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3923
 [/us/pl/108/282/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs203
 [/us/stat/118/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F906
-[/us/pl/111/353/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs201%2Fc
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3926
 [/us/usc/t21/s450j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs450j
 

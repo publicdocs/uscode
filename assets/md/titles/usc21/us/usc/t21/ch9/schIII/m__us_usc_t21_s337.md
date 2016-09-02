@@ -33,7 +33,7 @@
 
             In any court proceeding described in subparagraph (C), a State may intervene as a matter of right.
 
-([June 25, 1938, ch. 675, § 310][/us/act/1938-06-25/ch675/s310], formerly § 307, [52 Stat. 1046][/us/stat/52/1046]; [Sept. 3, 1954, ch. 1263, § 37][/us/act/1954-09-03/ch1263/s37], [68 Stat. 1239][/us/stat/68/1239]; [Pub. L. 101–535, § 4][/us/pl/101/535/s4], Nov. 8, 1990, [104 Stat. 2362][/us/stat/104/2362]; renumbered § 310, [Pub. L. 102–282, § 2][/us/pl/102/282/s2], May 13, 1992, [106 Stat. 150][/us/stat/106/150].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 310, formerly § 307, [52 Stat. 1046][/us/stat/52/1046]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 37, [68 Stat. 1239][/us/stat/68/1239]; [Pub. L. 101–535][/us/pl/101/535], § 4, Nov. 8, 1990, [104 Stat. 2362][/us/stat/104/2362]; renumbered § 310, [Pub. L. 102–282][/us/pl/102/282], § 2, May 13, 1992, [106 Stat. 150][/us/stat/106/150].)
 
  __Amendments__ 
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs310
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1046
-[/us/act/1954-09-03/ch1263/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs37
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1239
-[/us/pl/101/535/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535%2Fs4
+[/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
 [/us/stat/104/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2362
-[/us/pl/102/282/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs2
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F150
 [/us/pl/101/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F535
 [/us/usc/t28/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs654

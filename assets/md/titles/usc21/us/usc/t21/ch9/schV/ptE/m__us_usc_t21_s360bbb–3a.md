@@ -115,7 +115,7 @@
 
             (B) by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.
 
-([June 25, 1938, ch. 675, § 564A][/us/act/1938-06-25/ch675/s564A], as added [Pub. L. 113–5, title III, § 302(b)][/us/pl/113/5/s302/b], Mar. 13, 2013, [127 Stat. 183][/us/stat/127/183].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 564A, as added [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 302(b), Mar. 13, 2013, [127 Stat. 183][/us/stat/127/183].)
 
  __References in Text__ 
 
@@ -139,8 +139,8 @@
 [/us/usc/t21/s360bbb–3/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933%2Fa%2F2%2FA
 [/us/usc/t21/s360bbb–3/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%933%2Fa%2F2%2FA
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1938-06-25/ch675/s564A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs564A
-[/us/pl/113/5/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs302%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F183
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

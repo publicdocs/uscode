@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated each fiscal year such sums as are necessary to carry out this section.
 
-([June 25, 1938, ch. 675, § 711][/us/act/1938-06-25/ch675/s711], formerly § 712, as added [Pub. L. 101–635, title IV, § 401][/us/pl/101/635/s401], Nov. 28, 1990, [104 Stat. 4585][/us/stat/104/4585]; renumbered § 711, [Pub. L. 102–571, title I, § 106(3)][/us/pl/102/571/s106/3], Oct. 29, 1992, [106 Stat. 4498][/us/stat/106/4498].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 711, formerly § 712, as added [Pub. L. 101–635, title IV][/us/pl/101/635/tIV], § 401, Nov. 28, 1990, [104 Stat. 4585][/us/stat/104/4585]; renumbered § 711, [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 106(3), Oct. 29, 1992, [106 Stat. 4498][/us/stat/106/4498].)
 
  __Prior Provisions__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs711
-[/us/pl/101/635/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F635%2Fs401
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/101/635/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F635%2FtIV
 [/us/stat/104/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4585
-[/us/pl/102/571/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs106%2F3
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4498
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/usc/t21/s379f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379f

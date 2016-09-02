@@ -95,7 +95,7 @@
 
             (D) other State and local activities and needs as determined appropriate by the Secretary.
 
-([Pub. L. 111–353, title II, § 205][/us/pl/111/353/s205], Jan. 4, 2011, [124 Stat. 3937][/us/stat/124/3937].)
+([Pub. L. 111–353, title II][/us/pl/111/353/tII], § 205, Jan. 4, 2011, [124 Stat. 3937][/us/stat/124/3937].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 ----------
 
 [/us/usc/t21/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2202
-[/us/pl/111/353/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs205
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3937
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885

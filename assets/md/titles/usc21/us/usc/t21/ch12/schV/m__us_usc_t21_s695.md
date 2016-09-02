@@ -17,7 +17,7 @@
 
     The cost of inspection rendered on and after July 1, 1948, under the requirements of laws relating to Federal inspection of meat and meat food products shall be borne by the United States except the cost of overtime and holiday pay paid pursuant to [section 2219a of title 7][/us/usc/t7/s2219a].
 
-([June 5, 1948, ch. 423][/us/act/1948-06-05/ch423], [62 Stat. 344][/us/stat/62/344]; [Pub. L. 107–171, title X, § 10703(c)(2)][/us/pl/107/171/s10703/c/2], May 13, 2002, [116 Stat. 517][/us/stat/116/517].)
+([June 5, 1948, ch. 423][/us/act/1948-06-05/ch423], [62 Stat. 344][/us/stat/62/344]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10703(c)(2), May 13, 2002, [116 Stat. 517][/us/stat/116/517].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t7/s2219a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2219a
 [/us/act/1948-06-05/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-05%2Fch423
 [/us/stat/62/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F344
-[/us/pl/107/171/s10703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10703%2Fc%2F2
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F517
 [/us/usc/t7/s2219a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2219a
 [/us/pl/107/171/s10703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10703

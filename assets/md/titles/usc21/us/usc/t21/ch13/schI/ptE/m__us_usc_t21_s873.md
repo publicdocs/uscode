@@ -71,7 +71,7 @@
 
         (3) To carry out this subsection there is authorized to be appropriated $6,000,000 for fiscal year 1985 and $6,000,000 for fiscal year 1986.
 
-([Pub. L. 91–513, title II, § 503][/us/pl/91/513/s503], Oct. 27, 1970, [84 Stat. 1271][/us/stat/84/1271]; [Pub. L. 96–359, § 8(a)][/us/pl/96/359/s8/a] Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194]; [Pub. L. 98–473, title II, § 517][/us/pl/98/473/s517], Oct. 12, 1984, [98 Stat. 2074][/us/stat/98/2074]; [Pub. L. 99–570, title I, § 1868][/us/pl/99/570/s1868], Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646, § 85][/us/pl/99/646/s85], Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620]; [Pub. L. 111–211, title II, § 232(c)][/us/pl/111/211/s232/c], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 503, Oct. 27, 1970, [84 Stat. 1271][/us/stat/84/1271]; [Pub. L. 96–359][/us/pl/96/359], § 8(a) Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 517, Oct. 12, 1984, [98 Stat. 2074][/us/stat/98/2074]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1868, Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646][/us/pl/99/646], § 85, Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 232(c), July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
 
  __References in Text__ 
 
@@ -81,27 +81,27 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 232(c)(1)(A)][/us/pl/111/211/s232/c/1/A], inserted “tribal,” after “State,” wherever appearing in introductory provisions and pars. (3) and (4).
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 232(c)(1)(A), inserted “tribal,” after “State,” wherever appearing in introductory provisions and pars. (3) and (4).
 
-    Subsec. (a)(6), (7). [Pub. L. 111–211, § 232(c)(1)(B)][/us/pl/111/211/s232/c/1/B], inserted “, tribal,” after “State” wherever appearing.
+    Subsec. (a)(6), (7). [Pub. L. 111–211][/us/pl/111/211], § 232(c)(1)(B), inserted “, tribal,” after “State” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 111–211, § 232(c)(2)][/us/pl/111/211/s232/c/2], inserted “, tribal,” after “State” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 111–211][/us/pl/111/211], § 232(c)(2), inserted “, tribal,” after “State” in introductory provisions.
 
     1986—Subsec. (a)(7). [Pub. L. 99–570][/us/pl/99/570] and [Pub. L. 99–646][/us/pl/99/646] made substantially identical amendment, adding par. (7).
 
-    1984—Subsec. (a)(6). [Pub. L. 98–473, § 517(a)][/us/pl/98/473/s517/a], added par. (6).
+    1984—Subsec. (a)(6). [Pub. L. 98–473][/us/pl/98/473], § 517(a), added par. (6).
 
-    Subsec. (d). [Pub. L. 98–473, § 517(b)][/us/pl/98/473/s517/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–473][/us/pl/98/473], § 517(b), added subsec. (d).
 
     1980—Subsec. (c). [Pub. L. 96–359][/us/pl/96/359] added subsec. (c).
 
  __Annual Report on Counterdrug Intelligence Matters__ 
 
-    [Pub. L. 107–306, title VIII, § 826][/us/pl/107/306/s826], Nov. 27, 2002, [116 Stat. 2429][/us/stat/116/2429], which required the Counterdrug Intelligence Coordinating Group to submit to certain committees of Congress an annual report on counterdrug intelligence matters, was repealed by [Pub. L. 111–259, title III, § 347(g)][/us/pl/111/259/s347/g], Oct. 7, 2010, [124 Stat. 2699][/us/stat/124/2699].
+    [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 826, Nov. 27, 2002, [116 Stat. 2429][/us/stat/116/2429], which required the Counterdrug Intelligence Coordinating Group to submit to certain committees of Congress an annual report on counterdrug intelligence matters, was repealed by [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 347(g), Oct. 7, 2010, [124 Stat. 2699][/us/stat/124/2699].
 
  __Combating Amphetamine and Methamphetamine Manufacturing and Trafficking__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3625][/us/pl/106/310/s3625], Oct. 17, 2000, [114 Stat. 1233][/us/stat/114/1233], provided that:
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3625, Oct. 17, 2000, [114 Stat. 1233][/us/stat/114/1233], provided that:
 
 >     “(a)  __Activities__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __National Drug Intelligence Center__ 
 
-[Pub. L. 108–487, title I, § 104(e)][/us/pl/108/487/s104/e], Dec. 23, 2004, [118 Stat. 3942][/us/stat/118/3942], provided that:
+[Pub. L. 108–487, title I][/us/pl/108/487/tI], § 104(e), Dec. 23, 2004, [118 Stat. 3942][/us/stat/118/3942], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -161,29 +161,29 @@
 
 Similar provisions were contained in the following prior authorization acts:
 
-    [Pub. L. 108–177, title I, § 104(e)][/us/pl/108/177/s104/e], Dec. 13, 2003, [117 Stat. 2602][/us/stat/117/2602].
+    [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 104(e), Dec. 13, 2003, [117 Stat. 2602][/us/stat/117/2602].
 
-    [Pub. L. 107–306, title I, § 104(e)][/us/pl/107/306/s104/e], Nov. 27, 2002, [116 Stat. 2387][/us/stat/116/2387].
+    [Pub. L. 107–306, title I][/us/pl/107/306/tI], § 104(e), Nov. 27, 2002, [116 Stat. 2387][/us/stat/116/2387].
 
-    [Pub. L. 107–108, title I, § 104(e)][/us/pl/107/108/s104/e], Dec. 28, 2001, [115 Stat. 1396][/us/stat/115/1396].
+    [Pub. L. 107–108, title I][/us/pl/107/108/tI], § 104(e), Dec. 28, 2001, [115 Stat. 1396][/us/stat/115/1396].
 
-    [Pub. L. 106–567, title I, § 104(e)][/us/pl/106/567/s104/e], Dec. 27, 2000, [114 Stat. 2834][/us/stat/114/2834].
+    [Pub. L. 106–567, title I][/us/pl/106/567/tI], § 104(e), Dec. 27, 2000, [114 Stat. 2834][/us/stat/114/2834].
 
-    [Pub. L. 106–120, title I, § 104(e)][/us/pl/106/120/s104/e], Dec. 3, 1999, [113 Stat. 1609][/us/stat/113/1609].
+    [Pub. L. 106–120, title I][/us/pl/106/120/tI], § 104(e), Dec. 3, 1999, [113 Stat. 1609][/us/stat/113/1609].
 
-    [Pub. L. 105–272, title I, § 104(e)][/us/pl/105/272/s104/e], Oct. 20, 1998, [112 Stat. 2398][/us/stat/112/2398].
+    [Pub. L. 105–272, title I][/us/pl/105/272/tI], § 104(e), Oct. 20, 1998, [112 Stat. 2398][/us/stat/112/2398].
 
-    [Pub. L. 105–107, title I, § 104(e)][/us/pl/105/107/s104/e], Nov. 20, 1997, [111 Stat. 2250][/us/stat/111/2250].
+    [Pub. L. 105–107, title I][/us/pl/105/107/tI], § 104(e), Nov. 20, 1997, [111 Stat. 2250][/us/stat/111/2250].
 
-    [Pub. L. 104–293, title I, § 104(d)][/us/pl/104/293/s104/d], Oct. 11, 1996, [110 Stat. 3464][/us/stat/110/3464].
+    [Pub. L. 104–293, title I][/us/pl/104/293/tI], § 104(d), Oct. 11, 1996, [110 Stat. 3464][/us/stat/110/3464].
 
-[Pub. L. 103–139, title VIII, § 8056][/us/pl/103/139/s8056], Nov. 11, 1993, [107 Stat. 1452][/us/stat/107/1452], provided that: 
+[Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8056, Nov. 11, 1993, [107 Stat. 1452][/us/stat/107/1452], provided that: 
 
 > “During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: Provided, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 102–396, title IX, § 9078][/us/pl/102/396/s9078], Oct. 6, 1992, [106 Stat. 1919][/us/stat/106/1919].
+    [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9078, Oct. 6, 1992, [106 Stat. 1919][/us/stat/106/1919].
 
 ----------
 
@@ -192,17 +192,17 @@ Similar provisions were contained in the following prior authorization acts:
 ----------
 ----------
 
-[/us/pl/91/513/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs503
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1271
-[/us/pl/96/359/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fa
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1194
-[/us/pl/98/473/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs517
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2074
-[/us/pl/99/570/s1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1868
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-55
-[/us/pl/99/646/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs85
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3620
-[/us/pl/111/211/s232/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fc
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2278
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
@@ -211,46 +211,46 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/111/211/s232/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fc%2F1%2FA
-[/us/pl/111/211/s232/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fc%2F1%2FB
-[/us/pl/111/211/s232/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fc%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/98/473/s517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs517%2Fa
-[/us/pl/98/473/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs517%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
-[/us/pl/107/306/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs826
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2429
-[/us/pl/111/259/s347/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fg
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2699
-[/us/pl/106/310/s3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3625
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1233
 [/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/108/487/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs104%2Fe
+[/us/pl/108/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtI
 [/us/stat/118/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3942
 [/us/stat/118/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3941
 [/us/usc/t50/s403–3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fd%2F1
 [/us/usc/t50/s3025/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3025%2Fd%2F1
-[/us/pl/108/177/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs104%2Fe
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2602
-[/us/pl/107/306/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs104%2Fe
+[/us/pl/107/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtI
 [/us/stat/116/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2387
-[/us/pl/107/108/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs104%2Fe
+[/us/pl/107/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtI
 [/us/stat/115/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1396
-[/us/pl/106/567/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs104%2Fe
+[/us/pl/106/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtI
 [/us/stat/114/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2834
-[/us/pl/106/120/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs104%2Fe
+[/us/pl/106/120/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtI
 [/us/stat/113/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1609
-[/us/pl/105/272/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs104%2Fe
+[/us/pl/105/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtI
 [/us/stat/112/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2398
-[/us/pl/105/107/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs104%2Fe
+[/us/pl/105/107/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtI
 [/us/stat/111/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2250
-[/us/pl/104/293/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs104%2Fd
+[/us/pl/104/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtI
 [/us/stat/110/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3464
-[/us/pl/103/139/s8056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8056
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1452
-[/us/pl/102/396/s9078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9078
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1919
 
 

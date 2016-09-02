@@ -71,7 +71,7 @@
 
         At least 180 days prior to the submission of each report under subsection (a), the Secretary shall consult with representatives of patient groups (including pediatric patient groups), consumer groups, regulated industry, academia, and other interested parties to obtain any recommendations or information relevant to the report including suggestions for modifications that would improve pediatric drug research and pediatric labeling of drugs and biological products.
 
-([Pub. L. 112–144, title V, § 508][/us/pl/112/144/s508], July 9, 2012, [126 Stat. 1045][/us/stat/126/1045].)
+([Pub. L. 112–144, title V][/us/pl/112/144/tV], § 508, July 9, 2012, [126 Stat. 1045][/us/stat/126/1045].)
 
  __Codification__ 
 
@@ -96,7 +96,7 @@
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a
 [/us/usc/t42/s284m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284m
 [/us/usc/t42/s284m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284m
-[/us/pl/112/144/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs508
+[/us/pl/112/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtV
 [/us/stat/126/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1045
 [/us/pl/112/144/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs503
 [/us/usc/t21/s355a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a

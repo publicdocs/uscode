@@ -93,7 +93,7 @@
 
             Amounts deposited in the Fund are authorized to be appropriated, to remain available until expended for authorized purposes at the discretion of the Director.
 
-([Pub. L. 105–277, div. C, title VII, § 703][/us/pl/105/277/s703], Oct. 21, 1998, [112 Stat. 2681–672][/us/stat/112/2681-672]; [Pub. L. 109–469, title I, § 102][/us/pl/109/469/s102], title XI, § 1120, Dec. 29, 2006, [120 Stat. 3505][/us/stat/120/3505], 3548.)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 703, Oct. 21, 1998, [112 Stat. 2681–672][/us/stat/112/2681-672]; [Pub. L. 109–469, title I][/us/pl/109/469/tI], § 102, title XI, § 1120, Dec. 29, 2006, [120 Stat. 3505][/us/stat/120/3505], 3548.)
 
  __Repeal of Section__ 
 
@@ -101,71 +101,71 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
+    This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
 
     [Section 1701(1) of this title][/us/usc/t21/s1701/1], referred to in subsec. (b)(3)(C), was in the original “section 702(l)”, and was translated as reading “section 702(1)”, meaning [section 702(1) of Pub. L. 105–277][/us/pl/105/277/s702/1], to reflect the probable intent of Congress, because [section 702 of Pub. L. 105–277][/us/pl/105/277/s702] does not contain a subsec. (l).
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–469, § 1120][/us/pl/109/469/s1120], inserted concluding provisions.
+    2006—Subsec. (a). [Pub. L. 109–469][/us/pl/109/469], § 1120, inserted concluding provisions.
 
-    [Pub. L. 109–469, § 102(a)][/us/pl/109/469/s102/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
+    [Pub. L. 109–469][/us/pl/109/469], § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
 
-    Subsec. (b). [Pub. L. 109–469, § 102(b)][/us/pl/109/469/s102/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
+    Subsec. (b). [Pub. L. 109–469][/us/pl/109/469], § 102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
 
  __Gifts to Office of National Drug Control Policy__ 
 
-[Pub. L. 114–113, div. E, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2436][/us/stat/129/2436], provided in part: 
+[Pub. L. 114–113, div. E, title II][/us/pl/114/113/dE/tII], Dec. 18, 2015, [129 Stat. 2436][/us/stat/129/2436], provided in part: 
 
 > “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. E, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2344][/us/stat/128/2344].
+    [Pub. L. 113–235, div. E, title II][/us/pl/113/235/dE/tII], Dec. 16, 2014, [128 Stat. 2344][/us/stat/128/2344].
 
-    [Pub. L. 113–76, div. E, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 195][/us/stat/128/195].
+    [Pub. L. 113–76, div. E, title II][/us/pl/113/76/dE/tII], Jan. 17, 2014, [128 Stat. 195][/us/stat/128/195].
 
-    [Pub. L. 112–74, div. C, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 895][/us/stat/125/895].
+    [Pub. L. 112–74, div. C, title II][/us/pl/112/74/dC/tII], Dec. 23, 2011, [125 Stat. 895][/us/stat/125/895].
 
-    [Pub. L. 111–117, div. C, title II][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3170][/us/stat/123/3170].
+    [Pub. L. 111–117, div. C, title II][/us/pl/111/117/dC/tII], Dec. 16, 2009, [123 Stat. 3170][/us/stat/123/3170].
 
-    [Pub. L. 111–8, div. D, title II][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 641][/us/stat/123/641].
+    [Pub. L. 111–8, div. D, title II][/us/pl/111/8/dD/tII], Mar. 11, 2009, [123 Stat. 641][/us/stat/123/641].
 
-    [Pub. L. 110–161, div. D, title II][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1983][/us/stat/121/1983].
+    [Pub. L. 110–161, div. D, title II][/us/pl/110/161/dD/tII], Dec. 26, 2007, [121 Stat. 1983][/us/stat/121/1983].
 
-    [Pub. L. 109–115, div. A, title V][/us/pl/109/115], Nov. 30, 2005, [119 Stat. 2475][/us/stat/119/2475].
+    [Pub. L. 109–115, div. A, title V][/us/pl/109/115/dA/tV], Nov. 30, 2005, [119 Stat. 2475][/us/stat/119/2475].
 
-    [Pub. L. 108–447, div. H, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3249][/us/stat/118/3249].
+    [Pub. L. 108–447, div. H, title III][/us/pl/108/447/dH/tIII], Dec. 8, 2004, [118 Stat. 3249][/us/stat/118/3249].
 
-    [Pub. L. 108–199, div. F, title III][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 324][/us/stat/118/324].
+    [Pub. L. 108–199, div. F, title III][/us/pl/108/199/dF/tIII], Jan. 23, 2004, [118 Stat. 324][/us/stat/118/324].
 
-    [Pub. L. 108–7, div. J, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 446][/us/stat/117/446].
+    [Pub. L. 108–7, div. J, title III][/us/pl/108/7/dJ/tIII], Feb. 20, 2003, [117 Stat. 446][/us/stat/117/446].
 
-    [Pub. L. 107–67, title III][/us/pl/107/67], Nov. 12, 2001, [115 Stat. 530][/us/stat/115/530].
+    [Pub. L. 107–67, title III][/us/pl/107/67/tIII], Nov. 12, 2001, [115 Stat. 530][/us/stat/115/530].
 
-    [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title III\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–139.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title III\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–139.
 
-    [Pub. L. 106–58, title III][/us/pl/106/58], Sept. 29, 1999, [113 Stat. 447][/us/stat/113/447].
+    [Pub. L. 106–58, title III][/us/pl/106/58/tIII], Sept. 29, 1999, [113 Stat. 447][/us/stat/113/447].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title III\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–496.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title III\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–496.
 
-    [Pub. L. 105–61, title III][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1293][/us/stat/111/1293].
+    [Pub. L. 105–61, title III][/us/pl/105/61/tIII], Oct. 10, 1997, [111 Stat. 1293][/us/stat/111/1293].
 
-    [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title III\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–329.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title III\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–329.
 
-    [Pub. L. 104–52, title III][/us/pl/104/52], Nov. 19, 1995, [109 Stat. 479][/us/stat/109/479].
+    [Pub. L. 104–52, title III][/us/pl/104/52/tIII], Nov. 19, 1995, [109 Stat. 479][/us/stat/109/479].
 
-    [Pub. L. 103–329, title III][/us/pl/103/329], Sept. 30, 1994, [108 Stat. 2394][/us/stat/108/2394].
+    [Pub. L. 103–329, title III][/us/pl/103/329/tIII], Sept. 30, 1994, [108 Stat. 2394][/us/stat/108/2394].
 
-    [Pub. L. 103–123, title III][/us/pl/103/123], Oct. 28, 1993, [107 Stat. 1237][/us/stat/107/1237].
+    [Pub. L. 103–123, title III][/us/pl/103/123/tIII], Oct. 28, 1993, [107 Stat. 1237][/us/stat/107/1237].
 
-    [Pub. L. 102–393, title III][/us/pl/102/393], Oct. 6, 1992, [106 Stat. 1741][/us/stat/106/1741].
+    [Pub. L. 102–393, title III][/us/pl/102/393/tIII], Oct. 6, 1992, [106 Stat. 1741][/us/stat/106/1741].
 
-    [Pub. L. 102–141, title III][/us/pl/102/141], Oct. 28, 1991, [105 Stat. 847][/us/stat/105/847].
+    [Pub. L. 102–141, title III][/us/pl/102/141/tIII], Oct. 28, 1991, [105 Stat. 847][/us/stat/105/847].
 
-    [Pub. L. 101–509, title III][/us/pl/101/509], Nov. 5, 1990, [104 Stat. 1402][/us/stat/104/1402].
+    [Pub. L. 101–509, title III][/us/pl/101/509/tIII], Nov. 5, 1990, [104 Stat. 1402][/us/stat/104/1402].
 
-    [Pub. L. 101–136, title III][/us/pl/101/136], Nov. 3, 1989, [103 Stat. 793][/us/stat/103/793].
+    [Pub. L. 101–136, title III][/us/pl/101/136/tIII], Nov. 3, 1989, [103 Stat. 793][/us/stat/103/793].
 
  __Ex. Ord. No. 12911. Seal for Office of National Drug Control Policy__ 
 
@@ -196,67 +196,67 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t21/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1706
 [/us/usc/t21/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1707
 [/us/usc/t21/s1703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1703%2Fc
-[/us/pl/105/277/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs703
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-672
-[/us/pl/109/469/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs102
+[/us/pl/109/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtI
 [/us/stat/120/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3505
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-670
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 [/us/usc/t21/s1701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701%2F1
 [/us/pl/105/277/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs702%2F1
 [/us/pl/105/277/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs702
-[/us/pl/109/469/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1120
-[/us/pl/109/469/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs102%2Fa
-[/us/pl/109/469/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs102%2Fb
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/114/113/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtII
 [/us/stat/129/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2436
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtII
 [/us/stat/128/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2344
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtII
 [/us/stat/128/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F195
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtII
 [/us/stat/125/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F895
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtII
 [/us/stat/123/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3170
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtII
 [/us/stat/123/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F641
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtII
 [/us/stat/121/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1983
-[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtV
 [/us/stat/119/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2475
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtIII
 [/us/stat/118/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3249
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtIII
 [/us/stat/118/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F324
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dJ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtIII
 [/us/stat/117/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F446
-[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtIII
 [/us/stat/115/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F530
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
+[/us/pl/106/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtIII
 [/us/stat/113/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F447
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtIII
 [/us/stat/111/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1293
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtIII
 [/us/stat/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F479
-[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtIII
 [/us/stat/108/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2394
-[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtIII
 [/us/stat/107/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1237
-[/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
+[/us/pl/102/393/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtIII
 [/us/stat/106/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1741
-[/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
+[/us/pl/102/141/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtIII
 [/us/stat/105/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F847
-[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtIII
 [/us/stat/104/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1402
-[/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
+[/us/pl/101/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtIII
 [/us/stat/103/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F793
 
 

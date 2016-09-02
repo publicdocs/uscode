@@ -23,7 +23,7 @@
 
         The detainer authority conferred by [section 467a of this title][/us/usc/t21/s467a] shall apply to any authorized representative of the Secretary of Health and Human Services for purposes of the enforcement of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\] with respect to any poultry carcass, or part or product thereof, that is outside any official establishment, and for such purposes the first reference to the Secretary in [section 467a of this title][/us/usc/t21/s467a] shall be deemed to refer to the Secretary of Health and Human Services.
 
-([Pub. L. 85–172, § 24][/us/pl/85/172/s24], as added [Pub. L. 90–492, § 17][/us/pl/90/492/s17], Aug. 18, 1968, [82 Stat. 807][/us/stat/82/807]; amended [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 85–172][/us/pl/85/172], § 24, as added [Pub. L. 90–492][/us/pl/90/492], § 17, Aug. 18, 1968, [82 Stat. 807][/us/stat/82/807]; amended [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -44,10 +44,10 @@
 [/us/usc/t21/s467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs467a
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs467a
-[/us/pl/85/172/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs24
-[/us/pl/90/492/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs17
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F807
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

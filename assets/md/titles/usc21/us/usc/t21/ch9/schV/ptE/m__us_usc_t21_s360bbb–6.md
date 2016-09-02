@@ -47,7 +47,7 @@
 
             (B) include the use of existing communication channels, including electronic communications, in place at the Food and Drug Administration.
 
-([June 25, 1938, ch. 675, § 567][/us/act/1938-06-25/ch675/s567], as added [Pub. L. 110–85, title IX, § 917][/us/pl/110/85/s917], Sept. 27, 2007, [121 Stat. 960][/us/stat/121/960].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 567, as added [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 917, Sept. 27, 2007, [121 Stat. 960][/us/stat/121/960].)
 
  __References in Text__ 
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs567
-[/us/pl/110/85/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs917
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F960
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 

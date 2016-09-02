@@ -85,7 +85,7 @@
 
         whichever is less. The decision of the Secretary on such award shall not be reviewable.
 
-([June 25, 1938, ch. 675, § 307][/us/act/1938-06-25/ch675/s307], as added [Pub. L. 102–282, § 3][/us/pl/102/282/s3], May 13, 1992, [106 Stat. 159][/us/stat/106/159]; amended [Pub. L. 103–80, § 3(g)][/us/pl/103/80/s3/g], Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 307, as added [Pub. L. 102–282][/us/pl/102/282], § 3, May 13, 1992, [106 Stat. 159][/us/stat/106/159]; amended [Pub. L. 103–80][/us/pl/103/80], § 3(g), Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776].)
 
  __Prior Provisions__ 
 
@@ -108,10 +108,10 @@
 
 [/us/usc/t21/s335a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs335a
 [/us/usc/t21/s335a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs335a
-[/us/act/1938-06-25/ch675/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs307
-[/us/pl/102/282/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F159
-[/us/pl/103/80/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fg
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F776
 [/us/usc/t21/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs337
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80

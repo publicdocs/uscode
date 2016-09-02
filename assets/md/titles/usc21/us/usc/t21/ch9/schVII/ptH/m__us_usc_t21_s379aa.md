@@ -155,7 +155,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-([June 25, 1938, ch. 675, § 760][/us/act/1938-06-25/ch675/s760], as added [Pub. L. 109–462, § 2(a)][/us/pl/109/462/s2/a], Dec. 22, 2006, [120 Stat. 3469][/us/stat/120/3469].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 760, as added [Pub. L. 109–462][/us/pl/109/462], § 2(a), Dec. 22, 2006, [120 Stat. 3469][/us/stat/120/3469].)
 
  __Effective Date__ 
 
@@ -163,17 +163,17 @@
 
  __Modifications__ 
 
-[Pub. L. 109–462, § 2(b)][/us/pl/109/462/s2/b], Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], provided that: 
+[Pub. L. 109–462][/us/pl/109/462], § 2(b), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], provided that: 
 
 > “The Secretary of Health and Human Services may modify requirements under the amendments made by this section \[enacting this section and amending sections 331 and 352 of this title\] in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, to maintain consistency with international harmonization efforts over time.”
 
  __Guidance__ 
 
-[Pub. L. 109–462, § 2(e)(3)][/us/pl/109/462/s2/e/3], Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], provided that: 
+[Pub. L. 109–462][/us/pl/109/462], § 2(e)(3), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], provided that: 
 
 > “Not later than 270 days after the date of enactment of this Act \[Dec. 22, 2006\], the Secretary of Health and Human Services shall issue guidance on the minimum data elements that should be included in a serious adverse event report described under the amendments made by this Act \[see Short Title of 2006 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\].”
 
-    [Pub. L. 109–462, § 3(d)(3)][/us/pl/109/462/s3/d/3], Dec. 22, 2006, [120 Stat. 3475][/us/stat/120/3475], enacted provisions substantially identical to those enacted by [Pub. L. 109–462, § 2(b)][/us/pl/109/462/s2/b], set out above.
+    [Pub. L. 109–462][/us/pl/109/462], § 3(d)(3), Dec. 22, 2006, [120 Stat. 3475][/us/stat/120/3475], enacted provisions substantially identical to those enacted by [Pub. L. 109–462][/us/pl/109/462], § 2(b), set out above.
 
 ----------
 
@@ -191,19 +191,19 @@
 [/us/usc/t21/s379v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379v
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t21/s379v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379v
-[/us/act/1938-06-25/ch675/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs760
-[/us/pl/109/462/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3469
 [/us/pl/109/462/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs2%2Fe%2F1
 [/us/usc/t21/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs352
-[/us/pl/109/462/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs2%2Fb
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3472
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/109/462/s2/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs2%2Fe%2F3
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3472
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/109/462/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs3%2Fd%2F3
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3475
-[/us/pl/109/462/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs2%2Fb
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 
 

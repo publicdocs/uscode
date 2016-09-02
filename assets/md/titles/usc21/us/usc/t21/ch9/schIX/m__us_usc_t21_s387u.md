@@ -39,7 +39,7 @@
 
         The Secretary of Health and Human Services and the Comptroller General of the United States, respectively, shall make the reports required under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be plural. </sup></sup>  (a) and (b) available to the public, including by posting such reports on the respective Internet websites of the Food and Drug Administration and the Government Accountability Office.
 
-([Pub. L. 111–31, div. A, title I, § 106][/us/pl/111/31/s106], June 22, 2009, [123 Stat. 1841][/us/stat/123/1841].)
+([Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 106, June 22, 2009, [123 Stat. 1841][/us/stat/123/1841].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t21/s387j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387j
 [/us/usc/t21/s387k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387k
-[/us/pl/111/31/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1841
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/stat/123/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1776

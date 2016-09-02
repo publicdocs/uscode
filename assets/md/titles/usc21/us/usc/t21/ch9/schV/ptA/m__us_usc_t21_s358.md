@@ -35,7 +35,7 @@
 
         Upon a request in writing by any compiler of an official compendium that the Secretary exercise the authority granted to him under subsection (a) of this section, he shall upon public notice and in accordance with the procedure set forth in [section 553 of title 5][/us/usc/t5/s553] designate the official name of the drug or device for which the request is made.
 
-([June 25, 1938, ch. 675, § 508][/us/act/1938-06-25/ch675/s508], as added [Pub. L. 87–781, title I, § 111(a)][/us/pl/87/781/s111/a], Oct. 10, 1962, [76 Stat. 789][/us/stat/76/789]; amended [Pub. L. 94–295, § 5(b)][/us/pl/94/295/s5/b], May 28, 1976, [90 Stat. 581][/us/stat/90/581]; [Pub. L. 103–80, § 3(q)][/us/pl/103/80/s3/q], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 508, as added [Pub. L. 87–781, title I][/us/pl/87/781/tI], § 111(a), Oct. 10, 1962, [76 Stat. 789][/us/stat/76/789]; amended [Pub. L. 94–295][/us/pl/94/295], § 5(b), May 28, 1976, [90 Stat. 581][/us/stat/90/581]; [Pub. L. 103–80][/us/pl/103/80], § 3(q), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–781, title I, § 111(b)][/us/pl/87/781/s111/b], Oct. 10, 1962, [76 Stat. 790][/us/stat/76/790], provided that: 
+[Pub. L. 87–781, title I][/us/pl/87/781/tI], § 111(b), Oct. 10, 1962, [76 Stat. 790][/us/stat/76/790], provided that: 
 
 > “This section \[enacting this section\] shall take effect on the date of its enactment \[Oct. 10, 1962\].”
 
@@ -68,12 +68,12 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/act/1938-06-25/ch675/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs508
-[/us/pl/87/781/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs111%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F789
-[/us/pl/94/295/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs5%2Fb
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F581
-[/us/pl/103/80/s3/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fq
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F777
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
@@ -84,7 +84,7 @@
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
-[/us/pl/87/781/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs111%2Fb
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F790
 
 

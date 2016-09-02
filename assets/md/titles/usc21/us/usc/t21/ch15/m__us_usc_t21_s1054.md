@@ -37,7 +37,7 @@
 
             (F) recommendations for legislation to improve such program.
 
-([Pub. L. 91–597, § 26][/us/pl/91/597/s26], Dec. 29, 1970, [84 Stat. 1634][/us/stat/84/1634]; [Pub. L. 103–437, § 8(4)][/us/pl/103/437/s8/4], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
+([Pub. L. 91–597][/us/pl/91/597], § 26, Dec. 29, 1970, [84 Stat. 1634][/us/stat/84/1634]; [Pub. L. 103–437][/us/pl/103/437], § 8(4), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t21/s1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1046
-[/us/pl/91/597/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs26
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1634
-[/us/pl/103/437/s8/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs8%2F4
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

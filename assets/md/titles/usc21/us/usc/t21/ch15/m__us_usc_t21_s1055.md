@@ -17,7 +17,7 @@
 
     Such sums as are necessary to carry out the provisions of this chapter are hereby authorized to be appropriated.
 
-([Pub. L. 91–597, § 27][/us/pl/91/597/s27], Dec. 29, 1970, [84 Stat. 1635][/us/stat/84/1635].)
+([Pub. L. 91–597][/us/pl/91/597], § 27, Dec. 29, 1970, [84 Stat. 1635][/us/stat/84/1635].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs27
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1635
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

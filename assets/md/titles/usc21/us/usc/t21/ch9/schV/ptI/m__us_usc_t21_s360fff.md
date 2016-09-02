@@ -65,11 +65,11 @@
 
     (10) the term “sunscreen active ingredient” means an active ingredient that is intended for application to the skin of humans for purposes of absorbing, reflecting, or scattering ultraviolet radiation.
 
-([June 25, 1938, ch. 675, § 586][/us/act/1938-06-25/ch675/s586], as added [Pub. L. 113–195, § 2(a)][/us/pl/113/195/s2/a], Nov. 26, 2014, [128 Stat. 2035][/us/stat/128/2035].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586, as added [Pub. L. 113–195][/us/pl/113/195], § 2(a), Nov. 26, 2014, [128 Stat. 2035][/us/stat/128/2035].)
 
  __Construction__ 
 
-[Pub. L. 113–195, § 2(b)][/us/pl/113/195/s2/b], Nov. 26, 2014, [128 Stat. 2045][/us/stat/128/2045], provided that: 
+[Pub. L. 113–195][/us/pl/113/195], § 2(b), Nov. 26, 2014, [128 Stat. 2045][/us/stat/128/2045], provided that: 
 
 > “Nothing in the amendment made by this section \[enacting this section and sections 360fff–1 to 360fff–5 of this title\] shall be construed to—
 
@@ -87,10 +87,10 @@
 [/us/usc/t21/s321/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fp
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
 [/us/usc/t21/s360fff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%931
-[/us/act/1938-06-25/ch675/s586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586
-[/us/pl/113/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2035
-[/us/pl/113/195/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fb
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2045
 [/us/usc/t21/s360fff/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%2F8
 

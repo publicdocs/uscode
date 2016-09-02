@@ -37,7 +37,7 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.
 
-([June 25, 1938, ch. 675, § 1005][/us/act/1938-06-25/ch675/s1005], formerly § 905, as added [Pub. L. 103–43, title XX, § 2006(2)][/us/pl/103/43/s2006/2], June 10, 1993, [107 Stat. 210][/us/stat/107/210]; renumbered § 1005, [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1005, formerly § 905, as added [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2006(2), June 10, 1993, [107 Stat. 210][/us/stat/107/210]; renumbered § 1005, [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
  __References in Text__ 
 
@@ -51,10 +51,10 @@
 ----------
 
 [/us/usc/t42/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254
-[/us/act/1938-06-25/ch675/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1005
-[/us/pl/103/43/s2006/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2006%2F2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F210
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

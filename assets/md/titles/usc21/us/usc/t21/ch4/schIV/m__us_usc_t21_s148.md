@@ -17,7 +17,7 @@
 
     Nothing in this subchapter is intended nor shall be construed to affect the powers of any State, or any political subdivision thereof, to regulate the shipment of milk or cream into, or the handling, sale, or other disposition of milk or cream in, such State or political subdivision after the milk and/or cream shall have been lawfully imported under the provisions of this subchapter.
 
-([Feb. 15, 1927, ch. 155, § 8][/us/act/1927-02-15/ch155/s8], [44 Stat. 1103][/us/stat/44/1103].)
+([Feb. 15, 1927, ch. 155][/us/act/1927-02-15/ch155], § 8, [44 Stat. 1103][/us/stat/44/1103].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-15/ch155/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155%2Fs8
+[/us/act/1927-02-15/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-15%2Fch155
 [/us/stat/44/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1103
 
 

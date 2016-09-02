@@ -59,7 +59,7 @@
 
         (3) [Section 552(a)(3) of title 5][/us/usc/t5/s552/a/3] shall not apply to any record or information obtained or created in the implementation of this chapter.
 
-([Pub. L. 106–120, title VIII, § 805][/us/pl/106/120/s805], Dec. 3, 1999, [113 Stat. 1629][/us/stat/113/1629]; [Pub. L. 107–108, title III, § 307][/us/pl/107/108/s307], Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 805, Dec. 3, 1999, [113 Stat. 1629][/us/stat/113/1629]; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 307, Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t21/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903
 [/us/usc/t21/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903
 [/us/usc/t5/s552/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F3
-[/us/pl/106/120/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs805
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1629
-[/us/pl/107/108/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs307
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1399
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/usc/t21/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903

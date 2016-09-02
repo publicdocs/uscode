@@ -35,7 +35,7 @@
 
         Except as provided in subsections (a) and (b), this section shall not be construed to exempt any food, other than alcoholic beverages, as defined in section 214  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Federal Alcohol Administration Act ([27 U.S.C. 214][/us/usc/t27/s214]), from the requirements of this Act (including the amendments made by this Act).
 
-([Pub. L. 111–353, title I, § 116][/us/pl/111/353/s116], Jan. 4, 2011, [124 Stat. 3922][/us/stat/124/3922].)
+([Pub. L. 111–353, title I][/us/pl/111/353/tI], § 116, Jan. 4, 2011, [124 Stat. 3922][/us/stat/124/3922].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t27/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs214
-[/us/pl/111/353/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs116
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3922
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885

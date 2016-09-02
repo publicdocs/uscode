@@ -57,25 +57,25 @@
 
         A manufacturer may request review under [section 360bbb–1 of this title][/us/usc/t21/s360bbb–1] of any order or condition requiring postmarket surveillance under this section. During the pendency of such review, the device subject to such a postmarket surveillance order or condition shall not, because of noncompliance with such order or condition, be deemed in violation of [section 331(q)(1)(C) of this title][/us/usc/t21/s331/q/1/C], adulterated under [section 351(f)(1) of this title][/us/usc/t21/s351/f/1], misbranded under [section 352(t)(3) of this title][/us/usc/t21/s352/t/3], or in violation of, as applicable, [section 360(k) of this title][/us/usc/t21/s360/k] or [section 360e of this title][/us/usc/t21/s360e], unless deemed necessary to protect the public health.
 
-([June 25, 1938, ch. 675, § 522][/us/act/1938-06-25/ch675/s522], as added [Pub. L. 101–629, § 10][/us/pl/101/629/s10], Nov. 28, 1990, [104 Stat. 4521][/us/stat/104/4521]; amended [Pub. L. 102–300, § 3(b)][/us/pl/102/300/s3/b], June 16, 1992, [106 Stat. 239][/us/stat/106/239]; [Pub. L. 105–115, title II, § 212][/us/pl/105/115/s212], Nov. 21, 1997, [111 Stat. 2346][/us/stat/111/2346]; [Pub. L. 110–85, title III, § 307][/us/pl/110/85/s307], Sept. 27, 2007, [121 Stat. 865][/us/stat/121/865]; [Pub. L. 112–144, title VI, § 616][/us/pl/112/144/s616], July 9, 2012, [126 Stat. 1062][/us/stat/126/1062].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 522, as added [Pub. L. 101–629][/us/pl/101/629], § 10, Nov. 28, 1990, [104 Stat. 4521][/us/stat/104/4521]; amended [Pub. L. 102–300][/us/pl/102/300], § 3(b), June 16, 1992, [106 Stat. 239][/us/stat/106/239]; [Pub. L. 105–115, title II][/us/pl/105/115/tII], § 212, Nov. 21, 1997, [111 Stat. 2346][/us/stat/111/2346]; [Pub. L. 110–85, title III][/us/pl/110/85/tIII], § 307, Sept. 27, 2007, [121 Stat. 865][/us/stat/121/865]; [Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 616, July 9, 2012, [126 Stat. 1062][/us/stat/126/1062].)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1)(A). [Pub. L. 112–144, § 616(1)][/us/pl/112/144/s616/1], inserted “, at the time of approval or clearance of a device or at any time thereafter,” after “by order” in introductory provisions.
+    2012—Subsec. (a)(1)(A). [Pub. L. 112–144][/us/pl/112/144], § 616(1), inserted “, at the time of approval or clearance of a device or at any time thereafter,” after “by order” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 112–144, § 616(2)][/us/pl/112/144/s616/2], inserted “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after “the public health.”
+    Subsec. (b)(1). [Pub. L. 112–144][/us/pl/112/144], § 616(2), inserted “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after “the public health.”
 
-    2007—[Pub. L. 110–85, § 307(1)][/us/pl/110/85/s307/1], made technical amendment to section catchline.
+    2007—[Pub. L. 110–85][/us/pl/110/85], § 307(1), made technical amendment to section catchline.
 
-    Subsec. (a). [Pub. L. 110–85, § 307(2)][/us/pl/110/85/s307/2], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
+    Subsec. (a). [Pub. L. 110–85][/us/pl/110/85], § 307(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
 
     “(1) implanted in the human body for more than one year, or
 
     “(2) a life sustaining or life supporting device used outside a device user facility.”
 
-    Subsec. (b). [Pub. L. 110–85, § 307(3)][/us/pl/110/85/s307/3], designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the Secretary, in consultation” for “The Secretary, in consultation” and “Except as provided in paragraph (2), any determination” for “Any determination”, and added par. (2).
+    Subsec. (b). [Pub. L. 110–85][/us/pl/110/85], § 307(3), designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the Secretary, in consultation” for “The Secretary, in consultation” and “Except as provided in paragraph (2), any determination” for “Any determination”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 110–85, § 307(3)(D)][/us/pl/110/85/s307/3/D], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–85][/us/pl/110/85], § 307(3)(D), added subsec. (c).
 
     1997—[Pub. L. 105–115][/us/pl/105/115] amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval.
 
@@ -83,11 +83,11 @@
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–115, title II, § 212][/us/pl/105/115/s212], Nov. 21, 1997, [111 Stat. 2346][/us/stat/111/2346], provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
+    [Pub. L. 105–115, title II][/us/pl/105/115/tII], § 212, Nov. 21, 1997, [111 Stat. 2346][/us/stat/111/2346], provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
 
  __Study by Institute of Medicine of Postmarket Surveillance Regarding Pediatric Populations__ 
 
-[Pub. L. 107–250, title II, § 212][/us/pl/107/250/s212], Oct. 26, 2002, [116 Stat. 1614][/us/stat/116/1614], as amended by [Pub. L. 108–214, § 2(d)(3)(C)][/us/pl/108/214/s2/d/3/C], Apr. 1, 2004, [118 Stat. 577][/us/stat/118/577], provided that:
+[Pub. L. 107–250, title II][/us/pl/107/250/tII], § 212, Oct. 26, 2002, [116 Stat. 1614][/us/stat/116/1614], as amended by [Pub. L. 108–214][/us/pl/108/214], § 2(d)(3)(C), Apr. 1, 2004, [118 Stat. 577][/us/stat/118/577], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -119,30 +119,30 @@
 [/us/usc/t21/s352/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs352%2Ft%2F3
 [/us/usc/t21/s360/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
-[/us/act/1938-06-25/ch675/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs522
-[/us/pl/101/629/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs10
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4521
-[/us/pl/102/300/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs3%2Fb
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F239
-[/us/pl/105/115/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs212
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2346
-[/us/pl/110/85/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs307
+[/us/pl/110/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIII
 [/us/stat/121/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F865
-[/us/pl/112/144/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs616
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1062
-[/us/pl/112/144/s616/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs616%2F1
-[/us/pl/112/144/s616/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs616%2F2
-[/us/pl/110/85/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs307%2F1
-[/us/pl/110/85/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs307%2F2
-[/us/pl/110/85/s307/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs307%2F3
-[/us/pl/110/85/s307/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs307%2F3%2FD
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/105/115/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs212
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2346
-[/us/pl/107/250/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs212
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1614
-[/us/pl/108/214/s2/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F3%2FC
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/stat/118/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F577
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 

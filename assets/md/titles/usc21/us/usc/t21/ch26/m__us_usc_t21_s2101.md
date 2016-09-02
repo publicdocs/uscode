@@ -47,7 +47,7 @@
 
     (5) the number of full-time equivalent Food and Drug Administration employees conducting inspections has decreased from 2003 to 2007.
 
-([Pub. L. 110–85, title X, § 1001][/us/pl/110/85/s1001], Sept. 27, 2007, [121 Stat. 962][/us/stat/121/962].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1001, Sept. 27, 2007, [121 Stat. 962][/us/stat/121/962].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1001
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F962
 
 

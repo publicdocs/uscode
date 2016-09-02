@@ -33,7 +33,7 @@
 
         (E) a description of any instances in which there was no testing that confirmed adulteration of an article of food that was the subject of a recall under section 350l(b) of this title or a public health advisory described in paragraph (1).
 
-([Pub. L. 111–353, title II, § 206(f)][/us/pl/111/353/s206/f], Jan. 4, 2011, [124 Stat. 3943][/us/stat/124/3943].)
+([Pub. L. 111–353, title II][/us/pl/111/353/tII], § 206(f), Jan. 4, 2011, [124 Stat. 3943][/us/stat/124/3943].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t21/s350f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350f
-[/us/pl/111/353/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs206%2Ff
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3943
 [/us/pl/111/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs206
 

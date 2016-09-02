@@ -23,7 +23,7 @@
 
     (3) In implementing the Convention on Psychotropic Substances, the Congress intends that, consistent with the obligations of the United States under the Convention, control of psychotropic substances in the United States should be accomplished within the framework of the procedures and criteria for classification of substances provided in the Comprehensive Drug Abuse Prevention and Control Act of 1970 \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\]. This will insure that (A) the availability of psychotropic substances to manufacturers, distributors, dispensers, and researchers for useful and legitimate medical and scientific purposes will not be unduly restricted; (B) nothing in the Convention will interfere with bona fide research activities; and (C) nothing in the Convention will interfere with ethical medical practice in this country as determined by the Secretary of Health and Human Services on the basis of a consensus of the views of the American medical and scientific community.
 
-([Pub. L. 95–633, title I, § 101][/us/pl/95/633/s101], Nov. 10, 1978, [92 Stat. 3768][/us/stat/92/3768]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 95–633, title I][/us/pl/95/633/tI], § 101, Nov. 10, 1978, [92 Stat. 3768][/us/stat/92/3768]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–633, title I, § 112][/us/pl/95/633/s112], Nov. 10, 1978, [92 Stat. 3774][/us/stat/92/3774], provided that: 
+[Pub. L. 95–633, title I][/us/pl/95/633/tI], § 112, Nov. 10, 1978, [92 Stat. 3774][/us/stat/92/3774], provided that: 
 
 > “This title \[enacting this section and [section 852 of this title][/us/usc/t21/s852], amending sections 352, 802, 811, 812, 823, 827, 872, 952, and 953 of this title and [section 242a of Title 42][/us/usc/t42/s242a], The Public Health and Welfare, and enacting provisions set out as notes under sections 801 and 812 of this title\] and the amendments made by this title shall take effect on the date the Convention on Psychotrop­ic Substances, signed at Vienna, Austria on February 21, 1971, enters into force in respect to the United States.”
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/95/633/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs101
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3768
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/stat/92/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2768
@@ -69,7 +69,7 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/95/633/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs112
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3774
 [/us/usc/t21/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs852
 [/us/usc/t42/s242a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242a

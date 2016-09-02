@@ -17,7 +17,7 @@
 
     If any person or persons violate the provisions of [section 16 of this title][/us/usc/t21/s16], either in person or through another, he shall be guilty of a misdemeanor and shall be punished by a fine of not less than $500 nor more than $2,000. The jurisdiction for the prosecution of said misdemeanor shall be within the district of the United States court in which it is committed.
 
-([July 1, 1902, ch. 1357, § 2][/us/act/1902-07-01/ch1357/s2], [32 Stat. 632][/us/stat/32/632].)
+([July 1, 1902, ch. 1357][/us/act/1902-07-01/ch1357], § 2, [32 Stat. 632][/us/stat/32/632].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t21/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs16
-[/us/act/1902-07-01/ch1357/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-01%2Fch1357%2Fs2
+[/us/act/1902-07-01/ch1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-01%2Fch1357
 [/us/stat/32/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F632
 
 

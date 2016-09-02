@@ -89,7 +89,7 @@
 
                 The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-([June 25, 1938, ch. 675, § 742][/us/act/1938-06-25/ch675/s742], as added [Pub. L. 110–316, title II, § 203][/us/pl/110/316/s203], Aug. 14, 2008, [122 Stat. 3522][/us/stat/122/3522]; amended [Pub. L. 113–14, title II, § 203][/us/pl/113/14/s203], June 13, 2013, [127 Stat. 472][/us/stat/127/472].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 742, as added [Pub. L. 110–316, title II][/us/pl/110/316/tII], § 203, Aug. 14, 2008, [122 Stat. 3522][/us/stat/122/3522]; amended [Pub. L. 113–14, title II][/us/pl/113/14/tII], § 203, June 13, 2013, [127 Stat. 472][/us/stat/127/472].)
 
  __Termination of Section__ 
 
@@ -113,11 +113,11 @@
 
  __Termination Date__ 
 
-[Pub. L. 113–14, title II, § 206(b)][/us/pl/113/14/s206/b], June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
+[Pub. L. 113–14, title II][/us/pl/113/14/tII], § 206(b), June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
 
 > “Section 742 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–22][/us/usc/t21/s379j–22]) shall cease to be effective January 31, 2019.”
 
-    [Pub. L. 110–316, title II, § 204(b)][/us/pl/110/316/s204/b], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524], which provided that the amendment made by [section 203 of Pub. L. 110–316][/us/pl/110/316/s203] (enacting this section) would cease to be effective Jan. 31, 2014, was repealed by [Pub. L. 113–14, title II, § 206(c)(1)][/us/pl/113/14/s206/c/1], June 13, 2013, [127 Stat. 474][/us/stat/127/474].
+    [Pub. L. 110–316, title II][/us/pl/110/316/tII], § 204(b), Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524], which provided that the amendment made by [section 203 of Pub. L. 110–316][/us/pl/110/316/s203] (enacting this section) would cease to be effective Jan. 31, 2014, was repealed by [Pub. L. 113–14, title II][/us/pl/113/14/tII], § 206(c)(1), June 13, 2013, [127 Stat. 474][/us/stat/127/474].
 
 ----------
 
@@ -126,10 +126,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs742
-[/us/pl/110/316/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs203
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtII
 [/us/stat/122/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3522
-[/us/pl/113/14/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs203
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F472
 [/us/pl/113/14/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fb
 [/us/pl/113/14/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs201%2Fb
@@ -138,13 +138,13 @@
 [/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
 [/us/pl/113/14/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs205
 [/us/usc/t21/s379j–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9321
-[/us/pl/113/14/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fb
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F474
 [/us/usc/t21/s379j–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9322
-[/us/pl/110/316/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs204%2Fb
+[/us/pl/110/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtII
 [/us/stat/122/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3524
 [/us/pl/110/316/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs203
-[/us/pl/113/14/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fc%2F1
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F474
 
 

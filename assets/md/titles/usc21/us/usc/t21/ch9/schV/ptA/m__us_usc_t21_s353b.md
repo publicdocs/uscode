@@ -281,11 +281,11 @@
 
         Payment of the fee under [section 379j–62 of this title][/us/usc/t21/s379j–62], as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
 
-([June 25, 1938, ch. 675, § 503B][/us/act/1938-06-25/ch675/s503B], as added [Pub. L. 113–54, title I, § 102(a)(2)][/us/pl/113/54/s102/a/2], Nov. 27, 2013, [127 Stat. 588][/us/stat/127/588].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 503B, as added [Pub. L. 113–54, title I][/us/pl/113/54/tI], § 102(a)(2), Nov. 27, 2013, [127 Stat. 588][/us/stat/127/588].)
 
  __Prior Provisions__ 
 
-    A prior section 503B of [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], was renumbered section 503C by [Pub. L. 113–54, § 102(a)(1)][/us/pl/113/54/s102/a/1], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], and transferred to [section 353c of this title][/us/usc/t21/s353c].
+    A prior section 503B of [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], was renumbered section 503C by [Pub. L. 113–54][/us/pl/113/54], § 102(a)(1), Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], and transferred to [section 353c of this title][/us/usc/t21/s353c].
 
 ----------
 
@@ -313,11 +313,11 @@
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s379j–62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9362
-[/us/act/1938-06-25/ch675/s503B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs503B
-[/us/pl/113/54/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2FtI
 [/us/stat/127/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F588
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
-[/us/pl/113/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F1
+[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
 [/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
 [/us/usc/t21/s353c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353c
 

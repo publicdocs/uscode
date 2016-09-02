@@ -67,7 +67,7 @@
 
         Not later than 24 months after June 22, 2009, the Secretary shall establish, and periodically revise as appropriate, a list of harmful and potentially harmful constituents, including smoke constituents, to health in each tobacco product by brand and by quantity in each brand and subbrand. The Secretary shall publish a public notice requesting the submission by interested persons of scientific and other information concerning the harmful and potentially harmful constituents in tobacco products and tobacco smoke.
 
-([June 25, 1938, ch. 675, § 904][/us/act/1938-06-25/ch675/s904], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1790][/us/stat/123/1790].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 904, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1790][/us/stat/123/1790].)
 
  __Prior Provisions__ 
 
@@ -85,8 +85,8 @@
 ----------
 
 [/us/usc/t15/s1333/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333%2Fe
-[/us/act/1938-06-25/ch675/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs904
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1790
 [/us/usc/t21/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs394
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31

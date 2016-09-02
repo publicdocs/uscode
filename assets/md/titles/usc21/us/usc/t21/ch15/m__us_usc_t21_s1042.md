@@ -17,7 +17,7 @@
 
     Before any violation of this chapter is reported by the Secretary of Agriculture or Secretary of Health and Human Services to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given reasonable notice of the alleged violation and opportunity to present his views orally or in writing with regard to such contemplated proceeding. Nothing in this chapter shall be construed as requiring the Secretary of Agriculture or Secretary of Health and Human Services to report for criminal prosecution violations of this chapter whenever he believes that the public interest will be adequately served and compliance with this chapter obtained by a suitable written notice of warning or an action to assess civil penalties.
 
-([Pub. L. 91–597, § 13][/us/pl/91/597/s13], Dec. 29, 1970, [84 Stat. 1628][/us/stat/84/1628]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X, § 1012(e)][/us/pl/102/237/s1012/e], Dec. 13, 1991, [105 Stat. 1900][/us/stat/105/1900].)
+([Pub. L. 91–597][/us/pl/91/597], § 13, Dec. 29, 1970, [84 Stat. 1628][/us/stat/84/1628]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(e), Dec. 13, 1991, [105 Stat. 1900][/us/stat/105/1900].)
 
  __References in Text__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/91/597/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs13
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1628
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/237/s1012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fe
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1900
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

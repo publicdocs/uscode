@@ -117,7 +117,7 @@
 
                 The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-([June 25, 1938, ch. 675, § 736B][/us/act/1938-06-25/ch675/s736B], as added [Pub. L. 110–85, title I, § 105][/us/pl/110/85/s105], Sept. 27, 2007, [121 Stat. 840][/us/stat/121/840]; amended [Pub. L. 112–144, title I, § 104][/us/pl/112/144/s104], July 9, 2012, [126 Stat. 1000][/us/stat/126/1000].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 736B, as added [Pub. L. 110–85, title I][/us/pl/110/85/tI], § 105, Sept. 27, 2007, [121 Stat. 840][/us/stat/121/840]; amended [Pub. L. 112–144, title I][/us/pl/112/144/tI], § 104, July 9, 2012, [126 Stat. 1000][/us/stat/126/1000].)
 
  __Termination of Section__ 
 
@@ -129,11 +129,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–144, § 104(1)][/us/pl/112/144/s104/1], amended subsec. (a) generally. Prior to amendment, text read as follows: “Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.”
+    2012—Subsec. (a). [Pub. L. 112–144][/us/pl/112/144], § 104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.”
 
-    Subsec. (b). [Pub. L. 112–144, § 104(2)][/us/pl/112/144/s104/2], substituted “2013” for “2008”.
+    Subsec. (b). [Pub. L. 112–144][/us/pl/112/144], § 104(2), substituted “2013” for “2008”.
 
-    Subsec. (d)(1), (5). [Pub. L. 112–144, § 104(3)][/us/pl/112/144/s104/3], substituted “2017” for “2012”.
+    Subsec. (d)(1), (5). [Pub. L. 112–144][/us/pl/112/144], § 104(3), substituted “2017” for “2012”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -141,11 +141,11 @@
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 112–144, title I, § 105(b)][/us/pl/112/144/s105/b], July 9, 2012, [126 Stat. 1001][/us/stat/126/1001], provided that: 
+[Pub. L. 112–144, title I][/us/pl/112/144/tI], § 105(b), July 9, 2012, [126 Stat. 1001][/us/stat/126/1001], provided that: 
 
 > “Section 736B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379h–2][/us/usc/t21/s379h–2]) shall cease to be effective January 31, 2018.”
 
-    [Pub. L. 110–85, title I, § 106(b)][/us/pl/110/85/s106/b], Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842], which provided that the amendment made by [section 105 of Pub. L. 110–85][/us/pl/110/85/s105] (enacting this section) would cease to be effective Jan. 31, 2013, was repealed by [Pub. L. 112–144, title I, § 105(c)(1)][/us/pl/112/144/s105/c/1], July 9, 2012, [126 Stat. 1001][/us/stat/126/1001].
+    [Pub. L. 110–85, title I][/us/pl/110/85/tI], § 106(b), Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842], which provided that the amendment made by [section 105 of Pub. L. 110–85][/us/pl/110/85/s105] (enacting this section) would cease to be effective Jan. 31, 2013, was repealed by [Pub. L. 112–144, title I][/us/pl/112/144/tI], § 105(c)(1), July 9, 2012, [126 Stat. 1001][/us/stat/126/1001].
 
     Section effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see [section 107 of Pub. L. 110–85][/us/pl/110/85/s107], set out as an Effective and Termination Dates of 2007 Amendment note under [section 379g of this title][/us/usc/t21/s379g].
 
@@ -156,27 +156,27 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s736B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs736B
-[/us/pl/110/85/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs105
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtI
 [/us/stat/121/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F840
-[/us/pl/112/144/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs104
+[/us/pl/112/144/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtI
 [/us/stat/126/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1000
 [/us/pl/112/144/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs105%2Fb
 [/us/pl/112/144/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs101%2Fb
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
-[/us/pl/112/144/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs104%2F1
-[/us/pl/112/144/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs104%2F2
-[/us/pl/112/144/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs104%2F3
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/112/144/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs106
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
-[/us/pl/112/144/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs105%2Fb
+[/us/pl/112/144/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtI
 [/us/stat/126/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1001
 [/us/usc/t21/s379h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379h%E2%80%932
-[/us/pl/110/85/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs106%2Fb
+[/us/pl/110/85/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtI
 [/us/stat/121/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F842
 [/us/pl/110/85/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs105
-[/us/pl/112/144/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs105%2Fc%2F1
+[/us/pl/112/144/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtI
 [/us/stat/126/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1001
 [/us/pl/110/85/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs107
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g

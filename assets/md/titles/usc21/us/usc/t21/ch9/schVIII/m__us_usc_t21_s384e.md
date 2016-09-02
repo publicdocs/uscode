@@ -33,7 +33,7 @@
 
         (2) for any other purposes as determined appropriate by the Secretary.
 
-([June 25, 1938, ch. 675, § 809][/us/act/1938-06-25/ch675/s809], as added [Pub. L. 112–144, title VII, § 712][/us/pl/112/144/s712], July 9, 2012, [126 Stat. 1072][/us/stat/126/1072].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 809, as added [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 712, July 9, 2012, [126 Stat. 1072][/us/stat/126/1072].)
 
 ----------
 
@@ -46,8 +46,8 @@
 [/us/usc/t21/s360/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fh%2F3
 [/us/usc/t21/s351/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs351%2Fa%2F2%2FB
 [/us/usc/t21/s381/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fr
-[/us/act/1938-06-25/ch675/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs809
-[/us/pl/112/144/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs712
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1072
 
 

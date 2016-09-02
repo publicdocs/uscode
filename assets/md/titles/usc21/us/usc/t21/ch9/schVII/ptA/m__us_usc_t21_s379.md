@@ -73,7 +73,7 @@
 
             Nothing in this subsection affects the ability of the Secretary to enter into any written agreement authorized by other provisions of law to share confidential information.
 
-([June 25, 1938, ch. 675, § 708][/us/act/1938-06-25/ch675/s708], as added [Pub. L. 94–295, § 8][/us/pl/94/295/s8], May 28, 1976, [90 Stat. 582][/us/stat/90/582]; amended [Pub. L. 112–144, title VII, § 710][/us/pl/112/144/s710], July 9, 2012, [126 Stat. 1070][/us/stat/126/1070].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 708, as added [Pub. L. 94–295][/us/pl/94/295], § 8, May 28, 1976, [90 Stat. 582][/us/stat/90/582]; amended [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 710, July 9, 2012, [126 Stat. 1070][/us/stat/126/1070].)
 
  __Amendments__ 
 
@@ -94,10 +94,10 @@
 [/us/usc/t21/s331/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Fj
 [/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
 [/us/usc/t21/s331/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Fj
-[/us/act/1938-06-25/ch675/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs708
-[/us/pl/94/295/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs8
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F582
-[/us/pl/112/144/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs710
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1070
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 

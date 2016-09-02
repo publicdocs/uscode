@@ -23,7 +23,7 @@
 
         Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of section 351 of Public Health Service Act \[[42 U.S.C. 262][/us/usc/t42/s262]\] (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 ([37 Stat. 832–833][/us/stat/37/832-833]) \[[21 U.S.C. 151][/us/usc/t21/s151] et seq.\]; the Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), the Filled Milk Act of March 4, 1923 \[[21 U.S.C. 61][/us/usc/t21/s61] et seq.\]; or the Import Milk Act of February 15, 1927 \[[21 U.S.C. 141][/us/usc/t21/s141] et seq.\].
 
-([June 25, 1938, ch. 675, § 1002(b)][/us/act/1938-06-25/ch675/s1002/b], (c), formerly § 902(b), (c), [52 Stat. 1059][/us/stat/52/1059]; [Pub. L. 90–399, § 107][/us/pl/90/399/s107], July 13, 1968, [82 Stat. 353][/us/stat/82/353]; renumbered § 1002(b), (c), [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1002(b), (c), formerly § 902(b), (c), [52 Stat. 1059][/us/stat/52/1059]; [Pub. L. 90–399][/us/pl/90/399], § 107, July 13, 1968, [82 Stat. 353][/us/stat/82/353]; renumbered § 1002(b), (c), [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     Act of March 4, 1913, referred to in subsec. (b), is [act Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], [37 Stat. 828][/us/stat/37/828], as amended. The provisions of such act referred to relating to viruses, etc., applicable to domestic animals, are contained in the eighth paragraph under the heading “Bureau of Animal Industry”, [37 Stat. 832][/us/stat/37/832], as amended, popularly known as the Virus-Serum-Toxin Act, which is classified generally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of this title][/us/usc/t21/s151] and Tables.
 
-    The Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), referred to in subsec. (b), is [act June 6, 1896, ch. 337][/us/act/1896-06-06/ch337], [29 Stat. 253][/us/stat/29/253], as amended, which had been classified to chapter 10 (§ 1000 et seq.) of Title 26, Internal Revenue, and included as chapter 17 (§ 2350 et seq.) of Title 26, Internal Revenue Code of 1939. Such chapter 17 was covered by section 4831 et seq. of Title 26, Internal Revenue Code, prior to the repeal of section 4831 et seq. of Title 26 by [Pub. L. 93–490, § 3(a)(1)][/us/pl/93/490/s3/a/1], Oct. 26, 1974, [88 Stat. 1466][/us/stat/88/1466].
+    The Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), referred to in subsec. (b), is [act June 6, 1896, ch. 337][/us/act/1896-06-06/ch337], [29 Stat. 253][/us/stat/29/253], as amended, which had been classified to chapter 10 (§ 1000 et seq.) of Title 26, Internal Revenue, and included as chapter 17 (§ 2350 et seq.) of Title 26, Internal Revenue Code of 1939. Such chapter 17 was covered by section 4831 et seq. of Title 26, Internal Revenue Code, prior to the repeal of section 4831 et seq. of Title 26 by [Pub. L. 93–490][/us/pl/93/490], § 3(a)(1), Oct. 26, 1974, [88 Stat. 1466][/us/stat/88/1466].
 
     The Filled Milk Act of March 4, 1923, referred to in subsec. (b), is [act Mar. 4, 1923, ch. 262][/us/act/1923-03-04/ch262], [42 Stat. 1486][/us/stat/42/1486], as amended, which is classified generally to chapter 3 (§ 61 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 61 of this title][/us/usc/t21/s61] and Tables.
 
@@ -51,7 +51,7 @@
 
  __Availability of Appropriations__ 
 
-[Act June 25, 1938, ch. 675, § 1002(d)][/us/act/1938-06-25/ch675/s1002/d], formerly § 902(d), [52 Stat. 1059][/us/stat/52/1059]; renumbered § 1002(d), [Pub. L. 111–31, div. A, title I, § 101(b)(2)][/us/pl/111/31/s101/b/2], June 22, 2009, [123 Stat. 1784][/us/stat/123/1784], provided that: 
+[Act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 1002(d), formerly § 902(d), [52 Stat. 1059][/us/stat/52/1059]; renumbered § 1002(d), [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(2), June 22, 2009, [123 Stat. 1784][/us/stat/123/1784], provided that: 
 
 > “In order to carry out the provisions of this Act which take effect \[see section 1002(a) of act June 25, 1938, set out as an Effective Date note under [section 301 of this title][/us/usc/t21/s301]\] prior to the repeal of the Food and Drugs Act of June 30, 1906, as amended \[former sections 1 to 5 and 7 to 15 of this title\], appropriations available for the enforcement of such Act of June 30, 1906, are also authorized to be made available to carry out such provisions.”
 
@@ -68,11 +68,11 @@
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/usc/t21/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs61
 [/us/usc/t21/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs141
-[/us/act/1938-06-25/ch675/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1002%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1059
-[/us/pl/90/399/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399%2Fs107
+[/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/stat/82/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F353
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
@@ -84,7 +84,7 @@
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/act/1896-06-06/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-06-06%2Fch337
 [/us/stat/29/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F253
-[/us/pl/93/490/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490%2Fs3%2Fa%2F1
+[/us/pl/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490
 [/us/stat/88/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1466
 [/us/act/1923-03-04/ch262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch262
 [/us/stat/42/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1486
@@ -98,9 +98,9 @@
 [/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/pl/90/399/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399%2Fs108%2Fa
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
-[/us/act/1938-06-25/ch675/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs1002%2Fd
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1059
-[/us/pl/111/31/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F2
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1784
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 

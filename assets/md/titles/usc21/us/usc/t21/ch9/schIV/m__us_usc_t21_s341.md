@@ -17,7 +17,7 @@
 
     Whenever in the judgment of the Secretary such action will promote honesty and fair dealing in the interest of consumers, he shall promulgate regulations fixing and establishing for any food, under its common or usual name so far as practicable, a reasonable definition and standard of identity, a reasonable standard of quality, or reasonable standards of fill of container. No definition and standard of identity and no standard of quality shall be established for fresh or dried fruits, fresh or dried vegetables, or butter, except that definitions and standards of identity may be established for avocadoes, cantaloupes, citrus fruits, and melons. In prescribing any standard of fill of container, the Secretary shall give due consideration to the natural shrinkage in storage and in transit of fresh natural food and to need for the necessary packing and protective material. In the prescribing of any standard of quality for any canned fruit or canned vegetable, consideration shall be given and due allowance made for the differing characteristics of the several varieties of such fruit or vegetable. In prescribing a definition and standard of identity for any food or class of food in which optional ingredients are permitted, the Secretary shall, for the purpose of promoting honesty and fair dealing in the interest of consumers, designate the optional ingredients which shall be named on the label. Any definition and standard of identity prescribed by the Secretary for avocadoes, cantaloupes, citrus fruits, or melons shall relate only to maturity and to the effects of freezing.
 
-([June 25, 1938, ch. 675, § 401][/us/act/1938-06-25/ch675/s401], [52 Stat. 1046][/us/stat/52/1046]; [Apr. 15, 1954, ch. 143, § 1][/us/act/1954-04-15/ch143/s1], [68 Stat. 54][/us/stat/68/54]; [Aug. 1, 1956, ch. 861, § 1][/us/act/1956-08-01/ch861/s1], [70 Stat. 919][/us/stat/70/919]; [Pub. L. 103–80, § 3(h)][/us/pl/103/80/s3/h], Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 401, [52 Stat. 1046][/us/stat/52/1046]; [Apr. 15, 1954, ch. 143][/us/act/1954-04-15/ch143], § 1, [68 Stat. 54][/us/stat/68/54]; [Aug. 1, 1956, ch. 861][/us/act/1956-08-01/ch861], § 1, [70 Stat. 919][/us/stat/70/919]; [Pub. L. 103–80][/us/pl/103/80], § 3(h), Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Savings Provision__ 
 
-[Act Aug. 1, 1956, ch. 861, § 3][/us/act/1956-08-01/ch861/s3], [70 Stat. 919][/us/stat/70/919], provided that: 
+[Act Aug. 1, 1956, ch. 861][/us/act/1956-08-01/ch861], § 3, [70 Stat. 919][/us/stat/70/919], provided that: 
 
 > “In any case in which, prior to the enactment of this Act \[Aug. 1, 1956\], a public hearing has been begun in accordance with section 401 of the Federal Food, Drug, and Cosmetic Act \[341 of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by such section, or has been begun in accordance with section 701(e) of such Act \[[section 371(e) of this title][/us/usc/t21/s371/e]\] upon a proposal to issue, amend, or repeal any regulation contemplated by section 403(j), 404(a), 406(a) or (b), 501(b), 502(d), 502(h), 504 or 604 of such Act \[section 343(j), 344(a), 346(a) or (b), 351(b), 352(d), 352(h), 354, or 364 of this title\], the provisions of such section 401 or 701(e), as the case may be, as in force immediately prior to the date of the enactment of this Act \[Aug. 1, 1956\], shall be applicable as though this Act \[amending this section and [section 371(e) of this title][/us/usc/t21/s371/e]\] had not been enacted.”
 
@@ -39,7 +39,7 @@
 
  __Food Safety and Security Strategy__ 
 
-[Pub. L. 107–188, title III, § 301][/us/pl/107/188/s301], June 12, 2002, [116 Stat. 662][/us/stat/116/662], provided that:
+[Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 301, June 12, 2002, [116 Stat. 662][/us/stat/116/662], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -51,7 +51,7 @@
 
  __Food Safety Commission__ 
 
-[Pub. L. 107–171, title X, § 10807][/us/pl/107/171/s10807], May 13, 2002, [116 Stat. 527][/us/stat/116/527], provided that:
+[Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10807, May 13, 2002, [116 Stat. 527][/us/stat/116/527], provided that:
 
 >     “(a) __Establishment.—__ 
 
@@ -272,24 +272,24 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs401
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1046
-[/us/act/1954-04-15/ch143/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-15%2Fch143%2Fs1
+[/us/act/1954-04-15/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-15%2Fch143
 [/us/stat/68/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F54
-[/us/act/1956-08-01/ch861/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch861%2Fs1
+[/us/act/1956-08-01/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch861
 [/us/stat/70/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F919
-[/us/pl/103/80/s3/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fh
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F776
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t21/s371/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs371%2Fe
-[/us/act/1956-08-01/ch861/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch861%2Fs3
+[/us/act/1956-08-01/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch861
 [/us/stat/70/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F919
 [/us/usc/t21/s371/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs371%2Fe
 [/us/usc/t21/s371/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs371%2Fe
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/107/188/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs301
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F662
-[/us/pl/107/171/s10807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10807
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F527
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905

@@ -95,25 +95,25 @@
 
         (2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
-([Pub. L. 91–513, title II, § 422][/us/pl/91/513/s422], as added and amended [Pub. L. 101–647, title XXIV, § 2401(a)][/us/pl/101/647/s2401/a]–(c), Nov. 29, 1990, [104 Stat. 4858][/us/stat/104/4858], 4859; [Pub. L. 106–310, div. B, title XXXVI, § 3614][/us/pl/106/310/s3614], Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 422, as added and amended [Pub. L. 101–647, title XXIV][/us/pl/101/647/tXXIV], § 2401(a)–(c), Nov. 29, 1990, [104 Stat. 4858][/us/stat/104/4858], 4859; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3614, Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230].)
 
  __Codification__ 
 
-    The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section by [Pub. L. 101–647, § 2401(b)][/us/pl/101/647/s2401/b], was based on [Pub. L. 99–570, title I, § 1822(b)][/us/pl/99/570/s1822/b]–(f), Oct. 27, 1986, [100 Stat. 3207–51][/us/stat/100/3207-51]; [Pub. L. 100–690, title VI, § 6485][/us/pl/100/690/s6485], Nov. 18, 1988, [102 Stat. 4384][/us/stat/102/4384].
+    The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section by [Pub. L. 101–647][/us/pl/101/647], § 2401(b), was based on [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1822(b)–(f), Oct. 27, 1986, [100 Stat. 3207–51][/us/stat/100/3207-51]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6485, Nov. 18, 1988, [102 Stat. 4384][/us/stat/102/4384].
 
  __Amendments__ 
 
     2000—Subsec. (d). [Pub. L. 106–310][/us/pl/106/310] inserted “methamphetamine,” after “PCP,” in introductory provisions.
 
-    1990—Subsec. (b). [Pub. L. 101–647, § 2401(c)(1)][/us/pl/101/647/s2401/c/1], substituted “fined under title 18” for “fined not more than $100,000”.
+    1990—Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
 
-    [Pub. L. 101–647, § 2401(b)][/us/pl/101/647/s2401/b], redesignated subsec. (b) of [section 857 of this title][/us/usc/t21/s857] as subsec. (b) of this section. See Codification note above.
+    [Pub. L. 101–647][/us/pl/101/647], § 2401(b), redesignated subsec. (b) of [section 857 of this title][/us/usc/t21/s857] as subsec. (b) of this section. See Codification note above.
 
-    Subsecs. (c) to (e). [Pub. L. 101–647, § 2401(b)][/us/pl/101/647/s2401/b], redesignated subsecs. (c) to (e) of [section 857 of this title][/us/usc/t21/s857] as subsecs. (c) to (e) of this section. See Codification note above.
+    Subsecs. (c) to (e). [Pub. L. 101–647][/us/pl/101/647], § 2401(b), redesignated subsecs. (c) to (e) of [section 857 of this title][/us/usc/t21/s857] as subsecs. (c) to (e) of this section. See Codification note above.
 
-    Subsec. (f). [Pub. L. 101–647, § 2401(c)(2)][/us/pl/101/647/s2401/c/2], made technical amendment to reference to “This section” to correct reference to corresponding provision of original act.
+    Subsec. (f). [Pub. L. 101–647][/us/pl/101/647], § 2401(c)(2), made technical amendment to reference to “This section” to correct reference to corresponding provision of original act.
 
-    [Pub. L. 101–647, § 2401(b)][/us/pl/101/647/s2401/b], redesignated subsec. (f) of [section 857 of this title][/us/usc/t21/s857] as subsec. (f) of this section. See Codification note above.
+    [Pub. L. 101–647][/us/pl/101/647], § 2401(b), redesignated subsec. (f) of [section 857 of this title][/us/usc/t21/s857] as subsec. (f) of this section. See Codification note above.
 
 ----------
 
@@ -122,24 +122,24 @@
 ----------
 ----------
 
-[/us/pl/91/513/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs422
-[/us/pl/101/647/s2401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/101/647/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIV
 [/us/stat/104/4858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4858
-[/us/pl/106/310/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3614
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1230
-[/us/pl/101/647/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fb
-[/us/pl/99/570/s1822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1822%2Fb
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-51
-[/us/pl/100/690/s6485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6485
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4384
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/101/647/s2401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fc%2F1
-[/us/pl/101/647/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fb
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t21/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs857
-[/us/pl/101/647/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fb
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t21/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs857
-[/us/pl/101/647/s2401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fc%2F2
-[/us/pl/101/647/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2401%2Fb
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t21/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs857
 
 

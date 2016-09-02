@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to provide authority for the identification of, and application of sanctions on a worldwide basis to, significant foreign narcotics traffickers, their organizations, and the foreign persons who provide support to those significant foreign narcotics traffickers and their organizations, whose activities threaten the national security, foreign policy, and economy of the United States.
 
-([Pub. L. 106–120, title VIII, § 803][/us/pl/106/120/s803], Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 803, Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/120/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs803
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1626
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
 [/us/stat/113/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1626

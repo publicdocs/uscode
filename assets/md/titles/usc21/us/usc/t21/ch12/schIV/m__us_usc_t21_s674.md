@@ -17,7 +17,7 @@
 
     The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other Territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in [section 607(e) of this title][/us/usc/t21/s607/e].
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 404, as added [Pub. L. 90–201, § 16][/us/pl/90/201/s16], Dec. 15, 1967, [81 Stat. 599][/us/stat/81/599].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title IV, § 404, as added [Pub. L. 90–201][/us/pl/90/201], § 16, Dec. 15, 1967, [81 Stat. 599][/us/stat/81/599].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t21/s607/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs607%2Fe
 [/us/usc/t21/s607/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs607%2Fe
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs16
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F599
 
 

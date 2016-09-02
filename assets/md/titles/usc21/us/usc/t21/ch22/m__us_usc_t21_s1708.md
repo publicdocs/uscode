@@ -241,7 +241,7 @@
 
         There is authorized to be appropriated to the Office to carry out this section, $195,000,000 for each of fiscal years 2007 and 2008 and $210,000,000 for each of fiscal years 2009 through 2011.
 
-([Pub. L. 105–277, div. C, title VII, § 709][/us/pl/105/277/s709], Oct. 21, 1998, [112 Stat. 2681–688][/us/stat/112/2681-688]; [Pub. L. 109–469, title V, § 501(a)][/us/pl/109/469/s501/a], Dec. 29, 2006, [120 Stat. 3527][/us/stat/120/3527].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 709, Oct. 21, 1998, [112 Stat. 2681–688][/us/stat/112/2681-688]; [Pub. L. 109–469, title V][/us/pl/109/469/tV], § 501(a), Dec. 29, 2006, [120 Stat. 3527][/us/stat/120/3527].)
 
  __Repeal of Section__ 
 
@@ -249,13 +249,13 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this subtitle” and was translated as reading “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this subtitle” and was translated as reading “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
 
  __Codification__ 
 
-    In subsec. (g)(1), “[section 4706 of title 41][/us/usc/t41/s4706]” substituted for “section 304C of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254d][/us/usc/t41/s254d])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g)(1), “[section 4706 of title 41][/us/usc/t41/s4706]” substituted for “section 304C of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254d][/us/usc/t41/s254d])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (g)(2), “chapter 43 of title 41” substituted for “section 306 of such Act ([41 U.S.C. 256][/us/usc/t41/s256])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g)(2), “chapter 43 of title 41” substituted for “section 306 of such Act ([41 U.S.C. 256][/us/usc/t41/s256])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -355,20 +355,20 @@
 ----------
 
 [/us/usc/t41/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4706
-[/us/pl/105/277/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs709
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-688
-[/us/pl/109/469/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs501%2Fa
+[/us/pl/109/469/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtV
 [/us/stat/120/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3527
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-670
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 [/us/usc/t41/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4706
 [/us/usc/t41/s254d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254d
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs256
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

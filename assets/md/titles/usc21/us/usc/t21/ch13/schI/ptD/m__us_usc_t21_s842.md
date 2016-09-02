@@ -95,7 +95,7 @@
 
             (B) An order under subparagraph (A) may be imposed only through the same procedures as apply under [section 824(c) of this title][/us/usc/t21/s824/c] for an order to show cause.
 
-([Pub. L. 91–513, title II, § 402][/us/pl/91/513/s402], Oct. 27, 1970, [84 Stat. 1262][/us/stat/84/1262]; [Pub. L. 95–633, title II, § 202(b)(1)][/us/pl/95/633/s202/b/1], (2), Nov. 10, 1978, [92 Stat. 3776][/us/stat/92/3776]; [Pub. L. 100–690, title VI, § 6056][/us/pl/100/690/s6056], Nov. 18, 1988, [102 Stat. 4318][/us/stat/102/4318]; [Pub. L. 104–237, title II, § 205][/us/pl/104/237/s205], Oct. 3, 1996, [110 Stat. 3103][/us/stat/110/3103]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 117\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–68; [Pub. L. 107–273, div. B, title IV, § 4002(b)(16)][/us/pl/107/273/s4002/b/16], (d)(2)(B), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], 1809; [Pub. L. 109–177, title VII][/us/pl/109/177], §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, [120 Stat. 262–264][/us/stat/120/262-264]; [Pub. L. 111–268][/us/pl/111/268], §§ 4, 5, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847], 2848; [Pub. L. 113–260, § 3(c)][/us/pl/113/260/s3/c], Dec. 18, 2014, [128 Stat. 2931][/us/stat/128/2931].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 402, Oct. 27, 1970, [84 Stat. 1262][/us/stat/84/1262]; [Pub. L. 95–633, title II][/us/pl/95/633/tII], § 202(b)(1), (2), Nov. 10, 1978, [92 Stat. 3776][/us/stat/92/3776]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6056, Nov. 18, 1988, [102 Stat. 4318][/us/stat/102/4318]; [Pub. L. 104–237, title II][/us/pl/104/237/tII], § 205, Oct. 3, 1996, [110 Stat. 3103][/us/stat/110/3103]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 117\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–68; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(b)(16), (d)(2)(B), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], 1809; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, [120 Stat. 262–264][/us/stat/120/262-264]; [Pub. L. 111–268][/us/pl/111/268], §§ 4, 5, Oct. 12, 2010, [124 Stat. 2847][/us/stat/124/2847], 2848; [Pub. L. 113–260][/us/pl/113/260], § 3(c), Dec. 18, 2014, [128 Stat. 2931][/us/stat/128/2931].)
 
  __References in Text__ 
 
@@ -105,51 +105,51 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(16). [Pub. L. 113–260, § 3(c)(1)][/us/pl/113/260/s3/c/1], added par. (16).
+    2014—Subsec. (a)(16). [Pub. L. 113–260][/us/pl/113/260], § 3(c)(1), added par. (16).
 
-    Subsec. (c)(1)(A). [Pub. L. 113–260, § 3(c)(2)(A)][/us/pl/113/260/s3/c/2/A], inserted “, (C), or (D)” after “subparagraph (B)”.
+    Subsec. (c)(1)(A). [Pub. L. 113–260][/us/pl/113/260], § 3(c)(2)(A), inserted “, (C), or (D)” after “subparagraph (B)”.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 113–260, § 3(c)(2)(B)][/us/pl/113/260/s3/c/2/B], added subpars. (C) and (D).
+    Subsec. (c)(1)(C), (D). [Pub. L. 113–260][/us/pl/113/260], § 3(c)(2)(B), added subpars. (C) and (D).
 
-    2010—Subsec. (a). [Pub. L. 111–268, § 4(4)][/us/pl/111/268/s4/4], inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v], the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v].” at end of concluding provisions.
+    2010—Subsec. (a). [Pub. L. 111–268][/us/pl/111/268], § 4(4), inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v], the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title][/us/usc/t21/s830/e/1/B/v].” at end of concluding provisions.
 
-    Subsec. (a)(10). [Pub. L. 111–268, § 5][/us/pl/111/268/s5], inserted “or negligently to fail to self-certify as required under [section 830 of this title][/us/usc/t21/s830]” before semicolon.
+    Subsec. (a)(10). [Pub. L. 111–268][/us/pl/111/268], § 5, inserted “or negligently to fail to self-certify as required under [section 830 of this title][/us/usc/t21/s830]” before semicolon.
 
-    Subsec. (a)(15). [Pub. L. 111–268, § 4(1)][/us/pl/111/268/s4/1]–(3), added par. (15).
+    Subsec. (a)(15). [Pub. L. 111–268][/us/pl/111/268], § 4(1)–(3), added par. (15).
 
-    2006—Subsec. (a)(12) to (14). [Pub. L. 109–177, § 711(f)(1)(A)][/us/pl/109/177/s711/f/1/A], added pars. (12) to (14).
+    2006—Subsec. (a)(12) to (14). [Pub. L. 109–177][/us/pl/109/177], § 711(f)(1)(A), added pars. (12) to (14).
 
-    Subsec. (b). [Pub. L. 109–177, § 714][/us/pl/109/177/s714], inserted “, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical,” after “manufacture a controlled substance in schedule I or II” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–177][/us/pl/109/177], § 714, inserted “, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical,” after “manufacture a controlled substance in schedule I or II” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 109–177, § 711(f)(2)][/us/pl/109/177/s711/f/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 109–177][/us/pl/109/177], § 711(f)(2), added par. (4).
 
-    2002—Subsec. (c)(2)(A). [Pub. L. 107–273, § 4002(d)(2)(B)(i)][/us/pl/107/273/s4002/d/2/B/i], substituted “under title 18” for “of not more than $25,000”.
+    2002—Subsec. (c)(2)(A). [Pub. L. 107–273][/us/pl/107/273], § 4002(d)(2)(B)(i), substituted “under title 18” for “of not more than $25,000”.
 
-    Subsec. (c)(2)(B). [Pub. L. 107–273, § 4002(d)(2)(B)(ii)][/us/pl/107/273/s4002/d/2/B/ii], substituted “under title 18” for “of $50,000”.
+    Subsec. (c)(2)(B). [Pub. L. 107–273][/us/pl/107/273], § 4002(d)(2)(B)(ii), substituted “under title 18” for “of $50,000”.
 
-    Subsec. (c)(2)(C). [Pub. L. 107–273, § 4002(b)(16)][/us/pl/107/273/s4002/b/16], realigned margins.
+    Subsec. (c)(2)(C). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(16), realigned margins.
 
-    1998—Subsec. (a)(5). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 117(1)\], inserted “negligently” before “fail”.
+    1998—Subsec. (a)(5). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 117(1)\], inserted “negligently” before “fail”.
 
-    Subsec. (a)(10). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 117(2)\], inserted “negligently” before “to fail”.
+    Subsec. (a)(10). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 117(2)\], inserted “negligently” before “to fail”.
 
-    Subsec. (c)(1). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 117(3)\], designated existing provisions as subpar. (A), inserted “subparagraph (B) of this paragraph and” before “paragraph (2)”, and added subpar. (B).
+    Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 117(3)\], designated existing provisions as subpar. (A), inserted “subparagraph (B) of this paragraph and” before “paragraph (2)”, and added subpar. (B).
 
-    1996—Subsec. (a). [Pub. L. 104–237, § 205(a)][/us/pl/104/237/s205/a], added par. (11) and closing provisions.
+    1996—Subsec. (a). [Pub. L. 104–237][/us/pl/104/237], § 205(a), added par. (11) and closing provisions.
 
-    Subsec. (c)(2)(C). [Pub. L. 104–237, § 205(b)][/us/pl/104/237/s205/b], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 104–237][/us/pl/104/237], § 205(b), added subpar. (C).
 
-    1988—Subsec. (a)(8). [Pub. L. 100–690, § 6056(a)][/us/pl/100/690/s6056/a], inserted “, or to use to his own advantage or reveal (other than as authorized by [section 830 of this title][/us/usc/t21/s830]) any information that is confidential under such section” after “protection”.
+    1988—Subsec. (a)(8). [Pub. L. 100–690][/us/pl/100/690], § 6056(a), inserted “, or to use to his own advantage or reveal (other than as authorized by [section 830 of this title][/us/usc/t21/s830]) any information that is confidential under such section” after “protection”.
 
-    Subsec. (a)(9). [Pub. L. 100–690, § 6056(b)][/us/pl/100/690/s6056/b], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to distribute or sell piperidine in violation of regulations established under [section 830(a)(2) of this title][/us/usc/t21/s830/a/2], respecting presentation of identification.”
+    Subsec. (a)(9). [Pub. L. 100–690][/us/pl/100/690], § 6056(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to distribute or sell piperidine in violation of regulations established under [section 830(a)(2) of this title][/us/usc/t21/s830/a/2], respecting presentation of identification.”
 
-    Subsec. (a)(10). [Pub. L. 100–690, § 6056(d)][/us/pl/100/690/s6056/d], added par. (10).
+    Subsec. (a)(10). [Pub. L. 100–690][/us/pl/100/690], § 6056(d), added par. (10).
 
-    Subsec. (c)(2)(C). [Pub. L. 100–690, § 6056(c)][/us/pl/100/690/s6056/c], struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall not apply to a violation of subsection (a)(5) of this section with respect to a refusal or failure to make a report required under [section 830(a) of this title][/us/usc/t21/s830/a] (relating to piperidine reporting).”
+    Subsec. (c)(2)(C). [Pub. L. 100–690][/us/pl/100/690], § 6056(c), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall not apply to a violation of subsection (a)(5) of this section with respect to a refusal or failure to make a report required under [section 830(a) of this title][/us/usc/t21/s830/a] (relating to piperidine reporting).”
 
-    1978—Subsec. (a)(9). [Pub. L. 95–633, § 202(b)(1)][/us/pl/95/633/s202/b/1], added par. (9).
+    1978—Subsec. (a)(9). [Pub. L. 95–633][/us/pl/95/633], § 202(b)(1), added par. (9).
 
-    Subsec. (c)(2)(C). [Pub. L. 95–633, § 202(b)(2)][/us/pl/95/633/s202/b/2], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 95–633][/us/pl/95/633], § 202(b)(2), added subpar. (C).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -165,7 +165,7 @@
 
  __Repeals__ 
 
-    [Pub. L. 96–359, § 8(b)][/us/pl/96/359/s8/b], Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194], repealed [section 203(d) of Pub. L. 95–633][/us/pl/95/633/s203/d], which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
+    [Pub. L. 96–359][/us/pl/96/359], § 8(b), Sept. 26, 1980, [94 Stat. 1194][/us/stat/94/1194], repealed [section 203(d) of Pub. L. 95–633][/us/pl/95/633/s203/d], which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
 
 ----------
 
@@ -193,57 +193,57 @@
 [/us/usc/t28/s1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1355
 [/us/usc/t21/s830/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fb%2F3
 [/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
-[/us/pl/91/513/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs402
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1262
-[/us/pl/95/633/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs202%2Fb%2F1
+[/us/pl/95/633/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtII
 [/us/stat/92/3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3776
-[/us/pl/100/690/s6056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6056
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4318
-[/us/pl/104/237/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs205
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3103
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/107/273/s4002/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F16
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/262-264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F262-264
 [/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/stat/124/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2847
-[/us/pl/113/260/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/stat/128/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2931
 [/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/pl/91/513/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs305
 [/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/113/260/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc%2F1
-[/us/pl/113/260/s3/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc%2F2%2FA
-[/us/pl/113/260/s3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs3%2Fc%2F2%2FB
-[/us/pl/111/268/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs4%2F4
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv
 [/us/usc/t21/s830/e/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fe%2F1%2FB%2Fv
-[/us/pl/111/268/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs5
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/111/268/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs4%2F1
-[/us/pl/109/177/s711/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Ff%2F1%2FA
-[/us/pl/109/177/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs714
-[/us/pl/109/177/s711/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs711%2Ff%2F2
-[/us/pl/107/273/s4002/d/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fd%2F2%2FB%2Fi
-[/us/pl/107/273/s4002/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fd%2F2%2FB%2Fii
-[/us/pl/107/273/s4002/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F16
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/104/237/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs205%2Fa
-[/us/pl/104/237/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs205%2Fb
-[/us/pl/100/690/s6056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6056%2Fa
+[/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/100/690/s6056/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6056%2Fb
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s830/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fa%2F2
-[/us/pl/100/690/s6056/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6056%2Fd
-[/us/pl/100/690/s6056/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6056%2Fc
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s830/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830%2Fa
-[/us/pl/95/633/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs202%2Fb%2F1
-[/us/pl/95/633/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs202%2Fb%2F2
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
+[/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268
 [/us/pl/111/268/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F268%2Fs6%2Fa
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
@@ -253,7 +253,7 @@
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fa
 [/us/usc/t21/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs830
-[/us/pl/96/359/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359%2Fs8%2Fb
+[/us/pl/96/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F359
 [/us/stat/94/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1194
 [/us/pl/95/633/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs203%2Fd
 

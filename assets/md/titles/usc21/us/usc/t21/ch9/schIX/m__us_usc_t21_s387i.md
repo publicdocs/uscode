@@ -49,7 +49,7 @@
 
             No report of the corrective action or removal of a tobacco product may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a).
 
-([June 25, 1938, ch. 675, § 909][/us/act/1938-06-25/ch675/s909], as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)][/us/pl/111/31/s101/b/3], June 22, 2009, [123 Stat. 1805][/us/stat/123/1805].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 909, as added [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(b)(3), June 22, 2009, [123 Stat. 1805][/us/stat/123/1805].)
 
  __Prior Provisions__ 
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs909
-[/us/pl/111/31/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fb%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1805
 [/us/usc/t21/s399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs399
 

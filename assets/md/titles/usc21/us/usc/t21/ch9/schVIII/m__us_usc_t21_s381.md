@@ -377,13 +377,13 @@
 
             The Secretary, by notice in the Federal Register, may establish exemptions from the requirements of this subsection.
 
-([June 25, 1938, ch. 675, § 801][/us/act/1938-06-25/ch675/s801], [52 Stat. 1058][/us/stat/52/1058]; [Oct. 18, 1949, ch. 696][/us/act/1949-10-18/ch696], §§ 1–3, [63 Stat. 882][/us/stat/63/882]; [Pub. L. 87–781, title III, § 306][/us/pl/87/781/s306], Oct. 10, 1962, [76 Stat. 796][/us/stat/76/796]; [Pub. L. 90–399, § 106][/us/pl/90/399/s106], July 13, 1968, [82 Stat. 353][/us/stat/82/353]; [Pub. L. 91–513, title II, § 701(h)][/us/pl/91/513/s701/h], Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(f), 4(b)(3), May 28, 1976, [90 Stat. 578][/us/stat/90/578], 580; [Pub. L. 100–293, § 3][/us/pl/100/293/s3], Apr. 22, 1988, [102 Stat. 96][/us/stat/102/96]; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–353, § 5][/us/pl/102/353/s5], Aug. 26, 1992, [106 Stat. 943][/us/stat/106/943]; [Pub. L. 103–80, § 3(cc)][/us/pl/103/80/s3/cc], (dd)(1), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778], 779; [Pub. L. 104–134, title II, § 2102(a)][/us/pl/104/134/s2102/a]–(c), Apr. 26, 1996, [110 Stat. 1321–313][/us/stat/110/1321-313], 1321–314; [Pub. L. 104–180, title VI, § 603(a)][/us/pl/104/180/s603/a], (b), Aug. 6, 1996, [110 Stat. 1594][/us/stat/110/1594], 1595; [Pub. L. 105–115, title I, § 125(a)(2)(D)][/us/pl/105/115/s125/a/2/D], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, §§ 745(c)(1), 746(c)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–36, 1549A–40; [Pub. L. 107–188, title III][/us/pl/107/188], §§ 302(a)–(d), 303(c), 304(e), 305(c), 307(a), 308(a), 321(b)(1), 322(a), June 12, 2002, [116 Stat. 662][/us/stat/116/662], 663, 665, 667, 668, 670, 672, 676; [Pub. L. 109–462, § 5(a)][/us/pl/109/462/s5/a], Dec. 22, 2006, [120 Stat. 3475][/us/stat/120/3475]; [Pub. L. 110–85, title IX, § 912(b)(2)][/us/pl/110/85/s912/b/2], Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952]; [Pub. L. 111–31, div. A, title I, § 103][/us/pl/111/31/s103](l), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–353, title I][/us/pl/111/353], §§ 102(b)(3), 107(b), title II, § 204(j)(2), title III, §§ 301(c), 303(a)–(c), 304(a), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], 3910, 3937, 3955–3957; [Pub. L. 112–144, title VII][/us/pl/112/144], §§ 708(a), (b), 713, 714(b), July 9, 2012, [126 Stat. 1068][/us/stat/126/1068], 1072, 1073.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 801, [52 Stat. 1058][/us/stat/52/1058]; [Oct. 18, 1949, ch. 696][/us/act/1949-10-18/ch696], §§ 1–3, [63 Stat. 882][/us/stat/63/882]; [Pub. L. 87–781, title III][/us/pl/87/781/tIII], § 306, Oct. 10, 1962, [76 Stat. 796][/us/stat/76/796]; [Pub. L. 90–399][/us/pl/90/399], § 106, July 13, 1968, [82 Stat. 353][/us/stat/82/353]; [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 701(h), Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(f), 4(b)(3), May 28, 1976, [90 Stat. 578][/us/stat/90/578], 580; [Pub. L. 100–293][/us/pl/100/293], § 3, Apr. 22, 1988, [102 Stat. 96][/us/stat/102/96]; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(1), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–353][/us/pl/102/353], § 5, Aug. 26, 1992, [106 Stat. 943][/us/stat/106/943]; [Pub. L. 103–80][/us/pl/103/80], § 3(cc), (dd)(1), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778], 779; [Pub. L. 104–134, title II][/us/pl/104/134/tII], § 2102(a)–(c), Apr. 26, 1996, [110 Stat. 1321–313][/us/stat/110/1321-313], 1321–314; [Pub. L. 104–180, title VI][/us/pl/104/180/tVI], § 603(a), (b), Aug. 6, 1996, [110 Stat. 1594][/us/stat/110/1594], 1595; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(a)(2)(D), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325]; [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, §§ 745(c)(1), 746(c)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–36, 1549A–40; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], §§ 302(a)–(d), 303(c), 304(e), 305(c), 307(a), 308(a), 321(b)(1), 322(a), June 12, 2002, [116 Stat. 662][/us/stat/116/662], 663, 665, 667, 668, 670, 672, 676; [Pub. L. 109–462][/us/pl/109/462], § 5(a), Dec. 22, 2006, [120 Stat. 3475][/us/stat/120/3475]; [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 912(b)(2), Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(l), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–353, title I][/us/pl/111/353/tI], §§ 102(b)(3), 107(b), title II, § 204(j)(2), title III, §§ 301(c), 303(a)–(c), 304(a), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], 3910, 3937, 3955–3957; [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], §§ 708(a), (b), 713, 714(b), July 9, 2012, [126 Stat. 1068][/us/stat/126/1068], 1072, 1073.)
 
  __References in Text__ 
 
     The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285], which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title][/us/usc/t21/s951] and Tables.
 
-    The Federal Meat Inspection Act, referred to in subsec. (m)(3)(B), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI, § 11015(a)][/us/pl/110/246/s11015/a], June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title][/us/usc/t21/s601] and Tables.
+    The Federal Meat Inspection Act, referred to in subsec. (m)(3)(B), is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI][/us/pl/110/246/tXI], § 11015(a), June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title][/us/usc/t21/s601] and Tables.
 
     The Poultry Products Inspection Act, referred to in subsec. (m)(3)(B), is [Pub. L. 85–172][/us/pl/85/172], Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441], which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of this title][/us/usc/t21/s451] and Tables.
 
@@ -393,53 +393,53 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–144, § 708(b)][/us/pl/112/144/s708/b], inserted “The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee.” after “described under subsection (b)..”
+    2012—Subsec. (a). [Pub. L. 112–144][/us/pl/112/144], § 708(b), inserted “The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee.” after “described under subsection (b)..”
 
-    [Pub. L. 112–144, § 708(a)][/us/pl/112/144/s708/a], inserted “, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498(a)(1) of title 19][/us/usc/t19/s1498/a/1] and was not brought into compliance as described under subsection (b).” after “pursuant to such regulations”.
+    [Pub. L. 112–144][/us/pl/112/144], § 708(a), inserted “, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498(a)(1) of title 19][/us/usc/t19/s1498/a/1] and was not brought into compliance as described under subsection (b).” after “pursuant to such regulations”.
 
-    Subsec. (o). [Pub. L. 112–144, § 713(1)][/us/pl/112/144/s713/1], struck out “drug or” after “If an article that is a”.
+    Subsec. (o). [Pub. L. 112–144][/us/pl/112/144], § 713(1), struck out “drug or” after “If an article that is a”.
 
-    Subsec. (r). [Pub. L. 112–144, § 713(2)][/us/pl/112/144/s713/2], added subsec. (r).
+    Subsec. (r). [Pub. L. 112–144][/us/pl/112/144], § 713(2), added subsec. (r).
 
-    Subsec. (s). [Pub. L. 112–144, § 714(b)][/us/pl/112/144/s714/b], added subsec. (s).
+    Subsec. (s). [Pub. L. 112–144][/us/pl/112/144], § 714(b), added subsec. (s).
 
-    2011—Subsec. (a). [Pub. L. 111–353, § 301(c)][/us/pl/111/353/s301/c], inserted “or the importer (as defined in [section 384a of this title][/us/usc/t21/s384a]) is in violation of such [section 384a of this title][/us/usc/t21/s384a]” after “or in violation of [section 355 of this title][/us/usc/t21/s355]”.
+    2011—Subsec. (a). [Pub. L. 111–353][/us/pl/111/353], § 301(c), inserted “or the importer (as defined in [section 384a of this title][/us/usc/t21/s384a]) is in violation of such [section 384a of this title][/us/usc/t21/s384a]” after “or in violation of [section 355 of this title][/us/usc/t21/s355]”.
 
     [Pub. L. 111–353][/us/pl/111/353], §§ 204(j)(2), 303(a), inserted “or (4) the recordkeeping requirements under [section 2223 of this title][/us/usc/t21/s2223] (other than the requirements under subsection (f) of such section) have not been complied with regarding such article,” in the third sentence before “then such article shall be refused admission” and inserted after the third sentence “With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission.”
 
-    Subsec. (b). [Pub. L. 111–353, § 303(c)][/us/pl/111/353/s303/c], substituted “with respect to an article described in subsection (a) relating to the requirements of sections 379aa or 379aa–1 of this title,” for “with respect to an article included within the provision of the fourth sentence of subsection (a)” in second sentence.
+    Subsec. (b). [Pub. L. 111–353][/us/pl/111/353], § 303(c), substituted “with respect to an article described in subsection (a) relating to the requirements of sections 379aa or 379aa–1 of this title,” for “with respect to an article included within the provision of the fourth sentence of subsection (a)” in second sentence.
 
-    Subsec. (e)(4)(A). [Pub. L. 111–353, § 107(b)(1)(A)][/us/pl/111/353/s107/b/1/A], substituted “a food, drug” for “a drug” in introductory provisions.
+    Subsec. (e)(4)(A). [Pub. L. 111–353][/us/pl/111/353], § 107(b)(1)(A), substituted “a food, drug” for “a drug” in introductory provisions.
 
-    Subsec. (e)(4)(A)(i). [Pub. L. 111–353, § 107(b)(1)(B)][/us/pl/111/353/s107/b/1/B], substituted “exported food, drug” for “exported drug”.
+    Subsec. (e)(4)(A)(i). [Pub. L. 111–353][/us/pl/111/353], § 107(b)(1)(B), substituted “exported food, drug” for “exported drug”.
 
-    Subsec. (e)(4)(A)(ii). [Pub. L. 111–353, § 107(b)(1)(C)][/us/pl/111/353/s107/b/1/C], substituted “the food, drug” for “the drug” in two places.
+    Subsec. (e)(4)(A)(ii). [Pub. L. 111–353][/us/pl/111/353], § 107(b)(1)(C), substituted “the food, drug” for “the drug” in two places.
 
-    Subsec. (e)(4)(C). [Pub. L. 111–353, § 107(b)(2)][/us/pl/111/353/s107/b/2], added subpar. (C).
+    Subsec. (e)(4)(C). [Pub. L. 111–353][/us/pl/111/353], § 107(b)(2), added subpar. (C).
 
-    Subsec. (e)(4)(D). [Pub. L. 111–353, § 107(b)(3)][/us/pl/111/353/s107/b/3], added subpar. (D).
+    Subsec. (e)(4)(D). [Pub. L. 111–353][/us/pl/111/353], § 107(b)(3), added subpar. (D).
 
-    Subsec. (l). [Pub. L. 111–353, § 102(b)(3)][/us/pl/111/353/s102/b/3], inserted “(or for which a registration has been suspended under such section)” after “[section 350d of this title][/us/usc/t21/s350d]”.
+    Subsec. (l). [Pub. L. 111–353][/us/pl/111/353], § 102(b)(3), inserted “(or for which a registration has been suspended under such section)” after “[section 350d of this title][/us/usc/t21/s350d]”.
 
-    Subsec. (m)(1). [Pub. L. 111–353, § 304(a)][/us/pl/111/353/s304/a], inserted “any country to which the article has been refused entry;” after “the country from which the article is shipped;”.
+    Subsec. (m)(1). [Pub. L. 111–353][/us/pl/111/353], § 304(a), inserted “any country to which the article has been refused entry;” after “the country from which the article is shipped;”.
 
-    Subsec. (q). [Pub. L. 111–353, § 303(b)][/us/pl/111/353/s303/b], added subsec. (q).
+    Subsec. (q). [Pub. L. 111–353][/us/pl/111/353], § 303(b), added subsec. (q).
 
-    2009—Subsec. (a). [Pub. L. 111–31, § 103][/us/pl/111/31/s103](l)(1)(C), which directed substitution of “drugs, devices, or tobacco products” for “drugs or devices” wherever appearing, was executed by making the substitution for “drugs and devices” in two places in second sentence, to reflect the probable intent of Congress.
+    2009—Subsec. (a). [Pub. L. 111–31][/us/pl/111/31], § 103(l)(1)(C), which directed substitution of “drugs, devices, or tobacco products” for “drugs or devices” wherever appearing, was executed by making the substitution for “drugs and devices” in two places in second sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–31, § 103][/us/pl/111/31/s103](l)(1)(A), (B), inserted “tobacco products,” after “devices,” in first sentence and “or section 387e(h)” after “section 360” in second sentence.
+    [Pub. L. 111–31][/us/pl/111/31], § 103(l)(1)(A), (B), inserted “tobacco products,” after “devices,” in first sentence and “or section 387e(h)” after “section 360” in second sentence.
 
-    Subsec. (e)(1). [Pub. L. 111–31, § 103][/us/pl/111/31/s103](l)(2), in introductory provisions, inserted “tobacco product” after “drug, device,” and “, and a tobacco product intended for export shall not be deemed to be in violation of section 387f(e), 387g, 387k, or 387t(a) of this title,” after “chapter”.
+    Subsec. (e)(1). [Pub. L. 111–31][/us/pl/111/31], § 103(l)(2), in introductory provisions, inserted “tobacco product” after “drug, device,” and “, and a tobacco product intended for export shall not be deemed to be in violation of section 387f(e), 387g, 387k, or 387t(a) of this title,” after “chapter”.
 
-    Subsec. (p). [Pub. L. 111–31, § 103][/us/pl/111/31/s103](l)(3), added subsec. (p).
+    Subsec. (p). [Pub. L. 111–31][/us/pl/111/31], § 103(l)(3), added subsec. (p).
 
     2007—Subsec. (a). [Pub. L. 110–85][/us/pl/110/85] substituted “is adulterated, misbranded, or in violation of [section 355 of this title][/us/usc/t21/s355], or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title,” for “is adulterated, misbranded, or in violation of [section 355 of this title][/us/usc/t21/s355],”.
 
-    2006—Subsec. (a). [Pub. L. 109–462, § 5(a)(1)][/us/pl/109/462/s5/a/1], inserted after third sentence “If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section.”
+    2006—Subsec. (a). [Pub. L. 109–462][/us/pl/109/462], § 5(a)(1), inserted after third sentence “If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section.”
 
-    Subsec. (b). [Pub. L. 109–462, § 5(a)(2)][/us/pl/109/462/s5/a/2], in second sentence, inserted “(1)” before “an article included”, “or (2) with respect to an article included within the provision of the fourth sentence of subsection (a), the responsible person (as defined in section 379aa or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 379aa or 379aa–1 of this title, as the case may be,” before “final determination”, and “, or, with respect to clause (2), the responsible person,” before “to perform”.
+    Subsec. (b). [Pub. L. 109–462][/us/pl/109/462], § 5(a)(2), in second sentence, inserted “(1)” before “an article included”, “or (2) with respect to an article included within the provision of the fourth sentence of subsection (a), the responsible person (as defined in section 379aa or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 379aa or 379aa–1 of this title, as the case may be,” before “final determination”, and “, or, with respect to clause (2), the responsible person,” before “to perform”.
 
-    2002—Subsec. (d)(3). [Pub. L. 107–188, § 322(a)][/us/pl/107/188/s322/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “No component of a drug, no component part or accessory of a device, or other article of device requiring further processing, which is ready or suitable for use for health-related purposes, and no food additive, color additive, or dietary supplement, including a product in bulk form, shall be excluded from importation into the United States under subsection (a) of this section if—
+    2002—Subsec. (d)(3). [Pub. L. 107–188][/us/pl/107/188], § 322(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “No component of a drug, no component part or accessory of a device, or other article of device requiring further processing, which is ready or suitable for use for health-related purposes, and no food additive, color additive, or dietary supplement, including a product in bulk form, shall be excluded from importation into the United States under subsection (a) of this section if—
 
     “(A) the importer of such article of a drug or device or importer of the food additive, color additive, or dietary supplement submits a statement to the Secretary, at the time of initial importation, that such article of a drug or device, food additive, color additive, or dietary supplement is intended to be further processed by the initial owner or consignee, or incorporated by the initial owner or consignee into a drug, biological product, device, food, food additive, color additive, or dietary supplement that will be exported by such owner or consignee from the United States in accordance with subsection (e) of this section or [section 382 of this title][/us/usc/t21/s382] or [section 262(h) of title 42][/us/usc/t42/s262/h];
 
@@ -447,47 +447,47 @@
 
     “(C) any imported component, part, article, or accessory of a drug or device and any food additive, color additive, or dietary supplement not incorporated or further processed as described in subparagraph (A) is destroyed or exported by the owner or consignee.”
 
-    Subsec. (h). [Pub. L. 107–188, § 302(a)][/us/pl/107/188/s302/a]–(c), added subsec. (h).
+    Subsec. (h). [Pub. L. 107–188][/us/pl/107/188], § 302(a)–(c), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 107–188, § 302(d)][/us/pl/107/188/s302/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–188][/us/pl/107/188], § 302(d), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 107–188, § 303(c)][/us/pl/107/188/s303/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 107–188][/us/pl/107/188], § 303(c), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 107–188, § 304(e)][/us/pl/107/188/s304/e], added subsec. (k).
+    Subsec. (k). [Pub. L. 107–188][/us/pl/107/188], § 304(e), added subsec. (k).
 
-    Subsec. (l). [Pub. L. 107–188, § 305(c)][/us/pl/107/188/s305/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 107–188][/us/pl/107/188], § 305(c), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 107–188, § 307(a)][/us/pl/107/188/s307/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 107–188][/us/pl/107/188], § 307(a), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 107–188, § 308(a)][/us/pl/107/188/s308/a], added subsec. (n).
+    Subsec. (n). [Pub. L. 107–188][/us/pl/107/188], § 308(a), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 107–188, § 321(b)(1)][/us/pl/107/188/s321/b/1], added subsec. (o).
+    Subsec. (o). [Pub. L. 107–188][/us/pl/107/188], § 321(b)(1), added subsec. (o).
 
-    2000—Subsec. (d)(1). [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(c)(1)\], inserted “and [section 384 of this title][/us/usc/t21/s384]” after “paragraph (2)”.
+    2000—Subsec. (d)(1). [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 745(c)(1)\], inserted “and [section 384 of this title][/us/usc/t21/s384]” after “paragraph (2)”.
 
-    Subsec. (g). [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 746(c)\], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 746(c)\], added subsec. (g).
 
     1997—Subsec. (d)(1). [Pub. L. 105–115][/us/pl/105/115] inserted “or composed wholly or partly of insulin” after “353(b) of this title”.
 
-    1996—Subsec. (d)(3). [Pub. L. 104–180, § 603(a)][/us/pl/104/180/s603/a], substituted “accessory of a device, or other article of device requiring further processing, which is ready” for “accessory of a device which is ready” in introductory provisions, inserted “further processed by the initial owner or consignee, or” after “is intended to be” in subpar. (A), and inserted “article,” after “part,” and “or further processed” after “incorporated” in subpar. (C).
+    1996—Subsec. (d)(3). [Pub. L. 104–180][/us/pl/104/180], § 603(a), substituted “accessory of a device, or other article of device requiring further processing, which is ready” for “accessory of a device which is ready” in introductory provisions, inserted “further processed by the initial owner or consignee, or” after “is intended to be” in subpar. (A), and inserted “article,” after “part,” and “or further processed” after “incorporated” in subpar. (C).
 
-    [Pub. L. 104–134, § 2102(a)(1)][/us/pl/104/134/s2102/a/1], added par. (3)
+    [Pub. L. 104–134][/us/pl/104/134], § 2102(a)(1), added par. (3)
 
-    Subsec. (d)(4). [Pub. L. 104–134, § 2102(a)(1)][/us/pl/104/134/s2102/a/1], added par. (4).
+    Subsec. (d)(4). [Pub. L. 104–134][/us/pl/104/134], § 2102(a)(1), added par. (4).
 
-    Subsec. (e)(1). [Pub. L. 104–134, § 2102(b)(1)][/us/pl/104/134/s2102/b/1], struck out concluding provisions which read as follows: “This paragraph does not authorize the exportation of any new animal drug, or an animal feed bearing or containing a new animal drug, which is unsafe within the meaning of [section 360b of this title][/us/usc/t21/s360b].”
+    Subsec. (e)(1). [Pub. L. 104–134][/us/pl/104/134], § 2102(b)(1), struck out concluding provisions which read as follows: “This paragraph does not authorize the exportation of any new animal drug, or an animal feed bearing or containing a new animal drug, which is unsafe within the meaning of [section 360b of this title][/us/usc/t21/s360b].”
 
-    Subsec. (e)(2). [Pub. L. 104–134, § 2102(b)(2)][/us/pl/104/134/s2102/b/2], in concluding provisions, substituted “either (i) the Secretary” for “the Secretary” and added cl. (ii).
+    Subsec. (e)(2). [Pub. L. 104–134][/us/pl/104/134], § 2102(b)(2), in concluding provisions, substituted “either (i) the Secretary” for “the Secretary” and added cl. (ii).
 
-    Subsec. (e)(3), (4). [Pub. L. 104–134, § 2102(b)(3)][/us/pl/104/134/s2102/b/3], added pars. (3) and (4).
+    Subsec. (e)(3), (4). [Pub. L. 104–134][/us/pl/104/134], § 2102(b)(3), added pars. (3) and (4).
 
-    Subsec. (f). [Pub. L. 104–180, § 603(b)][/us/pl/104/180/s603/b], inserted “(other than insulin, an antibiotic drug, an animal drug, or a drug exported under [section 382 of this title][/us/usc/t21/s382])” after “If a drug” in par. (1) and “A drug exported under [section 382 of this title][/us/usc/t21/s382] is exempt from this section.” at end of par. (2).
+    Subsec. (f). [Pub. L. 104–180][/us/pl/104/180], § 603(b), inserted “(other than insulin, an antibiotic drug, an animal drug, or a drug exported under [section 382 of this title][/us/usc/t21/s382])” after “If a drug” in par. (1) and “A drug exported under [section 382 of this title][/us/usc/t21/s382] is exempt from this section.” at end of par. (2).
 
-    [Pub. L. 104–134, § 2102(c)][/us/pl/104/134/s2102/c], added subsec. (f).
+    [Pub. L. 104–134][/us/pl/104/134], § 2102(c), added subsec. (f).
 
-    1993—Subsec. (a). [Pub. L. 103–80, § 3(dd)(1)][/us/pl/103/80/s3/dd/1], substituted “Health and Human Services” for “Agriculture” after “Secretary of” in two places in first sentence.
+    1993—Subsec. (a). [Pub. L. 103–80][/us/pl/103/80], § 3(dd)(1), substituted “Health and Human Services” for “Agriculture” after “Secretary of” in two places in first sentence.
 
-    Subsec. (b). [Pub. L. 103–80, § 3(cc)][/us/pl/103/80/s3/cc], substituted “Secretary of Health and Human Services” for “Administrator” after “If it appears to the”, “Secretary” for “Administrator” after “provisions of this subsection, the”, “Secretary’s” for “Administrator’s” after “as may be specified in the”, “Department of Health and Human Services” for “Federal Security Agency”, and “Secretary” for “Administrator” after “designated by the”.
+    Subsec. (b). [Pub. L. 103–80][/us/pl/103/80], § 3(cc), substituted “Secretary of Health and Human Services” for “Administrator” after “If it appears to the”, “Secretary” for “Administrator” after “provisions of this subsection, the”, “Secretary’s” for “Administrator’s” after “as may be specified in the”, “Department of Health and Human Services” for “Federal Security Agency”, and “Secretary” for “Administrator” after “designated by the”.
 
     1992—Subsecs. (a), (b). [Pub. L. 102–300][/us/pl/102/300], which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare” wherever appearing, was executed in second sentence of subsec. (a), but could not be executed in first sentence of subsec. (a) or in subsec. (b) because such words did not appear. See 1993 Amendment note above and Transfer of Functions note below.
 
@@ -497,7 +497,7 @@
 
     1976—Subsec. (a). [Pub. L. 94–295][/us/pl/94/295], §§ 3(f)(2), 4(b)(3), expanded provisions requiring the Secretary of Health, Education, and Welfare to request that the Secretary of the Treasury deliver to the Secretary of Health, Education, and Welfare items imported or offered for import into the United States that were manufactured, prepared, propagated, compounded, or processed in non-registered establishments by extending the provisions to include devices imported or offered for import, and, in cl. (1), inserted reference to devices which were manufactured, packed, stored, or installed using methods, facilities, or controls not conforming to the requirements of [section 360j(f) of this title][/us/usc/t21/s360j/f].
 
-    Subsec. (d). [Pub. L. 94–295, § 3(f)(1)][/us/pl/94/295/s3/f/1], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 94–295][/us/pl/94/295], § 3(f)(1), designated existing provisions as par. (1) and added par. (2).
 
     1970—Subsec. (a). [Pub. L. 91–513][/us/pl/91/513] substituted “Clause (2) of the third sentence of this paragraph” for “This paragraph” and “the Controlled Substances Import and Export Act” for “[section 173 of this title][/us/usc/t21/s173]” in last sentence.
 
@@ -513,7 +513,7 @@
 
  __Effective Date of 2012 Amendment; Applicability__ 
 
-[Pub. L. 112–144, title VII, § 708(c)][/us/pl/112/144/s708/c], July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that: 
+[Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 708(c), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply beginning on the effective date of the regulations promulgated pursuant to the amendment made by subsection (b) \[amending this section\].”
 
@@ -521,13 +521,13 @@
 
     Amendment by [section 301(c) of Pub. L. 111–353][/us/pl/111/353/s301/c] effective 2 years after Jan. 4, 2011, see [section 301(d) of Pub. L. 111–353][/us/pl/111/353/s301/d], set out as a note under [section 331 of this title][/us/usc/t21/s331].
 
-[Pub. L. 111–353, title III, § 304(c)][/us/pl/111/353/s304/c], Jan. 4, 2011, [124 Stat. 3958][/us/stat/124/3958], provided that: 
+[Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 304(c), Jan. 4, 2011, [124 Stat. 3958][/us/stat/124/3958], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Jan. 4, 2011\].”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–462, § 5(b)][/us/pl/109/462/s5/b], Dec. 22, 2006, [120 Stat. 3476][/us/stat/120/3476], provided that: 
+[Pub. L. 109–462][/us/pl/109/462], § 5(b), Dec. 22, 2006, [120 Stat. 3476][/us/stat/120/3476], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].”
 
@@ -551,7 +551,7 @@
 
  __Regulations__ 
 
-[Pub. L. 112–144, title VII, § 708(d)][/us/pl/112/144/s708/d], July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that:
+[Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 708(d), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -571,7 +571,7 @@
 
 >     Notwithstanding any other provision of law, the Secretary of Health and Human Services shall promulgate regulations implementing the amendments made by this section only as described in paragraph (2).”
 
-[Pub. L. 112–144, title VII, § 714(d)][/us/pl/112/144/s714/d], July 9, 2012, [126 Stat. 1074][/us/stat/126/1074], provided that:
+[Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 714(d), July 9, 2012, [126 Stat. 1074][/us/stat/126/1074], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -597,11 +597,11 @@
 
 >     In establishing the effective date of the regulations under paragraph (1), the Secretary of Health and Human Services shall, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, as determined appropriate by the Secretary of Health and Human Services, provide a reasonable period of time for an importer of a drug to comply with good importer practices, taking into account differences among importers and types of imports, including based on the level of risk posed by the imported product.”
 
-[Pub. L. 111–353, title III, § 304(b)][/us/pl/111/353/s304/b], Jan. 4, 2011, [124 Stat. 3958][/us/stat/124/3958], provided that: 
+[Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 304(b), Jan. 4, 2011, [124 Stat. 3958][/us/stat/124/3958], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall issue an interim final rule amending subpart I of part 1 of title 21, Code of Federal Regulations, to implement the amendment made by this section \[amending this section\].”
 
-[Pub. L. 107–188, title III, § 307(c)][/us/pl/107/188/s307/c], June 12, 2002, [116 Stat. 672][/us/stat/116/672], provided that:
+[Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 307(c), June 12, 2002, [116 Stat. 672][/us/stat/116/672], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -621,7 +621,7 @@
 
  __Construction of 2011 Amendment__ 
 
-[Pub. L. 111–353, title III, § 303(d)][/us/pl/111/353/s303/d], Jan. 4, 2011, [124 Stat. 3957][/us/stat/124/3957], provided that: 
+[Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 303(d), Jan. 4, 2011, [124 Stat. 3957][/us/stat/124/3957], provided that: 
 
 > “Nothing in the amendments made by this section \[amending this section\] shall limit the authority of the Secretary to conduct inspections of imported food or to take such other steps as the Secretary deems appropriate to determine the admissibility of imported food.”
 
@@ -631,19 +631,19 @@
 
  __Construction of Amendments by__  __[__  __Pub. L. 107–188__  __][/us/pl/107/188]__ 
 
-[Pub. L. 107–188, title III, § 308(c)][/us/pl/107/188/s308/c], June 12, 2002, [116 Stat. 673][/us/stat/116/673], provided that: 
+[Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 308(c), June 12, 2002, [116 Stat. 673][/us/stat/116/673], provided that: 
 
 > “With respect to articles of food that are imported or offered for import into the United States, nothing in this section \[amending this section and [section 343 of this title][/us/usc/t21/s343]\] shall be construed to limit the authority of the Secretary of Health and Human Services or the Secretary of the Treasury to require the marking of refused articles of food under any other provision of law.”
 
  __Transfer of Functions__ 
 
-    Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+    Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
 
     For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title][/us/usc/t21/s321].
 
  __Port Shopping__ 
 
-[Pub. L. 111–353, title I, § 115][/us/pl/111/353/s115], Jan. 4, 2011, [124 Stat. 3922][/us/stat/124/3922], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 115, Jan. 4, 2011, [124 Stat. 3922][/us/stat/124/3922], provided that: 
 
 > “Until the date on which the Secretary promulgates a final rule that implements the amendments made by section 308 of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, ([Public Law 107–188][/us/pl/107/188]) \[amending this section and [section 343 of this title][/us/usc/t21/s343]\], the Secretary shall notify the Secretary of Homeland Security of all instances in which the Secretary refuses to admit a food into the United States under section 801(a) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 381(a)][/us/usc/t21/s381/a]) so that the Secretary of Homeland Security, acting through the Commissioner of Customs and Border Protection, may prevent food refused admittance into the United States by a United States port of entry from being admitted by another United States port of entry, through the notification of other such United States ports of entry.”
 
@@ -653,13 +653,13 @@
 
  __Study and Report on Trade in Pharmaceuticals__ 
 
-[Pub. L. 108–173, title XI, § 1123][/us/pl/108/173/s1123], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469], provided that: 
+[Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1123, Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469], provided that: 
 
 > “The President’s designees shall conduct a study and report on issues related to trade and pharmaceuticals.”
 
  __Findings__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 746(b)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–40, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 746(b)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–40, provided that: 
 
 > “The Congress finds as follows:
 
@@ -718,45 +718,45 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t21/s384e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384e
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1938-06-25/ch675/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs801
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1058
 [/us/act/1949-10-18/ch696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-18%2Fch696
 [/us/stat/63/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F882
-[/us/pl/87/781/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs306
+[/us/pl/87/781/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtIII
 [/us/stat/76/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F796
-[/us/pl/90/399/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399%2Fs106
+[/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/stat/82/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F353
-[/us/pl/91/513/s701/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Fh
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1282
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F578
-[/us/pl/100/293/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F293%2Fs3
+[/us/pl/100/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F293
 [/us/stat/102/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F96
-[/us/pl/102/300/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F1
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/102/353/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F353%2Fs5
+[/us/pl/102/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F353
 [/us/stat/106/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F943
-[/us/pl/103/80/s3/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fcc
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
-[/us/pl/104/134/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fa
+[/us/pl/104/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtII
 [/us/stat/110/1321-313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-313
-[/us/pl/104/180/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs603%2Fa
+[/us/pl/104/180/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVI
 [/us/stat/110/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1594
-[/us/pl/105/115/s125/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fa%2F2%2FD
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F662
-[/us/pl/109/462/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs5%2Fa
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3475
-[/us/pl/110/85/s912/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs912%2Fb%2F2
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F952
-[/us/pl/111/31/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
-[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3889
-[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1068
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
@@ -764,7 +764,7 @@
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/110/246/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11015%2Fa
+[/us/pl/110/246/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXI
 [/us/stat/122/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2124
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
@@ -776,85 +776,85 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/112/144/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs708%2Fb
-[/us/pl/112/144/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs708%2Fa
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t19/s1498/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1498%2Fa%2F1
-[/us/pl/112/144/s713/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs713%2F1
-[/us/pl/112/144/s713/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs713%2F2
-[/us/pl/112/144/s714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs714%2Fb
-[/us/pl/111/353/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs301%2Fc
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s384a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384a
 [/us/usc/t21/s384a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384a
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2223
-[/us/pl/111/353/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs303%2Fc
-[/us/pl/111/353/s107/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs107%2Fb%2F1%2FA
-[/us/pl/111/353/s107/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs107%2Fb%2F1%2FB
-[/us/pl/111/353/s107/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs107%2Fb%2F1%2FC
-[/us/pl/111/353/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs107%2Fb%2F2
-[/us/pl/111/353/s107/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs107%2Fb%2F3
-[/us/pl/111/353/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fb%2F3
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
-[/us/pl/111/353/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs304%2Fa
-[/us/pl/111/353/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs303%2Fb
-[/us/pl/111/31/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103
-[/us/pl/111/31/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103
-[/us/pl/111/31/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103
-[/us/pl/111/31/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
-[/us/pl/109/462/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs5%2Fa%2F1
-[/us/pl/109/462/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs5%2Fa%2F2
-[/us/pl/107/188/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs322%2Fa
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/usc/t21/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs382
 [/us/usc/t42/s262/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fh
-[/us/pl/107/188/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs302%2Fa
-[/us/pl/107/188/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs302%2Fd
-[/us/pl/107/188/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs303%2Fc
-[/us/pl/107/188/s304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs304%2Fe
-[/us/pl/107/188/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs305%2Fc
-[/us/pl/107/188/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs307%2Fa
-[/us/pl/107/188/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs308%2Fa
-[/us/pl/107/188/s321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fb%2F1
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/usc/t21/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
-[/us/pl/104/180/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs603%2Fa
-[/us/pl/104/134/s2102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fa%2F1
-[/us/pl/104/134/s2102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fa%2F1
-[/us/pl/104/134/s2102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fb%2F1
+[/us/pl/104/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
-[/us/pl/104/134/s2102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fb%2F2
-[/us/pl/104/134/s2102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fb%2F3
-[/us/pl/104/180/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs603%2Fb
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180
 [/us/usc/t21/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs382
 [/us/usc/t21/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs382
-[/us/pl/104/134/s2102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2102%2Fc
-[/us/pl/103/80/s3/dd/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fdd%2F1
-[/us/pl/103/80/s3/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fcc
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/pl/102/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F353
 [/us/pl/100/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F293
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/usc/t21/s360j/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Ff
-[/us/pl/94/295/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs3%2Ff%2F1
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/usc/t21/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs173
 [/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/usc/t21/s360/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fi
-[/us/pl/112/144/s708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs708%2Fc
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1069
 [/us/pl/111/353/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs301%2Fc
 [/us/pl/111/353/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs301%2Fd
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
-[/us/pl/111/353/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs304%2Fc
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3958
-[/us/pl/109/462/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs5%2Fb
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3476
 [/us/pl/107/188/s321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fb%2F1
 [/us/pl/107/188/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs321%2Fc
@@ -871,35 +871,35 @@
 [/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/pl/90/399/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399%2Fs108%2Fa
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
-[/us/pl/112/144/s708/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs708%2Fd
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1069
-[/us/pl/112/144/s714/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs714%2Fd
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1074
 [/us/usc/t21/s381/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fs
 [/us/usc/t21/s381/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fs
-[/us/pl/111/353/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs304%2Fb
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3958
-[/us/pl/107/188/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs307%2Fc
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F672
 [/us/usc/t21/s381/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fm
 [/us/usc/t21/s381/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fm
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs702
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/111/353/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs303%2Fd
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3957
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2206
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
-[/us/pl/107/188/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs308%2Fc
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F673
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/111/353/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs115
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3922
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343
@@ -908,9 +908,9 @@
 [/us/usc/t21/s387s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387s
 [/us/pl/111/31/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs6
 [/us/usc/t21/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387
-[/us/pl/108/173/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1123
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2469
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 

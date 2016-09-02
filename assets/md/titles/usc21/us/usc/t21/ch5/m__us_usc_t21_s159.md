@@ -17,7 +17,7 @@
 
     The procedures of sections 672, 673, and 674 of this title (relating to detentions, seizures and condemnations, and injunctions, respectively) shall apply to the enforcement of this chapter with respect to any product prepared, sold, bartered, exchanged, or shipped in violation of this chapter or a regulation promulgated under this chapter. The provisions (including penalties) of [section 675 of this title][/us/usc/t21/s675] shall apply to the performance of official duties under this chapter. Congress finds that (i) the products and activities that are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and (ii) regulation of the products and activities as provided in this chapter is necessary to prevent and eliminate burdens on such commerce and to effectively regulate such commerce.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), as added [Pub. L. 99–198, title XVII, § 1768(e)][/us/pl/99/198/s1768/e], Dec. 23, 1985, [99 Stat. 1655][/us/stat/99/1655].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), as added [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1768(e), Dec. 23, 1985, [99 Stat. 1655][/us/stat/99/1655].)
 
  __Codification__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t21/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs675
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
-[/us/pl/99/198/s1768/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768%2Fe
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1655
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/pl/99/198/s1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768

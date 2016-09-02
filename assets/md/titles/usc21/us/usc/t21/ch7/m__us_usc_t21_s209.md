@@ -21,7 +21,7 @@
 
     For the purpose of this and of every other section of this chapter no box, bottle, or other package shall be regarded as having been labeled “Poison” unless the word “Poison” appears conspicuously thereon, printed in plain, uncondensed gothic letters in red ink.
 
-([Mar. 3, 1915, ch. 74, § 7][/us/act/1915-03-03/ch74/s7], [38 Stat. 820][/us/stat/38/820].)
+([Mar. 3, 1915, ch. 74][/us/act/1915-03-03/ch74], § 7, [38 Stat. 820][/us/stat/38/820].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch74/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74%2Fs7
+[/us/act/1915-03-03/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch74
 [/us/stat/38/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F820
 
 

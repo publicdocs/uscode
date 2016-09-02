@@ -447,7 +447,7 @@
 
         An abbreviated new drug application that is not considered to be received within the meaning of [section 355(j)(5)(A) of this title][/us/usc/t21/s355/j/5/A] because of failure to pay an applicable fee under this provision within the time period specified in subsection (g) shall be deemed not to have been “substantially complete” on the date of its submission within the meaning of [section 355(j)(5)(B)(iv)(II)(cc) of this title][/us/usc/t21/s355/j/5/B/iv/II/cc]. An abbreviated new drug application that is not substantially complete on the date of its submission solely because of failure to pay an applicable fee under the preceding sentence shall be deemed substantially complete and received within the meaning of [section 355(j)(5)(A) of this title][/us/usc/t21/s355/j/5/A] as of the date such applicable fee is received.
 
-([June 25, 1938, ch. 675, § 744B][/us/act/1938-06-25/ch675/s744B], as added [Pub. L. 112–144, title III, § 302][/us/pl/112/144/s302], July 9, 2012, [126 Stat. 1011][/us/stat/126/1011]; amended [Pub. L. 112–193, § 2(b)(2)][/us/pl/112/193/s2/b/2], (3), Oct. 5, 2012, [126 Stat. 1443][/us/stat/126/1443].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 744B, as added [Pub. L. 112–144, title III][/us/pl/112/144/tIII], § 302, July 9, 2012, [126 Stat. 1011][/us/stat/126/1011]; amended [Pub. L. 112–193][/us/pl/112/193], § 2(b)(2), (3), Oct. 5, 2012, [126 Stat. 1443][/us/stat/126/1443].)
 
  __Termination of Section__ 
 
@@ -455,9 +455,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–193, § 2(b)(2)][/us/pl/112/193/s2/b/2], inserted “for such year” after “obligation of fees” wherever appearing.
+    2012—Subsec. (a). [Pub. L. 112–193][/us/pl/112/193], § 2(b)(2), inserted “for such year” after “obligation of fees” wherever appearing.
 
-    Subsec. (i)(2)(C). [Pub. L. 112–193, § 2(b)(3)][/us/pl/112/193/s2/b/3], inserted comma after “September 30, 2013” and struck out comma after “for fiscal year 2013”.
+    Subsec. (i)(2)(C). [Pub. L. 112–193][/us/pl/112/193], § 2(b)(3), inserted comma after “September 30, 2013” and struck out comma after “for fiscal year 2013”.
 
  __Effective and Termination Dates__ 
 
@@ -467,7 +467,7 @@
 
  __Fees Authorized for Fiscal Year 2013__ 
 
-[Pub. L. 112–193, § 2(c)][/us/pl/112/193/s2/c], Oct. 5, 2012, [126 Stat. 1443][/us/stat/126/1443], provided that:
+[Pub. L. 112–193][/us/pl/112/193], § 2(c), Oct. 5, 2012, [126 Stat. 1443][/us/stat/126/1443], provided that:
 
 >     “(1) Notwithstanding section 744B(a)(2)(E)(ii) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–42(a)(2)(E)(ii)][/us/usc/t21/s379j–42/a/2/E/ii]), the fee authorized under section 744B(a)(2) of such Act for fiscal year 2013 shall be due 30 calendar days after publication of the notice provided for in section 744B(a)(2)(C)(i) of such Act.
 
@@ -502,20 +502,20 @@
 [/us/usc/t21/s355/j/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F5%2FA
 [/us/usc/t21/s355/j/5/B/iv/II/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F5%2FB%2Fiv%2FII%2Fcc
 [/us/usc/t21/s355/j/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F5%2FA
-[/us/act/1938-06-25/ch675/s744B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs744B
-[/us/pl/112/144/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs302
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIII
 [/us/stat/126/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1011
-[/us/pl/112/193/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193%2Fs2%2Fb%2F2
+[/us/pl/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193
 [/us/stat/126/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1443
 [/us/pl/112/144/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs304%2Fa
-[/us/pl/112/193/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193%2Fs2%2Fb%2F2
-[/us/pl/112/193/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193%2Fs2%2Fb%2F3
+[/us/pl/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193
+[/us/pl/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193
 [/us/pl/112/144/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs304%2Fa
 [/us/usc/t21/s379j–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9341
 [/us/usc/t21/s379j–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9341
 [/us/pl/112/144/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs305
 [/us/usc/t21/s379j–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9341
-[/us/pl/112/193/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193%2Fs2%2Fc
+[/us/pl/112/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193
 [/us/stat/126/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1443
 [/us/usc/t21/s379j–42/a/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9342%2Fa%2F2%2FE%2Fii
 

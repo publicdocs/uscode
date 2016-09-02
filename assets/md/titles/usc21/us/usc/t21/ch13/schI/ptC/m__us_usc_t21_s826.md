@@ -69,7 +69,7 @@
 
             (C) the controlled substance is in schedule II.
 
-([Pub. L. 91–513, title II, § 306][/us/pl/91/513/s306], Oct. 27, 1970, [84 Stat. 1257][/us/stat/84/1257]; [Pub. L. 94–273, § 3(16)][/us/pl/94/273/s3/16], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 109–177, title VII, § 713][/us/pl/109/177/s713], Mar. 9, 2006, [120 Stat. 264][/us/stat/120/264]; [Pub. L. 112–144, title X, § 1005][/us/pl/112/144/s1005], July 9, 2012, [126 Stat. 1105][/us/stat/126/1105].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 306, Oct. 27, 1970, [84 Stat. 1257][/us/stat/84/1257]; [Pub. L. 94–273][/us/pl/94/273], § 3(16), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 713, Mar. 9, 2006, [120 Stat. 264][/us/stat/120/264]; [Pub. L. 112–144, title X][/us/pl/112/144/tX], § 1005, July 9, 2012, [126 Stat. 1105][/us/stat/126/1105].)
 
  __References in Text__ 
 
@@ -79,19 +79,19 @@
 
     2012—Subsec. (h). [Pub. L. 112–144][/us/pl/112/144] added subsec. (h).
 
-    2006—Subsec. (a). [Pub. L. 109–177, § 713(1)][/us/pl/109/177/s713/1], inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for each basic class of controlled substance in schedules I and II”.
+    2006—Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 713(1), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for each basic class of controlled substance in schedules I and II”.
 
-    Subsec. (b). [Pub. L. 109–177, § 713(2)][/us/pl/109/177/s713/2], inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for each basic class of controlled substance in schedule I or II”.
+    Subsec. (b). [Pub. L. 109–177][/us/pl/109/177], § 713(2), inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for each basic class of controlled substance in schedule I or II”.
 
-    Subsec. (c). [Pub. L. 109–177, § 713(3)][/us/pl/109/177/s713/3], inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for the basic classes of controlled substances in schedules I and II”.
+    Subsec. (c). [Pub. L. 109–177][/us/pl/109/177], § 713(3), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for the basic classes of controlled substances in schedules I and II”.
 
-    Subsec. (d). [Pub. L. 109–177, § 713(4)][/us/pl/109/177/s713/4], inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “that basic class of controlled substance”.
+    Subsec. (d). [Pub. L. 109–177][/us/pl/109/177], § 713(4), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “that basic class of controlled substance”.
 
-    Subsec. (e). [Pub. L. 109–177, § 713(5)][/us/pl/109/177/s713/5], inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for a basic class of controlled substance in schedule I or II”.
+    Subsec. (e). [Pub. L. 109–177][/us/pl/109/177], § 713(5), inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for a basic class of controlled substance in schedule I or II”.
 
-    Subsec. (f). [Pub. L. 109–177, § 713(6)][/us/pl/109/177/s713/6], inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “controlled substances in schedules I and II”, “or of ephedrine, pseudoephedrine, or phenylpropanolamine” after “the manufacture of a controlled substance”, and “or chemicals” after “such incidentally produced substances”.
+    Subsec. (f). [Pub. L. 109–177][/us/pl/109/177], § 713(6), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “controlled substances in schedules I and II”, “or of ephedrine, pseudoephedrine, or phenylpropanolamine” after “the manufacture of a controlled substance”, and “or chemicals” after “such incidentally produced substances”.
 
-    Subsec. (g). [Pub. L. 109–177, § 713(7)][/us/pl/109/177/s713/7], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–177][/us/pl/109/177], § 713(7), added subsec. (g).
 
     1976—Subsec. (c). [Pub. L. 94–273][/us/pl/94/273] substituted “October” for “July”.
 
@@ -101,7 +101,7 @@
 
  __Coordination With United States Trade Representative__ 
 
-[Pub. L. 109–177, title VII, § 718][/us/pl/109/177/s718], Mar. 9, 2006, [120 Stat. 267][/us/stat/120/267], provided that: 
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 718, Mar. 9, 2006, [120 Stat. 267][/us/stat/120/267], provided that: 
 
 > “In implementing sections 713 through 717 and [section 721 of this title][/us/usc/t21/s721] \[amending this section and sections 830, 842, 952, 960, and 971 of this title\], the Attorney General shall consult with the United States Trade Representative to ensure implementation complies with all applicable international treaties and obligations of the United States.”
 
@@ -113,27 +113,27 @@
 ----------
 
 [/us/usc/t21/s356e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356e
-[/us/pl/91/513/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs306
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1257
-[/us/pl/94/273/s3/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs3%2F16
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
-[/us/pl/109/177/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F264
-[/us/pl/112/144/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1005
+[/us/pl/112/144/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtX
 [/us/stat/126/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1105
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/109/177/s713/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F1
-[/us/pl/109/177/s713/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F2
-[/us/pl/109/177/s713/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F3
-[/us/pl/109/177/s713/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F4
-[/us/pl/109/177/s713/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F5
-[/us/pl/109/177/s713/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F6
-[/us/pl/109/177/s713/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs713%2F7
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/91/513/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs704%2Fc
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/109/177/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs718
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F267
 [/us/usc/t21/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs721
 

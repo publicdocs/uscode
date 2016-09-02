@@ -29,7 +29,7 @@
 
     The Secretary shall report the plan developed under paragraph (1), the resources necessary to carry out the research described in such paragraph, recommendations for the implementation of such research, and the result of the review conducted under paragraph (2) not later than the expiration of 240 days after August 23, 1988, to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives.
 
-([Pub. L. 100–418, title IV, § 4704][/us/pl/100/418/s4704], Aug. 23, 1988, [102 Stat. 1414][/us/stat/102/1414].)
+([Pub. L. 100–418, title IV][/us/pl/100/418/tIV], § 4704, Aug. 23, 1988, [102 Stat. 1414][/us/stat/102/1414].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/100/418/s4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4704
+[/us/pl/100/418/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIV
 [/us/stat/102/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1414
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

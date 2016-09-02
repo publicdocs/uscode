@@ -29,7 +29,7 @@
 
     (6) is integrated with relevant laboratory networks administered by other Federal agencies.
 
-([Pub. L. 111–353, title II, § 202(b)][/us/pl/111/353/s202/b], Jan. 4, 2011, [124 Stat. 3929][/us/stat/124/3929].)
+([Pub. L. 111–353, title II][/us/pl/111/353/tII], § 202(b), Jan. 4, 2011, [124 Stat. 3929][/us/stat/124/3929].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/353/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs202%2Fb
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3929
 
 

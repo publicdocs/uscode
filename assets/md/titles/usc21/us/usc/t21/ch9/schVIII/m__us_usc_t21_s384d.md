@@ -291,7 +291,7 @@
 
             Nothing in this section affects the authority of the Secretary to inspect any eligible entity pursuant to this chapter.
 
-([June 25, 1938, ch. 675, § 808][/us/act/1938-06-25/ch675/s808], as added [Pub. L. 111–353, title III, § 307][/us/pl/111/353/s307], Jan. 4, 2011, [124 Stat. 3959][/us/stat/124/3959].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 808, as added [Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 307, Jan. 4, 2011, [124 Stat. 3959][/us/stat/124/3959].)
 
  __References in Text__ 
 
@@ -331,8 +331,8 @@
 [/us/usc/t21/s381/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fq
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t21/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs374
-[/us/act/1938-06-25/ch675/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs808
-[/us/pl/111/353/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs307
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3959
 [/us/usc/t21/s381/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fq
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675

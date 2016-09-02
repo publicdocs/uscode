@@ -33,11 +33,11 @@
 
         (2) Sums appropriated under this subsection shall remain available for obligation or expenditure in the fiscal year for which appropriated and in the fiscal year next following.
 
-([Pub. L. 92–255, title IV, § 412][/us/pl/92/255/s412], Mar. 21, 1972, [86 Stat. 84][/us/stat/86/84].)
+([Pub. L. 92–255, title IV][/us/pl/92/255/tIV], § 412, Mar. 21, 1972, [86 Stat. 84][/us/stat/86/84].)
 
  __National Advisory Council for Drug Abuse Prevention__ 
 
-    [Section 1151 of this title][/us/usc/t21/s1151], which established the National Advisory Council for Drug Abuse Prevention, was repealed by [Pub. L. 92–255, title I, § 104][/us/pl/92/255/s104], Mar. 21, 1972, [86 Stat. 67][/us/stat/86/67], eff. June 30, 1975.
+    [Section 1151 of this title][/us/usc/t21/s1151], which established the National Advisory Council for Drug Abuse Prevention, was repealed by [Pub. L. 92–255, title I][/us/pl/92/255/tI], § 104, Mar. 21, 1972, [86 Stat. 67][/us/stat/86/67], eff. June 30, 1975.
 
 ----------
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/92/255/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2Fs412
+[/us/pl/92/255/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2FtIV
 [/us/stat/86/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F84
 [/us/usc/t21/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1151
-[/us/pl/92/255/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2Fs104
+[/us/pl/92/255/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2FtI
 [/us/stat/86/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F67
 
 

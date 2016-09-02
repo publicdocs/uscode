@@ -27,7 +27,7 @@
 
         Not later than October 1, 2011, the Secretary shall submit to Congress a report on the basis for the selection by the Secretary of the foreign countries in which the Secretary established offices, the progress which such offices have made with respect to assisting the governments of such countries in providing for the safety of articles of food and other products regulated by the Food and Drug Administration exported to the United States, and the plans of the Secretary for establishing additional foreign offices of the Food and Drug Administration, as appropriate.
 
-([Pub. L. 111–353, title III, § 308][/us/pl/111/353/s308], Jan. 4, 2011, [124 Stat. 3966][/us/stat/124/3966].)
+([Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 308, Jan. 4, 2011, [124 Stat. 3966][/us/stat/124/3966].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/353/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs308
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3966
 
 

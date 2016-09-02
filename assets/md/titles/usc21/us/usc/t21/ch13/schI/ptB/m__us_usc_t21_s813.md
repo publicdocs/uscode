@@ -17,7 +17,7 @@
 
     A controlled substance analogue shall, to the extent intended for human consumption, be treated, for the purposes of any Federal law as a controlled substance in schedule I.
 
-([Pub. L. 91–513, title II, § 203][/us/pl/91/513/s203], as added [Pub. L. 99–570, title I, § 1202][/us/pl/99/570/s1202], Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13]; amended [Pub. L. 100–690, title VI, § 6470(c)][/us/pl/100/690/s6470/c], Nov. 18, 1988, [102 Stat. 4378][/us/stat/102/4378].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 203, as added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1202, Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6470(c), Nov. 18, 1988, [102 Stat. 4378][/us/stat/102/4378].)
 
  __References in Text__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/91/513/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs203
-[/us/pl/99/570/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1202
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-13
-[/us/pl/100/690/s6470/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6470%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4378
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

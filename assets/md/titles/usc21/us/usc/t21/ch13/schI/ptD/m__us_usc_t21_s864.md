@@ -27,7 +27,7 @@
 
     (b) Any person who violates subsection (a) of this section shall be imprisoned or fined, or both, in accordance with [section 843(d) of this title][/us/usc/t21/s843/d] as if such violation were a violation of a provision of [section 843 of this title][/us/usc/t21/s843].
 
-([Pub. L. 91–513, title II, § 423][/us/pl/91/513/s423], as added [Pub. L. 106–310, div. B, title XXXVI, § 3653(a)][/us/pl/106/310/s3653/a], Oct. 17, 2000, [114 Stat. 1240][/us/stat/114/1240].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 423, as added [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3653(a), Oct. 17, 2000, [114 Stat. 1240][/us/stat/114/1240].)
 
 ----------
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t21/s843/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs843%2Fd
 [/us/usc/t21/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs843
-[/us/pl/91/513/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs423
-[/us/pl/106/310/s3653/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3653%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1240
 
 

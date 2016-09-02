@@ -201,7 +201,7 @@
 
         This section shall not apply to activities of a facility that are subject to [section 350g of this title][/us/usc/t21/s350g].
 
-([June 25, 1938, ch. 675, § 419][/us/act/1938-06-25/ch675/s419], as added [Pub. L. 111–353, title I, § 105(a)][/us/pl/111/353/s105/a], Jan. 4, 2011, [124 Stat. 3899][/us/stat/124/3899].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 419, as added [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 105(a), Jan. 4, 2011, [124 Stat. 3899][/us/stat/124/3899].)
 
  __References in Text__ 
 
@@ -215,7 +215,7 @@
 
  __Scientific and Economic Analysis of the FDA Food Safety Modernization Act__ 
 
-[Pub. L. 113–79, title XII, § 12311(a)][/us/pl/113/79/s12311/a], Feb. 7, 2014, [128 Stat. 992][/us/stat/128/992], provided that: 
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12311(a), Feb. 7, 2014, [128 Stat. 992][/us/stat/128/992], provided that: 
 
 > “When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information:
 
@@ -233,13 +233,13 @@
 
  __Small Entity Compliance Policy Guide__ 
 
-[Pub. L. 111–353, title I, § 105(b)][/us/pl/111/353/s105/b], Jan. 4, 2011, [124 Stat. 3904][/us/stat/124/3904], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 105(b), Jan. 4, 2011, [124 Stat. 3904][/us/stat/124/3904], provided that: 
 
 > “Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350h][/us/usc/t21/s350h]\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section.”
 
  __No Effect on HACCP Authorities__ 
 
-[Pub. L. 111–353, title I, § 105(d)][/us/pl/111/353/s105/d], Jan. 4, 2011, [124 Stat. 3905][/us/stat/124/3905], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 105(d), Jan. 4, 2011, [124 Stat. 3905][/us/stat/124/3905], provided that: 
 
 > “Nothing in the amendments made by this section \[enacting this section and amending [section 331 of this title][/us/usc/t21/s331]\] limits the authority of the Secretary \[of Health and Human Services\] under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.) or the Public Health Service Act ([42 U.S.C. 201][/us/usc/t42/s201] et seq.) to revise, issue, or enforce product and category-specific regulations, such as the Seafood Hazard Analysis Critical Controls Points Program, the Juice Hazard Analysis Critical Control \[Points\] Program, and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards.”
 
@@ -259,8 +259,8 @@
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s350g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g
 [/us/usc/t21/s350g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g
-[/us/act/1938-06-25/ch675/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs419
-[/us/pl/111/353/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs105%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3899
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
@@ -271,12 +271,12 @@
 [/us/usc/t42/s280g–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%9316
 [/us/usc/t42/s247b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9320
 [/us/usc/t21/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2201
-[/us/pl/113/79/s12311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12311%2Fa
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F992
-[/us/pl/111/353/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs105%2Fb
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3904
 [/us/usc/t21/s350h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350h
-[/us/pl/111/353/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs105%2Fd
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3905
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301

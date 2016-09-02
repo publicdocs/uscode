@@ -39,7 +39,7 @@
 
         The adulteration and misbranding provisions of this subchapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection or not required to be inspected under this section.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 23, formerly 21st, 22nd pars., [34 Stat. 1265][/us/stat/34/1265]; [June 29, 1938, ch. 810][/us/act/1938-06-29/ch810], [52 Stat. 1235][/us/stat/52/1235]; renumbered § 23 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 11, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 591; [Pub. L. 91–342][/us/pl/91/342], July 18, 1970, [84 Stat. 438][/us/stat/84/438]; [Pub. L. 102–237, title X, § 1016(a)][/us/pl/102/237/s1016/a], Dec. 13, 1991, [105 Stat. 1902][/us/stat/105/1902].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 23, formerly 21st, 22nd pars., [34 Stat. 1265][/us/stat/34/1265]; [June 29, 1938, ch. 810][/us/act/1938-06-29/ch810], [52 Stat. 1235][/us/stat/52/1235]; renumbered § 23 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 11, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 591; [Pub. L. 91–342][/us/pl/91/342], July 18, 1970, [84 Stat. 438][/us/stat/84/438]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1016(a), Dec. 13, 1991, [105 Stat. 1902][/us/stat/105/1902].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
     1970—Subsec. (a). [Pub. L. 91–342][/us/pl/91/342] changed proviso so as to permit custom slaughterers to conduct a separate inspected meat business, continued the exemption for owners to slaughter and process their own animals for their own use, authorized the Secretary to exempt custom slaughtering and processing performed by an inspected establishment, and required that custom slaughtered articles be clearly marked “not for sale”.
 
-    1967—[Pub. L. 90–201, § 11][/us/pl/90/201/s11], substituted provisions for personal, custom, and territorial slaughtering exemptions and for application of adulteration and misbranding provisions to inspection-free articles for farmer definition and retail butcher and retail dealer exemption provisions.
+    1967—[Pub. L. 90–201][/us/pl/90/201], § 11, substituted provisions for personal, custom, and territorial slaughtering exemptions and for application of adulteration and misbranding provisions to inspection-free articles for farmer definition and retail butcher and retail dealer exemption provisions.
 
     1938—Act June 29, 1948, amended section generally.
 
@@ -79,11 +79,11 @@
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
 [/us/pl/91/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F342
 [/us/stat/84/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F438
-[/us/pl/102/237/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1016%2Fa
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1902
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/91/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F342
-[/us/pl/90/201/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs11
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20%2Fc
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601

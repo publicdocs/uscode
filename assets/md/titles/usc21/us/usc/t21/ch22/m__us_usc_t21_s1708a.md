@@ -65,7 +65,7 @@
 
             (C) policy or management changes needed to prevent and detect fraud and abuse in such programs and operations.
 
-([Pub. L. 109–469, title II, § 203][/us/pl/109/469/s203], Dec. 29, 2006, [120 Stat. 3517][/us/stat/120/3517]; [Pub. L. 112–234, § 2(c)][/us/pl/112/234/s2/c], Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].)
+([Pub. L. 109–469, title II][/us/pl/109/469/tII], § 203, Dec. 29, 2006, [120 Stat. 3517][/us/stat/120/3517]; [Pub. L. 112–234][/us/pl/112/234], § 2(c), Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–234, § 2(c)(1)][/us/pl/112/234/s2/c/1], substituted “, 2013, and every 3 years thereafter,” for “of each year” in introductory provisions.
+    2012—Subsec. (a). [Pub. L. 112–234][/us/pl/112/234], § 2(c)(1), substituted “, 2013, and every 3 years thereafter,” for “of each year” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 112–234, § 2(c)(2)][/us/pl/112/234/s2/c/2], substituted “not later than December 31, 2013, and every 3 years thereafter—” for “at a frequency of not less than once per year—” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–234][/us/pl/112/234], § 2(c)(2), substituted “not later than December 31, 2013, and every 3 years thereafter—” for “at a frequency of not less than once per year—” in introductory provisions.
 
 ----------
 
@@ -88,14 +88,14 @@
 ----------
 ----------
 
-[/us/pl/109/469/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs203
+[/us/pl/109/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtII
 [/us/stat/120/3517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3517
-[/us/pl/112/234/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fc
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1624
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/stat/120/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3525
 [/us/usc/t21/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1707
-[/us/pl/112/234/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fc%2F1
-[/us/pl/112/234/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fc%2F2
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 
 

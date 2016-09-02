@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate such rules and regulations as he deems necessary to carry out the purposes or provisions of this chapter, and shall be responsible for the administration and enforcement of this chapter except as otherwise provided in [section 1034(d) of this title][/us/usc/t21/s1034/d].
 
-([Pub. L. 91–597, § 14][/us/pl/91/597/s14], Dec. 29, 1970, [84 Stat. 1629][/us/stat/84/1629].)
+([Pub. L. 91–597][/us/pl/91/597], § 14, Dec. 29, 1970, [84 Stat. 1629][/us/stat/84/1629].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t21/s1034/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1034%2Fd
-[/us/pl/91/597/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs14
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1629
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

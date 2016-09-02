@@ -23,7 +23,7 @@
 
         The Secretary shall refuse to render inspection to any plant whose premises, facilities, or equipment, or the operation thereof, fail to meet the requirements of this section.
 
-([Pub. L. 91–597, § 6][/us/pl/91/597/s6], Dec. 29, 1970, [84 Stat. 1625][/us/stat/84/1625].)
+([Pub. L. 91–597][/us/pl/91/597], § 6, Dec. 29, 1970, [84 Stat. 1625][/us/stat/84/1625].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/91/597/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs6
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1625
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

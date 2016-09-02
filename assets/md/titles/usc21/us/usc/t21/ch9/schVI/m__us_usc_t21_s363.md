@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate regulations exempting from any labeling requirement of this chapter cosmetics which are, in accordance with the practice of the trade, to be processed, labeled, or repacked in substantial quantities at establishments other than those where originally processed or packed, on condition that such cosmetics are not adulterated or misbranded under the provisions of this chapter upon removal from such processing, labeling, or repacking establishment.
 
-([June 25, 1938, ch. 675, § 603][/us/act/1938-06-25/ch675/s603], [52 Stat. 1054][/us/stat/52/1054].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 603, [52 Stat. 1054][/us/stat/52/1054].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs603
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1054
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 

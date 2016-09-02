@@ -187,7 +187,7 @@
 
         (3) order restitution to any person injured as a result of the offense as provided in [section 3663A of title 18][/us/usc/t18/s3663A].
 
-([Pub. L. 91–513, title II, § 413][/us/pl/91/513/s413], as added and amended [Pub. L. 98–473, title II][/us/pl/98/473], §§ 303, 2301(d)–(f), Oct. 12, 1984, [98 Stat. 2044][/us/stat/98/2044], 2192, 2193; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1153(b), 1864, Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13], 3207–54; [Pub. L. 104–237, title II, § 207][/us/pl/104/237/s207], Oct. 3, 1996, [110 Stat. 3104][/us/stat/110/3104]; [Pub. L. 106–310, div. B, title XXXVI, § 3613(a)][/us/pl/106/310/s3613/a], Oct. 17, 2000, [114 Stat. 1229][/us/stat/114/1229]; [Pub. L. 107–56, title III, § 319(d)][/us/pl/107/56/s319/d], Oct. 26, 2001, [115 Stat. 314][/us/stat/115/314]; [Pub. L. 109–177, title VII, § 743(a)][/us/pl/109/177/s743/a], Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272]; [Pub. L. 111–16, § 5][/us/pl/111/16/s5], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 413, as added and amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 303, 2301(d)–(f), Oct. 12, 1984, [98 Stat. 2044][/us/stat/98/2044], 2192, 2193; [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1153(b), 1864, Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13], 3207–54; [Pub. L. 104–237, title II][/us/pl/104/237/tII], § 207, Oct. 3, 1996, [110 Stat. 3104][/us/stat/110/3104]; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3613(a), Oct. 17, 2000, [114 Stat. 1229][/us/stat/114/1229]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 319(d), Oct. 26, 2001, [115 Stat. 314][/us/stat/115/314]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 743(a), Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272]; [Pub. L. 111–16][/us/pl/111/16], § 5, May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
 
  __References in Text__ 
 
@@ -199,13 +199,13 @@
 
     2009—Subsec. (e)(2). [Pub. L. 111–16][/us/pl/111/16] substituted “fourteen days” for “ten days”.
 
-    2006—Subsec. (q). [Pub. L. 109–177, § 743(a)(1)][/us/pl/109/177/s743/a/1], inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
+    2006—Subsec. (q). [Pub. L. 109–177][/us/pl/109/177], § 743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
 
-    Subsec. (q)(2). [Pub. L. 109–177, § 743(a)(2)][/us/pl/109/177/s743/a/2], inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
+    Subsec. (q)(2). [Pub. L. 109–177][/us/pl/109/177], § 743(a)(2), inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
 
-    2001—Subsec. (e)(4). [Pub. L. 107–56, § 319(d)(2)][/us/pl/107/56/s319/d/2], added par. (4).
+    2001—Subsec. (e)(4). [Pub. L. 107–56][/us/pl/107/56], § 319(d)(2), added par. (4).
 
-    Subsec. (p). [Pub. L. 107–56, § 319(d)(1)][/us/pl/107/56/s319/d/1], inserted heading and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
+    Subsec. (p). [Pub. L. 107–56][/us/pl/107/56], § 319(d)(1), inserted heading and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
 
     “(1) cannot be located upon the exercise of due diligence;
 
@@ -219,31 +219,31 @@
 
     the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
 
-    2000—Subsec. (q). [Pub. L. 106–310, § 3613(a)(1)][/us/pl/106/310/s3613/a/1], (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
+    2000—Subsec. (q). [Pub. L. 106–310][/us/pl/106/310], § 3613(a)(1), (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
 
-    Subsec. (q)(2). [Pub. L. 106–310, § 3613(a)(2)][/us/pl/106/310/s3613/a/2], (3), inserted “, the State or local government concerned, or both the United States and the State or local government concerned” after “to reimburse the United States”, “or the State or local government concerned, as the case may be,” after “costs incurred by the United States”, and “amphetamine or” before “methamphetamine”.
+    Subsec. (q)(2). [Pub. L. 106–310][/us/pl/106/310], § 3613(a)(2), (3), inserted “, the State or local government concerned, or both the United States and the State or local government concerned” after “to reimburse the United States”, “or the State or local government concerned, as the case may be,” after “costs incurred by the United States”, and “amphetamine or” before “methamphetamine”.
 
-    Subsec. (q)(3). [Pub. L. 106–310, § 3613(a)(4)][/us/pl/106/310/s3613/a/4], substituted “[section 3663A of title 18][/us/usc/t18/s3663A]” for “[section 3663 of title 18][/us/usc/t18/s3663]”.
+    Subsec. (q)(3). [Pub. L. 106–310][/us/pl/106/310], § 3613(a)(4), substituted “[section 3663A of title 18][/us/usc/t18/s3663A]” for “[section 3663 of title 18][/us/usc/t18/s3663]”.
 
     1996—Subsec. (q). [Pub. L. 104–237][/us/pl/104/237] added subsec. (q).
 
-    1986—Subsec. (c). [Pub. L. 99–570, § 1864(1)][/us/pl/99/570/s1864/1], substituted “subsection (n)” for “subsection (o)”.
+    1986—Subsec. (c). [Pub. L. 99–570][/us/pl/99/570], § 1864(1), substituted “subsection (n)” for “subsection (o)”.
 
-    Subsec. (f). [Pub. L. 99–570, § 1864(2)][/us/pl/99/570/s1864/2], substituted “subsection (e)” for “subsection (f)”.
+    Subsec. (f). [Pub. L. 99–570][/us/pl/99/570], § 1864(2), substituted “subsection (e)” for “subsection (f)”.
 
-    Subsec. (i)(1). [Pub. L. 99–570, § 1864(3)][/us/pl/99/570/s1864/3], substituted “this subchapter” for “this chapter”.
+    Subsec. (i)(1). [Pub. L. 99–570][/us/pl/99/570], § 1864(3), substituted “this subchapter” for “this chapter”.
 
-    Subsec. (k). [Pub. L. 99–570, § 1864(1)][/us/pl/99/570/s1864/1], (4), which directed the substitution of “subsection (n)” for “subsection (o)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
+    Subsec. (k). [Pub. L. 99–570][/us/pl/99/570], § 1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (o)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
 
-    Subsec. (p). [Pub. L. 99–570, § 1153(b)][/us/pl/99/570/s1153/b], which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (o) by [Pub. L. 98–473, § 2301(e)(2)][/us/pl/98/473/s2301/e/2]. See 1984 Amendment note below.
+    Subsec. (p). [Pub. L. 99–570][/us/pl/99/570], § 1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (o) by [Pub. L. 98–473][/us/pl/98/473], § 2301(e)(2). See 1984 Amendment note below.
 
-    1984—Subsec. (a). [Pub. L. 98–473, § 2301(d)][/us/pl/98/473/s2301/d], inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
+    1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], § 2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
 
-    Subsec. (d). [Pub. L. 98–473, § 2301(e)][/us/pl/98/473/s2301/e], struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
+    Subsec. (d). [Pub. L. 98–473][/us/pl/98/473], § 2301(e), struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
 
-    Subsecs. (e) to (p). [Pub. L. 98–473, § 2301(e)(2)][/us/pl/98/473/s2301/e/2], which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (l), (m), (n), (o), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (l), (m), (n), and (o), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (o), respectively, to give effect to the probable intent of Congress.
+    Subsecs. (e) to (p). [Pub. L. 98–473][/us/pl/98/473], § 2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (l), (m), (n), (o), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (l), (m), (n), and (o), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (o), respectively, to give effect to the probable intent of Congress.
 
-    Subsec. (n)(1). [Pub. L. 98–473, § 2301(f)][/us/pl/98/473/s2301/f], struck out “for at least seven successive court days” after “to dispose of the property”.
+    Subsec. (n)(1). [Pub. L. 98–473][/us/pl/98/473], § 2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -251,7 +251,7 @@
 
  __Savings Clause__ 
 
-[Pub. L. 109–177, title VII, § 743(b)][/us/pl/109/177/s743/b], Mar. 9, 2006, [120 Stat. 273][/us/stat/120/273], provided that: 
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 743(b), Mar. 9, 2006, [120 Stat. 273][/us/stat/120/273], provided that: 
 
 > “Nothing in this section \[amending this section\] shall be interpreted or construed to amend, alter, or otherwise affect the obligations, liabilities and other responsibilities of any person under any Federal or State environmental laws.”
 
@@ -266,46 +266,46 @@
 [/us/usc/t21/s881/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881%2Fe
 [/us/usc/t21/s881/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881%2Fd
 [/us/usc/t18/s3663A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663A
-[/us/pl/91/513/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs413
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2044
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-13
-[/us/pl/104/237/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs207
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3104
-[/us/pl/106/310/s3613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3613%2Fa
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1229
-[/us/pl/107/56/s319/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs319%2Fd
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F314
-[/us/pl/109/177/s743/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs743%2Fa
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F272
-[/us/pl/111/16/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs5
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
-[/us/pl/109/177/s743/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs743%2Fa%2F1
-[/us/pl/109/177/s743/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs743%2Fa%2F2
-[/us/pl/107/56/s319/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs319%2Fd%2F2
-[/us/pl/107/56/s319/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs319%2Fd%2F1
-[/us/pl/106/310/s3613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3613%2Fa%2F1
-[/us/pl/106/310/s3613/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3613%2Fa%2F2
-[/us/pl/106/310/s3613/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3613%2Fa%2F4
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t18/s3663A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663A
 [/us/usc/t18/s3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663
 [/us/pl/104/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237
-[/us/pl/99/570/s1864/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1864%2F1
-[/us/pl/99/570/s1864/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1864%2F2
-[/us/pl/99/570/s1864/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1864%2F3
-[/us/pl/99/570/s1864/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1864%2F1
-[/us/pl/99/570/s1153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1153%2Fb
-[/us/pl/98/473/s2301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fe%2F2
-[/us/pl/98/473/s2301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fd
-[/us/pl/98/473/s2301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fe
-[/us/pl/98/473/s2301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fe%2F2
-[/us/pl/98/473/s2301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Ff
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/109/177/s743/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs743%2Fb
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F273
 
 

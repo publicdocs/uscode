@@ -143,27 +143,27 @@
 
             Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (1).
 
-([June 25, 1938, ch. 675, § 304][/us/act/1938-06-25/ch675/s304], [52 Stat. 1044][/us/stat/52/1044]; [June 24, 1948, ch. 613, § 2][/us/act/1948-06-24/ch613/s2], [62 Stat. 582][/us/stat/62/582]; [Aug. 7, 1953, ch. 350, § 3][/us/act/1953-08-07/ch350/s3], [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–250][/us/pl/85/250], Aug. 31, 1957, [71 Stat. 567][/us/stat/71/567]; [Pub. L. 89–74, § 6][/us/pl/89/74/s6], July 15, 1965, [79 Stat. 232][/us/stat/79/232]; [Pub. L. 90–639, § 4(b)][/us/pl/90/639/s4/b], Oct. 24, 1968, [82 Stat. 1362][/us/stat/82/1362]; [Pub. L. 91–513, title II, § 701(c)][/us/pl/91/513/s701/c], (d), Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281], 1282; [Pub. L. 94–278, title V, § 502(a)(2)(C)][/us/pl/94/278/s502/a/2/C], Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(c), 7(a), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 582; [Pub. L. 102–300, § 6(c)][/us/pl/102/300/s6/c], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80, § 3(f)][/us/pl/103/80/s3/f], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 105–115, title IV, § 418][/us/pl/105/115/s418], Nov. 21, 1997, [111 Stat. 2379][/us/stat/111/2379]; [Pub. L. 107–188, title III, § 303(a)][/us/pl/107/188/s303/a], June 12, 2002, [116 Stat. 663][/us/stat/116/663]; [Pub. L. 110–85, title IX, § 912(b)(1)][/us/pl/110/85/s912/b/1], Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952]; [Pub. L. 111–31, div. A, title I, § 103(d)][/us/pl/111/31/s103/d], June 22, 2009, [123 Stat. 1836][/us/stat/123/1836]; [Pub. L. 111–353, title II, § 207(a)][/us/pl/111/353/s207/a], Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944]; [Pub. L. 112–144, title VII, § 709(a)][/us/pl/112/144/s709/a], (b)(2), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 304, [52 Stat. 1044][/us/stat/52/1044]; [June 24, 1948, ch. 613][/us/act/1948-06-24/ch613], § 2, [62 Stat. 582][/us/stat/62/582]; [Aug. 7, 1953, ch. 350][/us/act/1953-08-07/ch350], § 3, [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–250][/us/pl/85/250], Aug. 31, 1957, [71 Stat. 567][/us/stat/71/567]; [Pub. L. 89–74][/us/pl/89/74], § 6, July 15, 1965, [79 Stat. 232][/us/stat/79/232]; [Pub. L. 90–639][/us/pl/90/639], § 4(b), Oct. 24, 1968, [82 Stat. 1362][/us/stat/82/1362]; [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 701(c), (d), Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281], 1282; [Pub. L. 94–278, title V][/us/pl/94/278/tV], § 502(a)(2)(C), Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(c), 7(a), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 582; [Pub. L. 102–300][/us/pl/102/300], § 6(c), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], § 3(f), Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 418, Nov. 21, 1997, [111 Stat. 2379][/us/stat/111/2379]; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 303(a), June 12, 2002, [116 Stat. 663][/us/stat/116/663]; [Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 912(b)(1), Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(d), June 22, 2009, [123 Stat. 1836][/us/stat/123/1836]; [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 207(a), Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944]; [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 709(a), (b)(2), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069].)
 
  __Amendments__ 
 
-    2012—Subsec. (g)(1). [Pub. L. 112–144, § 709(a)(1)][/us/pl/112/144/s709/a/1], inserted “, drug,” after “device” wherever appearing.
+    2012—Subsec. (g)(1). [Pub. L. 112–144][/us/pl/112/144], § 709(a)(1), inserted “, drug,” after “device” wherever appearing.
 
-    Subsec. (g)(2)(A). [Pub. L. 112–144, § 709(a)(2)][/us/pl/112/144/s709/a/2], inserted “, drug,” after “(B), a device”.
+    Subsec. (g)(2)(A). [Pub. L. 112–144][/us/pl/112/144], § 709(a)(2), inserted “, drug,” after “(B), a device”.
 
-    Subsec. (g)(2)(B). [Pub. L. 112–144, § 709(a)(3)][/us/pl/112/144/s709/a/3], inserted “or drug” after “device” in introductory provisions and in cl. (ii).
+    Subsec. (g)(2)(B). [Pub. L. 112–144][/us/pl/112/144], § 709(a)(3), inserted “or drug” after “device” in introductory provisions and in cl. (ii).
 
-    Subsec. (i). [Pub. L. 112–144, § 709(b)(2)][/us/pl/112/144/s709/b/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–144][/us/pl/112/144], § 709(b)(2), added subsec. (i).
 
     2011—Subsec. (h)(1)(A). [Pub. L. 111–353][/us/pl/111/353] substituted “reason to believe” for “credible evidence or information indicating” and “is adulterated or misbranded” for “presents a threat of serious adverse health consequences or death to humans or animals”.
 
-    2009—Subsec. (a)(2)(E). [Pub. L. 111–31, § 103(d)(1)][/us/pl/111/31/s103/d/1], added cl. (E).
+    2009—Subsec. (a)(2)(E). [Pub. L. 111–31][/us/pl/111/31], § 103(d)(1), added cl. (E).
 
-    Subsec. (d)(1). [Pub. L. 111–31, § 103(d)(2)][/us/pl/111/31/s103/d/2], inserted “tobacco product,” after “device,” in first sentence.
+    Subsec. (d)(1). [Pub. L. 111–31][/us/pl/111/31], § 103(d)(2), inserted “tobacco product,” after “device,” in first sentence.
 
-    Subsec. (g)(1). [Pub. L. 111–31, § 103(d)(3)][/us/pl/111/31/s103/d/3], inserted “or tobacco product” after “device” wherever appearing.
+    Subsec. (g)(1). [Pub. L. 111–31][/us/pl/111/31], § 103(d)(3), inserted “or tobacco product” after “device” wherever appearing.
 
-    Subsec. (g)(2)(A). [Pub. L. 111–31, § 103(d)(4)][/us/pl/111/31/s103/d/4], inserted “or tobacco product” after “device” in introductory provisions.
+    Subsec. (g)(2)(A). [Pub. L. 111–31][/us/pl/111/31], § 103(d)(4), inserted “or tobacco product” after “device” in introductory provisions.
 
     2007—Subsec. (a)(1). [Pub. L. 110–85][/us/pl/110/85] substituted “section 331(ll), 344, or 355” for “section 344 or 355”.
 
@@ -171,31 +171,31 @@
 
     1997—Subsec. (d)(1). [Pub. L. 105–115][/us/pl/105/115] substituted “subparagraphs (A) and (B) of [section 381(e)(1) of this title][/us/usc/t21/s381/e/1]” for “paragraphs (1) and (2) of [section 381(e) of this title][/us/usc/t21/s381/e]” and inserted “Any person seeking to export an imported article pursuant to any of the provisions of this subsection shall establish that the article was intended for export at the time the article entered commerce.” before “Any article condemned by reason”.
 
-    1993—Subsec. (a)(1). [Pub. L. 103–80, § 3(f)(1)][/us/pl/103/80/s3/f/1], substituted “found. No libel” for “found: Provided, however, That no libel”.
+    1993—Subsec. (a)(1). [Pub. L. 103–80][/us/pl/103/80], § 3(f)(1), substituted “found. No libel” for “found: Provided, however, That no libel”.
 
-    Subsec. (d)(1). [Pub. L. 103–80, § 3(f)(2)][/us/pl/103/80/s3/f/2], substituted “sold. After entry” for “sold: Provided, That after entry”, “met. The provisions of this sentence” for “met: Provided, however, That the provisions of this sentence”, “title. Where such exportation” for “title: And provided further, That where such exportation”, and “the preceding sentence shall not be applicable” for “the foregoing proviso shall not be applicable”.
+    Subsec. (d)(1). [Pub. L. 103–80][/us/pl/103/80], § 3(f)(2), substituted “sold. After entry” for “sold: Provided, That after entry”, “met. The provisions of this sentence” for “met: Provided, however, That the provisions of this sentence”, “title. Where such exportation” for “title: And provided further, That where such exportation”, and “the preceding sentence shall not be applicable” for “the foregoing proviso shall not be applicable”.
 
     1992—Subsec. (d)(1). [Pub. L. 102–300][/us/pl/102/300] substituted “381(e)” for “381(d)” in three places and “paragraphs” for “clauses” before “(1) and (2) of section 381(e)”.
 
-    1976—Subsec. (a)(1). [Pub. L. 94–295, § 3(c)(1)][/us/pl/94/295/s3/c/1], struck out “device,” after “Any article of food, drug,”.
+    1976—Subsec. (a)(1). [Pub. L. 94–295][/us/pl/94/295], § 3(c)(1), struck out “device,” after “Any article of food, drug,”.
 
-    Subsec. (a)(2). [Pub. L. 94–295, § 3(c)(2)][/us/pl/94/295/s3/c/2], (3), added cl. (D) covering adulterated or misbranded devices.
+    Subsec. (a)(2). [Pub. L. 94–295][/us/pl/94/295], § 3(c)(2), (3), added cl. (D) covering adulterated or misbranded devices.
 
     Subsec. (a)(3). [Pub. L. 94–278][/us/pl/94/278] added par. (3).
 
-    Subsec. (g). [Pub. L. 94–295, § 7(a)][/us/pl/94/295/s7/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 94–295][/us/pl/94/295], § 7(a), added subsec. (g).
 
-    1970—Subsec. (a)(2). [Pub. L. 91–513, § 701(c)][/us/pl/91/513/s701/c], struck out cls. (A) and (D) which dealt with depressant or stimulant drugs, struck out reference to depressant or stimulant drugs in cl. (C), and redesignated cls. (B), (C), and (E) as cls. (A), (B), and (C), respectively.
+    1970—Subsec. (a)(2). [Pub. L. 91–513][/us/pl/91/513], § 701(c), struck out cls. (A) and (D) which dealt with depressant or stimulant drugs, struck out reference to depressant or stimulant drugs in cl. (C), and redesignated cls. (B), (C), and (E) as cls. (A), (B), and (C), respectively.
 
-    Subsec. (d)(3)(iii). [Pub. L. 91–513, § 701(d)][/us/pl/91/513/s701/d], struck out reference to depressant or stimulant drugs.
+    Subsec. (d)(3)(iii). [Pub. L. 91–513][/us/pl/91/513], § 701(d), struck out reference to depressant or stimulant drugs.
 
     1968—Subsec. (a). [Pub. L. 90–639][/us/pl/90/639] inserted references to the United States courts of Territories.
 
-    1965—Subsec. (a). [Pub. L. 89–74, § 6(a)][/us/pl/89/74/s6/a], designated existing provisions as par. (1), redesignated cls. (1) and (2) of proviso as (A) and (B), and added par. (2).
+    1965—Subsec. (a). [Pub. L. 89–74][/us/pl/89/74], § 6(a), designated existing provisions as par. (1), redesignated cls. (1) and (2) of proviso as (A) and (B), and added par. (2).
 
-    Subsec. (b). [Pub. L. 89–74, § 6(b)(1)][/us/pl/89/74/s6/b/1], inserted “equipment, or other thing proceeded against” after “article” in first sentence.
+    Subsec. (b). [Pub. L. 89–74][/us/pl/89/74], § 6(b)(1), inserted “equipment, or other thing proceeded against” after “article” in first sentence.
 
-    Subsec. (d). [Pub. L. 89–74, § 6(b)(2)][/us/pl/89/74/s6/b/2], designated existing provisions as par. (1), redesignated cls. (1) and (2) of the second sentence thereof as (A) and (B), and added pars. (2) and (3).
+    Subsec. (d). [Pub. L. 89–74][/us/pl/89/74], § 6(b)(2), designated existing provisions as par. (1), redesignated cls. (1) and (2) of the second sentence thereof as (A) and (B), and added pars. (2) and (3).
 
     1957—Subsec. (d). [Pub. L. 85–250][/us/pl/85/250] permitted, under certain circumstances, reexportation of articles condemned at places other than original port of entry.
 
@@ -205,7 +205,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–144, title VII, § 709(c)][/us/pl/112/144/s709/c], July 9, 2012, [126 Stat. 1070][/us/stat/126/1070], provided that: 
+[Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 709(c), July 9, 2012, [126 Stat. 1070][/us/stat/126/1070], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not take effect until the Secretary has issued a final regulation under subsection (b) \[amending this section and enacting provisions set out as a note under this section\].”
 
@@ -213,7 +213,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–353, title II, § 207(c)][/us/pl/111/353/s207/c], Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944], provided that: 
+[Pub. L. 111–353, title II][/us/pl/111/353/tII], § 207(c), Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Jan. 4, 2011\].”
 
@@ -223,7 +223,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–278, title V, § 502(c)][/us/pl/94/278/s502/c], Apr. 22, 1976, [90 Stat. 413][/us/stat/90/413], provided that: 
+[Pub. L. 94–278, title V][/us/pl/94/278/tV], § 502(c), Apr. 22, 1976, [90 Stat. 413][/us/stat/90/413], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and sections 321, 333, and 343 of this title\] shall take effect 180 days after the date of the enactment of this Act \[Apr. 22, 1976\].”
 
@@ -241,11 +241,11 @@
 
  __Regulations__ 
 
-[Pub. L. 112–144, title VII, § 709(b)(1)][/us/pl/112/144/s709/b/1], July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that: 
+[Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 709(b)(1), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that: 
 
 > “Not later than 2 years after the date of the enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall promulgate regulations in accordance with section 304(i) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 334(i)][/us/usc/t21/s334/i]\], as added by paragraph (2) of this subsection, to implement administrative detention authority with respect to drugs, as authorized by the amendments made by subsection (a) \[amending this section\]. Before promulgating such regulations, the Secretary shall consult with stakeholders, including manufacturers of drugs.”
 
-[Pub. L. 111–353, title II, § 207(b)][/us/pl/111/353/s207/b], Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944], provided that: 
+[Pub. L. 111–353, title II][/us/pl/111/353/tII], § 207(b), Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall issue an interim final rule amending subpart K of part 1 of title 21, Code of Federal Regulations, to implement the amendment made by this section \[amending this section\].”
 
@@ -279,77 +279,77 @@
 [/us/usc/t21/s381/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fb
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
 [/us/usc/t21/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs332
-[/us/act/1938-06-25/ch675/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs304
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1044
-[/us/act/1948-06-24/ch613/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch613%2Fs2
+[/us/act/1948-06-24/ch613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch613
 [/us/stat/62/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F582
-[/us/act/1953-08-07/ch350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch350%2Fs3
+[/us/act/1953-08-07/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch350
 [/us/stat/67/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F477
 [/us/pl/85/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F250
 [/us/stat/71/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F567
-[/us/pl/89/74/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs6
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/stat/79/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F232
-[/us/pl/90/639/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F639%2Fs4%2Fb
+[/us/pl/90/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F639
 [/us/stat/82/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1362
-[/us/pl/91/513/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Fc
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1281
-[/us/pl/94/278/s502/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs502%2Fa%2F2%2FC
+[/us/pl/94/278/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtV
 [/us/stat/90/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F411
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F576
-[/us/pl/102/300/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fc
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/103/80/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Ff
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F775
-[/us/pl/105/115/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs418
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2379
-[/us/pl/107/188/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs303%2Fa
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F663
-[/us/pl/110/85/s912/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs912%2Fb%2F1
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F952
-[/us/pl/111/31/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fd
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1836
-[/us/pl/111/353/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs207%2Fa
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3944
-[/us/pl/112/144/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1069
-[/us/pl/112/144/s709/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa%2F1
-[/us/pl/112/144/s709/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa%2F2
-[/us/pl/112/144/s709/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa%2F3
-[/us/pl/112/144/s709/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fb%2F2
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
-[/us/pl/111/31/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fd%2F1
-[/us/pl/111/31/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fd%2F2
-[/us/pl/111/31/s103/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fd%2F3
-[/us/pl/111/31/s103/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fd%2F4
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fe%2F1
 [/us/usc/t21/s381/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fe
-[/us/pl/103/80/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Ff%2F1
-[/us/pl/103/80/s3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Ff%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/94/295/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs3%2Fc%2F1
-[/us/pl/94/295/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs3%2Fc%2F2
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/pl/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278
-[/us/pl/94/295/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs7%2Fa
-[/us/pl/91/513/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Fc
-[/us/pl/91/513/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Fd
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/90/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F639
-[/us/pl/89/74/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs6%2Fa
-[/us/pl/89/74/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs6%2Fb%2F1
-[/us/pl/89/74/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs6%2Fb%2F2
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/pl/85/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F250
 [/us/usc/t21/s331/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331%2Fk
-[/us/pl/112/144/s709/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fc
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1070
-[/us/pl/111/353/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs207%2Fc
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3944
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/94/278/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs502%2Fc
+[/us/pl/94/278/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtV
 [/us/stat/90/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F413
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs704
@@ -360,10 +360,10 @@
 [/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/pl/89/74/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs11
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/112/144/s709/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fb%2F1
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1069
 [/us/usc/t21/s334/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs334%2Fi
-[/us/pl/111/353/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs207%2Fb
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3944
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs702

@@ -139,13 +139,13 @@
 
             For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
 
-([Pub. L. 101–624, title XXV, § 2509][/us/pl/101/624/s2509], Nov. 28, 1990, [104 Stat. 4069][/us/stat/104/4069]; [Pub. L. 101–508, title I, § 1203][/us/pl/101/508/s1203], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 102–237, title X, § 1015][/us/pl/102/237/s1015], Dec. 13, 1991, [105 Stat. 1902][/us/stat/105/1902]; [Pub. L. 104–127, title IX, § 917][/us/pl/104/127/s917], Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187]; [Pub. L. 107–171, title X, § 10418(b)(5)][/us/pl/107/171/s10418/b/5], May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
+([Pub. L. 101–624, title XXV][/us/pl/101/624/tXXV], § 2509, Nov. 28, 1990, [104 Stat. 4069][/us/stat/104/4069]; [Pub. L. 101–508, title I][/us/pl/101/508/tI], § 1203, Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1015, Dec. 13, 1991, [105 Stat. 1902][/us/stat/105/1902]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 917, Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(b)(5), May 13, 2002, [116 Stat. 509][/us/stat/116/509].)
 
  __References in Text__ 
 
     The Animal Health Protection Act, referred to in subsecs. (c)(2), (f)(1)(C), is subtitle E (§§ 10401–10418) of title X of [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 494][/us/stat/116/494], which is classified principally to chapter 109 (§ 8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 8301 of Title 7][/us/usc/t7/s8301] and Tables.
 
-    Section 306 of the Tariff Act of 1930 ([19 U.S.C. 1306][/us/usc/t19/s1306]), referred to in subsec. (f)(1)(A), was repealed by [Pub. L. 107–171, title X, § 10418(a)(5)][/us/pl/107/171/s10418/a/5], May 13, 2002, [116 Stat. 507][/us/stat/116/507].
+    Section 306 of the Tariff Act of 1930 ([19 U.S.C. 1306][/us/usc/t19/s1306]), referred to in subsec. (f)(1)(A), was repealed by [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(a)(5), May 13, 2002, [116 Stat. 507][/us/stat/116/507].
 
  __Codification__ 
 
@@ -153,9 +153,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (c)(2). [Pub. L. 107–171, § 10418(b)(5)(A)][/us/pl/107/171/s10418/b/5/A], added par. (2) relating to veterinary diagnostics.
+    2002—Subsec. (c)(2). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(5)(A), added par. (2) relating to veterinary diagnostics.
 
-    Subsec. (f)(1)(B) to (O). [Pub. L. 107–171, § 10418(b)(5)(B)][/us/pl/107/171/s10418/b/5/B], added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
+    Subsec. (f)(1)(B) to (O). [Pub. L. 107–171][/us/pl/107/171], § 10418(b)(5)(B), added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
 
     “(B) sections 6 through 10 of the Act of August 30, 1890 ([26 Stat. 416][/us/stat/26/416], chapter 839; [21 U.S.C. 101–105][/us/usc/t21/s101–105]);
 
@@ -187,17 +187,17 @@
 
     1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127] added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–237, § 1015(1)][/us/pl/102/237/s1015/1], designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
+    1991—Subsec. (a)(1). [Pub. L. 102–237][/us/pl/102/237], § 1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 102–237, § 1015(2)][/us/pl/102/237/s1015/2], added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
+    Subsec. (a)(3)(B)(ii). [Pub. L. 102–237][/us/pl/102/237], § 1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
 
-    Subsec. (a)(4). [Pub. L. 102–237, § 1015(3)][/us/pl/102/237/s1015/3], substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
+    Subsec. (a)(4). [Pub. L. 102–237][/us/pl/102/237], § 1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–508, § 1203(1)][/us/pl/101/508/s1203/1], substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
+    1990—Subsec. (a)(1). [Pub. L. 101–508][/us/pl/101/508], § 1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 101–508, § 1203(2)(A)][/us/pl/101/508/s1203/2/A], inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
+    Subsec. (a)(3)(B)(ii). [Pub. L. 101–508][/us/pl/101/508], § 1203(2)(A), inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
 
-    Subsec. (a)(3)(B)(v). [Pub. L. 101–508, § 1203(2)(B)][/us/pl/101/508/s1203/2/B], added cl. (v).
+    Subsec. (a)(3)(B)(v). [Pub. L. 101–508][/us/pl/101/508], § 1203(2)(B), added cl. (v).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -205,7 +205,7 @@
 
  __Report on Agricultural Quarantine Inspection Fund__ 
 
-[Pub. L. 104–66, title I, § 1012(c)][/us/pl/104/66/s1012/c], Dec. 21, 1995, [109 Stat. 712][/us/stat/109/712], provided that: 
+[Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1012(c), Dec. 21, 1995, [109 Stat. 712][/us/stat/109/712], provided that: 
 
 > “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
 
@@ -225,28 +225,28 @@
 [/us/act/1890-08-30/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fs9
 [/us/usc/t21/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs101
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
-[/us/pl/101/624/s2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2509
+[/us/pl/101/624/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXV
 [/us/stat/104/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4069
-[/us/pl/101/508/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1203
+[/us/pl/101/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtI
 [/us/stat/104/1388-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-11
-[/us/pl/102/237/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1015
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1902
-[/us/pl/104/127/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs917
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1187
-[/us/pl/107/171/s10418/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F5
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F509
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
 [/us/usc/t19/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1306
-[/us/pl/107/171/s10418/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fa%2F5
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F507
 [/us/pl/101/624/s2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2509
 [/us/pl/101/624/s2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2509
 [/us/usc/t7/s7759/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7759%2Ff
 [/us/usc/t21/s114a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs114a
-[/us/pl/107/171/s10418/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F5%2FA
-[/us/pl/107/171/s10418/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F5%2FB
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/26/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F416
 [/us/usc/t21/s101–105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs101%E2%80%93105
 [/us/act/1903-02-02/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-02%2Fs2
@@ -277,16 +277,16 @@
 [/us/pl/91/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F239
 [/us/usc/t21/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs135
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/237/s1015/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1015%2F1
-[/us/pl/102/237/s1015/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1015%2F2
-[/us/pl/102/237/s1015/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1015%2F3
-[/us/pl/101/508/s1203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1203%2F1
-[/us/pl/101/508/s1203/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1203%2F2%2FA
-[/us/pl/101/508/s1203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1203%2F2%2FB
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs1301
 [/us/usc/t7/s940d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs940d
-[/us/pl/104/66/s1012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1012%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F712
 
 

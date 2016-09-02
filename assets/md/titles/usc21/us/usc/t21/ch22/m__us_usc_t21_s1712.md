@@ -23,11 +23,11 @@
 
         Subsection (a) of this section does not apply to section 713 or the amendments made by that section.
 
-([Pub. L. 105–277, div. C, title VII, § 715][/us/pl/105/277/s715], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 109–469, title VI, § 602][/us/pl/109/469/s602], Dec. 29, 2006, [120 Stat. 3533][/us/stat/120/3533].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 715, Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 109–469, title VI][/us/pl/109/469/tVI], § 602, Dec. 29, 2006, [120 Stat. 3533][/us/stat/120/3533].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–670][/us/stat/112/2681-670], which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t21/s1701] and Tables.
 
     Section 713, referred to in subsec. (b), is [section 713 of Pub. L. 105–277][/us/pl/105/277/s713], div. C, title VII, Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693], which amended sections 5312 to 5314 of Title 5, Government Organization and Employees, [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, and [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/105/277/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs715
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-693
-[/us/pl/109/469/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs602
+[/us/pl/109/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtVI
 [/us/stat/120/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3533
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-670
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 [/us/pl/105/277/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs713

@@ -123,7 +123,7 @@
 
         The Attorney General shall, from amounts authorized to be appropriated to the Attorney General by this Act, make available to the Commission $1,000,000 for purposes of the activities of the Commission under this section. Amounts made available to the Commission under the preceding sentence shall remain available until expended.
 
-([Pub. L. 106–120, title VIII, § 810][/us/pl/106/120/s810], Dec. 3, 1999, [113 Stat. 1633][/us/stat/113/1633].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 810, Dec. 3, 1999, [113 Stat. 1633][/us/stat/113/1633].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/106/120/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs810
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1633
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -23,7 +23,7 @@
 
         The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-([Pub. L. 91–597, § 20][/us/pl/91/597/s20], Dec. 29, 1970, [84 Stat. 1631][/us/stat/84/1631].)
+([Pub. L. 91–597][/us/pl/91/597], § 20, Dec. 29, 1970, [84 Stat. 1631][/us/stat/84/1631].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t21/s1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1050
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t15/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1451
-[/us/pl/91/597/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs20
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1631
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

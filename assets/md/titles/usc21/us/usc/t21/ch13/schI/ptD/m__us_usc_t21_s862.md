@@ -103,7 +103,7 @@
 
         The denial of Federal benefits set forth in this section shall take effect for convictions occurring after September 1, 1989.
 
-([Pub. L. 91–513, title II, § 421][/us/pl/91/513/s421], formerly [Pub. L. 100–690, title V, § 5301][/us/pl/100/690/s5301], Nov. 18, 1988, [102 Stat. 4310][/us/stat/102/4310]; renumbered [§ 421 of Pub. L. 91–513][/us/pl/91/513/s421] and amended [Pub. L. 101–647, title X, § 1002(d)][/us/pl/101/647/s1002/d], Nov. 29, 1990, [104 Stat. 4827][/us/stat/104/4827].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 421, formerly [Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5301, Nov. 18, 1988, [102 Stat. 4310][/us/stat/102/4310]; renumbered § 421 of [Pub. L. 91–513][/us/pl/91/513] and amended [Pub. L. 101–647, title X][/us/pl/101/647/tX], § 1002(d), Nov. 29, 1990, [104 Stat. 4827][/us/stat/104/4827].)
 
  __Codification__ 
 
@@ -111,9 +111,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, § 1002(d)(1)][/us/pl/101/647/s1002/d/1], renumbered [section 853a of this title][/us/usc/t21/s853a] as this section.
+    1990—[Pub. L. 101–647][/us/pl/101/647], § 1002(d)(1), renumbered [section 853a of this title][/us/usc/t21/s853a] as this section.
 
-    Subsec. (a)(1). [Pub. L. 101–647, § 1002(d)(2)][/us/pl/101/647/s1002/d/2], struck out “(as such terms are defined for purposes of the Controlled Substances Act)” after “controlled substances” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647], § 1002(d)(2), struck out “(as such terms are defined for purposes of the Controlled Substances Act)” after “controlled substances” in introductory provisions.
 
 ----------
 
@@ -122,16 +122,16 @@
 ----------
 ----------
 
-[/us/pl/91/513/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs421
-[/us/pl/100/690/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5301
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4310
-[/us/pl/91/513/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs421
-[/us/pl/101/647/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fd
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/pl/101/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtX
 [/us/stat/104/4827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4827
 [/us/usc/t21/s853a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853a
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/101/647/s1002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fd%2F1
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t21/s853a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853a
-[/us/pl/101/647/s1002/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fd%2F2
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 
 

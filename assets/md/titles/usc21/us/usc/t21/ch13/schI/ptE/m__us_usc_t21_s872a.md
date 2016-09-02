@@ -27,7 +27,7 @@
 
         (2) provide assistance to State, tribal, and local law enforcement and regulatory agencies to facilitate the establishment and maintenance of educational programs for distributors of precursor chemicals and supplies.
 
-([Pub. L. 104–237, title V, § 503][/us/pl/104/237/s503], Oct. 3, 1996, [110 Stat. 3112][/us/stat/110/3112]; [Pub. L. 111–211, title II, § 232(b)][/us/pl/111/211/s232/b], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
+([Pub. L. 104–237, title V][/us/pl/104/237/tV], § 503, Oct. 3, 1996, [110 Stat. 3112][/us/stat/110/3112]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 232(b), July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
 
  __Codification__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 232(b)(1)][/us/pl/111/211/s232/b/1], inserted “tribal,” after “State,”.
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 232(b)(1), inserted “tribal,” after “State,”.
 
-    Subsec. (b)(2). [Pub. L. 111–211, § 232(b)(2)][/us/pl/111/211/s232/b/2], inserted “, tribal,” after “State”.
+    Subsec. (b)(2). [Pub. L. 111–211][/us/pl/111/211], § 232(b)(2), inserted “, tribal,” after “State”.
 
 ----------
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/104/237/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs503
+[/us/pl/104/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtV
 [/us/stat/110/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3112
-[/us/pl/111/211/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2278
-[/us/pl/111/211/s232/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fb%2F1
-[/us/pl/111/211/s232/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs232%2Fb%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

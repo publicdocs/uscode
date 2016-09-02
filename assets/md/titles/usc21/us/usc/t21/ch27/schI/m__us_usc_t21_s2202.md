@@ -143,7 +143,7 @@
 
         In the interest of national security, the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, may determine the manner and format in which the National Agriculture and Food Defense strategy established under this section is made publicly available on the Internet Web sites of the Department of Health and Human Services, the Department of Homeland Security, and the Department of Agriculture, as described in subsection (a)(1).
 
-([Pub. L. 111–353, title I, § 108][/us/pl/111/353/s108], Jan. 4, 2011, [124 Stat. 3910][/us/stat/124/3910].)
+([Pub. L. 111–353, title I][/us/pl/111/353/tI], § 108, Jan. 4, 2011, [124 Stat. 3910][/us/stat/124/3910].)
 
  __References in Text__ 
 
@@ -156,7 +156,7 @@
 ----------
 ----------
 
-[/us/pl/111/353/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs108
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3910
 
 

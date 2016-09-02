@@ -63,7 +63,7 @@
 
         In this section, the terms “investigational drug”, “investigational device”, “treatment investigational new drug application”, and “treatment investigational device exemption” shall have the meanings given the terms in regulations prescribed by the Secretary.
 
-([June 25, 1938, ch. 675, § 561][/us/act/1938-06-25/ch675/s561], as added [Pub. L. 105–115, title IV, § 402][/us/pl/105/115/s402], Nov. 21, 1997, [111 Stat. 2365][/us/stat/111/2365]; amended [Pub. L. 109–482, title I, § 102(f)(2)][/us/pl/109/482/s102/f/2], Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 561, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 402, Nov. 21, 1997, [111 Stat. 2365][/us/stat/111/2365]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 102(f)(2), Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685].)
 
  __Amendments__ 
 
@@ -87,10 +87,10 @@
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
 [/us/usc/t21/s360j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360j%2Fg
 [/us/usc/t42/s282/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fi%2F3
-[/us/act/1938-06-25/ch675/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs561
-[/us/pl/105/115/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs402
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2365
-[/us/pl/109/482/s102/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs102%2Ff%2F2
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3685
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

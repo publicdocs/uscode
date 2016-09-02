@@ -61,7 +61,7 @@
 
         The Secretary shall publish the reports under subsection (a) in the manner the Secretary determines to be the most effective for efficiently disseminating the report, including publication of the report on the Internet website of the Food and Drug Administration.
 
-([June 25, 1938, ch. 675, § 586G][/us/act/1938-06-25/ch675/s586G], as added [Pub. L. 113–195, § 4(c)][/us/pl/113/195/s4/c], Nov. 26, 2014, [128 Stat. 2050][/us/stat/128/2050].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586G, as added [Pub. L. 113–195][/us/pl/113/195], § 4(c), Nov. 26, 2014, [128 Stat. 2050][/us/stat/128/2050].)
 
 ----------
 
@@ -70,8 +70,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s586G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586G
-[/us/pl/113/195/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs4%2Fc
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2050
 
 

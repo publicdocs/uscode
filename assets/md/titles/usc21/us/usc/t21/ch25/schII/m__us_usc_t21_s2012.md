@@ -49,7 +49,7 @@
 
                 The members of the Council shall not receive compensation for the performance of the duties of a member of the Council.
 
-([Pub. L. 109–469, title X, § 1003][/us/pl/109/469/s1003], Dec. 29, 2006, [120 Stat. 3538][/us/stat/120/3538].)
+([Pub. L. 109–469, title X][/us/pl/109/469/tX], § 1003, Dec. 29, 2006, [120 Stat. 3538][/us/stat/120/3538].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/109/469/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1003
+[/us/pl/109/469/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtX
 [/us/stat/120/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3538
 
 

@@ -43,7 +43,7 @@
 
         In this subsection, the term “smuggled food” means any food that a person introduces into the United States through fraudulent means or with the intent to defraud or mislead.
 
-([Pub. L. 111–353, title III, § 309][/us/pl/111/353/s309], Jan. 4, 2011, [124 Stat. 3966][/us/stat/124/3966].)
+([Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 309, Jan. 4, 2011, [124 Stat. 3966][/us/stat/124/3966].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t21/s350f/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350f%2Fn
-[/us/pl/111/353/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs309
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3966
 
 

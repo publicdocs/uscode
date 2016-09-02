@@ -39,7 +39,7 @@
 
         In this section, the term “financial interest” means a financial interest under [section 208(a) of title 18][/us/usc/t18/s208/a].
 
-([June 25, 1938, ch. 675, § 569C][/us/act/1938-06-25/ch675/s569C], as added [Pub. L. 112–144, title XI, § 1137][/us/pl/112/144/s1137], July 9, 2012, [126 Stat. 1124][/us/stat/126/1124].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 569C, as added [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1137, July 9, 2012, [126 Stat. 1124][/us/stat/126/1124].)
 
  __References in Text__ 
 
@@ -54,8 +54,8 @@
 
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t18/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208%2Fa
-[/us/act/1938-06-25/ch675/s569C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs569C
-[/us/pl/112/144/s1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1137
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1124
 [/us/pl/112/144/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs101%2Fb
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g

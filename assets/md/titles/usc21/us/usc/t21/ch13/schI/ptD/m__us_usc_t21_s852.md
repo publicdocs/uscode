@@ -17,7 +17,7 @@
 
     Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotropic Substances, or other treaties or international agreements shall be construed to limit the provision of treatment, education, or rehabilitation as alternatives to conviction or criminal penalty for offenses involving any drug or other substance subject to control under any such treaty or agreement.
 
-([Pub. L. 91–513, title II, § 412][/us/pl/91/513/s412], as added [Pub. L. 95–633, title I, § 107(a)][/us/pl/95/633/s107/a], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 412, as added [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 107(a), Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/91/513/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs412
-[/us/pl/95/633/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs107%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3773
 [/us/pl/95/633/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs112
 [/us/usc/t21/s801a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801a

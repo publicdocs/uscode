@@ -35,7 +35,7 @@
 
         (E) exercises the authority referred to in subclauses (A) through (D) consistent with the intent of this chapter of prohibiting the preparation, sale, barter, exchange, or shipment of worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous products.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] \[part\], as added [Pub. L. 99–198, title XVII, § 1768(c)][/us/pl/99/198/s1768/c], Dec. 23, 1985, [99 Stat. 1654][/us/stat/99/1654].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 \[part\], as added [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1768(c), Dec. 23, 1985, [99 Stat. 1654][/us/stat/99/1654].)
 
  __Codification__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
-[/us/pl/99/198/s1768/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768%2Fc
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1654
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151
 [/us/pl/99/198/s1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1768

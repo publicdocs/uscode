@@ -181,7 +181,7 @@
 
                 After the Secretary amends and finalizes the regulations under part 352 of title 21, Code of Federal Regulations under [section 360fff–5 of this title][/us/usc/t21/s360fff–5] and such regulations become effective, the Secretary may use direct final rulemaking to include in such regulations any nonprescription sunscreen active ingredients that are the subject of effective final sunscreen orders.
 
-([June 25, 1938, ch. 675, § 586C][/us/act/1938-06-25/ch675/s586C], as added [Pub. L. 113–195, § 2(a)][/us/pl/113/195/s2/a], Nov. 26, 2014, [128 Stat. 2039][/us/stat/128/2039].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586C, as added [Pub. L. 113–195][/us/pl/113/195], § 2(a), Nov. 26, 2014, [128 Stat. 2039][/us/stat/128/2039].)
 
 ----------
 
@@ -206,8 +206,8 @@
 [/us/usc/t21/s360fff/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%2F2%2FA
 [/us/usc/t21/s360fff/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%2F2%2FA
 [/us/usc/t21/s360fff–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%935
-[/us/act/1938-06-25/ch675/s586C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586C
-[/us/pl/113/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2039
 
 

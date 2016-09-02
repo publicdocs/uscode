@@ -17,7 +17,7 @@
 
     Before any violation of this chapter is reported by the Secretary to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given reasonable notice of the alleged violation and opportunity to pre­sent his views orally or in writing with regard to such contemplated proceeding. Nothing in this chapter shall be construed as requiring the Secretary to report for criminal prosecution violations of this chapter whenever he believes that the public interest will be adequately served and compliance with the chapter obtained by a suitable written notice or warning.
 
-([Pub. L. 85–172, § 13][/us/pl/85/172/s13], Aug. 28, 1957, [71 Stat. 447][/us/stat/71/447].)
+([Pub. L. 85–172][/us/pl/85/172], § 13, Aug. 28, 1957, [71 Stat. 447][/us/stat/71/447].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/172/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs13
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F447
 
 

@@ -27,7 +27,7 @@
 
         In the case of contumacy by or refusal to obey a subpena issued to any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpena. The court may issue an order requiring the subpenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
 
-([Pub. L. 91–513, title II, § 506][/us/pl/91/513/s506], Oct. 27, 1970, [84 Stat. 1272][/us/stat/84/1272]; [Pub. L. 100–690, title VI, § 6058][/us/pl/100/690/s6058], Nov. 18, 1988, [102 Stat. 4319][/us/stat/102/4319].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 506, Oct. 27, 1970, [84 Stat. 1272][/us/stat/84/1272]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6058, Nov. 18, 1988, [102 Stat. 4319][/us/stat/102/4319].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/91/513/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs506
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1272
-[/us/pl/100/690/s6058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6058
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4319
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

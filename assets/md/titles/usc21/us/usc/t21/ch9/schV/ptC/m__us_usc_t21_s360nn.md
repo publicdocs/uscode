@@ -39,7 +39,7 @@
 
         The Secretary may by regulation (1) require dealers and distributors of electronic products, to which there are applicable standards prescribed under this part and the retail prices of which is not less than $50, to furnish manufacturers of such products such information as may be necessary to identify and locate, for purposes of section 360ll of this title, the first purchasers of such products for purposes other than resale, and (2) require manufacturers to preserve such information. Any regulation establishing a requirement pursuant to clause (1) of the preceding sentence shall (A) authorize such dealers and distributors to elect, in lieu of immediately furnishing such information to the manufacturer, to hold and preserve such information until advised by the manufacturer or Secretary that such information is needed by the manufacturer for purposes of section 360ll of this title, and (B) provide that the dealer or distributor shall, upon making such election, give prompt notice of such election (together with information identifying the notifier and the product) to the manufacturer and shall, when advised by the manufacturer or Secretary, of the need therefor for the purposes of section 360ll of this title, immediately furnish the manufacturer with the required information. If a dealer or distributor discontinues the dealing in or distribution of electronic products, he shall turn the information over to the manufacturer. Any manufacturer receiving information pursuant to this subsection concerning first purchasers of products for purposes other than resale shall treat it as confidential and may use it only if necessary for the purpose of notifying persons pursuant to section 360ll(a) of this title.
 
-([June 25, 1938, ch. 675, § 537][/us/act/1938-06-25/ch675/s537], formerly [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 537, formerly § 360A, as added [Pub. L. 90–602, § 2(3)][/us/pl/90/602/s2/3], Oct. 18, 1968, [82 Stat. 1182][/us/stat/82/1182]; renumbered § 537 and amended [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(E), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80, § 4(a)(2)][/us/pl/103/80/s4/a/2], Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 537, formerly [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 537, formerly § 360A, as added [Pub. L. 90–602][/us/pl/90/602], § 2(3), Oct. 18, 1968, [82 Stat. 1182][/us/stat/82/1182]; renumbered § 537 and amended [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(E), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80][/us/pl/103/80], § 4(a)(2), Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779].)
 
  __Codification__ 
 
@@ -47,13 +47,13 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629, § 19(a)(4)][/us/pl/101/629/s19/a/4], which renumbered [section 263i of Title 42][/us/usc/t42/s263i], The Public Health and Welfare, as this section.
+    1993—[Pub. L. 103–80][/us/pl/103/80] amended directory language of [Pub. L. 101–629][/us/pl/101/629], § 19(a)(4), which renumbered [section 263i of Title 42][/us/usc/t42/s263i], The Public Health and Welfare, as this section.
 
-    1990—Subsec. (a). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(E), substituted “section 360kk(h)” for “section 263f(h)”, “this part” for “this subpart”, and “section 360ll(a)(2) or 360ll(e)” for “section 263g(a)(2) or 263g(e)”.
+    1990—Subsec. (a). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(E), substituted “section 360kk(h)” for “section 263f(h)”, “this part” for “this subpart”, and “section 360ll(a)(2) or 360ll(e)” for “section 263g(a)(2) or 263g(e)”.
 
-    Subsecs. (b) to (e). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], substituted “this part” for “this subpart” wherever appearing.
+    Subsecs. (b) to (e). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), substituted “this part” for “this subpart” wherever appearing.
 
-    Subsec. (f). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(E)(ii), substituted “this part” for “this subpart”, “section 360ll” for “section 263g” in three places, and “section 360ll(a)” for “section 263g(a)”.
+    Subsec. (f). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(E)(ii), substituted “this part” for “this subpart”, “section 360ll” for “section 263g” in three places, and “section 360ll(a)” for “section 263g(a)”.
 
  __Noninterference With Other Federal Agencies__ 
 
@@ -68,22 +68,22 @@
 
 [/us/usc/t21/s360kk/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360kk%2Fh
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/act/1938-06-25/ch675/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs537
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/602/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs2%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1182
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4529
-[/us/pl/103/80/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fa%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F779
 [/us/usc/t42/s263i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263i
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/101/629/s19/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F4
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t42/s263i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263i
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/90/602/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs4
 [/us/usc/t21/s360hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360hh
 

@@ -45,7 +45,7 @@
 
         For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2013 through 2017.
 
-([Pub. L. 97–414, § 5][/us/pl/97/414/s5], Jan. 4, 1983, [96 Stat. 2056][/us/stat/96/2056]; [Pub. L. 98–551, § 4(b)][/us/pl/98/551/s4/b], Oct. 30, 1984, [98 Stat. 2817][/us/stat/98/2817]; [Pub. L. 99–91, § 5][/us/pl/99/91/s5], Aug. 15, 1985, [99 Stat. 391][/us/stat/99/391]; [Pub. L. 100–290, § 3(a)][/us/pl/100/290/s3/a]–(c), Apr. 18, 1988, [102 Stat. 90][/us/stat/102/90], 91; [Pub. L. 105–115, title I, § 125(b)(2)(N)][/us/pl/105/115/s125/b/2/N], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 107–281, § 3][/us/pl/107/281/s3], Nov. 6, 2002, [116 Stat. 1993][/us/stat/116/1993]; [Pub. L. 110–85, title XI, § 1112(b)][/us/pl/110/85/s1112/b], Sept. 27, 2007, [121 Stat. 976][/us/stat/121/976]; [Pub. L. 112–144, title IX, § 906][/us/pl/112/144/s906], July 9, 2012, [126 Stat. 1092][/us/stat/126/1092].)
+([Pub. L. 97–414][/us/pl/97/414], § 5, Jan. 4, 1983, [96 Stat. 2056][/us/stat/96/2056]; [Pub. L. 98–551][/us/pl/98/551], § 4(b), Oct. 30, 1984, [98 Stat. 2817][/us/stat/98/2817]; [Pub. L. 99–91][/us/pl/99/91], § 5, Aug. 15, 1985, [99 Stat. 391][/us/stat/99/391]; [Pub. L. 100–290][/us/pl/100/290], § 3(a)–(c), Apr. 18, 1988, [102 Stat. 90][/us/stat/102/90], 91; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(N), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 107–281][/us/pl/107/281], § 3, Nov. 6, 2002, [116 Stat. 1993][/us/stat/116/1993]; [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1112(b), Sept. 27, 2007, [121 Stat. 976][/us/stat/121/976]; [Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 906, July 9, 2012, [126 Stat. 1092][/us/stat/126/1092].)
 
  __Codification__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1)(A)(ii). [Pub. L. 112–144, § 906(a)][/us/pl/112/144/s906/a], struck out “after the date such drug is designated under [section 360bb of this title][/us/usc/t21/s360bb] and” after “which occurs”.
+    2012—Subsec. (b)(1)(A)(ii). [Pub. L. 112–144][/us/pl/112/144], § 906(a), struck out “after the date such drug is designated under [section 360bb of this title][/us/usc/t21/s360bb] and” after “which occurs”.
 
-    Subsec. (c). [Pub. L. 112–144, § 906(b)][/us/pl/112/144/s906/b], amended subsec. (c) generally. Prior to amendment, text read as follows: “For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2008 through 2012.”
+    Subsec. (c). [Pub. L. 112–144][/us/pl/112/144], § 906(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2008 through 2012.”
 
     2007—Subsec. (c). [Pub. L. 110–85][/us/pl/110/85] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $25,000,000 for each of the fiscal years 2003 through 2006.”
 
@@ -63,19 +63,19 @@
 
     1997—Subsec. (b)(1)(A)(ii), (B). [Pub. L. 105–115][/us/pl/105/115] struck out “or 357” after “355(b)”.
 
-    1988—Subsec. (a). [Pub. L. 100–290, § 3(a)(1)][/us/pl/100/290/s3/a/1], (b)(1), inserted “(1)” after “assist in” and added cls. (2) and (3).
+    1988—Subsec. (a). [Pub. L. 100–290][/us/pl/100/290], § 3(a)(1), (b)(1), inserted “(1)” after “assist in” and added cls. (2) and (3).
 
-    Subsec. (b)(2). [Pub. L. 100–290, § 3(a)(2)][/us/pl/100/290/s3/a/2], (b)(2), inserted “(1) in the case of a drug,” after “means”, added cls. (2) and (3), and substituted “under [section 360bb of this title][/us/usc/t21/s360bb]” for “under this subsection” in last sentence.
+    Subsec. (b)(2). [Pub. L. 100–290][/us/pl/100/290], § 3(a)(2), (b)(2), inserted “(1) in the case of a drug,” after “means”, added cls. (2) and (3), and substituted “under [section 360bb of this title][/us/usc/t21/s360bb]” for “under this subsection” in last sentence.
 
-    Subsec. (b)(3). [Pub. L. 100–290, § 3(b)(3)][/us/pl/100/290/s3/b/3], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–290][/us/pl/100/290], § 3(b)(3), added par. (3).
 
-    Subsec. (c). [Pub. L. 100–290, § 3(c)][/us/pl/100/290/s3/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $4,000,000 for fiscal year 1986, $4,000,000 for fiscal year 1987, and $4,000,000 for fiscal year 1988.”
+    Subsec. (c). [Pub. L. 100–290][/us/pl/100/290], § 3(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $4,000,000 for fiscal year 1986, $4,000,000 for fiscal year 1987, and $4,000,000 for fiscal year 1988.”
 
-    1985—Subsec. (a). [Pub. L. 99–91, § 5(a)(1)][/us/pl/99/91/s5/a/1], struck out “clinical” before “testing”.
+    1985—Subsec. (a). [Pub. L. 99–91][/us/pl/99/91], § 5(a)(1), struck out “clinical” before “testing”.
 
-    Subsec. (b)(1). [Pub. L. 99–91, § 5(a)(2)][/us/pl/99/91/s5/a/2], substituted provisions defining “qualified testing” for provisions defining “qualified clinical testing”.
+    Subsec. (b)(1). [Pub. L. 99–91][/us/pl/99/91], § 5(a)(2), substituted provisions defining “qualified testing” for provisions defining “qualified clinical testing”.
 
-    Subsec. (c). [Pub. L. 99–91, § 5(b)][/us/pl/99/91/s5/b], substituted provisions authorizing appropriations for fiscal years 1986 to 1988, for provisions authorizing appropriations for fiscal years 1983 and the two succeeding fiscal years.
+    Subsec. (c). [Pub. L. 99–91][/us/pl/99/91], § 5(b), substituted provisions authorizing appropriations for fiscal years 1986 to 1988, for provisions authorizing appropriations for fiscal years 1983 and the two succeeding fiscal years.
 
     1984—Subsec. (b)(2). [Pub. L. 98–551][/us/pl/98/551] substituted “which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
 
@@ -85,7 +85,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 107–281, § 2][/us/pl/107/281/s2], Nov. 6, 2002, [116 Stat. 1992][/us/stat/116/1992], provided that:
+[Pub. L. 107–281][/us/pl/107/281], § 2, Nov. 6, 2002, [116 Stat. 1992][/us/stat/116/1992], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -123,41 +123,41 @@
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
-[/us/pl/97/414/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs5
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2056
-[/us/pl/98/551/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs4%2Fb
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2817
-[/us/pl/99/91/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs5
+[/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
 [/us/stat/99/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F391
-[/us/pl/100/290/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs3%2Fa
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
 [/us/stat/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F90
-[/us/pl/105/115/s125/b/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FN
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2326
-[/us/pl/107/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F281%2Fs3
+[/us/pl/107/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F281
 [/us/stat/116/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1993
-[/us/pl/110/85/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1112%2Fb
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F976
-[/us/pl/112/144/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs906
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1092
-[/us/pl/112/144/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs906%2Fa
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
-[/us/pl/112/144/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs906%2Fb
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/107/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F281
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
-[/us/pl/100/290/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs3%2Fa%2F1
-[/us/pl/100/290/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs3%2Fa%2F2
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
-[/us/pl/100/290/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs3%2Fb%2F3
-[/us/pl/100/290/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs3%2Fc
-[/us/pl/99/91/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs5%2Fa%2F1
-[/us/pl/99/91/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs5%2Fa%2F2
-[/us/pl/99/91/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs5%2Fb
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
+[/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
+[/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
+[/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
 [/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
 [/us/pl/99/91/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs8%2Fa
 [/us/usc/t21/s360aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360aa
-[/us/pl/107/281/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F281%2Fs2
+[/us/pl/107/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F281
 [/us/stat/116/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1992
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301

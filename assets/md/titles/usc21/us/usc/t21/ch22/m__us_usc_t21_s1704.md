@@ -89,7 +89,7 @@
 
         (B) submit to Congress not later than April 1 of each year the information submitted to the Director under subparagraph (A).
 
-([Pub. L. 105–277, div. C, title VII, § 705][/us/pl/105/277/s705], Oct. 21, 1998, [112 Stat. 2681–680][/us/stat/112/2681-680]; [Pub. L. 109–469, title I, § 104][/us/pl/109/469/s104], Dec. 29, 2006, [120 Stat. 3510][/us/stat/120/3510].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 705, Oct. 21, 1998, [112 Stat. 2681–680][/us/stat/112/2681-680]; [Pub. L. 109–469, title I][/us/pl/109/469/tI], § 104, Dec. 29, 2006, [120 Stat. 3510][/us/stat/120/3510].)
 
  __Repeal of Section__ 
 
@@ -101,17 +101,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(A). [Pub. L. 109–469, § 104(1)][/us/pl/109/469/s104/1], struck out “abuse” after “drug”.
+    2006—Subsec. (a)(1)(A). [Pub. L. 109–469][/us/pl/109/469], § 104(1), struck out “abuse” after “drug”.
 
-    Subsec. (a)(2)(A). [Pub. L. 109–469, § 104(2)][/us/pl/109/469/s104/2], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (a)(2)(A). [Pub. L. 109–469][/us/pl/109/469], § 104(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (a)(2)(B). [Pub. L. 109–469, § 104(3)][/us/pl/109/469/s104/3], substituted “Director of National Intelligence and the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+    Subsec. (a)(2)(B). [Pub. L. 109–469][/us/pl/109/469], § 104(3), substituted “Director of National Intelligence and the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-    Subsec. (a)(3). [Pub. L. 109–469, § 104(4)][/us/pl/109/469/s104/4], amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.”
+    Subsec. (a)(3). [Pub. L. 109–469][/us/pl/109/469], § 104(4), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.”
 
-    Subsec. (b)(2)(B). [Pub. L. 109–469, § 104(5)][/us/pl/109/469/s104/5], substituted “Strategy” for “Program”.
+    Subsec. (b)(2)(B). [Pub. L. 109–469][/us/pl/109/469], § 104(5), substituted “Strategy” for “Program”.
 
-    Subsec. (c). [Pub. L. 109–469, § 104(6)][/us/pl/109/469/s104/6], substituted “on” for “in”.
+    Subsec. (c). [Pub. L. 109–469][/us/pl/109/469], § 104(6), substituted “on” for “in”.
 
 ----------
 
@@ -121,18 +121,18 @@
 ----------
 
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/105/277/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs705
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-680
-[/us/pl/109/469/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104
+[/us/pl/109/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtI
 [/us/stat/120/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3510
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/pl/109/469/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104%2F1
-[/us/pl/109/469/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104%2F2
-[/us/pl/109/469/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104%2F3
-[/us/pl/109/469/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104%2F4
-[/us/pl/109/469/s104/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104%2F5
-[/us/pl/109/469/s104/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs104%2F6
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 
 

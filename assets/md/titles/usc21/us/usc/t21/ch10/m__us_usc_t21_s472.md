@@ -177,7 +177,7 @@
 
             Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
 
-([Pub. L. 85–172, § 31][/us/pl/85/172/s31], as added [Pub. L. 110–234, title XI, § 11015(b)][/us/pl/110/234/s11015/b], May 22, 2008, [122 Stat. 1365][/us/stat/122/1365], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11015(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2127.)
+([Pub. L. 85–172][/us/pl/85/172], § 31, as added [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11015(b), May 22, 2008, [122 Stat. 1365][/us/stat/122/1365], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11015(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2127.)
 
  __References in Text__ 
 
@@ -201,10 +201,10 @@
 ----------
 
 [/us/usc/t21/s454/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs454%2Fa%2F1
-[/us/pl/85/172/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs31
-[/us/pl/110/234/s11015/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11015%2Fb
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1365
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

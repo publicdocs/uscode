@@ -153,7 +153,7 @@
 
         For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
 
-([June 25, 1938, ch. 675, § 743][/us/act/1938-06-25/ch675/s743], as added [Pub. L. 111–353, title I, § 107(a)][/us/pl/111/353/s107/a], Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 743, as added [Pub. L. 111–353, title I][/us/pl/111/353/tI], § 107(a), Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906].)
 
  __Construction__ 
 
@@ -178,8 +178,8 @@
 [/us/usc/t21/s384b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384b
 [/us/usc/t21/s384b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384b
 [/us/usc/t21/s350d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d%2Fb
-[/us/act/1938-06-25/ch675/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs743
-[/us/pl/111/353/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs107%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3906
 
 

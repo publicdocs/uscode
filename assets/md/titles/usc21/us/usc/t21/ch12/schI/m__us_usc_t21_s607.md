@@ -39,13 +39,13 @@
 
         The Secretary, consistent with United States international obligations, shall establish standards for the labeling of sheep carcasses, parts of sheep carcasses, sheepmeat, and sheepmeat food products.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 7, formerly 5th par., [34 Stat. 1262][/us/stat/34/1262]; renumbered § 7 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(a), 6, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 104–127, title II, § 279][/us/pl/104/127/s279], Apr. 4, 1996, [110 Stat. 979][/us/stat/110/979].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 7, formerly 5th par., [34 Stat. 1262][/us/stat/34/1262]; renumbered § 7 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3(a), 6, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 279, Apr. 4, 1996, [110 Stat. 979][/us/stat/110/979].)
 
  __References in Text__ 
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
 
-    Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI, § 11015(a)][/us/pl/110/246/s11015/a], June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under [section 601 of this title][/us/usc/t21/s601] and Tables.
+    Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of [act Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], as added [Pub. L. 90–201][/us/pl/90/201], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], and [Pub. L. 110–246, title XI][/us/pl/110/246/tXI], § 11015(a), June 18, 2008, [122 Stat. 2124][/us/stat/122/2124], which are classified generally to subchapters I to IV–A (§ 601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under [section 601 of this title][/us/usc/t21/s601] and Tables.
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
     1967—Subsec. (a). [Pub. L. 90–201][/us/pl/90/201], §§ 3(a), 6(a), (b), struck out “interstate or foreign” before “commerce” and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
 
-    Subsecs. (b) to (e). [Pub. L. 90–201, § 6(c)][/us/pl/90/201/s6/c], added subsecs. (b) to (e).
+    Subsecs. (b) to (e). [Pub. L. 90–201][/us/pl/90/201], § 6(c), added subsecs. (b) to (e).
 
  __Change of Name__ 
 
@@ -83,9 +83,9 @@
 [/us/stat/34/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1262
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/104/127/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs279
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F979
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -93,13 +93,13 @@
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/110/246/s11015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11015%2Fa
+[/us/pl/110/246/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXI
 [/us/stat/122/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2124
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/usc/t21/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs75
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
-[/us/pl/90/201/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs6%2Fc
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201

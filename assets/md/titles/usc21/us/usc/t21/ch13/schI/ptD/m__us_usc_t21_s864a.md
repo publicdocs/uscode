@@ -55,7 +55,7 @@
 
         There is authorized to be appropriated to the Secretary to make grants under this section $15,000,000 for the period of fiscal years 2008 through 2012.
 
-([Pub. L. 110–234, title XIV, § 14203][/us/pl/110/234/s14203], May 22, 2008, [122 Stat. 1458][/us/stat/122/1458]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14203, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2220.)
+([Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14203, May 22, 2008, [122 Stat. 1458][/us/stat/122/1458]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14203, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2220.)
 
  __References in Text__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14203
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1458
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -125,7 +125,7 @@
 
     (z) The term “United States” means the States.
 
-([Pub. L. 91–597, § 4][/us/pl/91/597/s4], Dec. 29, 1970, [84 Stat. 1621][/us/stat/84/1621]; [Pub. L. 102–571, title I, § 107(15)][/us/pl/102/571/s107/15], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499].)
+([Pub. L. 91–597][/us/pl/91/597], § 4, Dec. 29, 1970, [84 Stat. 1621][/us/stat/84/1621]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(15), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499].)
 
  __References in Text__ 
 
@@ -162,9 +162,9 @@
 [/us/stat/60/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1087
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/91/597/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs4
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1621
-[/us/pl/102/571/s107/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F15
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

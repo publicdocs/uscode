@@ -23,7 +23,7 @@
 
         No labeling or container shall be used for egg products at official plants if it is false or misleading or has not been approved as required by the regulations of the Secretary. If the Secretary has reason to believe that any labeling or the size or form of any container in use or proposed for use with respect to egg products at any official plant is false or misleading in any particular, he may direct that such use be withheld unless the labeling or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person using or proposing to use the labeling or container does not accept the determination of the Secretary, such person may request a hearing, but the use of the labeling or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person adversely affected thereby appeals to the United States court of appeals for the circuit in which such person has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of [section 194 of title 7][/us/usc/t7/s194], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  shall be applicable to appeals taken under this section.
 
-([Pub. L. 91–597, § 7][/us/pl/91/597/s7], Dec. 29, 1970, [84 Stat. 1625][/us/stat/84/1625].)
+([Pub. L. 91–597][/us/pl/91/597], § 7, Dec. 29, 1970, [84 Stat. 1625][/us/stat/84/1625].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t7/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs194
-[/us/pl/91/597/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs7
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1625
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

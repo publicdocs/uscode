@@ -45,7 +45,7 @@
 
         It shall be unlawful for any person to obtain by means of order forms issued under this section controlled substances for any purpose other than their use, distribution, dispensing, or administration in the conduct of a lawful business in such substances or in the course of his professional practice or research.
 
-([Pub. L. 91–513, title II, § 308][/us/pl/91/513/s308], Oct. 27, 1970, [84 Stat. 1259][/us/stat/84/1259]; [Pub. L. 111–273, § 3(b)][/us/pl/111/273/s3/b], Oct. 12, 2010, [124 Stat. 2860][/us/stat/124/2860].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 308, Oct. 27, 1970, [84 Stat. 1259][/us/stat/84/1259]; [Pub. L. 111–273][/us/pl/111/273], § 3(b), Oct. 12, 2010, [124 Stat. 2860][/us/stat/124/2860].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t21/s822/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822%2Fg
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
 [/us/usc/t21/s822/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822%2Fd
-[/us/pl/91/513/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs308
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1259
-[/us/pl/111/273/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273%2Fs3%2Fb
+[/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273
 [/us/stat/124/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2860
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273

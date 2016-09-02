@@ -31,7 +31,7 @@
 
         The detainer authority conferred on representatives of the Secretary of Agriculture by [section 1048 of this title][/us/usc/t21/s1048] shall also apply to any authorized representative of the Secretary of Health and Human Services for the purposes of [section 1034(d) of this title][/us/usc/t21/s1034/d], with respect to any eggs or egg products that are outside any plant processing egg products.
 
-([Pub. L. 91–597, § 23][/us/pl/91/597/s23], Dec. 29, 1970, [84 Stat. 1632][/us/stat/84/1632]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X, § 1012(g)][/us/pl/102/237/s1012/g], Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901].)
+([Pub. L. 91–597][/us/pl/91/597], § 23, Dec. 29, 1970, [84 Stat. 1632][/us/stat/84/1632]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(g), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901].)
 
  __References in Text__ 
 
@@ -68,11 +68,11 @@
 [/us/usc/t15/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1451
 [/us/usc/t21/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1048
 [/us/usc/t21/s1034/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1034%2Fd
-[/us/pl/91/597/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs23
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1632
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/237/s1012/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fg
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1901
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

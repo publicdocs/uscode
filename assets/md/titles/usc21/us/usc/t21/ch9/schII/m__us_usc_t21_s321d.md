@@ -39,7 +39,7 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 107–171, title X, § 10806][/us/pl/107/171/s10806], May 13, 2002, [116 Stat. 526][/us/stat/116/526].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10806, May 13, 2002, [116 Stat. 526][/us/stat/116/526].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/107/171/s10806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10806
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F526
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

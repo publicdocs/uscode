@@ -29,7 +29,7 @@
 
         Any record required to be maintained by this section shall be maintained for such period of time as the Secretary may by regulations prescribe.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title II, § 202, as added [Pub. L. 90–201, § 14][/us/pl/90/201/s14], Dec. 15, 1967, [81 Stat. 593][/us/stat/81/593].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title II, § 202, as added [Pub. L. 90–201][/us/pl/90/201], § 14, Dec. 15, 1967, [81 Stat. 593][/us/stat/81/593].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs14
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F593
 
 

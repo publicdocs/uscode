@@ -181,7 +181,7 @@
 
         (3) A rule issued by the Attorney General under paragraph (1) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor. The interim final rule shall give interested persons the opportunity to comment and to request a hearing. After the conclusion of such proceedings, the Attorney General shall issue a final rule in accordance with the scheduling criteria of subsections (b), (c), and (d) of this section and [section 812(b) of this title][/us/usc/t21/s812/b].
 
-([Pub. L. 91–513, title II, § 201][/us/pl/91/513/s201], Oct. 27, 1970, [84 Stat. 1245][/us/stat/84/1245]; [Pub. L. 95–633, title I, § 102(a)][/us/pl/95/633/s102/a], Nov. 10, 1978, [92 Stat. 3769][/us/stat/92/3769]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 108–358, § 2(b)][/us/pl/108/358/s2/b], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663]; [Pub. L. 112–144, title XI, § 1153][/us/pl/112/144/s1153], July 9, 2012, [126 Stat. 1132][/us/stat/126/1132]; [Pub. L. 113–260, § 2(b)][/us/pl/113/260/s2/b], Dec. 18, 2014, [128 Stat. 2930][/us/stat/128/2930]; [Pub. L. 114–89, § 2(b)][/us/pl/114/89/s2/b], Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 201, Oct. 27, 1970, [84 Stat. 1245][/us/stat/84/1245]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 102(a), Nov. 10, 1978, [92 Stat. 3769][/us/stat/92/3769]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 508, 509(a), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 108–358][/us/pl/108/358], § 2(b), Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663]; [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1153, July 9, 2012, [126 Stat. 1132][/us/stat/126/1132]; [Pub. L. 113–260][/us/pl/113/260], § 2(b), Dec. 18, 2014, [128 Stat. 2930][/us/stat/128/2930]; [Pub. L. 114–89][/us/pl/114/89], § 2(b), Nov. 25, 2015, [129 Stat. 700][/us/stat/129/700].)
 
  __References in Text__ 
 
@@ -203,13 +203,13 @@
 
     2012—Subsec. (h)(2). [Pub. L. 112–144][/us/pl/112/144] substituted “2 years” for “one year” and “1 year” for “six months”.
 
-    2004—Subsec. (g)(1). [Pub. L. 108–358, § 2(b)(1)][/us/pl/108/358/s2/b/1], substituted “drug which contains a controlled substance from the application of this subchapter and subchapter II of this chapter if such drug” for “substance from a schedule if such substance”.
+    2004—Subsec. (g)(1). [Pub. L. 108–358][/us/pl/108/358], § 2(b)(1), substituted “drug which contains a controlled substance from the application of this subchapter and subchapter II of this chapter if such drug” for “substance from a schedule if such substance”.
 
-    Subsec. (g)(3)(C). [Pub. L. 108–358, § 2(b)(2)][/us/pl/108/358/s2/b/2], added subpar. (C).
+    Subsec. (g)(3)(C). [Pub. L. 108–358][/us/pl/108/358], § 2(b)(2), added subpar. (C).
 
-    1984—Subsec. (g)(3). [Pub. L. 98–473, § 509(a)][/us/pl/98/473/s509/a], added par. (3).
+    1984—Subsec. (g)(3). [Pub. L. 98–473][/us/pl/98/473], § 509(a), added par. (3).
 
-    Subsec. (h). [Pub. L. 98–473, § 508][/us/pl/98/473/s508], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–473][/us/pl/98/473], § 508, added subsec. (h).
 
     1978—Subsec. (d). [Pub. L. 95–633][/us/pl/95/633] designated existing provisions as par. (1) and added pars. (2) to (5).
 
@@ -249,21 +249,21 @@
 [/us/usc/t42/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fa
 [/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931
 [/us/usc/t21/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fb
-[/us/pl/91/513/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs201
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1245
-[/us/pl/95/633/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs102%2Fa
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3769
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2071
-[/us/pl/108/358/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fb
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1663
-[/us/pl/112/144/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1153
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1132
-[/us/pl/113/260/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260%2Fs2%2Fb
+[/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/stat/128/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2930
-[/us/pl/114/89/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fb
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F700
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
@@ -283,10 +283,10 @@
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/113/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F260
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
-[/us/pl/108/358/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fb%2F1
-[/us/pl/108/358/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs2%2Fb%2F2
-[/us/pl/98/473/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs509%2Fa
-[/us/pl/98/473/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs508
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

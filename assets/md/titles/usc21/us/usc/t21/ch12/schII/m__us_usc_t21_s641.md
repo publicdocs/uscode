@@ -17,7 +17,7 @@
 
     Inspection shall not be provided under subchapter I of this chapter at any establishment for the slaughter of cattle, sheep, swine, goats, horses, mules, or other equines, or the preparation of any carcasses or parts or products of such animals, which are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in commerce, unless naturally inedible by humans, be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person, firm, or corporation shall buy, sell, transport, or offer for sale or transportation, or receive for transportation, in commerce, or import, any carcasses, parts thereof, meat or meat food products of any such animals, which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary or are naturally inedible by humans.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title II, § 201, as added [Pub. L. 90–201, § 14][/us/pl/90/201/s14], Dec. 15, 1967, [81 Stat. 593][/us/stat/81/593].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title II, § 201, as added [Pub. L. 90–201][/us/pl/90/201], § 14, Dec. 15, 1967, [81 Stat. 593][/us/stat/81/593].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs14
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F593
 [/us/pl/90/201/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601

@@ -105,7 +105,7 @@
 
             (E) An assessment of the effectiveness of the technologies transferred, based in part on the evaluations provided by the recipients, with a recommendation whether the technology should continue to be offered through the program.
 
-([Pub. L. 105–277, div. C, title VII, § 708][/us/pl/105/277/s708], Oct. 21, 1998, [112 Stat. 2681–687][/us/stat/112/2681-687]; [Pub. L. 109–469, title IV, § 401][/us/pl/109/469/s401], Dec. 29, 2006, [120 Stat. 3525][/us/stat/120/3525].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 708, Oct. 21, 1998, [112 Stat. 2681–687][/us/stat/112/2681-687]; [Pub. L. 109–469, title IV][/us/pl/109/469/tIV], § 401, Dec. 29, 2006, [120 Stat. 3525][/us/stat/120/3525].)
 
  __Repeal of Section__ 
 
@@ -113,19 +113,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–469, § 401(a)][/us/pl/109/469/s401/a], amended subsec. (b) generally. Prior to amendment, text read as follows: “There shall be at the head of the Center the Director of Technology, who shall be appointed by the Director of National Drug Control Policy from among individuals qualified and distinguished in the area of science, medicine, engineering, or technology.”
+    2006—Subsec. (b). [Pub. L. 109–469][/us/pl/109/469], § 401(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “There shall be at the head of the Center the Director of Technology, who shall be appointed by the Director of National Drug Control Policy from among individuals qualified and distinguished in the area of science, medicine, engineering, or technology.”
 
-    Subsec. (c). [Pub. L. 109–469, § 401(b)(1)(B)][/us/pl/109/469/s401/b/1/B], added subsec. (c) and struck out former subsec. (c) which related to additional responsibilities of the Director of National Drug Control Policy.
+    Subsec. (c). [Pub. L. 109–469][/us/pl/109/469], § 401(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which related to additional responsibilities of the Director of National Drug Control Policy.
 
-    Subsec. (d). [Pub. L. 109–469, § 401(c)][/us/pl/109/469/s401/c], which directed insertion of “, the Secretary of Homeland Security,” after “The Secretary of Defense”, could not be executed because the words “The Secretary of Defense” did not appear subsequent to amendment by [Pub. L. 109–469, § 401(b)(1)][/us/pl/109/469/s401/b/1]. See below.
+    Subsec. (d). [Pub. L. 109–469][/us/pl/109/469], § 401(c), which directed insertion of “, the Secretary of Homeland Security,” after “The Secretary of Defense”, could not be executed because the words “The Secretary of Defense” did not appear subsequent to amendment by [Pub. L. 109–469][/us/pl/109/469], § 401(b)(1). See below.
 
-    [Pub. L. 109–469, § 401(b)(1)(B)][/us/pl/109/469/s401/b/1/B], added subsec. (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 109–469][/us/pl/109/469], § 401(b)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 109–469, § 401(b)(2)][/us/pl/109/469/s401/b/2], amended subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Health and Human Services shall, to the maximum extent practicable, render assistance and support to the Office and to the Director in the conduct of counter-drug technology assessment.”
+    Subsec. (e). [Pub. L. 109–469][/us/pl/109/469], § 401(b)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Health and Human Services shall, to the maximum extent practicable, render assistance and support to the Office and to the Director in the conduct of counter-drug technology assessment.”
 
-    [Pub. L. 109–469, § 401(b)(1)(A)][/us/pl/109/469/s401/b/1/A], redesignated subsec. (d) as (e).
+    [Pub. L. 109–469][/us/pl/109/469], § 401(b)(1)(A), redesignated subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 109–469, § 401(b)(3)][/us/pl/109/469/s401/b/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–469][/us/pl/109/469], § 401(b)(3), added subsec. (f).
 
 ----------
 
@@ -136,18 +136,18 @@
 
 [/us/usc/t21/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1705
 [/us/usc/t21/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1703
-[/us/pl/105/277/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs708
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-687
-[/us/pl/109/469/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401
+[/us/pl/109/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtIV
 [/us/stat/120/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3525
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
-[/us/pl/109/469/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fa
-[/us/pl/109/469/s401/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fb%2F1%2FB
-[/us/pl/109/469/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fc
-[/us/pl/109/469/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fb%2F1
-[/us/pl/109/469/s401/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fb%2F1%2FB
-[/us/pl/109/469/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fb%2F2
-[/us/pl/109/469/s401/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fb%2F1%2FA
-[/us/pl/109/469/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs401%2Fb%2F3
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 
 

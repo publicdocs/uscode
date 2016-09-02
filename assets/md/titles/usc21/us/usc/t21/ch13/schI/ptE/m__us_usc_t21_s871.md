@@ -27,7 +27,7 @@
 
         The Attorney General may accept in the name of the Department of Justice any form of devise, bequest, gift, or donation where the donor intends to donate property for the purpose of preventing or controlling the abuse of controlled substances. He may take all appropriate steps to secure possession of such property and may sell, assign, transfer, or convey any such property other than moneys.
 
-([Pub. L. 91–513, title II, § 501][/us/pl/91/513/s501], Oct. 27, 1970, [84 Stat. 1270][/us/stat/84/1270].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 501, Oct. 27, 1970, [84 Stat. 1270][/us/stat/84/1270].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs501
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1270
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

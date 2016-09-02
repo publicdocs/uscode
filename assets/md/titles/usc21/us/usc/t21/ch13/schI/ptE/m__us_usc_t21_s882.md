@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881–1 _us_usc_t21_s881a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
 
 ## § 882. Injunctions
 
@@ -67,7 +67,7 @@
 
             (C) any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.
 
-([Pub. L. 91–513, title II, § 512][/us/pl/91/513/s512], Oct. 27, 1970, [84 Stat. 1278][/us/stat/84/1278]; [Pub. L. 110–425, § 3(h)][/us/pl/110/425/s3/h], Oct. 15, 2008, [122 Stat. 4830][/us/stat/122/4830].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 512, Oct. 27, 1970, [84 Stat. 1278][/us/stat/84/1278]; [Pub. L. 110–425][/us/pl/110/425], § 3(h), Oct. 15, 2008, [122 Stat. 4830][/us/stat/122/4830].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881–1 _us_usc_t21_s881a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
 
 ----------
 ----------
@@ -97,9 +97,9 @@
 [/us/usc/t21/s842/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs842%2Fb
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/91/513/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs512
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1278
-[/us/pl/110/425/s3/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fh
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4830
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

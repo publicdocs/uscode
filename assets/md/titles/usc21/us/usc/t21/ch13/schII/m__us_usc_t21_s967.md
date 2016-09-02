@@ -17,13 +17,13 @@
 
     For the purpose of any investigation which, in the opinion of the Secretary of the Treasury, is necessary and proper to the enforcement of [section 545 of title 18][/us/usc/t18/s545] (relating to smuggling goods into the United States) with respect to any controlled substance (as defined in [section 802 of this title][/us/usc/t21/s802]), the Secretary of the Treasury may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of records (including books, papers, documents and tangible things which constitute or contain evidence) relevant or material to the investigation. The attendance of witnesses and the production of records may be required from any place within the customs territory of the United States, except that a witness shall not be required to appear at any hearing distant more than 100 miles from the place where he was served with subpena. Witnesses summoned by the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. Oaths and affirmations may be made at any place subject to the jurisdiction of the United States.
 
-([Aug. 11, 1955, ch. 800, § 1][/us/act/1955-08-11/ch800/s1], [69 Stat. 684][/us/stat/69/684]; [Pub. L. 91–513, title III, § 1102(t)][/us/pl/91/513/s1102/t], Oct. 27, 1970, [84 Stat. 1294][/us/stat/84/1294].)
+([Aug. 11, 1955, ch. 800][/us/act/1955-08-11/ch800], § 1, [69 Stat. 684][/us/stat/69/684]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(t), Oct. 27, 1970, [84 Stat. 1294][/us/stat/84/1294].)
 
  __Codification__ 
 
     Section was not enacted as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970 which comprises this chapter.
 
-    Section was formerly classified to [section 1034 of Title 31][/us/usc/t31/s1034] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1034 of Title 31][/us/usc/t31/s1034] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
     Section was also formerly classified to [section 198a of this title][/us/usc/t21/s198a].
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t18/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs545
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/act/1955-08-11/ch800/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch800%2Fs1
+[/us/act/1955-08-11/ch800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch800
 [/us/stat/69/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F684
-[/us/pl/91/513/s1102/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Ft
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1294
 [/us/usc/t31/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1034
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/usc/t21/s198a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs198a
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513

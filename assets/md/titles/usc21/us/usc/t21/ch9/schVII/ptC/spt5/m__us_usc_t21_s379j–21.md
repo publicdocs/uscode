@@ -301,7 +301,7 @@
 
             The terms “supplemental abbreviated application for a generic new animal drug” and “supplemental abbreviated application” mean a request to the Secretary to approve a change in an approved abbreviated application.
 
-([June 25, 1938, ch. 675, § 741][/us/act/1938-06-25/ch675/s741], as added [Pub. L. 110–316, title II, § 202(b)][/us/pl/110/316/s202/b], Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515]; amended [Pub. L. 113–14, title II, § 202][/us/pl/113/14/s202], June 13, 2013, [127 Stat. 465][/us/stat/127/465].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 741, as added [Pub. L. 110–316, title II][/us/pl/110/316/tII], § 202(b), Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515]; amended [Pub. L. 113–14, title II][/us/pl/113/14/tII], § 202, June 13, 2013, [127 Stat. 465][/us/stat/127/465].)
 
  __Termination of Section__ 
 
@@ -317,31 +317,31 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–14, title II, § 205][/us/pl/113/14/s205], June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
+[Pub. L. 113–14, title II][/us/pl/113/14/tII], § 205, June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
 
 > “The amendments made by this title \[amending this section and [section 379j–22 of this title][/us/usc/t21/s379j–22] and repealing provisions set out as notes under this section and [section 379j–22 of this title][/us/usc/t21/s379j–22]\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–21][/us/usc/t21/s379j–21] et seq.\], as amended by this title, shall be assessed for all abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2013, regardless of the date of enactment of this Act.”
 
  __Termination Date__ 
 
-[Pub. L. 113–14, title II, § 206(a)][/us/pl/113/14/s206/a], June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
+[Pub. L. 113–14, title II][/us/pl/113/14/tII], § 206(a), June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
 
 > “Section 741 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–21][/us/usc/t21/s379j–21]) shall cease to be effective October 1, 2018.”
 
-    [Pub. L. 110–316, title II, § 204(a)][/us/pl/110/316/s204/a], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524], which provided that the amendments made by [section 202 of Pub. L. 110–316][/us/pl/110/316/s202] (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed by [Pub. L. 113–14, title II, § 206(c)(1)][/us/pl/113/14/s206/c/1], June 13, 2013, [127 Stat. 474][/us/stat/127/474].
+    [Pub. L. 110–316, title II][/us/pl/110/316/tII], § 204(a), Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524], which provided that the amendments made by [section 202 of Pub. L. 110–316][/us/pl/110/316/s202] (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed by [Pub. L. 113–14, title II][/us/pl/113/14/tII], § 206(c)(1), June 13, 2013, [127 Stat. 474][/us/stat/127/474].
 
  __Savings Provisions__ 
 
-[Pub. L. 113–14, title II, § 204][/us/pl/113/14/s204], June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
+[Pub. L. 113–14, title II][/us/pl/113/14/tII], § 204, June 13, 2013, [127 Stat. 474][/us/stat/127/474], provided that: 
 
 > “Notwithstanding the amendments made by this title \[amending this section and [section 379j–22 of this title][/us/usc/t21/s379j–22] and repealing provisions set out as notes under this section and [section 379j–22 of this title][/us/usc/t21/s379j–22]\], part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–21][/us/usc/t21/s379j–21] et seq.\], as in effect on the day before the date of enactment of this title \[June 13, 2013\], shall continue to be in effect with respect to abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug (as defined in such part as of such day) that on or after October 1, 2008, but before October 1, 2013, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2014.”
 
  __Findings__ 
 
-[Pub. L. 113–14, title II, § 201(b)][/us/pl/113/14/s201/b], June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that: 
+[Pub. L. 113–14, title II][/us/pl/113/14/tII], § 201(b), June 13, 2013, [127 Stat. 464][/us/stat/127/464], provided that: 
 
 > “The fees authorized by this title \[see Short Title of 2013 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 
-[Pub. L. 110–316, title II, § 201(b)][/us/pl/110/316/s201/b], Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515], provided that: 
+[Pub. L. 110–316, title II][/us/pl/110/316/tII], § 201(b), Aug. 14, 2008, [122 Stat. 3515][/us/stat/122/3515], provided that: 
 
 > “Congress finds as follows:
 
@@ -366,36 +366,36 @@
 [/us/usc/t21/s360b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fb%2F2
 [/us/usc/t21/s360b/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fj
 [/us/usc/t21/s379g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g%2F11
-[/us/act/1938-06-25/ch675/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs741
-[/us/pl/110/316/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs202%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtII
 [/us/stat/122/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3515
-[/us/pl/113/14/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs202
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F465
 [/us/pl/113/14/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fa
 [/us/usc/t21/s379k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379k
 [/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
-[/us/pl/113/14/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs205
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F474
 [/us/usc/t21/s379j–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9322
 [/us/usc/t21/s379j–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9322
 [/us/usc/t21/s379j–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9321
-[/us/pl/113/14/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fa
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F474
 [/us/usc/t21/s379j–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9321
-[/us/pl/110/316/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs204%2Fa
+[/us/pl/110/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtII
 [/us/stat/122/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3524
 [/us/pl/110/316/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs202
-[/us/pl/113/14/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fc%2F1
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F474
-[/us/pl/113/14/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs204
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F474
 [/us/usc/t21/s379j–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9322
 [/us/usc/t21/s379j–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9322
 [/us/usc/t21/s379j–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9321
-[/us/pl/113/14/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs201%2Fb
+[/us/pl/113/14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2FtII
 [/us/stat/127/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F464
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/110/316/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs201%2Fb
+[/us/pl/110/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtII
 [/us/stat/122/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3515
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 

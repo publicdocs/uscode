@@ -91,7 +91,7 @@
 
         Every manufacturer of an electronic product to which is applicable a standard in effect under this section shall furnish to the distributor or dealer at the time of delivery of such product, in the form of a label or tag permanently affixed to such product or in such manner as approved by the Secretary, the certification that such product conforms to all applicable standards under this section. Such certification shall be based upon a test, in accordance with such standard, of the individual article to which it is attached or upon a testing program which is in accord with good manufacturing practice and which has not been disapproved by the Secretary (in such manner as he shall prescribe by regulation) on the grounds that it does not assure the adequacy of safeguards against hazardous electronic product radiation or that it does not assure that electronic products comply with the standards prescribed under this section.
 
-([June 25, 1938, ch. 675, § 534][/us/act/1938-06-25/ch675/s534], formerly [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 534, formerly § 358, as added [Pub. L. 90–602, § 2(3)][/us/pl/90/602/s2/3], Oct. 18, 1968, [82 Stat. 1177][/us/stat/82/1177]; amended [Pub. L. 91–515, title VI, § 601(b)(2)][/us/pl/91/515/s601/b/2], (3), Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; renumbered § 534 and amended [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], (2)(B), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80][/us/pl/103/80], §§ 3(w), 4(a)(2), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778], 779.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 534, formerly [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 534, formerly § 358, as added [Pub. L. 90–602][/us/pl/90/602], § 2(3), Oct. 18, 1968, [82 Stat. 1177][/us/stat/82/1177]; amended [Pub. L. 91–515, title VI][/us/pl/91/515/tVI], § 601(b)(2), (3), Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; renumbered § 534 and amended [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), (2)(B), (3), (4), Nov. 28, 1990, [104 Stat. 4529][/us/stat/104/4529], 4530; [Pub. L. 103–80][/us/pl/103/80], §§ 3(w), 4(a)(2), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778], 779.)
 
  __Codification__ 
 
@@ -99,13 +99,13 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–80, § 4(a)(2)][/us/pl/103/80/s4/a/2], amended directory language of [Pub. L. 101–629, § 19(a)(4)][/us/pl/101/629/s19/a/4], which renumbered [section 263f of Title 42][/us/usc/t42/s263f], The Public Health and Welfare, as this section.
+    1993—[Pub. L. 103–80][/us/pl/103/80], § 4(a)(2), amended directory language of [Pub. L. 101–629][/us/pl/101/629], § 19(a)(4), which renumbered [section 263f of Title 42][/us/usc/t42/s263f], The Public Health and Welfare, as this section.
 
-    Subsec. (f)(2). [Pub. L. 103–80, § 3(w)][/us/pl/103/80/s3/w], made technical amendment to reference to [section 210 of title 42][/us/usc/t42/s210] to reflect correction of corresponding provision of original act.
+    Subsec. (f)(2). [Pub. L. 103–80][/us/pl/103/80], § 3(w), made technical amendment to reference to [section 210 of title 42][/us/usc/t42/s210] to reflect correction of corresponding provision of original act.
 
-    1990—Subsec. (a)(1)(E). [Pub. L. 101–629, § 19(a)(2)(B)][/us/pl/101/629/s19/a/2/B], substituted “section 360hh” for “section 263c”.
+    1990—Subsec. (a)(1)(E). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(2)(B), substituted “section 360hh” for “section 263c”.
 
-    Subsecs. (e), (f)(1)(A). [Pub. L. 101–629, § 19(a)(1)(B)][/us/pl/101/629/s19/a/1/B], substituted “this part” for “this subpart”.
+    Subsecs. (e), (f)(1)(A). [Pub. L. 101–629][/us/pl/101/629], § 19(a)(1)(B), substituted “this part” for “this subpart”.
 
     1970—Subsec. (f)(2). [Pub. L. 91–515][/us/pl/91/515] struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted “to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of [section 210 of title 42][/us/usc/t42/s210]” for “under this subsection”.
 
@@ -124,25 +124,25 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
-[/us/act/1938-06-25/ch675/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs534
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/90/602/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs2%2F3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/90/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602
 [/us/stat/82/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1177
-[/us/pl/91/515/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fb%2F2
+[/us/pl/91/515/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtVI
 [/us/stat/84/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1311
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4529
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
 [/us/usc/t42/s263f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263f
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
-[/us/pl/103/80/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs4%2Fa%2F2
-[/us/pl/101/629/s19/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F4
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/usc/t42/s263f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263f
-[/us/pl/103/80/s3/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fw
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
-[/us/pl/101/629/s19/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F2%2FB
-[/us/pl/101/629/s19/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs19%2Fa%2F1%2FB
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
 [/us/pl/90/602/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F602%2Fs4

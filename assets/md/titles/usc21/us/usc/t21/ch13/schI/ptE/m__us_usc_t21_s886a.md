@@ -39,7 +39,7 @@
 
             The term “controlled substance and chemical diversion control activities” means those activities related to the registration and control of the manufacture, distribution, dispensing, importation, and exportation of controlled substances and listed chemicals.
 
-([Pub. L. 102–395, title I, § 111(b)][/us/pl/102/395/s111/b], Oct. 6, 1992, [106 Stat. 1843][/us/stat/106/1843]; [Pub. L. 105–362, title X, § 1001(b)][/us/pl/105/362/s1001/b], Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291]; [Pub. L. 108–447, div. B, title VI, § 633(a)][/us/pl/108/447/s633/a], Dec. 8, 2004, [118 Stat. 2921][/us/stat/118/2921].)
+([Pub. L. 102–395, title I][/us/pl/102/395/tI], § 111(b), Oct. 6, 1992, [106 Stat. 1843][/us/stat/106/1843]; [Pub. L. 105–362, title X][/us/pl/105/362/tX], § 1001(b), Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291]; [Pub. L. 108–447, div. B, title VI][/us/pl/108/447/dB/tVI], § 633(a), Dec. 8, 2004, [118 Stat. 2921][/us/stat/118/2921].)
 
  __Codification__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–447, § 633(a)(2)][/us/pl/108/447/s633/a/2] to (4), designated existing provisions as par. (1) and inserted heading, substituted “program. Such reimbursements shall be made without distinguishing between expenses related to controlled substance activities and expenses related to chemical activities” for “program” in par. (1)(B), and added par. (2).
+    2004—[Pub. L. 108–447][/us/pl/108/447], § 633(a)(2) to (4), designated existing provisions as par. (1) and inserted heading, substituted “program. Such reimbursements shall be made without distinguishing between expenses related to controlled substance activities and expenses related to chemical activities” for “program” in par. (1)(B), and added par. (2).
 
-    [Pub. L. 108–447, § 633(a)(1)][/us/pl/108/447/s633/a/1], which directed redesignation of pars. (1) to (5) as subpars. (A) to (E) and adjustment of margins, was executed by redesignating pars. (1) to (4) as (A) to (D), respectively, to reflect the probable intent of Congress, because [Pub. L. 105–362][/us/pl/105/362] struck out par. (5). See 1998 Amendment note below.
+    [Pub. L. 108–447][/us/pl/108/447], § 633(a)(1), which directed redesignation of pars. (1) to (5) as subpars. (A) to (E) and adjustment of margins, was executed by redesignating pars. (1) to (4) as (A) to (D), respectively, to reflect the probable intent of Congress, because [Pub. L. 105–362][/us/pl/105/362] struck out par. (5). See 1998 Amendment note below.
 
     1998—Par. (5). [Pub. L. 105–362][/us/pl/105/362] struck out par. (5) which read as follows: “The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.”
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/102/395/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs111%2Fb
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1843
-[/us/pl/105/362/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1001%2Fb
+[/us/pl/105/362/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtX
 [/us/stat/112/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3291
-[/us/pl/108/447/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs633%2Fa
+[/us/pl/108/447/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtVI
 [/us/stat/118/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2921
-[/us/pl/108/447/s633/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs633%2Fa%2F2
-[/us/pl/108/447/s633/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs633%2Fa%2F1
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 

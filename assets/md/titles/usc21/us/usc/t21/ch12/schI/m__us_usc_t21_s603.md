@@ -23,13 +23,13 @@
 
         For the purpose of preventing the inhumane slaughtering of livestock, the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of the method by which amenable species are slaughtered and handled in connection with slaughter in the slaughtering establishments inspected under this chapter. The Secretary may refuse to provide inspection to a new slaughtering establishment or may cause inspection to be temporarily suspended at a slaughtering establishment if the Secretary finds that any cattle, sheep, swine, goats, horses, mules, or other equines have been slaughtered or handled in connection with slaughter at such establishment by any method not in accordance with the Act of August 27, 1958 ([72 Stat. 862][/us/stat/72/862]; [7 U.S.C. 1901–190][/us/usc/t7/s1901–190]6) until the establishment furnishes assurances satisfactory to the Secretary that all slaughtering and handling in connection with slaughter of livestock shall be in accordance with such a method.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 3, formerly 1st par., [34 Stat. 1260][/us/stat/34/1260]; renumbered § 3 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3, 12(a), (b), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 95–445, § 2][/us/pl/95/445/s2], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069]; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 3, formerly 1st par., [34 Stat. 1260][/us/stat/34/1260]; renumbered § 3 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 3, 12(a), (b), Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 588, 592; [Pub. L. 95–445][/us/pl/95/445], § 2, Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](1), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166].)
 
  __References in Text__ 
 
     Act of August 27, 1958, referred to in subsec. (b), is [Pub. L. 85–765][/us/pl/85/765], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862], as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
-    Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by [Pub. L. 95–445, § 5(b)][/us/pl/95/445/s5/b], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], effective as set forth in [section 7 of Pub. L. 95–445][/us/pl/95/445/s7], set out as an Effective Date of 1978 Amendment note below.
+    Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by [Pub. L. 95–445][/us/pl/95/445], § 5(b), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], effective as set forth in [section 7 of Pub. L. 95–445][/us/pl/95/445/s7], set out as an Effective Date of 1978 Amendment note below.
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–445, § 7][/us/pl/95/445/s7], Oct. 10, 1978, [92 Stat. 1070][/us/stat/92/1070], provided that: 
+[Pub. L. 95–445][/us/pl/95/445], § 7, Oct. 10, 1978, [92 Stat. 1070][/us/stat/92/1070], provided that: 
 
 > “The provisions of this Act \[see Short Title of 1978 Amendment note set out under [section 601 of this title][/us/usc/t21/s601]\] shall become effective one year after the date of enactment \[Oct. 10, 1978\]. However, such provisions shall not apply to a person, firm, or corporation for such additional period of time, not to exceed eighteen months, as may be determined by the Secretary, if the Secretary, upon application, finds that compliance with the provisions of this Act on its effective date would cause undue hardship on such person, firm, or corporation.”
 
@@ -59,7 +59,7 @@
 
  __Religious Freedom; Ritual Slaughter__ 
 
-[Pub. L. 95–445, § 6][/us/pl/95/445/s6], Oct. 10, 1978, [92 Stat. 1070][/us/stat/92/1070], provided that: 
+[Pub. L. 95–445][/us/pl/95/445], § 6, Oct. 10, 1978, [92 Stat. 1070][/us/stat/92/1070], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1978 Amendment note set out under [section 601 of this title][/us/usc/t21/s601]\] shall be construed to prohibit, abridge, or in any way hinder the religious freedom of any person or group. Notwithstanding any other provision of this Act, in order to protect freedom of religion, ritual slaughter and the handling or other preparation of livestock for ritual slaughter are exempted from the terms of this Act. For the purposes of this section the term ‘ritual slaughter’ means slaughter in accordance with [section 2(b) of the Act of August 27, 1958][/us/act/1958-08-27/s2/b] ([72 Stat. 862][/us/stat/72/862]; [7 U.S.C. 1902(b)][/us/usc/t7/s1902/b]).”
 
@@ -76,13 +76,13 @@
 [/us/stat/34/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1260
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/95/445/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs2
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
-[/us/pl/95/445/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fb
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/pl/95/445/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs7
 [/us/usc/t21/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs71
@@ -92,13 +92,13 @@
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/109/97/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798%2Fb
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
-[/us/pl/95/445/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs7
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1070
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20%2Fb
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
-[/us/pl/95/445/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs6
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1070
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/act/1958-08-27/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1958-08-27%2Fs2%2Fb

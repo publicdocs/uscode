@@ -31,7 +31,7 @@
 
         The provisions of this section shall be liberally construed to effectuate its remedial purposes.
 
-([Pub. L. 91–513, title II, § 414][/us/pl/91/513/s414], as added [Pub. L. 98–473, title II, § 303][/us/pl/98/473/s303], Oct. 12, 1984, [98 Stat. 2049][/us/stat/98/2049].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 414, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 303, Oct. 12, 1984, [98 Stat. 2049][/us/stat/98/2049].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
-[/us/pl/91/513/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs414
-[/us/pl/98/473/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs303
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2049
 
 

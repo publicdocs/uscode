@@ -17,7 +17,7 @@
 
     The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 457(d) or 467 of this title. All proceedings for the enforcement or to restrain violations of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any such proceeding.
 
-([Pub. L. 85–172, § 21][/us/pl/85/172/s21], as added [Pub. L. 90–492, § 17][/us/pl/90/492/s17], Aug. 18, 1968, [82 Stat. 806][/us/stat/82/806].)
+([Pub. L. 85–172][/us/pl/85/172], § 21, as added [Pub. L. 90–492][/us/pl/90/492], § 17, Aug. 18, 1968, [82 Stat. 806][/us/stat/82/806].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/85/172/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs21
-[/us/pl/90/492/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs17
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F806
 
 

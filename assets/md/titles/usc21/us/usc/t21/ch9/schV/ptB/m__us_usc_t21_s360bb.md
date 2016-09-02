@@ -45,19 +45,19 @@
 
         The Secretary shall by regulation promulgate procedures for the implementation of subsection (a) of this section.
 
-([June 25, 1938, ch. 675, § 526][/us/act/1938-06-25/ch675/s526], as added [Pub. L. 97–414, § 2(a)][/us/pl/97/414/s2/a], Jan. 4, 1983, [96 Stat. 2050][/us/stat/96/2050]; amended [Pub. L. 98–551, § 4(a)][/us/pl/98/551/s4/a], Oct. 30, 1984, [98 Stat. 2817][/us/stat/98/2817]; [Pub. L. 99–91, § 3(a)(2)][/us/pl/99/91/s3/a/2], Aug. 15, 1985, [99 Stat. 387][/us/stat/99/387]; [Pub. L. 100–290, § 2][/us/pl/100/290/s2], Apr. 18, 1988, [102 Stat. 90][/us/stat/102/90]; [Pub. L. 105–115, title I, § 125(b)(2)(H)][/us/pl/105/115/s125/b/2/H], (I), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 526, as added [Pub. L. 97–414][/us/pl/97/414], § 2(a), Jan. 4, 1983, [96 Stat. 2050][/us/stat/96/2050]; amended [Pub. L. 98–551][/us/pl/98/551], § 4(a), Oct. 30, 1984, [98 Stat. 2817][/us/stat/98/2817]; [Pub. L. 99–91][/us/pl/99/91], § 3(a)(2), Aug. 15, 1985, [99 Stat. 387][/us/stat/99/387]; [Pub. L. 100–290][/us/pl/100/290], § 2, Apr. 18, 1988, [102 Stat. 90][/us/stat/102/90]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(H), (I), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326].)
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–115, § 125(b)(2)(H)][/us/pl/105/115/s125/b/2/H], struck out “the submission of an application for certification of the drug under [section 357 of this title][/us/usc/t21/s357],” before “or the submission of an application for licensing of the drug” in introductory provisions, inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “if a certification for such drug is issued under [section 357 of this title][/us/usc/t21/s357], or”.
+    1997—Subsec. (a)(1). [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(H), struck out “the submission of an application for certification of the drug under [section 357 of this title][/us/usc/t21/s357],” before “or the submission of an application for licensing of the drug” in introductory provisions, inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “if a certification for such drug is issued under [section 357 of this title][/us/usc/t21/s357], or”.
 
-    Subsec. (b)(1). [Pub. L. 105–115, § 125(b)(2)(I)(i)][/us/pl/105/115/s125/b/2/I/i], struck out “, a certificate was issued for the drug under [section 357 of this title][/us/usc/t21/s357],” before “or a license was issued”.
+    Subsec. (b)(1). [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(I)(i), struck out “, a certificate was issued for the drug under [section 357 of this title][/us/usc/t21/s357],” before “or a license was issued”.
 
-    Subsec. (b)(2). [Pub. L. 105–115, § 125(b)(2)(I)(ii)][/us/pl/105/115/s125/b/2/I/ii], struck out “, a certificate has not been issued for the drug under [section 357 of this title][/us/usc/t21/s357],” before “or a license has not been issued” and “, approval of an application for certification under [section 357 of this title][/us/usc/t21/s357],” before “or approval of a license”.
+    Subsec. (b)(2). [Pub. L. 105–115][/us/pl/105/115], § 125(b)(2)(I)(ii), struck out “, a certificate has not been issued for the drug under [section 357 of this title][/us/usc/t21/s357],” before “or a license has not been issued” and “, approval of an application for certification under [section 357 of this title][/us/usc/t21/s357],” before “or approval of a license”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–290, § 2(a)][/us/pl/100/290/s2/a], inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under [section 355(b) of this title][/us/usc/t21/s355/b] for the drug, the submission of an application for certification of the drug under [section 357 of this title][/us/usc/t21/s357], or the submission of an application for licensing of the drug under [section 262 of title 42][/us/usc/t42/s262].”
+    1988—Subsec. (a)(1). [Pub. L. 100–290][/us/pl/100/290], § 2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under [section 355(b) of this title][/us/usc/t21/s355/b] for the drug, the submission of an application for certification of the drug under [section 357 of this title][/us/usc/t21/s357], or the submission of an application for licensing of the drug under [section 262 of title 42][/us/usc/t42/s262].”
 
-    Subsecs. (b) to (d). [Pub. L. 100–290, § 2(b)][/us/pl/100/290/s2/b], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (b) to (d). [Pub. L. 100–290][/us/pl/100/290], § 2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
     1985—Subsec. (a)(1). [Pub. L. 99–91][/us/pl/99/91] struck out “or” at end of subpar. (A), struck out subpar. (B) and substituted subpars. (B) and (C), and inserted “, certification,” after “approval”.
 
@@ -85,30 +85,30 @@
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs526
-[/us/pl/97/414/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2050
-[/us/pl/98/551/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551%2Fs4%2Fa
+[/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/stat/98/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2817
-[/us/pl/99/91/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91%2Fs3%2Fa%2F2
+[/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
 [/us/stat/99/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F387
-[/us/pl/100/290/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs2
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
 [/us/stat/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F90
-[/us/pl/105/115/s125/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FH
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2326
-[/us/pl/105/115/s125/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FH
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
-[/us/pl/105/115/s125/b/2/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FI%2Fi
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
-[/us/pl/105/115/s125/b/2/I/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FI%2Fii
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
-[/us/pl/100/290/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs2%2Fa
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/100/290/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290%2Fs2%2Fb
+[/us/pl/100/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F290
 [/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91
 [/us/pl/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F551
 [/us/pl/99/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F91

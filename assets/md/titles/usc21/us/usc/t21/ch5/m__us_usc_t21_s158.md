@@ -17,7 +17,7 @@
 
     Any person, firm, or corporation who shall violate any of the provisions of this chapter shall be deemed guilty of a misdemeanor, and shall, upon conviction, be punished by a fine of not exceeding $1,000 or by imprisonment not exceeding one year, or by both such fine and imprisonment, in the discretion of the court.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 833][/us/stat/37/833].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 833][/us/stat/37/833].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F833
 [/us/usc/t21/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs156
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151

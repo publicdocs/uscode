@@ -23,11 +23,11 @@
 
     (c) The term “filled milk” means any milk, cream, or skimmed milk, whether or not condensed, evaporated, concentrated, powdered, dried, or desiccated, to which has been added, or which has been blended or compounded with, any fat or oil other than milk fat, so that the resulting product is in imitation or semblance of milk, cream, or skimmed milk, whether or not condensed, evaporated, concentrated, powdered, dried, or desiccated. This definition shall not include any distinctive proprietary food compound not readily mistaken in taste for milk or cream or for evaporated, condensed, or powdered milk, or cream where such compound (1) is prepared and designed for feeding infants and young children and customarily used on the order of a physician; (2) is packed in individual cans containing not more than sixteen and one-half ounces and bearing a label in bold type that the content is to be used only for said purpose; (3) is shipped in interstate or foreign commerce exclusively to physicians, wholesale and retail druggists, orphan asylums, child-welfare associations, hospitals, and similar institutions and generally disposed of by them.
 
-([Mar. 4, 1923, ch. 262, § 1][/us/act/1923-03-04/ch262/s1], [42 Stat. 1486][/us/stat/42/1486].)
+([Mar. 4, 1923, ch. 262][/us/act/1923-03-04/ch262], § 1, [42 Stat. 1486][/us/stat/42/1486].)
 
  __Short Title__ 
 
-    [Act July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title II, [57 Stat. 499][/us/stat/57/499], provided in part that act Mar. 4, 1923, which enacted this chapter, may be cited as the “Filled Milk Act”.
+    [Act July 12, 1943, ch. 221, title II][/us/act/1943-07-12/ch221/tII], [57 Stat. 499][/us/stat/57/499], provided in part that act Mar. 4, 1923, which enacted this chapter, may be cited as the “Filled Milk Act”.
 
 ----------
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch262/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch262%2Fs1
+[/us/act/1923-03-04/ch262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch262
 [/us/stat/42/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1486
-[/us/act/1943-07-12/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-12%2Fch221
+[/us/act/1943-07-12/ch221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-12%2Fch221%2FtII
 [/us/stat/57/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F499
 
 

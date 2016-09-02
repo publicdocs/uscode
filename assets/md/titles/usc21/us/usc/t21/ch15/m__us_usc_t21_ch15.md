@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch14/m__us_usc_t21_ch14.md) | [Next](./../../../..//us/usc/t21/ch15/m__us_usc_t21_s1031.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch15)
+[Previous](./../../../..//us/usc/t21/ch14/m__us_usc_t21_s1001...1007.md) | [Next](./../../../..//us/usc/t21/ch15/m__us_usc_t21_s1031.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch15)
 
 ## CHAPTER 15—EGG PRODUCTS INSPECTION
 
@@ -235,7 +235,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch14/m__us_usc_t21_ch14.md) | [Next](./../../../..//us/usc/t21/ch15/m__us_usc_t21_s1031.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch15)
+[Previous](./../../../..//us/usc/t21/ch14/m__us_usc_t21_s1001...1007.md) | [Next](./../../../..//us/usc/t21/ch15/m__us_usc_t21_s1031.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch15)
 
 ----------
 ----------

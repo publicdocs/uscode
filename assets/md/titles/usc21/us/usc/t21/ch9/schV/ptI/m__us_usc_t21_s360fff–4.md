@@ -69,7 +69,7 @@
 
         The timelines for the processes and procedures under paragraphs (1), (2), (5), and (6) of [section 360fff–3(a) of this title][/us/usc/t21/s360fff–3/a] shall not apply to any requests submitted to the Secretary under [section 360fff–1 of this title][/us/usc/t21/s360fff–1] after the date that is 6 years after November 26, 2014.
 
-([June 25, 1938, ch. 675, § 586D][/us/act/1938-06-25/ch675/s586D], as added [Pub. L. 113–195, § 2(a)][/us/pl/113/195/s2/a], Nov. 26, 2014, [128 Stat. 2044][/us/stat/128/2044].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586D, as added [Pub. L. 113–195][/us/pl/113/195], § 2(a), Nov. 26, 2014, [128 Stat. 2044][/us/stat/128/2044].)
 
  __References in Text__ 
 
@@ -93,8 +93,8 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360fff–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%933%2Fa
 [/us/usc/t21/s360fff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%931
-[/us/act/1938-06-25/ch675/s586D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586D
-[/us/pl/113/195/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs2%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2044
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

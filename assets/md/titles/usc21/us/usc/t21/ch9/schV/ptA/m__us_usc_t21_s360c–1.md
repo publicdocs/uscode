@@ -23,7 +23,7 @@
 
     (3) the number and type of devices reclassified in the previous calendar year under [section 360e of this title][/us/usc/t21/s360e].
 
-([Pub. L. 112–144, title VI, § 608(c)][/us/pl/112/144/s608/c], July 9, 2012, [126 Stat. 1059][/us/stat/126/1059].)
+([Pub. L. 112–144, title VI][/us/pl/112/144/tVI], § 608(c), July 9, 2012, [126 Stat. 1059][/us/stat/126/1059].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t21/s360c/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fe%2F1
 [/us/usc/t21/s360c/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fe%2F1
 [/us/usc/t21/s360e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360e
-[/us/pl/112/144/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fc
+[/us/pl/112/144/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVI
 [/us/stat/126/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1059
 
 

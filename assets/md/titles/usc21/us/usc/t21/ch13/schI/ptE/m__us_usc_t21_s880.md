@@ -75,15 +75,15 @@
 
         (4) The judge or magistrate judge who has issued a warrant under this section shall attach to the warrant a copy of the return and all papers filed in connection therewith and shall file them with the clerk of the district court of the United States for the judicial district in which the inspection was made.
 
-([Pub. L. 91–513, title II, § 510][/us/pl/91/513/s510], Oct. 27, 1970, [84 Stat. 1274][/us/stat/84/1274]; [Pub. L. 101–647, title XXXV, § 3599M][/us/pl/101/647/s3599M], Nov. 29, 1990, [104 Stat. 4932][/us/stat/104/4932]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 103–200, § 6][/us/pl/103/200/s6], Dec. 17, 1993, [107 Stat. 2339][/us/stat/107/2339].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 510, Oct. 27, 1970, [84 Stat. 1274][/us/stat/84/1274]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3599M, Nov. 29, 1990, [104 Stat. 4932][/us/stat/104/4932]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 103–200][/us/pl/103/200], § 6, Dec. 17, 1993, [107 Stat. 2339][/us/stat/107/2339].)
 
  __Amendments__ 
 
-    1993—Subsec. (a)(2). [Pub. L. 103–200, § 6(1)][/us/pl/103/200/s6/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “places, including factories, warehouses, or other establishments, and conveyances, where persons registered under [section 823 of this title][/us/usc/t21/s823] (or exempted from registration under [section 822(d) of this title][/us/usc/t21/s822/d]) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances.”
+    1993—Subsec. (a)(2). [Pub. L. 103–200][/us/pl/103/200], § 6(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “places, including factories, warehouses, or other establishments, and conveyances, where persons registered under [section 823 of this title][/us/usc/t21/s823] (or exempted from registration under [section 822(d) of this title][/us/usc/t21/s822/d]) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances.”
 
-    Subsec. (b)(3)(B). [Pub. L. 103–200, § 6(2)(A)][/us/pl/103/200/s6/2/A], inserted “, listed chemicals,” after “unfinished drugs”.
+    Subsec. (b)(3)(B). [Pub. L. 103–200][/us/pl/103/200], § 6(2)(A), inserted “, listed chemicals,” after “unfinished drugs”.
 
-    Subsec. (b)(3)(C). [Pub. L. 103–200, § 6(2)(B)][/us/pl/103/200/s6/2/B], inserted “or listed chemical” after “controlled substance” and “or chemical” after “such substance”.
+    Subsec. (b)(3)(C). [Pub. L. 103–200][/us/pl/103/200], § 6(2)(B), inserted “or listed chemical” after “controlled substance” and “or chemical” after “such substance”.
 
     1990—Subsec. (b)(3)(B). [Pub. L. 101–647][/us/pl/101/647] substituted “paragraph (4)” for “paragraph (5)”.
 
@@ -105,19 +105,19 @@
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
 [/us/usc/t21/s822/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822%2Fd
 [/us/usc/t21/s876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs876
-[/us/pl/91/513/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs510
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1274
-[/us/pl/101/647/s3599M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599M
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4932
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/103/200/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs6
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2339
-[/us/pl/103/200/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs6%2F1
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
 [/us/usc/t21/s822/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822%2Fd
-[/us/pl/103/200/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs6%2F2%2FA
-[/us/pl/103/200/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs6%2F2%2FB
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

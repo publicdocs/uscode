@@ -17,7 +17,7 @@
 
     The importation into the United States of any virus, serum, toxin, or analogous product for use in the treatment of domestic animals, and the importation of any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product for use in the treatment of domestic animals, is prohibited without (1) a permit from the Secretary of Agriculture, or (2) in the case of an article originating in Canada, such permit or, in lieu of such permit, such certification by Canada as may be prescribed by the Secretary of Agriculture.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 832][/us/stat/37/832]; [Pub. L. 100–449, title III, § 301(d)][/us/pl/100/449/s301/d], Sept. 28, 1988, [102 Stat. 1868][/us/stat/102/1868].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 832][/us/stat/37/832]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 301(d), Sept. 28, 1988, [102 Stat. 1868][/us/stat/102/1868].)
 
  __Amendment of Section__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832
-[/us/pl/100/449/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs301%2Fd
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1868
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/usc/t21/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs151

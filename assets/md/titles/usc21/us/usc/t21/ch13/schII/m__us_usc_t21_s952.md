@@ -63,7 +63,7 @@
 
         Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
 
-([Pub. L. 91–513, title III, § 1002][/us/pl/91/513/s1002], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]; [Pub. L. 95–633, title I, § 105][/us/pl/95/633/s105], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 519–521, Oct. 12, 1984, [98 Stat. 2075][/us/stat/98/2075]; [Pub. L. 109–177, title VII, § 715][/us/pl/109/177/s715], Mar. 9, 2006, [120 Stat. 264][/us/stat/120/264].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1002, Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 105, Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 519–521, Oct. 12, 1984, [98 Stat. 2075][/us/stat/98/2075]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 715, Mar. 9, 2006, [120 Stat. 264][/us/stat/120/264].)
 
  __References in Text__ 
 
@@ -71,17 +71,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–177, § 715(1)(A)][/us/pl/109/177/s715/1/A], inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I of this chapter,” in introductory provisions.
+    2006—Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 715(1)(A), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I of this chapter,” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 109–177, § 715(1)(B)][/us/pl/109/177/s715/1/B], inserted “, and of ephedrine, pseudoephedrine, and phenylpropanolamine,” after “coca leaves”.
+    Subsec. (a)(1). [Pub. L. 109–177][/us/pl/109/177], § 715(1)(B), inserted “, and of ephedrine, pseudoephedrine, and phenylpropanolamine,” after “coca leaves”.
 
-    Subsecs. (d), (e). [Pub. L. 109–177, § 715(2)][/us/pl/109/177/s715/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 109–177][/us/pl/109/177], § 715(2), added subsecs. (d) and (e).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–473, § 519][/us/pl/98/473/s519], amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
+    1984—Subsec. (a)(1). [Pub. L. 98–473][/us/pl/98/473], § 519, amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
 
-    Subsec. (a)(2)(C). [Pub. L. 98–473, § 520][/us/pl/98/473/s520], added subpar. (C).
+    Subsec. (a)(2)(C). [Pub. L. 98–473][/us/pl/98/473], § 520, added subpar. (C).
 
-    Subsec. (b)(2). [Pub. L. 98–473, § 521][/us/pl/98/473/s521], substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
+    Subsec. (b)(2). [Pub. L. 98–473][/us/pl/98/473], § 521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
 
     1978—Subsec. (b)(2). [Pub. L. 95–633][/us/pl/95/633] inserted provision relating to exception for nonnarcotic controlled substances listed in schedule I or II of the Convention on Psychotropic Substances.
 
@@ -98,21 +98,21 @@
 
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
 [/us/usc/t21/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958
-[/us/pl/91/513/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1002
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
-[/us/pl/95/633/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs105
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3772
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2075
-[/us/pl/109/177/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs715
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F264
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/109/177/s715/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs715%2F1%2FA
-[/us/pl/109/177/s715/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs715%2F1%2FB
-[/us/pl/109/177/s715/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs715%2F2
-[/us/pl/98/473/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs519
-[/us/pl/98/473/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs520
-[/us/pl/98/473/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs521
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633
 [/us/pl/95/633/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs112

@@ -125,7 +125,7 @@
 
         (3) any additional species of livestock that the Secretary considers appropriate.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 1, as added [Pub. L. 90–201, § 2][/us/pl/90/201/s2], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584]; amended [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–571, title I, § 107(14)][/us/pl/102/571/s107/14], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 109–97, title VII, § 798][/us/pl/109/97/s798]\[(a)\](2), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166]; [Pub. L. 110–234, title XI, § 11016(b)(1)(A)][/us/pl/110/234/s11016/b/1/A], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2130; [Pub. L. 113–79, title XII, § 12106(a)(1)][/us/pl/113/79/s12106/a/1], Feb. 7, 2014, [128 Stat. 980][/us/stat/128/980].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 1, as added [Pub. L. 90–201][/us/pl/90/201], § 2, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584]; amended [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(14), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798\[(a)\](2), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166]; [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11016(b)(1)(A), May 22, 2008, [122 Stat. 1369][/us/stat/122/1369]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11016(b)(1)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2130; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12106(a)(1), Feb. 7, 2014, [128 Stat. 980][/us/stat/128/980].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 
     2014—Subsec. (w)(2). [Pub. L. 113–79][/us/pl/113/79] added par. (2) and struck out former par. (2) which read as follows: “catfish, as defined by the Secretary; and”.
 
-    2008—Subsec. (w)(2), (3). [Pub. L. 110–246, § 11016(b)(1)(A)][/us/pl/110/246/s11016/b/1/A], added par. (2) and redesignated former par. (2) as (3).
+    2008—Subsec. (w)(2), (3). [Pub. L. 110–246][/us/pl/110/246], § 11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
     2005—Par. (w). [Pub. L. 109–97][/us/pl/109/97] added par. (w).
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–79, title XII, § 12106(c)][/us/pl/113/79/s12106/c], Feb. 7, 2014, [128 Stat. 982][/us/stat/128/982], provided that: 
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12106(c), Feb. 7, 2014, [128 Stat. 982][/us/stat/128/982], provided that: 
 
 > “This section \[amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]) \[amending this section, enacting sections 606 and 625 of this title, repealing former [section 606 of this title][/us/usc/t21/s606], and enacting provisions set out as notes below\].”
 
@@ -159,19 +159,19 @@
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-    [Pub. L. 110–234, title XI, § 11016(b)(2)(A)][/us/pl/110/234/s11016/b/2/A], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, provided that the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]), see Effective Date of 2014 Amendment note above.
+    [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11016(b)(2)(A), May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11016(b)(2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, provided that the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12106(b)(4), Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]), see Effective Date of 2014 Amendment note above.
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–97, title VII, § 798(b)][/us/pl/109/97/s798/b], Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166], provided that: 
+[Pub. L. 109–97, title VII][/us/pl/109/97/tVII], § 798(b), Nov. 10, 2005, [119 Stat. 2166][/us/stat/119/2166], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and sections 603 to 605, 608, 609, 615, and 617 to 621 of this title\] shall take effect on the day after the effective date of section 794 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006 \[[section 794 of Pub. L. 109–97][/us/pl/109/97/s794], [119 Stat. 2164][/us/stat/119/2164], effective 120 days after Nov. 10, 2005\].”
 
  __Effective Date__ 
 
-[Pub. L. 90–201, § 20][/us/pl/90/201/s20], Dec. 15, 1967, [81 Stat. 601][/us/stat/81/601], provided that: 
+[Pub. L. 90–201][/us/pl/90/201], § 20, Dec. 15, 1967, [81 Stat. 601][/us/stat/81/601], provided that: 
 
 > “This Act \[see Short Title note below\] shall become effective upon enactment \[Dec. 15, 1967\] except as provided in paragraphs (a) through (d):
 
@@ -185,27 +185,27 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–641, title IV, § 401][/us/pl/99/641/s401], Nov. 10, 1986, [100 Stat. 3567][/us/stat/100/3567], provided that: 
+[Pub. L. 99–641, title IV][/us/pl/99/641/tIV], § 401, Nov. 10, 1986, [100 Stat. 3567][/us/stat/100/3567], provided that: 
 
 > “This title \[amending sections 606, 609, 621, 671, and 676 of this title and enacting provisions set out as notes under sections 606, 609, 621, 671, and 676 of this title\] may be cited as the ‘Processed Products Inspection Improvement Act of 1986’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–445, § 1][/us/pl/95/445/s1], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], provided: 
+[Pub. L. 95–445][/us/pl/95/445], § 1, Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], provided: 
 
 > “That this Act \[amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and [section 603 of this title][/us/usc/t21/s603]\] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 90–201, § 1][/us/pl/90/201/s1], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], provided in part: 
+[Pub. L. 90–201][/us/pl/90/201], § 1, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], provided in part: 
 
 > “That this Act \[enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing [section 96 of this title][/us/usc/t21/s96] and [section 1306(b) of Title 19][/us/usc/t19/s1306/b], Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
 
-    [Pub. L. 90–201, § 1][/us/pl/90/201/s1], Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
+    [Pub. L. 90–201][/us/pl/90/201], § 1, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
 
  __Regulations__ 
 
-[Pub. L. 113–79, title XII, § 12106(b)(1)][/us/pl/113/79/s12106/b/1]–(3), Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], provided that:
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12106(b)(1)–(3), Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -231,7 +231,7 @@
 
 >     Section 1601(c)(2) \[[7 U.S.C. 9091(c)(2)][/us/usc/t7/s9091/c/2]\] applies to the promulgation of the regulations and administration of this section and the amendments made by this section.”
 
-[Pub. L. 110–246, title XI, § 11016(b)(2)][/us/pl/110/246/s11016/b/2], as added by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], provided that:
+[Pub. L. 110–246, title XI][/us/pl/110/246/tXI], § 11016(b)(2), as added by [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12106(b)(4), Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], provided that:
 
 >     “(A)  __Regulations__  __.—__ 
 
@@ -253,13 +253,13 @@
 
 >             “(III) any information resulting from examination, testing, and inspections conducted is considered in making risk-based determinations, including the establishment of inspection priorities.”
 
-    [Pub. L. 110–234, title XI, § 11016(b)(2)(B)][/us/pl/110/234/s11016/b/2/B], May 22, 2008, [122 Stat. 1370][/us/stat/122/1370], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) not later than 18 months after June 18, 2008, prior to repeal by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]), see Effective Date of 2014 Amendment note above.
+    [Pub. L. 110–234, title XI][/us/pl/110/234/tXI], § 11016(b)(2)(B), May 22, 2008, [122 Stat. 1370][/us/stat/122/1370], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XI, § 11016(b)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) not later than 18 months after June 18, 2008, prior to repeal by [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12106(b)(4), Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]), see Effective Date of 2014 Amendment note above.
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
  __Separability__ 
 
-[Pub. L. 90–201, § 19][/us/pl/90/201/s19], Dec. 15, 1967, [81 Stat. 601][/us/stat/81/601], provided that: 
+[Pub. L. 90–201][/us/pl/90/201], § 19, Dec. 15, 1967, [81 Stat. 601][/us/stat/81/601], provided that: 
 
 > “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
@@ -280,19 +280,19 @@
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
-[/us/pl/90/201/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs2
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/571/s107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F14
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
-[/us/pl/109/97/s798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
-[/us/pl/110/234/s11016/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11016%2Fb%2F1%2FA
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1369
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s12106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fa%2F1
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F980
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -302,12 +302,12 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s11016/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb%2F1%2FA
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/113/79/s12106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fc
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F982
 [/us/usc/t7/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -318,14 +318,14 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s11016/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11016%2Fb%2F2%2FA
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1369
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11016%2Fb%2F1
 [/us/pl/110/246/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb%2F1
 [/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
-[/us/pl/113/79/s12106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fb%2F4
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2130
@@ -334,47 +334,47 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/109/97/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs798%2Fb
+[/us/pl/109/97/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2FtVII
 [/us/stat/119/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2166
 [/us/pl/109/97/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F97%2Fs794
 [/us/stat/119/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2164
-[/us/pl/90/201/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F601
 [/us/usc/t19/s1306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1306%2Fb
 [/us/usc/t21/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs623
 [/us/usc/t21/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs644
-[/us/pl/99/641/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs401
+[/us/pl/99/641/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtIV
 [/us/stat/100/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3567
-[/us/pl/95/445/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs1
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/usc/t21/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs603
-[/us/pl/90/201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs1
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
 [/us/usc/t21/s96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs96
 [/us/usc/t19/s1306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1306%2Fb
-[/us/pl/90/201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs1
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/113/79/s12106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fb%2F1
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2130
 [/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
 [/us/usc/t7/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622
 [/us/usc/t7/s9091/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9091%2Fc%2F2
-[/us/pl/110/246/s11016/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb%2F2
-[/us/pl/113/79/s12106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fb%2F4
+[/us/pl/110/246/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXI
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
 [/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
 [/us/usc/t7/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/110/234/s11016/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11016%2Fb%2F2%2FB
+[/us/pl/110/234/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXI
 [/us/stat/122/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1370
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11016%2Fb%2F1
 [/us/pl/110/246/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb%2F1
 [/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
-[/us/pl/113/79/s12106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fb%2F4
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2130
@@ -383,7 +383,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/90/201/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs19
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F601
 
 

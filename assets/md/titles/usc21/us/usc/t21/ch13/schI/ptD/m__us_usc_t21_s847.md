@@ -17,7 +17,7 @@
 
     Any penalty imposed for violation of this subchapter shall be in addition to, and not in lieu of, any civil or administrative penalty or sanction authorized by law.
 
-([Pub. L. 91–513, title II, § 407][/us/pl/91/513/s407], Oct. 27, 1970, [84 Stat. 1265][/us/stat/84/1265].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 407, Oct. 27, 1970, [84 Stat. 1265][/us/stat/84/1265].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs407
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1265
 
 

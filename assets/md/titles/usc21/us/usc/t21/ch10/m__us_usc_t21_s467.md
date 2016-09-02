@@ -27,7 +27,7 @@
 
         The determination and order of the Secretary when made after opportunity for hearing, with respect to withdrawal or refusal of inspection service under this chapter shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the United States Court of Appeals as provided in [section 457 of this title][/us/usc/t21/s457]. Judicial review of any such order shall be upon the record upon which the determination and order are based. The provisions of [section 194 of title 7][/us/usc/t7/s194] shall be applicable to appeals taken under this section.
 
-([Pub. L. 85–172, § 18][/us/pl/85/172/s18], Aug. 28, 1957, [71 Stat. 448][/us/stat/71/448]; [Pub. L. 90–492, § 16][/us/pl/90/492/s16], Aug. 18, 1968, [82 Stat. 805][/us/stat/82/805].)
+([Pub. L. 85–172][/us/pl/85/172], § 18, Aug. 28, 1957, [71 Stat. 448][/us/stat/71/448]; [Pub. L. 90–492][/us/pl/90/492], § 16, Aug. 18, 1968, [82 Stat. 805][/us/stat/82/805].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t21/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs456
 [/us/usc/t21/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs457
 [/us/usc/t7/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs194
-[/us/pl/85/172/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs18
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F448
-[/us/pl/90/492/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs16
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F805
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

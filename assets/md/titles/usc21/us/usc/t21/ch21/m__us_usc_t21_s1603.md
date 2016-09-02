@@ -61,7 +61,7 @@
 
         (2) to create a cause of action or Federal court jurisdiction pursuant to section 1331 or 1337 of title 28 that otherwise would not exist under applicable Federal or State law.
 
-([Pub. L. 105–230, § 4][/us/pl/105/230/s4], Aug. 13, 1998, [112 Stat. 1523][/us/stat/112/1523].)
+([Pub. L. 105–230][/us/pl/105/230], § 4, Aug. 13, 1998, [112 Stat. 1523][/us/stat/112/1523].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t21/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1604
 [/us/usc/t21/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1605
-[/us/pl/105/230/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs4
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1523
 
 

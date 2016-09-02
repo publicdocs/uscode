@@ -17,7 +17,7 @@
 
     A search warrant relating to offenses involving controlled substances may be served at any time of the day or night if the judge or United States magistrate judge issuing the warrant is satisfied that there is probable cause to believe that grounds exist for the warrant and for its service at such time.
 
-([Pub. L. 91–513, title II, § 509][/us/pl/91/513/s509], Oct. 27, 1970, [84 Stat. 1274][/us/stat/84/1274]; [Pub. L. 93–481, § 3][/us/pl/93/481/s3], Oct. 26, 1974, [88 Stat. 1455][/us/stat/88/1455]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 509, Oct. 27, 1970, [84 Stat. 1274][/us/stat/84/1274]; [Pub. L. 93–481][/us/pl/93/481], § 3, Oct. 26, 1974, [88 Stat. 1455][/us/stat/88/1455]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/91/513/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs509
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1274
-[/us/pl/93/481/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F481%2Fs3
+[/us/pl/93/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F481
 [/us/stat/88/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1455
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/93/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F481
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

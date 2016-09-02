@@ -81,7 +81,7 @@
 
         In awarding initial grants under this section, priority shall be given to a coalition that expressly proposes to provide mentorship to a coalition or aspiring coalition serving economically disadvantaged areas.
 
-([Pub. L. 100–690, title I, § 1035][/us/pl/100/690/s1035], as added [Pub. L. 107–82, § 2][/us/pl/107/82/s2], Dec. 14, 2001, [115 Stat. 819][/us/stat/115/819].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1035, as added [Pub. L. 107–82][/us/pl/107/82], § 2, Dec. 14, 2001, [115 Stat. 819][/us/stat/115/819].)
 
 ----------
 
@@ -95,8 +95,8 @@
 [/us/usc/t21/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1532
 [/us/usc/t21/s1532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1532%2Fb
 [/us/usc/t21/s1524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1524%2Fa
-[/us/pl/100/690/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1035
-[/us/pl/107/82/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82%2Fs2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/107/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F82
 [/us/stat/115/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F819
 
 

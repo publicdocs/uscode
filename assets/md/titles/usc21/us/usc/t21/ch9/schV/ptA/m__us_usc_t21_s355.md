@@ -1507,7 +1507,7 @@
 
             (B) the date of issuance of the interim final rule controlling the drug.
 
-([June 25, 1938, ch. 675, § 505][/us/act/1938-06-25/ch675/s505], [52 Stat. 1052][/us/stat/52/1052]; [Pub. L. 86–507, § 1(18)][/us/pl/86/507/s1/18], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, [76 Stat. 781–783][/us/stat/76/781-783], 784, 785; [Pub. L. 92–387, § 4(d)][/us/pl/92/387/s4/d], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 98–417, title I][/us/pl/98/417], §§ 101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, [98 Stat. 1585][/us/stat/98/1585], 1592, 1593, 1597; [Pub. L. 102–282, § 5][/us/pl/102/282/s5], May 13, 1992, [106 Stat. 161][/us/stat/106/161]; [Pub. L. 103–80, § 3(n)][/us/pl/103/80/s3/n], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 115, 117, 119, 120, 124(a), Nov. 21, 1997, [111 Stat. 2313][/us/stat/111/2313], 2315, 2316, 2318, 2324; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(11)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 107–109, § 15(c)(1)][/us/pl/107/109/s15/c/1], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 108–155, § 2(b)(1)][/us/pl/108/155/s2/b/1], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 108–173, title XI][/us/pl/108/173], §§ 1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, [117 Stat. 2448][/us/stat/117/2448], 2452, 2457, 2460; [Pub. L. 110–85, title VII, § 701(b)][/us/pl/110/85/s701/b], title VIII, § 801(b)(3)(A), (B), title IX, §§ 901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, § 1113, Sept. 27, 2007, [121 Stat. 903][/us/stat/121/903], 921, 922, 943, 944, 953, 957, 958, 960–962, 976; [Pub. L. 110–316, title III, § 301][/us/pl/110/316/s301], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 110–379, § 4(a)][/us/pl/110/379/s4/a], Oct. 8, 2008, [122 Stat. 4076][/us/stat/122/4076]; [Pub. L. 111–31, div. A, title I, § 103(e)][/us/pl/111/31/s103/e], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–148, title VII, § 7002(d)(1)][/us/pl/111/148/s7002/d/1], title X, § 10609, Mar. 23, 2010, [124 Stat. 816][/us/stat/124/816], 1014; [Pub. L. 112–144, title IX, § 905][/us/pl/112/144/s905], title XI, §§ 1101, 1134(a), 1135, July 9, 2012, [126 Stat. 1092][/us/stat/126/1092], 1108, 1123; [Pub. L. 113–5, title III, § 301][/us/pl/113/5/s301], Mar. 13, 2013, [127 Stat. 179][/us/stat/127/179]; [Pub. L. 114–89, § 2(a)(1)][/us/pl/114/89/s2/a/1], Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 505, [52 Stat. 1052][/us/stat/52/1052]; [Pub. L. 86–507][/us/pl/86/507], § 1(18), June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 87–781, title I][/us/pl/87/781/tI], §§ 102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, [76 Stat. 781–783][/us/stat/76/781-783], 784, 785; [Pub. L. 92–387][/us/pl/92/387], § 4(d), Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 98–417, title I][/us/pl/98/417/tI], §§ 101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, [98 Stat. 1585][/us/stat/98/1585], 1592, 1593, 1597; [Pub. L. 102–282][/us/pl/102/282], § 5, May 13, 1992, [106 Stat. 161][/us/stat/106/161]; [Pub. L. 103–80][/us/pl/103/80], § 3(n), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], §§ 115, 117, 119, 120, 124(a), Nov. 21, 1997, [111 Stat. 2313][/us/stat/111/2313], 2315, 2316, 2318, 2324; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(11)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 107–109][/us/pl/107/109], § 15(c)(1), Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 108–155][/us/pl/108/155], § 2(b)(1), Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 108–173, title XI][/us/pl/108/173/tXI], §§ 1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, [117 Stat. 2448][/us/stat/117/2448], 2452, 2457, 2460; [Pub. L. 110–85, title VII][/us/pl/110/85/tVII], § 701(b), title VIII, § 801(b)(3)(A), (B), title IX, §§ 901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, § 1113, Sept. 27, 2007, [121 Stat. 903][/us/stat/121/903], 921, 922, 943, 944, 953, 957, 958, 960–962, 976; [Pub. L. 110–316, title III][/us/pl/110/316/tIII], § 301, Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 110–379][/us/pl/110/379], § 4(a), Oct. 8, 2008, [122 Stat. 4076][/us/stat/122/4076]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(e), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837]; [Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(d)(1), title X, § 10609, Mar. 23, 2010, [124 Stat. 816][/us/stat/124/816], 1014; [Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 905, title XI, §§ 1101, 1134(a), 1135, July 9, 2012, [126 Stat. 1092][/us/stat/126/1092], 1108, 1123; [Pub. L. 113–5, title III][/us/pl/113/5/tIII], § 301, Mar. 13, 2013, [127 Stat. 179][/us/stat/127/179]; [Pub. L. 114–89][/us/pl/114/89], § 2(a)(1), Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698].)
 
  __References in Text__ 
 
@@ -1525,7 +1525,7 @@
 
  __Codification__ 
 
-    In subsec. (k)(4)(H), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4(5) of the Federal Procurement Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (k)(4)(H), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4(5) of the Federal Procurement Policy Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -1533,105 +1533,105 @@
 
     2013—Subsec. (b)(5)(B). [Pub. L. 113–5][/us/pl/113/5] substituted “size—” for “size of clinical trials intended to form the primary basis of an effectiveness claim or, with respect to an applicant for approval of a biological product under [section 262(k) of title 42][/us/usc/t42/s262/k], any necessary clinical study or studies.”, added cls. (i) and (ii), and designated last two sentences as concluding provisions.
 
-    2012—Subsec. (d). [Pub. L. 112–144, § 905][/us/pl/112/144/s905], inserted at end “The Secretary shall implement a structured risk-benefit assessment framework in the new drug approval process to facilitate the balanced consideration of benefits and risks, a consistent and systematic approach to the discussion and regulatory decisionmaking, and the communication of the benefits and risks of new drugs. Nothing in the preceding sentence shall alter the criteria for evaluating an application for premarket approval of a drug.”
+    2012—Subsec. (d). [Pub. L. 112–144][/us/pl/112/144], § 905, inserted at end “The Secretary shall implement a structured risk-benefit assessment framework in the new drug approval process to facilitate the balanced consideration of benefits and risks, a consistent and systematic approach to the discussion and regulatory decisionmaking, and the communication of the benefits and risks of new drugs. Nothing in the preceding sentence shall alter the criteria for evaluating an application for premarket approval of a drug.”
 
-    Subsec. (q)(1)(A). [Pub. L. 112–144, § 1135(1)(A)][/us/pl/112/144/s1135/1/A], substituted “subsection (b)(2) or (j) of this section or [section 262(k) of title 42][/us/usc/t42/s262/k]” for “subsection (b)(2) or (j)” in introductory provisions.
+    Subsec. (q)(1)(A). [Pub. L. 112–144][/us/pl/112/144], § 1135(1)(A), substituted “subsection (b)(2) or (j) of this section or [section 262(k) of title 42][/us/usc/t42/s262/k]” for “subsection (b)(2) or (j)” in introductory provisions.
 
-    Subsec. (q)(1)(F). [Pub. L. 112–144, § 1135(1)(B)][/us/pl/112/144/s1135/1/B], substituted “150 days” for “180 days” in introductory provisions.
+    Subsec. (q)(1)(F). [Pub. L. 112–144][/us/pl/112/144], § 1135(1)(B), substituted “150 days” for “180 days” in introductory provisions.
 
-    Subsec. (q)(2)(A). [Pub. L. 112–144, § 1135(2)(A)][/us/pl/112/144/s1135/2/A], substituted “150” for “180” in heading.
+    Subsec. (q)(2)(A). [Pub. L. 112–144][/us/pl/112/144], § 1135(2)(A), substituted “150” for “180” in heading.
 
-    Subsec. (q)(2)(A)(i). [Pub. L. 112–144, § 1135(2)(B)][/us/pl/112/144/s1135/2/B], substituted “150-day” for “180-day”.
+    Subsec. (q)(2)(A)(i). [Pub. L. 112–144][/us/pl/112/144], § 1135(2)(B), substituted “150-day” for “180-day”.
 
-    Subsec. (q)(4). [Pub. L. 112–144, § 1135(3)][/us/pl/112/144/s1135/3], designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+    Subsec. (q)(4). [Pub. L. 112–144][/us/pl/112/144], § 1135(3), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (q)(5)(A). [Pub. L. 112–144, § 1135(4)][/us/pl/112/144/s1135/4], substituted “subsection (b)(2) or (j) of the Act or 262(k) of title 42” for “subsection (b)(2) or (j)”.
+    Subsec. (q)(5)(A). [Pub. L. 112–144][/us/pl/112/144], § 1135(4), substituted “subsection (b)(2) or (j) of the Act or 262(k) of title 42” for “subsection (b)(2) or (j)”.
 
-    Subsec. (u)(1)(A)(ii)(II). [Pub. L. 112–144, § 1101(b)][/us/pl/112/144/s1101/b], inserted “clinical” after “any”.
+    Subsec. (u)(1)(A)(ii)(II). [Pub. L. 112–144][/us/pl/112/144], § 1101(b), inserted “clinical” after “any”.
 
-    Subsec. (u)(4). [Pub. L. 112–144, § 1101(a)][/us/pl/112/144/s1101/a], substituted “2017” for “2012”.
+    Subsec. (u)(4). [Pub. L. 112–144][/us/pl/112/144], § 1101(a), substituted “2017” for “2012”.
 
-    Subsec. (w). [Pub. L. 112–144, § 1134(a)][/us/pl/112/144/s1134/a], added subsec. (w).
+    Subsec. (w). [Pub. L. 112–144][/us/pl/112/144], § 1134(a), added subsec. (w).
 
-    2010—Subsec. (b)(5)(B). [Pub. L. 111–148, § 7002(d)(1)][/us/pl/111/148/s7002/d/1], inserted “or, with respect to an applicant for approval of a biological product under [section 262(k) of title 42][/us/usc/t42/s262/k], any necessary clinical study or studies” before period at end of first sentence.
+    2010—Subsec. (b)(5)(B). [Pub. L. 111–148][/us/pl/111/148], § 7002(d)(1), inserted “or, with respect to an applicant for approval of a biological product under [section 262(k) of title 42][/us/usc/t42/s262/k], any necessary clinical study or studies” before period at end of first sentence.
 
-    Subsec. (j)(10). [Pub. L. 111–148, § 10609][/us/pl/111/148/s10609], added par. (10).
+    Subsec. (j)(10). [Pub. L. 111–148][/us/pl/111/148], § 10609, added par. (10).
 
     2009—Subsec. (n)(2). [Pub. L. 111–31][/us/pl/111/31] made technical amendment to reference in original act which appears in text as reference to [section 394 of this title][/us/usc/t21/s394].
 
-    2008—Subsec. (q)(1)(A). [Pub. L. 110–316, § 301][/us/pl/110/316/s301], inserted concluding provisions.
+    2008—Subsec. (q)(1)(A). [Pub. L. 110–316][/us/pl/110/316], § 301, inserted concluding provisions.
 
     Subsec. (v). [Pub. L. 110–379][/us/pl/110/379] added subsec. (v).
 
-    2007—Subsec. (b)(6). [Pub. L. 110–85, § 801(b)(3)(B)][/us/pl/110/85/s801/b/3/B], added par. (6).
+    2007—Subsec. (b)(6). [Pub. L. 110–85][/us/pl/110/85], § 801(b)(3)(B), added par. (6).
 
-    Subsec. (e). [Pub. L. 110–85, § 903][/us/pl/110/85/s903], inserted at end “The Secretary may withdraw the approval of an application submitted under this section, or suspend the approval of such an application, as provided under this subsection, without first ordering the applicant to submit an assessment of the approved risk evaluation and mitigation strategy for the drug under [section 355–1(g)(2)(D) of this title][/us/usc/t21/s355–1/g/2/D].”
+    Subsec. (e). [Pub. L. 110–85][/us/pl/110/85], § 903, inserted at end “The Secretary may withdraw the approval of an application submitted under this section, or suspend the approval of such an application, as provided under this subsection, without first ordering the applicant to submit an assessment of the approved risk evaluation and mitigation strategy for the drug under [section 355–1(g)(2)(D) of this title][/us/usc/t21/s355–1/g/2/D].”
 
-    Subsec. (i)(4). [Pub. L. 110–85, § 801(b)(3)(A)][/us/pl/110/85/s801/b/3/A], inserted at end “The Secretary shall update such regulations to require inclusion in the informed consent documents and process a statement that clinical trial information for such clinical investigation has been or will be submitted for inclusion in the registry data bank pursuant to subsection (j) of [section 282 of title 42][/us/usc/t42/s282].”
+    Subsec. (i)(4). [Pub. L. 110–85][/us/pl/110/85], § 801(b)(3)(A), inserted at end “The Secretary shall update such regulations to require inclusion in the informed consent documents and process a statement that clinical trial information for such clinical investigation has been or will be submitted for inclusion in the registry data bank pursuant to subsection (j) of [section 282 of title 42][/us/usc/t42/s282].”
 
-    Subsec. (k)(3), (4). [Pub. L. 110–85, § 905(a)][/us/pl/110/85/s905/a], added pars. (3) and (4).
+    Subsec. (k)(3), (4). [Pub. L. 110–85][/us/pl/110/85], § 905(a), added pars. (3) and (4).
 
-    Subsec. (k)(5). [Pub. L. 110–85, § 921][/us/pl/110/85/s921], added par. (5).
+    Subsec. (k)(5). [Pub. L. 110–85][/us/pl/110/85], § 921, added par. (5).
 
-    Subsec. (l). [Pub. L. 110–85, § 916][/us/pl/110/85/s916], designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), and added par. (2).
+    Subsec. (l). [Pub. L. 110–85][/us/pl/110/85], § 916, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), and added par. (2).
 
-    Subsec. (n)(4) to (8). [Pub. L. 110–85, § 701(b)][/us/pl/110/85/s701/b], redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) which read as follows: “Each member of a panel shall publicly disclose all conflicts of interest that member may have with the work to be undertaken by the panel. No member of a panel may vote on any matter where the member or the immediate family of such member could gain financially from the advice given to the Secretary. The Secretary may grant a waiver of any conflict of interest requirement upon public disclosure of such conflict of interest if such waiver is necessary to afford the panel essential expertise, except that the Secretary may not grant a waiver for a member of a panel when the member’s own scientific work is involved.”
+    Subsec. (n)(4) to (8). [Pub. L. 110–85][/us/pl/110/85], § 701(b), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) which read as follows: “Each member of a panel shall publicly disclose all conflicts of interest that member may have with the work to be undertaken by the panel. No member of a panel may vote on any matter where the member or the immediate family of such member could gain financially from the advice given to the Secretary. The Secretary may grant a waiver of any conflict of interest requirement upon public disclosure of such conflict of interest if such waiver is necessary to afford the panel essential expertise, except that the Secretary may not grant a waiver for a member of a panel when the member’s own scientific work is involved.”
 
-    Subsecs. (o), (p). [Pub. L. 110–85, § 901(a)][/us/pl/110/85/s901/a], added subsecs. (o) and (p).
+    Subsecs. (o), (p). [Pub. L. 110–85][/us/pl/110/85], § 901(a), added subsecs. (o) and (p).
 
-    Subsec. (q). [Pub. L. 110–85, § 914(a)][/us/pl/110/85/s914/a], added subsec. (q).
+    Subsec. (q). [Pub. L. 110–85][/us/pl/110/85], § 914(a), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 110–85, § 915][/us/pl/110/85/s915], added subsec. (r).
+    Subsec. (r). [Pub. L. 110–85][/us/pl/110/85], § 915, added subsec. (r).
 
-    Subsec. (s). [Pub. L. 110–85, § 918][/us/pl/110/85/s918], added subsec. (s).
+    Subsec. (s). [Pub. L. 110–85][/us/pl/110/85], § 918, added subsec. (s).
 
-    Subsec. (t). [Pub. L. 110–85, § 920][/us/pl/110/85/s920], added subsec. (t).
+    Subsec. (t). [Pub. L. 110–85][/us/pl/110/85], § 920, added subsec. (t).
 
-    Subsec. (u). [Pub. L. 110–85, § 1113][/us/pl/110/85/s1113], added subsec. (u).
+    Subsec. (u). [Pub. L. 110–85][/us/pl/110/85], § 1113, added subsec. (u).
 
     2003—Subsec. (b)(1). [Pub. L. 108–155][/us/pl/108/155], in second sentence, substituted “(F)” for “and (F)” and inserted “, and (G) any assessments required under [section 355c of this title][/us/usc/t21/s355c]” before period at end.
 
-    Subsec. (b)(3). [Pub. L. 108–173, § 1101(b)(1)(A)][/us/pl/108/173/s1101/b/1/A], added par. (3) and struck out former par. (3) which, in subpar. (A), required an applicant making a certification under par. (2)(A)(iv) to include statement that applicant will give notice to each owner of the patent which is the subject of the certification and to the holder of the approved application, in subpar. (B), directed that notice state that an application has been submitted and include a detailed statement of the applicant’s opinion that the patent is not valid or will not be infringed, and, in subpar. (C), provided that if an application is amended, notice shall be given when the amended application is submitted.
+    Subsec. (b)(3). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(1)(A), added par. (3) and struck out former par. (3) which, in subpar. (A), required an applicant making a certification under par. (2)(A)(iv) to include statement that applicant will give notice to each owner of the patent which is the subject of the certification and to the holder of the approved application, in subpar. (B), directed that notice state that an application has been submitted and include a detailed statement of the applicant’s opinion that the patent is not valid or will not be infringed, and, in subpar. (C), provided that if an application is amended, notice shall be given when the amended application is submitted.
 
-    Subsec. (b)(4), (5). [Pub. L. 108–173, § 1101(b)(1)(B)][/us/pl/108/173/s1101/b/1/B], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(1)(B), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (c)(3). [Pub. L. 108–173, § 1101(b)(2)(A)][/us/pl/108/173/s1101/b/2/A], substituted “by applying the following to each certification made under subsection (b)(2)(A) of this section” for “under the following” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(A), substituted “by applying the following to each certification made under subsection (b)(2)(A) of this section” for “under the following” in introductory provisions.
 
-    Subsec. (c)(3)(C). [Pub. L. 108–173, § 1101(b)(2)(B)(iii)][/us/pl/108/173/s1101/b/2/B/iii], which directed the substitution of “subsection (b)(3) of this section” for “paragraph (3)(B)” in third sentence, could not be executed because such words do not appear. See note below.
+    Subsec. (c)(3)(C). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(iii), which directed the substitution of “subsection (b)(3) of this section” for “paragraph (3)(B)” in third sentence, could not be executed because such words do not appear. See note below.
 
-    [Pub. L. 108–173, § 1101(b)(2)(B)(ii)(VI)][/us/pl/108/173/s1101/b/2/B/ii/VI], in concluding provisions, struck out “Until the expiration of forty-five days from the date the notice made under paragraph (3)(B) is received, no action may be brought under [section 2201 of title 28][/us/usc/t28/s2201] for a declaratory judgment with respect to the patent. Any action brought under such section 2201 shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.” after “expediting the action.”
+    [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(ii)(VI), in concluding provisions, struck out “Until the expiration of forty-five days from the date the notice made under paragraph (3)(B) is received, no action may be brought under [section 2201 of title 28][/us/usc/t28/s2201] for a declaratory judgment with respect to the patent. Any action brought under such section 2201 shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.” after “expediting the action.”
 
-    [Pub. L. 108–173, § 1101(b)(2)(B)(i)][/us/pl/108/173/s1101/b/2/B/i], (ii)(I), in first sentence of introductory provisions, substituted “unless, before the expiration of 45 days after the date on which the notice described in subsection (b)(3) of this section is received, an action is brought for infringement of the patent that is the subject of the certification and for which information was submitted to the Secretary under paragraph (2) or subsection (b)(1) of this section before the date on which the application (excluding an amendment or supplement to the application) was submitted” for “unless an action is brought for infringement of a patent which is the subject of the certification before the expiration of forty-five days from the date the notice provided under paragraph (3)(B) is received” and, in second sentence of introductory provisions, substituted “subsection (b)(3) of this section” for “paragraph (3)(B)”.
+    [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(i), (ii)(I), in first sentence of introductory provisions, substituted “unless, before the expiration of 45 days after the date on which the notice described in subsection (b)(3) of this section is received, an action is brought for infringement of the patent that is the subject of the certification and for which information was submitted to the Secretary under paragraph (2) or subsection (b)(1) of this section before the date on which the application (excluding an amendment or supplement to the application) was submitted” for “unless an action is brought for infringement of a patent which is the subject of the certification before the expiration of forty-five days from the date the notice provided under paragraph (3)(B) is received” and, in second sentence of introductory provisions, substituted “subsection (b)(3) of this section” for “paragraph (3)(B)”.
 
-    Subsec. (c)(3)(C)(i). [Pub. L. 108–173, § 1101(b)(2)(B)(ii)(II)][/us/pl/108/173/s1101/b/2/B/ii/II], added cl. (i) and struck out former cl. (i) which read as follows: “if before the expiration of such period the court decides that such patent is invalid or not infringed, the approval may be made effective on the date of the court decision,”.
+    Subsec. (c)(3)(C)(i). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(ii)(II), added cl. (i) and struck out former cl. (i) which read as follows: “if before the expiration of such period the court decides that such patent is invalid or not infringed, the approval may be made effective on the date of the court decision,”.
 
-    Subsec. (c)(3)(C)(ii). [Pub. L. 108–173, § 1101(b)(2)(B)(ii)(III)][/us/pl/108/173/s1101/b/2/B/ii/III], added cl. (ii) and struck out former cl. (ii) which read as follows: “if before the expiration of such period the court decides that such patent has been infringed, the approval may be made effective on such date as the court orders under [section 271(e)(4)(A) of title 35][/us/usc/t35/s271/e/4/A], or”.
+    Subsec. (c)(3)(C)(ii). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(ii)(III), added cl. (ii) and struck out former cl. (ii) which read as follows: “if before the expiration of such period the court decides that such patent has been infringed, the approval may be made effective on such date as the court orders under [section 271(e)(4)(A) of title 35][/us/usc/t35/s271/e/4/A], or”.
 
-    Subsec. (c)(3)(C)(iii). [Pub. L. 108–173, § 1101(b)(2)(B)(ii)(IV)][/us/pl/108/173/s1101/b/2/B/ii/IV], substituted “as provided in clause (i); or” for “on the date of such court decision.”
+    Subsec. (c)(3)(C)(iii). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(ii)(IV), substituted “as provided in clause (i); or” for “on the date of such court decision.”
 
-    Subsec. (c)(3)(C)(iv). [Pub. L. 108–173, § 1101(b)(2)(B)(ii)(V)][/us/pl/108/173/s1101/b/2/B/ii/V], added cl. (iv).
+    Subsec. (c)(3)(C)(iv). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(B)(ii)(V), added cl. (iv).
 
-    Subsec. (c)(3)(D), (E). [Pub. L. 108–173, § 1101(b)(2)(C)][/us/pl/108/173/s1101/b/2/C], (D), added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (c)(3)(D), (E). [Pub. L. 108–173][/us/pl/108/173], § 1101(b)(2)(C), (D), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (j)(2)(B). [Pub. L. 108–173, § 1101(a)(1)(A)][/us/pl/108/173/s1101/a/1/A], added subpar. (B) and struck out former subpar. (B) which, in cl. (i), required that an applicant making a certification under subpar. (A)(vii)(IV) include in the application a statement that notice would be given to each owner of the patent and the holder of the approved application, in cl. (ii), required that notice would state that an application had been submitted and that it would include a detailed statement of the basis of the applicant’s opinion, and, in cl. (iii), directed that notice of an amended application be given when the amended application had been submitted.
+    Subsec. (j)(2)(B). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which, in cl. (i), required that an applicant making a certification under subpar. (A)(vii)(IV) include in the application a statement that notice would be given to each owner of the patent and the holder of the approved application, in cl. (ii), required that notice would state that an application had been submitted and that it would include a detailed statement of the basis of the applicant’s opinion, and, in cl. (iii), directed that notice of an amended application be given when the amended application had been submitted.
 
-    Subsec. (j)(2)(D). [Pub. L. 108–173, § 1101(a)(1)(B)][/us/pl/108/173/s1101/a/1/B], added subpar. (D).
+    Subsec. (j)(2)(D). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(1)(B), added subpar. (D).
 
-    Subsec. (j)(5)(B). [Pub. L. 108–173, § 1101(a)(2)(A)(i)][/us/pl/108/173/s1101/a/2/A/i], substituted “by applying the following to each certification made under paragraph (2)(A)(vii)” for “under the following” in introductory provisions.
+    Subsec. (j)(5)(B). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(i), substituted “by applying the following to each certification made under paragraph (2)(A)(vii)” for “under the following” in introductory provisions.
 
-    Subsec. (j)(5)(B)(iii). [Pub. L. 108–173, § 1101(a)(2)(A)(ii)(II)(ee)][/us/pl/108/173/s1101/a/2/A/ii/II/ee], which directed amendment of the second sentence of subsec. (j)(5)(B)(iii) by striking “Until the expiration” and all that follows in the matter after and below subclause (IV), was executed by striking “Until the expiration of forty-five days from the date the notice made under paragraph (2)(B)(i) is received, no action may be brought under [section 2201 of title 28][/us/usc/t28/s2201], for a declaratory judgment with respect to the patent. Any action brought under section 2201 shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.” after “expediting the action.” in concluding provisions, to reflect the probable intent of Congress.
+    Subsec. (j)(5)(B)(iii). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(ii)(II)(ee), which directed amendment of the second sentence of subsec. (j)(5)(B)(iii) by striking “Until the expiration” and all that follows in the matter after and below subclause (IV), was executed by striking “Until the expiration of forty-five days from the date the notice made under paragraph (2)(B)(i) is received, no action may be brought under [section 2201 of title 28][/us/usc/t28/s2201], for a declaratory judgment with respect to the patent. Any action brought under section 2201 shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.” after “expediting the action.” in concluding provisions, to reflect the probable intent of Congress.
 
-    [Pub. L. 108–173, § 1101(a)(2)(A)(ii)(I)][/us/pl/108/173/s1101/a/2/A/ii/I], in introductory provisions, substituted “unless, before the expiration of 45 days after the date on which the notice described in paragraph (2)(B) is received, an action is brought for infringement of the patent that is the subject of the certification and for which information was submitted to the Secretary under subsection (b)(1) or (c)(2) of this section before the date on which the application (excluding an amendment or supplement to the application), which the Secretary later determines to be substantially complete, was submitted” for “unless an action is brought for infringement of a patent which is the subject of the certification before the expiration of forty-five days from the date the notice provided under paragraph (2)(B)(i) is received”.
+    [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(ii)(I), in introductory provisions, substituted “unless, before the expiration of 45 days after the date on which the notice described in paragraph (2)(B) is received, an action is brought for infringement of the patent that is the subject of the certification and for which information was submitted to the Secretary under subsection (b)(1) or (c)(2) of this section before the date on which the application (excluding an amendment or supplement to the application), which the Secretary later determines to be substantially complete, was submitted” for “unless an action is brought for infringement of a patent which is the subject of the certification before the expiration of forty-five days from the date the notice provided under paragraph (2)(B)(i) is received”.
 
-    Subsec. (j)(5)(B)(iii)(I). [Pub. L. 108–173, § 1101(a)(2)(A)(ii)(II)(aa)][/us/pl/108/173/s1101/a/2/A/ii/II/aa], added subcl. (I) and struck out former subcl. (I) which read as follows: “if before the expiration of such period the court decides that such patent is invalid or not infringed, the approval shall be made effective on the date of the court decision,”.
+    Subsec. (j)(5)(B)(iii)(I). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(ii)(II)(aa), added subcl. (I) and struck out former subcl. (I) which read as follows: “if before the expiration of such period the court decides that such patent is invalid or not infringed, the approval shall be made effective on the date of the court decision,”.
 
-    Subsec. (j)(5)(B)(iii)(II). [Pub. L. 108–173, § 1101(a)(2)(A)(ii)(II)(bb)][/us/pl/108/173/s1101/a/2/A/ii/II/bb], added subcl. (II) and struck out former subcl. (II) which read as follows: “if before the expiration of such period the court decides that such patent has been infringed, the approval shall be made effective on such date as the court orders under [section 271(e)(4)(A) of title 35][/us/usc/t35/s271/e/4/A], or”.
+    Subsec. (j)(5)(B)(iii)(II). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(ii)(II)(bb), added subcl. (II) and struck out former subcl. (II) which read as follows: “if before the expiration of such period the court decides that such patent has been infringed, the approval shall be made effective on such date as the court orders under [section 271(e)(4)(A) of title 35][/us/usc/t35/s271/e/4/A], or”.
 
-    Subsec. (j)(5)(B)(iii)(III). [Pub. L. 108–173, § 1101(a)(2)(A)(ii)(II)(cc)][/us/pl/108/173/s1101/a/2/A/ii/II/cc], substituted “as provided in subclause (I); or” for “on the date of such court decision.”
+    Subsec. (j)(5)(B)(iii)(III). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(ii)(II)(cc), substituted “as provided in subclause (I); or” for “on the date of such court decision.”
 
-    Subsec. (j)(5)(B)(iii)(IV). [Pub. L. 108–173, § 1101(a)(2)(A)(ii)(II)(dd)][/us/pl/108/173/s1101/a/2/A/ii/II/dd], added subcl. (IV).
+    Subsec. (j)(5)(B)(iii)(IV). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(A)(ii)(II)(dd), added subcl. (IV).
 
-    Subsec. (j)(5)(B)(iv). [Pub. L. 108–173, § 1102(a)(1)][/us/pl/108/173/s1102/a/1], added cl. (iv) and struck out former cl. (iv) which read as follows: “If the application contains a certification described in subclause (IV) of paragraph (2)(A)(vii) and is for a drug for which a previous application has been submitted under this subsection continuing such a certification, the application shall be made effective not earlier than one hundred and eighty days after—
+    Subsec. (j)(5)(B)(iv). [Pub. L. 108–173][/us/pl/108/173], § 1102(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “If the application contains a certification described in subclause (IV) of paragraph (2)(A)(vii) and is for a drug for which a previous application has been submitted under this subsection continuing such a certification, the application shall be made effective not earlier than one hundred and eighty days after—
 
     “(I) the date the Secretary receives notice from the applicant under the previous application of the first commercial marketing of the drug under the previous application, or
 
@@ -1639,105 +1639,105 @@
 
     whichever is earlier.”
 
-    Subsec. (j)(5)(C). [Pub. L. 108–173, § 1101(a)(2)(B)][/us/pl/108/173/s1101/a/2/B], (C), added subpar. (C). Former subpar. (C) redesignated (E).
+    Subsec. (j)(5)(C). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(B), (C), added subpar. (C). Former subpar. (C) redesignated (E).
 
-    Subsec. (j)(5)(D). [Pub. L. 108–173, § 1102(a)(2)][/us/pl/108/173/s1102/a/2], added subpar. (D).
+    Subsec. (j)(5)(D). [Pub. L. 108–173][/us/pl/108/173], § 1102(a)(2), added subpar. (D).
 
-    [Pub. L. 108–173, § 1101(a)(2)(B)][/us/pl/108/173/s1101/a/2/B], redesignated subpar. (D) as (F).
+    [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(B), redesignated subpar. (D) as (F).
 
-    Subsec. (j)(5)(E), (F). [Pub. L. 108–173, § 1101(a)(2)(B)][/us/pl/108/173/s1101/a/2/B], redesignated subpars. (C) and (D) as (E) and (F), respectively.
+    Subsec. (j)(5)(E), (F). [Pub. L. 108–173][/us/pl/108/173], § 1101(a)(2)(B), redesignated subpars. (C) and (D) as (E) and (F), respectively.
 
-    Subsec. (j)(8)(A). [Pub. L. 108–173, § 1103(a)(1)][/us/pl/108/173/s1103/a/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “The term ‘bioavailability’ means the rate and extent to which the active ingredient or therapeutic ingredient is absorbed from a drug and becomes available at the site of drug action.”
+    Subsec. (j)(8)(A). [Pub. L. 108–173][/us/pl/108/173], § 1103(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The term ‘bioavailability’ means the rate and extent to which the active ingredient or therapeutic ingredient is absorbed from a drug and becomes available at the site of drug action.”
 
-    Subsec. (j)(8)(C). [Pub. L. 108–173, § 1103(a)(2)][/us/pl/108/173/s1103/a/2], added subpar. (C).
+    Subsec. (j)(8)(C). [Pub. L. 108–173][/us/pl/108/173], § 1103(a)(2), added subpar. (C).
 
     2002—Subsec. (i)(1)(D). [Pub. L. 107–109][/us/pl/107/109] added subpar. (D).
 
     1999—Subsec. (m). [Pub. L. 106–113][/us/pl/106/113] substituted “United States Patent and Trademark Office” for “Patent and Trademark Office of the Department of Commerce”.
 
-    1997—Subsec. (b)(1). [Pub. L. 105–115, § 115(b)][/us/pl/105/115/s115/b], inserted at end “The Secretary shall, in consultation with the Director of the National Institutes of Health and with representatives of the drug manufacturing industry, review and develop guidance, as appropriate, on the inclusion of women and minorities in clinical trials required by clause (A).”
+    1997—Subsec. (b)(1). [Pub. L. 105–115][/us/pl/105/115], § 115(b), inserted at end “The Secretary shall, in consultation with the Director of the National Institutes of Health and with representatives of the drug manufacturing industry, review and develop guidance, as appropriate, on the inclusion of women and minorities in clinical trials required by clause (A).”
 
-    Subsec. (b)(4). [Pub. L. 105–115, § 119(a)][/us/pl/105/115/s119/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 105–115][/us/pl/105/115], § 119(a), added par. (4).
 
-    Subsec. (c)(4). [Pub. L. 105–115, § 124(a)][/us/pl/105/115/s124/a], added par. (4).
+    Subsec. (c)(4). [Pub. L. 105–115][/us/pl/105/115], § 124(a), added par. (4).
 
-    Subsec. (d). [Pub. L. 105–115, § 115(a)][/us/pl/105/115/s115/a], inserted at end “If the Secretary determines, based on relevant science, that data from one adequate and well-controlled clinical investigation and confirmatory evidence (obtained prior to or after such investigation) are sufficient to establish effectiveness, the Secretary may consider such data and evidence to constitute substantial evidence for purposes of the preceding sentence.”
+    Subsec. (d). [Pub. L. 105–115][/us/pl/105/115], § 115(a), inserted at end “If the Secretary determines, based on relevant science, that data from one adequate and well-controlled clinical investigation and confirmatory evidence (obtained prior to or after such investigation) are sufficient to establish effectiveness, the Secretary may consider such data and evidence to constitute substantial evidence for purposes of the preceding sentence.”
 
-    Subsec. (i). [Pub. L. 105–115, § 117][/us/pl/105/115/s117], inserted “(1)” after “(i)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), added pars. (2) to (4), and struck out closing provisions which read as follows: “Such regulations shall provide that such exemption shall be conditioned upon the manufacturer, or the sponsor of the investigation, requiring that experts using such drugs for investigational purposes certify to such manufacturer or sponsor that they will inform any human beings to whom such drugs, or any controls used in connection therewith, are being administered, or their representatives, that such drugs are being used for investigational purposes and will obtain the consent of such human beings or their representatives, except where they deem it not feasible or, in their professional judgment, contrary to the best interests of such human beings. Nothing in this subsection shall be construed to require any clinical investigator to submit directly to the Secretary reports on the investigational use of drugs.”
+    Subsec. (i). [Pub. L. 105–115][/us/pl/105/115], § 117, inserted “(1)” after “(i)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), added pars. (2) to (4), and struck out closing provisions which read as follows: “Such regulations shall provide that such exemption shall be conditioned upon the manufacturer, or the sponsor of the investigation, requiring that experts using such drugs for investigational purposes certify to such manufacturer or sponsor that they will inform any human beings to whom such drugs, or any controls used in connection therewith, are being administered, or their representatives, that such drugs are being used for investigational purposes and will obtain the consent of such human beings or their representatives, except where they deem it not feasible or, in their professional judgment, contrary to the best interests of such human beings. Nothing in this subsection shall be construed to require any clinical investigator to submit directly to the Secretary reports on the investigational use of drugs.”
 
-    Subsec. (j)(2)(A)(i). [Pub. L. 105–115, § 119(b)(2)(A)][/us/pl/105/115/s119/b/2/A], substituted “paragraph (7)” for “paragraph (6)”.
+    Subsec. (j)(2)(A)(i). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(2)(A), substituted “paragraph (7)” for “paragraph (6)”.
 
-    Subsec. (j)(3). [Pub. L. 105–115, § 119(b)(1)(B)][/us/pl/105/115/s119/b/1/B], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (j)(3). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (j)(4). [Pub. L. 105–115, § 119(b)(1)(A)][/us/pl/105/115/s119/b/1/A], (2)(B), redesignated par. (3) as (4) and in introductory provisions substituted “paragraph (5)” for “paragraph (4)”. Former par. (4) redesignated (5).
+    Subsec. (j)(4). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(1)(A), (2)(B), redesignated par. (3) as (4) and in introductory provisions substituted “paragraph (5)” for “paragraph (4)”. Former par. (4) redesignated (5).
 
-    Subsec. (j)(4)(I). [Pub. L. 105–115, § 119(b)(2)(C)][/us/pl/105/115/s119/b/2/C], substituted “paragraph (6)” for “paragraph (5)”.
+    Subsec. (j)(4)(I). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(2)(C), substituted “paragraph (6)” for “paragraph (5)”.
 
-    Subsec. (j)(5), (6). [Pub. L. 105–115, § 119(b)(1)(A)][/us/pl/105/115/s119/b/1/A], redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
+    Subsec. (j)(5), (6). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(1)(A), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
-    Subsec. (j)(7). [Pub. L. 105–115, § 119(b)(1)(A)][/us/pl/105/115/s119/b/1/A], (2)(D), redesignated par. (6) as (7) and in subpar. (C) substituted “paragraph (6)” for “paragraph (5)” in two places. Former par. (7) redesignated (8).
+    Subsec. (j)(7). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(1)(A), (2)(D), redesignated par. (6) as (7) and in subpar. (C) substituted “paragraph (6)” for “paragraph (5)” in two places. Former par. (7) redesignated (8).
 
-    Subsec. (j)(8), (9). [Pub. L. 105–115, § 119(b)(1)(A)][/us/pl/105/115/s119/b/1/A], redesignated pars. (7) and (8) as (8) and (9), respectively.
+    Subsec. (j)(8), (9). [Pub. L. 105–115][/us/pl/105/115], § 119(b)(1)(A), redesignated pars. (7) and (8) as (8) and (9), respectively.
 
-    Subsec. (n). [Pub. L. 105–115, § 120][/us/pl/105/115/s120], added subsec. (n).
+    Subsec. (n). [Pub. L. 105–115][/us/pl/105/115], § 120, added subsec. (n).
 
-    1993—Subsec. (j)(6)(A)(ii). [Pub. L. 103–80, § 3(n)(1)(A)][/us/pl/103/80/s3/n/1/A], substituted “Secretary” for “Secretry”.
+    1993—Subsec. (j)(6)(A)(ii). [Pub. L. 103–80][/us/pl/103/80], § 3(n)(1)(A), substituted “Secretary” for “Secretry”.
 
-    Subsec. (j)(6)(A)(iii). [Pub. L. 103–80, § 3(n)(1)(B)][/us/pl/103/80/s3/n/1/B], inserted comma after “published by the Secretary”.
+    Subsec. (j)(6)(A)(iii). [Pub. L. 103–80][/us/pl/103/80], § 3(n)(1)(B), inserted comma after “published by the Secretary”.
 
-    Subsec. (k)(1). [Pub. L. 103–80, § 3(n)(2)][/us/pl/103/80/s3/n/2], substituted “section. Regulations” for “section: Provided, however, That regulations”.
+    Subsec. (k)(1). [Pub. L. 103–80][/us/pl/103/80], § 3(n)(2), substituted “section. Regulations” for “section: Provided, however, That regulations”.
 
     1992—Subsec. (j)(8). [Pub. L. 102–282][/us/pl/102/282] added par. (8).
 
-    1984—Subsec. (a). [Pub. L. 98–417, § 102(b)(1)][/us/pl/98/417/s102/b/1], inserted “or (j)” after “subsection (b)”.
+    1984—Subsec. (a). [Pub. L. 98–417][/us/pl/98/417], § 102(b)(1), inserted “or (j)” after “subsection (b)”.
 
     Subsec. (b). [Pub. L. 98–417][/us/pl/98/417], §§ 102(a)(1), 103(a), designated existing provisions of subsec. (b) as par. (1) thereof and redesignated existing cls. (1) through (6) of such par. (1) as cls. (A) through (F) thereof, respectively, inserted requirement that the applicant file with the application the patent number and the expiration date of any patent which claims the drug for which the applicant submitted the application or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably by asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug, that the applicant amend the application to include such information if an application is filed under this subsection for a drug and a patent which claims such drug or a method of using such drug is issued after the filing date but before approval of the application, and that upon approval of the application, the Secretary publish the information submitted, and added pars. (2) and (3).
 
     Subsec. (c). [Pub. L. 98–417][/us/pl/98/417], §§ 102(a)(2), (b)(2), 103(b), designated existing provisions of subsec. (c) as par. (1) thereof and in par. (1) as so designated substituted “subsection (b) of this section” for “this subsection” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added pars. (2) and (3).
 
-    Subsec. (d)(6), (7). [Pub. L. 98–417, § 102(a)(3)(A)][/us/pl/98/417/s102/a/3/A], added cl. (6) relating to the failure of the application to contain the patent information prescribed by subsec. (b) of this section, and redesignated former cl. (6) as (7).
+    Subsec. (d)(6), (7). [Pub. L. 98–417][/us/pl/98/417], § 102(a)(3)(A), added cl. (6) relating to the failure of the application to contain the patent information prescribed by subsec. (b) of this section, and redesignated former cl. (6) as (7).
 
-    Subsec. (e). [Pub. L. 98–417, § 102(a)(3)(B)][/us/pl/98/417/s102/a/3/B], in first sentence, added a new cl. (4) relating to the failure to file the patent information prescribed by subsec. (c) of this section within 30 days after the receipt of written notice from the Secretary specifying the failure to file such information, and redesignated former cl. (4) as (5).
+    Subsec. (e). [Pub. L. 98–417][/us/pl/98/417], § 102(a)(3)(B), in first sentence, added a new cl. (4) relating to the failure to file the patent information prescribed by subsec. (c) of this section within 30 days after the receipt of written notice from the Secretary specifying the failure to file such information, and redesignated former cl. (4) as (5).
 
-    [Pub. L. 98–417, § 102(b)(3)][/us/pl/98/417/s102/b/3], (4), in second sentence, inserted in provisions preceding cl. (1) “submitted under subsection (b) or (j) of this section” and in cl. (1) substituted “under subsection (k) of this section or to comply with the notice requirements of [section 360(k)(2) of this title][/us/usc/t21/s360/k/2]” for “under subsection (j) of this section or to comply with the notice requirements of [section 360(j)(2) of this title][/us/usc/t21/s360/j/2]”.
+    [Pub. L. 98–417][/us/pl/98/417], § 102(b)(3), (4), in second sentence, inserted in provisions preceding cl. (1) “submitted under subsection (b) or (j) of this section” and in cl. (1) substituted “under subsection (k) of this section or to comply with the notice requirements of [section 360(k)(2) of this title][/us/usc/t21/s360/k/2]” for “under subsection (j) of this section or to comply with the notice requirements of [section 360(j)(2) of this title][/us/usc/t21/s360/j/2]”.
 
-    Subsecs. (j), (k). [Pub. L. 98–417, § 101][/us/pl/98/417/s101], added subsec. (j) and redesignated former subsec. (j) as (k).
+    Subsecs. (j), (k). [Pub. L. 98–417][/us/pl/98/417], § 101, added subsec. (j) and redesignated former subsec. (j) as (k).
 
-    Subsec. (k)(1). [Pub. L. 98–417, § 102(b)(5)][/us/pl/98/417/s102/b/5], substituted “under subsection (b) or (j) of this section” for “pursuant to this section”.
+    Subsec. (k)(1). [Pub. L. 98–417][/us/pl/98/417], § 102(b)(5), substituted “under subsection (b) or (j) of this section” for “pursuant to this section”.
 
-    Subsecs. (l), (m). [Pub. L. 98–417, § 104][/us/pl/98/417/s104], added subsecs. (l) and (m).
+    Subsecs. (l), (m). [Pub. L. 98–417][/us/pl/98/417], § 104, added subsecs. (l) and (m).
 
     1972—Subsec. (e). [Pub. L. 92–387][/us/pl/92/387] inserted “or to comply with the notice requirements of [section 360(j)(2) of this title][/us/usc/t21/s360/j/2]” in cl. (1) of second sentence relating to the maintenance of records.
 
-    1962—Subsec. (a). [Pub. L. 87–781, § 104(a)][/us/pl/87/781/s104/a], inserted “an approval of” before “an application”.
+    1962—Subsec. (a). [Pub. L. 87–781][/us/pl/87/781], § 104(a), inserted “an approval of” before “an application”.
 
-    Subsec. (b). [Pub. L. 87–781, § 102(b)][/us/pl/87/781/s102/b], inserted “and whether such drug is effective in use” after “is safe for use”.
+    Subsec. (b). [Pub. L. 87–781][/us/pl/87/781], § 102(b), inserted “and whether such drug is effective in use” after “is safe for use”.
 
-    Subsec. (c). [Pub. L. 87–781, § 104(b)][/us/pl/87/781/s104/b], substituted provisions requiring the Secretary, within 180 days after filing an application, or such additional period as the Secretary and the applicant agree upon, to either approve the application, if meeting the requirements of subsec. (d) of this section, or give notice of opportunity for hearing on question of whether such application is approvable, and providing that if applicant requests hearing in writing within 30 days, the hearing shall begin within 90 days after expiration of said 30 days, unless the Secretary and applicant agree otherwise, that such hearing shall be expedited, and that the Secretary’s order shall be issued within 90 days after date for filing final briefs, for provisions which had an application become effective on the sixtieth day after filing thereof unless prior thereto the Secretary postponed the date by written notice to such time, but not more than 180 days after filing, as the Secretary deemed necessary to study and investigate the application.
+    Subsec. (c). [Pub. L. 87–781][/us/pl/87/781], § 104(b), substituted provisions requiring the Secretary, within 180 days after filing an application, or such additional period as the Secretary and the applicant agree upon, to either approve the application, if meeting the requirements of subsec. (d) of this section, or give notice of opportunity for hearing on question of whether such application is approvable, and providing that if applicant requests hearing in writing within 30 days, the hearing shall begin within 90 days after expiration of said 30 days, unless the Secretary and applicant agree otherwise, that such hearing shall be expedited, and that the Secretary’s order shall be issued within 90 days after date for filing final briefs, for provisions which had an application become effective on the sixtieth day after filing thereof unless prior thereto the Secretary postponed the date by written notice to such time, but not more than 180 days after filing, as the Secretary deemed necessary to study and investigate the application.
 
-    Subsec. (d). [Pub. L. 87–781, § 102(c)][/us/pl/87/781/s102/c], inserted references to subsec. (c), added cls. (5) and (6), provided that if after notice and opportunity for hearing, the Secretary finds that cls. (1) to (6) do not apply, he shall approve the application, and defined “substantial evidence” as used in this subsection and subsec. (e) of this section.
+    Subsec. (d). [Pub. L. 87–781][/us/pl/87/781], § 102(c), inserted references to subsec. (c), added cls. (5) and (6), provided that if after notice and opportunity for hearing, the Secretary finds that cls. (1) to (6) do not apply, he shall approve the application, and defined “substantial evidence” as used in this subsection and subsec. (e) of this section.
 
-    Subsec. (e). [Pub. L. 87–781, § 102(d)][/us/pl/87/781/s102/d], amended subsec. (e) generally, and among other changes, directed the Secretary to withdraw approval of an application if by tests, other scientific data or experience, or new evidence of clinical experience not contained in the application or available at the time of its approval, the drug is shown to be unsafe, or on the basis of new information, there is shown a lack of substantial evidence that the drug has the effect it is represented to have, and provided that if the Secretary, or acting Secretary, finds there is an imminent hazard to the public health, he may suspend approval immediately, notify the applicant, and give him opportunity for an expedited hearing, that the Secretary may withdraw approval if the applicant fails to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain records and make reports, or has refused access to, or copying or verification of such records, or if the Secretary finds on new evidence that the methods, facilities and controls in the manufacturing, processing, and packing are inadequate to assure and preserve the drugs’ identity, strength, quality and purity, and were not made adequate within a reasonable time after receipt of written notice thereof, or finds on new evidence, that the labeling is false or misleading and was not corrected within a reasonable time after receipt of written notice thereof.
+    Subsec. (e). [Pub. L. 87–781][/us/pl/87/781], § 102(d), amended subsec. (e) generally, and among other changes, directed the Secretary to withdraw approval of an application if by tests, other scientific data or experience, or new evidence of clinical experience not contained in the application or available at the time of its approval, the drug is shown to be unsafe, or on the basis of new information, there is shown a lack of substantial evidence that the drug has the effect it is represented to have, and provided that if the Secretary, or acting Secretary, finds there is an imminent hazard to the public health, he may suspend approval immediately, notify the applicant, and give him opportunity for an expedited hearing, that the Secretary may withdraw approval if the applicant fails to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain records and make reports, or has refused access to, or copying or verification of such records, or if the Secretary finds on new evidence that the methods, facilities and controls in the manufacturing, processing, and packing are inadequate to assure and preserve the drugs’ identity, strength, quality and purity, and were not made adequate within a reasonable time after receipt of written notice thereof, or finds on new evidence, that the labeling is false or misleading and was not corrected within a reasonable time after receipt of written notice thereof.
 
-    Subsec. (f). [Pub. L. 87–781, § 104(c)][/us/pl/87/781/s104/c], substituted provisions requiring the Secretary to revoke any previous order under subsecs. (d) or (e) of this section refusing, withdrawing, or suspending approval of an application and to approve such application or reinstate such approval, for provisions which required him to revoke an order refusing effectiveness to an application.
+    Subsec. (f). [Pub. L. 87–781][/us/pl/87/781], § 104(c), substituted provisions requiring the Secretary to revoke any previous order under subsecs. (d) or (e) of this section refusing, withdrawing, or suspending approval of an application and to approve such application or reinstate such approval, for provisions which required him to revoke an order refusing effectiveness to an application.
 
-    Subsec. (h). [Pub. L. 87–781, § 104(d)(1)][/us/pl/87/781/s104/d/1], (2), inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and “except that until the filing of the record the Secretary may modify or set aside his order”, substituted “or withdrawing approval of an application under this section” for “to permit the application to become effective, or suspending the effectiveness of the application”, “United States court of appeals for the circuit” for “district court of the United States within any district”, “Court of Appeals for the District of Columbia Circuit” for “District Court for the District of Columbia”, “transmitted by the clerk of the court to” for “served upon”, and “by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254]” for “as provided in sections 225, 346, and 347 of title 28, as amended, and in section 7, as amended, of the Act entitled ‘An Act to establish a Court of Appeals for the District of Columbia’, approved February 9, 1893”, and eliminated “upon” before “any officer designated”, “a transcript of” before “the record” and “and decree” before “of the court affirming”.
+    Subsec. (h). [Pub. L. 87–781][/us/pl/87/781], § 104(d)(1), (2), inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and “except that until the filing of the record the Secretary may modify or set aside his order”, substituted “or withdrawing approval of an application under this section” for “to permit the application to become effective, or suspending the effectiveness of the application”, “United States court of appeals for the circuit” for “district court of the United States within any district”, “Court of Appeals for the District of Columbia Circuit” for “District Court for the District of Columbia”, “transmitted by the clerk of the court to” for “served upon”, and “by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254]” for “as provided in sections 225, 346, and 347 of title 28, as amended, and in section 7, as amended, of the Act entitled ‘An Act to establish a Court of Appeals for the District of Columbia’, approved February 9, 1893”, and eliminated “upon” before “any officer designated”, “a transcript of” before “the record” and “and decree” before “of the court affirming”.
 
-    Subsec. (i). [Pub. L. 87–781, § 103(b)][/us/pl/87/781/s103/b], inserted “the foregoing subsections of” after “operation of”, and “and effectiveness” after “safety”, and provided that the regulations may condition exemptions upon the submission of reports of preclinical tests to justify the proposed clinical testing, upon the obtaining by the manufacturer or sponsor of the investigation of a new drug of a signed agreement from each of the investigators that patients to whom the drug is administered will be under his supervision or under investigators responsible to him, and that he will not supply such drug to any other investigator, or to clinics, for administration to human beings, or upon the establishment and maintenance of records and reports of data obtained by the investigational use of such drug, as the Secretary finds will enable him to evaluate the safety and effectiveness of such drug, and provided that the regulations shall condition an exemption upon the manufacturer or sponsor of the investigation requiring that experts using such drugs certify that they will inform humans to whom such drugs or any controls connected therewith are administered, or their representatives, and will obtain the consent of such people where feasible and not contrary to the best interests of such people, and that reports on the investigational use of drugs are not required to be submitted directly to the Secretary.
+    Subsec. (i). [Pub. L. 87–781][/us/pl/87/781], § 103(b), inserted “the foregoing subsections of” after “operation of”, and “and effectiveness” after “safety”, and provided that the regulations may condition exemptions upon the submission of reports of preclinical tests to justify the proposed clinical testing, upon the obtaining by the manufacturer or sponsor of the investigation of a new drug of a signed agreement from each of the investigators that patients to whom the drug is administered will be under his supervision or under investigators responsible to him, and that he will not supply such drug to any other investigator, or to clinics, for administration to human beings, or upon the establishment and maintenance of records and reports of data obtained by the investigational use of such drug, as the Secretary finds will enable him to evaluate the safety and effectiveness of such drug, and provided that the regulations shall condition an exemption upon the manufacturer or sponsor of the investigation requiring that experts using such drugs certify that they will inform humans to whom such drugs or any controls connected therewith are administered, or their representatives, and will obtain the consent of such people where feasible and not contrary to the best interests of such people, and that reports on the investigational use of drugs are not required to be submitted directly to the Secretary.
 
-    Subsec. (j). [Pub. L. 87–781, § 103(a)][/us/pl/87/781/s103/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 87–781][/us/pl/87/781], § 103(a), added subsec. (j).
 
     1960—Subsec. (g). [Pub. L. 86–507][/us/pl/86/507] inserted “or by certified mail” after “registered mail”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–144, title XI, § 1134(b)][/us/pl/112/144/s1134/b], July 9, 2012, [126 Stat. 1123][/us/stat/126/1123], provided that: 
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1134(b), July 9, 2012, [126 Stat. 1123][/us/stat/126/1123], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any petition that is submitted pursuant to subsection (b) of section 314.161 of title 21, Code of Federal Regulations (or any successor regulations), on or after the date of enactment of this Act \[July 9, 2012\].”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–85, title VII, § 701(c)][/us/pl/110/85/s701/c], Sept. 27, 2007, [121 Stat. 904][/us/stat/121/904], provided that: 
+[Pub. L. 110–85, title VII][/us/pl/110/85/tVII], § 701(c), Sept. 27, 2007, [121 Stat. 904][/us/stat/121/904], provided that: 
 
 > “The amendments made by this section \[enacting [section 379d–1 of this title][/us/usc/t21/s379d–1] and amending this section\] shall take effect on October 1, 2007.”
 
@@ -1745,7 +1745,7 @@
 
  __Effective Date of 2003 Amendments__ 
 
-[Pub. L. 108–173, title XI, § 1101(c)][/us/pl/108/173/s1101/c], Dec. 8, 2003, [117 Stat. 2456][/us/stat/117/2456], provided that:
+[Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1101(c), Dec. 8, 2003, [117 Stat. 2456][/us/stat/117/2456], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1759,7 +1759,7 @@
 
 >     The amendments made by subsections (a)(2)(A)(ii)(I) and (b)(2)(B)(i) apply with respect to any patent information submitted under subsection (b)(1) or (c)(2) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) on or after August 18, 2003.”
 
-[Pub. L. 108–173, title XI, § 1102(b)][/us/pl/108/173/s1102/b], Dec. 8, 2003, [117 Stat. 2460][/us/stat/117/2460], provided that:
+[Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1102(b), Dec. 8, 2003, [117 Stat. 2460][/us/stat/117/2460], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1785,7 +1785,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–417, title I, § 105][/us/pl/98/417/s105], Sept. 24, 1984, [98 Stat. 1597][/us/stat/98/1597], provided that:
+[Pub. L. 98–417, title I][/us/pl/98/417/tI], § 105, Sept. 24, 1984, [98 Stat. 1597][/us/stat/98/1597], provided that:
 
 >     “(a) The Secretary of Health and Human Services shall promulgate, in accordance with the notice and comment requirements of [section 553 of title 5][/us/usc/t5/s553], United States Code, such regulations as may be necessary for the administration of section 505 of the Federal Food, Drug, and Cosmetic Act \[this section\], as amended by sections 101, 102, and 103 of this Act, within one year of the date of enactment of this Act \[Sept. 24, 1984\].
 
@@ -1801,7 +1801,7 @@
 
  __Construction of Amendment by__  __[__  __Pub. L. 110–85__  __][/us/pl/110/85]__ 
 
-[Pub. L. 110–85, title IX, § 905(b)][/us/pl/110/85/s905/b], Sept. 27, 2007, [121 Stat. 949][/us/stat/121/949], provided that: 
+[Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 905(b), Sept. 27, 2007, [121 Stat. 949][/us/stat/121/949], provided that: 
 
 > “Nothing in this section \[amending this section\] or the amendment made by this section shall be construed to prohibit the lawful disclosure or use of data or information by an entity other than as described in paragraph (4)(B) or (4)(G) of section 505(k) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(k)][/us/usc/t21/s355/k]\], as added by subsection (a).”
 
@@ -1815,7 +1815,7 @@
 
  __Guidance on Pathogen-Focused Antibacterial Drug Development__ 
 
-[Pub. L. 112–144, title VIII, § 806][/us/pl/112/144/s806], July 9, 2012, [126 Stat. 1082][/us/stat/126/1082], provided that:
+[Pub. L. 112–144, title VIII][/us/pl/112/144/tVIII], § 806, July 9, 2012, [126 Stat. 1082][/us/stat/126/1082], provided that:
 
 >     “(a)  __Draft Guidance__  __.—__ 
 
@@ -1831,13 +1831,13 @@
 
  __Guidance on Abuse-Deterrent Products__ 
 
-[Pub. L. 112–144, title XI, § 1122(c)][/us/pl/112/144/s1122/c], July 9, 2012, [126 Stat. 1113][/us/stat/126/1113], provided that: 
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1122(c), July 9, 2012, [126 Stat. 1113][/us/stat/126/1113], provided that: 
 
 > “Not later than 6 months after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall promulgate guidance on the development of abuse-deterrent drug products.”
 
  __Extension of Period for First Applicant To Obtain Tentative Approval Without Forfeiting 180-Day-Exclusivity Period__ 
 
-[Pub. L. 112–144, title XI, § 1133][/us/pl/112/144/s1133], July 9, 2012, [126 Stat. 1122][/us/stat/126/1122], provided that:
+[Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1133, July 9, 2012, [126 Stat. 1122][/us/stat/126/1122], provided that:
 
 >     “(a) __Extension.—__ 
 
@@ -1863,19 +1863,19 @@
 
  __Effect of Amendments by__  __[__  __Pub. L. 110–85__  __][/us/pl/110/85]__  __on Veterinary Medicine__ 
 
-[Pub. L. 110–85, title IX, § 907][/us/pl/110/85/s907], Sept. 27, 2007, [121 Stat. 950][/us/stat/121/950], provided that: 
+[Pub. L. 110–85, title IX][/us/pl/110/85/tIX], § 907, Sept. 27, 2007, [121 Stat. 950][/us/stat/121/950], provided that: 
 
 > “This subtitle \[subtitle A (§§ 901–909) of title IX of [Pub. L. 110–85][/us/pl/110/85], enacting sections 353c and 355–1 of this title, amending this section and sections 331, 333, and 352 of this title and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 331, 352, and 355a of this title\], and the amendments made by this subtitle, shall have no effect on the use of drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355][/us/usc/t21/s355]\] by, or on the lawful written or oral order of, a licensed veterinarian within the context of a veterinarian-client-patient relationship, as provided for under section 512(a)(5) of such Act \[[21 U.S.C. 360b(a)(5)][/us/usc/t21/s360b/a/5]\].”
 
  __Effect of Amendment by__  __[__  __Pub. L. 108–173__  __][/us/pl/108/173]__  __on Abbreviated New Drug Applications__ 
 
-[Pub. L. 108–173, title XI, § 1103(b)][/us/pl/108/173/s1103/b], Dec. 8, 2003, [117 Stat. 2461][/us/stat/117/2461], provided that: 
+[Pub. L. 108–173, title XI][/us/pl/108/173/tXI], § 1103(b), Dec. 8, 2003, [117 Stat. 2461][/us/stat/117/2461], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] does not alter the standards for approval of drugs under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j]).”
 
  __Federal Trade Commission Review__ 
 
-[Pub. L. 108–173, title XI][/us/pl/108/173], subtitle B, Dec. 8, 2003, [117 Stat. 2461][/us/stat/117/2461], provided that:
+[Pub. L. 108–173, title XI][/us/pl/108/173/tXI], subtitle B, Dec. 8, 2003, [117 Stat. 2461][/us/stat/117/2461], provided that:
 
 > “SEC. 1111. __DEFINITIONS.__ 
 
@@ -2005,19 +2005,19 @@
 
  __Report on Patient Access to New Therapeutic Agents for Pediatric Cancer__ 
 
-[Pub. L. 107–109, § 15(d)][/us/pl/107/109/s15/d], Jan. 4, 2002, [115 Stat. 1421][/us/stat/115/1421], provided that: 
+[Pub. L. 107–109][/us/pl/107/109], § 15(d), Jan. 4, 2002, [115 Stat. 1421][/us/stat/115/1421], provided that: 
 
 > “Not later than January 31, 2003, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs and in consultation with the Director of the National Institutes of Health, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on patient access to new therapeutic agents for pediatric cancer, including access to single patient use of new therapeutic agents.”
 
  __Data Requirements for Drugs and Biologics__ 
 
-[Pub. L. 105–115, title I, § 118][/us/pl/105/115/s118], Nov. 21, 1997, [111 Stat. 2316][/us/stat/111/2316], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 118, Nov. 21, 1997, [111 Stat. 2316][/us/stat/111/2316], provided that: 
 
 > “Within 12 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue guidance that describes when abbreviated study reports may be submitted, in lieu of full reports, with a new drug application under section 505(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(b)][/us/usc/t21/s355/b]) and with a biologics license application under section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]) for certain types of studies. Such guidance shall describe the kinds of studies for which abbreviated reports are appropriate and the appropriate abbreviated report formats.”
 
  __Requirements for Review of Approval Procedures and Current Good Manufacturing Practices for Positron Emission Technology__ 
 
-[Pub. L. 105–115, title I, § 121(c)][/us/pl/105/115/s121/c], Nov. 21, 1997, [111 Stat. 2321][/us/stat/111/2321], provided that:
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 121(c), Nov. 21, 1997, [111 Stat. 2321][/us/stat/111/2321], provided that:
 
 >     “(1) __Procedures and requirements.—__ 
 
@@ -2045,13 +2045,13 @@
 
 “Compounded Positron Emission Topography Drug” Defined
 
-[Pub. L. 105–115, title I, § 121(e)][/us/pl/105/115/s121/e], Nov. 21, 1997, [111 Stat. 2322][/us/stat/111/2322], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 121(e), Nov. 21, 1997, [111 Stat. 2322][/us/stat/111/2322], provided that: 
 
 > “As used in this section \[amending sections 321 and 351 of this title and enacting provisions set out as notes under this section and [section 351 of this title][/us/usc/t21/s351]\], the term ‘compounded positron emission tomography drug’ has the meaning given the term in section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321][/us/usc/t21/s321]).”
 
  __Requirements for Radiopharmaceuticals__ 
 
-[Pub. L. 105–115, title I, § 122][/us/pl/105/115/s122], Nov. 21, 1997, [111 Stat. 2322][/us/stat/111/2322], provided that:
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 122, Nov. 21, 1997, [111 Stat. 2322][/us/stat/111/2322], provided that:
 
 >     “(a) __Requirements.—__ 
 
@@ -2085,13 +2085,13 @@
 
  __Special Rule__ 
 
-[Pub. L. 105–115, title I, § 123(f)][/us/pl/105/115/s123/f], Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324], provided that: 
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 123(f), Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324], provided that: 
 
 > “The Secretary of Health and Human Services shall take measures to minimize differences in the review and approval of products required to have approved biologics license applications under section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]) and products required to have approved new drug applications under section 505(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(b)(1)][/us/usc/t21/s355/b/1]).”
 
  __Transition__ 
 
-[Pub. L. 110–379, § 4(b)][/us/pl/110/379/s4/b], Oct. 8, 2008, [122 Stat. 4077][/us/stat/122/4077], provided that:
+[Pub. L. 110–379][/us/pl/110/379], § 4(b), Oct. 8, 2008, [122 Stat. 4077][/us/stat/122/4077], provided that:
 
 >     “(1) With respect to a patent issued on or before the date of the enactment of this Act \[Oct. 8, 2008\], any patent information required to be filed with the Secretary of Health and Human Services under subsection (b)(1) or (c)(2) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) to be listed on a drug to which subsection (v)(1) of such section 505 (as added by this section) applies shall be filed with the Secretary not later than 60 days after the date of the enactment of this Act.
 
@@ -2099,7 +2099,7 @@
 
 >     “(3) With respect to any patent information referred to in paragraph (1) that is filed with the Secretary within the 60-day period after the date of enactment of this Act \[Oct. 8, 2008\], each applicant that, not later than 120 days after the date of the enactment of this Act, amends an application that is, on or before the date of the enactment of this Act, a substantially complete application (as defined in paragraph (5)(B)(iv) of section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j])) to contain a certification described in paragraph (2)(A)(vii)(IV) of such section 505(j) with respect to that patent shall be deemed to be a first applicant (as defined in paragraph (5)(B)(iv) of such section 505(j)).”
 
-[Pub. L. 105–115, title I, § 125(d)][/us/pl/105/115/s125/d], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326], provided that:
+[Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(d), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2127,7 +2127,7 @@
 
  __Appeals Taken Prior to__  __October 10, 1962__ 
 
-    [Pub. L. 87–781, title I, § 104(d)(3)][/us/pl/87/781/s104/d/3], Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785], made amendments to subsec. (h) of this section inapplicable to any appeal taken prior to Oct. 10, 1962.
+    [Pub. L. 87–781, title I][/us/pl/87/781/tI], § 104(d)(3), Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785], made amendments to subsec. (h) of this section inapplicable to any appeal taken prior to Oct. 10, 1962.
 
 ----------
 
@@ -2192,45 +2192,45 @@
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
-[/us/act/1938-06-25/ch675/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs505
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1052
-[/us/pl/86/507/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F18
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
-[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/781-783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F781-783
-[/us/pl/92/387/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387%2Fs4%2Fd
+[/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
 [/us/stat/86/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F562
-[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtI
 [/us/stat/98/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1585
-[/us/pl/102/282/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs5
+[/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
 [/us/stat/106/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F161
-[/us/pl/103/80/s3/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fn
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F777
-[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2313
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/109/s15/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs15%2Fc%2F1
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1420
-[/us/pl/108/155/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155%2Fs2%2Fb%2F1
+[/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/stat/117/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1941
-[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2448
-[/us/pl/110/85/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs701%2Fb
+[/us/pl/110/85/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVII
 [/us/stat/121/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F903
-[/us/pl/110/316/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs301
+[/us/pl/110/316/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2FtIII
 [/us/stat/122/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3524
-[/us/pl/110/379/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs4%2Fa
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
 [/us/stat/122/4076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4076
-[/us/pl/111/31/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fe
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
-[/us/pl/111/148/s7002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fd%2F1
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F816
-[/us/pl/112/144/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs905
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1092
-[/us/pl/113/5/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs301
+[/us/pl/113/5/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIII
 [/us/stat/127/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F179
-[/us/pl/114/89/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F1
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F698
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
@@ -2250,135 +2250,135 @@
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
-[/us/pl/112/144/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs905
-[/us/pl/112/144/s1135/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1135%2F1%2FA
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
-[/us/pl/112/144/s1135/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1135%2F1%2FB
-[/us/pl/112/144/s1135/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1135%2F2%2FA
-[/us/pl/112/144/s1135/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1135%2F2%2FB
-[/us/pl/112/144/s1135/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1135%2F3
-[/us/pl/112/144/s1135/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1135%2F4
-[/us/pl/112/144/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1101%2Fb
-[/us/pl/112/144/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1101%2Fa
-[/us/pl/112/144/s1134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1134%2Fa
-[/us/pl/111/148/s7002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fd%2F1
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s262/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fk
-[/us/pl/111/148/s10609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10609
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs394
-[/us/pl/110/316/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs301
+[/us/pl/110/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316
 [/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
-[/us/pl/110/85/s801/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fb%2F3%2FB
-[/us/pl/110/85/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs903
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t21/s355–1/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%E2%80%931%2Fg%2F2%2FD
-[/us/pl/110/85/s801/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fb%2F3%2FA
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t42/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282
-[/us/pl/110/85/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs905%2Fa
-[/us/pl/110/85/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs921
-[/us/pl/110/85/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs916
-[/us/pl/110/85/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs701%2Fb
-[/us/pl/110/85/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs901%2Fa
-[/us/pl/110/85/s914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs914%2Fa
-[/us/pl/110/85/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs915
-[/us/pl/110/85/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs918
-[/us/pl/110/85/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs920
-[/us/pl/110/85/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1113
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
+[/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
 [/us/usc/t21/s355c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355c
-[/us/pl/108/173/s1101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F1%2FA
-[/us/pl/108/173/s1101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F1%2FB
-[/us/pl/108/173/s1101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FA
-[/us/pl/108/173/s1101/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fiii
-[/us/pl/108/173/s1101/b/2/B/ii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fii%2FVI
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t28/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2201
-[/us/pl/108/173/s1101/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fi
-[/us/pl/108/173/s1101/b/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fii%2FII
-[/us/pl/108/173/s1101/b/2/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fii%2FIII
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t35/s271/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs271%2Fe%2F4%2FA
-[/us/pl/108/173/s1101/b/2/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fii%2FIV
-[/us/pl/108/173/s1101/b/2/B/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FB%2Fii%2FV
-[/us/pl/108/173/s1101/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fb%2F2%2FC
-[/us/pl/108/173/s1101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F1%2FA
-[/us/pl/108/173/s1101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F1%2FB
-[/us/pl/108/173/s1101/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fi
-[/us/pl/108/173/s1101/a/2/A/ii/II/ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fii%2FII%2Fee
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t28/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2201
-[/us/pl/108/173/s1101/a/2/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fii%2FI
-[/us/pl/108/173/s1101/a/2/A/ii/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fii%2FII%2Faa
-[/us/pl/108/173/s1101/a/2/A/ii/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fii%2FII%2Fbb
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/usc/t35/s271/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs271%2Fe%2F4%2FA
-[/us/pl/108/173/s1101/a/2/A/ii/II/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fii%2FII%2Fcc
-[/us/pl/108/173/s1101/a/2/A/ii/II/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FA%2Fii%2FII%2Fdd
-[/us/pl/108/173/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1102%2Fa%2F1
-[/us/pl/108/173/s1101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FB
-[/us/pl/108/173/s1102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1102%2Fa%2F2
-[/us/pl/108/173/s1101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FB
-[/us/pl/108/173/s1101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fa%2F2%2FB
-[/us/pl/108/173/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1103%2Fa%2F1
-[/us/pl/108/173/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1103%2Fa%2F2
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/115/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs115%2Fb
-[/us/pl/105/115/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fa
-[/us/pl/105/115/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs124%2Fa
-[/us/pl/105/115/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs115%2Fa
-[/us/pl/105/115/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs117
-[/us/pl/105/115/s119/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F2%2FA
-[/us/pl/105/115/s119/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F1%2FB
-[/us/pl/105/115/s119/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F1%2FA
-[/us/pl/105/115/s119/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F2%2FC
-[/us/pl/105/115/s119/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F1%2FA
-[/us/pl/105/115/s119/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F1%2FA
-[/us/pl/105/115/s119/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs119%2Fb%2F1%2FA
-[/us/pl/105/115/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs120
-[/us/pl/103/80/s3/n/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fn%2F1%2FA
-[/us/pl/103/80/s3/n/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fn%2F1%2FB
-[/us/pl/103/80/s3/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fn%2F2
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
-[/us/pl/98/417/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs102%2Fb%2F1
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
-[/us/pl/98/417/s102/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs102%2Fa%2F3%2FA
-[/us/pl/98/417/s102/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs102%2Fa%2F3%2FB
-[/us/pl/98/417/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs102%2Fb%2F3
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/usc/t21/s360/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fk%2F2
 [/us/usc/t21/s360/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fj%2F2
-[/us/pl/98/417/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs101
-[/us/pl/98/417/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs102%2Fb%2F5
-[/us/pl/98/417/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs104
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
 [/us/usc/t21/s360/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fj%2F2
-[/us/pl/87/781/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Fa
-[/us/pl/87/781/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs102%2Fb
-[/us/pl/87/781/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Fb
-[/us/pl/87/781/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs102%2Fc
-[/us/pl/87/781/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs102%2Fd
-[/us/pl/87/781/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Fc
-[/us/pl/87/781/s104/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Fd%2F1
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/87/781/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs103%2Fb
-[/us/pl/87/781/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs103%2Fa
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
-[/us/pl/112/144/s1134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1134%2Fb
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1123
-[/us/pl/110/85/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs701%2Fc
+[/us/pl/110/85/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVII
 [/us/stat/121/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F904
 [/us/usc/t21/s379d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379d%E2%80%931
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/pl/110/85/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs909
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
-[/us/pl/108/173/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1101%2Fc
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2456
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
-[/us/pl/108/173/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1102%2Fb
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2460
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
 [/us/pl/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F155
@@ -2390,7 +2390,7 @@
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/98/417/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs105
+[/us/pl/98/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtI
 [/us/stat/98/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1597
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/92/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F387
@@ -2400,7 +2400,7 @@
 [/us/pl/87/781/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs107
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
-[/us/pl/110/85/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs905%2Fb
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F949
 [/us/usc/t21/s355/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fk
 [/us/pl/102/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282
@@ -2409,28 +2409,28 @@
 [/us/pl/102/282/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F282%2Fs7
 [/us/usc/t21/s335a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs335a
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/112/144/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs806
+[/us/pl/112/144/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVIII
 [/us/stat/126/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1082
-[/us/pl/112/144/s1122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1122%2Fc
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1113
-[/us/pl/112/144/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1133
+[/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1122
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
 [/us/usc/t21/s355/q/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fq%2F1%2FG
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
 [/us/usc/t21/s355/j/5/D/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F5%2FD%2Fi%2FIV
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
-[/us/pl/110/85/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs907
+[/us/pl/110/85/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtIX
 [/us/stat/121/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F950
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s360b/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b%2Fa%2F5
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/108/173/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1103%2Fb
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2461
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
-[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXI
 [/us/stat/117/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2461
 [/us/usc/t21/s321/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Faa
 [/us/usc/t21/s355/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fc
@@ -2447,37 +2447,37 @@
 [/us/usc/t15/s56/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs56%2Fa
 [/us/usc/t15/s56/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs56%2Fa%2F1
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/107/109/s15/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs15%2Fd
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1421
-[/us/pl/105/115/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs118
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2316
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/105/115/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs121%2Fc
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2321
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s351/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs351%2Fa%2F2%2FC
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
-[/us/pl/105/115/s121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs121%2Fe
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2322
 [/us/usc/t21/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs351
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/105/115/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs122
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2322
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/pl/105/115/s123/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs123%2Ff
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2324
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb%2F1
-[/us/pl/110/379/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379%2Fs4%2Fb
+[/us/pl/110/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F379
 [/us/stat/122/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4077
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s355/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj%2F7
 [/us/usc/t21/s355/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fj
-[/us/pl/105/115/s125/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fd
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2326
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
@@ -2488,7 +2488,7 @@
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/87/781/s104/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Fd%2F3
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F785
 
 

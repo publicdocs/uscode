@@ -17,7 +17,7 @@
 
     A Federal department or agency may not sell from the stocks of the department or agency any chemical which, as determined by the Administrator of the Drug Enforcement Administration, could be used in the manufacture of a controlled substance unless the Administrator certifies in writing to the head of the department or agency that there is no reasonable cause to believe that the sale of the chemical would result in the illegal manufacture of a controlled substance.
 
-([Pub. L. 91–513, title II, § 520][/us/pl/91/513/s520], as added [Pub. L. 104–201, div. A, title X, § 1034(a)][/us/pl/104/201/s1034/a], Sept. 23, 1996, [110 Stat. 2640][/us/stat/110/2640].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 520, as added [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1034(a), Sept. 23, 1996, [110 Stat. 2640][/us/stat/110/2640].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/513/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs520
-[/us/pl/104/201/s1034/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1034%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2640
 
 

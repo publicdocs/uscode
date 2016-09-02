@@ -17,7 +17,7 @@
 
     Nothing in this chapter, except this part and, to the extent of any inconsistency, sections 827(e) and 829 of this title, shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. § 301 et seq.\].
 
-([Pub. L. 91–513, title II, § 707][/us/pl/91/513/s707], Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 707, Oct. 27, 1970, [84 Stat. 1284][/us/stat/84/1284].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/513/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs707
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1284
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

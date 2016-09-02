@@ -17,7 +17,7 @@
 
     In any action to enforce the requirements of this chapter respecting a device, tobacco product, food, drug, or cosmetic the connection with interstate commerce required for jurisdiction in such action shall be presumed to exist.
 
-([June 25, 1938, ch. 675, § 709][/us/act/1938-06-25/ch675/s709], as added [Pub. L. 94–295, § 8][/us/pl/94/295/s8], May 28, 1976, [90 Stat. 583][/us/stat/90/583]; amended [Pub. L. 105–115, title IV, § 419][/us/pl/105/115/s419], Nov. 21, 1997, [111 Stat. 2379][/us/stat/111/2379]; [Pub. L. 111–31, div. A, title I, § 103(k)][/us/pl/111/31/s103/k], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 709, as added [Pub. L. 94–295][/us/pl/94/295], § 8, May 28, 1976, [90 Stat. 583][/us/stat/90/583]; amended [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 419, Nov. 21, 1997, [111 Stat. 2379][/us/stat/111/2379]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(k), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837].)
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs709
-[/us/pl/94/295/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs8
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F583
-[/us/pl/105/115/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs419
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2379
-[/us/pl/111/31/s103/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fk
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115

@@ -23,7 +23,7 @@
 
     (3) post information regarding recalled human and pet foods on the Internet Web site of the Food and Drug Administration in a single location, which shall include a searchable database of recalled human foods and a searchable database of recalled pet foods, that is easily accessed and understood by the public.
 
-([Pub. L. 110–85, title X, § 1003][/us/pl/110/85/s1003], Sept. 27, 2007, [121 Stat. 963][/us/stat/121/963].)
+([Pub. L. 110–85, title X][/us/pl/110/85/tX], § 1003, Sept. 27, 2007, [121 Stat. 963][/us/stat/121/963].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/85/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1003
+[/us/pl/110/85/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtX
 [/us/stat/121/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F963
 
 

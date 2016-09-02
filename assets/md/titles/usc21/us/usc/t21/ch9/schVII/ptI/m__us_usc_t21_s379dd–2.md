@@ -27,7 +27,7 @@
 
         The provisions of this part and [section 360bbb–5 of this title][/us/usc/t21/s360bbb–5] shall have no effect on any grant, contract, memorandum of understanding, or cooperative agreement between the Food and Drug Administration and any other entity entered into before, on, or after September 27, 2007.
 
-([June 25, 1938, ch. 675, § 772][/us/act/1938-06-25/ch675/s772], as added [Pub. L. 110–85, title VI, § 601(b)][/us/pl/110/85/s601/b], Sept. 27, 2007, [121 Stat. 897][/us/stat/121/897].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 772, as added [Pub. L. 110–85, title VI][/us/pl/110/85/tVI], § 601(b), Sept. 27, 2007, [121 Stat. 897][/us/stat/121/897].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t21/s360bbb–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%935
-[/us/act/1938-06-25/ch675/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs772
-[/us/pl/110/85/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs601%2Fb
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/110/85/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVI
 [/us/stat/121/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F897
 
 

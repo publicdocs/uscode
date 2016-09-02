@@ -23,7 +23,7 @@
 
         The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of such recipients that are pertinent to such grants or contracts.
 
-([Pub. L. 92–255, title IV, § 411][/us/pl/92/255/s411], Mar. 21, 1972, [86 Stat. 83][/us/stat/86/83]; [Pub. L. 97–35, title IX, § 971][/us/pl/97/35/s971], Aug. 13, 1981, [95 Stat. 597][/us/stat/95/597].)
+([Pub. L. 92–255, title IV][/us/pl/92/255/tIV], § 411, Mar. 21, 1972, [86 Stat. 83][/us/stat/86/83]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 971, Aug. 13, 1981, [95 Stat. 597][/us/stat/95/597].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t21/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1177
-[/us/pl/92/255/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2Fs411
+[/us/pl/92/255/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F255%2FtIV
 [/us/stat/86/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F83
-[/us/pl/97/35/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs971
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F597
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t21/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176

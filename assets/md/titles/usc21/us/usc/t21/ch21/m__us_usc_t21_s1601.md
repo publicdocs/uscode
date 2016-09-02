@@ -77,7 +77,7 @@
 
     (17) the protections set forth in this chapter are needed to assure the continued supply of materials for lifesaving medical devices, although such protections do not protect negligent suppliers.
 
-([Pub. L. 105–230, § 2][/us/pl/105/230/s2], Aug. 13, 1998, [112 Stat. 1519][/us/stat/112/1519].)
+([Pub. L. 105–230][/us/pl/105/230], § 2, Aug. 13, 1998, [112 Stat. 1519][/us/stat/112/1519].)
 
  __References in Text__ 
 
@@ -85,13 +85,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–230, § 8][/us/pl/105/230/s8], Aug. 13, 1998, [112 Stat. 1529][/us/stat/112/1529], provided that: 
+[Pub. L. 105–230][/us/pl/105/230], § 8, Aug. 13, 1998, [112 Stat. 1529][/us/stat/112/1529], provided that: 
 
 > “This Act \[enacting this chapter\] shall apply to all civil actions covered under this Act that are commenced on or after the date of enactment of this Act \[Aug. 13, 1998\], including any such action with respect to which the harm asserted in the action or the conduct that caused the harm occurred before the date of enactment of this Act.”
 
  __Short Title__ 
 
-[Pub. L. 105–230, § 1][/us/pl/105/230/s1], Aug. 13, 1998, [112 Stat. 1519][/us/stat/112/1519], provided that: 
+[Pub. L. 105–230][/us/pl/105/230], § 1, Aug. 13, 1998, [112 Stat. 1519][/us/stat/112/1519], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Biomaterials Access Assurance Act of 1998’.”
 
@@ -103,14 +103,14 @@
 ----------
 
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/105/230/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs2
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1519
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/105/230/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs8
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1529
-[/us/pl/105/230/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs1
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1519
 
 

@@ -103,7 +103,7 @@
 
             The requirements of this subsection shall apply only in instances where the consultation is undertaken solely under the authority of this section. The requirements of this subsection shall not apply to any consultation initiated under any other authority.
 
-([June 25, 1938, ch. 675, § 569][/us/act/1938-06-25/ch675/s569], as added [Pub. L. 112–144, title IX, § 903][/us/pl/112/144/s903], July 9, 2012, [126 Stat. 1088][/us/stat/126/1088].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 569, as added [Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 903, July 9, 2012, [126 Stat. 1088][/us/stat/126/1088].)
 
  __References in Text__ 
 
@@ -122,8 +122,8 @@
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/act/1938-06-25/ch675/s569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs569
-[/us/pl/112/144/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs903
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1088
 [/us/pl/112/144/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs101%2Fb
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g

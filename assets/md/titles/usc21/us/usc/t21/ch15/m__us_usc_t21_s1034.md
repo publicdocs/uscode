@@ -49,7 +49,7 @@
 
         (5) A representative of the Secretary and the Secretary of Health and Human Services shall be afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
 
-([Pub. L. 91–597, § 5][/us/pl/91/597/s5], Dec. 29, 1970, [84 Stat. 1624][/us/stat/84/1624]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X, § 1012(b)][/us/pl/102/237/s1012/b], Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899].)
+([Pub. L. 91–597][/us/pl/91/597], § 5, Dec. 29, 1970, [84 Stat. 1624][/us/stat/84/1624]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(b), Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–237, title X, § 1012(h)][/us/pl/102/237/s1012/h], Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901], provided that: 
+[Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1012(h), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901], provided that: 
 
 > “This section and the amendments made by this section \[amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under [section 1031 of this title][/us/usc/t21/s1031]\] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments.”
 
@@ -82,11 +82,11 @@
 [/us/usc/t21/s1044/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1044%2Fa%2F1
 [/us/usc/t21/s1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1040
 [/us/usc/t21/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1037
-[/us/pl/91/597/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs5
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1624
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/237/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fb
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1899
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620
@@ -94,7 +94,7 @@
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/102/237/s1012/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1012%2Fh
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1901
 [/us/usc/t21/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1031
 

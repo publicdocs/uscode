@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 107–171, title X, § 10808(a)][/us/pl/107/171/s10808/a], May 13, 2002, [116 Stat. 530][/us/stat/116/530].)
+([Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10808(a), May 13, 2002, [116 Stat. 530][/us/stat/116/530].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/171/s10808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10808%2Fa
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F530
 
 

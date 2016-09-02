@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–201, § 3][/us/pl/90/201/s3], struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary”.
+    1967—[Pub. L. 90–201][/us/pl/90/201], § 3, struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary”.
 
  __Effective Date of 1967 Amendment__ 
 
@@ -43,7 +43,7 @@
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
 [/us/usc/t21/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs90
-[/us/pl/90/201/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs3
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/90/201/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs20%2Fb
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601

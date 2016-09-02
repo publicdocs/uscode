@@ -33,13 +33,13 @@
 
         do, with respect to any such articles which are capable of use as human food, any act while they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 10, formerly 8th par., [34 Stat. 1262][/us/stat/34/1262]; renumbered § 10 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 7, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 589; [Pub. L. 95–445, § 3][/us/pl/95/445/s3], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 10, formerly 8th par., [34 Stat. 1262][/us/stat/34/1262]; renumbered § 10 and amended [Pub. L. 90–201][/us/pl/90/201], §§ 1, 7, Dec. 15, 1967, [81 Stat. 584][/us/stat/81/584], 589; [Pub. L. 95–445][/us/pl/95/445], § 3, Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069].)
 
  __References in Text__ 
 
     Act of August 27, 1958, referred to in subsec. (b), is [Pub. L. 85–765][/us/pl/85/765], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862], as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
-    Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by [Pub. L. 95–445, § 5(b)][/us/pl/95/445/s5/b], Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], effective as set forth in [section 7 of Pub. L. 95–445][/us/pl/95/445/s7], set out as an Effective Date of 1978 Amendment note under [section 603 of this title][/us/usc/t21/s603].
+    Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by [Pub. L. 95–445][/us/pl/95/445], § 5(b), Oct. 10, 1978, [92 Stat. 1069][/us/stat/92/1069], effective as set forth in [section 7 of Pub. L. 95–445][/us/pl/95/445/s7], set out as an Effective Date of 1978 Amendment note under [section 603 of this title][/us/usc/t21/s603].
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
     1978—Subsecs. (b) to (d). [Pub. L. 95–445][/us/pl/95/445] added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-    1967—[Pub. L. 90–201, § 7][/us/pl/90/201/s7], included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
+    1967—[Pub. L. 90–201][/us/pl/90/201], § 7, included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -72,17 +72,17 @@
 [/us/stat/34/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1262
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
-[/us/pl/95/445/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs3
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/pl/85/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F765
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
-[/us/pl/95/445/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs5%2Fb
+[/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/stat/92/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1069
 [/us/pl/95/445/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs7
 [/us/usc/t21/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs603
 [/us/usc/t21/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs78
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
-[/us/pl/90/201/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201%2Fs7
+[/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/pl/95/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445
 [/us/pl/95/445/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F445%2Fs7
 [/us/usc/t21/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs603

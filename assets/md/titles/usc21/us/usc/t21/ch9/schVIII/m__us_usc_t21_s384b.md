@@ -67,7 +67,7 @@
 
         For purposes of this section, the term “importer” means the person that brings food, or causes food to be brought, from a foreign country into the customs territory of the United States.
 
-([June 25, 1938, ch. 675, § 806][/us/act/1938-06-25/ch675/s806], as added [Pub. L. 111–353, title III, § 302][/us/pl/111/353/s302], Jan. 4, 2011, [124 Stat. 3955][/us/stat/124/3955].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 806, as added [Pub. L. 111–353, title III][/us/pl/111/353/tIII], § 302, Jan. 4, 2011, [124 Stat. 3955][/us/stat/124/3955].)
 
  __Construction__ 
 
@@ -83,8 +83,8 @@
 [/us/usc/t21/s384d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384d
 [/us/usc/t21/s384a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384a
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/act/1938-06-25/ch675/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs806
-[/us/pl/111/353/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs302
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/111/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtIII
 [/us/stat/124/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3955
 
 

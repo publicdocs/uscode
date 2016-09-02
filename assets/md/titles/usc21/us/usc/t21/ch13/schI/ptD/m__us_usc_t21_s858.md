@@ -17,7 +17,7 @@
 
     Whoever, while manufacturing a controlled substance in violation of this subchapter, or attempting to do so, or transporting or causing to be transported materials, including chemicals, to do so, creates a substantial risk of harm to human life shall be fined in accordance with title 18 or imprisoned not more than 10 years, or both.
 
-([Pub. L. 91–513, title II, § 417][/us/pl/91/513/s417], as added [Pub. L. 100–690, title VI, § 6301(a)][/us/pl/100/690/s6301/a], Nov. 18, 1988, [102 Stat. 4370][/us/stat/102/4370].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 417, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6301(a), Nov. 18, 1988, [102 Stat. 4370][/us/stat/102/4370].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/513/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs417
-[/us/pl/100/690/s6301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6301%2Fa
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4370
 
 

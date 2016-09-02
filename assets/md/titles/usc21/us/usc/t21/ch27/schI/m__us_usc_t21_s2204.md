@@ -105,7 +105,7 @@
 
             Not later than 15 months after January 4, 2011, the Secretary shall submit to Congress a report that describes the findings of the study conducted under paragraph (1) and that includes any recommendations determined appropriate by the Secretary.
 
-([Pub. L. 111–353, title I, § 110][/us/pl/111/353/s110], Jan. 4, 2011, [124 Stat. 3913][/us/stat/124/3913].)
+([Pub. L. 111–353, title I][/us/pl/111/353/tI], § 110, Jan. 4, 2011, [124 Stat. 3913][/us/stat/124/3913].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 [/us/usc/t21/s350d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350d
 [/us/usc/t21/s381/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fm
 [/us/usc/t21/s321/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fr
-[/us/pl/111/353/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs110
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3913
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/stat/124/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3885

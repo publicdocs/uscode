@@ -27,7 +27,7 @@
 
         (2) a description of the activities of the agency.
 
-([Pub. L. 109–469, title VII, § 702][/us/pl/109/469/s702], Dec. 29, 2006, [120 Stat. 3534][/us/stat/120/3534].)
+([Pub. L. 109–469, title VII][/us/pl/109/469/tVII], § 702, Dec. 29, 2006, [120 Stat. 3534][/us/stat/120/3534].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
-[/us/pl/109/469/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs702
+[/us/pl/109/469/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtVII
 [/us/stat/120/3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3534
 
 

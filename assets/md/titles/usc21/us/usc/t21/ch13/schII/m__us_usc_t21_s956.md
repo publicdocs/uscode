@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
+[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955a...955d.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
 
 ## § 956. Exemption authority
 
@@ -25,7 +25,7 @@
 
         The Attorney General may by regulation except any compound, mixture, or preparation containing any depressant or stimulant substance listed in paragraph (a) or (b) of schedule III or in schedule IV or V from the application of all or any part of this subchapter if (1) the compound, mixture, or preparation contains one or more active medicinal ingredients not having a depressant or stimulant effect on the central nervous system, and (2) such ingredients are included therein in such combinations, quantity, proportion, or concentration as to vitiate the potential for abuse of the substances which do have a depressant or stimulant effect on the central nervous system.
 
-([Pub. L. 91–513, title III, § 1006][/us/pl/91/513/s1006], Oct. 27, 1970, [84 Stat. 1288][/us/stat/84/1288]; [Pub. L. 105–277, div. C, title VIII, § 872(a)][/us/pl/105/277/s872/a], Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707]; [Pub. L. 105–357, § 2(a)][/us/pl/105/357/s2/a], Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1006, Oct. 27, 1970, [84 Stat. 1288][/us/stat/84/1288]; [Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 872(a), Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707]; [Pub. L. 105–357][/us/pl/105/357], § 2(a), Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271].)
 
  __References in Text__ 
 
@@ -37,44 +37,44 @@
 
  __Federal Minimum Requirement__ 
 
-[Pub. L. 105–357, § 2(b)][/us/pl/105/357/s2/b], Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271], provided that: 
+[Pub. L. 105–357][/us/pl/105/357], § 2(b), Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271], provided that: 
 
 > “Section 1006(a)(2) of the Controlled Substances Import and Export Act \[[21 U.S.C. 956(a)(2)][/us/usc/t21/s956/a/2]\], as added by this section, is a minimum Federal requirement and shall not be construed to limit a State from imposing any additional requirement.”
 
-    [Pub. L. 105–277, div. C, title VIII, § 872(b)][/us/pl/105/277/s872/b], Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], enacted a provision substantially identical to that enacted by [Pub. L. 105–357, § 2(b)][/us/pl/105/357/s2/b], set out above.
+    [Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 872(b), Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], enacted a provision substantially identical to that enacted by [Pub. L. 105–357][/us/pl/105/357], § 2(b), set out above.
 
  __Jurisdiction of Secretary of Health and Human Services__ 
 
-[Pub. L. 105–277, div. C, title VIII, § 872(c)][/us/pl/105/277/s872/c], Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], and [Pub. L. 105–357, § 2(c)][/us/pl/105/357/s2/c], Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271], provided that: 
+[Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 872(c), Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], and [Pub. L. 105–357][/us/pl/105/357], § 2(c), Nov. 10, 1998, [112 Stat. 3271][/us/stat/112/3271], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not be construed to affect the jurisdiction of the Secretary of Health and Human Services under the Federal Food, Drug and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.).”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
+[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955a...955d.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
 
 ----------
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/91/513/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1006
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1288
-[/us/pl/105/277/s872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs872%2Fa
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-707
-[/us/pl/105/357/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357%2Fs2%2Fa
+[/us/pl/105/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357
 [/us/stat/112/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3271
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357
-[/us/pl/105/357/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357%2Fs2%2Fb
+[/us/pl/105/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357
 [/us/stat/112/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3271
 [/us/usc/t21/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956%2Fa%2F2
-[/us/pl/105/277/s872/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs872%2Fb
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-707
-[/us/pl/105/357/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357%2Fs2%2Fb
-[/us/pl/105/277/s872/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs872%2Fc
+[/us/pl/105/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-707
-[/us/pl/105/357/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357%2Fs2%2Fc
+[/us/pl/105/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F357
 [/us/stat/112/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3271
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 

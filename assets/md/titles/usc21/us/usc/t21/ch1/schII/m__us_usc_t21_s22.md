@@ -21,7 +21,7 @@
 
     Second. If the barrel bears any statement, design, or device indicating that the apples contained therein are “Standard” grade and the barrel fails to bear also a statement of the name of the variety, the name of the locality where grown, and the name of the packer or the person by whose authority the apples were packed and the barrel marked.
 
-([Aug. 3, 1912, ch. 273, § 5][/us/act/1912-08-03/ch273/s5], [37 Stat. 251][/us/stat/37/251].)
+([Aug. 3, 1912, ch. 273][/us/act/1912-08-03/ch273], § 5, [37 Stat. 251][/us/stat/37/251].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t21/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs20
-[/us/act/1912-08-03/ch273/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273%2Fs5
+[/us/act/1912-08-03/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273
 [/us/stat/37/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F251
 
 

@@ -17,7 +17,7 @@
 
     Whenever any eggs or egg products subject to this chapter, are found by any authorized representative of the Secretary upon any premises and there is reason to believe that they are or have been processed, bought, sold, possessed, used, transported, or offered or received for sale or transportation in violation of this chapter or that they are in any other way in violation of this chapter, or whenever any restricted eggs capable of use as human food are found by such a representative in the possession of any person not authorized to acquire such eggs under the regulations of the Secretary, such articles may be detained by such representative for a reasonable period but not to exceed twenty days, pending action under [section 1049 of this title][/us/usc/t21/s1049] or notification of any Federal, State, or other governmental authorities having jurisdiction over such articles and shall not be moved by any person from the place at which they are located when so detained until released by such representative. All official marks may be required by such representative to be removed from such articles before they are released unless it appears to the satisfaction of the Secretary that the articles are eligible to retain such marks.
 
-([Pub. L. 91–597, § 19][/us/pl/91/597/s19], Dec. 29, 1970, [84 Stat. 1631][/us/stat/84/1631].)
+([Pub. L. 91–597][/us/pl/91/597], § 19, Dec. 29, 1970, [84 Stat. 1631][/us/stat/84/1631].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t21/s1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1049
-[/us/pl/91/597/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs19
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1631
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620

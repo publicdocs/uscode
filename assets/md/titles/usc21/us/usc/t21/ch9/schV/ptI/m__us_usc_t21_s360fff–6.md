@@ -125,7 +125,7 @@
 
             The Secretary shall finalize the regulations under this section not later than 27 months after November 26, 2014.
 
-([June 25, 1938, ch. 675, § 586F][/us/act/1938-06-25/ch675/s586F], as added [Pub. L. 113–195, § 3][/us/pl/113/195/s3], Nov. 26, 2014, [128 Stat. 2046][/us/stat/128/2046].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 586F, as added [Pub. L. 113–195][/us/pl/113/195], § 3, Nov. 26, 2014, [128 Stat. 2046][/us/stat/128/2046].)
 
 ----------
 
@@ -138,8 +138,8 @@
 [/us/usc/t21/s360fff–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%932%2Fb
 [/us/usc/t21/s360fff–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%933%2Fb
 [/us/usc/t21/s360fff–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%932%2Fb
-[/us/act/1938-06-25/ch675/s586F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs586F
-[/us/pl/113/195/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs3
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/113/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195
 [/us/stat/128/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2046
 
 

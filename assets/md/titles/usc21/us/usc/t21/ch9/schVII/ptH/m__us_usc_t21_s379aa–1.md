@@ -139,7 +139,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-([June 25, 1938, ch. 675, § 761][/us/act/1938-06-25/ch675/s761], as added [Pub. L. 109–462, § 3(a)][/us/pl/109/462/s3/a], Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 761, as added [Pub. L. 109–462][/us/pl/109/462], § 3(a), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472].)
 
  __Effective Date__ 
 
@@ -159,8 +159,8 @@
 [/us/usc/t21/s379v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379v
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t21/s379v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379v
-[/us/act/1938-06-25/ch675/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs761
-[/us/pl/109/462/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs3%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/109/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462
 [/us/stat/120/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3472
 [/us/pl/109/462/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F462%2Fs3%2Fd%2F1
 [/us/usc/t21/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs343

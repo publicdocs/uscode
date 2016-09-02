@@ -111,13 +111,13 @@
 
         The Secretary shall by regulations (issued without regard to subsection (d) of this section) provide for exempting from the requirements of this section any color additive or any specific type of use thereof, and any article of food, drug, or device, or cosmetic bearing or containing such additive, intended solely for investigational use by qualified experts when in his opinion such exemption is consistent with the public health.
 
-([June 25, 1938, ch. 675, § 721][/us/act/1938-06-25/ch675/s721], formerly § 706, [52 Stat. 1058][/us/stat/52/1058]; [Pub. L. 86–618, title I, § 103(b)][/us/pl/86/618/s103/b], July 12, 1960, [74 Stat. 399][/us/stat/74/399]; [Pub. L. 87–781, title I, § 104(f)(2)][/us/pl/87/781/s104/f/2], Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 91–515, title VI, § 601(d)(2)][/us/pl/91/515/s601/d/2], Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; [Pub. L. 94–295, § 9(a)][/us/pl/94/295/s9/a], May 28, 1976, [90 Stat. 583][/us/stat/90/583]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–300, § 6(b)(2)][/us/pl/102/300/s6/b/2], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; renumbered § 721, [Pub. L. 102–571, title I, § 106(4)][/us/pl/102/571/s106/4], Oct. 29, 1992, [106 Stat. 4498][/us/stat/106/4498]; [Pub. L. 103–80, § 3(bb)][/us/pl/103/80/s3/bb], Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 721, formerly § 706, [52 Stat. 1058][/us/stat/52/1058]; [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 103(b), July 12, 1960, [74 Stat. 399][/us/stat/74/399]; [Pub. L. 87–781, title I][/us/pl/87/781/tI], § 104(f)(2), Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 91–515, title VI][/us/pl/91/515/tVI], § 601(d)(2), Oct. 30, 1970, [84 Stat. 1311][/us/stat/84/1311]; [Pub. L. 94–295][/us/pl/94/295], § 9(a), May 28, 1976, [90 Stat. 583][/us/stat/90/583]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(2), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; renumbered § 721, [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 106(4), Oct. 29, 1992, [106 Stat. 4498][/us/stat/106/4498]; [Pub. L. 103–80][/us/pl/103/80], § 3(bb), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778].)
 
  __Codification__ 
 
     Section was formerly classified to [section 376 of this title][/us/usc/t21/s376] prior to renumbering by [Pub. L. 102–571][/us/pl/102/571].
 
-    In subsec. (d)(2), “[section 556(d) of title 5][/us/usc/t5/s556/d]” substituted for “section 7(c) of the Administrative Procedure Act (5 U.S.C., sec. 1006(c))” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (d)(2), “[section 556(d) of title 5][/us/usc/t5/s556/d]” substituted for “section 7(c) of the Administrative Procedure Act (5 U.S.C., sec. 1006(c))” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -125,11 +125,11 @@
 
     1992—Subsec. (b)(5)(C)(i). [Pub. L. 102–300][/us/pl/102/300] struck out “of Health, Education, and Welfare” after “representatives of the Department”.
 
-    1976—Subsec. (a). [Pub. L. 94–295, § 9(a)(2)][/us/pl/94/295/s9/a/2], (3), inserted reference to devices and inserted provisions directing that color additives for use in or on devices be subject to this section only if the color additives come in direct contact with the body of man or other animals for a significant period of time and authorizing the Secretary to designate by regulation the uses of color additives in or on devices which are subject to this section.
+    1976—Subsec. (a). [Pub. L. 94–295][/us/pl/94/295], § 9(a)(2), (3), inserted reference to devices and inserted provisions directing that color additives for use in or on devices be subject to this section only if the color additives come in direct contact with the body of man or other animals for a significant period of time and authorizing the Secretary to designate by regulation the uses of color additives in or on devices which are subject to this section.
 
-    Subsec. (b). [Pub. L. 94–295, § 9(a)(1)][/us/pl/94/295/s9/a/1], (2), substituted “drug or device” for “drug” and “drugs or devices” for “drugs” wherever appearing.
+    Subsec. (b). [Pub. L. 94–295][/us/pl/94/295], § 9(a)(1), (2), substituted “drug or device” for “drug” and “drugs or devices” for “drugs” wherever appearing.
 
-    Subsec. (f). [Pub. L. 94–295, § 9(a)(1)][/us/pl/94/295/s9/a/1], substituted “drug or device” for “drug”.
+    Subsec. (f). [Pub. L. 94–295][/us/pl/94/295], § 9(a)(1), substituted “drug or device” for “drug”.
 
     1970—Subsec. (b)(5)(D). [Pub. L. 91–515][/us/pl/91/515] substituted provisions authorizing members of an advisory committee to receive compensation at rates fixed by the Secretary, with a specific maximum amount, and travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703(b) of Title 5][/us/usc/t5/s5703/b], for provisions authorizing such members to receive as compensation a reasonable per diem for time actually spent on committee work, and necessary traveling and subsistence expenses while serving away from their places of residence.
 
@@ -143,7 +143,7 @@
 
  __Effective Date of 1960 Amendment, Transitional Provisions, and Effect on Other Laws__ 
 
-[Pub. L. 86–618, title II][/us/pl/86/618], July 12, 1960, [74 Stat. 404][/us/stat/74/404], provided that:
+[Pub. L. 86–618, title II][/us/pl/86/618/tII], July 12, 1960, [74 Stat. 404][/us/stat/74/404], provided that:
 
 > “Sec. 201. __\[__  __Definitions__ 
 
@@ -213,7 +213,7 @@
 
  __Effective Date; Acceleration__ 
 
-    This section was made “immediately effective” by [act May 2, 1939, ch. 107][/us/act/1939-05-02/ch107], title I, § 1, [53 Stat. 631][/us/stat/53/631].
+    This section was made “immediately effective” by [act May 2, 1939, ch. 107, title I][/us/act/1939-05-02/ch107/tI], § 1, [53 Stat. 631][/us/stat/53/631].
 
  __Termination of Advisory Committees__ 
 
@@ -240,34 +240,34 @@
 [/us/usc/t5/s556/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556%2Fd
 [/us/usc/t21/s348/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348%2Ff%2F2
 [/us/usc/t21/s348/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348%2Fg
-[/us/act/1938-06-25/ch675/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs721
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1058
-[/us/pl/86/618/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs103%2Fb
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F399
-[/us/pl/87/781/s104/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs104%2Ff%2F2
+[/us/pl/87/781/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtI
 [/us/stat/76/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F785
-[/us/pl/91/515/s601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs601%2Fd%2F2
+[/us/pl/91/515/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtVI
 [/us/stat/84/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1311
-[/us/pl/94/295/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs9%2Fa
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F583
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/300/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F2
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/102/571/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs106%2F4
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4498
-[/us/pl/103/80/s3/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fbb
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
 [/us/usc/t21/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs376
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/usc/t5/s556/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556%2Fd
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
-[/us/pl/94/295/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs9%2Fa%2F2
-[/us/pl/94/295/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs9%2Fa%2F1
-[/us/pl/94/295/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs9%2Fa%2F1
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/pl/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515
 [/us/usc/t5/s5703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703%2Fb
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
@@ -275,14 +275,14 @@
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/pl/87/781/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs107
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
+[/us/pl/86/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtII
 [/us/stat/74/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F404
 [/us/usc/t21/s342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fc
 [/us/usc/t21/s371/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs371%2Ff
 [/us/stat/34/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1260
 [/us/usc/t21/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs71
 [/us/usc/t21/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs451
-[/us/act/1939-05-02/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-02%2Fch107
+[/us/act/1939-05-02/ch107/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-02%2Fch107%2FtI
 [/us/stat/53/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F631
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

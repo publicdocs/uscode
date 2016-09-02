@@ -17,7 +17,7 @@
 
     Any person violating any provision of this chapter shall upon conviction thereof be subject to a fine of not more than $1,000 or imprisonment of not more than one year, or both. When construing and enforcing the provisions of this chapter, the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association, within the scope of his employment or office, shall in every case be deemed the act, omission, or failure, of such individual, partnership, corporation, or association, as well as of such person.
 
-([Mar. 4, 1923, ch. 262, § 3][/us/act/1923-03-04/ch262/s3], [42 Stat. 1487][/us/stat/42/1487].)
+([Mar. 4, 1923, ch. 262][/us/act/1923-03-04/ch262], § 3, [42 Stat. 1487][/us/stat/42/1487].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1923-03-04/ch262/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch262%2Fs3
+[/us/act/1923-03-04/ch262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch262
 [/us/stat/42/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1487
 
 

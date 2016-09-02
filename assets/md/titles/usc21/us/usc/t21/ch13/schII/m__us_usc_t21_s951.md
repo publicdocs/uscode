@@ -25,7 +25,7 @@
 
     (b) Each term defined in [section 802 of this title][/us/usc/t21/s802] shall have the same meaning for purposes of this subchapter as such term has for purposes of subchapter I of this chapter.
 
-([Pub. L. 91–513, title III, § 1001][/us/pl/91/513/s1001], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]; [Pub. L. 100–418, title I, § 1214(m)][/us/pl/100/418/s1214/m], Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
+([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1001, Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(m), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–513, title III, § 1105(a)][/us/pl/91/513/s1105/a]–(c), Oct. 27, 1970, [84 Stat. 1295][/us/stat/84/1295], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1105(a)–(c), Oct. 27, 1970, [84 Stat. 1295][/us/stat/84/1295], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
 
@@ -65,13 +65,13 @@
 
  __Short Title__ 
 
-[Pub. L. 91–513, title III, § 1000][/us/pl/91/513/s1000], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285], provided that: 
+[Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1000, Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285], provided that: 
 
 > “This title \[enacting this subchapter, amending sections 162 and 967 of this title, [section 4251 of Title 18][/us/usc/t18/s4251], Crimes and Criminal Procedure, [section 1584 of Title 19][/us/usc/t19/s1584], Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, [section 2901 of Title 28][/us/usc/t28/s2901], Judiciary and Judicial Procedure, sections 529d, 529e, and 529f of former Title 31, Money and Finance, section 304m of former Title 40, Public Buildings, Property, and Works, [section 3411 of Title 42][/us/usc/t42/s3411], The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of former Title 49, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, and 501 to 517 of this title, sections 1401 to 1407, and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, [section 1421m of Title 48][/us/usc/t48/s1421m], Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171 and 957 of this title\] may be cited as the ‘Controlled Substances Import and Export Act’.”
 
  __Rules and Regulations__ 
 
-[Pub. L. 91–513, title III, § 1105(d)][/us/pl/91/513/s1105/d], Oct. 27, 1970, [84 Stat. 1296][/us/stat/84/1296], provided: 
+[Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1105(d), Oct. 27, 1970, [84 Stat. 1296][/us/stat/84/1296], provided: 
 
 > “Any orders, rules and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
 
@@ -83,9 +83,9 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/91/513/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1001
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
-[/us/pl/100/418/s1214/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fm
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1158
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
@@ -94,9 +94,9 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/91/513/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1105%2Fa
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1295
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826
@@ -113,14 +113,14 @@
 [/us/usc/t26/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4722
 [/us/usc/t21/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs823
 [/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
-[/us/pl/91/513/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1000
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
 [/us/usc/t18/s4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4251
 [/us/usc/t19/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1584
 [/us/usc/t28/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2901
 [/us/usc/t42/s3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3411
 [/us/usc/t48/s1421m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421m
-[/us/pl/91/513/s1105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1105%2Fd
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1296
 
 

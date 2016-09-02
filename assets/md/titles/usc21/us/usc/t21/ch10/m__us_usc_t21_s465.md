@@ -17,7 +17,7 @@
 
     The Secretary may limit the entry of poultry products and other materials into any official establishment, under such conditions as he may prescribe to assure that allowing the entry of such articles into such inspected establishments will be consistent with the purposes of this chapter.
 
-([Pub. L. 85–172, § 16][/us/pl/85/172/s16], Aug. 28, 1957, [71 Stat. 448][/us/stat/71/448]; [Pub. L. 90–492, § 15][/us/pl/90/492/s15], Aug. 18, 1968, [82 Stat. 805][/us/stat/82/805].)
+([Pub. L. 85–172][/us/pl/85/172], § 16, Aug. 28, 1957, [71 Stat. 448][/us/stat/71/448]; [Pub. L. 90–492][/us/pl/90/492], § 15, Aug. 18, 1968, [82 Stat. 805][/us/stat/82/805].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/172/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs16
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F448
-[/us/pl/90/492/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs15
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F805
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

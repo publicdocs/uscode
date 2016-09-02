@@ -95,7 +95,7 @@
 
             Not later than September 30 of each year, the chairman of the Interdiction Committee shall submit a report to the Director and to the appropriate congressional committees describing the results of the meetings and any significant findings of the Committee during the previous 12 months. Any content of such a report that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director, the chairman, or any member, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the report.
 
-([Pub. L. 105–277, div. C, title VII, § 711][/us/pl/105/277/s711], Oct. 21, 1998, [112 Stat. 2681–691][/us/stat/112/2681-691]; [Pub. L. 109–469, title I, § 103(f)(1)][/us/pl/109/469/s103/f/1], Dec. 29, 2006, [120 Stat. 3507][/us/stat/120/3507].)
+([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 711, Oct. 21, 1998, [112 Stat. 2681–691][/us/stat/112/2681-691]; [Pub. L. 109–469, title I][/us/pl/109/469/tI], § 103(f)(1), Dec. 29, 2006, [120 Stat. 3507][/us/stat/120/3507].)
 
  __Repeal of Section__ 
 
@@ -103,7 +103,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–469][/us/pl/109/469], which directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 ([Pub. L. 105–277, div. C, title VII][/us/pl/105/277]) be amended by “adding at the end” a new section 711, was executed by substituting the new section 711 for this section which was the existing section 711 of the Act, to reflect the probable intent of Congress. Prior to amendment, this section related to drug interdiction.
+    2006—[Pub. L. 109–469][/us/pl/109/469], which directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 ([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII]) be amended by “adding at the end” a new section 711, was executed by substituting the new section 711 for this section which was the existing section 711 of the Act, to reflect the probable intent of Congress. Prior to amendment, this section related to drug interdiction.
 
 ----------
 
@@ -112,12 +112,12 @@
 ----------
 ----------
 
-[/us/pl/105/277/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs711
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-691
-[/us/pl/109/469/s103/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Ff%2F1
+[/us/pl/109/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtI
 [/us/stat/120/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3507
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 
 

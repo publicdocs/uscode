@@ -235,7 +235,7 @@
 
         (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title][/us/usc/t21/s824/c], unless the Attorney General has granted a hearing on the application under [section 958(i) of this title][/us/usc/t21/s958/i].
 
-([Pub. L. 91–513, title II, § 303][/us/pl/91/513/s303], Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 93–281, § 3][/us/pl/93/281/s3], May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I, § 109][/us/pl/95/633/s109], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 98–473, title II, § 511][/us/pl/98/473/s511], Oct. 12, 1984, [98 Stat. 2073][/us/stat/98/2073]; [Pub. L. 103–200, § 3(c)][/us/pl/103/200/s3/c], Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 106–310, div. B, title XXXV, § 3502(a)][/us/pl/106/310/s3502/a], Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222]; [Pub. L. 107–273, div. B, title II, § 2501][/us/pl/107/273/s2501], Nov. 2, 2002, [116 Stat. 1803][/us/stat/116/1803]; [Pub. L. 109–56, § 1(a)][/us/pl/109/56/s1/a], (b), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591]; [Pub. L. 109–177, title VII, § 712(a)(3)][/us/pl/109/177/s712/a/3], Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263]; [Pub. L. 109–469, title XI, § 1102][/us/pl/109/469/s1102], Dec. 29, 2006, [120 Stat. 3540][/us/stat/120/3540]; [Pub. L. 110–425, § 3(b)][/us/pl/110/425/s3/b], Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824]; [Pub. L. 114–89, § 3][/us/pl/114/89/s3], Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 303, Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 93–281][/us/pl/93/281], § 3, May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 109, Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 511, Oct. 12, 1984, [98 Stat. 2073][/us/stat/98/2073]; [Pub. L. 103–200][/us/pl/103/200], § 3(c), Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 106–310, div. B, title XXXV][/us/pl/106/310/dB/tXXXV], § 3502(a), Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222]; [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2501, Nov. 2, 2002, [116 Stat. 1803][/us/stat/116/1803]; [Pub. L. 109–56][/us/pl/109/56], § 1(a), (b), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 712(a)(3), Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263]; [Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1102, Dec. 29, 2006, [120 Stat. 3540][/us/stat/120/3540]; [Pub. L. 110–425][/us/pl/110/425], § 3(b), Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824]; [Pub. L. 114–89][/us/pl/114/89], § 3, Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
 
  __References in Text__ 
 
@@ -251,23 +251,23 @@
 
     2008—Subsec. (f). [Pub. L. 110–425][/us/pl/110/425], in introductory provisions, inserted “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet” after “schedule II, III, IV, or V” and substituted “or such modification of registration if the Attorney General determines that the issuance of such registration or modification” for “if he determines that the issuance of such registration”.
 
-    2006—Subsec. (g)(2)(B)(iii). [Pub. L. 109–469, § 1102(1)][/us/pl/109/469/s1102/1], substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
+    2006—Subsec. (g)(2)(B)(iii). [Pub. L. 109–469][/us/pl/109/469], § 1102(1), substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
 
-    Subsec. (g)(2)(J)(i). [Pub. L. 109–469, § 1102(2)(A)][/us/pl/109/469/s1102/2/A], substituted “thereafter.” for “thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).”
+    Subsec. (g)(2)(J)(i). [Pub. L. 109–469][/us/pl/109/469], § 1102(2)(A), substituted “thereafter.” for “thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).”
 
-    Subsec. (g)(2)(J)(ii). [Pub. L. 109–469, § 1102(2)(B)][/us/pl/109/469/s1102/2/B], substituted “December 29, 2006” for “October 17, 2000” in introductory provisions.
+    Subsec. (g)(2)(J)(ii). [Pub. L. 109–469][/us/pl/109/469], § 1102(2)(B), substituted “December 29, 2006” for “October 17, 2000” in introductory provisions.
 
-    Subsec. (g)(2)(J)(iii). [Pub. L. 109–469, § 1102(2)(C)][/us/pl/109/469/s1102/2/C], substituted “subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective” for “this paragraph should not remain in effect, this paragraph ceases to be in effect”.
+    Subsec. (g)(2)(J)(iii). [Pub. L. 109–469][/us/pl/109/469], § 1102(2)(C), substituted “subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective” for “this paragraph should not remain in effect, this paragraph ceases to be in effect”.
 
     Subsec. (h). [Pub. L. 109–177][/us/pl/109/177] substituted “clause (iv) or (v) of [section 802(39)(A) of this title][/us/usc/t21/s802/39/A]” for “[section 802(39)(A)(iv) of this title][/us/usc/t21/s802/39/A/iv]” in introductory provisions.
 
-    2005—Subsec. (g)(2)(B)(iii). [Pub. L. 109–56, § 1(b)][/us/pl/109/56/s1/b], substituted “The total” for “In any case in which the practitioner is not in a group practice, the total”.
+    2005—Subsec. (g)(2)(B)(iii). [Pub. L. 109–56][/us/pl/109/56], § 1(b), substituted “The total” for “In any case in which the practitioner is not in a group practice, the total”.
 
-    Subsec. (g)(2)(B)(iv). [Pub. L. 109–56, § 1(a)][/us/pl/109/56/s1/a], struck out cl. (iv) which read as follows: “In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.”
+    Subsec. (g)(2)(B)(iv). [Pub. L. 109–56][/us/pl/109/56], § 1(a), struck out cl. (iv) which read as follows: “In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.”
 
-    2002—Subsec. (g)(2)(I). [Pub. L. 107–273, § 2501(1)][/us/pl/107/273/s2501/1], which directed the substitution of “on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs,” for “on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,”, was executed by making the substitution for the phrase which in the original began with “on the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “on October 17, 2000,” to reflect the probable intent of Congress.
+    2002—Subsec. (g)(2)(I). [Pub. L. 107–273][/us/pl/107/273], § 2501(1), which directed the substitution of “on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs,” for “on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,”, was executed by making the substitution for the phrase which in the original began with “on the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “on October 17, 2000,” to reflect the probable intent of Congress.
 
-    Subsec. (g)(2)(J)(i). [Pub. L. 107–273, § 2501(2)][/us/pl/107/273/s2501/2], which directed the substitution of “the date referred to in subparagraph (I),” for “October 17, 2000,” was executed by making the substitution for text which in the original read “the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “October 17, 2000,” to reflect the probable intent of Congress.
+    Subsec. (g)(2)(J)(i). [Pub. L. 107–273][/us/pl/107/273], § 2501(2), which directed the substitution of “the date referred to in subparagraph (I),” for “October 17, 2000,” was executed by making the substitution for text which in the original read “the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “October 17, 2000,” to reflect the probable intent of Congress.
 
     2000—Subsec. (g). [Pub. L. 106–310][/us/pl/106/310] designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), practitioners who dispense” for “Practitioners who dispense”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and redesignated former subpars. (A) and (B) of former par. (2) as cls. (i) and (ii), respectively, of subpar. (B) of par. (1), and added par. (2).
 
@@ -285,7 +285,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–56, § 1(c)][/us/pl/109/56/s1/c], Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591], provided that: 
+[Pub. L. 109–56][/us/pl/109/56], § 1(c), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591], provided that: 
 
 > “This section \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 2, 2005\].”
 
@@ -319,29 +319,29 @@
 [/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
 [/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
 [/us/usc/t21/s958/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958%2Fi
-[/us/pl/91/513/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs303
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1253
-[/us/pl/93/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281%2Fs3
+[/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
 [/us/stat/88/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F124
-[/us/pl/95/633/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2Fs109
+[/us/pl/95/633/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F633%2FtI
 [/us/stat/92/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3773
-[/us/pl/98/473/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs511
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2073
-[/us/pl/103/200/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs3%2Fc
+[/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/stat/107/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2336
-[/us/pl/106/310/s3502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3502%2Fa
+[/us/pl/106/310/dB/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXV
 [/us/stat/114/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1222
-[/us/pl/107/273/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2501
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1803
-[/us/pl/109/56/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56%2Fs1%2Fa
+[/us/pl/109/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56
 [/us/stat/119/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F591
-[/us/pl/109/177/s712/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs712%2Fa%2F3
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F263
-[/us/pl/109/469/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102
+[/us/pl/109/469/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtXI
 [/us/stat/120/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3540
-[/us/pl/110/425/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fb
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4824
-[/us/pl/114/89/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs3
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F701
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
@@ -352,17 +352,17 @@
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
-[/us/pl/109/469/s1102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102%2F1
-[/us/pl/109/469/s1102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102%2F2%2FA
-[/us/pl/109/469/s1102/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102%2F2%2FB
-[/us/pl/109/469/s1102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1102%2F2%2FC
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t21/s802/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F39%2FA
 [/us/usc/t21/s802/39/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F39%2FA%2Fiv
-[/us/pl/109/56/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56%2Fs1%2Fb
-[/us/pl/109/56/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56%2Fs1%2Fa
-[/us/pl/107/273/s2501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2501%2F1
-[/us/pl/107/273/s2501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2501%2F2
+[/us/pl/109/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56
+[/us/pl/109/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
@@ -371,7 +371,7 @@
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/110/425/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fj
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/109/56/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56%2Fs1%2Fc
+[/us/pl/109/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F56
 [/us/stat/119/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F591
 [/us/pl/103/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200
 [/us/pl/103/200/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F200%2Fs11

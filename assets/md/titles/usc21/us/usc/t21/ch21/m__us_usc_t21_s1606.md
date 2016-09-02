@@ -47,7 +47,7 @@
 
         Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under [section 1605 of this title][/us/usc/t21/s1605].
 
-([Pub. L. 105–230, § 7][/us/pl/105/230/s7], Aug. 13, 1998, [112 Stat. 1528][/us/stat/112/1528].)
+([Pub. L. 105–230][/us/pl/105/230], § 7, Aug. 13, 1998, [112 Stat. 1528][/us/stat/112/1528].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t21/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1605
-[/us/pl/105/230/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230%2Fs7
+[/us/pl/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F230
 [/us/stat/112/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1528
 
 

@@ -379,73 +379,73 @@
 
         (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
 
-([June 25, 1938, ch. 675, § 515][/us/act/1938-06-25/ch675/s515], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 552][/us/stat/90/552]; amended [Pub. L. 101–629][/us/pl/101/629], §§ 4(b)(1), 9(a), 18(c), Nov. 28, 1990, [104 Stat. 4515][/us/stat/104/4515], 4521, 4528; [Pub. L. 103–80, § 3(t)][/us/pl/103/80/s3/t], Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 105–115, title II][/us/pl/105/115], §§ 201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, [111 Stat. 2334][/us/stat/111/2334], 2338, 2341, 2349; [Pub. L. 107–250, title II][/us/pl/107/250], §§ 209, 210, title III, § 302(c), Oct. 26, 2002, [116 Stat. 1613][/us/stat/116/1613], 1614, 1618; [Pub. L. 108–214, § 2(d)(1)][/us/pl/108/214/s2/d/1], Apr. 1, 2004, [118 Stat. 576][/us/stat/118/576]; [Pub. L. 110–85, title VIII, § 801(b)(3)(D)][/us/pl/110/85/s801/b/3/D], Sept. 27, 2007, [121 Stat. 921][/us/stat/121/921]; [Pub. L. 112–144, title II, § 203(g)][/us/pl/112/144/s203/g], title VI, § 608(b)(1), July 9, 2012, [126 Stat. 1006][/us/stat/126/1006], 1056.)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 515, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 552][/us/stat/90/552]; amended [Pub. L. 101–629][/us/pl/101/629], §§ 4(b)(1), 9(a), 18(c), Nov. 28, 1990, [104 Stat. 4515][/us/stat/104/4515], 4521, 4528; [Pub. L. 103–80][/us/pl/103/80], § 3(t), Aug. 13, 1993, [107 Stat. 778][/us/stat/107/778]; [Pub. L. 105–115, title II][/us/pl/105/115/tII], §§ 201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, [111 Stat. 2334][/us/stat/111/2334], 2338, 2341, 2349; [Pub. L. 107–250, title II][/us/pl/107/250/tII], §§ 209, 210, title III, § 302(c), Oct. 26, 2002, [116 Stat. 1613][/us/stat/116/1613], 1614, 1618; [Pub. L. 108–214][/us/pl/108/214], § 2(d)(1), Apr. 1, 2004, [118 Stat. 576][/us/stat/118/576]; [Pub. L. 110–85, title VIII][/us/pl/110/85/tVIII], § 801(b)(3)(D), Sept. 27, 2007, [121 Stat. 921][/us/stat/121/921]; [Pub. L. 112–144, title II][/us/pl/112/144/tII], § 203(g), title VI, § 608(b)(1), July 9, 2012, [126 Stat. 1006][/us/stat/126/1006], 1056.)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–144, § 608(b)(1)(A)][/us/pl/112/144/s608/b/1/A], substituted “an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012)” for “regulation promulgated under subsection (b)”.
+    2012—Subsec. (a)(1). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(A), substituted “an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012)” for “regulation promulgated under subsection (b)”.
 
-    Subsec. (b). [Pub. L. 112–144, § 608(b)(1)(B)(i)(I)][/us/pl/112/144/s608/b/1/B/i/I], which directed substitution of “Order” for “Regulation” in the heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(i)(I), which directed substitution of “Order” for “Regulation” in the heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub. L. 112–144, § 608(b)(1)(B)(i)(II)][/us/pl/112/144/s608/b/1/B/i/II], in concluding provisions, substituted “by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in [section 360c(b) of this title][/us/usc/t21/s360c/b], and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5” for “by regulation, promulgated in accordance with this subsection” and inserted at end “Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.”
+    Subsec. (b)(1). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(i)(II), in concluding provisions, substituted “by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in [section 360c(b) of this title][/us/usc/t21/s360c/b], and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5” for “by regulation, promulgated in accordance with this subsection” and inserted at end “Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.”
 
-    Subsec. (b)(2). [Pub. L. 112–144, § 608(b)(1)(B)(ii)][/us/pl/112/144/s608/b/1/B/ii], struck out subpar. (A) designation after “(2)” and substituted “A proposed order required under paragraph (1) shall contain—” for “A proceeding for the promulgation of a regulation under paragraph (1) respecting a device shall be initiated by the publication in the Federal Register of a notice of proposed rulemaking. Such notice shall contain—” in introductory provisions, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, substituted “order” for “regulation” in subpars. (A) and (C), and struck out former subpar. (B) which read as follows: “If, within fifteen days after publication of a notice under subparagraph (A), the Secretary receives a request for a change in the classification of a device, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under [section 360c of this title][/us/usc/t21/s360c], by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under [section 360c(e) of this title][/us/usc/t21/s360c/e].”
+    Subsec. (b)(2). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(ii), struck out subpar. (A) designation after “(2)” and substituted “A proposed order required under paragraph (1) shall contain—” for “A proceeding for the promulgation of a regulation under paragraph (1) respecting a device shall be initiated by the publication in the Federal Register of a notice of proposed rulemaking. Such notice shall contain—” in introductory provisions, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, substituted “order” for “regulation” in subpars. (A) and (C), and struck out former subpar. (B) which read as follows: “If, within fifteen days after publication of a notice under subparagraph (A), the Secretary receives a request for a change in the classification of a device, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under [section 360c of this title][/us/usc/t21/s360c], by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under [section 360c(e) of this title][/us/usc/t21/s360c/e].”
 
-    Subsec. (b)(3). [Pub. L. 112–144, § 608(b)(1)(B)(iii)(I)][/us/pl/112/144/s608/b/1/B/iii/I], (II), (IV), (V), substituted “proposed order” for “proposed regulation” in two places, “paragraph (2),” for “paragraph (2) and after”, “(A) issue an administrative order under paragraph (1)” for “(A) promulgate such regulation”, “paragraph (2)(B)” for “paragraph (2)(A)(ii)”, and “issuance of the administrative order” for “promulgation of the regulation”.
+    Subsec. (b)(3). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(iii)(I), (II), (IV), (V), substituted “proposed order” for “proposed regulation” in two places, “paragraph (2),” for “paragraph (2) and after”, “(A) issue an administrative order under paragraph (1)” for “(A) promulgate such regulation”, “paragraph (2)(B)” for “paragraph (2)(A)(ii)”, and “issuance of the administrative order” for “promulgation of the regulation”.
 
-    [Pub. L. 112–144, § 608(b)(1)(B)(iii)(III)][/us/pl/112/144/s608/b/1/B/iii/III], which directed insertion of “and a meeting of a device classification panel described in [section 360c(b) of this title][/us/usc/t21/s360c/b],” after “such proposed regulation and findings,” was inserted after “such proposed order and findings,” to reflect the probable intent of Congress and amendment by [Pub. L. 112–144, § 608(b)(1)(B)(iii)(I)][/us/pl/112/144/s608/b/1/B/iii/I]. See above.
+    [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(iii)(III), which directed insertion of “and a meeting of a device classification panel described in [section 360c(b) of this title][/us/usc/t21/s360c/b],” after “such proposed regulation and findings,” was inserted after “such proposed order and findings,” to reflect the probable intent of Congress and amendment by [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(iii)(I). See above.
 
-    Subsec. (b)(4). [Pub. L. 112–144, § 608(b)(1)(B)(iv)][/us/pl/112/144/s608/b/1/B/iv], struck out par. (4) which read as follows: “The Secretary, upon his own initiative or upon petition of an interested person, may by regulation amend or revoke any regulation promulgated under this subsection. A regulation to amend or revoke a regulation under this subsection shall be promulgated in accordance with the requirements prescribed by this subsection for the promulgation of the regulation to be amended or revoked.”
+    Subsec. (b)(4). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(B)(iv), struck out par. (4) which read as follows: “The Secretary, upon his own initiative or upon petition of an interested person, may by regulation amend or revoke any regulation promulgated under this subsection. A regulation to amend or revoke a regulation under this subsection shall be promulgated in accordance with the requirements prescribed by this subsection for the promulgation of the regulation to be amended or revoked.”
 
-    Subsec. (c)(4)(A). [Pub. L. 112–144, § 203(g)][/us/pl/112/144/s203/g], substituted “379j(h)” for “379j(g)”.
+    Subsec. (c)(4)(A). [Pub. L. 112–144][/us/pl/112/144], § 203(g), substituted “379j(h)” for “379j(g)”.
 
-    Subsec. (i)(2). [Pub. L. 112–144, § 608(b)(1)(C)(i)(III)][/us/pl/112/144/s608/b/1/C/i/III], (IV), in concluding provisions, substituted “administrative order issued under this paragraph requires” for “regulation requires” and struck out at end “Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this paragraph and provide reasonable opportunity for the submission of comments on any such regulation. No regulation requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of its publication in the Federal Register as a proposed regulation.”
+    Subsec. (i)(2). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(C)(i)(III), (IV), in concluding provisions, substituted “administrative order issued under this paragraph requires” for “regulation requires” and struck out at end “Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this paragraph and provide reasonable opportunity for the submission of comments on any such regulation. No regulation requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of its publication in the Federal Register as a proposed regulation.”
 
-    [Pub. L. 112–144, § 608(b)(1)(C)(i)(I)][/us/pl/112/144/s608/b/1/C/i/I], in introductory provisions, substituted “the date that is 2 years after July 9, 2012” for “December 1, 1995” and “issue an administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in [section 360c(b) of this title][/us/usc/t21/s360c/b], and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5,” for “publish a regulation in the Federal Register”.
+    [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(C)(i)(I), in introductory provisions, substituted “the date that is 2 years after July 9, 2012” for “December 1, 1995” and “issue an administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in [section 360c(b) of this title][/us/usc/t21/s360c/b], and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5,” for “publish a regulation in the Federal Register”.
 
-    Subsec. (i)(2)(B). [Pub. L. 112–144, § 608(b)(1)(C)(i)(II)][/us/pl/112/144/s608/b/1/C/i/II], substituted “administrative order has been issued under subsection (b) (or no regulation has been promulgated under such subsection prior to July 9, 2012)” for “final regulation has been promulgated under subsection (b) of this section”.
+    Subsec. (i)(2)(B). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(C)(i)(II), substituted “administrative order has been issued under subsection (b) (or no regulation has been promulgated under such subsection prior to July 9, 2012)” for “final regulation has been promulgated under subsection (b) of this section”.
 
-    Subsec. (i)(3). [Pub. L. 112–144, § 608(b)(1)(C)(ii)][/us/pl/112/144/s608/b/1/C/ii], substituted “order requiring” for “regulation requiring” in two places and “issuance of an administrative order under subsection (b)” for “promulgation of a subsection (b) of this section regulation”.
+    Subsec. (i)(3). [Pub. L. 112–144][/us/pl/112/144], § 608(b)(1)(C)(ii), substituted “order requiring” for “regulation requiring” in two places and “issuance of an administrative order under subsection (b)” for “promulgation of a subsection (b) of this section regulation”.
 
     2007—Subsec. (c)(1)(G), (H). [Pub. L. 110–85][/us/pl/110/85] added subpar. (G) and redesignated former subpar. (G) as (H).
 
-    2004—Subsec. (c)(3). [Pub. L. 108–214, § 2(d)(1)(B)][/us/pl/108/214/s2/d/1/B], amended directory language of [Pub. L. 107–250, § 210][/us/pl/107/250/s210]. See 2002 Amendment note below.
+    2004—Subsec. (c)(3). [Pub. L. 108–214][/us/pl/108/214], § 2(d)(1)(B), amended directory language of [Pub. L. 107–250][/us/pl/107/250], § 210. See 2002 Amendment note below.
 
-    [Pub. L. 108–214, § 2(d)(1)(A)(i)][/us/pl/108/214/s2/d/1/A/i], redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4).
+    [Pub. L. 108–214][/us/pl/108/214], § 2(d)(1)(A)(i), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4).
 
-    Subsec. (c)(4). [Pub. L. 108–214, § 2(d)(1)(A)][/us/pl/108/214/s2/d/1/A], redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4) and substituted “unless a significant issue of safety” for “unless an issue of safety” in subpar. (B).
+    Subsec. (c)(4). [Pub. L. 108–214][/us/pl/108/214], § 2(d)(1)(A), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4) and substituted “unless a significant issue of safety” for “unless an issue of safety” in subpar. (B).
 
-    2002—Subsec. (a). [Pub. L. 107–250, § 302(c)(1)][/us/pl/107/250/s302/c/1], inserted “or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval” before period in concluding provisions.
+    2002—Subsec. (a). [Pub. L. 107–250][/us/pl/107/250], § 302(c)(1), inserted “or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval” before period in concluding provisions.
 
-    Subsec. (c)(2). [Pub. L. 107–250, § 302(c)(2)(B)][/us/pl/107/250/s302/c/2/B], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 107–250][/us/pl/107/250], § 302(c)(2)(B), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 107–250, § 302(c)(2)(A)][/us/pl/107/250/s302/c/2/A], redesignated par. (2) relating to Secretary’s referral of application to appropriate panel as (3).
+    Subsec. (c)(3). [Pub. L. 107–250][/us/pl/107/250], § 302(c)(2)(A), redesignated par. (2) relating to Secretary’s referral of application to appropriate panel as (3).
 
-    [Pub. L. 107–250, § 210][/us/pl/107/250/s210], as amended by [Pub. L. 108–214, § 2(d)(1)(B)][/us/pl/108/214/s2/d/1/B], inserted “Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.” at the end of the concluding provisions of par. (3) as redesignated by [Pub. L. 107–250, § 302(c)(2)(A)][/us/pl/107/250/s302/c/2/A].
+    [Pub. L. 107–250][/us/pl/107/250], § 210, as amended by [Pub. L. 108–214][/us/pl/108/214], § 2(d)(1)(B), inserted “Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.” at the end of the concluding provisions of par. (3) as redesignated by [Pub. L. 107–250][/us/pl/107/250], § 302(c)(2)(A).
 
-    [Pub. L. 107–250, § 209][/us/pl/107/250/s209], added par. (3) relating to acceptance and review of any portion of the application prior to submission.
+    [Pub. L. 107–250][/us/pl/107/250], § 209, added par. (3) relating to acceptance and review of any portion of the application prior to submission.
 
-    1997—Subsec. (d)(1)(A). [Pub. L. 105–115, § 205(c)(1)][/us/pl/105/115/s205/c/1], inserted at end “In making the determination whether to approve or deny the application, the Secretary shall rely on the conditions of use included in the proposed labeling as the basis for determining whether or not there is a reasonable assurance of safety and effectiveness, if the proposed labeling is neither false nor misleading. In determining whether or not such labeling is false or misleading, the Secretary shall fairly evaluate all material facts pertinent to the proposed labeling.”
+    1997—Subsec. (d)(1)(A). [Pub. L. 105–115][/us/pl/105/115], § 205(c)(1), inserted at end “In making the determination whether to approve or deny the application, the Secretary shall rely on the conditions of use included in the proposed labeling as the basis for determining whether or not there is a reasonable assurance of safety and effectiveness, if the proposed labeling is neither false nor misleading. In determining whether or not such labeling is false or misleading, the Secretary shall fairly evaluate all material facts pertinent to the proposed labeling.”
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 105–115, § 201(b)][/us/pl/105/115/s201/b], added cl. (iii).
+    Subsec. (d)(1)(B)(iii). [Pub. L. 105–115][/us/pl/105/115], § 201(b), added cl. (iii).
 
-    Subsec. (d)(3), (4). [Pub. L. 105–115, § 202(1)][/us/pl/105/115/s202/1], 209(b), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (d)(3), (4). [Pub. L. 105–115][/us/pl/105/115], § 202(1), 209(b), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (d)(5). [Pub. L. 105–115, § 202(2)][/us/pl/105/115/s202/2], added par. (5).
+    Subsec. (d)(5). [Pub. L. 105–115][/us/pl/105/115], § 202(2), added par. (5).
 
-    Subsec. (d)(6). [Pub. L. 105–115, § 205(c)(2)][/us/pl/105/115/s205/c/2], added par. (6).
+    Subsec. (d)(6). [Pub. L. 105–115][/us/pl/105/115], § 205(c)(2), added par. (6).
 
-    Subsec. (f)(2). [Pub. L. 105–115, § 216(b)][/us/pl/105/115/s216/b], substituted “the Secretary—” and subpars. (A) and (B) for “he shall refer the proposed protocol to the appropriate panel under [section 360c of this title][/us/usc/t21/s360c] for its recommendation respecting approval of the protocol.”
+    Subsec. (f)(2). [Pub. L. 105–115][/us/pl/105/115], § 216(b), substituted “the Secretary—” and subpars. (A) and (B) for “he shall refer the proposed protocol to the appropriate panel under [section 360c of this title][/us/usc/t21/s360c] for its recommendation respecting approval of the protocol.”
 
     1993—Subsec. (c)(2)(A). [Pub. L. 103–80][/us/pl/103/80] struck out “refer such application” after “own initiative”.
 
-    1990—Subsec. (c)(2). [Pub. L. 101–629, § 18(c)][/us/pl/101/629/s18/c], substituted “the Secretary—” for “the Secretary shall” and added subpars. (A) and (B).
+    1990—Subsec. (c)(2). [Pub. L. 101–629][/us/pl/101/629], § 18(c), substituted “the Secretary—” for “the Secretary shall” and added subpars. (A) and (B).
 
-    Subsec. (e). [Pub. L. 101–629, § 9(a)(2)][/us/pl/101/629/s9/a/2], inserted “and temporary suspension” after “Withdrawal” in heading.
+    Subsec. (e). [Pub. L. 101–629][/us/pl/101/629], § 9(a)(2), inserted “and temporary suspension” after “Withdrawal” in heading.
 
-    Subsec. (e)(3). [Pub. L. 101–629, § 9(a)(1)][/us/pl/101/629/s9/a/1], added par. (3).
+    Subsec. (e)(3). [Pub. L. 101–629][/us/pl/101/629], § 9(a)(1), added par. (3).
 
-    Subsec. (i). [Pub. L. 101–629, § 4(b)(1)][/us/pl/101/629/s4/b/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–629][/us/pl/101/629], § 4(b)(1), added subsec. (i).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -461,7 +461,7 @@
 
  __Report on Certain Devices__ 
 
-    [Pub. L. 107–250, title II, § 205][/us/pl/107/250/s205], Oct. 26, 2002, [116 Stat. 1612][/us/stat/116/1612], directed the Secretary of Health and Human Services, not later than one year after Oct. 26, 2002, to report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health, including information on the times required to log in and review original submissions and supplements, times required to review manufacturers’ replies to submissions, times to approve or clear such devices, and recommendations on improvement of performance and reassignment of responsibility for regulating such devices.
+    [Pub. L. 107–250, title II][/us/pl/107/250/tII], § 205, Oct. 26, 2002, [116 Stat. 1612][/us/stat/116/1612], directed the Secretary of Health and Human Services, not later than one year after Oct. 26, 2002, to report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health, including information on the times required to log in and review original submissions and supplements, times required to review manufacturers’ replies to submissions, times to approve or clear such devices, and recommendations on improvement of performance and reassignment of responsibility for regulating such devices.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -508,65 +508,65 @@
 [/us/usc/t21/s360i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360i
 [/us/usc/t21/s360c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fb
 [/us/usc/t21/s360c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fa
-[/us/act/1938-06-25/ch675/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs515
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F552
 [/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/stat/104/4515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4515
-[/us/pl/103/80/s3/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Ft
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F778
-[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtII
 [/us/stat/111/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2334
-[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1613
-[/us/pl/108/214/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F1
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
 [/us/stat/118/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F576
-[/us/pl/110/85/s801/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs801%2Fb%2F3%2FD
+[/us/pl/110/85/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtVIII
 [/us/stat/121/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F921
-[/us/pl/112/144/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs203%2Fg
+[/us/pl/112/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtII
 [/us/stat/126/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1006
-[/us/pl/112/144/s608/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FA
-[/us/pl/112/144/s608/b/1/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fi%2FI
-[/us/pl/112/144/s608/b/1/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fi%2FII
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fb
-[/us/pl/112/144/s608/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fii
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c
 [/us/usc/t21/s360c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fe
-[/us/pl/112/144/s608/b/1/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fiii%2FI
-[/us/pl/112/144/s608/b/1/B/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fiii%2FIII
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fb
-[/us/pl/112/144/s608/b/1/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fiii%2FI
-[/us/pl/112/144/s608/b/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FB%2Fiv
-[/us/pl/112/144/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs203%2Fg
-[/us/pl/112/144/s608/b/1/C/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FC%2Fi%2FIII
-[/us/pl/112/144/s608/b/1/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FC%2Fi%2FI
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/usc/t21/s360c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c%2Fb
-[/us/pl/112/144/s608/b/1/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FC%2Fi%2FII
-[/us/pl/112/144/s608/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs608%2Fb%2F1%2FC%2Fii
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
+[/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85
-[/us/pl/108/214/s2/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F1%2FB
-[/us/pl/107/250/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs210
-[/us/pl/108/214/s2/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F1%2FA%2Fi
-[/us/pl/108/214/s2/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F1%2FA
-[/us/pl/107/250/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs302%2Fc%2F1
-[/us/pl/107/250/s302/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs302%2Fc%2F2%2FB
-[/us/pl/107/250/s302/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs302%2Fc%2F2%2FA
-[/us/pl/107/250/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs210
-[/us/pl/108/214/s2/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214%2Fs2%2Fd%2F1%2FB
-[/us/pl/107/250/s302/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs302%2Fc%2F2%2FA
-[/us/pl/107/250/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs209
-[/us/pl/105/115/s205/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs205%2Fc%2F1
-[/us/pl/105/115/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs201%2Fb
-[/us/pl/105/115/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs202%2F1
-[/us/pl/105/115/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs202%2F2
-[/us/pl/105/115/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs205%2Fc%2F2
-[/us/pl/105/115/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs216%2Fb
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/108/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F214
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/107/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
+[/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/usc/t21/s360c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360c
 [/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
-[/us/pl/101/629/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs18%2Fc
-[/us/pl/101/629/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs9%2Fa%2F2
-[/us/pl/101/629/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs9%2Fa%2F1
-[/us/pl/101/629/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629%2Fs4%2Fb%2F1
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
+[/us/pl/101/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F629
 [/us/pl/112/144/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs203%2Fg
 [/us/pl/112/144/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs206
 [/us/usc/t21/s379i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379i
@@ -575,7 +575,7 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/107/250/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2Fs205
+[/us/pl/107/250/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F250%2FtII
 [/us/stat/116/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1612
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

@@ -37,7 +37,7 @@
 
             (B) compliance with the requirement would not cause the device to be in violation of any applicable requirement under this chapter.
 
-([June 25, 1938, ch. 675, § 521][/us/act/1938-06-25/ch675/s521], as added [Pub. L. 94–295, § 2][/us/pl/94/295/s2], May 28, 1976, [90 Stat. 574][/us/stat/90/574].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 521, as added [Pub. L. 94–295][/us/pl/94/295], § 2, May 28, 1976, [90 Stat. 574][/us/stat/90/574].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch675/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs521
-[/us/pl/94/295/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs2
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F574
 
 

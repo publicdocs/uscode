@@ -75,7 +75,7 @@
 
         Nothing in this section shall prevent a State or political subdivision thereof from enforcing, under any relevant civil or other enforcement authority, a requirement that is identical to a requirement of this chapter.
 
-([June 25, 1938, ch. 675, § 751][/us/act/1938-06-25/ch675/s751], as added [Pub. L. 105–115, title IV, § 412(a)][/us/pl/105/115/s412/a], Nov. 21, 1997, [111 Stat. 2373][/us/stat/111/2373].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 751, as added [Pub. L. 105–115, title IV][/us/pl/105/115/tIV], § 412(a), Nov. 21, 1997, [111 Stat. 2373][/us/stat/111/2373].)
 
  __References in Text__ 
 
@@ -98,8 +98,8 @@
 [/us/usc/t15/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1451
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
-[/us/act/1938-06-25/ch675/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs751
-[/us/pl/105/115/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs412%2Fa
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/105/115/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtIV
 [/us/stat/111/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2373
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670

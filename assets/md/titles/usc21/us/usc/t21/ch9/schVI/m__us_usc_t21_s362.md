@@ -29,7 +29,7 @@
 
     (f) If its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of title 15.
 
-([June 25, 1938, ch. 675, § 602][/us/act/1938-06-25/ch675/s602], [52 Stat. 1054][/us/stat/52/1054]; [Pub. L. 86–618, title I, § 102(c)(2)][/us/pl/86/618/s102/c/2], July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 91–601, § 6(f)][/us/pl/91/601/s6/f], formerly § 7(f), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 102–571, title I, § 107(12)][/us/pl/102/571/s107/12], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 602, [52 Stat. 1054][/us/stat/52/1054]; [Pub. L. 86–618, title I][/us/pl/86/618/tI], § 102(c)(2), July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 91–601][/us/pl/91/601], § 6(f), formerly § 7(f), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1205(c), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(12), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499].)
 
  __Amendments__ 
 
@@ -64,15 +64,15 @@
 
 [/us/usc/t21/s379e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379e
 [/us/usc/t21/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs361%2Fa
-[/us/act/1938-06-25/ch675/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs602
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1054
-[/us/pl/86/618/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs102%2Fc%2F2
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F398
-[/us/pl/91/601/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs6%2Ff
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1673
-[/us/pl/97/35/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1205%2Fc
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
-[/us/pl/102/571/s107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F12
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601

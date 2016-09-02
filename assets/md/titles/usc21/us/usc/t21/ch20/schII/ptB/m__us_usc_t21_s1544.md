@@ -23,7 +23,7 @@
 
         Each member of the Advisory Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
-([Pub. L. 100–690, title I, § 1044][/us/pl/100/690/s1044], as added [Pub. L. 105–20, § 2(a)(2)][/us/pl/105/20/s2/a/2], June 27, 1997, [111 Stat. 232][/us/stat/111/232].)
+([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1044, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 232][/us/stat/111/232].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/100/690/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1044
-[/us/pl/105/20/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fa%2F2
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F232
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

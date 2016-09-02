@@ -73,7 +73,7 @@
 
         (5) make, prior to the institution of libel proceedings under [section 334(a)(2) of this title][/us/usc/t21/s334/a/2], seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under [section 334(a)(2) of this title][/us/usc/t21/s334/a/2] shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
 
-([June 25, 1938, ch. 675, § 702][/us/act/1938-06-25/ch675/s702], [52 Stat. 1056][/us/stat/52/1056]; [Pub. L. 87–781, title III][/us/pl/87/781], §§ 307(b), 308, Oct. 10, 1962, [76 Stat. 796][/us/stat/76/796]; [Pub. L. 89–74, § 8(a)][/us/pl/89/74/s8/a], July 15, 1965, [79 Stat. 234][/us/stat/79/234]; [Pub. L. 91–513, title II, § 701(f)][/us/pl/91/513/s701/f], Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282]; [Pub. L. 102–300, § 6(b)(2)][/us/pl/102/300/s6/b/2], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80, § 3(dd)(2)][/us/pl/103/80/s3/dd/2], Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(12)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 107–188, title III, § 314][/us/pl/107/188/s314], June 12, 2002, [116 Stat. 674][/us/stat/116/674]; [Pub. L. 111–31, div. A, title I, § 103(g)][/us/pl/111/31/s103/g], June 22, 2009, [123 Stat. 1837][/us/stat/123/1837].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 702, [52 Stat. 1056][/us/stat/52/1056]; [Pub. L. 87–781, title III][/us/pl/87/781/tIII], §§ 307(b), 308, Oct. 10, 1962, [76 Stat. 796][/us/stat/76/796]; [Pub. L. 89–74][/us/pl/89/74], § 8(a), July 15, 1965, [79 Stat. 234][/us/stat/79/234]; [Pub. L. 91–513, title II][/us/pl/91/513/tII], § 701(f), Oct. 27, 1970, [84 Stat. 1282][/us/stat/84/1282]; [Pub. L. 102–300][/us/pl/102/300], § 6(b)(2), June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80][/us/pl/103/80], § 3(dd)(2), Aug. 13, 1993, [107 Stat. 779][/us/stat/107/779]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(12)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 314, June 12, 2002, [116 Stat. 674][/us/stat/116/674]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 103(g), June 22, 2009, [123 Stat. 1837][/us/stat/123/1837].)
 
  __Amendments__ 
 
@@ -91,9 +91,9 @@
 
     1965—Subsec. (e). [Pub. L. 89–74][/us/pl/89/74] added subsec. (e).
 
-    1962—Subsec. (a). [Pub. L. 87–781, § 307(b)][/us/pl/87/781/s307/b], inserted “the Commonwealth of Puerto Rico or” before “a Territory the Secretary”.
+    1962—Subsec. (a). [Pub. L. 87–781][/us/pl/87/781], § 307(b), inserted “the Commonwealth of Puerto Rico or” before “a Territory the Secretary”.
 
-    Subsec. (d). [Pub. L. 87–781, § 308][/us/pl/87/781/s308], added subsec. (d).
+    Subsec. (d). [Pub. L. 87–781][/us/pl/87/781], § 308, added subsec. (d).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -125,23 +125,23 @@
 [/us/usc/t21/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs334
 [/us/usc/t21/s334/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs334%2Fa%2F2
 [/us/usc/t21/s334/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs334%2Fa%2F2
-[/us/act/1938-06-25/ch675/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs702
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1056
-[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2FtIII
 [/us/stat/76/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F796
-[/us/pl/89/74/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs8%2Fa
+[/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
 [/us/stat/79/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F234
-[/us/pl/91/513/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs701%2Ff
+[/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1282
-[/us/pl/102/300/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300%2Fs6%2Fb%2F2
+[/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/stat/106/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F240
-[/us/pl/103/80/s3/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fdd%2F2
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F779
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/188/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs314
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F674
-[/us/pl/111/31/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fg
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1837
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
@@ -150,8 +150,8 @@
 [/us/pl/102/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F300
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/89/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74
-[/us/pl/87/781/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs307%2Fb
-[/us/pl/87/781/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781%2Fs308
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1

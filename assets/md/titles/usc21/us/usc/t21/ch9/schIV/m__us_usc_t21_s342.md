@@ -81,7 +81,7 @@
 
         If it is transported or offered for transport by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food under conditions that are not in compliance with regulations promulgated under [section 350e of this title][/us/usc/t21/s350e].
 
-([June 25, 1938, ch. 675, § 402][/us/act/1938-06-25/ch675/s402], [52 Stat. 1046][/us/stat/52/1046]; [Mar. 16, 1950, ch. 61, § 3(d)][/us/act/1950-03-16/ch61/s3/d], [64 Stat. 21][/us/stat/64/21]; [July 22, 1954, ch. 559, § 2][/us/act/1954-07-22/ch559/s2], [68 Stat. 511][/us/stat/68/511]; [July 9, 1956, ch. 530][/us/act/1956-07-09/ch530], [70 Stat. 512][/us/stat/70/512]; [Pub. L. 85–929, § 3(a)][/us/pl/85/929/s3/a], (b), Sept. 6, 1958, [72 Stat. 1784][/us/stat/72/1784]; [Pub. L. 86–2][/us/pl/86/2], Mar. 17, 1959, [73 Stat. 3][/us/stat/73/3]; [Pub. L. 86–618, title I][/us/pl/86/618], §§ 102(a)(1), (2), 105(c), July 12, 1960, [74 Stat. 397][/us/stat/74/397], 398, 404; [Pub. L. 89–477][/us/pl/89/477], June 29, 1966, [80 Stat. 231][/us/stat/80/231]; [Pub. L. 90–399, § 104][/us/pl/90/399/s104], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 99–252, § 10][/us/pl/99/252/s10], Feb. 27, 1986, [100 Stat. 35][/us/stat/100/35]; [Pub. L. 102–571, title I, § 107(4)][/us/pl/102/571/s107/4], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(i)][/us/pl/103/80/s3/i], Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776]; [Pub. L. 103–417][/us/pl/103/417], §§ 4, 9, Oct. 25, 1994, [108 Stat. 4328][/us/stat/108/4328], 4332; [Pub. L. 104–170, title IV, § 404][/us/pl/104/170/s404], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 107–188, title III, § 309][/us/pl/107/188/s309], June 12, 2002, [116 Stat. 673][/us/stat/116/673]; [Pub. L. 109–59, title VII, § 7202(a)][/us/pl/109/59/s7202/a], Aug. 10, 2005, [119 Stat. 1911][/us/stat/119/1911].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 402, [52 Stat. 1046][/us/stat/52/1046]; [Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 3(d), [64 Stat. 21][/us/stat/64/21]; [July 22, 1954, ch. 559][/us/act/1954-07-22/ch559], § 2, [68 Stat. 511][/us/stat/68/511]; [July 9, 1956, ch. 530][/us/act/1956-07-09/ch530], [70 Stat. 512][/us/stat/70/512]; [Pub. L. 85–929][/us/pl/85/929], § 3(a), (b), Sept. 6, 1958, [72 Stat. 1784][/us/stat/72/1784]; [Pub. L. 86–2][/us/pl/86/2], Mar. 17, 1959, [73 Stat. 3][/us/stat/73/3]; [Pub. L. 86–618, title I][/us/pl/86/618/tI], §§ 102(a)(1), (2), 105(c), July 12, 1960, [74 Stat. 397][/us/stat/74/397], 398, 404; [Pub. L. 89–477][/us/pl/89/477], June 29, 1966, [80 Stat. 231][/us/stat/80/231]; [Pub. L. 90–399][/us/pl/90/399], § 104, July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 99–252][/us/pl/99/252], § 10, Feb. 27, 1986, [100 Stat. 35][/us/stat/100/35]; [Pub. L. 102–571, title I][/us/pl/102/571/tI], § 107(4), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80][/us/pl/103/80], § 3(i), Aug. 13, 1993, [107 Stat. 776][/us/stat/107/776]; [Pub. L. 103–417][/us/pl/103/417], §§ 4, 9, Oct. 25, 1994, [108 Stat. 4328][/us/stat/108/4328], 4332; [Pub. L. 104–170, title IV][/us/pl/104/170/tIV], § 404, Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 309, June 12, 2002, [116 Stat. 673][/us/stat/116/673]; [Pub. L. 109–59, title VII][/us/pl/109/59/tVII], § 7202(a), Aug. 10, 2005, [119 Stat. 1911][/us/stat/119/1911].)
 
  __Amendments__ 
 
@@ -91,15 +91,15 @@
 
     1996—Par. (a). [Pub. L. 104–170][/us/pl/104/170] added subpar. (2) and struck out former subpar. (2) which read as follows: “(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; (iii) a color additive; or (iv) a new animal drug) which is unsafe within the meaning of [section 346 of this title][/us/usc/t21/s346], or (B) if it is a raw agricultural commodity and it bears or contains a pesticide chemical which is unsafe within the meaning of [section 346a(a) of this title][/us/usc/t21/s346a/a], or (C) if it is, or if it bears or contains, any food additive which is unsafe within the meaning of [section 348 of this title][/us/usc/t21/s348]: Provided, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under [section 346a of this title][/us/usc/t21/s346a] and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed food shall, notwithstanding the provisions of sections 346 and 348 of this title, not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed food when ready to eat is not greater than the tolerance prescribed for the raw agricultural commodity, or (D) if it is, or it bears or contains, a new animal drug (or conversion product thereof) which is unsafe within the meaning of [section 360b of this title][/us/usc/t21/s360b];”. That part of [Pub. L. 104–170][/us/pl/104/170] which directed the substitution of “or (3) if it consists” for “(3) if it consists” was executed by making the substitution for “(3) If it consists” to reflect the probable intent of Congress.
 
-    1994—Par. (f). [Pub. L. 103–417, § 4][/us/pl/103/417/s4], added par. (f).
+    1994—Par. (f). [Pub. L. 103–417][/us/pl/103/417], § 4, added par. (f).
 
-    Par. (g). [Pub. L. 103–417, § 9][/us/pl/103/417/s9], added par. (g).
+    Par. (g). [Pub. L. 103–417][/us/pl/103/417], § 9, added par. (g).
 
-    1993—Par. (a). [Pub. L. 103–80, § 3(i)(1)][/us/pl/103/80/s3/i/1], substituted a period for “; or” at end of subpar. (1) and “If it” for “if it” at beginning of par. (3). That part of [Pub. L. 103–80, § 3(i)(1)][/us/pl/103/80/s3/i/1], which directed the substitution of a period for “; or” at end of subpar. (2) could not be executed because “; or” did not appear.
+    1993—Par. (a). [Pub. L. 103–80][/us/pl/103/80], § 3(i)(1), substituted a period for “; or” at end of subpar. (1) and “If it” for “if it” at beginning of par. (3). That part of [Pub. L. 103–80][/us/pl/103/80], § 3(i)(1), which directed the substitution of a period for “; or” at end of subpar. (2) could not be executed because “; or” did not appear.
 
-    Par. (d)(1). [Pub. L. 103–80, § 3(i)(2)][/us/pl/103/80/s3/i/2], substituted “, except that this subparagraph” for “: Provided, That this clause”.
+    Par. (d)(1). [Pub. L. 103–80][/us/pl/103/80], § 3(i)(2), substituted “, except that this subparagraph” for “: Provided, That this clause”.
 
-    Par. (d)(3). [Pub. L. 103–80, § 3(i)(3)][/us/pl/103/80/s3/i/3], substituted “, except that this subparagraph shall not apply” for “: Provided, That this clause shall not apply” and “, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph” for “: And provided further, That the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this clause”.
+    Par. (d)(3). [Pub. L. 103–80][/us/pl/103/80], § 3(i)(3), substituted “, except that this subparagraph shall not apply” for “: Provided, That this clause shall not apply” and “, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph” for “: And provided further, That the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this clause”.
 
     1992—Par. (c). [Pub. L. 102–571][/us/pl/102/571] substituted “379e(a)” for “376(a)”.
 
@@ -109,11 +109,11 @@
 
     1966—Par. (d). [Pub. L. 89–477][/us/pl/89/477] permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of the consumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
 
-    1960—Par. (a). [Pub. L. 86–618, § 102(a)(1)][/us/pl/86/618/s102/a/1], substituted “other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive” for “(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)” in cl. (2)(A).
+    1960—Par. (a). [Pub. L. 86–618][/us/pl/86/618], § 102(a)(1), substituted “other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive” for “(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)” in cl. (2)(A).
 
-    Par. (c). [Pub. L. 86–618, § 102(a)(2)][/us/pl/86/618/s102/a/2], amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of [section 376 of this title][/us/usc/t21/s376] for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by [section 346 of this title][/us/usc/t21/s346], and struck out provisos which related to the use of color on oranges.
+    Par. (c). [Pub. L. 86–618][/us/pl/86/618], § 102(a)(2), amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of [section 376 of this title][/us/usc/t21/s376] for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by [section 346 of this title][/us/usc/t21/s346], and struck out provisos which related to the use of color on oranges.
 
-    Par. (d). [Pub. L. 86–618, § 105(c)][/us/pl/86/618/s105/c], substituted “authorized coloring” for “harmless coloring”.
+    Par. (d). [Pub. L. 86–618][/us/pl/86/618], § 105(c), substituted “authorized coloring” for “harmless coloring”.
 
     1959—Par. (c). [Pub. L. 86–2][/us/pl/86/2] extended from Mar. 1, 1959, to May 1, 1959, the period during which par. is inapplicable to oranges which have been colored with F.D. & C. Red 32, and inserted proviso requiring Secretary to establish regulations prescribing the conditions under which Citrus Red No. 2 may be safely used in coloring certain mature oranges, and providing for separately listing and for certification of batches of such color.
 
@@ -143,7 +143,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–929, § 6][/us/pl/85/929/s6], Sept. 6, 1958, [72 Stat. 1788][/us/stat/72/1788], as amended by [Pub. L. 87–19, § 2][/us/pl/87/19/s2], Apr. 7, 1961, [75 Stat. 42][/us/stat/75/42]; [Pub. L. 88–625, § 2][/us/pl/88/625/s2], Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002], provided that:
+[Pub. L. 85–929][/us/pl/85/929], § 6, Sept. 6, 1958, [72 Stat. 1788][/us/stat/72/1788], as amended by [Pub. L. 87–19][/us/pl/87/19], § 2, Apr. 7, 1961, [75 Stat. 42][/us/stat/75/42]; [Pub. L. 88–625][/us/pl/88/625], § 2, Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002], provided that:
 
 >     “(a) Except as provided in subsections (b) and (c) of this section, this Act \[amending this section, sections 321, 331, 346, and 348 of this title, and [section 210 of Title 42][/us/usc/t42/s210], The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 451 of this title\] shall take effect on the date of its enactment \[Sept. 6, 1958\].
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1954 Amendment__ 
 
-[Act July 22, 1954, ch. 559, § 5][/us/act/1954-07-22/ch559/s5], [68 Stat. 517][/us/stat/68/517], provided that: 
+[Act July 22, 1954, ch. 559][/us/act/1954-07-22/ch559], § 5, [68 Stat. 517][/us/stat/68/517], provided that: 
 
 > “This Act \[amending this section and [section 321 of this title][/us/usc/t21/s321] and enacting sections 346a and 346b of this title\] shall take effect upon the date of its enactment \[July 22, 1954\], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act \[[section 346a of this title][/us/usc/t21/s346a]\], the amendment to section 402(a) of such Act \[par. (a) of this section\] made by section 2 of this Act shall not be effective—
 
@@ -179,7 +179,7 @@
 
  __Short Title__ 
 
-[Pub. L. 88–625, § 1][/us/pl/88/625/s1], Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002], provided: 
+[Pub. L. 88–625][/us/pl/88/625], § 1, Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002], provided: 
 
 > “That this Act \[amending provisions set out as a note under this section and [section 135 of Title 7][/us/usc/t7/s135], Agriculture\] may be cited as the ‘Food Additives Transitional Provisions Amendment of 1964’.”
 
@@ -189,13 +189,13 @@
 
  __Updating Guidance Relating to Fish and Fisheries Products Hazards and Controls__ 
 
-[Pub. L. 111–353, title I, § 103(h)][/us/pl/111/353/s103/h], Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 103(h), Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that: 
 
 > “The Secretary shall, not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], update the Fish and Fisheries Products Hazards and Control Guidance to take into account advances in technology that have occurred since the previous publication of such Guidance by the Secretary.”
 
  __Guidance Relating to Post Harvest Processing of Raw Oysters__ 
 
-[Pub. L. 111–353, title I, § 114][/us/pl/111/353/s114], Jan. 4, 2011, [124 Stat. 3921][/us/stat/124/3921], provided that:
+[Pub. L. 111–353, title I][/us/pl/111/353/tI], § 114, Jan. 4, 2011, [124 Stat. 3921][/us/stat/124/3921], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -239,7 +239,7 @@
 
  __Domestic Fish or Fish Product Compliance With Food Safety Standards or Procedures Deemed To Have Met Requirements for Federal Commodity Purchase Programs__ 
 
-[Pub. L. 104–180, title VII, § 733][/us/pl/104/180/s733], Aug. 6, 1996, [110 Stat. 1601][/us/stat/110/1601], provided that: 
+[Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 733, Aug. 6, 1996, [110 Stat. 1601][/us/stat/110/1601], provided that: 
 
 > “Hereafter, notwithstanding any other provision of law, any domestic fish or fish product produced in compliance with food safety standards or procedures accepted by the Food and Drug Administration as satisfying the requirements of the ‘Procedures for the Safe and Sanitary Processing and Importing of Fish and Fish Products’ (published by the Food and Drug Administration as a final regulation in the Federal Register of December 18, 1995), shall be deemed to have met any inspection requirements of the Department of Agriculture or other Federal agency for any Federal commodity purchase program, including the program authorized under [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([7 U.S.C. 612c][/us/usc/t7/s612c]) except that the Department of Agriculture or other Federal agency may utilize lot inspection to establish a reasonable degree of certainty that fish or fish products purchased under a Federal commodity purchase program, including the program authorized under [section 32 of the Act of August 24, 1935][/us/act/1935-08-24/s32] ([7 U.S.C. 612c][/us/usc/t7/s612c]), meet Federal product specifications.”
 
@@ -258,37 +258,37 @@
 [/us/usc/t21/s379e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379e%2Fa
 [/us/usc/t21/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fa
 [/us/usc/t21/s350e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350e
-[/us/act/1938-06-25/ch675/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs402
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1046
-[/us/act/1950-03-16/ch61/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs3%2Fd
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F21
-[/us/act/1954-07-22/ch559/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559%2Fs2
+[/us/act/1954-07-22/ch559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559
 [/us/stat/68/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F511
 [/us/act/1956-07-09/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch530
 [/us/stat/70/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F512
-[/us/pl/85/929/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs3%2Fa
+[/us/pl/85/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929
 [/us/stat/72/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1784
 [/us/pl/86/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F2
 [/us/stat/73/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F3
-[/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
+[/us/pl/86/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2FtI
 [/us/stat/74/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F397
 [/us/pl/89/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F477
 [/us/stat/80/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F231
-[/us/pl/90/399/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399%2Fs104
+[/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/stat/82/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F352
-[/us/pl/99/252/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs10
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F35
-[/us/pl/102/571/s107/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2Fs107%2F4
+[/us/pl/102/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571%2FtI
 [/us/stat/106/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4499
-[/us/pl/103/80/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fi
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/stat/107/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F776
 [/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/stat/108/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4328
-[/us/pl/104/170/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2Fs404
+[/us/pl/104/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170%2FtIV
 [/us/stat/110/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1514
-[/us/pl/107/188/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs309
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F673
-[/us/pl/109/59/s7202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7202%2Fa
+[/us/pl/109/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVII
 [/us/stat/119/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1911
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
@@ -299,21 +299,21 @@
 [/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
 [/us/usc/t21/s360b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360b
 [/us/pl/104/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F170
-[/us/pl/103/417/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs4
-[/us/pl/103/417/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs9
-[/us/pl/103/80/s3/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fi%2F1
-[/us/pl/103/80/s3/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fi%2F1
-[/us/pl/103/80/s3/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fi%2F2
-[/us/pl/103/80/s3/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80%2Fs3%2Fi%2F3
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
+[/us/pl/103/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F80
 [/us/pl/102/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F571
 [/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/pl/90/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F399
 [/us/pl/89/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F477
-[/us/pl/86/618/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs102%2Fa%2F1
-[/us/pl/86/618/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs102%2Fa%2F2
+[/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
+[/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
 [/us/usc/t21/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs376
 [/us/usc/t21/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346
-[/us/pl/86/618/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618%2Fs105%2Fc
+[/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
 [/us/pl/86/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F2
 [/us/pl/85/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929
 [/us/usc/t21/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348
@@ -330,11 +330,11 @@
 [/us/usc/t21/s379e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379e
 [/us/pl/86/139/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F139%2Fs3%2Fb
 [/us/stat/73/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F288
-[/us/pl/85/929/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs6
+[/us/pl/85/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929
 [/us/stat/72/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1788
-[/us/pl/87/19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F19%2Fs2
+[/us/pl/87/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F19
 [/us/stat/75/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F42
-[/us/pl/88/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F625%2Fs2
+[/us/pl/88/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F625
 [/us/stat/78/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1002
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
 [/us/usc/t21/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346
@@ -342,7 +342,7 @@
 [/us/usc/t21/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348
 [/us/usc/t21/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348
 [/us/usc/t21/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348
-[/us/act/1954-07-22/ch559/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559%2Fs5
+[/us/act/1954-07-22/ch559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch559
 [/us/stat/68/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F517
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s346a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs346a
@@ -350,16 +350,16 @@
 [/us/act/1939-06-23/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-23%2Fch242
 [/us/stat/53/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F853
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/88/625/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F625%2Fs1
+[/us/pl/88/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F625
 [/us/stat/78/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1002
 [/us/usc/t7/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/111/353/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fh
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3898
-[/us/pl/111/353/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs114
+[/us/pl/111/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtI
 [/us/stat/124/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3921
 [/us/pl/111/353/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fh
-[/us/pl/104/180/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs733
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1601
 [/us/act/1935-08-24/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-24%2Fs32
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c

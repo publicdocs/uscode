@@ -17,7 +17,7 @@
 
     It is hereby declared to be the policy of the Congress to provide for the inspection of poultry and poultry products and otherwise regulate the processing and distribution of such articles as hereinafter prescribed to prevent the movement or sale in interstate or foreign commerce of, or the burdening of such commerce by, poultry products which are adulterated or misbranded. It is the intent of Congress that when poultry and poultry products are condemned because of disease, the reason for condemnation in such instances shall be supported by scientific fact, information, or criteria, and such condemnation under this chapter shall be achieved through uniform inspection standards and uniform applications thereof.
 
-([Pub. L. 85–172, § 3][/us/pl/85/172/s3], Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441]; [Pub. L. 90–492, § 3][/us/pl/90/492/s3], Aug. 18, 1968, [82 Stat. 792][/us/stat/82/792].)
+([Pub. L. 85–172][/us/pl/85/172], § 3, Aug. 28, 1957, [71 Stat. 441][/us/stat/71/441]; [Pub. L. 90–492][/us/pl/90/492], § 3, Aug. 18, 1968, [82 Stat. 792][/us/stat/82/792].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/172/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172%2Fs3
+[/us/pl/85/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F172
 [/us/stat/71/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F441
-[/us/pl/90/492/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492%2Fs3
+[/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/stat/82/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F792
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492
 [/us/pl/90/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F492

@@ -45,7 +45,7 @@
 
         The Secretary of the Treasury may issue such other regulations or orders, including regulations prescribing recordkeeping, reporting, and production of documents, definitions, licenses, instructions, or directions, as may be necessary for the exercise of the authorities granted by this chapter.
 
-([Pub. L. 106–120, title VIII, § 806][/us/pl/106/120/s806], Dec. 3, 1999, [113 Stat. 1631][/us/stat/113/1631].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 806, Dec. 3, 1999, [113 Stat. 1631][/us/stat/113/1631].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/106/120/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs806
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1631
 
 

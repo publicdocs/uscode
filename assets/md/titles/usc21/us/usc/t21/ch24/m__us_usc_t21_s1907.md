@@ -45,7 +45,7 @@
 
         The term “significant foreign narcotics trafficker” means any foreign person that plays a significant role in international narcotics trafficking, that the President has determined to be appropriate for sanctions pursuant to this chapter, and that the President has publicly identified in the report required under subsection (b) or (h)(1) of [section 1903 of this title][/us/usc/t21/s1903].
 
-([Pub. L. 106–120, title VIII, § 808][/us/pl/106/120/s808], Dec. 3, 1999, [113 Stat. 1632][/us/stat/113/1632].)
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 808, Dec. 3, 1999, [113 Stat. 1632][/us/stat/113/1632].)
 
 ----------
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t21/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1903
-[/us/pl/106/120/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs808
+[/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1632
 
 
