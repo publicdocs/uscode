@@ -329,7 +329,15 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085a" data-uslm-ref="/us/usc/t29/s1085a">1085a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085b" data-uslm-ref="/us/usc/t29/s1085b">1085b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1086" data-uslm-ref="/us/usc/t29/s1086">1086.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085a" data-uslm-ref="/us/usc/t29/s1085a">1085a.</a>  </td>
+
+    <td> Minimum funding standards.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085b" data-uslm-ref="/us/usc/t29/s1085b">1085b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1086" data-uslm-ref="/us/usc/t29/s1086">1086.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1036,6 +1044,14 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1304" data-uslm-ref="/us/usc/t29/s1304">1304.</a>  </td>
 
     <td> Participant and Plan Sponsor Advocate.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1304a" data-uslm-ref="/us/usc/t29/s1304a">1304a.</a>  </td>
+
+    <td> Sponsor education and assistance.  </td>
 
   </tr>
 

@@ -47,11 +47,11 @@
 
         (2) __Subsection not to apply if waiver pending__ 
 
-            This subsection shall not apply to any failure if the employer has filed a waiver request under [section 1083 of this title][/us/usc/t29/s1083] with respect to the plan year to which the required installment relates, except that if the waiver request is denied, notice under paragraph (1) shall be provided within 60 days after the date of such denial.
+            This subsection shall not apply to any failure if the employer has filed a waiver request under section 1083 or 1085a of this title with respect to the plan year to which the required installment relates, except that if the waiver request is denied, notice under paragraph (1) shall be provided within 60 days after the date of such denial.
 
         (3) __Definitions__ 
 
-            For purposes of this subsection, the terms “required installment” and “due date” have the same meanings given such terms by [section 1083(j) of this title][/us/usc/t29/s1083/j].
+            For purposes of this subsection, the terms “required installment” and “due date” have the same meanings given such terms by section 1083(j) or 1085a(f) of this title, whichever is applicable.
 
     (e) __Notice of transfer of excess pension assets to health benefits accounts__ 
 
@@ -180,6 +180,18 @@
                 (iii) __Special rule for plan years beginning before 2012__ 
 
                     In the case of a preceding plan year referred to in clause (i)(III) which begins before January 1, 2012, the information described in such clause shall be provided only without regard to [section 1083(h)(2)(C)(iv) of this title][/us/usc/t29/s1083/h/2/C/iv].
+
+            (E) __Effect of CSEC plan rules on plan funding__ 
+
+            In the case of a CSEC plan, each notice under paragraph (1) shall include—
+
+                (i) a statement that different rules apply to CSEC plans than apply to single-employer plans,
+
+                (ii) for the first 2 plan years beginning after December 31, 2013, a statement that, as a result of changes in the law made by the Cooperative and Small Employer Charity Pension Flexibility Act, the contributions to the plan may have changed, and
+
+                (iii) in the case of a CSEC plan that is in funding restoration status for the plan year, a statement that the plan is in funding restoration status for such plan year.
+
+                A copy of the statement required under clause (iii) shall be provided to the Secretary, the Secretary of the Treasury, and the Director of the Pension Benefit Guaranty Corporation.
 
         (3) __Time for providing notice__ 
 
@@ -411,7 +423,7 @@
 
         For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see [section 1204 of this title][/us/usc/t29/s1204].
 
-([Pub. L. 93–406, title I, § 101][/us/pl/93/406/s101], Sept. 2, 1974, [88 Stat. 840][/us/stat/88/840]; [Pub. L. 100–203, title IX, § 9304(d)][/us/pl/100/203/s9304/d], Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)][/us/pl/101/508/s12012/d/1], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–66, title IV, § 4301(b)(1)][/us/pl/103/66/s4301/b/1], Aug. 10, 1993, [107 Stat. 375][/us/stat/107/375]; [Pub. L. 103–465, title VII, § 731(c)(4)(A)][/us/pl/103/465/s731/c/4/A], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1421(d)(1)][/us/pl/104/188/s1421/d/1], Aug. 20, 1996, [110 Stat. 1799][/us/stat/110/1799]; [Pub. L. 104–191, title I, § 101(e)(1)][/us/pl/104/191/s101/e/1], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(B)][/us/pl/104/204/s603/b/3/B], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(a)][/us/pl/105/34/s1503/a], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061]; [Pub. L. 105–200, title IV, § 401(h)(1)(A)][/us/pl/105/200/s401/h/1/A], July 16, 1998, [112 Stat. 668][/us/stat/112/668]; [Pub. L. 106–170, title V, § 535(a)(2)(A)][/us/pl/106/170/s535/a/2/A], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–204, title III, § 306(b)(1)][/us/pl/107/204/s306/b/1], July 30, 2002, [116 Stat. 780][/us/stat/116/780]; [Pub. L. 108–218, title I, § 103(a)][/us/pl/108/218/s103/a], title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 609; [Pub. L. 108–357, title VII, § 709(a)(1)][/us/pl/108/357/s709/a/1], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815][/us/stat/120/815], 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5104, 5105; [Pub. L. 111–148, title VI, § 6606][/us/pl/111/148/s6606], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848][/us/stat/126/848], 859, 863.)
+([Pub. L. 93–406, title I, § 101][/us/pl/93/406/s101], Sept. 2, 1974, [88 Stat. 840][/us/stat/88/840]; [Pub. L. 100–203, title IX, § 9304(d)][/us/pl/100/203/s9304/d], Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)][/us/pl/101/508/s12012/d/1], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–66, title IV, § 4301(b)(1)][/us/pl/103/66/s4301/b/1], Aug. 10, 1993, [107 Stat. 375][/us/stat/107/375]; [Pub. L. 103–465, title VII, § 731(c)(4)(A)][/us/pl/103/465/s731/c/4/A], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1421(d)(1)][/us/pl/104/188/s1421/d/1], Aug. 20, 1996, [110 Stat. 1799][/us/stat/110/1799]; [Pub. L. 104–191, title I, § 101(e)(1)][/us/pl/104/191/s101/e/1], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(B)][/us/pl/104/204/s603/b/3/B], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(a)][/us/pl/105/34/s1503/a], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061]; [Pub. L. 105–200, title IV, § 401(h)(1)(A)][/us/pl/105/200/s401/h/1/A], July 16, 1998, [112 Stat. 668][/us/stat/112/668]; [Pub. L. 106–170, title V, § 535(a)(2)(A)][/us/pl/106/170/s535/a/2/A], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–204, title III, § 306(b)(1)][/us/pl/107/204/s306/b/1], July 30, 2002, [116 Stat. 780][/us/stat/116/780]; [Pub. L. 108–218, title I, § 103(a)][/us/pl/108/218/s103/a], title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 609; [Pub. L. 108–357, title VII, § 709(a)(1)][/us/pl/108/357/s709/a/1], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815][/us/stat/120/815], 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5104, 5105; [Pub. L. 111–148, title VI, § 6606][/us/pl/111/148/s6606], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848][/us/stat/126/848], 859, 863; [Pub. L. 113–97, title I, § 104(a)(1)][/us/pl/113/97/s104/a/1], (b), Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120].)
 
  __References in Text__ 
 
@@ -419,7 +431,15 @@
 
     The MAP–21, referred to in subsecs. (f)(2)(D)(i)(I) and (II), also known as the Moving Ahead for Progress in the 21st Century Act, is [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 405][/us/stat/126/405]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
 
+    The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is [Pub. L. 113–97][/us/pl/113/97], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101]. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
+
  __Amendments__ 
+
+    2014—Subsec. (d)(2). [Pub. L. 113–97, § 104(b)(1)][/us/pl/113/97/s104/b/1], substituted “section 1083 or 1085a of this title” for “[section 1083 of this title][/us/usc/t29/s1083]”.
+
+    Subsec. (d)(3). [Pub. L. 113–97, § 104(b)(2)][/us/pl/113/97/s104/b/2], substituted “section 1083(j) or 1085a(f) of this title, whichever is applicable” for “[section 1083(j) of this title][/us/usc/t29/s1083/j]”.
+
+    Subsec. (f)(2)(E). [Pub. L. 113–97, § 104(a)(1)][/us/pl/113/97/s104/a/1], added subpar. (E).
 
     2012—Subsec. (e)(1). [Pub. L. 112–141, § 40242(e)(14)][/us/pl/112/141/s40242/e/14], inserted “or applicable life insurance account” after “health benefits account” and “or applicable life insurance benefit liabilities” after “health benefits liabilities”.
 
@@ -530,6 +550,10 @@
     Subsec. (d)(1). [Pub. L. 101–239, § 7881(b)(5)(A)][/us/pl/101/239/s7881/b/5/A], substituted “an employer maintaining a plan” for “an employer of a plan”.
 
     1987—Subsecs. (d), (e). [Pub. L. 100–203][/us/pl/100/203] added subsec. (d) and redesignated former subsec. (d) as (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -683,6 +707,10 @@
 
  __Model Notices and Forms__ 
 
+[Pub. L. 113–97, title I, § 104(a)(2)][/us/pl/113/97/s104/a/2], Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120], provided that: 
+
+> “The Secretary of Labor may modify the model notice required to be published under section 501(c) of the Pension Protection Act of 2006 \[[section 501(c) of Pub. L. 109–280][/us/pl/109/280/s501/c], set out below\] to include the information described in section 101(f)(2)(E) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1021(f)(2)(E)][/us/usc/t29/s1021/f/2/E]\], as added by this subsection.”
+
 [Pub. L. 112–141, div. D, title II, § 40211(b)(2)(B)][/us/pl/112/141/s40211/b/2/B], July 6, 2012, [126 Stat. 849][/us/stat/126/849], provided that: 
 
 > “The Secretary of Labor shall modify the model notice required to be published under section 501(c) of the Pension Protection Act of 2006 \[[section 501(c) of Pub. L. 109–280][/us/pl/109/280/s501/c], set out below\] to prominently include the information described in section 101(f)(2)(D) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1021(f)(2)(D)][/us/usc/t29/s1021/f/2/D]\], as added by this paragraph.”
@@ -719,8 +747,6 @@
 [/us/usc/t29/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1023
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/usc/t29/s1056/d/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fd%2F3%2FK
-[/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
-[/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
 [/us/usc/t26/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs420
 [/us/usc/t29/s1083/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fd%2F2
 [/us/usc/t29/s1085/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fi
@@ -806,6 +832,8 @@
 [/us/stat/124/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F781
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F848
+[/us/pl/113/97/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fa%2F1
+[/us/stat/128/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1120
 [/us/usc/t29/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa%2F1
 [/us/usc/t29/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa
 [/us/pl/105/34/s1503/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1503%2Fb%2F1%2FB
@@ -813,6 +841,14 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F405
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
+[/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/97/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fb%2F1
+[/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
+[/us/pl/113/97/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fb%2F2
+[/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
+[/us/pl/113/97/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fa%2F1
 [/us/pl/112/141/s40242/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F14
 [/us/pl/112/141/s40242/e/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F14%2FA
 [/us/pl/112/141/s40241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fb%2F1
@@ -864,6 +900,9 @@
 [/us/pl/101/239/s7894/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fb%2F2
 [/us/pl/101/239/s7881/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fb%2F5%2FA
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/112/141/s40211/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F2%2FA
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
@@ -952,6 +991,10 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/pl/113/97/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fa%2F2
+[/us/stat/128/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1120
+[/us/pl/109/280/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs501%2Fc
+[/us/usc/t29/s1021/f/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F2%2FE
 [/us/pl/112/141/s40211/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F2%2FB
 [/us/stat/126/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F849
 [/us/pl/109/280/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs501%2Fc

@@ -25,17 +25,19 @@
 
         For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
 
-            (A) in the case of a defined benefit plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under [section 1083 of this title][/us/usc/t29/s1083] for the plan for the plan year,
+            (A) in the case of a defined benefit plan which is a single-employer plan (other than a CSEC plan), the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under [section 1083 of this title][/us/usc/t29/s1083] for the plan for the plan year,
 
-            (B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan, and
+            (B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
-            (C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under [section 1084 of this title][/us/usc/t29/s1084] as of the end of the plan year.
+            (C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under [section 1084 of this title][/us/usc/t29/s1084] as of the end of the plan year, and
+
+            (D) in the case of a CSEC plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under [section 1085a of this title][/us/usc/t29/s1085a] as of the end of the plan year.
 
     (b) __Liability for contributions__ 
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of [section 1083(j) of this title][/us/usc/t29/s1083/j]) shall be paid by the employer responsible for making contributions to or under the plan.
+            Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of [section 1083(j) of this title][/us/usc/t29/s1083/j] or under [section 1085a(f) of this title][/us/usc/t29/s1085a/f]) shall be paid by the employer responsible for making contributions to or under the plan.
 
         (2) __Joint and several liability where employer member of controlled group__ 
 
@@ -53,7 +55,7 @@
 
             If—
 
-                (i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+                (i) an employer is (or in the case of a multiemployer plan or a CSEC plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
                 (ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
@@ -63,9 +65,11 @@
 
             If a waiver is granted under subparagraph (A) for any plan year—
 
-                (i) in the case of a single-employer plan, the minimum required contribution under [section 1083 of this title][/us/usc/t29/s1083] for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under [section 1083(e) of this title][/us/usc/t29/s1083/e], and
+                (i) in the case of a single-employer plan (other than a CSEC plan), the minimum required contribution under [section 1083 of this title][/us/usc/t29/s1083] for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under [section 1083(e) of this title][/us/usc/t29/s1083/e],
 
-                (ii) in the case of a multiemployer plan, the funding standard account shall be credited under [section 1084(b)(3)(C) of this title][/us/usc/t29/s1084/b/3/C] with the amount of the waived funding deficiency and such amount shall be amortized as required under [section 1084(b)(2)(C) of this title][/us/usc/t29/s1084/b/2/C].
+                (ii) in the case of a multiemployer plan, the funding standard account shall be credited under [section 1084(b)(3)(C) of this title][/us/usc/t29/s1084/b/3/C] with the amount of the waived funding deficiency and such amount shall be amortized as required under [section 1084(b)(2)(C) of this title][/us/usc/t29/s1084/b/2/C], and
+
+                (iii) in the case of a CSEC plan, the funding standard account shall be credited under [section 1085a(b)(3)(C) of this title][/us/usc/t29/s1085a/b/3/C] with the amount of the waived funding deficiency and such amount shall be amortized as required under [section 1085a(b)(2)(C) of this title][/us/usc/t29/s1085a/b/2/C].
 
             (C) __Waiver of amortized portion not allowed__ 
 
@@ -93,7 +97,7 @@
 
                 (i) __In general__ 
 
-                    Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of [section 1301(a)(15) of this title][/us/usc/t29/s1301/a/15]) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1).
+                    Except as provided in subparagraph (C), the Secretary of the Treasury may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of [section 1301(a)(15) of this title][/us/usc/t29/s1301/a/15]) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under [section 1085a(d) of this title][/us/usc/t29/s1085a/d].
 
                 (ii) __Special rules__ 
 
@@ -101,13 +105,13 @@
 
             (B) __Consultation with the Pension Benefit Guaranty Corporation__ 
 
-            Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection with respect to a plan described in subparagraph (A)(i)—
+            Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection or an extension under 1085a(d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of this title with respect to a plan described in subparagraph (A)(i)—
 
                 (i)
 
                  provide the Pension Benefit Guaranty Corporation with—
 
-                    (I) notice of the completed application for any waiver or modification, and
+                    (I) notice of the completed application for any waiver, modification, or extension, and
 
                     (II) an opportunity to comment on such application within 30 days after receipt of such notice, and
 
@@ -121,21 +125,23 @@
 
                 Information provided to the Corporation under this subparagraph shall be considered tax return information and subject to the safeguarding and reporting requirements of [section 6103(p) of title 26][/us/usc/t26/s6103/p].
 
-            (C) __Exception for certain waivers__ 
+            (C) __Exception for certain waivers or extensions__ 
 
                 (i) __In general__ 
 
                 The preceding provisions of this paragraph shall not apply to any plan with respect to which the sum of—
 
-                    (I) the aggregate unpaid minimum required contributions for the plan year and all preceding plan years, and
+                    (I) the aggregate unpaid minimum required contributions for the plan year and all preceding plan years, or the accumulated funding deficiency under [section 1085a of this title][/us/usc/t29/s1085a], whichever is applicable,
 
-                    (II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under [section 1083(e)(2) of this title][/us/usc/t29/s1083/e/2],
+                    (II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 1083(e)(2) or 1085a(b)(2)(C) of this title, whichever is applicable, and
+
+                    (III) the total amounts not paid by reason of an extension in effect under [section 1085a(d) of this title][/us/usc/t29/s1085a/d],
 
                  is less than $1,000,000.
 
-                (ii) __Treatment of waivers for which applications are pending__ 
+                (ii) __Treatment of waivers or extensions for which applications are pending__ 
 
-                    The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
+                    The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers or extensions with respect to the minimum funding standard under this subsection which are pending with respect to such plan were denied.
 
                 (iii) __Unpaid minimum required contribution__ 
 
@@ -179,7 +185,7 @@
 
             (A) __In general__ 
 
-                No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under [section 1084(d) of this title][/us/usc/t29/s1084/d] is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+                No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under [section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d] is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
             (B) __Exception__ 
 
@@ -211,13 +217,13 @@
 
             (C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-            shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under [section 1084(d) of this title][/us/usc/t29/s1084/d]) is unavailable or inadequate.
+            shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under [section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]) is unavailable or inadequate.
 
         (3) __Controlled group__ 
 
             For purposes of this section, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26][/us/usc/t26/s414].
 
-([Pub. L. 93–406, title I, § 302][/us/pl/93/406/s302], as added and amended [Pub. L. 109–280, title I, § 101(b)][/us/pl/109/280/s101/b], title II, § 202(d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 885; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(1), 102(b)(1)(A), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5100.)
+([Pub. L. 93–406, title I, § 302][/us/pl/93/406/s302], as added and amended [Pub. L. 109–280, title I, § 101(b)][/us/pl/109/280/s101/b], title II, § 202(d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 885; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(1), 102(b)(1)(A), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5100; [Pub. L. 113–97, title I, § 102(b)(1)][/us/pl/113/97/s102/b/1], (2), Apr. 7, 2014, [128 Stat. 1115][/us/stat/128/1115].)
 
  __Amendment of Section__ 
 
@@ -229,6 +235,42 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–97, § 102(b)(2)(M)][/us/pl/113/97/s102/b/2/M], substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
+
+    Subsec. (a)(2)(D). [Pub. L. 113–97, § 102(b)(1)][/us/pl/113/97/s102/b/1], added subpar. (D).
+
+    Subsec. (b)(1). [Pub. L. 113–97, § 102(b)(2)(B)][/us/pl/113/97/s102/b/2/B], substituted “[section 1083(j) of this title][/us/usc/t29/s1083/j] or under [section 1085a(f) of this title][/us/usc/t29/s1085a/f]” for “[section 1083(j) of this title][/us/usc/t29/s1083/j]”.
+
+    Subsec. (c)(1)(A)(i). [Pub. L. 113–97, § 102(b)(2)(A)][/us/pl/113/97/s102/b/2/A], substituted “multiemployer plan or a CSEC plan, 10 percent” for “multiemployer plan, 10 percent”.
+
+    Subsec. (c)(1)(B)(i). [Pub. L. 113–97, § 102(b)(2)(M)][/us/pl/113/97/s102/b/2/M], substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
+
+    Subsec. (c)(1)(B)(iii). [Pub. L. 113–97, § 102(b)(2)(C)][/us/pl/113/97/s102/b/2/C], added cl. (iii).
+
+    Subsec. (c)(4)(A)(i). [Pub. L. 113–97, § 102(b)(2)(D)][/us/pl/113/97/s102/b/2/D], substituted “under paragraph (1) or for granting an extension under [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “under paragraph (1)”.
+
+    Subsec. (c)(4)(B). [Pub. L. 113–97, § 102(b)(2)(E)][/us/pl/113/97/s102/b/2/E], substituted “waiver under this subsection or an extension under 1085a(d) of this title” for “waiver under this subsection” in introductory provisions.
+
+    Subsec. (c)(4)(B)(i)(I). [Pub. L. 113–97, § 102(b)(2)(F)][/us/pl/113/97/s102/b/2/F], substituted “waiver, modification, or extension” for “waiver or modification”.
+
+    Subsec. (c)(4)(C). [Pub. L. 113–97, § 102(b)(2)(G)][/us/pl/113/97/s102/b/2/G], substituted “waivers or extensions” for “waivers” in heading.
+
+    Subsec. (c)(4)(C)(i)(I). [Pub. L. 113–97, § 102(b)(2)(I)][/us/pl/113/97/s102/b/2/I], substituted “or the accumulated funding deficiency under [section 1085a of this title][/us/usc/t29/s1085a], whichever is applicable,” for “and” at end.
+
+    Subsec. (c)(4)(C)(i)(II). [Pub. L. 113–97, § 102(b)(2)(J)][/us/pl/113/97/s102/b/2/J], substituted “section 1083(e)(2) or 1085a(b)(2)(C) of this title, whichever is applicable, and” for “[section 1083(e)(2) of this title][/us/usc/t29/s1083/e/2],”.
+
+    Subsec. (c)(4)(C)(i)(III). [Pub. L. 113–97, § 102(b)(2)(K)][/us/pl/113/97/s102/b/2/K], added subcl. (III).
+
+    Subsec. (c)(4)(C)(ii). [Pub. L. 113–97, § 102(b)(2)(L)][/us/pl/113/97/s102/b/2/L], substituted “for waivers or extensions with respect to” for “for waivers of”.
+
+    [Pub. L. 113–97, § 102(b)(2)(G)][/us/pl/113/97/s102/b/2/G], substituted “waivers or extensions” for “waivers” in heading.
+
+    Subsec. (c)(7)(A). [Pub. L. 113–97, § 102(b)(2)(H)][/us/pl/113/97/s102/b/2/H], substituted “[section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “[section 1084(d) of this title][/us/usc/t29/s1084/d]”.
+
+    Subsec. (d)(2). [Pub. L. 113–97, § 102(b)(2)(H)][/us/pl/113/97/s102/b/2/H], substituted “[section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “[section 1084(d) of this title][/us/usc/t29/s1084/d]” in concluding provisions.
+
+    [Pub. L. 113–97, § 102(b)(2)(A)][/us/pl/113/97/s102/b/2/A], substituted “multiemployer plan or a CSEC plan” for “multiemployer plan” in concluding provisions.
+
     2008—Subsec. (b)(3). [Pub. L. 110–458, § 102(b)(1)(A)][/us/pl/110/458/s102/b/1/A], substituted “the plan sponsor adopts” for “the plan adopts”.
 
     Subsec. (c)(1)(A)(i). [Pub. L. 110–458, § 101(a)(1)(A)][/us/pl/110/458/s101/a/1/A], substituted “the plan are” for “the plan is”.
@@ -238,6 +280,10 @@
     Subsec. (d)(1). [Pub. L. 110–458, § 101(a)(1)(C)][/us/pl/110/458/s101/a/1/C], struck out “, the valuation date,” after “funding method”.
 
     2006—Subsec. (b)(3). [Pub. L. 109–280][/us/pl/109/280], §§ 202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -294,32 +340,42 @@
 
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084
+[/us/usc/t29/s1085a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a
 [/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
+[/us/usc/t29/s1085a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Ff
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1085/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fe
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1083/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fe
 [/us/usc/t29/s1084/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fb%2F3%2FC
 [/us/usc/t29/s1084/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fb%2F2%2FC
+[/us/usc/t29/s1085a/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fb%2F3%2FC
+[/us/usc/t29/s1085a/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fb%2F2%2FC
 [/us/usc/t29/s1301/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F15
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t29/s1301/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F13
 [/us/usc/t29/s1301/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F14
 [/us/usc/t29/s1002/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F4
 [/us/usc/t26/s6103/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Fp
-[/us/usc/t29/s1083/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fe%2F2
+[/us/usc/t29/s1085a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1083/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj%2F1
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1301/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F21
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t26/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412%2Fc
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/pl/93/406/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs302
 [/us/pl/109/280/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fb
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/stat/122/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5093
+[/us/pl/113/97/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F1
+[/us/stat/128/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1115
 [/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
 [/us/pl/93/406/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs302
 [/us/stat/88/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F869
@@ -349,11 +405,44 @@
 [/us/stat/120/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F919
 [/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
+[/us/pl/113/97/s102/b/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FM
+[/us/pl/113/97/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F1
+[/us/pl/113/97/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FB
+[/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
+[/us/usc/t29/s1085a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Ff
+[/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
+[/us/pl/113/97/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FA
+[/us/pl/113/97/s102/b/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FM
+[/us/pl/113/97/s102/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FC
+[/us/pl/113/97/s102/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FD
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
+[/us/pl/113/97/s102/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FE
+[/us/pl/113/97/s102/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FF
+[/us/pl/113/97/s102/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FG
+[/us/pl/113/97/s102/b/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FI
+[/us/usc/t29/s1085a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a
+[/us/pl/113/97/s102/b/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FJ
+[/us/usc/t29/s1083/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fe%2F2
+[/us/pl/113/97/s102/b/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FK
+[/us/pl/113/97/s102/b/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FL
+[/us/pl/113/97/s102/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FG
+[/us/pl/113/97/s102/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FH
+[/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
+[/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
+[/us/pl/113/97/s102/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FH
+[/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
+[/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
+[/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
+[/us/pl/113/97/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FA
 [/us/pl/110/458/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FA
 [/us/pl/110/458/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FA
 [/us/pl/110/458/s101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FB
 [/us/pl/110/458/s101/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FC
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112

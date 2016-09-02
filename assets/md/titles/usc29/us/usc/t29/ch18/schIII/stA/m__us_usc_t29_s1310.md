@@ -29,7 +29,7 @@
 
         (1) the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
 
-        (2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
+        (2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
 
         (3) minimum funding waivers in excess of $1,000,000 have been granted with respect to any plan maintained by the contributing sponsor or any member of its controlled group, and any portion thereof is still outstanding.
 
@@ -73,9 +73,11 @@
 
         The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
 
-([Pub. L. 93–406, title IV, § 4010][/us/pl/93/406/s4010], as added [Pub. L. 103–465, title VII, § 772(a)][/us/pl/103/465/s772/a], Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044]; amended [Pub. L. 109–280, title I, § 108(b)(3)][/us/pl/109/280/s108/b/3], formerly § 107(b)(3), title V, § 505(a), (b), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 946, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 105(d)][/us/pl/110/458/s105/d], Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105]; [Pub. L. 112–141, div. D, title II, § 40211(b)(3)(D)][/us/pl/112/141/s40211/b/3/D], July 6, 2012, [126 Stat. 849][/us/stat/126/849].)
+([Pub. L. 93–406, title IV, § 4010][/us/pl/93/406/s4010], as added [Pub. L. 103–465, title VII, § 772(a)][/us/pl/103/465/s772/a], Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044]; amended [Pub. L. 109–280, title I, § 108(b)(3)][/us/pl/109/280/s108/b/3], formerly § 107(b)(3), title V, § 505(a), (b), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 946, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 105(d)][/us/pl/110/458/s105/d], Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105]; [Pub. L. 112–141, div. D, title II, § 40211(b)(3)(D)][/us/pl/112/141/s40211/b/3/D], July 6, 2012, [126 Stat. 849][/us/stat/126/849]; [Pub. L. 113–97, title I, § 102(b)(8)][/us/pl/113/97/s102/b/8], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–97][/us/pl/113/97] substituted “section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26” for “section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26”.
 
     2012—Subsec. (d)(3). [Pub. L. 112–141][/us/pl/112/141] added par. (3).
 
@@ -86,6 +88,10 @@
     Subsec. (b)(2). [Pub. L. 109–280, § 108(b)(3)][/us/pl/109/280/s108/b/3], formerly § 107(b)(3), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
     Subsecs. (d), (e). [Pub. L. 109–280, § 505(b)][/us/pl/109/280/s505/b], added subsecs. (d) and (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -136,6 +142,9 @@
 [/us/stat/122/5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5105
 [/us/pl/112/141/s40211/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F3%2FD
 [/us/stat/126/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F849
+[/us/pl/113/97/s102/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F8
+[/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs505%2Fa
@@ -143,6 +152,9 @@
 [/us/pl/109/280/s108/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F3
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/pl/109/280/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs505%2Fb
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404

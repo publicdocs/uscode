@@ -33,7 +33,7 @@
 
     (e) __Civil actions by corporation; jurisdiction; process; expeditious handling of case; costs; limitation on actions__ 
 
-        (1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met, [section 1082 of this title][/us/usc/t29/s1082] and [section 412 of title 26][/us/usc/t26/s412].
+        (1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met, [section 1082 of this title][/us/usc/t29/s1082] and [section 412 of title 26][/us/usc/t26/s412].
 
         (2) Except as otherwise provided in this subchapter, where such an action is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
@@ -101,13 +101,15 @@
 
         (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under [section 1451 of this title][/us/usc/t29/s1451], in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-([Pub. L. 93–406, title IV, § 4003][/us/pl/93/406/s4003], Sept. 2, 1974, [88 Stat. 1006][/us/stat/88/1006]; [Pub. L. 96–364, title IV][/us/pl/96/364], §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297][/us/stat/94/1297], 1302; [Pub. L. 98–620, title IV, § 402(33)][/us/pl/98/620/s402/33], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262][/us/stat/100/262], 264, 274; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044], 5048; [Pub. L. 109–280, title I, § 108(b)(2)][/us/pl/109/280/s108/b/2], formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297].)
+([Pub. L. 93–406, title IV, § 4003][/us/pl/93/406/s4003], Sept. 2, 1974, [88 Stat. 1006][/us/stat/88/1006]; [Pub. L. 96–364, title IV][/us/pl/96/364], §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297][/us/stat/94/1297], 1302; [Pub. L. 98–620, title IV, § 402(33)][/us/pl/98/620/s402/33], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262][/us/stat/100/262], 264, 274; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044], 5048; [Pub. L. 109–280, title I, § 108(b)(2)][/us/pl/109/280/s108/b/2], formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 113–97, title I, § 102(b)(7)][/us/pl/113/97/s102/b/7], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117].)
 
  __References in Text__ 
 
     [Section 1349 of this title][/us/usc/t29/s1349], referred to in subsec. (f)(4), was repealed by [Pub. L. 100–203, title IX, § 9312(a)][/us/pl/100/203/s9312/a], Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1)(B). [Pub. L. 113–97][/us/pl/113/97] substituted “section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26” for “section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26”.
 
     2006—Subsec. (b). [Pub. L. 109–280, § 411(a)(2)][/us/pl/109/280/s411/a/2], substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
 
@@ -130,6 +132,10 @@
     Subsec. (e)(1). [Pub. L. 96–364, § 402(a)(2)(B)][/us/pl/96/364/s402/a/2/B], substituted “enforce” for “redress violations of”.
 
     Subsec. (f). [Pub. L. 96–364][/us/pl/96/364], §§ 402(a)(2)(C), 403(k), substituted “Except as provided in section 1451(a)(2) of the title, any” for “Any” and inserted provisions relating to removal of actions.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -192,9 +198,12 @@
 [/us/stat/120/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F819
 [/us/pl/111/192/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fa
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
+[/us/pl/113/97/s102/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F7
+[/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
 [/us/usc/t29/s1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1349
 [/us/pl/100/203/s9312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fa
 [/us/stat/101/1330-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-361
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/109/280/s411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs411%2Fa%2F2
 [/us/pl/109/280/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F2
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
@@ -211,6 +220,9 @@
 [/us/pl/96/364/s402/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F2%2FA
 [/us/pl/96/364/s402/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F2%2FB
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/109/280/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F2
 [/us/pl/109/280/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fe
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021

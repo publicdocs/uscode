@@ -203,6 +203,12 @@
 
     \[Amendment by section 1898(g), (h)(1)(A), (2), (3) of [Pub. L. 99–514][/us/pl/99/514] effective as if included in the provision of the Retirement Equity Act of 1984, [Pub. L. 98–397][/us/pl/98/397], to which such amendment relates, except as otherwise provided, see [section 1898(j) of Pub. L. 99–514][/us/pl/99/514/s1898/j], set out as a note under [section 401 of Title 26][/us/usc/t26/s401].\]
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–97, § 1(a)][/us/pl/113/97/s1/a], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Cooperative and Small Employer Charity Pension Flexibility Act’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–192, § 1][/us/pl/111/192/s1], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280], provided that: 
@@ -268,6 +274,18 @@
 [Pub. L. 93–406, § 1][/us/pl/93/406/s1], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], provided that: 
 
 > “This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and [section 1320b–1 of Title 42][/us/usc/t42/s1320b–1], The Public Health and Welfare, amending [section 441 of this title][/us/usc/t29/s441], sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enacting provisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the ‘Employee Retirement Income Security Act of 1974’.”
+
+ __Congressional Findings and Declarations of Policy__ 
+
+[Pub. L. 113–97, § 2][/us/pl/113/97/s2], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
+
+> “Congress finds as follows:
+
+>     “(1) Defined benefit pension plans are a cost-effective way for cooperative associations and charities to provide their employees with economic security in retirement.
+
+>     “(2) Many cooperative associations and charitable organizations are only able to provide their employees with defined benefit pension plans because those organizations are able to pool their resources using the multiple employer plan structure.
+
+>     “(3) The pension funding rules should encourage cooperative associations and charities to continue to provide their employees with pension benefits.”
 
  __Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974__ 
 
@@ -464,6 +482,8 @@
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/pl/99/514/s1898/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fj
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/pl/113/97/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs1%2Fa
+[/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
 [/us/pl/111/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs1
 [/us/stat/124/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1280
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
@@ -502,6 +522,8 @@
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t42/s1320b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%931
 [/us/usc/t29/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs441
+[/us/pl/113/97/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs2
+[/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
 [/us/pl/100/203/s9343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9343%2Fa
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/98/397/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs304

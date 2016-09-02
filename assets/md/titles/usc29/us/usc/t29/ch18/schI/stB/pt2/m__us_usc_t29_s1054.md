@@ -447,7 +447,7 @@
 
             (D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
 
-        (3) This subsection shall apply only to plans (other than multiemployer plans) covered under [section 1321 of this title][/us/usc/t29/s1321] for which the funding target attainment percentage (as defined in [section 1083(d)(2) of this title][/us/usc/t29/s1083/d/2]) is less than 100 percent after taking into account the effect of the amendment.
+        (3) This subsection shall apply only to plans (other than multiemployer plans or CSEC plans) covered under [section 1321 of this title][/us/usc/t29/s1321] for which the funding target attainment percentage (as defined in [section 1083(d)(2) of this title][/us/usc/t29/s1083/d/2]) is less than 100 percent after taking into account the effect of the amendment.
 
         (4) For purposes of this subsection, the term “employer” has the meaning set forth in [section 1082(b)(1) of this title][/us/usc/t29/s1082/b/1], without regard to [section 1082(b)(2) of this title][/us/usc/t29/s1082/b/2].
 
@@ -627,13 +627,15 @@
 
         For special rules relating to plan provisions adopted to preclude discrimination, see [section 1053(c)(2) of this title][/us/usc/t29/s1053/c/2].
 
-([Pub. L. 93–406, title I, § 204][/us/pl/93/406/s204], Sept. 2, 1974, [88 Stat. 858][/us/stat/88/858]; [Pub. L. 98–397, title I][/us/pl/98/397], §§ 102(e)(3), (f), 105(b), title III, § 301(a)(2), Aug. 23, 1984, [98 Stat. 1429][/us/stat/98/1429], 1436, 1451; [Pub. L. 99–272, title XI, § 11006(a)][/us/pl/99/272/s11006/a], Apr. 7, 1986, [100 Stat. 243][/us/stat/100/243]; [Pub. L. 99–509, title IX, § 9202(a)][/us/pl/99/509/s9202/a], Oct. 21, 1986, [100 Stat. 1975][/us/stat/100/1975]; [Pub. L. 99–514, title XI, § 1113(e)(4)(B)][/us/pl/99/514/s1113/e/4/B], title XVIII, §§ 1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2913, 2944, 2956; [Pub. L. 100–203, title IX, § 9346(a)][/us/pl/100/203/s9346/a], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2434, 2435, 2444, 2445, 2449; [Pub. L. 103–465, title VII, § 766(a)][/us/pl/103/465/s766/a], Dec. 8, 1994, [108 Stat. 5036][/us/stat/108/5036]; [Pub. L. 105–34, title X, § 1071(b)(2)][/us/pl/105/34/s1071/b/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 645(a)(2), (b)(2), 659(b), June 7, 2001, [115 Stat. 124][/us/stat/115/124], 125, 139; [Pub. L. 107–147, title IV, § 411(u)(2)][/us/pl/107/147/s411/u/2], Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52]; [Pub. L. 109–280, title I, § 108(a)(5)][/us/pl/109/280/s108/a/5]–(8), formerly § 107(a)(5)–(8), title V, § 502(c)(1), title VII, § 701(a)(1), title IX, § 901(b)(1), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 941, 981, 1029, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 107(a)(2)][/us/pl/110/458/s107/a/2], (3), Dec. 23, 2008, [122 Stat. 5107][/us/stat/122/5107].)
+([Pub. L. 93–406, title I, § 204][/us/pl/93/406/s204], Sept. 2, 1974, [88 Stat. 858][/us/stat/88/858]; [Pub. L. 98–397, title I][/us/pl/98/397], §§ 102(e)(3), (f), 105(b), title III, § 301(a)(2), Aug. 23, 1984, [98 Stat. 1429][/us/stat/98/1429], 1436, 1451; [Pub. L. 99–272, title XI, § 11006(a)][/us/pl/99/272/s11006/a], Apr. 7, 1986, [100 Stat. 243][/us/stat/100/243]; [Pub. L. 99–509, title IX, § 9202(a)][/us/pl/99/509/s9202/a], Oct. 21, 1986, [100 Stat. 1975][/us/stat/100/1975]; [Pub. L. 99–514, title XI, § 1113(e)(4)(B)][/us/pl/99/514/s1113/e/4/B], title XVIII, §§ 1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2913, 2944, 2956; [Pub. L. 100–203, title IX, § 9346(a)][/us/pl/100/203/s9346/a], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2434, 2435, 2444, 2445, 2449; [Pub. L. 103–465, title VII, § 766(a)][/us/pl/103/465/s766/a], Dec. 8, 1994, [108 Stat. 5036][/us/stat/108/5036]; [Pub. L. 105–34, title X, § 1071(b)(2)][/us/pl/105/34/s1071/b/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 645(a)(2), (b)(2), 659(b), June 7, 2001, [115 Stat. 124][/us/stat/115/124], 125, 139; [Pub. L. 107–147, title IV, § 411(u)(2)][/us/pl/107/147/s411/u/2], Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52]; [Pub. L. 109–280, title I, § 108(a)(5)][/us/pl/109/280/s108/a/5]–(8), formerly § 107(a)(5)–(8), title V, § 502(c)(1), title VII, § 701(a)(1), title IX, § 901(b)(1), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 941, 981, 1029, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 107(a)(2)][/us/pl/110/458/s107/a/2], (3), Dec. 23, 2008, [122 Stat. 5107][/us/stat/122/5107]; [Pub. L. 113–97, title I, § 102(b)(4)][/us/pl/113/97/s102/b/4], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (b)(1)(G), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (i)(3). [Pub. L. 113–97][/us/pl/113/97] substituted “multiemployer plans or CSEC plans” for “multiemployer plans”.
 
     2008—Subsec. (b)(5)(A)(iii). [Pub. L. 110–458, § 107(a)(2)(A)][/us/pl/110/458/s107/a/2/A], substituted “subparagraph” for “clause”.
 
@@ -748,6 +750,10 @@
     Subsec. (e). [Pub. L. 98–397, § 102(f)][/us/pl/98/397/s102/f], substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service”.
 
     Subsec. (g). [Pub. L. 98–397, § 301(a)(2)][/us/pl/98/397/s301/a/2], designated existing provisions as par. (1) and added par. (2).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -942,9 +948,12 @@
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
 [/us/pl/110/458/s107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F2
 [/us/stat/122/5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5107
+[/us/pl/113/97/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F4
+[/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/110/458/s107/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F2%2FA
 [/us/pl/110/458/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F3
 [/us/pl/110/458/s107/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F2%2FB
@@ -1013,6 +1022,9 @@
 [/us/pl/98/397/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs105%2Fb
 [/us/pl/98/397/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs102%2Ff
 [/us/pl/98/397/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs301%2Fa%2F2
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112

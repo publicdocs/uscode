@@ -97,7 +97,7 @@
 
             (B) The Secretary may assess a civil penalty against any plan administrator of up to $100 a day from the date of the plan administrator’s failure to timely provide to any State the information required to be disclosed under [section 1181(f)(3)(B)(ii) of this title][/us/usc/t29/s1181/f/3/B/ii]. For purposes of this subparagraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
-        (10)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Two pars. (10) have been enacted.__  __ </sup></sup> __  __Secretarial enforcement authority relating to use of genetic information.—__ 
+        (10) __Secretarial enforcement authority relating to use of genetic information.—__ 
 
             (A)  __General rule__  __.—__ 
 
@@ -165,7 +165,9 @@
 
             Terms used in this paragraph which are defined in [section 1191b of this title][/us/usc/t29/s1191b] shall have the meanings provided such terms in such section.
 
-        (10) 3 The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) 2 of title 42.
+        (11) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) 2 of title 42.
+
+        (12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor’s failure to comply with the requirements of [section 1085a(j)(3) of this title][/us/usc/t29/s1085a/j/3] to establish or update a funding restoration plan.
 
     (d) __Status of employee benefit plan as entity__ 
 
@@ -259,7 +261,7 @@
 
         In the case of a distribution to a pension plan participant or beneficiary in violation of [section 1056(e) of this title][/us/usc/t29/s1056/e] by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-([Pub. L. 93–406, title I, § 502][/us/pl/93/406/s502], Sept. 2, 1974, [88 Stat. 891][/us/stat/88/891]; [Pub. L. 96–364, title III, § 306(b)][/us/pl/96/364/s306/b], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title X, § 10002(b)][/us/pl/99/272/s10002/b], Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9342(c), 9344, Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], 1330–373; [Pub. L. 101–239, title II, § 2101(a)][/us/pl/101/239/s2101/a], (b), title VII, §§ 7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, [103 Stat. 2123][/us/stat/103/2123], 2438, 2442, 2445, 2450; [Pub. L. 101–508, title XII, § 12012(d)(2)][/us/pl/101/508/s12012/d/2], Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–66, title IV, § 4301(c)(1)][/us/pl/103/66/s4301/c/1]–(3), Aug. 10, 1993, [107 Stat. 376][/us/stat/107/376]; [Pub. L. 103–401][/us/pl/103/401], §§ 2, 3, Oct. 22, 1994, [108 Stat. 4172][/us/stat/108/4172]; [Pub. L. 103–465, title VII, § 761(a)(9)(B)(ii)][/us/pl/103/465/s761/a/9/B/ii], Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033]; [Pub. L. 104–191, title I, § 101(b)][/us/pl/104/191/s101/b], (e)(2), Aug. 21, 1996, [110 Stat. 1951][/us/stat/110/1951], 1952; [Pub. L. 104–204, title VI, § 603(b)(3)(E)][/us/pl/104/204/s603/b/3/E], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(c)(2)(B)][/us/pl/105/34/s1503/c/2/B], (d)(7), Aug. 5, 1997, [111 Stat. 1062][/us/stat/111/1062]; [Pub. L. 107–204, title III, § 306(b)(3)][/us/pl/107/204/s306/b/3], July 30, 2002, [116 Stat. 783][/us/stat/116/783]; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 102(d), 103(b), 104(a)(2), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 603, 606; [Pub. L. 109–280, title I, § 103(b)(2)][/us/pl/109/280/s103/b/2], title II, § 202(b), (c), title V, §§ 502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, § 902(f)(2), Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], 884, 885, 940, 941, 949, 951, 1039; [Pub. L. 110–233, title I, § 101(e)][/us/pl/110/233/s101/e], May 21, 2008, [122 Stat. 886][/us/stat/122/886]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5101; [Pub. L. 111–3, title III, § 311(b)(1)(E)][/us/pl/111/3/s311/b/1/E], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70].)
+([Pub. L. 93–406, title I, § 502][/us/pl/93/406/s502], Sept. 2, 1974, [88 Stat. 891][/us/stat/88/891]; [Pub. L. 96–364, title III, § 306(b)][/us/pl/96/364/s306/b], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title X, § 10002(b)][/us/pl/99/272/s10002/b], Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9342(c), 9344, Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], 1330–373; [Pub. L. 101–239, title II, § 2101(a)][/us/pl/101/239/s2101/a], (b), title VII, §§ 7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, [103 Stat. 2123][/us/stat/103/2123], 2438, 2442, 2445, 2450; [Pub. L. 101–508, title XII, § 12012(d)(2)][/us/pl/101/508/s12012/d/2], Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–66, title IV, § 4301(c)(1)][/us/pl/103/66/s4301/c/1]–(3), Aug. 10, 1993, [107 Stat. 376][/us/stat/107/376]; [Pub. L. 103–401][/us/pl/103/401], §§ 2, 3, Oct. 22, 1994, [108 Stat. 4172][/us/stat/108/4172]; [Pub. L. 103–465, title VII, § 761(a)(9)(B)(ii)][/us/pl/103/465/s761/a/9/B/ii], Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033]; [Pub. L. 104–191, title I, § 101(b)][/us/pl/104/191/s101/b], (e)(2), Aug. 21, 1996, [110 Stat. 1951][/us/stat/110/1951], 1952; [Pub. L. 104–204, title VI, § 603(b)(3)(E)][/us/pl/104/204/s603/b/3/E], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(c)(2)(B)][/us/pl/105/34/s1503/c/2/B], (d)(7), Aug. 5, 1997, [111 Stat. 1062][/us/stat/111/1062]; [Pub. L. 107–204, title III, § 306(b)(3)][/us/pl/107/204/s306/b/3], July 30, 2002, [116 Stat. 783][/us/stat/116/783]; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 102(d), 103(b), 104(a)(2), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 603, 606; [Pub. L. 109–280, title I, § 103(b)(2)][/us/pl/109/280/s103/b/2], title II, § 202(b), (c), title V, §§ 502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, § 902(f)(2), Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], 884, 885, 940, 941, 949, 951, 1039; [Pub. L. 110–233, title I, § 101(e)][/us/pl/110/233/s101/e], May 21, 2008, [122 Stat. 886][/us/stat/122/886]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5101; [Pub. L. 111–3, title III, § 311(b)(1)(E)][/us/pl/111/3/s311/b/1/E], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 113–97, title I, § 102(b)(6)][/us/pl/113/97/s102/b/6], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117].)
 
  __Amendment of Section__ 
 
@@ -273,7 +275,7 @@
 
     [Section 1082 of this title][/us/usc/t29/s1082], referred to in subsec. (c)(3), was repealed and a new section 1082 was enacted by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], (b), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], and, as so enacted, [section 1082 of this title][/us/usc/t29/s1082] no longer contains a subsec. (d)(12)(E).
 
-    [Section 1320b–14 of title 42][/us/usc/t42/s1320b–14], referred to in subsec. (c)(10), was repealed by [Pub. L. 104–226, § 1(a)][/us/pl/104/226/s1/a], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033], and a new [section 1320b–14 of title 42][/us/usc/t42/s1320b–14], which does not contain a subsec. (c)(8), was enacted by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 911(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–583.
+    [Section 1320b–14 of title 42][/us/usc/t42/s1320b–14], referred to in subsec. (c)(11), was repealed by [Pub. L. 104–226, § 1(a)][/us/pl/104/226/s1/a], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033], and a new [section 1320b–14 of title 42][/us/usc/t42/s1320b–14], which does not contain a subsec. (c)(8), was enacted by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 911(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–583.
 
     This chapter, referred to in subsec. (k), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
@@ -282,6 +284,8 @@
     Another [section 306(b)(3) of Pub. L. 107–204][/us/pl/107/204/s306/b/3] is classified to [section 7244(b)(3) of Title 15][/us/usc/t15/s7244/b/3], Commerce and Trade.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(10) to (12). [Pub. L. 113–97][/us/pl/113/97] redesignated par. (10) relating to ongoing consultation by the Secretary and the Secretary of Health and Human Services as par. (11) and added par. (12).
 
     2009—Subsec. (a)(6). [Pub. L. 111–3, § 311(b)(1)(E)(i)][/us/pl/111/3/s311/b/1/E/i], which directed the substitution of “(8), or (9)” for “or (8)”, could not be executed because the words “or (8)” did not appear after the amendment by [Pub. L. 110–233, § 101(e)(1)][/us/pl/110/233/s101/e/1]. See 2008 Amendment note below.
 
@@ -382,6 +386,10 @@
     1980—Subsec. (b). [Pub. L. 96–364, § 306(b)(1)][/us/pl/96/364/s306/b/1], redesignated existing provisions as par. (1)(A) and (B) and added par. (2).
 
     Subsec. (g). [Pub. L. 96–364, § 306(b)(2)][/us/pl/96/364/s306/b/2], redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -531,6 +539,7 @@
 [/us/usc/t29/s1181/f/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Ff%2F3%2FB%2Fii
 [/us/usc/t29/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1182
 [/us/usc/t29/s1191b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b
+[/us/usc/t29/s1085a/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fj%2F3
 [/us/usc/t29/s1021/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F1
 [/us/usc/t29/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1145
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
@@ -577,6 +586,8 @@
 [/us/stat/122/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5097
 [/us/pl/111/3/s311/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FE
 [/us/stat/123/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F70
+[/us/pl/113/97/s102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F6
+[/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
 [/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
 [/us/usc/t26/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs405%2Fa
 [/us/pl/98/369/s491/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fa
@@ -599,6 +610,7 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/107/204/s306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs306%2Fb%2F3
 [/us/usc/t15/s7244/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7244%2Fb%2F3
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/3/s311/b/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FE%2Fi
 [/us/pl/110/233/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fe%2F1
 [/us/pl/111/3/s311/b/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FE%2Fii
@@ -681,6 +693,9 @@
 [/us/usc/t29/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1166
 [/us/pl/96/364/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs306%2Fb%2F1
 [/us/pl/96/364/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs306%2Fb%2F2
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

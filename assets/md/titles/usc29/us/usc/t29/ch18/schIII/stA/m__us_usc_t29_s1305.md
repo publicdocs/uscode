@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1304.md) | [Next](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305)
+[Previous](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1304a.md) | [Next](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305)
 
 ## § 1305. Pension benefit guaranty funds
 
@@ -181,7 +181,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1304.md) | [Next](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305)
+[Previous](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1304a.md) | [Next](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305)
 
 ----------
 ----------

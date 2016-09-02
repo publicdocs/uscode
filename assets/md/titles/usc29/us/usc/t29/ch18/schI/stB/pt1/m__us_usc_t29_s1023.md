@@ -167,7 +167,7 @@
 
             (A) that to the best of his knowledge the report is complete and accurate, and
 
-            (B) the applicable requirements of sections 1083(h) and 1084(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
+            (B) the applicable requirements of sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
 
         (9) A copy of the opinion required by subsection (a)(4) of this section.
 
@@ -251,9 +251,17 @@
 
             (I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
 
-([Pub. L. 93–406, title I, § 103][/us/pl/93/406/s103], Sept. 2, 1974, [88 Stat. 841][/us/stat/88/841]; [Pub. L. 96–364, title III, § 307][/us/pl/96/364/s307], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title XI, § 11016(b)(1)][/us/pl/99/272/s11016/b/1], Apr. 7, 1986, [100 Stat. 272][/us/stat/100/272]; [Pub. L. 100–203, title IX, § 9342(a)(1)][/us/pl/100/203/s9342/a/1], Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII, § 7881(j)(1)][/us/pl/101/239/s7881/j/1], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 109–280, title I, § 108(a)(2)][/us/pl/109/280/s108/a/2], (3), formerly § 107(a)(2), (3), title V, § 503(a)(1), (b), Aug. 17, 2006, [120 Stat. 818][/us/stat/120/818], 942, 943, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(d)(1)(A)][/us/pl/110/458/s101/d/1/A], Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098].)
+    (g) __Additional information with respect to multiple employer plans__ 
+
+        With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
+
+([Pub. L. 93–406, title I, § 103][/us/pl/93/406/s103], Sept. 2, 1974, [88 Stat. 841][/us/stat/88/841]; [Pub. L. 96–364, title III, § 307][/us/pl/96/364/s307], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title XI, § 11016(b)(1)][/us/pl/99/272/s11016/b/1], Apr. 7, 1986, [100 Stat. 272][/us/stat/100/272]; [Pub. L. 100–203, title IX, § 9342(a)(1)][/us/pl/100/203/s9342/a/1], Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII, § 7881(j)(1)][/us/pl/101/239/s7881/j/1], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 109–280, title I, § 108(a)(2)][/us/pl/109/280/s108/a/2], (3), formerly § 107(a)(2), (3), title V, § 503(a)(1), (b), Aug. 17, 2006, [120 Stat. 818][/us/stat/120/818], 942, 943, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(d)(1)(A)][/us/pl/110/458/s101/d/1/A], Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098]; [Pub. L. 113–97, title I][/us/pl/113/97], §§ 102(b)(5), 104(c), Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116], 1121.)
 
  __Amendments__ 
+
+    2014—Subsec. (d)(8)(B). [Pub. L. 113–97, § 102(b)(5)][/us/pl/113/97/s102/b/5], substituted “sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title” for “sections 1083(h) and 1084(c)(3) of this title”.
+
+    Subsec. (g). [Pub. L. 113–97, § 104(c)][/us/pl/113/97/s104/c], added subsec. (g).
 
     2008—Subsec. (d)(3). [Pub. L. 110–458, § 101(d)(1)(A)(i)][/us/pl/110/458/s101/d/1/A/i], substituted “the normal costs or target normal costs, the accrued liabilities or funding target” for “the normal costs, the accrued liabilities”.
 
@@ -276,6 +284,10 @@
     1986—Subsec. (d)(6). [Pub. L. 99–272][/us/pl/99/272] amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The present value of all of the plan’s liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in [section 1344 of this title][/us/usc/t29/s1344], and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) ‘termination priority categories’ and acceptable methods, including approximate methods, for allocating the plan’s liabilities to such termination priority categories.”
 
     1980—Subsec. (d)(10) to (12). [Pub. L. 96–364][/us/pl/96/364] added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -376,6 +388,10 @@
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
 [/us/pl/110/458/s101/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F1%2FA
 [/us/stat/122/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5098
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
+[/us/pl/113/97/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F5
+[/us/pl/113/97/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fc
 [/us/pl/110/458/s101/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F1%2FA%2Fi
 [/us/pl/110/458/s101/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F1%2FA%2Fii
 [/us/pl/109/280/s503/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs503%2Fa%2F1%2FA
@@ -391,6 +407,9 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1344
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112

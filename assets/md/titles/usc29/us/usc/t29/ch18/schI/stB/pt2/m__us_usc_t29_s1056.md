@@ -561,7 +561,11 @@
 
             For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
 
-([Pub. L. 93–406, title I, § 206][/us/pl/93/406/s206], Sept. 2, 1974, [88 Stat. 864][/us/stat/88/864]; [Pub. L. 98–397, title I, § 104(a)][/us/pl/98/397/s104/a], Aug. 23, 1984, [98 Stat. 1433][/us/stat/98/1433]; [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)][/us/pl/99/514/s1898/c/2/B], (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954][/us/stat/100/2952-2954]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033], 5048; [Pub. L. 105–34, title XV, § 1502(a)][/us/pl/105/34/s1502/a], Aug. 5, 1997, [111 Stat. 1058][/us/stat/111/1058]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809][/us/stat/120/809], 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(c)(1)(B)][/us/pl/110/458/s101/c/1/B]–(G), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(1)][/us/pl/111/192/s203/a/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299].)
+        (12) __CSEC plans__ 
+
+            This subsection shall not apply to a CSEC plan (as defined in [section 1060(f) of this title][/us/usc/t29/s1060/f]).
+
+([Pub. L. 93–406, title I, § 206][/us/pl/93/406/s206], Sept. 2, 1974, [88 Stat. 864][/us/stat/88/864]; [Pub. L. 98–397, title I, § 104(a)][/us/pl/98/397/s104/a], Aug. 23, 1984, [98 Stat. 1433][/us/stat/98/1433]; [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)][/us/pl/99/514/s1898/c/2/B], (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954][/us/stat/100/2952-2954]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033], 5048; [Pub. L. 105–34, title XV, § 1502(a)][/us/pl/105/34/s1502/a], Aug. 5, 1997, [111 Stat. 1058][/us/stat/111/1058]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809][/us/stat/120/809], 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(c)(1)(B)][/us/pl/110/458/s101/c/1/B]–(G), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(1)][/us/pl/111/192/s203/a/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299]; [Pub. L. 113–97, title I, § 102(b)(3)][/us/pl/113/97/s102/b/3], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116].)
 
  __References in Text__ 
 
@@ -572,6 +576,8 @@
     This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(12). [Pub. L. 113–97][/us/pl/113/97] added par. (12).
 
     2010—Subsec. (g)(9)(D). [Pub. L. 111–192, § 203(a)(1)][/us/pl/111/192/s203/a/1], added subpar. (D).
 
@@ -632,6 +638,10 @@
     Subsec. (d)(3)(N). [Pub. L. 99–514, § 1898(c)(4)(B)][/us/pl/99/514/s1898/c/4/B], redesignated subpar. (L) as (N).
 
     1984—Subsec. (d)(3). [Pub. L. 98–397][/us/pl/98/397] added par. (3).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -745,6 +755,7 @@
 [/us/usc/t26/s414/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fq
 [/us/usc/t29/s1083/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Ff%2F4
 [/us/usc/t29/s1083/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Ff%2F4
+[/us/usc/t29/s1060/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1060%2Ff
 [/us/pl/93/406/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs206
 [/us/stat/88/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F864
 [/us/pl/98/397/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs104%2Fa
@@ -765,6 +776,8 @@
 [/us/stat/122/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5097
 [/us/pl/111/192/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fa%2F1
 [/us/stat/124/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1299
+[/us/pl/113/97/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F3
+[/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -776,6 +789,7 @@
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/192/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fa%2F1
 [/us/pl/110/458/s101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F1%2FB
 [/us/pl/110/458/s101/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F1%2FC
@@ -813,6 +827,9 @@
 [/us/pl/99/514/s1898/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F5
 [/us/pl/99/514/s1898/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F4%2FB
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
