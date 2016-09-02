@@ -17,7 +17,7 @@
 
     The heads of the several executive departments and independent agencies and establishments shall cooperate with the Archivist in the work prescribed by [section 141 of this title][/us/usc/t4/s141] by permitting access to any records deemed by him to be necessary to the completion of such work.
 
-(Added [Oct. 31, 1951, ch. 655, § 12][/us/act/1951-10-31/ch655/s12], [65 Stat. 714][/us/stat/65/714]; amended [Pub. L. 98–497, title I, § 107(f)][/us/pl/98/497/s107/f], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 12, [65 Stat. 714][/us/stat/65/714]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(f), Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t4/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs141
-[/us/act/1951-10-31/ch655/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs12
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F714
-[/us/pl/98/497/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Ff
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2292
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

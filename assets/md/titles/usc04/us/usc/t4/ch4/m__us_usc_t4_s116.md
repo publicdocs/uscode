@@ -45,17 +45,17 @@
 
         (3) do not apply to the determination of the taxing situs of air-ground radiotelephone service as defined in section 22.99 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999.
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 626][/us/stat/114/626].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 626][/us/stat/114/626].)
 
  __References in Text__ 
 
     Section 254 of the Communications Act of 1934, referred to in subsec. (b)(5), is classified to [section 254 of Title 47][/us/usc/t47/s254], Telecommunications.
 
-    The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
+    The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
 
  __Effective Date; Application of Amendment__ 
 
-[Pub. L. 106–252, § 3][/us/pl/106/252/s3], July 28, 2000, [114 Stat. 633][/us/stat/114/633], provided that:
+[Pub. L. 106–252][/us/pl/106/252], § 3, July 28, 2000, [114 Stat. 633][/us/stat/114/633], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -72,13 +72,13 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F626
 [/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-719
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/106/252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs3
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F633
 [/us/usc/t4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs1
 

@@ -33,7 +33,7 @@
 
         (2) 6 months after such State or a designated database provider in such State provides such database as prescribed in section 119(a).
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 628][/us/stat/114/628].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 628][/us/stat/114/628].)
 
  __Effective Date; Application of Amendment__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F628
 [/us/pl/106/252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs3
 [/us/usc/t4/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs116

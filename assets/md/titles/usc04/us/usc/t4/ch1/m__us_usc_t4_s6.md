@@ -29,7 +29,7 @@
 
     (g) The flag should be displayed during school days in or near every schoolhouse.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1494][/us/stat/112/1494]; amended [Pub. L. 106–80, § 1][/us/pl/106/80/s1], Oct. 25, 1999, [113 Stat. 1285][/us/stat/113/1285]; [Pub. L. 110–239, § 1][/us/pl/110/239/s1], June 3, 2008, [122 Stat. 1559][/us/stat/122/1559]; [Pub. L. 111–41, § 2][/us/pl/111/41/s2], July 27, 2009, [123 Stat. 1962][/us/stat/123/1962].)
+(Added [Pub. L. 105–225][/us/pl/105/225], § 2(a), Aug. 12, 1998, [112 Stat. 1494][/us/stat/112/1494]; amended [Pub. L. 106–80][/us/pl/106/80], § 1, Oct. 25, 1999, [113 Stat. 1285][/us/stat/113/1285]; [Pub. L. 110–239][/us/pl/110/239], § 1, June 3, 2008, [122 Stat. 1559][/us/stat/122/1559]; [Pub. L. 111–41][/us/pl/111/41], § 2, July 27, 2009, [123 Stat. 1962][/us/stat/123/1962].)
 
 <table>
 
@@ -94,13 +94,13 @@ June 22, 1942, ch. 435, § 2, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 2, 56
 ----------
 ----------
 
-[/us/pl/105/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1494
-[/us/pl/106/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F80%2Fs1
+[/us/pl/106/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F80
 [/us/stat/113/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1285
-[/us/pl/110/239/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F239%2Fs1
+[/us/pl/110/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F239
 [/us/stat/122/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1559
-[/us/pl/111/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F41%2Fs2
+[/us/pl/111/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F41
 [/us/stat/123/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1962
 [/us/stat/68/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F168
 [/us/pl/111/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F41

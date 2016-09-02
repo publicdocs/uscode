@@ -33,17 +33,17 @@
 
         (2) the term “State” includes the District of Columbia.
 
-(Added [Pub. L. 95–67, § 1(a)][/us/pl/95/67/s1/a], July 19, 1977, [91 Stat. 271][/us/stat/91/271].)
+(Added [Pub. L. 95–67][/us/pl/95/67], § 1(a), July 19, 1977, [91 Stat. 271][/us/stat/91/271].)
 
  __Effective Date__ 
 
-[Pub. L. 95–67, § 1(c)][/us/pl/95/67/s1/c], July 19, 1977, [91 Stat. 271][/us/stat/91/271], provided that: 
+[Pub. L. 95–67][/us/pl/95/67], § 1(c), July 19, 1977, [91 Stat. 271][/us/stat/91/271], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section and amending analysis preceding [section 101 of this title][/us/usc/t4/s101]\] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act \[July 19, 1977\].”
 
  __Residence of Members of Congress for State Personal Property Tax on Motor Vehicles__ 
 
-[Pub. L. 99–190, § 101(c)][/us/pl/99/190/s101/c] \[H.R. 3067, § 131\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224]; [Pub. L. 100–202, § 106][/us/pl/100/202/s106], Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433], provided that:
+[Pub. L. 99–190][/us/pl/99/190], § 101(c) \[H.R. 3067, § 131\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224]; [Pub. L. 100–202][/us/pl/100/202], § 106, Dec. 22, 1987, [101 Stat. 1329–433][/us/stat/101/1329-433], provided that:
 
 >     “(a) No State, or political subdivision thereof, in which a Member of Congress maintains a place of abode for purposes of attending sessions of Congress may impose a personal property tax with respect to any motor vehicle owned by such Member (or by the spouse of such Member) unless such Member represents such State or a district in such State.
 
@@ -67,14 +67,14 @@
 ----------
 
 [/us/usc/t4/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs110%2Fc
-[/us/pl/95/67/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F67%2Fs1%2Fa
+[/us/pl/95/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F67
 [/us/stat/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F271
-[/us/pl/95/67/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F67%2Fs1%2Fc
+[/us/pl/95/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F67
 [/us/stat/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F271
 [/us/usc/t4/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs101
-[/us/pl/99/190/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fc
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1224
-[/us/pl/100/202/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs106
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-433
 
 

@@ -17,7 +17,7 @@
 
     The Archivist of the United States, hereinafter referred to in this chapter as the “Archivist”, shall continue to completion the work of collecting, editing, copying, and suitably arranging for issuance as a Government publication, the official papers relating to the Territories from which States of the United States were formed, in the national archives, as listed in Parker’s “Calendar of Papers in Washington” Archives Relating to the Territories of the United States (to 1873)”, being publication numbered 148 of the Carnegie Institution of Washington, together with such additional papers of like character which may be found.
 
-(Added [Oct. 31, 1951, ch. 655, § 12][/us/act/1951-10-31/ch655/s12], [65 Stat. 713][/us/stat/65/713]; amended [Pub. L. 98–497, title I, § 107(f)][/us/pl/98/497/s107/f], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 12, [65 Stat. 713][/us/stat/65/713]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(f), Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs12
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F713
-[/us/pl/98/497/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Ff
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2292
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

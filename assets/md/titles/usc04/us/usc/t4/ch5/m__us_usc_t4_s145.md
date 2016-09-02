@@ -27,7 +27,7 @@
 
     (b) The historical associations, commissions, museums, or libraries and other nondepository libraries within each State, Territory, or Possession which have been or may be designated by the Governor thereof to receive the publications referred to in subsection (a) of this section, shall, during their existence, receive the succeeding volumes, the distribution of which shall be made by the Superintendent of Documents in accordance with lists of designations transmitted to him by the Archivist. A new designation may be made to the Archivist by the Governor only when a designated association, commission, museum, or library shall cease to exist, or when authorized by law.
 
-(Added [Oct. 31, 1951, ch. 655, § 12][/us/act/1951-10-31/ch655/s12], [65 Stat. 714][/us/stat/65/714]; amended [Pub. L. 98–497, title I, § 107(f)][/us/pl/98/497/s107/f], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 12, [65 Stat. 714][/us/stat/65/714]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(f), Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs12
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F714
-[/us/pl/98/497/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Ff
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2292
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

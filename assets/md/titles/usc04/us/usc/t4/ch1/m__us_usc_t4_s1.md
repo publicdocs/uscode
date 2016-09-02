@@ -21,19 +21,19 @@
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–41, § 1][/us/pl/111/41/s1], July 27, 2009, [123 Stat. 1962][/us/stat/123/1962], provided that: 
+[Pub. L. 111–41][/us/pl/111/41], § 1, July 27, 2009, [123 Stat. 1962][/us/stat/123/1962], provided that: 
 
 > “This Act \[amending [section 6 of this title][/us/usc/t4/s6]\] may be cited as the ‘Korean War Veterans Recognition Act’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–41, § 1][/us/pl/110/41/s1], June 29, 2007, [121 Stat. 233][/us/stat/121/233], provided that: 
+[Pub. L. 110–41][/us/pl/110/41], § 1, June 29, 2007, [121 Stat. 233][/us/stat/121/233], provided that: 
 
 > “This Act \[amending [section 7 of this title][/us/usc/t4/s7] and provisions set out as a note under [section 7 of this title][/us/usc/t4/s7]\] may be cited as the ‘Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–252, § 1][/us/pl/106/252/s1], July 28, 2000, [114 Stat. 626][/us/stat/114/626], provided that: 
+[Pub. L. 106–252][/us/pl/106/252], § 1, July 28, 2000, [114 Stat. 626][/us/stat/114/626], provided that: 
 
 > “This Act \[enacting sections 116 to 126 of this title and provisions set out as a note under [section 116 of this title][/us/usc/t4/s116]\] may be cited as the ‘Mobile Telecommunications Sourcing Act’.”
 
@@ -424,14 +424,14 @@ L  </td>
 
 [/us/act/1947-07-30/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch389
 [/us/stat/61/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F642
-[/us/pl/111/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F41%2Fs1
+[/us/pl/111/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F41
 [/us/stat/123/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1962
 [/us/usc/t4/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs6
-[/us/pl/110/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41%2Fs1
+[/us/pl/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41
 [/us/stat/121/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F233
 [/us/usc/t4/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs7
 [/us/usc/t4/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs7
-[/us/pl/106/252/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs1
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F626
 [/us/usc/t4/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs116
 [/us/usc/t4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs2

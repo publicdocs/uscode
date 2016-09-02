@@ -19,7 +19,7 @@
 
     (b) For the purpose of this section, the term “States” means the several States and Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and the District of Columbia.
 
-(Added [May 24, 1949, ch. 139, § 129(b)][/us/act/1949-05-24/ch139/s129/b], [63 Stat. 107][/us/stat/63/107], § 112, formerly § 111; amended [Aug. 3, 1956, ch. 941][/us/act/1956-08-03/ch941], [70 Stat. 1020][/us/stat/70/1020]; [Pub. L. 87–406][/us/pl/87/406], Feb. 16, 1962, [76 Stat. 9][/us/stat/76/9]; renumbered § 112, [Pub. L. 89–554, § 2(c)][/us/pl/89/554/s2/c], Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608].)
+(Added [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 129(b), [63 Stat. 107][/us/stat/63/107], § 112, formerly § 111; amended [Aug. 3, 1956, ch. 941][/us/act/1956-08-03/ch941], [70 Stat. 1020][/us/stat/70/1020]; [Pub. L. 87–406][/us/pl/87/406], Feb. 16, 1962, [76 Stat. 9][/us/stat/76/9]; renumbered § 112, [Pub. L. 89–554][/us/pl/89/554], § 2(c), Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608].)
 
  __Historical and Revision Notes__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch139/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs129%2Fb
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
 [/us/act/1956-08-03/ch941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch941
 [/us/stat/70/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1020
 [/us/pl/87/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F406
 [/us/stat/76/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F9
-[/us/pl/89/554/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs2%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F608
 [/us/stat/61/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F641
 [/us/usc/t18/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs420

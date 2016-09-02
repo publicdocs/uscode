@@ -17,7 +17,7 @@
 
     The following codification of existing rules and customs pertaining to the display and use of the flag of the United States of America is established for the use of such civilians or civilian groups or organizations as may not be required to conform with regulations promulgated by one or more executive departments of the Government of the United States. The flag of the United States for the purpose of this chapter shall be defined according to sections 1 and 2 of this title and Executive Order 10834 issued pursuant thereto.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1494][/us/stat/112/1494].)
+(Added [Pub. L. 105–225][/us/pl/105/225], § 2(a), Aug. 12, 1998, [112 Stat. 1494][/us/stat/112/1494].)
 
 <table>
 
@@ -116,7 +116,7 @@ June 22, 1942, ch. 435, § 1, 56 Stat. 377; Dec. 22, 1942, ch. 806, § 1, 56
 ----------
 ----------
 
-[/us/pl/105/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1494
 [/us/usc/t4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs1
 [/us/pl/109/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F243

@@ -15,9 +15,9 @@
 
 # Title 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
 
-This title was enacted by [act July 30, 1947, ch. 389, § 1][/us/act/1947-07-30/ch389/s1], [61 Stat. 641][/us/stat/61/641]
+This title was enacted by [act July 30, 1947, ch. 389][/us/act/1947-07-30/ch389], § 1, [61 Stat. 641][/us/stat/61/641]
 
-Current through 114-143
+Current through 114-146
 
 <table>
 
@@ -85,7 +85,7 @@ Current through 114-143
 
  __Amendments__ 
 
-    1951—[Act Oct. 31, 1951, ch. 655, § 11][/us/act/1951-10-31/ch655/s11], [65 Stat. 713][/us/stat/65/713], added item for chapter 5.
+    1951—[Act Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 11, [65 Stat. 713][/us/stat/65/713], added item for chapter 5.
 
  __Positive Law; Citation__ 
 
@@ -436,9 +436,9 @@ Oct. 9, 1940, ch. 787, § 6, 54 Stat. 1060  </td>
 ----------
 ----------
 
-[/us/act/1947-07-30/ch389/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch389%2Fs1
+[/us/act/1947-07-30/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch389
 [/us/stat/61/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F641
-[/us/act/1951-10-31/ch655/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs11
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F713
 [/us/act/1947-07-30/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch389
 [/us/stat/61/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F641

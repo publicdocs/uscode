@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, there are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, sums of not more than $50,000 for any one fiscal year.
 
-(Added [Oct. 31, 1951, ch. 655, § 12][/us/act/1951-10-31/ch655/s12], [65 Stat. 715][/us/stat/65/715].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 12, [65 Stat. 715][/us/stat/65/715].)
 
  __Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs12
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F715
 [/us/usc/t4/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs141
 

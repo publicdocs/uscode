@@ -19,7 +19,7 @@
 
     (b) A person shall be deemed to be an authorized purchaser under this section only with respect to purchases which he is permitted to make from commissaries, ship’s stores, or voluntary unincorporated organizations of personnel of any branch of the Armed Forces of the United States, under regulations promulgated by the departmental Secretary having jurisdiction over such branch.
 
-([July 30, 1947, ch. 389][/us/act/1947-07-30/ch389], [61 Stat. 645][/us/stat/61/645]; [Sept. 3, 1954, ch. 1263, § 4][/us/act/1954-09-03/ch1263/s4], [68 Stat. 1227][/us/stat/68/1227].)
+([July 30, 1947, ch. 389][/us/act/1947-07-30/ch389], [61 Stat. 645][/us/stat/61/645]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 4, [68 Stat. 1227][/us/stat/68/1227].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 
 [/us/act/1947-07-30/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch389
 [/us/stat/61/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F645
-[/us/act/1954-09-03/ch1263/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs4
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1227
 
 

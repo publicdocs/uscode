@@ -37,7 +37,7 @@
 
     A home service provider using the data contained in an electronic database described in subsection (a) shall be held harmless from any tax, charge, or fee liability that otherwise would be due solely as a result of any error or omission in such database provided by a State or designated database provider. The home service provider shall reflect changes made to such database during a calendar quarter not later than 30 days after the end of such calendar quarter for each State that issues notice of the availability of an electronic database reflecting such changes under subsection (b).
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 627][/us/stat/114/627].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 627][/us/stat/114/627].)
 
  __Effective Date; Application of Amendment__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F627
 [/us/pl/106/252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs3
 [/us/usc/t4/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs116

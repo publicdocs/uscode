@@ -29,7 +29,7 @@
 
  __Civil Airports Owned by United States Subject to Sections 104__  __to__  __110;__  __Sales or Use Taxes: Fuels for Aircraft or Other Servicing of Aircraft; Landing or Taking Off Charges; Leases__ 
 
-[Pub. L. 91–258, title II, § 210][/us/pl/91/258/s210], May 21, 1970, [84 Stat. 253][/us/stat/84/253], provided that:
+[Pub. L. 91–258, title II][/us/pl/91/258/tII], § 210, May 21, 1970, [84 Stat. 253][/us/stat/84/253], provided that:
 
 >     “(a) Nothing in this title or in any other law of the United States shall prevent the application of sections 104 through 110 of title 4 of the United States Code to civil airports owned by the United States.
 
@@ -54,7 +54,7 @@
 [/us/stat/61/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F644
 [/us/act/1956-08-01/ch827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch827
 [/us/stat/70/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F799
-[/us/pl/91/258/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs210
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F253
 
 

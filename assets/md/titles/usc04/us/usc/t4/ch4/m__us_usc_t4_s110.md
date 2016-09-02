@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    [Section 3797 of title 26][/us/usc/t26/s3797], referred to in subsec. (a), is a reference to section 3797 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and is covered by [section 7701(a)(1) of Title 26][/us/usc/t26/s7701/a/1]. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code. See also [section 7852(b) of Title 26][/us/usc/t26/s7852/b], Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
+    [Section 3797 of title 26][/us/usc/t26/s3797], referred to in subsec. (a), is a reference to section 3797 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and is covered by [section 7701(a)(1) of Title 26][/us/usc/t26/s7701/a/1]. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code. See also [section 7852(b) of Title 26][/us/usc/t26/s7852/b], Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
 ----------
 
@@ -46,7 +46,7 @@
 [/us/stat/61/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F645
 [/us/usc/t26/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3797
 [/us/usc/t26/s7701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701%2Fa%2F1
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb

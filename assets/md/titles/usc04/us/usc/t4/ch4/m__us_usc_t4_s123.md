@@ -27,7 +27,7 @@
 
     If a taxing jurisdiction does not subject charges for mobile telecommunications services to taxation, a customer may not rely upon the nontaxability of charges for mobile telecommunications services unless the customer’s home service provider separately states the charges for nontaxable mobile telecommunications services from taxable charges or the home service provider elects, after receiving a written request from the customer in the form required by the provider, to provide verifiable data based upon the home service provider’s books and records that are kept in the regular course of business that reasonably identifies the nontaxable charges.
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 630][/us/stat/114/630].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 630][/us/stat/114/630].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F630
 [/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F626

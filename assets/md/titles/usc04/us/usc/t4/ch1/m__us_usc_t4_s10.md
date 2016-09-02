@@ -17,7 +17,7 @@
 
     Any rule or custom pertaining to the display of the flag of the United States of America, set forth herein, may be altered, modified, or repealed, or additional rules with respect thereto may be prescribed, by the Commander in Chief of the Armed Forces of the United States, whenever he deems it to be appropriate or desirable; and any such alteration or additional rule shall be set forth in a proclamation.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498].)
+(Added [Pub. L. 105–225][/us/pl/105/225], § 2(a), Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498].)
 
 <table>
 
@@ -92,7 +92,7 @@ June 22, 1942, ch. 435, § 8, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 8, 56
 ----------
 ----------
 
-[/us/pl/105/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1498
 [/us/stat/58/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F1126
 

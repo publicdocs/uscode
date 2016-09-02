@@ -23,11 +23,11 @@
 
     Nothing in sections 116 through this section of this title shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 or the amendments made by such Act.
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 632][/us/stat/114/632].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 632][/us/stat/114/632].)
 
  __References in Text__ 
 
-    The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
+    The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
 
     The Telecommunications Act of 1996, referred to in subsec. (b), is [Pub. L. 104–104][/us/pl/104/104], Feb. 8, 1996, [110 Stat. 56][/us/stat/110/56]. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 609 of Title 47][/us/usc/t47/s609], Telecommunications, and Tables.
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F632
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-719
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104

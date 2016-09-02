@@ -17,7 +17,7 @@
 
     The Secretary of State shall have the custody and charge of such seal. Except as provided by [section 2902(a) of title 5][/us/usc/t5/s2902/a], the seal shall not be affixed to any instrument without the special warrant of the President therefor.
 
-([July 30, 1947, ch. 389][/us/act/1947-07-30/ch389], [61 Stat. 643][/us/stat/61/643]; [Pub. L. 89–554, § 2(a)][/us/pl/89/554/s2/a], Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608].)
+([July 30, 1947, ch. 389][/us/act/1947-07-30/ch389], [61 Stat. 643][/us/stat/61/643]; [Pub. L. 89–554][/us/pl/89/554], § 2(a), Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t5/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2902%2Fa
 [/us/act/1947-07-30/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch389
 [/us/stat/61/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F643
-[/us/pl/89/554/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs2%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F608
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t5/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2902%2Fa

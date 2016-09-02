@@ -55,7 +55,7 @@
 
     (o) When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer’s left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances in more than two directions, the union should be to the east.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1495][/us/stat/112/1495]; amended [Pub. L. 110–41, § 3][/us/pl/110/41/s3], June 29, 2007, [121 Stat. 233][/us/stat/121/233].)
+(Added [Pub. L. 105–225][/us/pl/105/225], § 2(a), Aug. 12, 1998, [112 Stat. 1495][/us/stat/112/1495]; amended [Pub. L. 110–41][/us/pl/110/41], § 3, June 29, 2007, [121 Stat. 233][/us/stat/121/233].)
 
 <table>
 
@@ -109,7 +109,7 @@ June 22, 1942, ch. 435, § 3, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 3, 56
 
  __Finding__ 
 
-[Pub. L. 110–41, § 2][/us/pl/110/41/s2], June 29, 2007, [121 Stat. 233][/us/stat/121/233], provided that: 
+[Pub. L. 110–41][/us/pl/110/41], § 2, June 29, 2007, [121 Stat. 233][/us/stat/121/233], provided that: 
 
 > “Congress finds that members of the Armed Forces of the United States defend the freedom and security of the United States.”
 
@@ -156,12 +156,12 @@ June 22, 1942, ch. 435, § 3, 56 Stat. 378; Dec. 22, 1942, ch. 806, § 3, 56
 ----------
 ----------
 
-[/us/pl/105/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1495
-[/us/pl/110/41/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41%2Fs3
+[/us/pl/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41
 [/us/stat/121/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F233
 [/us/pl/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41
-[/us/pl/110/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41%2Fs2
+[/us/pl/110/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F41
 [/us/stat/121/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F233
 
 

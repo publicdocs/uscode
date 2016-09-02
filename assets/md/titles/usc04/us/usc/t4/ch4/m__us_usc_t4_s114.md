@@ -67,7 +67,7 @@
 
     (e)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No subsecs. (c) and (d) have been enacted. </sup></sup>  Nothing in this section shall be construed as having any effect on the application of section 514 of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 104–95, § 1(a)][/us/pl/104/95/s1/a], Jan. 10, 1996, [109 Stat. 979][/us/stat/109/979]; amended [Pub. L. 109–264, § 1(a)][/us/pl/109/264/s1/a], Aug. 3, 2006, [120 Stat. 667][/us/stat/120/667].)
+(Added [Pub. L. 104–95][/us/pl/104/95], § 1(a), Jan. 10, 1996, [109 Stat. 979][/us/stat/109/979]; amended [Pub. L. 109–264][/us/pl/109/264], § 1(a), Aug. 3, 2006, [120 Stat. 667][/us/stat/120/667].)
 
  __References in Text__ 
 
@@ -77,19 +77,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1)(I). [Pub. L. 109–264, § 1(a)(1)][/us/pl/109/264/s1/a/1]–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include income described in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
+    2006—Subsec. (b)(1)(I). [Pub. L. 109–264][/us/pl/109/264], § 1(a)(1)–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include income described in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
 
-    Subsec. (b)(4). [Pub. L. 109–264, § 1(a)(4)][/us/pl/109/264/s1/a/4], which directed the addition of par. (4) at end of subsec. (b)(1)(I), was executed by adding par. (4) at end of subsec. (b) to reflect the probable intent of Congress.
+    Subsec. (b)(4). [Pub. L. 109–264][/us/pl/109/264], § 1(a)(4), which directed the addition of par. (4) at end of subsec. (b)(1)(I), was executed by adding par. (4) at end of subsec. (b) to reflect the probable intent of Congress.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–264, § 1(b)][/us/pl/109/264/s1/b], Aug. 3, 2006, [120 Stat. 667][/us/stat/120/667], provided that: 
+[Pub. L. 109–264][/us/pl/109/264], § 1(b), Aug. 3, 2006, [120 Stat. 667][/us/stat/120/667], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply to amounts received after December 31, 1995.”
 
  __Effective Date__ 
 
-[Pub. L. 104–95, § 1(c)][/us/pl/104/95/s1/c], Jan. 10, 1996, [109 Stat. 980][/us/stat/109/980], provided that: 
+[Pub. L. 104–95][/us/pl/104/95], § 1(c), Jan. 10, 1996, [109 Stat. 980][/us/stat/109/980], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to amounts received after December 31, 1995.”
 
@@ -100,16 +100,16 @@
 ----------
 ----------
 
-[/us/pl/104/95/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F95%2Fs1%2Fa
+[/us/pl/104/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F95
 [/us/stat/109/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F979
-[/us/pl/109/264/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264%2Fs1%2Fa
+[/us/pl/109/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264
 [/us/stat/120/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F667
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
-[/us/pl/109/264/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264%2Fs1%2Fa%2F1
-[/us/pl/109/264/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264%2Fs1%2Fa%2F4
-[/us/pl/109/264/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264%2Fs1%2Fb
+[/us/pl/109/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264
+[/us/pl/109/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264
+[/us/pl/109/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F264
 [/us/stat/120/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F667
-[/us/pl/104/95/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F95%2Fs1%2Fc
+[/us/pl/104/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F95
 [/us/stat/109/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F980
 
 

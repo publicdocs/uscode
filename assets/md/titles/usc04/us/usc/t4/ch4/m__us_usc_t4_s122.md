@@ -27,7 +27,7 @@
 
     Except as provided in section 121, a taxing jurisdiction shall allow a home service provider to treat the address used by the home service provider for tax purposes for any customer under a service contract or agreement in effect 2 years after the date of the enactment of the Mobile Telecommunications Sourcing Act as that customer’s place of primary use for the remaining term of such service contract or agreement, excluding any extension or renewal of such service contract or agreement, for purposes of determining the taxing jurisdictions to which taxes, charges, or fees on charges for mobile telecommunications services are remitted.
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 630][/us/stat/114/630].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 630][/us/stat/114/630].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F630
 [/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/pl/106/252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs3

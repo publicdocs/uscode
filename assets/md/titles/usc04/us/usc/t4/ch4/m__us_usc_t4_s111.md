@@ -43,7 +43,7 @@
 
         shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
 
-(Added [Pub. L. 89–554, § 2(c)][/us/pl/89/554/s2/c], Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608]; amended [Pub. L. 105–261, div. A, title X, § 1075(b)(1)][/us/pl/105/261/s1075/b/1], Oct. 17, 1998, [112 Stat. 2138][/us/stat/112/2138].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 2(c), Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608]; amended [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1075(b)(1), Oct. 17, 1998, [112 Stat. 2138][/us/stat/112/2138].)
 
 <table>
 
@@ -99,7 +99,7 @@ Apr. 12, 1939, ch. 59, § 4, 53 Stat. 575.  </td>
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title X, § 1075(b)(2)][/us/pl/105/261/s1075/b/2], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], provided that: 
+[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1075(b)(2), Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to pay and compensation paid after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
@@ -110,12 +110,12 @@ Apr. 12, 1939, ch. 59, § 4, 53 Stat. 575.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs2%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F608
-[/us/pl/105/261/s1075/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1075%2Fb%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2138
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/261/s1075/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1075%2Fb%2F2
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2139
 
 

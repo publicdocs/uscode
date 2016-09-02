@@ -39,7 +39,7 @@
 
     (k) The flag, when it is in such condition that it is no longer a fitting emblem for display, should be destroyed in a dignified way, preferably by burning.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1497][/us/stat/112/1497].)
+(Added [Pub. L. 105–225][/us/pl/105/225], § 2(a), Aug. 12, 1998, [112 Stat. 1497][/us/stat/112/1497].)
 
 <table>
 
@@ -94,7 +94,7 @@ June 22, 1942, ch. 435, § 4, 56 Stat. 379; Dec. 22, 1942, ch. 806, § 4, 56
 ----------
 ----------
 
-[/us/pl/105/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1497
 
 

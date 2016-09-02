@@ -107,7 +107,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–225, § 2(b)][/us/pl/105/225/s2/b], Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498], added items 4 to 10.
+    1998—[Pub. L. 105–225][/us/pl/105/225], § 2(b), Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498], added items 4 to 10.
 
 ----------
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/pl/105/225/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1498
 
 

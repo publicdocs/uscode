@@ -17,11 +17,11 @@
 
     Pay and compensation paid to an individual for personal services at Fort Campbell, Kentucky, shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
 
-(Added [Pub. L. 105–261, div. A, title X, § 1075(a)(1)][/us/pl/105/261/s1075/a/1], Oct. 17, 1998, [112 Stat. 2138][/us/stat/112/2138].)
+(Added [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1075(a)(1), Oct. 17, 1998, [112 Stat. 2138][/us/stat/112/2138].)
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title X, § 1075(a)(3)][/us/pl/105/261/s1075/a/3], Oct. 17, 1998, [112 Stat. 2138][/us/stat/112/2138], provided that: 
+[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1075(a)(3), Oct. 17, 1998, [112 Stat. 2138][/us/stat/112/2138], provided that: 
 
 > “The amendments made by this subsection \[enacting this section\] shall apply to pay and compensation paid after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/105/261/s1075/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1075%2Fa%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2138
-[/us/pl/105/261/s1075/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1075%2Fa%2F3
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2138
 
 

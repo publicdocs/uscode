@@ -17,7 +17,7 @@
 
     During the ceremony of hoisting or lowering the flag or when the flag is passing in a parade or in review, all persons present in uniform should render the military salute. Members of the Armed Forces and veterans who are present but not in uniform may render the military salute. All other persons present should face the flag and stand at attention with their right hand over the heart, or if applicable, remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Citizens of other countries present should stand at attention. All such conduct toward the flag in a moving column should be rendered at the moment the flag passes.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498]; [Pub. L. 110–181, div. A, title V, § 594][/us/pl/110/181/s594], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138].)
+(Added [Pub. L. 105–225][/us/pl/105/225], § 2(a), Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 594, Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138].)
 
 <table>
 
@@ -76,9 +76,9 @@ June 22, 1942, ch. 435, § 5, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 5, 56
 ----------
 ----------
 
-[/us/pl/105/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs2%2Fa
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1498
-[/us/pl/110/181/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs594
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F138
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 

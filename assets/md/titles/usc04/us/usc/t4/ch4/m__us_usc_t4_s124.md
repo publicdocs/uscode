@@ -91,7 +91,7 @@
 
     The term “taxing jurisdiction” means any of the several States, the District of Columbia, or any territory or possession of the United States, any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other political subdivision within the territorial limits of the United States with the authority to impose a tax, charge, or fee.
 
-(Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 631][/us/stat/114/631].)
+(Added [Pub. L. 106–252][/us/pl/106/252], § 2(a), July 28, 2000, [114 Stat. 631][/us/stat/114/631].)
 
  __Effective Date; Application of Amendment__ 
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/106/252/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs2%2Fa
+[/us/pl/106/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252
 [/us/stat/114/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F631
 [/us/pl/106/252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F252%2Fs3
 [/us/usc/t4/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4%2Fs116
