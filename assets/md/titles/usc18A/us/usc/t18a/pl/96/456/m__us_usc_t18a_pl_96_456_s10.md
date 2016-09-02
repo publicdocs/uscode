@@ -17,7 +17,7 @@
 
     In any prosecution in which the United States must establish that material relates to the national defense or constitutes classified information, the United States shall notify the defendant, within the time before trial specified by the court, of the portions of the material that it reasonably expects to rely upon to establish the national defense or classified information element of the offense.
 
-([Pub. L. 96–456, § 10][/us/pl/96/456/s10], Oct. 15, 1980, [94 Stat. 2029][/us/stat/94/2029].)
+([Pub. L. 96–456][/us/pl/96/456], § 10, Oct. 15, 1980, [94 Stat. 2029][/us/stat/94/2029].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/456/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs10
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2029
 
 

@@ -17,7 +17,7 @@
 
     The functions and duties of the Attorney General under this Act may be exercised by the Deputy Attorney General, the Associate Attorney General, or by an Assistant Attorney General designated by the Attorney General for such purpose and may not be delegated to any other official.
 
-([Pub. L. 96–456, § 14][/us/pl/96/456/s14], Oct. 15, 1980, [94 Stat. 2030][/us/stat/94/2030]; [Pub. L. 100–690, title VII, § 7020(g)][/us/pl/100/690/s7020/g], Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396].)
+([Pub. L. 96–456][/us/pl/96/456], § 14, Oct. 15, 1980, [94 Stat. 2030][/us/stat/94/2030]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7020(g), Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/456/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs14
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2030
-[/us/pl/100/690/s7020/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7020%2Fg
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4396
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

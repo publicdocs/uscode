@@ -61,7 +61,7 @@
 
      Evidence of an intention as to which notice was given under Rule 12.2(a) or (b), later withdrawn, is not, in any civil or criminal proceeding, admissible against the person who gave notice of the intention.
 
-(Added Apr. 22, 1974, eff. Dec. 1, 1975; amended [Pub. L. 94–64, § 3(14)][/us/pl/94/64/s3/14], July 31, 1975, [89 Stat. 373][/us/stat/89/373]; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II, § 404][/us/pl/98/473/s404], Oct. 12, 1984, [98 Stat. 2067][/us/stat/98/2067]; [Pub. L. 98–596, § 11(a)][/us/pl/98/596/s11/a], (b), Oct. 30, 1984, [98 Stat. 3138][/us/stat/98/3138]; Apr. 29, 1985, eff. Aug. 1, 1985; [Pub. L. 99–646, § 24][/us/pl/99/646/s24], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(Added Apr. 22, 1974, eff. Dec. 1, 1975; amended [Pub. L. 94–64][/us/pl/94/64], § 3(14), July 31, 1975, [89 Stat. 373][/us/stat/89/373]; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 404, Oct. 12, 1984, [98 Stat. 2067][/us/stat/98/2067]; [Pub. L. 98–596][/us/pl/98/596], § 11(a), (b), Oct. 30, 1984, [98 Stat. 3138][/us/stat/98/3138]; Apr. 29, 1985, eff. Aug. 1, 1985; [Pub. L. 99–646][/us/pl/99/646], § 24, Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
 
  __Notes of Advisory Committee on Rules—1974__ 
 
@@ -213,23 +213,23 @@
 
     1986—Subd. (c). [Pub. L. 99–646][/us/pl/99/646] inserted “4241 or” before “4242”.
 
-    1984—Subd. (a). [Pub. L. 98–473, § 404(a)][/us/pl/98/473/s404/a], substituted “offense” for “crime”.
+    1984—Subd. (a). [Pub. L. 98–473][/us/pl/98/473], § 404(a), substituted “offense” for “crime”.
 
-    Subd. (b). [Pub. L. 98–473, § 404(b)][/us/pl/98/473/s404/b], which directed the amendment of subd. (b) by deleting “other condition bearing upon the issue of whether he had the mental state required for the offense charged” and inserting in lieu thereof “any other mental condition bearing upon the issue of guilt”, was repealed by [section 11(b) of Pub. L. 98–596][/us/pl/98/596/s11/b].
+    Subd. (b). [Pub. L. 98–473][/us/pl/98/473], § 404(b), which directed the amendment of subd. (b) by deleting “other condition bearing upon the issue of whether he had the mental state required for the offense charged” and inserting in lieu thereof “any other mental condition bearing upon the issue of guilt”, was repealed by [section 11(b) of Pub. L. 98–596][/us/pl/98/596/s11/b].
 
-    Subd. (c). [Pub. L. 98–596, § 11(a)(1)][/us/pl/98/596/s11/a/1], substituted “to an examination pursuant to [18 U.S.C. 4242][/us/usc/t18/s4242]” for “to a mental examination by a psychiatrist or other expert designated for this purpose in the order of the court”.
+    Subd. (c). [Pub. L. 98–596][/us/pl/98/596], § 11(a)(1), substituted “to an examination pursuant to [18 U.S.C. 4242][/us/usc/t18/s4242]” for “to a mental examination by a psychiatrist or other expert designated for this purpose in the order of the court”.
 
-    [Pub. L. 98–473, § 404(c)][/us/pl/98/473/s404/c], which directed the amendment of subd. (c) by deleting “to a psychiatric examination by a psychiatrist designated for this purpose in the order of the court” and inserting in lieu thereof “to an examination pursuant to [18 U.S.C. 4242][/us/usc/t18/s4242]” could not be executed because the phrase to be deleted did not appear. See amendment note for [section 11(a)(1) of Pub. L. 98–596][/us/pl/98/596/s11/a/1] above.
+    [Pub. L. 98–473][/us/pl/98/473], § 404(c), which directed the amendment of subd. (c) by deleting “to a psychiatric examination by a psychiatrist designated for this purpose in the order of the court” and inserting in lieu thereof “to an examination pursuant to [18 U.S.C. 4242][/us/usc/t18/s4242]” could not be executed because the phrase to be deleted did not appear. See amendment note for [section 11(a)(1) of Pub. L. 98–596][/us/pl/98/596/s11/a/1] above.
 
-    Subd. (d). [Pub. L. 98–596, § 11(a)(2)][/us/pl/98/596/s11/a/2], substituted “guilt” for “mental condition”.
+    Subd. (d). [Pub. L. 98–596][/us/pl/98/596], § 11(a)(2), substituted “guilt” for “mental condition”.
 
-    [Pub. L. 98–473, § 404(d)][/us/pl/98/473/s404/d], which directed the amendment of subd. (d) by deleting “mental state” and inserting in lieu thereof “guilt”, was repealed by [section 11(b) of Pub. L. 98–596][/us/pl/98/596/s11/b].
+    [Pub. L. 98–473][/us/pl/98/473], § 404(d), which directed the amendment of subd. (d) by deleting “mental state” and inserting in lieu thereof “guilt”, was repealed by [section 11(b) of Pub. L. 98–596][/us/pl/98/596/s11/b].
 
     1975—[Pub. L. 94–64][/us/pl/94/64] amended subd. (c) generally.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–596, § 11(c)][/us/pl/98/596/s11/c], Oct. 30, 1984, [98 Stat. 3138][/us/stat/98/3138], provided that: 
+[Pub. L. 98–596][/us/pl/98/596], § 11(c), Oct. 30, 1984, [98 Stat. 3138][/us/stat/98/3138], provided that: 
 
 > “The amendments and repeals made by subsections (a) and (b) of this section \[amending this rule\] shall apply on and after the enactment of the joint resolution entitled ‘Joint resolution making continuing appropriations for the fiscal year 1985, and for other purposes’, H.J. Res. 648, Ninety-eighth Congress \[[Pub. L. 98–473][/us/pl/98/473], Oct. 12, 1984\].”
 
@@ -244,30 +244,30 @@
 ----------
 ----------
 
-[/us/pl/94/64/s3/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F14
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F373
-[/us/pl/98/473/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs404
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2067
-[/us/pl/98/596/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fa
+[/us/pl/98/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596
 [/us/stat/98/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3138
-[/us/pl/99/646/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs24
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3597
 [/us/usc/t18/s4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4244
 [/us/stat/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F326
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/98/473/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs404%2Fa
-[/us/pl/98/473/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs404%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/596/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fb
-[/us/pl/98/596/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fa%2F1
+[/us/pl/98/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596
 [/us/usc/t18/s4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4242
-[/us/pl/98/473/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs404%2Fc
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t18/s4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4242
 [/us/pl/98/596/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fa%2F1
-[/us/pl/98/596/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fa%2F2
-[/us/pl/98/473/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs404%2Fd
+[/us/pl/98/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/596/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fb
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
-[/us/pl/98/596/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596%2Fs11%2Fc
+[/us/pl/98/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F596
 [/us/stat/98/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3138
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/94/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3

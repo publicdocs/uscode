@@ -43,7 +43,7 @@
 
      In accordance with Rule 4.1, a magistrate judge may issue an arrest warrant or summons based on information communicated by telephone or other reliable electronic means.
 
-(As amended Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(4)][/us/pl/94/64/s3/4], July 31, 1975, [89 Stat. 370][/us/stat/89/370]; [Pub. L. 94–149, § 5][/us/pl/94/149/s5], Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(4), July 31, 1975, [89 Stat. 370][/us/stat/89/370]; [Pub. L. 94–149][/us/pl/94/149], § 5, Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -101,7 +101,7 @@ Subdivision (a) is amended to make explicit the fact that a warrant may issue up
 
  __Notes of Advisory Committee on Rules—1993 Amendment__ 
 
-    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Committee Notes on Rules—2002 Amendment__ 
 
@@ -142,11 +142,11 @@ TITLE IV. __ARRAIGNMENT AND PREPARATION FOR TRIAL__
 ----------
 ----------
 
-[/us/pl/94/64/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F4
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F370
-[/us/pl/94/149/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149%2Fs5
+[/us/pl/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149
 [/us/stat/89/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F806
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149

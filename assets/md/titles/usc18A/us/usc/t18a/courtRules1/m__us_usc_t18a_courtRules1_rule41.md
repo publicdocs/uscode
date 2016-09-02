@@ -151,7 +151,7 @@
 
      The magistrate judge to whom the warrant is returned must attach to the warrant a copy of the return, of the inventory, and of all other related papers and must deliver them to the clerk in the district where the property was seized.
 
-(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 9, 1956, eff. July 8, 1956; Apr. 24, 1972, eff. Oct. 1, 1972; Mar. 18, 1974, eff. July 1, 1974; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; [Pub. L. 95–78, § 2(e)][/us/pl/95/78/s2/e], July 30, 1977, [91 Stat. 320][/us/stat/91/320], eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; [Pub. L. 107–56, title II, § 219][/us/pl/107/56/s219], Oct. 26, 2001, [115 Stat. 291][/us/stat/115/291]; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 9, 1956, eff. July 8, 1956; Apr. 24, 1972, eff. Oct. 1, 1972; Mar. 18, 1974, eff. July 1, 1974; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; [Pub. L. 95–78][/us/pl/95/78], § 2(e), July 30, 1977, [91 Stat. 320][/us/stat/91/320], eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 219, Oct. 26, 2001, [115 Stat. 291][/us/stat/115/291]; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -331,7 +331,7 @@
 
  __Congressional Modification of Proposed 1977 Amendment__ 
 
-    [Pub. L. 95–78, § 2(e)][/us/pl/95/78/s2/e], July 30, 1977, [91 Stat. 320][/us/stat/91/320], provided in part that the amendment by the Supreme Court \[in its order of Apr. 26, 1976\] to subdivision (c) of rule 41 of the Federal Rules of Criminal Procedure \[subd. (c) of this rule\] is approved in a modified form.
+    [Pub. L. 95–78][/us/pl/95/78], § 2(e), July 30, 1977, [91 Stat. 320][/us/stat/91/320], provided in part that the amendment by the Supreme Court \[in its order of Apr. 26, 1976\] to subdivision (c) of rule 41 of the Federal Rules of Criminal Procedure \[subd. (c) of this rule\] is approved in a modified form.
 
  __Notes of Advisory Committee on Rules—1979 Amendment__ 
 
@@ -405,7 +405,7 @@
 
     The Committee considered amendments to Rule 41(c)(2)(B), Application, Rule 41(c)(2)(C), Issuance, and Rule 41(g), Return of Papers to Clerk, but determined that allowing use of facsimile transmissions in those instances would not save time and would present problems and questions concerning the need to preserve facsimile copies.
 
-    The Rule is also amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is also amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Committee Notes on Rules—2002 Amendment__ 
 
@@ -518,17 +518,17 @@ Subdivision (e)(2). Computers and other electronic storage media commonly contai
 ----------
 ----------
 
-[/us/pl/95/78/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fe
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F320
-[/us/pl/107/56/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs219
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F291
 [/us/usc/t18/s611–626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs611%E2%80%93626
 [/us/usc/t18/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3105
 [/us/usc/t22/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs402
 [/us/usc/t18/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3113
-[/us/pl/95/78/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fe
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F320
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331

@@ -117,7 +117,7 @@
 
      Rule 26.2(a)–(d) and (f) applies at a hearing under this rule. If a party fails to comply with a Rule 26.2 order to produce a witness’s statement, the court must not consider that witness’s testimony.
 
-(Added Apr. 30, 1979, eff. Dec. 1, 1980; amended [Pub. L. 99–646, § 12(b)][/us/pl/99/646/s12/b], Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(Added Apr. 30, 1979, eff. Dec. 1, 1980; amended [Pub. L. 99–646][/us/pl/99/646], § 12(b), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 28, 2010, eff. Dec. 1, 2010.)
 
  __Notes of Advisory Committee on Rules—1979__ 
 
@@ -229,7 +229,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 12(c)(2)][/us/pl/99/646/s12/c/2], Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 12(c)(2), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
 
 > “The amendments made by subsection (b) \[amending this rule\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
 
@@ -244,10 +244,10 @@
 ----------
 ----------
 
-[/us/pl/99/646/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs12%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/99/646/s12/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs12%2Fc%2F2
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
 [/us/pl/96/42/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42%2Fs1%2F1
 [/us/stat/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F326

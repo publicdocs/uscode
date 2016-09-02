@@ -129,7 +129,7 @@
 
      A variance from the requirements of this rule is harmless error if it does not affect substantial rights.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(5)][/us/pl/94/64/s3/5]–(10), July 31, 1975, [89 Stat. 371][/us/stat/89/371], 372; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; [Pub. L. 100–690, title VII, § 7076][/us/pl/100/690/s7076], Nov. 18, 1988, [102 Stat. 4406][/us/stat/102/4406]; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(5)–(10), July 31, 1975, [89 Stat. 371][/us/stat/89/371], 372; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7076, Nov. 18, 1988, [102 Stat. 4406][/us/stat/102/4406]; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -566,9 +566,9 @@ The purpose of the amendment is to draw more specific attention to the fact that
 ----------
 ----------
 
-[/us/pl/94/64/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F5
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F371
-[/us/pl/100/690/s7076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7076
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4406
 [/us/usc/t18/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs724
 [/us/pl/93/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F595

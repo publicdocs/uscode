@@ -19,7 +19,7 @@
 
     (b) Until such time as rules under subsection (a) first become effective, the Federal courts shall in each case involving classified information adapt procedures to protect against the unauthorized disclosure of such information.
 
-([Pub. L. 96–456, § 9][/us/pl/96/456/s9], Oct. 15, 1980, [94 Stat. 2029][/us/stat/94/2029]; [Pub. L. 108–458, title I, § 1071(f)][/us/pl/108/458/s1071/f], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
+([Pub. L. 96–456][/us/pl/96/456], § 9, Oct. 15, 1980, [94 Stat. 2029][/us/stat/94/2029]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(f), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
 
  __References in Text__ 
 
@@ -124,9 +124,9 @@
 ----------
 ----------
 
-[/us/pl/96/456/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs9
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2029
-[/us/pl/108/458/s1071/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Ff
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

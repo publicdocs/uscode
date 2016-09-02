@@ -45,7 +45,7 @@
 
             (B) Denial of a Motion for a New Trial. If the court conditionally denies a motion for a new trial, an appellee may assert that the denial was erroneous. If the appellate court later reverses the judgment of acquittal, the trial court must proceed as the appellate court directs.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; [Pub. L. 99–646, § 54(a)][/us/pl/99/646/s54/a], Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607]; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; [Pub. L. 99–646][/us/pl/99/646], § 54(a), Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607]; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -113,7 +113,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 54(b)][/us/pl/99/646/s54/b], Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 54(b), Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607], provided that: 
 
 > “The amendments made by this section \[amending this rule\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].”
 
@@ -124,10 +124,10 @@
 ----------
 ----------
 
-[/us/pl/99/646/s54/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs54%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3607
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/99/646/s54/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs54%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3607
 
 

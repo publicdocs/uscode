@@ -63,7 +63,7 @@
 
      If the defendant’s conviction or sentence creates a civil or employment disability under federal law, the district court, or the court of appeals under Federal Rule of Appellate Procedure 8, may stay the disability pending appeal on any terms considered appropriate. The court may issue any order reasonably necessary to protect the interest represented by the disability pending appeal, including a restraining order or an injunction.
 
-(As amended Dec. 27, 1948, eff. Jan. 1, 1949; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Apr. 24, 1972, eff. Oct. 1, 1972; [Pub. L. 98–473, title II, § 215(c)][/us/pl/98/473/s215/c], Oct. 12, 1984, [98 Stat. 2016][/us/stat/98/2016]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Dec. 27, 1948, eff. Jan. 1, 1949; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Apr. 24, 1972, eff. Oct. 1, 1972; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 215(c), Oct. 12, 1984, [98 Stat. 2016][/us/stat/98/2016]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -119,25 +119,25 @@
 
  __Amendment by Public Law__ 
 
-    1984—[Pub. L. 98–473, § 215(c)(1)][/us/pl/98/473/s215/c/1], substituted “Stay of Execution” for “Stay of Execution, and Relief Pending Review” in rule catchline.
+    1984—[Pub. L. 98–473][/us/pl/98/473], § 215(c)(1), substituted “Stay of Execution” for “Stay of Execution, and Relief Pending Review” in rule catchline.
 
-    Subd. (a). [Pub. L. 98–473, § 215(c)(1)][/us/pl/98/473/s215/c/1], struck out subd. heading “(a) Stay of Execution”.
+    Subd. (a). [Pub. L. 98–473][/us/pl/98/473], § 215(c)(1), struck out subd. heading “(a) Stay of Execution”.
 
-    [Pub. L. 98–473, § 215(c)(3)][/us/pl/98/473/s215/c/3], (4), redesignated subd. (a)(1) as (a), and inserted “from the conviction or sentence” after “is taken”.
+    [Pub. L. 98–473][/us/pl/98/473], § 215(c)(3), (4), redesignated subd. (a)(1) as (a), and inserted “from the conviction or sentence” after “is taken”.
 
-    Subd. (b). [Pub. L. 98–473, § 215(c)(3)][/us/pl/98/473/s215/c/3], (5), redesignated subd. (a)(2) as (b), and inserted “from the conviction or sentence” after “is taken”.
+    Subd. (b). [Pub. L. 98–473][/us/pl/98/473], § 215(c)(3), (5), redesignated subd. (a)(2) as (b), and inserted “from the conviction or sentence” after “is taken”.
 
-    [Pub. L. 98–473, § 215(c)(2)][/us/pl/98/473/s215/c/2], struck out subd. (b) relating to bail, which had been abrogated Dec. 4, 1967, eff. July 1, 1968.
+    [Pub. L. 98–473][/us/pl/98/473], § 215(c)(2), struck out subd. (b) relating to bail, which had been abrogated Dec. 4, 1967, eff. July 1, 1968.
 
-    Subd. (c). [Pub. L. 98–473, § 215(c)(3)][/us/pl/98/473/s215/c/3], redesignated subd. (a)(3) as (c).
+    Subd. (c). [Pub. L. 98–473][/us/pl/98/473], § 215(c)(3), redesignated subd. (a)(3) as (c).
 
-    [Pub. L. 98–473, § 215(c)(2)][/us/pl/98/473/s215/c/2], struck out subd. (c) relating to application for relief pending review, which had been abrogated Dec. 4, 1967, eff. July 1, 1968.
+    [Pub. L. 98–473][/us/pl/98/473], § 215(c)(2), struck out subd. (c) relating to application for relief pending review, which had been abrogated Dec. 4, 1967, eff. July 1, 1968.
 
-Subd. (d). [Pub. L. 98–473, § 215(c)(3)][/us/pl/98/473/s215/c/3], (6), redesignated subd. (a)(4) as (d) and amended it generally. Prior to amendment, subd. (a)(4) read as follows: 
+Subd. (d). [Pub. L. 98–473][/us/pl/98/473], § 215(c)(3), (6), redesignated subd. (a)(4) as (d) and amended it generally. Prior to amendment, subd. (a)(4) read as follows: 
 
 > “An order placing the defendant on probation may be stayed if an appeal is taken. If not stayed, the court shall specify when the term of probation shall commence. If the order is stayed the court shall fix the terms of the stay.”
 
-    Subds. (e), (f). [Pub. L. 98–473, § 215(c)(7)][/us/pl/98/473/s215/c/7], added subds. (e) and (f).
+    Subds. (e), (f). [Pub. L. 98–473][/us/pl/98/473], § 215(c)(7), added subds. (e) and (f).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -150,17 +150,17 @@ Subd. (d). [Pub. L. 98–473, § 215(c)(3)][/us/pl/98/473/s215/c/3], (6), rede
 ----------
 ----------
 
-[/us/pl/98/473/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2016
-[/us/pl/98/473/s215/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F1
-[/us/pl/98/473/s215/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F1
-[/us/pl/98/473/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F3
-[/us/pl/98/473/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F3
-[/us/pl/98/473/s215/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F2
-[/us/pl/98/473/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F3
-[/us/pl/98/473/s215/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F2
-[/us/pl/98/473/s215/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F3
-[/us/pl/98/473/s215/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fc%2F7
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

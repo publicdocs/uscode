@@ -125,7 +125,7 @@
 
      Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; [Pub. L. 98–473, title II, § 209(a)][/us/pl/98/473/s209/a], Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 209(a), Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -191,7 +191,7 @@ The amendment of subdivision (b) reflects the recent amendment of 18 U.S.C. §�
 
  __Notes of Advisory Committee on Rules—1993 Amendment__ 
 
-    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Notes of Advisory Committee on Rules—1995 Amendment__ 
 
@@ -284,7 +284,7 @@ The amendment of subdivision (b) reflects the recent amendment of 18 U.S.C. §�
 ----------
 ----------
 
-[/us/pl/98/473/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1986
 [/us/usc/t5/s300a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs300a
 [/us/usc/t18/s3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3052
@@ -293,7 +293,7 @@ The amendment of subdivision (b) reflects the recent amendment of 18 U.S.C. §�
 [/us/usc/t46/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs708
 [/us/usc/t18/s2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2279
 [/us/usc/t18/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs591
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/stat/114/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2488
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

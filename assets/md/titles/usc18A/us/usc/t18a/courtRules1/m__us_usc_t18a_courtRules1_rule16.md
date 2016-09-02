@@ -143,7 +143,7 @@
 
             (D) enter any other order that is just under the circumstances.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(20)][/us/pl/94/64/s3/20]–(28), July 31, 1975, [89 Stat. 374][/us/stat/89/374], 375; [Pub. L. 94–149, § 5][/us/pl/94/149/s5], Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–273, div. C, title I, § 11019(b)][/us/pl/107/273/s11019/b], Nov. 2, 2002, [117 Stat. 1825][/us/stat/117/1825]; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(20)–(28), July 31, 1975, [89 Stat. 374][/us/stat/89/374], 375; [Pub. L. 94–149][/us/pl/94/149], § 5, Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11019(b), Nov. 2, 2002, [117 Stat. 1825][/us/stat/117/1825]; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -443,9 +443,9 @@ Having reached the conclusion that it is desirable to require broader disclosure
 
  __Amendment by Public Law__ 
 
-    2002—Subd. (a)(1)(G). [Pub. L. 107–273, § 11019(b)(1)][/us/pl/107/273/s11019/b/1], amended subpar. (G) generally.
+    2002—Subd. (a)(1)(G). [Pub. L. 107–273][/us/pl/107/273], § 11019(b)(1), amended subpar. (G) generally.
 
-    Subd. (b)(1)(C). [Pub. L. 107–273, § 11019(b)(2)][/us/pl/107/273/s11019/b/2], amended subpar. (C) generally.
+    Subd. (b)(1)(C). [Pub. L. 107–273][/us/pl/107/273], § 11019(b)(2), amended subpar. (C) generally.
 
     1975—Subd. (a)(1). [Pub. L. 94–64][/us/pl/94/64] amended subpars. (A), (B), and (D) generally, and struck out subpar. (E).
 
@@ -461,7 +461,7 @@ Having reached the conclusion that it is desirable to require broader disclosure
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–273, div. C, title I, § 11019(c)][/us/pl/107/273/s11019/c], Nov. 2, 2002, [116 Stat. 1826][/us/stat/116/1826], provided that: 
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11019(c), Nov. 2, 2002, [116 Stat. 1826][/us/stat/116/1826], provided that: 
 
 > “The amendments made by subsection (b) \[amending this rule\] shall take effect on December 1, 2002.”
 
@@ -476,22 +476,22 @@ Having reached the conclusion that it is desirable to require broader disclosure
 ----------
 ----------
 
-[/us/pl/94/64/s3/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F20
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F374
-[/us/pl/94/149/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149%2Fs5
+[/us/pl/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149
 [/us/stat/89/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F806
-[/us/pl/107/273/s11019/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11019%2Fb
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/117/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1825
 [/us/usc/t18/s3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3432
-[/us/pl/107/273/s11019/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11019%2Fb%2F1
-[/us/pl/107/273/s11019/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11019%2Fb%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
-[/us/pl/107/273/s11019/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11019%2Fc
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1826
 [/us/pl/94/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3
 [/us/pl/94/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs2

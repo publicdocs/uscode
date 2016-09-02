@@ -15,7 +15,7 @@
 
 # Title 18—APPENDIXUNLAWFUL POSSESSION OR RECEIPT OF FIREARMS
 
-Current through 114-165
+Current through 114-183
 
 <table>
 
@@ -63,13 +63,13 @@ Current through 114-165
 
  __UNLAWFUL POSSESSION OR RECEIPT OF FIREARMS__ 
 
-\[§§ 1201 to 1203. __Repealed.__  __[__  __Pub. L. 99–308, § 104(b)__  __][/us/pl/99/308/s104/b]__  __,__  __May 19, 1986__  __,__  __[__  __100 Stat. 459__  __][/us/stat/100/459]__  __\]__ 
+\[§§ 1201 to 1203. __Repealed.__  __[__  __Pub. L. 99–308__  __][/us/pl/99/308]__  __, § 104(b),__  __May 19, 1986__  __,__  __[__  __100 Stat. 459__  __][/us/stat/100/459]__  __\]__ 
 
-    Section 1201, [Pub. L. 90–351, title VII, § 1201][/us/pl/90/351/s1201], June 19, 1968, [82 Stat. 236][/us/stat/82/236]; [Pub. L. 90–618, title III, § 301(a)(1)][/us/pl/90/618/s301/a/1], Oct. 22, 1968, [82 Stat. 1236][/us/stat/82/1236], related to Congressional findings and declaration of policy with respect to receipt, possession, or transportation of firearms by felons, veterans who are discharged under dishonorable conditions, mental incompetents, aliens who are illegally in this country, and former citizens who have renounced their citizenship.
+    Section 1201, [Pub. L. 90–351, title VII][/us/pl/90/351/tVII], § 1201, June 19, 1968, [82 Stat. 236][/us/stat/82/236]; [Pub. L. 90–618, title III][/us/pl/90/618/tIII], § 301(a)(1), Oct. 22, 1968, [82 Stat. 1236][/us/stat/82/1236], related to Congressional findings and declaration of policy with respect to receipt, possession, or transportation of firearms by felons, veterans who are discharged under dishonorable conditions, mental incompetents, aliens who are illegally in this country, and former citizens who have renounced their citizenship.
 
-    Section 1202, [Pub. L. 90–351, title VII, § 1202][/us/pl/90/351/s1202], June 19, 1968, [82 Stat. 236][/us/stat/82/236]; [Pub. L. 90–618, title III, § 301(a)(2)][/us/pl/90/618/s301/a/2], (b), Oct. 22, 1968, [82 Stat. 1236][/us/stat/82/1236]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 1802, 1803, Oct. 12, 1984, [98 Stat. 2185][/us/stat/98/2185], provided penalties for receipt, possession, or transportation of firearms in commerce or affecting commerce by a convicted felon, dishonorably discharged veteran, mental incompetent, former citizen, illegal alien, or by any individual employed by such a person, and defined terms used in former sections 1201 to 1203 of this Appendix. See [section 924 of this title][/us/usc/t18/s924].
+    Section 1202, [Pub. L. 90–351, title VII][/us/pl/90/351/tVII], § 1202, June 19, 1968, [82 Stat. 236][/us/stat/82/236]; [Pub. L. 90–618, title III][/us/pl/90/618/tIII], § 301(a)(2), (b), Oct. 22, 1968, [82 Stat. 1236][/us/stat/82/1236]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 1802, 1803, Oct. 12, 1984, [98 Stat. 2185][/us/stat/98/2185], provided penalties for receipt, possession, or transportation of firearms in commerce or affecting commerce by a convicted felon, dishonorably discharged veteran, mental incompetent, former citizen, illegal alien, or by any individual employed by such a person, and defined terms used in former sections 1201 to 1203 of this Appendix. See [section 924 of this title][/us/usc/t18/s924].
 
-    Section 1203, [Pub. L. 90–351, title VII, § 1203][/us/pl/90/351/s1203], June 19, 1968, [82 Stat. 237][/us/stat/82/237], related to persons exempt from the provisions of former sections 1201 to 1203 of this Appendix.
+    Section 1203, [Pub. L. 90–351, title VII][/us/pl/90/351/tVII], § 1203, June 19, 1968, [82 Stat. 237][/us/stat/82/237], related to persons exempt from the provisions of former sections 1201 to 1203 of this Appendix.
 
  __Effective Date of Repeal__ 
 
@@ -77,13 +77,13 @@ Current through 114-165
 
  __INTERSTATE AGREEMENT ON DETAINERS__ 
 
-[Pub. L. 91–538][/us/pl/91/538], Dec. 9, 1970, [84 Stat. 1397][/us/stat/84/1397], as amended by [Pub. L. 100–690, title VII, § 7059][/us/pl/100/690/s7059], Nov. 18, 1988, [102 Stat. 4403][/us/stat/102/4403]
+[Pub. L. 91–538][/us/pl/91/538], Dec. 9, 1970, [84 Stat. 1397][/us/stat/84/1397], as amended by [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7059, Nov. 18, 1988, [102 Stat. 4403][/us/stat/102/4403]
 
 § 1. __Short title__ 
 
     This Act may be cited as the “Interstate Agreement on Detainers Act”.
 
-([Pub. L. 91–538, § 1][/us/pl/91/538/s1], Dec. 9, 1970, [84 Stat. 1397][/us/stat/84/1397].)
+([Pub. L. 91–538][/us/pl/91/538], § 1, Dec. 9, 1970, [84 Stat. 1397][/us/stat/84/1397].)
 
 § 2. __Enactment into law of Interstate Agreement on Detainers__ 
 
@@ -171,51 +171,51 @@ Current through 114-165
 
     “This agreement shall be liberally construed so as to effectuate its purposes. The provisions of this agreement shall be severable and if any phrase, clause, sentence, or provision of this agreement is declared to be contrary to the constitution of any party State or of the United States or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this agreement and the applicability thereof to any government, agency, person, or circumstance shall not be affected thereby. If this agreement shall be held contrary to the constitution of any State party hereto, the agreement shall remain in full force and effect as to the remaining States and in full force and effect as to the State affected as to all severable matters.”
 
-([Pub. L. 91–538, § 2][/us/pl/91/538/s2], Dec. 9, 1970, [84 Stat. 1397][/us/stat/84/1397].)
+([Pub. L. 91–538][/us/pl/91/538], § 2, Dec. 9, 1970, [84 Stat. 1397][/us/stat/84/1397].)
 
 § 3. __Definition of term “Governor” for purposes of United States and District of Columbia__ 
 
     The term “Governor” as used in the agreement on detainers shall mean with respect to the United States, the Attorney General, and with respect to the District of Columbia, the Mayor of the District of Columbia.
 
-([Pub. L. 91–538, § 3][/us/pl/91/538/s3], Dec. 9, 1970, [84 Stat. 1402][/us/stat/84/1402].)
+([Pub. L. 91–538][/us/pl/91/538], § 3, Dec. 9, 1970, [84 Stat. 1402][/us/stat/84/1402].)
 
  __Transfer of Functions__ 
 
-    “Mayor of the District of Columbia” substituted in text for “Commissioner of the District of Columbia” pursuant to [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3, of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
+    “Mayor of the District of Columbia” substituted in text for “Commissioner of the District of Columbia” pursuant to [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3, of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
 
 § 4. __Definition of term “appropriate court”__ 
 
     The term “appropriate court” as used in the agreement on detainers shall mean with respect to the United States, the courts of the United States, and with respect to the District of Columbia, the courts of the District of Columbia, in which indictments, informations, or complaints, for which disposition is sought, are pending.
 
-([Pub. L. 91–538, § 4][/us/pl/91/538/s4], Dec. 9, 1970, [84 Stat. 1402][/us/stat/84/1402].)
+([Pub. L. 91–538][/us/pl/91/538], § 4, Dec. 9, 1970, [84 Stat. 1402][/us/stat/84/1402].)
 
 § 5. __Enforcement and cooperation by courts, departments, agencies, officers, and employees of United States and District of Columbia__ 
 
     All courts, departments, agencies, officers, and employees of the United States and of the District of Columbia are hereby directed to enforce the agreement on detainers and to cooperate with one another and with all party States in enforcing the agreement and effectuating its purpose.
 
-([Pub. L. 91–538, § 5][/us/pl/91/538/s5], Dec. 9, 1970, [84 Stat. 1402][/us/stat/84/1402].)
+([Pub. L. 91–538][/us/pl/91/538], § 5, Dec. 9, 1970, [84 Stat. 1402][/us/stat/84/1402].)
 
 § 6. __Regulations, forms, and instructions__ 
 
     For the United States, the Attorney General, and for the District of Columbia, the Mayor of the District of Columbia, shall establish such regulations, prescribe such forms, issue such instructions, and perform such other acts as he deems necessary for carrying out the provisions of this Act.
 
-([Pub. L. 91–538, § 6][/us/pl/91/538/s6], Dec. 9, 1970, [84 Stat. 1403][/us/stat/84/1403].)
+([Pub. L. 91–538][/us/pl/91/538], § 6, Dec. 9, 1970, [84 Stat. 1403][/us/stat/84/1403].)
 
  __Transfer of Functions__ 
 
-    “Mayor of the District of Columbia” substituted in text for “Commissioner of the District of Columbia” pursuant to [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
+    “Mayor of the District of Columbia” substituted in text for “Commissioner of the District of Columbia” pursuant to [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
 
 § 7. __Reservation of right to alter, amend, or repeal__ 
 
     The right to alter, amend, or repeal this Act is expressly reserved.
 
-([Pub. L. 91–538, § 7][/us/pl/91/538/s7], Dec. 9, 1970, [84 Stat. 1403][/us/stat/84/1403].)
+([Pub. L. 91–538][/us/pl/91/538], § 7, Dec. 9, 1970, [84 Stat. 1403][/us/stat/84/1403].)
 
 § 8. __Effective Date__ 
 
     This Act shall take effect on the ninetieth day after the date of its enactment.
 
-([Pub. L. 91–538, § 8][/us/pl/91/538/s8], Dec. 9, 1970, [84 Stat. 1403][/us/stat/84/1403].)
+([Pub. L. 91–538][/us/pl/91/538], § 8, Dec. 9, 1970, [84 Stat. 1403][/us/stat/84/1403].)
 
  __References in Text__ 
 
@@ -229,7 +229,7 @@ Current through 114-165
 
     (2) it shall not be a violation of the agreement on detainers if prior to trial the prisoner is returned to the custody of the sending State pursuant to an order of the appropriate court issued after reasonable notice to the prisoner and the United States and an opportunity for a hearing.
 
-([Pub. L. 91–538, § 9][/us/pl/91/538/s9], as added [Pub. L. 100–690, title VII, § 7059][/us/pl/100/690/s7059], Nov. 18, 1988, [102 Stat. 4403][/us/stat/102/4403].)
+([Pub. L. 91–538][/us/pl/91/538], § 9, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7059, Nov. 18, 1988, [102 Stat. 4403][/us/stat/102/4403].)
 
 ----------
 
@@ -238,53 +238,53 @@ Current through 114-165
 ----------
 ----------
 
-[/us/pl/99/308/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs104%2Fb
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F459
-[/us/pl/90/351/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1201
+[/us/pl/90/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtVII
 [/us/stat/82/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F236
-[/us/pl/90/618/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs301%2Fa%2F1
+[/us/pl/90/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtIII
 [/us/stat/82/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1236
-[/us/pl/90/351/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1202
+[/us/pl/90/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtVII
 [/us/stat/82/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F236
-[/us/pl/90/618/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs301%2Fa%2F2
+[/us/pl/90/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtIII
 [/us/stat/82/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1236
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2185
 [/us/usc/t18/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924
-[/us/pl/90/351/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1203
+[/us/pl/90/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtVII
 [/us/stat/82/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F237
 [/us/pl/99/308/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs110%2Fa
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1397
-[/us/pl/100/690/s7059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7059
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4403
-[/us/pl/91/538/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs1
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1397
-[/us/pl/91/538/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs2
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1397
-[/us/pl/91/538/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs3
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1402
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
-[/us/pl/91/538/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs4
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1402
-[/us/pl/91/538/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs5
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1402
-[/us/pl/91/538/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs6
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1403
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
-[/us/pl/91/538/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs7
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1403
-[/us/pl/91/538/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs8
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
 [/us/stat/84/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1403
-[/us/pl/91/538/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538%2Fs9
-[/us/pl/100/690/s7059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7059
+[/us/pl/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F538
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4403
 
 

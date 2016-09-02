@@ -75,7 +75,7 @@
 
      Evidence of an intention as to which notice was given under Rule 12.3(a), later withdrawn, is not, in any civil or criminal proceeding, admissible against the person who gave notice of the intention.
 
-(Added [Pub. L. 100–690, title VI, § 6483][/us/pl/100/690/s6483], Nov. 18, 1988, [102 Stat. 4382][/us/stat/102/4382]; amended Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6483, Nov. 18, 1988, [102 Stat. 4382][/us/stat/102/4382]; amended Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)
 
  __Committee Notes on Rules—2002 Amendment__ 
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6483
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4382
 
 

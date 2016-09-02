@@ -79,7 +79,7 @@
 
  __Congressional Disapproval of Proposed 1977 Amendment__ 
 
-[Pub. L. 95–78, § 2(c)][/us/pl/95/78/s2/c], July 30, 1977, [91 Stat. 320][/us/stat/91/320], effective Oct. 1, 1977, provided that: 
+[Pub. L. 95–78][/us/pl/95/78], § 2(c), July 30, 1977, [91 Stat. 320][/us/stat/91/320], effective Oct. 1, 1977, provided that: 
 
 > “The amendment proposed by the Supreme Court \[in its order of Apr. 26, 1977\] to rule 24 of such Rules of Criminal Procedure is disapproved and shall not take effect.”
 
@@ -115,7 +115,7 @@
 ----------
 
 [/us/usc/t28/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs424
-[/us/pl/95/78/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fc
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F320
 
 

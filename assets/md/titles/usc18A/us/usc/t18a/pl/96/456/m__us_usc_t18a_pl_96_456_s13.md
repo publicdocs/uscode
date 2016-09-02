@@ -21,7 +21,7 @@
 
     (c) The Attorney General shall deliver to the appropriate committees of Congress a report concerning the operation and effectiveness of this Act and including suggested amendments to this Act. For the first three years this Act is in effect, there shall be a report each year. After three years, such reports shall be delivered as necessary.
 
-([Pub. L. 96–456, § 13][/us/pl/96/456/s13], Oct. 15, 1980, [94 Stat. 2030][/us/stat/94/2030]; [Pub. L. 107–306, title VIII, § 811(b)(3)][/us/pl/107/306/s811/b/3], Nov. 27, 2002, [116 Stat. 2423][/us/stat/116/2423].)
+([Pub. L. 96–456][/us/pl/96/456], § 13, Oct. 15, 1980, [94 Stat. 2030][/us/stat/94/2030]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(3), Nov. 27, 2002, [116 Stat. 2423][/us/stat/116/2423].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/96/456/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs13
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2030
-[/us/pl/107/306/s811/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F3
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2423
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306

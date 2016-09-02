@@ -51,7 +51,7 @@
 
         (2) Waiver’s Effect. If the defendant waives the right to be present, the trial may proceed to completion, including the verdict’s return and sentencing, during the defendant’s absence.
 
-(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(35)][/us/pl/94/64/s3/35], July 31, 1975, [89 Stat. 376][/us/stat/89/376]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(35), July 31, 1975, [89 Stat. 376][/us/stat/89/376]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -148,7 +148,7 @@ Subdivision (b)(1) makes clear that voluntary absence may constitute a waiver ev
 ----------
 ----------
 
-[/us/pl/94/64/s3/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F35
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F376
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3

@@ -41,7 +41,7 @@
 
      As used in this rule, “sentencing” means the oral announcement of the sentence.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II, § 215(b)][/us/pl/98/473/s215/b], Oct. 12, 1984, [98 Stat. 2015][/us/stat/98/2015]; Apr. 29, 1985, eff. Aug. 1, 1985; [Pub. L. 99–570, title I, § 1009(a)][/us/pl/99/570/s1009/a], Oct. 27, 1986, [100 Stat. 3207–8][/us/stat/100/3207-8]; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 215(b), Oct. 12, 1984, [98 Stat. 2015][/us/stat/98/2015]; Apr. 29, 1985, eff. Aug. 1, 1985; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1009(a), Oct. 27, 1986, [100 Stat. 3207–8][/us/stat/100/3207-8]; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -171,7 +171,7 @@ The other amendments to the second sentence clarify ambiguities in the timing pr
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1009(b)][/us/pl/99/570/s1009/b], Oct. 27, 1986, [100 Stat. 3207–8][/us/stat/100/3207-8], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1009(b), Oct. 27, 1986, [100 Stat. 3207–8][/us/stat/100/3207-8], provided that: 
 
 > “The amendment made by this section \[amending this rule\] shall take effect on the date of the taking effect of rule 35(b) of the Federal Rules of Criminal Procedure, as amended by section 215(b) of the Comprehensive Crime Control Act of 1984 \[[section 215(b) of Pub. L. 98–473][/us/pl/98/473/s215/b], effective Nov. 1, 1987\].”
 
@@ -179,7 +179,7 @@ The other amendments to the second sentence clarify ambiguities in the timing pr
 
     Section 2 of the Order of the Supreme Court dated Apr. 29, 1985, provided: “That the foregoing amendments to the Federal Rules of Criminal Procedure \[amending Rules 6, 11, 12.1, 12.2, 35, 45, 49, and 57\] shall take effect on August 1, 1985 and shall govern all proceedings in criminal cases thereafter commenced and, insofar as just and practicable, all proceedings in criminal cases then pending. The amendment to Rule 35(b) shall be effective until November 1, 1986, when Section 215(b) of the Comprehensive Crime Control Act of 1984, [Pub. L. 98–473][/us/pl/98/473], approved October 12, 1984, [98 Stat. 2015][/us/stat/98/2015], goes into effect.” See [section 22 of Pub. L. 100–182][/us/pl/100/182/s22], set out below, for application of Rule 35(b) to conduct occurring before effective date of sentencing guidelines.
 
-    [Pub. L. 98–473, title II, § 235(a)(1)][/us/pl/98/473/s235/a/1], Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], which originally provided for an effective date of Nov. 1, 1986 for the amendment to Rule 35 by [section 215(b) of Pub. L. 98–473][/us/pl/98/473/s215/b], was later amended to provide for an effective date of Nov. 1, 1987, with applicability only to offenses committed after the taking effect of such amendment. See Effective Date note set out under [section 3551 of this title][/us/usc/t18/s3551].
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 235(a)(1), Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], which originally provided for an effective date of Nov. 1, 1986 for the amendment to Rule 35 by [section 215(b) of Pub. L. 98–473][/us/pl/98/473/s215/b], was later amended to provide for an effective date of Nov. 1, 1987, with applicability only to offenses committed after the taking effect of such amendment. See Effective Date note set out under [section 3551 of this title][/us/usc/t18/s3551].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -187,7 +187,7 @@ The other amendments to the second sentence clarify ambiguities in the timing pr
 
  __Application of Rule 35(b) to Conduct Occurring Before Effective Date of Sentencing Guidelines__ 
 
-[Pub. L. 100–182, § 22][/us/pl/100/182/s22], Dec. 7, 1987, [101 Stat. 1271][/us/stat/101/1271], provided that: 
+[Pub. L. 100–182][/us/pl/100/182], § 22, Dec. 7, 1987, [101 Stat. 1271][/us/stat/101/1271], provided that: 
 
 > “The amendment to rule 35(b) of the Federal Rules of Criminal Procedure made by the order of the Supreme Court on April 29, 1985, shall apply with respect to all offenses committed before the taking effect of section 215(b) of the Comprehensive Crime Control Act of 1984 \[[section 215(b) of Pub. L. 98–473][/us/pl/98/473/s215/b], effective Nov. 1, 1987\].”
 
@@ -202,29 +202,29 @@ The other amendments to the second sentence clarify ambiguities in the timing pr
 ----------
 ----------
 
-[/us/pl/98/473/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2015
-[/us/pl/99/570/s1009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1009%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-8
 [/us/usc/t18/s3742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3742
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t28/s994/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/99/570/s1009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1009%2Fb
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-8
 [/us/pl/98/473/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fb
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2015
 [/us/pl/100/182/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs22
-[/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2031
 [/us/pl/98/473/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fb
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/100/182/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs22
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1271
 [/us/pl/98/473/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fb
 [/us/pl/98/473/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fb

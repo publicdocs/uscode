@@ -17,7 +17,7 @@
 
     That this Act may be cited as the “Classified Information Procedures Act”.
 
-([Pub. L. 96–456, § 16][/us/pl/96/456/s16], Oct. 15, 1980, [94 Stat. 2031][/us/stat/94/2031].)
+([Pub. L. 96–456][/us/pl/96/456], § 16, Oct. 15, 1980, [94 Stat. 2031][/us/stat/94/2031].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/456/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs16
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2031
 
 

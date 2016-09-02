@@ -75,7 +75,7 @@
 
  __References in Text__ 
 
-    18 U.S.C. § 3771(e), referred to in subd. (b)(2), was redesignated 18 U.S.C. § 3771(e)(2) by [Pub. L. 114–22, title I, § 113(a)(3)(A)][/us/pl/114/22/s113/a/3/A], May 29, 2015, [129 Stat. 240][/us/stat/129/240].
+    18 U.S.C. § 3771(e), referred to in subd. (b)(2), was redesignated 18 U.S.C. § 3771(e)(2) by [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 113(a)(3)(A), May 29, 2015, [129 Stat. 240][/us/stat/129/240].
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F3%2FA
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 
 

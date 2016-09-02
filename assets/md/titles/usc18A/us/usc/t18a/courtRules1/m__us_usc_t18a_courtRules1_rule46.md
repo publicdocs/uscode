@@ -87,7 +87,7 @@
 
         (2) Sanctions for Not Producing a Statement. If a party disobeys a Rule 26.2 order to produce a witness’s statement, the court must not consider that witness’s testimony at the detention hearing.
 
-(As amended Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; [Pub. L. 98–473, title II, § 209(d)][/us/pl/98/473/s209/d], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; [Pub. L. 103–322, title XXXIII, § 330003(h)][/us/pl/103/322/s330003/h], Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141]; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 209(d), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330003(h), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141]; Apr. 29, 2002, eff. Dec. 1, 2002.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -167,13 +167,13 @@
 
     1994—Subd. (i)(1). [Pub. L. 103–322][/us/pl/103/322] substituted “3142” for “3144”.
 
-    1984—Subd. (a). [Pub. L. 98–473, § 209(d)(1)][/us/pl/98/473/s209/d/1], substituted “§§ 3142 and 3144” for “§ 3146, § 3148, or § 3149”.
+    1984—Subd. (a). [Pub. L. 98–473][/us/pl/98/473], § 209(d)(1), substituted “§§ 3142 and 3144” for “§ 3146, § 3148, or § 3149”.
 
-    Subd. (c). [Pub. L. 98–473, § 209(d)(2)][/us/pl/98/473/s209/d/2], substituted “3143” for “3148”.
+    Subd. (c). [Pub. L. 98–473][/us/pl/98/473], § 209(d)(2), substituted “3143” for “3148”.
 
-    Subd. (e)(2). [Pub. L. 98–473, § 209(d)(3)][/us/pl/98/473/s209/d/3], substituted “be set aside in whole or in part upon such conditions as the court may impose, if a person released upon execution of an appearance bond with a surety is subsequently surrendered by the surety into custody or if it otherwise appears that justice does not require the forfeiture” for “set aside, upon such conditions as the court may impose, if it appears that justice does not require the enforcement of the forfeiture”.
+    Subd. (e)(2). [Pub. L. 98–473][/us/pl/98/473], § 209(d)(3), substituted “be set aside in whole or in part upon such conditions as the court may impose, if a person released upon execution of an appearance bond with a surety is subsequently surrendered by the surety into custody or if it otherwise appears that justice does not require the forfeiture” for “set aside, upon such conditions as the court may impose, if it appears that justice does not require the enforcement of the forfeiture”.
 
-    Subd. (h). [Pub. L. 98–473, § 209(d)(4)][/us/pl/98/473/s209/d/4], added subd. (h).
+    Subd. (h). [Pub. L. 98–473][/us/pl/98/473], § 209(d)(4), added subd. (h).
 
  __Effective Date of 1956 Amendment__ 
 
@@ -186,9 +186,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
-[/us/pl/103/322/s330003/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330003%2Fh
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2141
 [/us/usc/t18/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs596
 [/us/usc/t18/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs682
@@ -198,9 +198,9 @@
 [/us/usc/t31/s9304–930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9304%E2%80%93930
 [/us/usc/t18/s599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs599
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/98/473/s209/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fd%2F1
-[/us/pl/98/473/s209/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fd%2F2
-[/us/pl/98/473/s209/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fd%2F3
-[/us/pl/98/473/s209/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fd%2F4
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 
 

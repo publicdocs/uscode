@@ -139,7 +139,7 @@ The scope of rules 1 and 54 is discussed in C. Wright, Federal Practice and Proc
 
  __Notes of Advisory Committee on Rules—1993 Amendment__ 
 
-    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Committee Notes on Rules—2002 Amendment__ 
 
@@ -177,7 +177,7 @@ The scope of rules 1 and 54 is discussed in C. Wright, Federal Practice and Proc
 
  __References in Text__ 
 
-    18 U.S.C. § 3771(e), referred to in subd. (b)(12), was redesignated 18 U.S.C. § 3771(e)(2) by [Pub. L. 114–22, title I, § 113(a)(3)(A)][/us/pl/114/22/s113/a/3/A], May 29, 2015, [129 Stat. 240][/us/stat/129/240].
+    18 U.S.C. § 3771(e), referred to in subd. (b)(12), was redesignated 18 U.S.C. § 3771(e)(2) by [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 113(a)(3)(A), May 29, 2015, [129 Stat. 240][/us/stat/129/240].
 
 ----------
 
@@ -189,9 +189,9 @@ The scope of rules 1 and 54 is discussed in C. Wright, Federal Practice and Proc
 [/us/usc/t18/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs687
 [/us/usc/t18/s689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs689
 [/us/usc/t18/s576–576d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs576%E2%80%93576d
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/114/22/s113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F3%2FA
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 
 

@@ -55,7 +55,7 @@
 
      No party may subpoena a statement of a witness or of a prospective witness under this rule. Rule 26.2 governs the production of the statement.
 
-(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(29)][/us/pl/94/64/s3/29], July 31, 1975, [89 Stat. 375][/us/stat/89/375]; Apr. 30, 1979, eff. Dec. 1, 1980; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(29), July 31, 1975, [89 Stat. 375][/us/stat/89/375]; Apr. 30, 1979, eff. Dec. 1, 1980; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -115,7 +115,7 @@ Subdivision (f)(2) is amended to provide that the court has discretion over the 
 
  __Notes of Advisory Committee on Rules—1993 Amendment__ 
 
-    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Committee Notes on Rules—2002 Amendment__ 
 
@@ -158,9 +158,9 @@ Subdivision (f)(2) is amended to provide that the court has discretion over the 
 ----------
 ----------
 
-[/us/pl/94/64/s3/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F29
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F375
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/96/42/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42%2Fs1%2F1

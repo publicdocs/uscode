@@ -19,7 +19,7 @@
 
     (b) “National security”, as used in this Act, means the national defense and foreign relations of the United States.
 
-([Pub. L. 96–456, § 1][/us/pl/96/456/s1], Oct. 15, 1980, [94 Stat. 2025][/us/stat/94/2025].)
+([Pub. L. 96–456][/us/pl/96/456], § 1, Oct. 15, 1980, [94 Stat. 2025][/us/stat/94/2025].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
-[/us/pl/96/456/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025
 
 

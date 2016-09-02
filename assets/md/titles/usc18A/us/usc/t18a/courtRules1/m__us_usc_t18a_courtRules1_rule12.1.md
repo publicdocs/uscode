@@ -75,7 +75,7 @@
 
      Evidence of an intention to rely on an alibi defense, later withdrawn, or of a statement made in connection with that intention, is not, in any civil or criminal proceeding, admissible against the person who gave notice of the intention.
 
-(Added Apr. 22, 1974, eff. Dec. 1, 1975; amended [Pub. L. 94–64, § 3(13)][/us/pl/94/64/s3/13], July 31, 1975, [89 Stat. 372][/us/stat/89/372]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(Added Apr. 22, 1974, eff. Dec. 1, 1975; amended [Pub. L. 94–64][/us/pl/94/64], § 3(13), July 31, 1975, [89 Stat. 372][/us/stat/89/372]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
  __Notes of Advisory Committee on Rules—1974__ 
 
@@ -152,7 +152,7 @@
 ----------
 ----------
 
-[/us/pl/94/64/s3/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F13
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F372
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3

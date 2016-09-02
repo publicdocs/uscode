@@ -49,7 +49,7 @@
 
      The court may direct the government to file a bill of particulars. The defendant may move for a bill of particulars before or within 14 days after arraignment or at a later time if the court permits. The government may amend a bill of particulars subject to such conditions as justice requires.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 108–21, title VI, § 610(b)][/us/pl/108/21/s610/b], Apr. 30, 2003, [117 Stat. 692][/us/stat/117/692]; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 610(b), Apr. 30, 2003, [117 Stat. 692][/us/stat/117/692]; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -141,7 +141,7 @@
 ----------
 
 [/us/usc/t18/s3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3282
-[/us/pl/108/21/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs610%2Fb
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F692
 [/us/usc/t18/s753f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs753f
 [/us/usc/t18/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs541

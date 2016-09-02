@@ -35,7 +35,7 @@
 
      Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; [Pub. L. 96–42, § 1(2)][/us/pl/96/42/s1/2], July 31, 1979, [93 Stat. 326][/us/stat/93/326]; Apr. 28, 1982, eff. Aug. 1, 1982; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 209(c), 215(d), Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986], 2016; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; [Pub. L. 96–42][/us/pl/96/42], § 1(2), July 31, 1979, [93 Stat. 326][/us/stat/93/326]; Apr. 28, 1982, eff. Aug. 1, 1982; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 209(c), 215(d), Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986], 2016; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -129,7 +129,7 @@ Subdivision (a) is amended to make clear that the person shall be taken before t
 
  __Congressional Modification of Proposed 1979 Amendment__ 
 
-    [Pub. L. 96–42, § 1(2)][/us/pl/96/42/s1/2], July 31, 1979, [93 Stat. 326][/us/stat/93/326] \[set out as a note under [section 2074 of Title 28][/us/usc/t28/s2074], Judiciary and Judicial Procedure\], provided in part that the amendment proposed by the Supreme Court \[in its order of Apr. 30, 1979\] affecting rule 40 of the Federal Rules of Criminal Procedure \[this rule\] would take effect on Aug. 1, 1979, as amended by that section. See 1979 Amendment note below.
+    [Pub. L. 96–42][/us/pl/96/42], § 1(2), July 31, 1979, [93 Stat. 326][/us/stat/93/326] \[set out as a note under [section 2074 of Title 28][/us/usc/t28/s2074], Judiciary and Judicial Procedure\], provided in part that the amendment proposed by the Supreme Court \[in its order of Apr. 30, 1979\] affecting rule 40 of the Federal Rules of Criminal Procedure \[this rule\] would take effect on Aug. 1, 1979, as amended by that section. See 1979 Amendment note below.
 
  __Notes of Advisory Committee on Rules—1982 Amendment__ 
 
@@ -151,7 +151,7 @@ Subdivision (a) is amended to make clear that the person shall be taken before t
 
     The amendment to subdivision (a) is intended to expedite determining where a defendant will be held to answer by permitting facsimile transmission of a warrant or a certified copy of the warrant. The amendment recognizes an increased reliance by the public in general, and the legal profession in particular, on accurate and efficient transmission of important legal documents by facsimile machines.
 
-    The Rule is also amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is also amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Notes of Advisory Committee on Rules—1994 Amendment__ 
 
@@ -187,13 +187,13 @@ Subdivision (a) is amended to make clear that the person shall be taken before t
 
  __Amendment by Public Law__ 
 
-    1984—Subd. (d)(1). [Pub. L. 98–473, § 215(d)][/us/pl/98/473/s215/d], substituted “3605” for “3653”.
+    1984—Subd. (d)(1). [Pub. L. 98–473][/us/pl/98/473], § 215(d), substituted “3605” for “3653”.
 
-    Subd. (f). [Pub. L. 98–473, § 209(c)][/us/pl/98/473/s209/c], substituted “Release or Detention” for “Bail” as the subdivision heading and, in text, substituted “If a person was previously detained or conditionally released, pursuant to chapter 207 of title 18, United States Code,” for “If bail was previously fixed”, “decision previously made” for “amount of bail previously fixed”, “by that decision” for “by the amount of bail previously fixed”, and “amends the release or detention decision or alters the conditions of release” for “fixes bail different from that previously fixed”.
+    Subd. (f). [Pub. L. 98–473][/us/pl/98/473], § 209(c), substituted “Release or Detention” for “Bail” as the subdivision heading and, in text, substituted “If a person was previously detained or conditionally released, pursuant to chapter 207 of title 18, United States Code,” for “If bail was previously fixed”, “decision previously made” for “amount of bail previously fixed”, “by that decision” for “by the amount of bail previously fixed”, and “amends the release or detention decision or alters the conditions of release” for “fixes bail different from that previously fixed”.
 
-    1979—Subd. (d)(1). [Pub. L. 96–42, § 1(2)(A)][/us/pl/96/42/s1/2/A], struck out “in accordance with Rule 32.1(a)” after “Proceed in”.
+    1979—Subd. (d)(1). [Pub. L. 96–42][/us/pl/96/42], § 1(2)(A), struck out “in accordance with Rule 32.1(a)” after “Proceed in”.
 
-    Subd. (d)(2). [Pub. L. 96–42, § 1(2)(B)][/us/pl/96/42/s1/2/B], struck out “in accordance with Rule 32.1(a)(1)” after “Hold a prompt preliminary hearing”.
+    Subd. (d)(2). [Pub. L. 96–42][/us/pl/96/42], § 1(2)(B), struck out “in accordance with Rule 32.1(a)(1)” after “Hold a prompt preliminary hearing”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -206,20 +206,20 @@ Subdivision (a) is amended to make clear that the person shall be taken before t
 ----------
 ----------
 
-[/us/pl/96/42/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42%2Fs1%2F2
+[/us/pl/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42
 [/us/stat/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F326
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1986
 [/us/usc/t18/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs591
-[/us/pl/96/42/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42%2Fs1%2F2
+[/us/pl/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42
 [/us/stat/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F326
 [/us/usc/t28/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2074
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/98/473/s215/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fd
-[/us/pl/98/473/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fc
-[/us/pl/96/42/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42%2Fs1%2F2%2FA
-[/us/pl/96/42/s1/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42%2Fs1%2F2%2FB
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42
+[/us/pl/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F42
 [/us/pl/98/473/s215/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fd
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

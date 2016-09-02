@@ -187,7 +187,7 @@
 
         (2) Criminal Forfeiture. Forfeiture procedures are governed by Rule 32.2.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(31)][/us/pl/94/64/s3/31]–(34), July 31, 1975, [89 Stat. 376][/us/stat/89/376]; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; [Pub. L. 97–291, § 3][/us/pl/97/291/s3], Oct. 12, 1982, [96 Stat. 1249][/us/stat/96/1249]; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II, § 215(a)][/us/pl/98/473/s215/a], Oct. 12, 1984, [98 Stat. 2014][/us/stat/98/2014]; [Pub. L. 99–646, § 25(a)][/us/pl/99/646/s25/a], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; [Pub. L. 103–322, title XXIII, § 230101(b)][/us/pl/103/322/s230101/b], Sept. 13, 1994, [108 Stat. 2078][/us/stat/108/2078]; Apr. 23, 1996, eff. Dec. 1, 1996; [Pub. L. 104–132, title II, § 207(a)][/us/pl/104/132/s207/a], Apr. 24, 1996, [110 Stat. 1236][/us/stat/110/1236]; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(31)–(34), July 31, 1975, [89 Stat. 376][/us/stat/89/376]; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; [Pub. L. 97–291][/us/pl/97/291], § 3, Oct. 12, 1982, [96 Stat. 1249][/us/stat/96/1249]; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 215(a), Oct. 12, 1984, [98 Stat. 2014][/us/stat/98/2014]; [Pub. L. 99–646][/us/pl/99/646], § 25(a), Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; [Pub. L. 103–322, title XXIII][/us/pl/103/322/tXXIII], § 230101(b), Sept. 13, 1994, [108 Stat. 2078][/us/stat/108/2078]; Apr. 23, 1996, eff. Dec. 1, 1996; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 207(a), Apr. 24, 1996, [110 Stat. 1236][/us/stat/110/1236]; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -551,21 +551,21 @@ The amendments to Rule 32 are intended to accomplish two primary objectives. Fir
 
  __Amendment by Public Law__ 
 
-    1996—Subd. (b)(1). [Pub. L. 104–132, § 207(a)(1)][/us/pl/104/132/s207/a/1], inserted at end “Notwithstanding the preceding sentence, a presentence investigation and report, or other report containing information sufficient for the court to enter an order of restitution, as the court may direct, shall be required in any case in which restitution is required to be ordered.”
+    1996—Subd. (b)(1). [Pub. L. 104–132][/us/pl/104/132], § 207(a)(1), inserted at end “Notwithstanding the preceding sentence, a presentence investigation and report, or other report containing information sufficient for the court to enter an order of restitution, as the court may direct, shall be required in any case in which restitution is required to be ordered.”
 
-    Subd. (b)(4)(F) to (H). [Pub. L. 104–132, § 207(a)(2)][/us/pl/104/132/s207/a/2], added subd. (b)(4)(F), and redesignated former subds. (b)(4)(F) and (b)(4)(G) as (b)(4)(G) and (b)(4)(H), respectively.
+    Subd. (b)(4)(F) to (H). [Pub. L. 104–132][/us/pl/104/132], § 207(a)(2), added subd. (b)(4)(F), and redesignated former subds. (b)(4)(F) and (b)(4)(G) as (b)(4)(G) and (b)(4)(H), respectively.
 
-    1994—Subd. (c)(3)(D). [Pub. L. 103–322, § 230101(b)(4)][/us/pl/103/322/s230101/b/4], substituted “opportunity equivalent to that of the defendant’s counsel” for “equivalent opportunity”.
+    1994—Subd. (c)(3)(D). [Pub. L. 103–322][/us/pl/103/322], § 230101(b)(4), substituted “opportunity equivalent to that of the defendant’s counsel” for “equivalent opportunity”.
 
-    Subd. (c)(3)(E). [Pub. L. 103–322, § 230101(b)(1)][/us/pl/103/322/s230101/b/1]–(3), added subd. (c)(3)(E).
+    Subd. (c)(3)(E). [Pub. L. 103–322][/us/pl/103/322], § 230101(b)(1)–(3), added subd. (c)(3)(E).
 
-    Subd. (c)(4). [Pub. L. 103–322, § 230101(b)(5)][/us/pl/103/322/s230101/b/5], (6), substituted “(D), and (E)” for “and (D)” and inserted “the victim,” before “or the attorney for the Government.”.
+    Subd. (c)(4). [Pub. L. 103–322][/us/pl/103/322], § 230101(b)(5), (6), substituted “(D), and (E)” for “and (D)” and inserted “the victim,” before “or the attorney for the Government.”.
 
-    Subd. (f). [Pub. L. 103–322, § 230101(b)(7)][/us/pl/103/322/s230101/b/7], added subd. (f).
+    Subd. (f). [Pub. L. 103–322][/us/pl/103/322], § 230101(b)(7), added subd. (f).
 
     1986—Subd. (c)(2)(B). [Pub. L. 99–646][/us/pl/99/646] substituted “from” for “than”.
 
-1984—Subd. (a)(1). [Pub. L. 98–473, § 215(a)(1)][/us/pl/98/473/s215/a/1], substituted new subd. (a)(1) for former subd. (a)(1) which read as follows:
+1984—Subd. (a)(1). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(1), substituted new subd. (a)(1) for former subd. (a)(1) which read as follows:
 
 >     “(a) __Sentence.__ 
 
@@ -581,15 +581,15 @@ The amendments to Rule 32 are intended to accomplish two primary objectives. Fir
 
 >             The attorney for the government shall have an equivalent opportunity to speak to the court.”
 
-    Subd. (a)(2). [Pub. L. 98–473, § 215(a)(2)][/us/pl/98/473/s215/a/2], inserted “, including any right to appeal the sentence,” after “right to appeal” in first sentence.
+    Subd. (a)(2). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(2), inserted “, including any right to appeal the sentence,” after “right to appeal” in first sentence.
 
-    [Pub. L. 98–473, § 215(a)(3)][/us/pl/98/473/s215/a/3], inserted “, except that the court shall advise the defendant of any right to appeal his sentence” after “nolo contendere” in second sentence.
+    [Pub. L. 98–473][/us/pl/98/473], § 215(a)(3), inserted “, except that the court shall advise the defendant of any right to appeal his sentence” after “nolo contendere” in second sentence.
 
-Subd. (c)(1). [Pub. L. 98–473, § 215(a)(4)][/us/pl/98/473/s215/a/4], amended first sentence generally. Prior to amendment, first sentence read as follows: 
+Subd. (c)(1). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(4), amended first sentence generally. Prior to amendment, first sentence read as follows: 
 
 > “The probation service of the court shall make a presentence investigation and report to the court before the imposition of sentence or the granting of probation unless, with the permission of the court, the defendant waives a presentence investigation and report, or the court finds that there is in the record information sufficient to enable the meaningful exercise of sentencing discretion, and the court explains this finding on the record.”
 
-Subd. (c)(2). [Pub. L. 98–473, § 215(a)(5)][/us/pl/98/473/s215/a/5], amended subd. (c)(2) generally. Prior to amendment, subd. (c)(2) read as follows:
+Subd. (c)(2). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(5), amended subd. (c)(2) generally. Prior to amendment, subd. (c)(2) read as follows:
 
 >     “(2)
 
@@ -603,13 +603,13 @@ Subd. (c)(2). [Pub. L. 98–473, § 215(a)(5)][/us/pl/98/473/s215/a/5], amende
 
 >         “(D) any other information that may aid the court in sentencing, including the restitution needs of any victim of the offense.”
 
-    Subd. (c)(3)(A). [Pub. L. 98–473, § 215(a)(6)][/us/pl/98/473/s215/a/6], which directed the substitution of “, including the information required by subdivision (c)(2) but not including any final recommendation as to sentence,” for “exclusive of any recommendations as to sentence”, was executed by substituting the quotation for “exclusive of any recommendation as to sentence” to reflect the probable intent of Congress.
+    Subd. (c)(3)(A). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(6), which directed the substitution of “, including the information required by subdivision (c)(2) but not including any final recommendation as to sentence,” for “exclusive of any recommendations as to sentence”, was executed by substituting the quotation for “exclusive of any recommendation as to sentence” to reflect the probable intent of Congress.
 
-    Subd. (c)(3)(D). [Pub. L. 98–473, § 215(a)(7)][/us/pl/98/473/s215/a/7], struck out “or the Parole Commission” before period at end.
+    Subd. (c)(3)(D). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(7), struck out “or the Parole Commission” before period at end.
 
-    Subd. (c)(3)(F). [Pub. L. 98–473, § 215(a)(8)][/us/pl/98/473/s215/a/8], substituted “pursuant to 18 U.S.C. § 3552(b)” for “or the Parole Commission pursuant to 18 U.S.C. §§ 4205(c), 4252, 5010(e), or 5037(c)”.
+    Subd. (c)(3)(F). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(8), substituted “pursuant to 18 U.S.C. § 3552(b)” for “or the Parole Commission pursuant to 18 U.S.C. §§ 4205(c), 4252, 5010(e), or 5037(c)”.
 
-    Subd. (d). [Pub. L. 98–473, § 215(a)(9)][/us/pl/98/473/s215/a/9], struck out “imposition of sentence is suspended, or disposition is had under 18 U.S.C. § 4205(c),” after “is imposed,”.
+    Subd. (d). [Pub. L. 98–473][/us/pl/98/473], § 215(a)(9), struck out “imposition of sentence is suspended, or disposition is had under 18 U.S.C. § 4205(c),” after “is imposed,”.
 
     1982—Subdiv. (c)(2). [Pub. L. 97–291][/us/pl/97/291] substituted provision directing that the presentence report contain any prior criminal record of the defendant, a statement of the circumstances of the commission of the offense and circumstances affecting the defendant’s behavior, information concerning any harm, including financial, social, psychological, and physical harm, done to or loss suffered by any victim of the offense, and any other information that may aid the court in sentencing, including the restitution need of any victim of the offense, for provision requiring that the report of the presentence investigation shall contain any prior criminal record of the defendant and such information about his characteristics, his financial condition and the circumstances affecting his behavior as might be helpful in imposing sentence or in granting probation or in the correctional treatment of the defendant, and such other information as might be required by the court.
 
@@ -625,9 +625,9 @@ Subd. (c)(2). [Pub. L. 98–473, § 215(a)(5)][/us/pl/98/473/s215/a/5], amende
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 25(b)][/us/pl/99/646/s25/b], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 25(b), Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597], provided that: 
 
-> “The amendment made by subsection (a) shall take effect on the taking effect of the amendment made by section 215(a)(5) of the Comprehensive Crime Control Act of 1984 \[[§ 215(a)(5) of Pub. L. 98–473][/us/pl/98/473/s215/a/5], effective Nov. 1, 1987\].”
+> “The amendment made by subsection (a) shall take effect on the taking effect of the amendment made by section 215(a)(5) of the Comprehensive Crime Control Act of 1984 \[§ 215(a)(5) of [Pub. L. 98–473][/us/pl/98/473], effective Nov. 1, 1987\].”
 
  __Effective Date of 1984 Amendment__ 
 
@@ -652,17 +652,17 @@ Subd. (c)(2). [Pub. L. 98–473, § 215(a)(5)][/us/pl/98/473/s215/a/5], amende
 ----------
 ----------
 
-[/us/pl/94/64/s3/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F31
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F376
-[/us/pl/97/291/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs3
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1249
-[/us/pl/98/473/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2014
-[/us/pl/99/646/s25/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs25%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3597
-[/us/pl/103/322/s230101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fb
+[/us/pl/103/322/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXIII
 [/us/stat/108/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2078
-[/us/pl/104/132/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fa
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1236
 [/us/usc/t18/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs724
 [/us/usc/t18/s3552/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3552%2Fd
@@ -670,22 +670,22 @@ Subd. (c)(2). [Pub. L. 98–473, § 215(a)(5)][/us/pl/98/473/s215/a/5], amende
 [/us/pl/103/322/s230101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fa
 [/us/usc/t28/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2074
 [/us/pl/103/322/s230101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fb
-[/us/pl/104/132/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fa%2F1
-[/us/pl/104/132/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fa%2F2
-[/us/pl/103/322/s230101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fb%2F4
-[/us/pl/103/322/s230101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fb%2F1
-[/us/pl/103/322/s230101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fb%2F5
-[/us/pl/103/322/s230101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fb%2F7
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/98/473/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F1
-[/us/pl/98/473/s215/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F2
-[/us/pl/98/473/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F3
-[/us/pl/98/473/s215/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F4
-[/us/pl/98/473/s215/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F5
-[/us/pl/98/473/s215/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F6
-[/us/pl/98/473/s215/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F7
-[/us/pl/98/473/s215/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F8
-[/us/pl/98/473/s215/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F9
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
@@ -694,9 +694,9 @@ Subd. (c)(2). [Pub. L. 98–473, § 215(a)(5)][/us/pl/98/473/s215/a/5], amende
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322/s230101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs230101%2Fc
 [/us/usc/t28/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2074
-[/us/pl/99/646/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs25%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3597
-[/us/pl/98/473/s215/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Fa%2F5
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

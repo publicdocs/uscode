@@ -43,7 +43,7 @@
 
      In a case tried without a jury, the court must find the defendant guilty or not guilty. If a party requests before the finding of guilty or not guilty, the court must state its specific findings of fact in open court or in a written decision or opinion.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; [Pub. L. 95–78, § 2(b)][/us/pl/95/78/s2/b], July 30, 1977, [91 Stat. 320][/us/stat/91/320]; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; [Pub. L. 95–78][/us/pl/95/78], § 2(b), July 30, 1977, [91 Stat. 320][/us/stat/91/320]; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 2002, eff. Dec. 1, 2002.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -81,7 +81,7 @@ The meaning of current subdivision (c) has been in some doubt because there is n
 
  __Congressional Approval of Proposed 1977 Amendments__ 
 
-[Pub. L. 95–78, § 2(b)][/us/pl/95/78/s2/b], July 30, 1977, [91 Stat. 320][/us/stat/91/320], provided that: 
+[Pub. L. 95–78][/us/pl/95/78], § 2(b), July 30, 1977, [91 Stat. 320][/us/stat/91/320], provided that: 
 
 > “The amendments proposed by the Supreme Court \[in its order of Apr. 26, 1977\] to subdivisions (b) and (c) of rule 23 of such Rules of Criminal Procedure \[subd. (b) and (c) of this rule\] are approved.”
 
@@ -126,9 +126,9 @@ The meaning of current subdivision (c) has been in some doubt because there is n
 ----------
 ----------
 
-[/us/pl/95/78/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fb
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F320
-[/us/pl/95/78/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fb
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F320
 [/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/pl/95/78/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs4

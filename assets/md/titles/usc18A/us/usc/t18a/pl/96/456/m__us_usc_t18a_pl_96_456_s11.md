@@ -17,7 +17,7 @@
 
     Sections 1 through 10 of this Act may be amended as provided in section 2076, title 28, United States Code.
 
-([Pub. L. 96–456, § 11][/us/pl/96/456/s11], Oct. 15, 1980, [94 Stat. 2029][/us/stat/94/2029].)
+([Pub. L. 96–456][/us/pl/96/456], § 11, Oct. 15, 1980, [94 Stat. 2029][/us/stat/94/2029].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/456/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs11
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2029
 
 

@@ -71,7 +71,7 @@
 
      In accordance with Rule 4.1, a magistrate judge may issue a warrant or summons based on information communicated by telephone or other reliable electronic means.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(1)][/us/pl/94/64/s3/1]–(3), July 31, 1975, [89 Stat. 370][/us/stat/89/370]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(1)–(3), July 31, 1975, [89 Stat. 370][/us/stat/89/370]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -147,7 +147,7 @@ Subdivision (c) provides that a warrant or summons may issue on the basis of hea
 
  __Notes of Advisory Committee on Rules—1993 Amendment__ 
 
-    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Committee Notes on Rules—2002 Amendment__ 
 
@@ -185,7 +185,7 @@ Subdivision (c) provides that a warrant or summons may issue on the basis of hea
 
  __Approval and Effective Date of Amendments Proposed__  __April 22, 1974__  __; Effective Date of 1975 Amendments__ 
 
-[Pub. L. 94–64, § 2][/us/pl/94/64/s2], July 31, 1975, [89 Stat. 370][/us/stat/89/370], provided that: 
+[Pub. L. 94–64][/us/pl/94/64], § 2, July 31, 1975, [89 Stat. 370][/us/stat/89/370], provided that: 
 
 > “The amendments proposed by the United States Supreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2 and 29.1 and amending rules 4, 9, 11, 12, 15, 16, 17, 20, 32, and 43 of these rules\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act \[to rules 4, 9, 11, 12, 12.1, 12.2, 15, 16, 17, 20, 32, and 43 of these rules\] shall also take effect on December 1, 1975.”
 
@@ -196,18 +196,18 @@ Subdivision (c) provides that a warrant or summons may issue on the basis of hea
 ----------
 ----------
 
-[/us/pl/94/64/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F1
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F370
 [/us/usc/t18/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs591
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs503
 [/us/usc/t18/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs603
 [/us/usc/t18/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs591
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/stat/114/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2488
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
-[/us/pl/94/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs2
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F370
 
 

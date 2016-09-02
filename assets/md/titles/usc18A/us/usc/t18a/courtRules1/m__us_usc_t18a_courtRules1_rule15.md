@@ -91,7 +91,7 @@
 
      The parties may by agreement take and use a deposition with the court’s consent.
 
-(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(15)][/us/pl/94/64/s3/15]–(19), July 31, 1975, [89 Stat. 373][/us/stat/89/373], 374; [Pub. L. 98–473, title II, § 209(b)][/us/pl/98/473/s209/b], Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(15)–(19), July 31, 1975, [89 Stat. 373][/us/stat/89/373], 374; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 209(b), Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2012, eff. Dec. 1, 2012.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -268,9 +268,9 @@ When the Organized Crime Control Act of 1970 was originally introduced in the Se
 ----------
 ----------
 
-[/us/pl/94/64/s3/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F15
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F373
-[/us/pl/98/473/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs209%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1986
 [/us/usc/t18/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3503
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

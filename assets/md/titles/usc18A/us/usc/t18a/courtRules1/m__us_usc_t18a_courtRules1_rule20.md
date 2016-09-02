@@ -51,7 +51,7 @@
 
         (2) Clerk’s Duties. After receiving the juvenile’s written consent and the required approvals, the clerk where the indictment, information, or complaint is pending or where the alleged offense occurred must send the file, or a certified copy, to the clerk in the transferee district.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(30)][/us/pl/94/64/s3/30], July 31, 1975, [89 Stat. 375][/us/stat/89/375]; Apr. 28, 1982, eff. Aug. 1, 1982; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(30), July 31, 1975, [89 Stat. 375][/us/stat/89/375]; Apr. 28, 1982, eff. Aug. 1, 1982; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -122,7 +122,7 @@ Making the fact that a defendant is “present” in the district an adequate ba
 ----------
 ----------
 
-[/us/pl/94/64/s3/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F30
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F375
 [/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/pl/94/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3

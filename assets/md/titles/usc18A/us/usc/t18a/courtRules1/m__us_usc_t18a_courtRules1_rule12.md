@@ -97,7 +97,7 @@
 
      Rule 26.2 applies at a suppression hearing under Rule 12(b)(3)(C). At a suppression hearing, a law enforcement officer is considered a government witness.
 
-(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(11)][/us/pl/94/64/s3/11], (12), July 31, 1975, [89 Stat. 372][/us/stat/89/372]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64][/us/pl/94/64], § 3(11), (12), July 31, 1975, [89 Stat. 372][/us/stat/89/372]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -270,7 +270,7 @@ Subdivision (f) provides that a failure to raise the objections or make the requ
 ----------
 ----------
 
-[/us/pl/94/64/s3/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs3%2F11
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F372
 [/us/usc/t18/s556a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs556a
 [/us/usc/t18/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs587

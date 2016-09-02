@@ -19,15 +19,15 @@
 
     (b) An appeal taken pursuant to this section either before or during trial shall be expedited by the court of appeals. Prior to trial, an appeal shall be taken within fourteen days after the decision or order appealed from and the trial shall not commence until the appeal is resolved. If an appeal is taken during trial, the trial court shall adjourn the trial until the appeal is resolved and the court of appeals (1) shall hear argument on such appeal within four days of the adjournment of the trial, excluding intermediate weekends and holidays, (2) may dispense with written briefs other than the supporting materials previously submitted to the trial court, (3) shall render its decision within four days of argument on appeal, excluding intermediate weekends and holidays, and (4) may dispense with the issuance of a written opinion in rendering its decision. Such appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a judgment of conviction, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
-([Pub. L. 96–456, § 7][/us/pl/96/456/s7], Oct. 15, 1980, [94 Stat. 2028][/us/stat/94/2028]; [Pub. L. 111–16, § 4][/us/pl/111/16/s4], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+([Pub. L. 96–456][/us/pl/96/456], § 7, Oct. 15, 1980, [94 Stat. 2028][/us/stat/94/2028]; [Pub. L. 111–16][/us/pl/111/16], § 4, May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
 
  __Amendments__ 
 
-    2009—Subsec. (b). [Pub. L. 111–16, § 4(1)][/us/pl/111/16/s4/1], substituted “fourteen days” for “ten days”.
+    2009—Subsec. (b). [Pub. L. 111–16][/us/pl/111/16], § 4(1), substituted “fourteen days” for “ten days”.
 
-    Subsec. (b)(1). [Pub. L. 111–16, § 4(2)][/us/pl/111/16/s4/2], inserted “excluding intermediate weekends and holidays,” after “adjournment of the trial,”.
+    Subsec. (b)(1). [Pub. L. 111–16][/us/pl/111/16], § 4(2), inserted “excluding intermediate weekends and holidays,” after “adjournment of the trial,”.
 
-    Subsec. (b)(3). [Pub. L. 111–16, § 4(3)][/us/pl/111/16/s4/3], inserted “excluding intermediate weekends and holidays,” after “argument on appeal,”.
+    Subsec. (b)(3). [Pub. L. 111–16][/us/pl/111/16], § 4(3), inserted “excluding intermediate weekends and holidays,” after “argument on appeal,”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/pl/96/456/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs7
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2028
-[/us/pl/111/16/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs4
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
-[/us/pl/111/16/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs4%2F1
-[/us/pl/111/16/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs4%2F2
-[/us/pl/111/16/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs4%2F3
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

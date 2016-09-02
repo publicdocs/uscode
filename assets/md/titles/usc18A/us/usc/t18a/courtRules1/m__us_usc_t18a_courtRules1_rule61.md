@@ -21,7 +21,7 @@
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 94–64, § 1][/us/pl/94/64/s1], July 31, 1975, [89 Stat. 370][/us/stat/89/370], provided: 
+[Pub. L. 94–64][/us/pl/94/64], § 1, July 31, 1975, [89 Stat. 370][/us/stat/89/370], provided: 
 
 > “That this Act \[amending rules 4, 9, 11, 12, 12.1, 12.2, 15, 16, 17, 20, 32 and 43 of these rules and enacting provisions set out as a note under rule 4\] may be cited as the ‘Federal Rules of Criminal Procedure Amendments Act of 1975’.”
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/94/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64%2Fs1
+[/us/pl/94/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F64
 [/us/stat/89/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F370
 
 

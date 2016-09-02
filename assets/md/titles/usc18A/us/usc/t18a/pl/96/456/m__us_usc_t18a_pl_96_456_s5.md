@@ -23,7 +23,7 @@
 
     If the defendant fails to comply with the requirements of subsection (a) the court may preclude disclosure of any classified information not made the subject of notification and may prohibit the examination by the defendant of any witness with respect to any such information.
 
-([Pub. L. 96–456, § 5][/us/pl/96/456/s5], Oct. 15, 1980, [94 Stat. 2026][/us/stat/94/2026].)
+([Pub. L. 96–456][/us/pl/96/456], § 5, Oct. 15, 1980, [94 Stat. 2026][/us/stat/94/2026].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/456/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs5
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2026
 
 

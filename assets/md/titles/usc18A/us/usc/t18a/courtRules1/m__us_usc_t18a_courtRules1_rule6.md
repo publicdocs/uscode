@@ -153,7 +153,7 @@
 
      “Indian tribe” means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. § 479a–1.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; [Pub. L. 95–78, § 2(a)][/us/pl/95/78/s2/a], July 30, 1977, [91 Stat. 319][/us/stat/91/319]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II, § 215(f)][/us/pl/98/473/s215/f], Oct. 12, 1984, [98 Stat. 2016][/us/stat/98/2016]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; [Pub. L. 107–56, title II, § 203(a)][/us/pl/107/56/s203/a], Oct. 26, 2001, [115 Stat. 278][/us/stat/115/278]; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–296, title VIII, § 895][/us/pl/107/296/s895], Nov. 25, 2002, [116 Stat. 2256][/us/stat/116/2256]; [Pub. L. 108–458, title VI, § 6501(a)][/us/pl/108/458/s6501/a], Dec. 17, 2004, [118 Stat. 3760][/us/stat/118/3760]; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; [Pub. L. 95–78][/us/pl/95/78], § 2(a), July 30, 1977, [91 Stat. 319][/us/stat/91/319]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 215(f), Oct. 12, 1984, [98 Stat. 2016][/us/stat/98/2016]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 203(a), Oct. 26, 2001, [115 Stat. 278][/us/stat/115/278]; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 895, Nov. 25, 2002, [116 Stat. 2256][/us/stat/116/2256]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6501(a), Dec. 17, 2004, [118 Stat. 3760][/us/stat/118/3760]; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -267,7 +267,7 @@ See also 8 J. Moore, Federal Practice ¶ 6.05 at 6–28 (2d ed. Cipes, 1969):
 
  __Congressional Modification of Proposed 1977 Amendment__ 
 
-    [Pub. L. 95–78, § 2(a)][/us/pl/95/78/s2/a], July 30, 1977, [91 Stat. 319][/us/stat/91/319], provided in part that the amendment proposed by the Supreme Court \[in its order of Apr. 26, 1977\] to subdivision (e) of rule 6 of the Federal Rules of Criminal Procedure \[subd. (e) of this rule\] is approved in a modified form.
+    [Pub. L. 95–78][/us/pl/95/78], § 2(a), July 30, 1977, [91 Stat. 319][/us/stat/91/319], provided in part that the amendment proposed by the Supreme Court \[in its order of Apr. 26, 1977\] to subdivision (e) of rule 6 of the Federal Rules of Criminal Procedure \[subd. (e) of this rule\] is approved in a modified form.
 
  __Notes of Advisory Committee on Rules—1979 Amendment__ 
 
@@ -399,7 +399,7 @@ A recent GAO study established that there is considerable variety in the practic
 
  __Notes of Advisory Committee on Rules—1993 Amendment__ 
 
-    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
+    The Rule is amended to conform to the Judicial Improvements Act of 1990 \[[P.L. 101–650, Title III][/us/pl/101/650/tIII], Section 321\] which provides that each United States magistrate appointed under [section 631 of title 28][/us/usc/t28/s631], United States Code, shall be known as a United States magistrate judge.
 
  __Committee Notes on Rules—1999 Amendment__ 
 
@@ -445,7 +445,7 @@ A recent GAO study established that there is considerable variety in the practic
 
  __Committee Notes on Rules—2006 Amendment__ 
 
-    Subdivision (e)(3) and (7). This amendment makes technical changes to the language added to Rule 6 by the Intelligence Reform and Terrorism Prevention Act of 2004, [Pub. L. 108–458, Title VI, § 6501(a)][/us/pl/108/458/s6501/a], [118 Stat. 3760][/us/stat/118/3760], in order to bring the new language into conformity with the conventions introduced in the general restyling of the Criminal Rules. No substantive change is intended.
+    Subdivision (e)(3) and (7). This amendment makes technical changes to the language added to Rule 6 by the Intelligence Reform and Terrorism Prevention Act of 2004, [Pub. L. 108–458, Title VI][/us/pl/108/458/tVI], § 6501(a), [118 Stat. 3760][/us/stat/118/3760], in order to bring the new language into conformity with the conventions introduced in the general restyling of the Criminal Rules. No substantive change is intended.
 
  __Committee Notes on Rules—2011 Amendment__ 
 
@@ -465,23 +465,23 @@ A recent GAO study established that there is considerable variety in the practic
 
  __Amendment by Public Law__ 
 
-    2004—Subd. (e)(3)(A)(ii). [Pub. L. 108–458, § 6501(a)(1)(A)][/us/pl/108/458/s6501/a/1/A], substituted “, state subdivision, Indian tribe, or foreign government” for “or state subdivision or of an Indian tribe”.
+    2004—Subd. (e)(3)(A)(ii). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(A), substituted “, state subdivision, Indian tribe, or foreign government” for “or state subdivision or of an Indian tribe”.
 
-    Subd. (e)(3)(D). [Pub. L. 108–458, § 6501(a)(1)(B)(i)][/us/pl/108/458/s6501/a/1/B/i], inserted after first sentence “An attorney for the government may also disclose any grand jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate Federal, State, State subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.”
+    Subd. (e)(3)(D). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(B)(i), inserted after first sentence “An attorney for the government may also disclose any grand jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate Federal, State, State subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.”
 
-    Subd. (e)(3)(D)(i). [Pub. L. 108–458, § 6501(a)(1)(B)(ii)][/us/pl/108/458/s6501/a/1/B/ii], struck out “federal” before “official who” in first sentence and inserted at end “Any State, State subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only consistent with such guidelines as the Attorney General and the Director of National Intelligence shall jointly issue.”
+    Subd. (e)(3)(D)(i). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(B)(ii), struck out “federal” before “official who” in first sentence and inserted at end “Any State, State subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only consistent with such guidelines as the Attorney General and the Director of National Intelligence shall jointly issue.”
 
-    Subd. (e)(3)(E)(iii). [Pub. L. 108–458, § 6501(a)(1)(C)(ii)][/us/pl/108/458/s6501/a/1/C/ii], added cl. (iii). Former cl. (iii) redesignated (iv).
+    Subd. (e)(3)(E)(iii). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(C)(ii), added cl. (iii). Former cl. (iii) redesignated (iv).
 
-    Subd. (e)(3)(E)(iv). [Pub. L. 108–458, § 6501(a)(1)(C)(iii)][/us/pl/108/458/s6501/a/1/C/iii], substituted “State, Indian tribal, or foreign” for “state or Indian tribal” and “Indian tribal, or foreign government official” for “or Indian tribal official”.
+    Subd. (e)(3)(E)(iv). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(C)(iii), substituted “State, Indian tribal, or foreign” for “state or Indian tribal” and “Indian tribal, or foreign government official” for “or Indian tribal official”.
 
-    [Pub. L. 108–458, § 6501(a)(1)(C)(i)][/us/pl/108/458/s6501/a/1/C/i], redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
+    [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(C)(i), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-    Subd. (e)(3)(E)(v). [Pub. L. 108–458, § 6501(a)(1)(C)(i)][/us/pl/108/458/s6501/a/1/C/i], redesignated cl. (iv) as (v).
+    Subd. (e)(3)(E)(v). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(1)(C)(i), redesignated cl. (iv) as (v).
 
-    Subd. (e)(7). [Pub. L. 108–458, § 6501(a)(2)][/us/pl/108/458/s6501/a/2], inserted “, or of guidelines jointly issued by the Attorney General and the Director of National Intelligence pursuant to Rule 6,” after “violation of Rule 6”.
+    Subd. (e)(7). [Pub. L. 108–458][/us/pl/108/458], § 6501(a)(2), inserted “, or of guidelines jointly issued by the Attorney General and the Director of National Intelligence pursuant to Rule 6,” after “violation of Rule 6”.
 
-2002—Subd. (e). [Pub. L. 107–296, § 895][/us/pl/107/296/s895], which directed certain amendments to subdiv. (e), could not be executed because of the amendment by the Court by order dated Apr. 29, 2002, eff. Dec. 1, 2002. [Section 895 of Pub. L. 107–296][/us/pl/107/296/s895] provided:
+2002—Subd. (e). [Pub. L. 107–296][/us/pl/107/296], § 895, which directed certain amendments to subdiv. (e), could not be executed because of the amendment by the Court by order dated Apr. 29, 2002, eff. Dec. 1, 2002. [Section 895 of Pub. L. 107–296][/us/pl/107/296/s895] provided:
 
 >     “Rule 6(e) of the Federal Rules of Criminal Procedure is amended—
 
@@ -523,7 +523,7 @@ A recent GAO study established that there is considerable variety in the practic
 
 >             “(iii) by adding at the end the following: ‘Any state, local, or foreign official who receives information pursuant to clause (i)(VI) shall use that information only consistent with such guidelines as the Attorney General and Director of Central Intelligence shall jointly issue.’.”
 
-2001—Subd. (e)(3)(C). [Pub. L. 107–56, § 203(a)(1)][/us/pl/107/56/s203/a/1], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: 
+2001—Subd. (e)(3)(C). [Pub. L. 107–56][/us/pl/107/56], § 203(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: 
 
 > “Disclosure otherwise prohibited by this rule of matters occurring before the grand jury may also be made—
 
@@ -537,7 +537,7 @@ A recent GAO study established that there is considerable variety in the practic
 
 >     If the court orders disclosure of matters occurring before the grand jury, the disclosure shall be made in such manner, at such time, and under such conditions as the court may direct.”
 
-    Subd. (e)(3)(D). [Pub. L. 107–56, § 203(a)(2)][/us/pl/107/56/s203/a/2], substituted “subdivision (e)(3)(C)(i)(I)” for “subdivision (e)(3)(C)(i)”.
+    Subd. (e)(3)(D). [Pub. L. 107–56][/us/pl/107/56], § 203(a)(2), substituted “subdivision (e)(3)(C)(i)(I)” for “subdivision (e)(3)(C)(i)”.
 
     1984—Subd. (e)(3)(C)(iv). [Pub. L. 98–473][/us/pl/98/473], eff. Nov. 1, 1987, added subcl. (iv), identical to subcl. (iv) which had been previously added by Order of the Supreme Court dated Apr. 29, 1985, eff. Aug. 1, 1985, thereby requiring no change in text.
 
@@ -560,39 +560,39 @@ A recent GAO study established that there is considerable variety in the practic
 ----------
 ----------
 
-[/us/pl/95/78/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fa
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F319
-[/us/pl/98/473/s215/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs215%2Ff
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2016
-[/us/pl/107/56/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fa
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F278
-[/us/pl/107/296/s895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs895
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2256
-[/us/pl/108/458/s6501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3760
 [/us/usc/t28/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs419
 [/us/usc/t18/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3321
 [/us/usc/t28/s411–426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs411%E2%80%93426
 [/us/usc/t5/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs310
 [/us/usc/t28/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs515%2Fa
-[/us/pl/95/78/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs2%2Fa
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F319
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/108/458/s6501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3760
-[/us/pl/108/458/s6501/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FA
-[/us/pl/108/458/s6501/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FB%2Fi
-[/us/pl/108/458/s6501/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FB%2Fii
-[/us/pl/108/458/s6501/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FC%2Fii
-[/us/pl/108/458/s6501/a/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FC%2Fiii
-[/us/pl/108/458/s6501/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FC%2Fi
-[/us/pl/108/458/s6501/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FC%2Fi
-[/us/pl/108/458/s6501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs895
-[/us/pl/107/296/s895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs895
-[/us/pl/107/56/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fa%2F1
-[/us/pl/107/56/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fa%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1

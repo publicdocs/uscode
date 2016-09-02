@@ -31,7 +31,7 @@
 
     In this section, the term “senior agency official” has the meaning given that term in section 1.1 of Executive Order No. 12958.
 
-([Pub. L. 96–456, § 9A][/us/pl/96/456/s9A], as added [Pub. L. 106–567, title VI, § 607][/us/pl/106/567/s607], Dec. 27, 2000, [114 Stat. 2855][/us/stat/114/2855]; amended [Pub. L. 109–177, title V, § 506(a)(8)][/us/pl/109/177/s506/a/8], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248].)
+([Pub. L. 96–456][/us/pl/96/456], § 9A, as added [Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 607, Dec. 27, 2000, [114 Stat. 2855][/us/stat/114/2855]; amended [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(8), Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248].)
 
  __References in Text__ 
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/96/456/s9A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs9A
-[/us/pl/106/567/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs607
+[/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2855
-[/us/pl/109/177/s506/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F8
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F248
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 
