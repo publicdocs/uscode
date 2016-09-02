@@ -75,7 +75,7 @@
 
         (3) the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], Oct. 22, 1994, [108 Stat. 4118][/us/stat/108/4118]; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 114, Oct. 22, 1994, [108 Stat. 4118][/us/stat/108/4118]; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -233,9 +233,9 @@
 
  __Amendment by Public Law__ 
 
-    1994—Subd. (b). [Pub. L. 103–394, § 114(1)][/us/pl/103/394/s114/1], substituted “Except as provided in subdivision (h), in addition” for “In addition”.
+    1994—Subd. (b). [Pub. L. 103–394][/us/pl/103/394], § 114(1), substituted “Except as provided in subdivision (h), in addition” for “In addition”.
 
-    Subd. (h). [Pub. L. 103–394, § 114(2)][/us/pl/103/394/s114/2], added subd. (h).
+    Subd. (h). [Pub. L. 103–394][/us/pl/103/394], § 114(2), added subd. (h).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -248,12 +248,12 @@
 ----------
 ----------
 
-[/us/pl/103/394/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs114
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4118
 [/us/stat/108/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4106
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/103/394/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs114%2F1
-[/us/pl/103/394/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs114%2F2
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

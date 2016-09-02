@@ -23,11 +23,11 @@
 
     [Section 247 of Public Law 95–598][/us/pl/95/598/s247], [92 Stat. 2549][/us/stat/92/2549] amended 28 U.S.C. § 2075 by omitting the last sentence. The effect of the amendment is to require that procedural rules promulgated pursuant to 28 U.S.C. § 2075 be consistent with the bankruptcy statute, both titles 11 and 28 U.S.C. Thus, although Rule 1001 sets forth the scope of the bankruptcy rules and forms, any procedural matters contained in title 11 or 28 U.S.C. with respect to cases filed under 11 U.S.C. would control. See 1 Collier, Bankruptcy ¶ 3.04 \[2\]\[c\] (15th ed. 1980).
 
-    28 U.S.C. § 151 establishes a United States Bankruptcy Court in each district as an adjunct to the district court. This provision does not, however, become effective until April 1, 1984. [Public Law 95–598, § 402(b)][/us/pl/95/598/s402/b]. From October 1, 1979 through March 31, 1984, the courts of bankruptcy as defined in § 1(10) of the Bankruptcy Act, and created in § 2a of that Act continue to be the courts of bankruptcy. [Public Law 95–598, § 404(a)][/us/pl/95/598/s404/a]. From their effective date these rules and forms are to be applicable in cases filed under chapters 7, 9, 11 and 13 of title 11 regardless of whether the court is established by the Bankruptcy Act or by 28 U.S.C. § 151. Rule 9001 contains a broad and general definition of “bankruptcy court,” “court” and “United States Bankruptcy Court” for this purpose.
+    28 U.S.C. § 151 establishes a United States Bankruptcy Court in each district as an adjunct to the district court. This provision does not, however, become effective until April 1, 1984. [Public Law 95–598][/us/pl/95/598], § 402(b). From October 1, 1979 through March 31, 1984, the courts of bankruptcy as defined in § 1(10) of the Bankruptcy Act, and created in § 2a of that Act continue to be the courts of bankruptcy. [Public Law 95–598][/us/pl/95/598], § 404(a). From their effective date these rules and forms are to be applicable in cases filed under chapters 7, 9, 11 and 13 of title 11 regardless of whether the court is established by the Bankruptcy Act or by 28 U.S.C. § 151. Rule 9001 contains a broad and general definition of “bankruptcy court,” “court” and “United States Bankruptcy Court” for this purpose.
 
-    “Bankruptcy Code” or “Code” as used in these rules means title 11 of the United States Code, the codification of the bankruptcy law. [Public Law 95–598, § 101][/us/pl/95/598/s101]. See Rule 9001.
+    “Bankruptcy Code” or “Code” as used in these rules means title 11 of the United States Code, the codification of the bankruptcy law. [Public Law 95–598][/us/pl/95/598], § 101. See Rule 9001.
 
-    “Bankruptcy Act” as used in the notes to these rules means the Bankruptcy Act of 1898 as amended which was repealed by [§ 401(a) of Public Law 95–598][/us/pl/95/598/s401/a].
+    “Bankruptcy Act” as used in the notes to these rules means the Bankruptcy Act of 1898 as amended which was repealed by § 401(a) of [Public Law 95–598][/us/pl/95/598].
 
     These rules apply to all cases filed under the Code except as otherwise specifically stated.
 
@@ -56,10 +56,10 @@ PART I— __COMMENCEMENT OF CASE; PROCEEDINGS RELATING TO PETITION AND ORDER FOR
 
 [/us/pl/95/598/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs247
 [/us/stat/92/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2549
-[/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
-[/us/pl/95/598/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs404%2Fa
-[/us/pl/95/598/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs101
-[/us/pl/95/598/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs401%2Fa
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/98/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F333
 
 

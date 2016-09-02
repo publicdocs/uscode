@@ -87,7 +87,7 @@
 
     (g)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Subsec. (g) enacted without a catchline. </sup></sup>  To the extent not inconsistent with the United States Warehouse Act or applicable State law, a warehouse receipt, scale ticket, or similar document of the type routinely issued as evidence of title by a grain storage facility, as defined in [section 557 of title 11][/us/usc/t11/s557], shall constitute prima facie evidence of the validity and amount of a claim of ownership of a quantity of grain.
 
-(As amended [Pub. L. 98–353, title III, § 354][/us/pl/98/353/s354], July 10, 1984, [98 Stat. 361][/us/stat/98/361]; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 354, July 10, 1984, [98 Stat. 361][/us/stat/98/361]; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -199,7 +199,7 @@
 ----------
 
 [/us/usc/t11/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs557
-[/us/pl/98/353/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs354
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F361
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F486

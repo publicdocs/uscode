@@ -35,7 +35,7 @@
 
  __Notes of Advisory Committee on Rules—1985 Amendment__ 
 
-    Subdivision (a) was affected by the Bankruptcy Amendments and Federal Judgeship Act of 1984, [P.L. 98–353][/us/pl/98/353], [98 Stat. 333][/us/stat/98/333]. The 1978 Bankruptcy Reform Act, [P.L. 95–598][/us/pl/95/598], included bankruptcy judges in the definition of United States judges in 28 U.S.C. § 451 and they were therefore subject to the provisions of 28 U.S.C. § 455. This was to become effective on April 1, 1984, [P.L. 95–598, § 404(b)][/us/pl/95/598/s404/b]. [Section 113 of P.L. 98–353][/us/pl/98/353/s113], however, appears to have rendered the amendment to 28 U.S.C. § 451 ineffective. Subdivision (a) of the rule retains the substance and intent of the earlier draft by making bankruptcy judges subject to 28 U.S.C. § 455.
+    Subdivision (a) was affected by the Bankruptcy Amendments and Federal Judgeship Act of 1984, [P.L. 98–353][/us/pl/98/353], [98 Stat. 333][/us/stat/98/333]. The 1978 Bankruptcy Reform Act, [P.L. 95–598][/us/pl/95/598], included bankruptcy judges in the definition of United States judges in 28 U.S.C. § 451 and they were therefore subject to the provisions of 28 U.S.C. § 455. This was to become effective on April 1, 1984, [P.L. 95–598][/us/pl/95/598], § 404(b). [Section 113 of P.L. 98–353][/us/pl/98/353/s113], however, appears to have rendered the amendment to 28 U.S.C. § 451 ineffective. Subdivision (a) of the rule retains the substance and intent of the earlier draft by making bankruptcy judges subject to 28 U.S.C. § 455.
 
     The word “associated” in subdivision (b) has been changed to “connected” in order to conform with Rule 5002(b).
 
@@ -53,7 +53,7 @@
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/stat/98/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F333
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
-[/us/pl/95/598/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs404%2Fb
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/98/353/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs113
 
 
