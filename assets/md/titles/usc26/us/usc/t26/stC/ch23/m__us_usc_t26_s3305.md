@@ -39,7 +39,7 @@
 
     (g) __Vessels operated by general agents of United States__ 
 
-    The permission granted by subsection (f) shall apply in the same manner and under the same conditions (including the obligation to comply with all requirements of State unemployment compensation laws) to general agents of the Secretary of Commerce with respect to service performed by officers and members of the crew on or in connection with American vessels—
+    The permission granted by subsection (f) shall apply in the same manner and under the same conditions (including the obligation to comply with all requirements of State unemployment compensation laws) to general agents of the Secretary of Transportation with respect to service performed by officers and members of the crew on or in connection with American vessels—
 
         (1) owned by or bareboat chartered to the United States, and
 
@@ -53,19 +53,21 @@
 
         (1) require contributions from persons performing such service under its unemployment compensation law or temporary disability insurance law administered in connection therewith, and
 
-        (2) require general agents of the Secretary of Commerce to make contributions under such temporary disability insurance law and to make such deductions from wages or remuneration as are required by such unemployment compensation or temporary disability insurance law.
+        (2) require general agents of the Secretary of Transportation to make contributions under such temporary disability insurance law and to make such deductions from wages or remuneration as are required by such unemployment compensation or temporary disability insurance law.
 
     (i) __General agent as legal entity__ 
 
-        Each general agent of the Secretary of Commerce making contributions pursuant to subsection (g) or (h) shall, for purposes of such subsections, be considered a legal entity in his capacity as an instrumentality of the United States, separate and distinct from his identity as a person employing individuals on his own account.
+        Each general agent of the Secretary of Transportation making contributions pursuant to subsection (g) or (h) shall, for purposes of such subsections, be considered a legal entity in his capacity as an instrumentality of the United States, separate and distinct from his identity as a person employing individuals on his own account.
 
     (j) __Denial of credits in certain cases__ 
 
         Any person required, pursuant to the permission granted by this section, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 shall not be entitled to the credits permitted, with respect to the unemployment compensation law of a State, by subsections (a) and (b) of section 3302 against the tax imposed by section 3301 for any taxable year if, on October 31 of such taxable year, the Secretary of Labor certifies to the Secretary of the Treasury his finding, after reasonable notice and opportunity for hearing to the State agency, that the unemployment compensation law of such State is inconsistent with any one or more of the conditions on the basis of which such permission is granted or that, in the application of the State law with respect to the 12-month period ending on such October 31, there has been a substantial failure to comply with any one or more of such conditions. For purposes of section 3310, a finding of the Secretary of Labor under this subsection shall be treated as a finding under section 3304(c).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 445][/us/stat/68A/445]; [Sept. 1, 1954, ch. 1212, § 4(c)][/us/act/1954-09-01/ch1212/s4/c], [68 Stat. 1135][/us/stat/68/1135]; [Pub. L. 86–778, title V, § 531(a)][/us/pl/86/778/s531/a], (b), Sept. 13, 1960, [74 Stat. 983][/us/stat/74/983]; [Pub. L. 91–373, title I, § 123][/us/pl/91/373/s123], Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 445][/us/stat/68A/445]; [Sept. 1, 1954, ch. 1212, § 4(c)][/us/act/1954-09-01/ch1212/s4/c], [68 Stat. 1135][/us/stat/68/1135]; [Pub. L. 86–778, title V, § 531(a)][/us/pl/86/778/s531/a], (b), Sept. 13, 1960, [74 Stat. 983][/us/stat/74/983]; [Pub. L. 91–373, title I, § 123][/us/pl/91/373/s123], Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 114–92, div. C, title XXXV, § 3503][/us/pl/114/92/s3503], Nov. 25, 2015, [129 Stat. 1219][/us/stat/129/1219].)
 
  __Amendments__ 
+
+    2015—Subsecs. (g), (h)(2), (i). [Pub. L. 114–92][/us/pl/114/92] substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
     1976—Subsec. (g). [Pub. L. 94–455, § 1903(a)(15)(A)][/us/pl/94/455/s1903/a/15/A], struck out “on or after July 1, 1953,” after “respect to service performed”.
 
@@ -119,6 +121,9 @@
 [/us/stat/84/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F702
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/90/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1809
+[/us/pl/114/92/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3503
+[/us/stat/129/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1219
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/94/455/s1903/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fa%2F15%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
