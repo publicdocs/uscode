@@ -49,6 +49,34 @@
 
 > “This title \[enacting subchapter VII of this chapter\] may be cited as the ‘Syria Human Rights Accountability Act of 2012’.”
 
+ __Reports on Nuclear Program of Iran__ 
+
+[Pub. L. 113–291, div. A, title XII, § 1271][/us/pl/113/291/s1271], Dec. 19, 2014, [128 Stat. 3588][/us/stat/128/3588], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relating to the nuclear program of Iran. Such report shall include—
+
+>         “(1) verification of whether Iran is complying with such agreement; and
+
+>         “(2) an assessment of the overall state of the nuclear program of Iran.
+
+>     “(b)  __Additional Reports__  __.—__ 
+
+>     If the interim agreement described in subsection (a) is renewed or if a comprehensive and final agreement is entered into regarding the nuclear program of Iran, by not later than 90 days after such renewal or final agreement being entered into, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report on such renewed or final agreement. Such report shall include the matters described in paragraphs (1) and (2) of subsection (a).
+
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means—
+
+>         “(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+>         “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+>     “(d)  __Sunset__  __.—__ 
+
+>     This section shall terminate on the date that is 10 years after the date of the enactment of this Act \[Dec. 19, 2014\].”
+
  __Countering Iran in the Western Hemisphere__ 
 
 [Pub. L. 112–220][/us/pl/112/220], Dec. 28, 2012, [126 Stat. 1596][/us/stat/126/1596], provided that:
@@ -183,6 +211,8 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/112/158/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs701
 [/us/stat/126/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1265
+[/us/pl/113/291/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1271
+[/us/stat/128/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3588
 [/us/pl/112/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F220
 [/us/stat/126/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1596
 

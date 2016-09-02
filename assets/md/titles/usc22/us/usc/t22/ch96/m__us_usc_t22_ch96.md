@@ -91,7 +91,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8909" data-uslm-ref="/us/usc/t22/s8909">8909.</a>  </td>
 
-    <td> Annual report on military and security developments involving the Russian Federation.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

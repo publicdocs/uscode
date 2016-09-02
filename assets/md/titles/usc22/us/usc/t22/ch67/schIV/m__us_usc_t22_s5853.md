@@ -57,7 +57,7 @@
 
     Sections 108 and 109 of [Public Law 102–229][/us/pl/102/229], referred to in subsec. (c)(1), are sections 108 and 109 of [Pub. L. 102–229, title I][/us/pl/102/229], Dec. 12, 1991, [105 Stat. 1708][/us/stat/105/1708], which are not classified to the Code.
 
-    Section 506(a) of this Act, referred to in subsec. (c)(1), is [section 506(a) of Pub. L. 102–511][/us/pl/102/511/s506/a], which was classified to [section 5856(a) of this title][/us/usc/t22/s5856/a] and was omitted from the Code. Section 506(a) directed amendment of [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], set out as a note under [section 2551 of this title][/us/usc/t22/s2551], but did not become effective pursuant to [section 5856(c) of this title][/us/usc/t22/s5856/c].
+    Section 506(a) of this Act, referred to in subsec. (c)(1), is [section 506(a) of Pub. L. 102–511][/us/pl/102/511/s506/a], which was classified to [section 5856(a) of this title][/us/usc/t22/s5856/a] and was omitted from the Code. Section 506(a) directed amendment of [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551], but did not become effective pursuant to [section 5856(c) of this title][/us/usc/t22/s5856/c] and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].
 
     [Section 665 of title 2][/us/usc/t2/s665], referred to in subsec. (c)(2), was repealed by [Pub. L. 105–33, title X, § 10118(a)][/us/pl/105/33/s10118/a], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695].
 
@@ -73,7 +73,7 @@
 
 >     “(a)  __Authorization__  __.—__ 
 
->     For fiscal year 2001 and subsequent fiscal years, funds made available under ‘Nonproliferation, Antiterrorism, Demining, and Related Programs’ accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)][/us/usc/t22/s5853/a/5]) or section 1412(b)(5) \[[22 U.S.C. 5902(b)(5)][/us/usc/t22/s5902/b/5]\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of [Public Law 102–484][/us/pl/102/484]; [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
+>     For fiscal year 2001 and subsequent fiscal years, funds made available under ‘Nonproliferation, Antiterrorism, Demining, and Related Programs’ accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)][/us/usc/t22/s5853/a/5]) or section 1412(b)(5) \[former [22 U.S.C. 5902(b)(5)][/us/usc/t22/s5902/b/5]\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of [Public Law 102–484][/us/pl/102/484]; [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
 
 >     “(b)  __Availability of Funds__  __.—__ 
 
@@ -85,7 +85,7 @@
 
 >     “(a)  __In General__  __.—__ 
 
->     Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)][/us/usc/t22/s5853/a/5]) and section 1412(b) \[[22 U.S.C. 5902(b)][/us/usc/t22/s5902/b]\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of [Public Law 102–484][/us/pl/102/484], [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
+>     Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)][/us/usc/t22/s5853/a/5]) and section 1412(b) \[former [22 U.S.C. 5902(b)][/us/usc/t22/s5902/b]\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of [Public Law 102–484][/us/pl/102/484], [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
 
 >     “(b)  __Activities Supported__  __.—__ 
 
@@ -114,6 +114,8 @@
 [/us/pl/102/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
 [/us/usc/t22/s5856/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5856%2Fc
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/usc/t2/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs665
 [/us/pl/105/33/s10118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10118%2Fa
 [/us/stat/111/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F695

@@ -231,7 +231,7 @@
 
     (14) Section 3(b)(1) of the Woodrow Wilson Memorial Act of 1968 ([20 U.S.C. 80f(b)(1)][/us/usc/t20/s80f/b/1]);
 
-    (15) [Section 201 of Public Law 89–665][/us/pl/89/665/s201], as amended by [section 201(5) of Public Law 94–422][/us/pl/94/422/s201/5] ([16 U.S.C. 470i(a)(9)][/us/usc/t16/s470i/a/9]);
+    (15) [Section 201 of Public Law 89–665][/us/pl/89/665/s201], as amended by [section 201(5) of Public Law 94–422][/us/pl/94/422/s201/5] ([16 U.S.C. 470i(a)(9)][/us/usc/t16/s470i/a/9]) \[now [54 U.S.C. 304101(a)(9)][/us/usc/t54/s304101/a/9]\];
 
     (16) The third proviso in the twenty-third unnumbered paragraph of title V of [Public Law 95–86][/us/pl/95/86] (headed “UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES”), [91 Stat. 440–41][/us/stat/91/440-41] \[Aug. 2, 1977\];
 
@@ -504,6 +504,7 @@
 [/us/pl/89/665/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs201
 [/us/pl/94/422/s201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2Fs201%2F5
 [/us/usc/t16/s470i/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470i%2Fa%2F9
+[/us/usc/t54/s304101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304101%2Fa%2F9
 [/us/pl/95/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F86
 [/us/stat/91/440-41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F440-41
 [/us/pl/95/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F86

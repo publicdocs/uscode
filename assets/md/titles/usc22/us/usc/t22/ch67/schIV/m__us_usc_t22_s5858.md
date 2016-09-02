@@ -49,15 +49,15 @@
 
             (B) the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
 
-        (2) the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
+        (2) the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B 1 of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
 
 ([Pub. L. 102–511, title V, § 508][/us/pl/102/511/s508], Oct. 24, 1992, [106 Stat. 3342][/us/stat/106/3342].)
 
  __References in Text__ 
 
-    Section 506(a), referred to in subsecs. (a) and (b), is [section 506(a) of Pub. L. 102–511][/us/pl/102/511/s506/a], which was classified to [section 5856(a) of this title][/us/usc/t22/s5856/a] and was omitted from the Code. Section 506(a) directed amendment of [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], set out as a note under [section 2551 of this title][/us/usc/t22/s2551], but did not become effective, pursuant to [section 5856(c) of this title][/us/usc/t22/s5856/c].
+    Section 506(a), referred to in subsecs. (a) and (b), is [section 506(a) of Pub. L. 102–511][/us/pl/102/511/s506/a], which was classified to [section 5856(a) of this title][/us/usc/t22/s5856/a] and was omitted from the Code. Section 506(a) directed amendment of [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551], but did not become effective, pursuant to [section 5856(c) of this title][/us/usc/t22/s5856/c]. [Section 221 of Pub. L. 102–228][/us/pl/102/228/s221] was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].
 
-    The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of [Pub. L. 102–228][/us/pl/102/228], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693]. The reference to subtitle B of the Act probably means part B of title II of [Pub. L. 102–228][/us/pl/102/228], which is set out as a note under [section 2551 of this title][/us/usc/t22/s2551]. Title II of [Pub. L. 102–228][/us/pl/102/228] does not contain a subtitle B. For complete classification of this Act to the Code, see Tables.
+    The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of [Pub. L. 102–228][/us/pl/102/228], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693]. The reference to subtitle B of the Act probably means part B of the Act because title II of [Pub. L. 102–228][/us/pl/102/228] does not contain a subtitle B. Part B was set out in a note under [section 2551 of this title][/us/usc/t22/s2551] and was comprised of sections 211 and 212, which were repealed, respectively, by [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A)][/us/pl/110/181/s1304/a/1/A], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412], and [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606]. For complete classification of this Act to the Code, see Tables.
 
  __Delegation of Functions__ 
 
@@ -79,11 +79,17 @@
 [/us/pl/102/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
 [/us/usc/t22/s5856/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5856%2Fc
+[/us/pl/102/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/stat/105/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1693
 [/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
+[/us/pl/110/181/s1304/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1304%2Fa%2F1%2FA
+[/us/stat/122/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F412
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/usc/t22/s5854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5854
 [/us/usc/t22/s5852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5852
 

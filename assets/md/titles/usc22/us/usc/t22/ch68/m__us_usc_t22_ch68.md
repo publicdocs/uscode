@@ -43,7 +43,7 @@ SUBCHAPTER I—FINDINGS AND PROGRAM AUTHORITY  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5902" data-uslm-ref="/us/usc/t22/s5902">5902.</a>  </td>
 
-    <td> Authority for programs to facilitate demilitarization.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -75,7 +75,7 @@ SUBCHAPTER III—REPORTING REQUIREMENTS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5921" data-uslm-ref="/us/usc/t22/s5921">5921.</a>  </td>
 
-    <td> Prior notice to Congress of obligation of funds.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

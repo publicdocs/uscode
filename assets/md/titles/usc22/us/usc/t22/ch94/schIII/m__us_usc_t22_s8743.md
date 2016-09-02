@@ -129,7 +129,7 @@
 
     The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-    Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is [section 1501 of Pub. L. 104–201][/us/pl/104/201/s1501], which is set out as a note under [section 2362 of Title 50][/us/usc/t50/s2362], War and National Defense.
+    Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is [section 1501 of Pub. L. 104–201][/us/pl/104/201/s1501], which was formerly set out as a note under [section 2362 of Title 50][/us/usc/t50/s2362], War and National Defense, and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(5)][/us/pl/113/291/s1351/5], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
 
     The Atomic Energy Defense Act, referred to in subsec. (b)(2), is [Pub. L. 107–314, div. D][/us/pl/107/314], as added [Pub. L. 108–136, div. C, title XXXI, § 3141(b)][/us/pl/108/136/s3141/b], Nov. 24, 2003, [117 Stat. 1753][/us/stat/117/1753], which is classified generally to chapter 42 (§ 2501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 50][/us/usc/t50/s2501] and Tables.
 
@@ -166,6 +166,8 @@
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/104/201/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1501
 [/us/usc/t50/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2362
+[/us/pl/113/291/s1351/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F5
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/108/136/s3141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fb
 [/us/stat/117/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1753

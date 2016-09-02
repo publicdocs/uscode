@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421]. Subsec. (a)(2) and (3) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended [section 221 of Pub. L. 102–228][/us/pl/102/228/s221] which is set out as a note under [section 2551 of this title][/us/usc/t22/s2551]. Subsec. (b) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229] which are not classified to the Code.
+    Section is comprised of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421]. Subsec. (a)(2) and (3) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551] and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606]. Subsec. (b) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229], which are not classified to the Code.
 
 ----------
 
@@ -72,6 +72,8 @@
 [/us/pl/102/484/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421
 [/us/pl/102/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/484/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
 

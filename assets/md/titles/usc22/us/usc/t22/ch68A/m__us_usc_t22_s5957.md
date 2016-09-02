@@ -13,17 +13,9 @@
 
 [Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5956.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5958.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5957)
 
-## § 5957. “Appropriate congressional committees” defined
+## § 5957. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(3)][/us/pl/113/291/s1351/3], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607]
 
-    In this chapter, the term “appropriate congressional committees” means—
-
-    (1) the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account, budget activity, or program is funded from appropriations made under the international affairs budget function (150);
-
-    (2) the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
-
-    (3) the committee to which the specified activities of [section 5952 of this title][/us/usc/t22/s5952], if the subject of separate legislation, would be referred under the rules of the respective House of Congress.
-
-([Pub. L. 103–160, div. A, title XII, § 1208][/us/pl/103/160/s1208], Nov. 30, 1993, [107 Stat. 1782][/us/stat/107/1782].)
+    Section, [Pub. L. 103–160, div. A, title XII, § 1208][/us/pl/103/160/s1208], Nov. 30, 1993, [107 Stat. 1782][/us/stat/107/1782], defined “appropriate congressional committees” for this chapter.
 
 ----------
 
@@ -32,7 +24,8 @@
 ----------
 ----------
 
-[/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
+[/us/pl/113/291/s1351/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F3
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 [/us/pl/103/160/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1208
 [/us/stat/107/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1782
 

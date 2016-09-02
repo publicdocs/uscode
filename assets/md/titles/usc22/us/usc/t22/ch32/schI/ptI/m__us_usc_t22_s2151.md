@@ -503,6 +503,78 @@
 
     Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+ __Military-to-Military Engagement With the Government of Burma__ 
+
+[Pub. L. 113–291, div. A, title XII, § 1253][/us/pl/113/291/s1253], Dec. 19, 2014, [128 Stat. 3571][/us/stat/128/3571], provided that:
+
+>     “(a)  __Authorization__  __.—__ 
+
+>     The Department of Defense is authorized to provide the Government of Burma the following:
+
+>         “(1) Consultation, education, and training on human rights, the laws of armed conflict, civilian control of the military, rule of law, and other legal matters.
+
+>         “(2) Consultation, education, and training on English-language, humanitarian and disaster relief, and improvements to medical and health standards.
+
+>         “(3) Courses or workshops on defense institution reform.
+
+>         “(4) Observer status to bilateral or multilateral humanitarian assistance and disaster relief exercises.
+
+>         “(5) Aid or support in the event of a humanitarian crisis or natural disaster.
+
+>     “(b) __Annual Reports.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], and each March 1 thereafter, the Secretary of Defense shall, in consultation with the Secretary of State, submit to the appropriate committees of Congress a report on military-to-military engagement between the United States Armed Forces and the Burmese military.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         Each report under paragraph (1) shall include the following:
+
+>             “(A) A description of the military-to-military activities between the United States and Burma, and how engagement with the Burmese military supports the United States national security strategy and promotes reform in Burma.
+
+>             “(B) A description of the objectives of the United States for developing the military-to-military relationship with the Burmese military, how the United States measures progress toward such objectives, and the implications of failing to achieve such objectives.
+
+>             “(C)
+
+>              A description and assessment of the political, military, economic, and civil society reforms being undertaken by the Government of Burma, including those affecting—
+
+>                 “(i) individual freedoms and human rights of the Burmese people, including those of ethnic and religious minorities and internally displaced populations;
+
+>                 “(ii) the peaceful settlement of armed conflicts between the Government of Burma and ethnic minority groups in Burma;
+
+>                 “(iii) civilian control of the armed forces;
+
+>                 “(iv) constitutional and electoral reforms;
+
+>                 “(v) access for the purposes of human rights monitoring and humanitarian assistance to all areas in Burma, and cooperation with civilian authorities to investigate and resolve cases of human rights violations;
+
+>                 “(vi) governmental transparency and accountability; and
+
+>                 “(vii) respect for the laws of armed conflict and human rights, including with respect to child soldiers.
+
+>             “(D) A description and assessment of relationships of the Government of Burma with unlawful or sanctioned entities.
+
+>         “(3)  __Form__  __.—__ 
+
+>         Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+>         “(4)  __Sunset__  __.—__ 
+
+>         The requirement to submit additional reports under this subsection shall terminate at the end of the 5-year period beginning on the date of the enactment of this Act \[Dec. 19, 2014\].
+
+>     “(c)  __Rule of Construction__  __.—__ 
+
+>     No Department of Defense assistance to the Government of Burma is authorized by this Act \[[Pub. L. 113–291][/us/pl/113/291], see Tables for classification\] except as provided in this section.
+
+>     “(d)  __Appropriate Committees of Congress Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate committees of Congress’ means—
+
+>         “(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+>         “(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.”
+
  __Assessing Progress in Haiti__ 
 
 [Pub. L. 113–162][/us/pl/113/162], Aug. 8, 2014, [128 Stat. 1858][/us/stat/128/1858], provided that:
@@ -947,7 +1019,7 @@
 
  __Global Security Contingency Fund__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1207][/us/pl/112/81/s1207], Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], as amended by [Pub. L. 113–66, div. A, title XII, § 1202][/us/pl/113/66/s1202], Dec. 26, 2013, [127 Stat. 893][/us/stat/127/893], provided that:
+[Pub. L. 112–81, div. A, title XII, § 1207][/us/pl/112/81/s1207], Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], as amended by [Pub. L. 113–66, div. A, title XII, § 1202][/us/pl/113/66/s1202], Dec. 26, 2013, [127 Stat. 893][/us/stat/127/893]; [Pub. L. 113–291, div. A, title XII, § 1201][/us/pl/113/291/s1201], Dec. 19, 2014, [128 Stat. 3529][/us/stat/128/3529], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -971,7 +1043,15 @@
 
 >         “(1)  __Authorized elements__  __.—__ 
 
->         A program to provide the assistance under subsection (b)(1) may include the provision of equipment, supplies, and training.
+>         A program to provide the assistance under subsection (b)(1) may include the provision of the following:
+
+>             “(A) Equipment, including routine maintenance and repair of such equipment.
+
+>             “(B) Supplies.
+
+>             “(C) With respect to amounts in the Fund appropriated or transferred into the Fund after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\], small-scale construction not exceeding $750,000 on a per-project basis.
+
+>             “(D) Training.
 
 >         “(2)  __Required elements__  __.—__ 
 
@@ -1021,9 +1101,15 @@
 
 >     The Secretary of State may use money, funds, property, and services accepted pursuant to the authority of section 635(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2395(d)][/us/usc/t22/s2395/d]) to fulfill the purposes of subsection (b).
 
->     “(i)  __Availability of Funds__  __.—__ 
+>     “(i) __Availability of Funds.—__ 
 
->     Amounts in the Fund shall remain available until September 30, 2015, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in paragraph (2), amounts in the Fund shall remain available until September 30, 2017, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
+
+>         “(2)  __Exception__  __.—__ 
+
+>         Amounts appropriated and transferred to the Fund before the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\] shall remain available for obligation and expenditure after September 30, 2015, only for activities under programs commenced under subsection (b) before September 30, 2015.
 
 >     “(j)  __Administrative Expenses__  __.—__ 
 
@@ -1069,7 +1155,7 @@
 
 >     “(p)  __Expiration__  __.—__ 
 
->     The authority under this section may not be exercised after September 30, 2015. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2015.”
+>     The authority under this section may not be exercised after September 30, 2017. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2017 and subject to the requirements contained in paragraphs (1) and (2) of subsection (i).”
 
  __Lord’s Resistance Army Disarmament and Northern Uganda Recovery__ 
 
@@ -3350,6 +3436,9 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1922
 [/us/usc/t22/s1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1783
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/113/291/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1253
+[/us/stat/128/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3571
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F162
 [/us/stat/128/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1858
 [/us/pl/113/66/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1206
@@ -3371,6 +3460,8 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/stat/125/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1625
 [/us/pl/113/66/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1202
 [/us/stat/127/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F893
+[/us/pl/113/291/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1201
+[/us/stat/128/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3529
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2378d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378d
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

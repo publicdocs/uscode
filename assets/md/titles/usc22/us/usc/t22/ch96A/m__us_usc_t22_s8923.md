@@ -245,7 +245,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsecs. (c)(4), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (c)(4), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
 
     The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 

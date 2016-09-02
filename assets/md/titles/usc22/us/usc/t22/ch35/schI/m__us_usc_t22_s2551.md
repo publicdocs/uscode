@@ -193,7 +193,7 @@
 
  __Soviet Weapons Destruction__ 
 
-[Pub. L. 102–228, title II][/us/pl/102/228], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], as amended by [Pub. L. 102–484, div. A, title XIV, § 1421(a)(2)][/us/pl/102/484/s1421/a/2], (3), Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565]; [Pub. L. 103–236, title I, § 139(17)][/us/pl/103/236/s139/17], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 104–106, div. A, title XII, § 1204][/us/pl/104/106/s1204], Feb. 10, 1996, [110 Stat. 470][/us/stat/110/470]; [Pub. L. 110–53, title XVIII, § 1811(1)][/us/pl/110/53/s1811/1], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492]; [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)][/us/pl/110/181/s1304/a/1], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412], provided that:
+[Pub. L. 102–228, title II][/us/pl/102/228], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], as amended by [Pub. L. 102–484, div. A, title XIV, § 1421(a)(2)][/us/pl/102/484/s1421/a/2], (3), Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565]; [Pub. L. 103–236, title I, § 139(17)][/us/pl/103/236/s139/17], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 104–106, div. A, title XII, § 1204][/us/pl/104/106/s1204], Feb. 10, 1996, [110 Stat. 470][/us/stat/110/470]; [Pub. L. 110–53, title XVIII, § 1811(1)][/us/pl/110/53/s1811/1], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492]; [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)][/us/pl/110/181/s1304/a/1], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412]; [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606], provided that:
 
 > “part a— __short title__ 
 
@@ -205,39 +205,11 @@
 
     “\[SEC. 211. Repealed. [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A)][/us/pl/110/181/s1304/a/1/A], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].\]
 
-    “SEC. 212. AUTHORITY FOR PROGRAM TO FACILITATE SOVIET WEAPONS DESTRUCTION.
-
-    “(a) In General.—Notwithstanding any other provision of law, the President may establish a program as authorized in subsection (b) to assist Soviet weapons destruction. Funds for carrying out this program shall be provided as specified in part C.
-
-    “(b) Type of Program.—The program under this section shall be limited to cooperation among the United States, the Soviet Union, its republics, and any successor entities to (1) destroy nuclear weapons, chemical weapons, and other weapons, (2) transport, store, disable, and safeguard weapons in connection with their destruction, and (3) establish verifiable safeguards against the proliferation of such weapons. Such cooperation may involve assistance in planning and in resolving technical problems associated with weapons destruction and proliferation. Such cooperation may also involve the funding of critical short-term requirements related to weapons destruction and should, to the extent feasible, draw upon United States technology and United States technicians.
+    “\[SEC. 212. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
 
 “part c—administrative and funding authorities
 
-    “SEC. 221. ADMINISTRATION OF NUCLEAR THREAT REDUCTION PROGRAMS.
-
-    “(a) Funding.—
-
-    “(1) Transfer authority.—The President may, to the extent provided in an appropriations Act or joint resolution, transfer to the appropriate defense accounts from amounts appropriated to the Department of Defense for fiscal years 1992 and 1993 for operation and maintenance or from balances in working capital accounts established under [section 2208 of title 10][/us/usc/t10/s2208], United States Code, not to exceed $800,000,000 for use in reducing the Soviet military threat under part B.
-
-    “(2) Limitation.—Amounts for transfers under paragraph (1) may not be derived from amounts appropriated for any activity of the Department of Defense that the Secretary of Defense determines essential for the readiness of the Armed Forces, including amounts for—
-
-    “(A) training activities; and
-
-    “(B) depot maintenance activities.
-
-    “(b) Department of Defense.—The Department of Defense shall serve as the executive agent for any program established under part B.
-
-    “(c) Reimbursement of Other Agencies.—The Secretary of Defense may reimburse other United States Government departments and agencies under this section for costs of participation, as directed by the President, only in a program established under part B.
-
-    “(d) Charges Against Funds.—The value of any material from existing stocks and inventories of the Department of Defense, or any other United States Government department or agency, that is used in providing assistance under part B to reduce the Soviet military threat may not be charged against funds available pursuant to subsection (a) to the extent that the material contributed is directed by the President to be contributed without subsequent replacement.
-
-    “(e) Determination by Director of OMB.—No amount may be obligated for the program under part B for fiscal year 1992 or fiscal year 1993 unless expenditures for that program for that fiscal year have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[[2 U.S.C. 665(a)(2)][/us/usc/t2/s665/a/2]\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 900][/us/usc/t2/s900] et seq.\].
-
-    “SEC. 222. REPAYMENT ARRANGEMENTS.
-
-    “(a) Reimbursement Arrangements.—Assistance provided under part B to the Soviet Union, any of its republics, or any successor entity shall be conditioned, to the extent that the President determines to be appropriate after consultation with the recipient government, upon the agreement of the recipient government to reimburse the United States Government for the cost of such assistance from natural resources or other materials available to the recipient government.
-
-    “(b) Natural Resources, Etc.—The President shall encourage the satisfaction of such reimbursement arrangements through the provision of natural resources, such as oil and petroleum products and critical and strategic materials, and industrial goods. Materials received by the United States Government pursuant to this section that are suitable for inclusion in the Strategic Petroleum Reserve or the National Defense Stockpile may be deposited in the reserve or stockpile without reimbursement. Other material and services received may be sold or traded on the domestic or international market with the proceeds to be deposited in the General Fund of the Treasury.
+    “\[SECS. 221, 222. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
 
     “SEC. 223. DIRE EMERGENCY SUPPLEMENTAL APPROPRIATIONS.
 
@@ -245,15 +217,7 @@
 
 “part d—reporting requirements
 
-    “SEC. 231. PRIOR NOTICE OF OBLIGATIONS TO CONGRESS.
-
-    “Not less than 15 days before obligating any funds for a program under part B, the President shall transmit to the Congress a report on the proposed obligation. Each such report shall specify—
-
-    “(1) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
-
-    “(2) the activities and forms of assistance under part B for which the President plans to obligate such funds.”
-
-    \[Memorandum of President of the United States, May 10, 1996, 61 F.R. 26033, delegated to Secretary of State authority and duty of President under [section 211(c) of Pub. L. 102–228][/us/pl/102/228/s211/c] set out above.\]
+    “\[SEC. 231. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
 
  __Report on Fulfillment of Primary Functions__ 
 
@@ -355,13 +319,17 @@
 [/us/stat/121/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F492
 [/us/pl/110/181/s1304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1304%2Fa%2F1
 [/us/stat/122/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F412
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/110/181/s1304/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1304%2Fa%2F1%2FA
 [/us/stat/122/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F412
-[/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
-[/us/usc/t2/s665/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs665%2Fa%2F2
-[/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/228/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs211%2Fc
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/228/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs401%2Fc
 [/us/stat/105/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1699
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551

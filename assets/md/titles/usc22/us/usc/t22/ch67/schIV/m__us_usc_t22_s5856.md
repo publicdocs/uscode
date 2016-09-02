@@ -29,11 +29,11 @@
 
     The National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c), is [Pub. L. 102–484][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2315][/us/stat/106/2315]. For complete classification of this Act to the Code, see Tables. See, also, Codification note below.
 
-    Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), is [section 221(a) of Pub. L. 102–228][/us/pl/102/228/s221/a], which is set out as a note under [section 2551 of this title][/us/usc/t22/s2551]. See Codification note below.
+    Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), was [section 221(a) of Pub. L. 102–228][/us/pl/102/228/s221/a], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551] prior to repeal by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606]. See Codification note below.
 
  __Codification__ 
 
-    Section is comprised of [section 506 of Pub. L. 102–511][/us/pl/102/511/s506]. Subsec. (a) of this section directed the amendment of [section 221 of Pub. L. 102–228][/us/pl/102/228/s221] which is set out as a note under [section 2551 of this title][/us/usc/t22/s2551] and subsec. (b) of this section directed the amendment of sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229] which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of [Pub. L. 102–484, div. A, title XIV][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565], to [section 221 of Pub. L. 102–228][/us/pl/102/228/s221] and sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229], the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
+    Section is comprised of [section 506 of Pub. L. 102–511][/us/pl/102/511/s506]. Subsec. (a) of this section directed the amendment of [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551] and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606]. Subsec. (b) of this section directed the amendment of sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229], which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of [Pub. L. 102–484, div. A, title XIV][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565], to [section 221 of Pub. L. 102–228][/us/pl/102/228/s221] and sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229], the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
 
 ----------
 
@@ -48,9 +48,13 @@
 [/us/stat/106/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2315
 [/us/pl/102/228/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221%2Fa
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/511/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs506
 [/us/pl/102/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
+[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2565

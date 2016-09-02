@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t22/ch93/m__us_usc_t22_s8605.md) | [Next](./../../../..//us/usc/t22/ch94/m__us_usc_t22_ch94.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8606)
 
-## § 8606United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies
+## § 8606. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies
 
     (a) __In general__ 
 

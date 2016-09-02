@@ -33,17 +33,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5952" data-uslm-ref="/us/usc/t22/s5952">5952.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5952" data-uslm-ref="/us/usc/t22/s5952">5952</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5953" data-uslm-ref="/us/usc/t22/s5953">5953.</a>  </td>
 
-    <td> Authority for programs to facilitate cooperative threat reduction.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5953" data-uslm-ref="/us/usc/t22/s5953">5953.</a>  </td>
-
-    <td> Demilitarization Enterprise Fund.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -57,25 +49,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5955" data-uslm-ref="/us/usc/t22/s5955">5955.</a>  </td>
-
-    <td> Prior notice to Congress of obligation of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5956" data-uslm-ref="/us/usc/t22/s5956">5956.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5955" data-uslm-ref="/us/usc/t22/s5955">5955</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5957" data-uslm-ref="/us/usc/t22/s5957">5957.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5957" data-uslm-ref="/us/usc/t22/s5957">5957.</a>  </td>
-
-    <td> “Appropriate congressional committees” defined.  </td>
 
   </tr>
 
@@ -89,25 +65,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5959" data-uslm-ref="/us/usc/t22/s5959">5959.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5959" data-uslm-ref="/us/usc/t22/s5959">5959</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5961" data-uslm-ref="/us/usc/t22/s5961">5961.</a>  </td>
 
-    <td> Reports on activities and assistance under cooperative threat reduction programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5960" data-uslm-ref="/us/usc/t22/s5960">5960.</a>  </td>
-
-    <td> Limitation on use of funds until certain permits obtained.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5961" data-uslm-ref="/us/usc/t22/s5961">5961.</a>  </td>
-
-    <td> Requirement for on-site managers.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -121,33 +81,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5962" data-uslm-ref="/us/usc/t22/s5962">5962.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5962" data-uslm-ref="/us/usc/t22/s5962">5962</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5965" data-uslm-ref="/us/usc/t22/s5965">5965.</a>  </td>
 
-    <td> Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5963" data-uslm-ref="/us/usc/t22/s5963">5963.</a>  </td>
-
-    <td> Authority to use Cooperative Threat Reduction funds outside the former Soviet Union.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5964" data-uslm-ref="/us/usc/t22/s5964">5964.</a>  </td>
-
-    <td> Metrics for the Cooperative Threat Reduction Program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5965" data-uslm-ref="/us/usc/t22/s5965">5965.</a>  </td>
-
-    <td> Cooperative Threat Reduction Program authority for urgent threat reduction activities.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
