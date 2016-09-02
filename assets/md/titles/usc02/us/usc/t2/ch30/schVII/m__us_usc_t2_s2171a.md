@@ -41,7 +41,7 @@
 
             (B) approval by that Committee.
 
-    (c) __Fees and Charges__ 
+    (c) __Fees and charges__ 
 
         (1) __In general__ 
 
