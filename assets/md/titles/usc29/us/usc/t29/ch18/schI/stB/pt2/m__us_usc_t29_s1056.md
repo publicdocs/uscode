@@ -321,7 +321,7 @@
 
             (B) __Bankruptcy__ 
 
-                A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
+                A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under [section 1083(h)(2)(C)(iv) of this title][/us/usc/t29/s1083/h/2/C/iv]) is not less than 100 percent.
 
             (C) __Limited payment if percentage at least 60 percent but less than 80 percent__ 
 
@@ -565,7 +565,7 @@
 
             This subsection shall not apply to a CSEC plan (as defined in [section 1060(f) of this title][/us/usc/t29/s1060/f]).
 
-([Pub. L. 93–406, title I, § 206][/us/pl/93/406/s206], Sept. 2, 1974, [88 Stat. 864][/us/stat/88/864]; [Pub. L. 98–397, title I, § 104(a)][/us/pl/98/397/s104/a], Aug. 23, 1984, [98 Stat. 1433][/us/stat/98/1433]; [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)][/us/pl/99/514/s1898/c/2/B], (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954][/us/stat/100/2952-2954]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033], 5048; [Pub. L. 105–34, title XV, § 1502(a)][/us/pl/105/34/s1502/a], Aug. 5, 1997, [111 Stat. 1058][/us/stat/111/1058]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809][/us/stat/120/809], 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(c)(1)(B)][/us/pl/110/458/s101/c/1/B]–(G), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(1)][/us/pl/111/192/s203/a/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299]; [Pub. L. 113–97, title I, § 102(b)(3)][/us/pl/113/97/s102/b/3], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116].)
+([Pub. L. 93–406, title I, § 206][/us/pl/93/406/s206], Sept. 2, 1974, [88 Stat. 864][/us/stat/88/864]; [Pub. L. 98–397, title I, § 104(a)][/us/pl/98/397/s104/a], Aug. 23, 1984, [98 Stat. 1433][/us/stat/98/1433]; [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)][/us/pl/99/514/s1898/c/2/B], (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954][/us/stat/100/2952-2954]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033], 5048; [Pub. L. 105–34, title XV, § 1502(a)][/us/pl/105/34/s1502/a], Aug. 5, 1997, [111 Stat. 1058][/us/stat/111/1058]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809][/us/stat/120/809], 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(c)(1)(B)][/us/pl/110/458/s101/c/1/B]–(G), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(1)][/us/pl/111/192/s203/a/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299]; [Pub. L. 113–97, title I, § 102(b)(3)][/us/pl/113/97/s102/b/3], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116]; [Pub. L. 113–159, title II, § 2003(c)(2)][/us/pl/113/159/s2003/c/2], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850].)
 
  __References in Text__ 
 
@@ -577,7 +577,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (g)(12). [Pub. L. 113–97][/us/pl/113/97] added par. (12).
+    2014—Subsec. (g)(3)(B). [Pub. L. 113–159][/us/pl/113/159] substituted “of such plan (determined by not taking into account any adjustment of segment rates under [section 1083(h)(2)(C)(iv) of this title][/us/usc/t29/s1083/h/2/C/iv])” for “of such plan”.
+
+    Subsec. (g)(12). [Pub. L. 113–97][/us/pl/113/97] added par. (12).
 
     2010—Subsec. (g)(9)(D). [Pub. L. 111–192, § 203(a)(1)][/us/pl/111/192/s203/a/1], added subpar. (D).
 
@@ -640,6 +642,8 @@
     1984—Subsec. (d)(3). [Pub. L. 98–397][/us/pl/98/397] added par. (3).
 
  __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–159][/us/pl/113/159] applicable to plan years beginning after Dec. 31, 2014, except as otherwise provided, see [section 2003(c)(3) of Pub. L. 113–159][/us/pl/113/159/s2003/c/3], set out as a note under [section 436 of Title 26][/us/usc/t26/s436], Internal Revenue Code.
 
     Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
@@ -740,6 +744,7 @@
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
+[/us/usc/t29/s1083/h/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC%2Fiv
 [/us/usc/t29/s1055/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1054/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fb%2F1%2FG
@@ -778,6 +783,8 @@
 [/us/stat/124/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1299
 [/us/pl/113/97/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F3
 [/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
+[/us/pl/113/159/s2003/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F2
+[/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -789,6 +796,8 @@
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/usc/t29/s1083/h/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC%2Fiv
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/192/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fa%2F1
 [/us/pl/110/458/s101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F1%2FB
@@ -827,6 +836,9 @@
 [/us/pl/99/514/s1898/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F5
 [/us/pl/99/514/s1898/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F4%2FB
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/113/159/s2003/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F3
+[/us/usc/t26/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs436
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

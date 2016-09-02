@@ -689,7 +689,7 @@
 
             For purposes of determining the funding target and normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
 
-                (i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the first day of the plan year, the first segment rate with respect to the applicable month,
+                (i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
 
                 (ii) in the case of benefits reasonably determined to be payable during the 15-year period beginning at the end of the period described in clause (i), the second segment rate with respect to the applicable month, and
 
@@ -743,7 +743,7 @@
 
                             <td> 
 
-                        2012  </td>
+                        2012, 2013, 2014, 2015, 2016, or 2017  </td>
 
                             <td> 
 
@@ -759,7 +759,7 @@
 
                             <td> 
 
-                        2013  </td>
+                        2018  </td>
 
                             <td> 
 
@@ -775,7 +775,7 @@
 
                             <td> 
 
-                        2014  </td>
+                        2019  </td>
 
                             <td> 
 
@@ -791,7 +791,7 @@
 
                             <td> 
 
-                        2015  </td>
+                        2020  </td>
 
                             <td> 
 
@@ -807,7 +807,7 @@
 
                             <td> 
 
-                        After 2015  </td>
+                        After 2020  </td>
 
                             <td> 
 
@@ -815,7 +815,7 @@
 
                             <td> 
 
-                        130%.    </td>
+                        130%.  </td>
 
   </tr>
 
@@ -1425,7 +1425,7 @@
 
         In the case of a qualified transfer (as defined in [section 420 of title 26][/us/usc/t26/s420]), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-([Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], as added [Pub. L. 109–280, title I, § 102(a)][/us/pl/109/280/s102/a], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5113, 5117; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283][/us/stat/124/1283], 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], (3)(A), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 849.)
+([Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], as added [Pub. L. 109–280, title I, § 102(a)][/us/pl/109/280/s102/a], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5113, 5117; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283][/us/stat/124/1283], 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], (3)(A), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 849; [Pub. L. 113–159, title II, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], (d)(2), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851.)
 
  __References in Text__ 
 
@@ -1438,6 +1438,110 @@
     A prior section 1083, [Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], Sept. 2, 1974, [88 Stat. 872][/us/stat/88/872]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11015(b)(1)(A), 11016(c)(2), Apr. 7, 1986, [100 Stat. 267][/us/stat/100/267], 273; [Pub. L. 100–203, title IX, § 9306(a)(2)][/us/pl/100/203/s9306/a/2], (b)(2), (c)(2)(A), (d)(2), Dec. 22, 1987, [101 Stat. 1330–353][/us/stat/101/1330-353] to 1330–355; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(6)(B)(ii), (7), (8), (c)(2), 7891(a)(1), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2439, 2445, related to variance from minimum funding standard, prior to repeal by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(2)][/us/pl/113/159/s2003/d/2], substituted “the valuation date for the plan year” for “the first day of the plan year”.
+
+    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], amended table generally. Prior to amendment, table read as follows:
+
+<table>
+
+  <tr>
+
+    <td> 
+
+“If the calendar year is:  </td>
+
+    <td> 
+
+The applicable minimum percentage is:  </td>
+
+    <td> 
+
+The applicable maximum percentage is:  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2012  </td>
+
+    <td> 
+
+90%  </td>
+
+    <td> 
+
+110%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2013  </td>
+
+    <td> 
+
+85%  </td>
+
+    <td> 
+
+115%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2014  </td>
+
+    <td> 
+
+80%  </td>
+
+    <td> 
+
+120%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2015  </td>
+
+    <td> 
+
+75%  </td>
+
+    <td> 
+
+125%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+After 2015  </td>
+
+    <td> 
+
+70%  </td>
+
+    <td> 
+
+130%.”  </td>
+
+  </tr>
+
+</table>
 
     2012—Subsec. (h)(2)(C)(iv). [Pub. L. 112–141, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], added cl. (iv).
 
@@ -1482,6 +1586,10 @@
     Subsec. (j)(3)(E). [Pub. L. 110–458, § 101(b)(1)(G)(ii)][/us/pl/110/458/s101/b/1/G/ii], (iii), substituted “, short years, and years with alternate valuation date” for “and short years” in heading and added cl. (iii).
 
     Subsec. (k)(6)(B). [Pub. L. 110–458, § 101(b)(1)(H)][/us/pl/110/458/s101/b/1/H], struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section” after “subsection (j)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–159][/us/pl/113/159] applicable with respect to plan years beginning after Dec. 31, 2012, except as otherwise provided, see [section 2003(e) of Pub. L. 113–159][/us/pl/113/159/s2003/e], set out as a note under [section 430 of Title 26][/us/usc/t26/s430], Internal Revenue Code.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -1557,6 +1665,8 @@
 [/us/stat/124/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1283
 [/us/pl/112/141/s40211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F1
 [/us/stat/126/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F847
+[/us/pl/113/159/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F1
+[/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
 [/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -1572,6 +1682,8 @@
 [/us/stat/103/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2438
 [/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
+[/us/pl/113/159/s2003/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fd%2F2
+[/us/pl/113/159/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F1
 [/us/pl/112/141/s40211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F1
 [/us/pl/112/141/s40211/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F3%2FA
 [/us/pl/111/192/s201/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs201%2Fa%2F3%2FA
@@ -1596,6 +1708,9 @@
 [/us/pl/110/458/s101/b/1/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FG%2Fi
 [/us/pl/110/458/s101/b/1/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FG%2Fii
 [/us/pl/110/458/s101/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FH
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/113/159/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fe
+[/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404

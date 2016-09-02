@@ -323,6 +323,8 @@
 
 > “The Act \[this chapter\] is amended by striking out ‘National Institute of Handicapped Research’ each place it appears in the Act (including the table of contents) and inserting in lieu thereof ‘National Institute on Disability and Rehabilitation Research’. Any reference in any other provision of law to the ‘National Institute of Handicapped Research’ shall be considered to be a reference to the ‘National Institute on Disability and Rehabilitation Research’.”
 
+    \[Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42][/us/usc/t42/s3515e], The Public Health and Welfare.\]
+
 ----------
 
 [Previous](./../../../../..//us/usc/t29/ch16/schII/m__us_usc_t29_s761.md) | [Next](./../../../../..//us/usc/t29/ch16/schII/m__us_usc_t29_s762a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762)
@@ -432,5 +434,6 @@
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/99/506/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs302%2Fb
 [/us/stat/100/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1821
+[/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
 
 

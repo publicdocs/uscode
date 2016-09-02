@@ -41,7 +41,7 @@
 
         (7) gather information about the implementation, effectiveness, and impact of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.);
 
-        (8) make recommendations to the President, the Congress, the Secretary, the Director of the National Institute on Disability and Rehabilitation Research, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “National Institute on Disability, Independent Living, and Rehabilitation Research”. </sup></sup>  and other officials of Federal agencies or other Federal entities, respecting ways to better promote the policies set forth in [section 780(a)(2) of this title][/us/usc/t29/s780/a/2];
+        (8) make recommendations to the President, the Congress, the Secretary, the Director of the National Institute on Disability and Rehabilitation Research, and other officials of Federal agencies or other Federal entities, respecting ways to better promote the policies set forth in [section 780(a)(2) of this title][/us/usc/t29/s780/a/2];
 
         (9) provide to the Congress on a continuing basis advice, recommendations, legislative proposals, and any additional information that the National Council or the Congress deems appropriate; and
 
@@ -88,6 +88,10 @@
  __Termination of Reporting Requirements__ 
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
+
+ __Transfer of Functions__ 
+
+    Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42][/us/usc/t42/s3515e], The Public Health and Welfare.
 
 ----------
 
@@ -143,5 +147,6 @@
 [/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
 
 
