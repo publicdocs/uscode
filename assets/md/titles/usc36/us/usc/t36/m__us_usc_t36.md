@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253]
 
-Current through 114-49
+Current through 114-58
 
 <table>
 
@@ -119,7 +119,7 @@ Part B—United States Government Organizations Involved With Observances and Ce
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FptB%2Fch23" data-uslm-ref="/us/usc/t36/ptB/ch23">23.</a>  </td>
 
-    <td> United States Holocaust Memorial Council  </td>
+    <td> United States Holocaust Memorial Council  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to chapter heading. </sup></sup>   </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2301" data-uslm-ref="/us/usc/t36/s2301">2301</a>  </td>
 
@@ -393,7 +393,7 @@ Part B—Organizations  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FptB%2Fch307" data-uslm-ref="/us/usc/t36/ptB/ch307">307.</a>  </td>
 
-    <td> Board For Fundamental Education  </td>
+    <td> Board For  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should not be capitalized. </sup></sup>  Fundamental Education  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs30701" data-uslm-ref="/us/usc/t36/s30701">30701</a>  </td>
 
@@ -993,9 +993,9 @@ Part B—Organizations  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FptB%2Fch1533" data-uslm-ref="/us/usc/t36/ptB/ch1533">1533.</a>  </td>
 
-    <td> National Society of the Sons of the American Revolution153301  </td>
+    <td> National Society of the Sons of the American Revolution  </td>
 
-    <td>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153301" data-uslm-ref="/us/usc/t36/s153301">153301</a>  </td>
 
   </tr>
 

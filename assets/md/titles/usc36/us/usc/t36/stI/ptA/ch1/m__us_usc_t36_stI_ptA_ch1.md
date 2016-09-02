@@ -385,7 +385,7 @@
 
  __World War I Centennial__ 
 
-[Pub. L. 113–291, div. B, title XXX, § 3091][/us/pl/113/291/s3091], Dec. 19, 2014, [128 Stat. 3858][/us/stat/128/3858], provided that:
+[Pub. L. 113–291, div. B, title XXX, § 3091(a)][/us/pl/113/291/s3091/a]–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3858–3860][/us/stat/128/3858-3860], provided that:
 
 >     “(a) __Liberty Memorial as World War I Museum and Memorial.—__ 
 
@@ -451,11 +451,11 @@
 
 >         \[Amended [section 8 of Pub. L. 112–272][/us/pl/112/272/s8], set out below.\]
 
->     “(c) __Additional Amendments to World War I Centennial Commission Act.—__ 
+>     “(c)  __Additional Amendments to World War I Centennial Commission Act__  __.—__ 
 
->     \[Amended sections 4, 7, and 9 of [Pub. L. 112–272][/us/pl/112/272], set out below.\]”
+>     \[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of [Pub. L. 112–272][/us/pl/112/272], set out below. Par. (3)(C) amended table of contents of [Pub. L. 112–272][/us/pl/112/272], which was omitted from the Code.\]”
 
-[Pub. L. 112–272][/us/pl/112/272], Jan. 14, 2013, [126 Stat. 2448][/us/stat/126/2448], as amended by [Pub. L. 113–291, div. B, title XXX, § 3091(b)(7)][/us/pl/113/291/s3091/b/7]–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3859][/us/stat/128/3859], provided that:
+[Pub. L. 112–272][/us/pl/112/272], Jan. 14, 2013, [126 Stat. 2448][/us/stat/126/2448], as amended by [Pub. L. 113–291, div. B, title XXX, § 3091(b)(7)][/us/pl/113/291/s3091/b/7]–(c)(3)(B), Dec. 19, 2014, [128 Stat. 3859][/us/stat/128/3859], 3860, provided that:
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
@@ -1118,8 +1118,8 @@
 [/us/stat/118/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3345
 [/us/pl/107/89/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F89%2Fs2
 [/us/stat/115/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F877
-[/us/pl/113/291/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3091
-[/us/stat/128/3858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3858
+[/us/pl/113/291/s3091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3091%2Fa
+[/us/stat/128/3858-3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3858-3860
 [/us/pl/89/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F786
 [/us/stat/80/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1377
 [/us/usc/t40/s8906/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8906%2Fb%2F1
@@ -1127,6 +1127,7 @@
 [/us/stat/126/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2448
 [/us/usc/t40/s8906/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8906%2Fb%2F4
 [/us/pl/112/272/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272%2Fs8
+[/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
 [/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
 [/us/pl/112/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F272
 [/us/stat/126/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2448
