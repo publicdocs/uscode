@@ -63,11 +63,11 @@
 
     (b) __Failure to Comply with a Court Order.__ 
 
-        (1) Sanctions in the District Where the Deposition Is Taken. If the court where the discovery is taken orders a deponent to be sworn or to answer a question and the deponent fails to obey, the failure may be treated as contempt of court.
+        (1) Sanctions Sought in the District Where the Deposition Is Taken. If the court where the discovery is taken orders a deponent to be sworn or to answer a question and the deponent fails to obey, the failure may be treated as contempt of court. If a deposition-related motion is transferred to the court where the action is pending, and that court orders a deponent to be sworn or to answer a question and the deponent fails to obey, the failure may be treated as contempt of either the court where the discovery is taken or the court where the action is pending.
 
         (2)
 
- Sanctions in the District Where the Action Is Pending.
+ Sanctions Sought in the District Where the Action Is Pending.
 
             (A)
 
@@ -143,7 +143,7 @@
 
      If a party or its attorney fails to participate in good faith in developing and submitting a proposed discovery plan as required by Rule 26(f), the court may, after giving an opportunity to be heard, require that party or attorney to pay to any other party the reasonable expenses, including attorney’s fees, caused by the failure.
 
-(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; [Pub. L. 96–481, § 205(a)][/us/pl/96/481/s205/a], Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330], eff. Oct. 1, 1981; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; [Pub. L. 96–481, § 205(a)][/us/pl/96/481/s205/a], Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330], eff. Oct. 1, 1981; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -294,6 +294,12 @@
     The language of Rule 37 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
     Changes Made After Publication and Comment. See Note to Rule 1, supra.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Rule 37(b) is amended to conform to amendments made to Rule 45, particularly the addition of Rule 45(f) providing for transfer of a subpoena-related motion to the court where the action is pending. A second sentence is added to Rule 37(b)(1) to deal with contempt of orders entered after such a transfer. The Rule 45(f) transfer provision is explained in the Committee Note to Rule 45.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __Amendment by Public Law__ 
 

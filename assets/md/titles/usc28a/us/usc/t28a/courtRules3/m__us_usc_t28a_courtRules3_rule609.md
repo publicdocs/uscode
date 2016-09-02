@@ -29,7 +29,7 @@
 
         (2) for any crime regardless of the punishment, the evidence must be admitted if the court can readily determine that establishing the elements of the crime required proving—or the witness’s admitting—a dishonest act or false statement.
 
-    (b) __Limit on Using the Evidence After 10 Years. This subdivision (b) applies if more than 10 years have passed since the witness’s conviction or release from confinement for it, whichever is later. Evidence of the conviction is admissible only if:__ 
+    (b)  __Limit on Using the Evidence After __  __10 Years. This subdivision (b) applies if more than 10 years have passed since the witness’s conviction or release from confinement for it, whichever is later. Evidence of the conviction is admissible only if:__ 
 
         (1) its probative value, supported by specific facts and circumstances, substantially outweighs its prejudicial effect; and
 

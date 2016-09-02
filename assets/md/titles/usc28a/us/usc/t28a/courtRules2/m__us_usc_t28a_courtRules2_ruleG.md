@@ -15,11 +15,13 @@
 
 ### Rule G. Forfeiture Actions in Rem
 
-    (1) __Scope. This rule governs a forfeiture action in rem arising from a federal statute. To the extent that this rule does not address an issue, Supplemental Rules C and E and the Federal Rules of Civil Procedure also apply.__ 
+    (1)  __Scope__  __.__ 
 
-    (2) __Complaint. The complaint must:__ 
+     This rule governs a forfeiture action in rem arising from a federal statute. To the extent that this rule does not address an issue, Supplemental Rules C and E and the Federal Rules of Civil Procedure also apply.
 
-        (a) be verified;
+    (2)  __Complaint__  __.__ 
+
+     The complaint must:    (a) be verified;
 
         (b) state the grounds for subject-matter jurisdiction, in rem jurisdiction over the defendant property, and venue;
 
@@ -231,7 +233,9 @@
 
         (ii) the parties have had the opportunity to conduct civil discovery on the defense.
 
-        (9) __Trial. Trial is to the court unless any party demands trial by jury under Rule 38.__ 
+        (9)  __Trial__  __.__ 
+
+         Trial is to the court unless any party demands trial by jury under Rule 38.
 
 (As added Apr. 12, 2006, eff. Dec. 1, 2006; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 

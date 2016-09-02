@@ -41,7 +41,13 @@
 
             (A) is inconsistent with the declarant’s testimony and was given under penalty of perjury at a trial, hearing, or other proceeding or in a deposition;
 
-            (B) is consistent with the declarant’s testimony and is offered to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+            (B)
+
+             is consistent with the declarant’s testimony and is offered:
+
+                (i) to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+
+                (ii) to rehabilitate the declarant’s credibility as a witness when attacked on another ground; or
 
             (C) identifies a person as someone the declarant perceived earlier.
 
@@ -61,7 +67,7 @@
 
             The statement must be considered but does not by itself establish the declarant’s authority under (C); the existence or scope of the relationship under (D); or the existence of the conspiracy or participation in it under (E).
 
-([Pub. L. 93–595, § 1][/us/pl/93/595/s1], Jan. 2, 1975, [88 Stat. 1938][/us/stat/88/1938]; [Pub. L. 94–113, § 1][/us/pl/94/113/s1], Oct. 16, 1975, [89 Stat. 576][/us/stat/89/576]; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011.)
+([Pub. L. 93–595, § 1][/us/pl/93/595/s1], Jan. 2, 1975, [88 Stat. 1938][/us/stat/88/1938]; [Pub. L. 94–113, § 1][/us/pl/94/113/s1], Oct. 16, 1975, [89 Stat. 576][/us/stat/89/576]; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Proposed Rules__ 
 
@@ -164,6 +170,18 @@ When evidence of conduct is offered on the theory that it is not a statement, an
     The language of Rule 801 has been amended as part of the general restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
 
     Statements falling under the hearsay exclusion provided by Rule 801(d)(2) are no longer referred to as “admissions” in the title to the subdivision. The term “admissions” is confusing because not all statements covered by the exclusion are admissions in the colloquial sense—a statement can be within the exclusion even if it “admitted” nothing and was not against the party’s interest when made. The term “admissions” also raises confusion in comparison with the Rule 804(b)(3) exception for declarations against interest. No change in application of the exclusion is intended.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Rule 801(d)(1)(B), as originally adopted, provided for substantive use of certain prior consistent statements of a witness subject to cross-examination. As the Advisory Committee noted, “\[t\]he prior statement is consistent with the testimony given on the stand, and, if the opposite party wishes to open the door for its admission in evidence, no sound reason is apparent why it should not be received generally.”
+
+    Though the original Rule 801(d)(1)(B) provided for substantive use of certain prior consistent statements, the scope of that Rule was limited. The Rule covered only those consistent statements that were offered to rebut charges of recent fabrication or improper motive or influence. The Rule did not, for example, provide for substantive admissibility of consistent statements that are probative to explain what otherwise appears to be an inconsistency in the witness’s testimony. Nor did it cover consistent statements that would be probative to rebut a charge of faulty memory. Thus, the Rule left many prior consistent statements potentially admissible only for the limited purpose of rehabilitating a witness’s credibility. The original Rule also led to some conflict in the cases; some courts distinguished between substantive and rehabilitative use for prior consistent statements, while others appeared to hold that prior consistent statements must be admissible under Rule 801(d)(1)(B) or not at all.
+
+    The amendment retains the requirement set forth in Tome v. United States, 513 U.S. 150 (1995): that under Rule 801(d)(1)(B), a consistent statement offered to rebut a charge of recent fabrication or improper influence or motive must have been made before the alleged fabrication or improper influence or motive arose. The intent of the amendment is to extend substantive effect to consistent statements that rebut other attacks on a witness—such as the charges of inconsistency or faulty memory.
+
+    The amendment does not change the traditional and well-accepted limits on bringing prior consistent statements before the factfinder for credibility purposes. It does not allow impermissible bolstering of a witness. As before, prior consistent statements under the amendment may be brought before the factfinder only if they properly rehabilitate a witness whose credibility has been attacked. As before, to be admissible for rehabilitation, a prior consistent statement must satisfy the strictures of Rule 403. As before, the trial court has ample discretion to exclude prior consistent statements that are cumulative accounts of an event. The amendment does not make any consistent statement admissible that was not admissible previously—the only difference is that prior consistent statements otherwise admissible for rehabilitation are now admissible substantively as well.
+
+    Changes Made After Publication and Comment. The text of the proposed amendment was changed to clarify that the traditional limits on using prior consistent statements to rebut a charge of recent fabrication or improper influence or motive are retained. The Committee Note was modified to accord with the change in text.
 
  __Amendment by Public Law__ 
 

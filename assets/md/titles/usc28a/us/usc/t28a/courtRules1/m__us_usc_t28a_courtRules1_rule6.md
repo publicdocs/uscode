@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t28a/courtRules1/m__us_usc_t28a_courtRules1_rule5.1.md) | [Next](./../../../..//us/usc/t28a/courtRules1/m__us_usc_t28a_courtRules1_rule7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28a%2FcourtRules1%2Frule6)
 
-### Rule 6. Appeal in a Bankruptcy Case from a Final Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel
+### Rule 6. Appeal in a Bankruptcy Case
 
     (a) __Appeal From a Judgment, Order, or Decree of a District Court Exercising Original Jurisdiction in a Bankruptcy Case.__ 
 
@@ -23,13 +23,15 @@
 
         (1)
 
- Applicability of Other Rules. These rules apply to an appeal to a court of appeals under 28 U.S.C. § 158(d) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. § 158(a) or (b). But there are 3 exceptions:
+ Applicability of Other Rules. These rules apply to an appeal to a court of appeals under 28 U.S.C. § 158(d)(1) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. § 158(a) or (b), but with these qualifications:
 
-            (A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(b), 13–20, 22–23, and 24(b) do not apply;
+            (A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(c), 13–20, 22–23, and 24(b) do not apply;
 
-            (B) the reference in Rule 3(c) to “Form 1 in the Appendix of Forms” must be read as a reference to Form 5; and
+            (B) the reference in Rule 3(c) to “Form 1 in the Appendix of Forms” must be read as a reference to Form 5;
 
-            (C) when the appeal is from a bankruptcy appellate panel, the term “district court,” as used in any applicable rule, means “appellate panel.”
+            (C) when the appeal is from a bankruptcy appellate panel, “district court,” as used in any applicable rule, means “appellate panel”; and
+
+            (D) in Rule 12.1, “district court” includes a bankruptcy court or bankruptcy appellate panel.
 
         (2)
 
@@ -39,17 +41,17 @@
 
  Motion for Rehearing.
 
-                (i) If a timely motion for rehearing under Bankruptcy Rule 8015 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion. A notice of appeal filed after the district court or bankruptcy appellate panel announces or enters a judgment, order, or decree—but before disposition of the motion for rehearing—becomes effective when the order disposing of the motion for rehearing is entered.
+                (i) If a timely motion for rehearing under Bankruptcy Rule 8022 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion. A notice of appeal filed after the district court or bankruptcy appellate panel announces or enters a judgment, order, or decree—but before disposition of the motion for rehearing—becomes effective when the order disposing of the motion for rehearing is entered.
 
-                (ii) Appellate review of the order disposing of the motion requires the party, in compliance with Rules 3(c) and 6(b)(1)(B), to amend a previously filed notice of appeal. A party intending to challenge an altered or amended judgment, order, or decree must file a notice of appeal or amended notice of appeal within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
+                (ii) If a party intends to challenge the order disposing of the motion—or the alteration or amendment of a judgment, order, or decree upon the motion—then the party, in compliance with Rules 3(c) and 6(b)(1)(B), must file a notice of appeal or amended notice of appeal. The notice or amended notice must be filed within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
 
                 (iii) No additional fee is required to file an amended notice.
 
             (B)
 
- The record on appeal.
+ The Record on Appeal.
 
-                (i) Within 14 days after filing the notice of appeal, the appellant must file with the clerk possessing the record assembled in accordance with Bankruptcy Rule 8006—and serve on the appellee—a statement of the issues to be presented on appeal and a designation of the record to be certified and sent to the circuit clerk.
+                (i) Within 14 days after filing the notice of appeal, the appellant must file with the clerk possessing the record assembled in accordance with Bankruptcy Rule 8009—and serve on the appellee—a statement of the issues to be presented on appeal and a designation of the record to be certified and made available to the circuit clerk.
 
                 (ii) An appellee who believes that other parts of the record are necessary must, within 14 days after being served with the appellant’s designation, file with the clerk and serve on the appellant a designation of additional parts to be included.
 
@@ -61,15 +63,41 @@
 
             (C)
 
- Forwarding the Record.
+ Making the Record Available.
 
-                (i) When the record is complete, the district clerk or bankruptcy appellate panel clerk must number the documents constituting the record and send them promptly to the circuit clerk together with a list of the documents correspondingly numbered and reasonably identified. Unless directed to do so by a party or the circuit clerk, the clerk will not send to the court of appeals documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals. If the exhibits are unusually bulky or heavy, a party must arrange with the clerks in advance for their transportation and receipt.
+                (i) When the record is complete, the district clerk or bankruptcy-appellate-panel clerk must number the documents constituting the record and promptly make it available to the circuit clerk. If the clerk makes the record available in paper form, the clerk will not send documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals, unless directed to do so by a party or the circuit clerk. If unusually bulky or heavy exhibits are to be made available in paper form, a party must arrange with the clerks in advance for their transportation and receipt.
 
-                (ii) All parties must do whatever else is necessary to enable the clerk to assemble and forward the record. The court of appeals may provide by rule or order that a certified copy of the docket entries be sent in place of the redesignated record, but any party may request at any time during the pendency of the appeal that the redesignated record be sent.
+                (ii) All parties must do whatever else is necessary to enable the clerk to assemble the record and make it available. When the record is made available in paper form, the court of appeals may provide by rule or order that a certified copy of the docket entries be made available in place of the redesignated record. But any party may request at any time during the pendency of the appeal that the redesignated record be made available.
 
-            (D) Filing the Record. Upon receiving the record—or a certified copy of the docket entries sent in place of the redesignated record—the circuit clerk must file it and immediately notify all parties of the filing date.
+            (D) Filing the Record. When the district clerk or bankruptcy-appellate-panel clerk has made the record available, the circuit clerk must note that fact on the docket. The date noted on the docket serves as the filing date of the record. The circuit clerk must immediately notify all parties of the filing date.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009.)
+    (c) __Direct Review by Permission Under 28 U.S.C. § 158(d)(2).__ 
+
+        (1)
+
+ Applicability of Other Rules. These rules apply to a direct appeal by permission under 28 U.S.C. § 158(d)(2), but with these qualifications:
+
+            (A) Rules 3–4, 5(a)(3), 6(a), 6(b), 8(a), 8(c), 9–12, 13–20, 22–23, and 24(b) do not apply;
+
+            (B) as used in any applicable rule, “district court” or “district clerk” includes—to the extent appropriate—a bankruptcy court or bankruptcy appellate panel or its clerk; and
+
+            (C) the reference to “Rules 11 and 12(c)” in Rule 5(d)(3) must be read as a reference to Rules 6(c)(2)(B) and (C).
+
+        (2)
+
+ Additional Rules. In addition, the following rules apply:
+
+            (A) The Record on Appeal. Bankruptcy Rule 8009 governs the record on appeal.
+
+            (B) Making the Record Available. Bankruptcy Rule 8010 governs completing the record and making it available.
+
+            (C) Stays Pending Appeal. Bankruptcy Rule 8007 applies to stays pending appeal.
+
+            (D) Duties of the Circuit Clerk. When the bankruptcy clerk has made the record available, the circuit clerk must note that fact on the docket. The date noted on the docket serves as the filing date of the record. The circuit clerk must immediately notify all parties of the filing date.
+
+            (E) Filing a Representation Statement. Unless the court of appeals designates another time, within 14 days after entry of the order granting permission to appeal, the attorney who sought permission must file a statement with the circuit clerk naming the parties that the attorney represents on appeal.
+
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1967__ 
 
@@ -107,9 +135,35 @@
 
     Subdivision (b)(2)(B). The times set in the former rule at 10 days have been revised to 14 days. See the Note to Rule 26.
 
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Subdivision (b)(1). Subdivision (b)(1) is updated to reflect the renumbering of 28 U.S.C. § 158(d) as 28 U.S.C. § 158(d)(1). Subdivision (b)(1)(A) is updated to reflect the renumbering of Rule 12(b) as Rule 12(c). New subdivision (b)(1)(D) provides that references in Rule 12.1 to the “district court” include—as appropriate—a bankruptcy court or bankruptcy appellate panel.
+
+    Subdivision (b)(2). Subdivision (b)(2)(A)(i) is amended to refer to Bankruptcy Rule 8022 (in accordance with the renumbering of Part VIII of the Bankruptcy Rules).
+
+    Subdivision (b)(2)(A)(ii) is amended to address problems that stemmed from the adoption—during the 1998 restyling project—of language referring to challenges to “an altered or amended judgment, order, or decree.” Current Rule 6(b)(2)(A)(ii) states that “\[a\] party intending to challenge an altered or amended judgment, order, or decree must file a notice of appeal or amended notice of appeal . …” Before the 1998 restyling, the comparable subdivision of Rule 6 instead read “\[a\] party intending to challenge an alteration or amendment of the judgment, order, or decree shall file an amended notice of appeal . …” The 1998 restyling made a similar change in Rule 4(a)(4). One court has explained that the 1998 amendment introduced ambiguity into that Rule: “The new formulation could be read to expand the obligation to file an amended notice to circumstances where the ruling on the post-trial motion alters the prior judgment in an insignificant manner or in a manner favorable to the appellant, even though the appeal is not directed against the alteration of the judgment.” Sorensen v. City of New York, 413 F.3d 292, 296 n.2 (2d Cir. 2005). Though the Sorensen court was writing of Rule 4(a)(4), a similar concern arises with respect to Rule 6(b)(2)(A)(ii). Rule 4(a)(4) was amended in 2009 to remove the ambiguity identified by the Sorensen court. The current amendment follows suit by removing Rule 6(b)(2)(A)(ii)’s reference to challenging “an altered or amended judgment, order, or decree, and referring instead to challenging “the alteration or amendment of a judgment, order, or decree.”
+
+    Subdivision (b)(2)(B)(i) is amended to refer to Rule 8009 (in accordance with the renumbering of Part VIII of the Bankruptcy Rules).
+
+    Due to the shift to electronic filing, in some appeals the record will no longer be transmitted in paper form. Subdivisions (b)(2)(B)(i), (b)(2)(C), and (b)(2)(D) are amended to reflect the fact that the record sometimes will be made available electronically.
+
+    Subdivision (b)(2)(D) sets the duties of the circuit clerk when the record has been made available. Because the record may be made available in electronic form, subdivision (b)(2)(D) does not direct the clerk to “file” the record. Rather, it directs the clerk to note on the docket the date when the record was made available and to notify the parties of that date, which shall serve as the date of filing the record for purposes of provisions in these Rules that calculate time from that filing date.
+
+    Subdivision (c). New subdivision (c) is added to govern permissive direct appeals from the bankruptcy court to the court of appeals under 28 U.S.C. § 158(d)(2). For further provisions governing such direct appeals, see Bankruptcy Rule 8006.
+
+    Subdivision (c)(1). Subdivision (c)(1) provides for the general applicability of the Federal Rules of Appellate Procedure, with specified exceptions, to appeals covered by subdivision (c) and makes necessary word adjustments.
+
+    Subdivision (c)(2). Subdivision (c)(2)(A) provides that the record on appeal is governed by Bankruptcy Rule 8009. Subdivision (c)(2)(B) provides that the record shall be made available as stated in Bankruptcy Rule 8010. Subdivision (c)(2)(C) provides that Bankruptcy Rule 8007 applies to stays pending appeal; in addition, Appellate Rule 8(b) applies to sureties on bonds provided in connection with stays pending appeal.
+
+    Subdivision (c)(2)(D), like subdivision (b)(2)(D), directs the clerk to note on the docket the date when the record was made available and to notify the parties of that date, which shall serve as the date of filing the record for purposes of provisions in these Rules that calculate time from that filing date.
+
+    Subdivision (c)(2)(E) is modeled on Rule 12(b), with appropriate adjustments.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
+
  __References in Text__ 
 
-    The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), are set out in the Appendix to Title 11, Bankruptcy.
+    The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), (c)(2)(A)–(C), are set out in the Appendix to Title 11, Bankruptcy.
 
 ----------
 

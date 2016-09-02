@@ -25,7 +25,7 @@
 
     (c) __Clerk’s Office Hours; Clerk’s Orders.__ 
 
-        (1) Hours. The clerk’s office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays. But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(4)(A).
+        (1) Hours. The clerk’s office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays. But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(6)(A).
 
         (2)
 
@@ -45,7 +45,7 @@
 
         (2) Time to Appeal Not Affected by Lack of Notice. Lack of notice of the entry does not affect the time for appeal or relieve—or authorize the court to relieve—a party for failing to appeal within the time allowed, except as allowed by Federal Rule of Appellate Procedure (4)(a).
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -96,6 +96,10 @@
  __Committee Notes on Rules—2007 Amendment__ 
 
     The language of Rule 77 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    The amendment corrects an inadvertent failure to revise the cross-reference to Rule 6(a) when what was Rule 6(a)(4)(A) became Rule 6(a)(6)(A).
 
  __References in Text__ 
 

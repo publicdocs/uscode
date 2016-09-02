@@ -49,15 +49,19 @@
 
         (5) Motion in the Court of Appeals. A party may file a motion to proceed on appeal in forma pauperis in the court of appeals within 30 days after service of the notice prescribed in Rule 24(a)(4). The motion must include a copy of the affidavit filed in the district court and the district court’s statement of reasons for its action. If no affidavit was filed in the district court, the party must include the affidavit prescribed by Rule 24(a)(1).
 
-    (b) __Leave to Proceed in Forma Pauperis on Appeal or Review of an Administrative-Agency Proceeding.__ 
+    (b) __Leave to Proceed in Forma Pauperis on Appeal from the United States Tax Court or on Appeal or Review of an Administrative-Agency Proceeding.__ 
 
-     When an appeal or review of a proceeding before an administrative agency, board, commission, or officer (including for the purpose of this rule the United States Tax Court) proceeds directly in a court of appeals, a party may file in the court of appeals a motion for leave to proceed on appeal in forma pauperis with an affidavit prescribed by Rule 24(a)(1).
+     A party may file in the court of appeals a motion for leave to proceed on appeal in forma pauperis with an affidavit prescribed by Rule 24(a)(1):
+
+        (1) in an appeal from the United States Tax Court; and
+
+        (2) when an appeal or review of a proceeding before an administrative agency, board, commission, or officer proceeds directly in the court of appeals.
 
     (c) __Leave to Use Original Record.__ 
 
      A party allowed to proceed on appeal in forma pauperis may request that the appeal be heard on the original record without reproducing any part.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1967__ 
 
@@ -92,6 +96,12 @@
     Rule 24(a)(3) has been amended to resolve this conflict. Again, recognizing that future legislation regarding prisoner litigation is likely, the Committee has not attempted to incorporate into Rule 24 all of the requirements of the current version of 28 U.S.C. § 1915. Rather, the Committee has amended Rule 24(a)(3) to clarify that the rule is not meant to conflict with anything required by the PLRA or any other statute.
 
     Changes Made After Publication and Comments. No changes were made to the text of the proposed amendment or to the Committee Note, except that “a statute provides otherwise” was substituted in place of “the law requires otherwise” in the text of the rule and conforming changes (as well as a couple of minor stylistic changes) were made to the Committee Note.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Rule 24(b) currently refers to review of proceedings “before an administrative agency, board, commission, or officer (including for the purpose of this rule the United States Tax Court).” Experience suggests that Rule 24(b) contributes to confusion by fostering the impression that the Tax Court is an executive branch agency rather than a court. (As a general example of that confusion, appellate courts have returned Tax Court records to the Internal Revenue Service, believing the Tax Court to be part of that agency.) To remove this possible source of confusion, the quoted parenthetical is deleted from subdivision (b) and appeals from the Tax Court are separately listed in subdivision (b)’s heading and in new subdivision (b)(1).
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 TITLE VII. __GENERAL PROVISIONS__ 
 

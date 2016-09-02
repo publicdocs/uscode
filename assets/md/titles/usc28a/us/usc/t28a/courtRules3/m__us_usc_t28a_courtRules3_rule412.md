@@ -53,9 +53,9 @@
 
         (2) Hearing. Before admitting evidence under this rule, the court must conduct an in camera hearing and give the victim and parties a right to attend and be heard. Unless the court orders otherwise, the motion, related materials, and the record of the hearing must be and remain sealed.
 
-    (d) __Definition of “Victim.__ 
+    (d) __Definition of “Victim.”__ 
 
-    ” In this rule, “victim” includes an alleged victim.
+     In this rule, “victim” includes an alleged victim.
 
 (Added [Pub. L. 95–540, § 2(a)][/us/pl/95/540/s2/a], Oct. 28, 1978, [92 Stat. 2046][/us/stat/92/2046]; amended [Pub. L. 100–690, title VII, § 7046(a)][/us/pl/100/690/s7046/a], Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400]; Apr. 29, 1994, eff. Dec. 1, 1994; [Pub. L. 103–322, title IV, § 40141(b)][/us/pl/103/322/s40141/b], Sept. 13, 1994, [108 Stat. 1919][/us/stat/108/1919]; Apr. 26, 2011, eff. Dec. 1, 2011.)
 

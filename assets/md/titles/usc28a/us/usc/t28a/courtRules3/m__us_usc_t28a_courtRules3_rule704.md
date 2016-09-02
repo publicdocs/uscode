@@ -15,9 +15,9 @@
 
 ### Rule 704. Opinion on an Ultimate Issue
 
-    (a) __In General—__ 
+    (a) __In General—Not Automatically Objectionable.__ 
 
-    Not Automatically Objectionable. An opinion is not objectionable just because it embraces an ultimate issue.
+     An opinion is not objectionable just because it embraces an ultimate issue.
 
     (b) __Exception.__ 
 

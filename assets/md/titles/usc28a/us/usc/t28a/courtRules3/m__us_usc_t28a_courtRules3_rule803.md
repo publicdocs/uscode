@@ -55,7 +55,7 @@
 
         (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification that complies with Rule 902(11) or (12) or with a statute permitting certification; and
 
-        (E) neither the source of information nor the method or circumstances of preparation indicate a lack of trustworthiness.
+        (E) the opponent does not show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness.
 
     (7)
 
@@ -65,7 +65,7 @@
 
         (B) a record was regularly kept for a matter of that kind; and
 
-        (C) neither the possible source of the information nor other circumstances indicate a lack of trustworthiness.
+        (C) the opponent does not show that the possible source of the information or other circumstances indicate a lack of trustworthiness.
 
     (8)
 
@@ -81,17 +81,23 @@
 
             (iii) in a civil case or against the government in a criminal case, factual findings from a legally authorized investigation; and
 
-        (B) neither the source of information nor other circumstances indicate a lack of trustworthiness.
+        (B) the opponent does not show that the source of information or other circumstances indicate a lack of trustworthiness.
 
     (9) Public Records of Vital Statistics. A record of a birth, death, or marriage, if reported to a public office in accordance with a legal duty.
 
     (10)
 
- Absence of a Public Record. Testimony—or a certification under Rule 902—that a diligent search failed to disclose a public record or statement if the testimony or certification is admitted to prove that:
+ Absence of a Public Record. Testimony—or a certification under Rule 902—that a diligent search failed to disclose a public record or statement if:
 
-        (A) the record or statement does not exist; or
+        (A)
 
-        (B) a matter did not occur or exist, if a public office regularly kept a record or statement for a matter of that kind.
+         the testimony or certification is admitted to prove that
+
+            (i) the record or statement does not exist; or
+
+            (ii) a matter did not occur or exist, if a public office regularly kept a record or statement for a matter of that kind; and
+
+        (B) in a criminal case, a prosecutor who intends to offer a certification provides written notice of that intent at least 14 days before trial, and the defendant does not object in writing within 7 days of receiving the notice—unless the court sets a different time for the notice or the objection.
 
     (11) Records of Religious Organizations Concerning Personal or Family History. A statement of birth, legitimacy, ancestry, marriage, divorce, death, relationship by blood or marriage, or similar facts of personal or family history, contained in a regularly kept record of a religious organization.
 
@@ -163,7 +169,7 @@
 
     (24) \[Other Exceptions.\] \[Transferred to Rule 807.\]
 
-([Pub. L. 93–595, § 1][/us/pl/93/595/s1], Jan. 2, 1975, [88 Stat. 1939][/us/stat/88/1939]; [Pub. L. 94–149, § 1(11)][/us/pl/94/149/s1/11], Dec. 12, 1975, [89 Stat. 805][/us/stat/89/805]; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)
+([Pub. L. 93–595, § 1][/us/pl/93/595/s1], Jan. 2, 1975, [88 Stat. 1939][/us/stat/88/1939]; [Pub. L. 94–149, § 1(11)][/us/pl/94/149/s1/11], Dec. 12, 1975, [89 Stat. 805][/us/stat/89/805]; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Proposed Rules__ 
 
@@ -424,6 +430,28 @@ The Advisory Committee explains the factors to be considered:
  __Committee Notes on Rules—2011 Amendment__ 
 
     The language of Rule 803 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Rule 803(10) has been amended in response to Melendez-Diaz v. Massachusetts, 557 U.S. 305 (2009). The Melendez-Diaz Court declared that a testimonial certificate could be admitted if the accused is given advance notice and does not timely demand the presence of the official who prepared the certificate. The amendment incorporates, with minor variations, a “notice-and-demand” procedure that was approved by the Melendez-Diaz Court. See Tex. Code Crim. P. Ann., art. 38.41.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Subdivision (6)(E). The Rule has been amended to clarify that if the proponent has established the stated requirements of the exception—regular business with regularly kept record, source with personal knowledge, record made timely, and foundation testimony or certification—then the burden is on the opponent to show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness. While most courts have imposed that burden on the opponent, some have not. It is appropriate to impose this burden on the opponent, as the basic admissibility requirements are sufficient to establish a presumption that the record is reliable.
+
+    The opponent, in meeting its burden, is not necessarily required to introduce affirmative evidence of untrustworthiness. For example, the opponent might argue that a record was prepared in anticipation of litigation and is favorable to the preparing party without needing to introduce evidence on the point. A determination of untrustworthiness necessarily depends on the circumstances.
+
+    Changes Made After Publication and Comment. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
+
+    Subdivision (7)(C). The Rule has been amended to clarify that if the proponent has established the stated requirements of the exception—set forth in Rule 803(6)—then the burden is on the opponent to show that the possible source of the information or other circumstances indicate a lack of trustworthiness. The amendment maintains consistency with the proposed amendment to the trustworthiness clause of Rule 803(6).
+
+    Changes Made After Publication and Comment. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
+
+    Subdivision (8)(B). The Rule has been amended to clarify that if the proponent has established that the record meets the stated requirements of the exception—prepared by a public office and setting out information as specified in the Rule—then the burden is on the opponent to show that the source of information or other circumstances indicate a lack of trustworthiness. While most courts have imposed that burden on the opponent, some have not. Public records have justifiably carried a presumption of reliability, and it should be up to the opponent to “demonstrate why a time-tested and carefully considered presumption is not appropriate.” Ellis v. International Playtex, Inc., 745 F.2d 292, 301 (4th Cir. 1984). The amendment maintains consistency with the proposed amendment to the trustworthiness clause of Rule 803(6).The opponent, in meeting its burden, is not necessarily required to introduce affirmative evidence of untrustworthiness. For example, the opponent might argue that a record was prepared in anticipation of litigation and is favorable to the preparing party without needing to introduce evidence on the point. A determination of untrustworthiness necessarily depends on the circumstances.
+
+    Changes Made After Publication and Comment. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
 
  __Amendment by Public Law__ 
 

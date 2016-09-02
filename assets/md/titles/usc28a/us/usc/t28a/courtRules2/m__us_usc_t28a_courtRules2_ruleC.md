@@ -15,9 +15,9 @@
 
 ### Rule C. In Rem Actions: Special Provisions
 
-    (1) __When Available. An action in rem may be brought:__ 
+    (1)  __When Available__  __.__ 
 
-        (a) To enforce any maritime lien;
+     An action in rem may be brought:    (a) To enforce any maritime lien;
 
         (b) Whenever a statute of the United States provides for a maritime action in rem or a proceeding analogous thereto.
 
@@ -25,9 +25,9 @@
 
         Statutory provisions exempting vessels or other property owned or possessed by or operated by or for the United States from arrest or seizure are not affected by this rule. When a statute so provides, an action against the United States or an instrumentality thereof may proceed on in rem principles.
 
-    (2) __Complaint. In an action in rem the complaint must:__ 
+    (2)  __Complaint__  __.__ 
 
-        (a) be verified;
+     In an action in rem the complaint must:    (a) be verified;
 
         (b) describe with reasonable particularity the property that is the subject of the action; and
 
@@ -55,7 +55,9 @@
 
      No notice other than execution of process is required when the property that is the subject of the action has been released under Rule E(5). If the property is not released within 14 days after execution, the plaintiff must promptly—or within the time that the court allows—give public notice of the action and arrest in a newspaper designated by court order and having general circulation in the district, but publication may be terminated if the property is released before publication is completed. The notice must specify the time under Rule C(6) to file a statement of interest in or right against the seized property and to answer. This rule does not affect the notice requirements in an action to foreclose a preferred ship mortgage under 46 U.S.C. §§ 31301 et seq., as amended.
 
-    (5) __Ancillary Process. In any action in rem in which process has been served as provided by this rule, if any part of the property that is the subject of the action has not been brought within the control of the court because it has been removed or sold, or because it is intangible property in the hands of a person who has not been served with process, the court may, on motion, order any person having possession or control of such property or its proceeds to show cause why it should not be delivered into the custody of the marshal or other person or organization having a warrant for the arrest of the property, or paid into court to abide the judgment; and, after hearing, the court may enter such judgment as law and justice may require.__ 
+    (5)  __Ancillary Process__  __.__ 
+
+     In any action in rem in which process has been served as provided by this rule, if any part of the property that is the subject of the action has not been brought within the control of the court because it has been removed or sold, or because it is intangible property in the hands of a person who has not been served with process, the court may, on motion, order any person having possession or control of such property or its proceeds to show cause why it should not be delivered into the custody of the marshal or other person or organization having a warrant for the arrest of the property, or paid into court to abide the judgment; and, after hearing, the court may enter such judgment as law and justice may require.
 
     (6) __Responsive Pleading; Interrogatories.__ 
 

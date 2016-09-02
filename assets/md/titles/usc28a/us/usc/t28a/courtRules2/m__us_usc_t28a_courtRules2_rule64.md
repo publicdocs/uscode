@@ -15,9 +15,9 @@
 
 ### Rule 64. Seizing a Person or Property
 
-    (a) __Remedies Under State Law—__ 
+    (a) __Remedies Under State Law—In General.__ 
 
-    In General. At the commencement of and throughout an action, every remedy is available that, under the law of the state where the court is located, provides for seizing a person or property to secure satisfaction of the potential judgment. But a federal statute governs to the extent it applies.
+     At the commencement of and throughout an action, every remedy is available that, under the law of the state where the court is located, provides for seizing a person or property to secure satisfaction of the potential judgment. But a federal statute governs to the extent it applies.
 
     (b) __Specific Kinds of Remedies.__ 
 

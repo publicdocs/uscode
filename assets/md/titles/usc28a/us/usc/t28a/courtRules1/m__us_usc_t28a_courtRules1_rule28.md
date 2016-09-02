@@ -39,13 +39,11 @@
 
         (5) a statement of the issues presented for review;
 
-        (6) a statement of the case briefly indicating the nature of the case, the course of proceedings, and the disposition below;
+        (6) a concise statement of the case setting out the facts relevant to the issues submitted for review, describing the relevant procedural history, and identifying the rulings presented for review, with appropriate references to the record (see Rule 28(e));
 
-        (7) a statement of facts relevant to the issues submitted for review with appropriate references to the record (see Rule 28(e));
+        (7) a summary of the argument, which must contain a succinct, clear, and accurate statement of the arguments made in the body of the brief, and which must not merely repeat the argument headings;
 
-        (8) a summary of the argument, which must contain a succinct, clear, and accurate statement of the arguments made in the body of the brief, and which must not merely repeat the argument headings;
-
-        (9)
+        (8)
 
          the argument, which must contain:
 
@@ -53,23 +51,21 @@
 
             (B) for each issue, a concise statement of the applicable standard of review (which may appear in the discussion of the issue or under a separate heading placed before the discussion of the issues);
 
-        (10) a short conclusion stating the precise relief sought; and
+        (9) a short conclusion stating the precise relief sought; and
 
-        (11) the certificate of compliance, if required by Rule 32(a)(7).
+        (10) the certificate of compliance, if required by Rule 32(a)(7).
 
     (b) __Appellee’s Brief.__ 
 
-     The appellee’s brief must conform to the requirements of Rule 28(a)(1)–(9) and (11), except that none of the following need appear unless the appellee is dissatisfied with the appellant’s statement:
+     The appellee’s brief must conform to the requirements of Rule 28(a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant’s statement:
 
         (1) the jurisdictional statement;
 
         (2) the statement of the issues;
 
-        (3) the statement of the case;
+        (3) the statement of the case; and
 
-        (4) the statement of the facts; and
-
-        (5) the statement of the standard of review.
+        (4) the statement of the standard of review.
 
     (c) __Reply Brief.__ 
 
@@ -93,9 +89,9 @@
 
      If the court’s determination of the issues presented requires the study of statutes, rules, regulations, etc., the relevant parts must be set out in the brief or in an addendum at the end, or may be supplied to the court in pamphlet form.
 
-    (g) __\[Reserved\]__ 
+    (g)  __\[Reserved\]__ 
 
-    (h) __\[Reserved\]__ 
+    (h)  __\[Reserved\]__ 
 
     (i) __Briefs in a Case Involving Multiple Appellants or Appellees.__ 
 
@@ -105,7 +101,7 @@
 
      If pertinent and significant authorities come to a party’s attention after the party’s brief has been filed—or after oral argument but before decision—a party may promptly advise the circuit clerk by letter, with a copy to all other parties, setting forth the citations. The letter must state the reasons for the supplemental citations, referring either to the page of the brief or to a point argued orally. The body of the letter must not exceed 350 words. Any response must be made promptly and must be similarly limited.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1967__ 
 
@@ -176,6 +172,20 @@ Subdivision (a). The current rule requires a brief to include a statement of the
     Subdivision (c). Subdivision (c) has been amended to delete a sentence that authorized an appellee who had cross-appealed to file a brief in reply to the appellant’s response. All rules regarding briefing in cases involving cross-appeals have been consolidated into new Rule 28.1.
 
     Subdivision (h). Subdivision (h)—regarding briefing in cases involving cross-appeals—has been deleted. All rules regarding such briefing have been consolidated into new Rule 28.1.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (a). Rule 28(a) is amended to remove the requirement of separate statements of the case and of the facts. Currently Rule 28(a)(6) provides that the statement of the case must “indicat\[e\] the nature of the case, the course of proceedings, and the disposition below,” and it precedes Rule 28(a)(7)’s requirement that the brief include “a statement of facts.” Experience has shown that these requirements have generated confusion and redundancy. Rule 28(a) is amended to consolidate subdivisions (a)(6) and (a)(7) into a new subdivision (a)(6) that provides for one “statement,” much like Supreme Court Rule 24.1(g) (which requires “\[a\] concise statement of the case, setting out the facts material to the consideration of the questions presented, with appropriate references to the joint appendix. …”). This permits but does not require the lawyer to present the factual and procedural history chronologically. Conforming changes are made by renumbering Rules 28(a)(8) through (11) as Rules 28(a)(7) through (10).
+
+    The statement of the case should describe the nature of the case, which includes (1) the facts relevant to the issues submitted for review; (2) those aspects of the case’s procedural history that are necessary to understand the posture of the appeal or are relevant to the issues submitted for review; and (3) the rulings presented for review. The statement should be concise, and can include subheadings, particularly for the purpose of highlighting the rulings presented for review.
+
+    Subdivision (b). Rule 28(b) is amended to accord with the amendment to Rule 28(a). Current Rules 28(b)(3) and (4) are consolidated into new Rule 28(b)(3), which refers to “the statement of the case.” Rule 28(b)(5) becomes Rule 28(b)(4). And Rule 28(b)’s reference to certain subdivisions of Rule 28(a) is updated to reflect the renumbering of those subdivisions.
+
+    Changes Made After Publication and Comment. After publication and comment, the Committee made one change to the text of the proposal and two changes to the Committee Note.
+
+    During the comment period, concerns were raised that the deletion of current Rule 28(a)(6)’s reference to “the nature of the case, the course of proceedings, and the disposition below” might lead readers to conclude that those items may no longer be included in the statement of the case. The Committee rejected that concern with respect to the “nature of the case” and the “disposition below,” because the Rule as published would naturally be read to permit continued inclusion of those items in the statement of the case. The Committee adhered to its view that the deletion of “course of proceedings” is useful because that phrase tends to elicit unnecessary detail; but to address the commenters’ concerns, the Committee added, to the revised Rule text, the phrase “describing the relevant procedural history.”
+
+    The Committee augmented the Note to Rule 28(a) in two respects. It added a reference to Supreme Court Rule 24.1(g), upon which the proposed revision to Rule 28(a)(6) is modeled. And it added—as a second paragraph in the Note—a discussion of the contents of the statement of the case.
 
 ----------
 

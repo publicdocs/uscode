@@ -19,9 +19,7 @@
 
      The agency must file the record with the circuit clerk within 40 days after being served with a petition for review, unless the statute authorizing review provides otherwise, or within 40 days after it files an application for enforcement unless the respondent fails to answer or the court orders otherwise. The court may shorten or extend the time to file the record. The clerk must notify all parties of the date when the record is filed.
 
-    (b) __Filing—__ 
-
-    What Constitutes.
+    (b) __Filing—What Constitutes.__ 
 
         (1)
 

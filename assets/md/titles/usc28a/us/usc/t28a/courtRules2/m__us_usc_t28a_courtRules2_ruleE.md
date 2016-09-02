@@ -15,7 +15,9 @@
 
 ### Rule E. Actions in Rem and Quasi in Rem: General Provisions
 
-    (1) __Applicability. Except as otherwise provided, this rule applies to actions in personam with process of maritime attachment and garnishment, actions in rem, and petitory, possessory, and partition actions, supplementing Rules B, C, and D.__ 
+    (1)  __Applicability__  __.__ 
+
+     Except as otherwise provided, this rule applies to actions in personam with process of maritime attachment and garnishment, actions in rem, and petitory, possessory, and partition actions, supplementing Rules B, C, and D.
 
     (2) __Complaint; Security.__ 
 
@@ -53,7 +55,9 @@
 
         (d) Possessory, Petitory, and Partition Actions. The foregoing provisions of this subdivision (5) do not apply to petitory, possessory, and partition actions. In such cases the property arrested shall be released only by order of the court, on such terms and conditions and on the giving of such security as the court may require.
 
-    (6) __Reduction or Impairment of Security. Whenever security is taken the court may, on motion and hearing, for good cause shown, reduce the amount of security given; and if the surety shall be or become insufficient, new or additional sureties may be required on motion and hearing.__ 
+    (6)  __Reduction or Impairment of Security__  __.__ 
+
+     Whenever security is taken the court may, on motion and hearing, for good cause shown, reduce the amount of security given; and if the surety shall be or become insufficient, new or additional sureties may be required on motion and hearing.
 
     (7) __Security on Counterclaim.__ 
 
@@ -61,7 +65,9 @@
 
         (b) The plaintiff is required to give security under Rule E(7)(a) when the United States or its corporate instrumentality counterclaims and would have been required to give security to respond in damages if a private party but is relieved by law from giving security.
 
-    (8) __Restricted Appearance. An appearance to defend against an admiralty and maritime claim with respect to which there has issued process in rem, or process of attachment and garnishment, may be expressly restricted to the defense of such claim, and in that event is not an appearance for the purposes of any other claim with respect to which such process is not available or has not been served.__ 
+    (8)  __Restricted Appearance__  __.__ 
+
+     An appearance to defend against an admiralty and maritime claim with respect to which there has issued process in rem, or process of attachment and garnishment, may be expressly restricted to the defense of such claim, and in that event is not an appearance for the purposes of any other claim with respect to which such process is not available or has not been served.
 
     (9) __Disposition of Property; Sales.__ 
 
@@ -79,7 +85,9 @@
 
     (b)
 
- Sales, Proceeds. All sales of property shall be made by the marshal or a deputy marshal, or by other person or organization having the warrant, or by any other person assigned by the court where the marshal or other person or organization having the warrant is a party in interest; and the proceeds of sale shall be forthwith paid into the registry of the court to be disposed of according to law.    (10) __Preservation of Property. When the owner or another person remains in possession of property attached or arrested under the provisions of Rule E(4)(b) that permit execution of process without taking actual possession, the court, on a party’s motion or on its own, may enter any order necessary to preserve the property and to prevent its removal.__ 
+ Sales, Proceeds. All sales of property shall be made by the marshal or a deputy marshal, or by other person or organization having the warrant, or by any other person assigned by the court where the marshal or other person or organization having the warrant is a party in interest; and the proceeds of sale shall be forthwith paid into the registry of the court to be disposed of according to law.    (10)  __Preservation of Property__  __.__ 
+
+         When the owner or another person remains in possession of property attached or arrested under the provisions of Rule E(4)(b) that permit execution of process without taking actual possession, the court, on a party’s motion or on its own, may enter any order necessary to preserve the property and to prevent its removal.
 
 (As added Feb. 28, 1966, eff. July 1, 1966; amended Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006.)
 

@@ -15,9 +15,9 @@
 
 ### Rule B. In Personam Actions: Attachment and Garnishment
 
-    (1) __When Available; Complaint, Affidavit, Judicial Authorization, and Process. In an in personam action:__ 
+    (1)  __When Available; Complaint, Affidavit, Judicial Authorization, and Process__  __.__ 
 
-        (a) If a defendant is not found within the district when a verified complaint praying for attachment and the affidavit required by Rule B(1)(b) are filed, a verified complaint may contain a prayer for process to attach the defendant’s tangible or intangible personal property—up to the amount sued for—in the hands of garnishees named in the process.
+     In an in personam action:    (a) If a defendant is not found within the district when a verified complaint praying for attachment and the affidavit required by Rule B(1)(b) are filed, a verified complaint may contain a prayer for process to attach the defendant’s tangible or intangible personal property—up to the amount sued for—in the hands of garnishees named in the process.
 
         (b) The plaintiff or the plaintiff’s attorney must sign and file with the complaint an affidavit stating that, to the affiant’s knowledge, or on information and belief, the defendant cannot be found within the district. The court must review the complaint and affidavit and, if the conditions of this Rule B appear to exist, enter an order so stating and authorizing process of attachment and garnishment. The clerk may issue supplemental process enforcing the court’s order upon application without further court order.
 
@@ -29,9 +29,9 @@
 
         (e) The plaintiff may invoke state-law remedies under Rule 64 for seizure of person or property for the purpose of securing satisfaction of the judgment.
 
-    (2) __Notice to Defendant. No default judgment may be entered except upon proof—which may be by affidavit—that:__ 
+    (2)  __Notice to Defendant__  __.__ 
 
-        (a) the complaint, summons, and process of attachment or garnishment have been served on the defendant in a manner authorized by Rule 4;
+     No default judgment may be entered except upon proof—which may be by affidavit—that:    (a) the complaint, summons, and process of attachment or garnishment have been served on the defendant in a manner authorized by Rule 4;
 
         (b) the plaintiff or the garnishee has mailed to the defendant the complaint, summons, and process of attachment or garnishment, using any form of mail requiring a return receipt; or
 

@@ -29,23 +29,21 @@
 
         (1) Appellant’s Principal Brief. The appellant must file a principal brief in the appeal. That brief must comply with Rule 28(a).
 
-        (2) Appellee’s Principal and Response Brief. The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That appellee’s brief must comply with Rule 28(a), except that the brief need not include a statement of the case or a statement of the facts unless the appellee is dissatisfied with the appellant’s statement.
+        (2) Appellee’s Principal and Response Brief. The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That appellee’s brief must comply with Rule 28(a), except that the brief need not include a statement of the case unless the appellee is dissatisfied with the appellant’s statement.
 
         (3)
 
- Appellant’s Response and Reply Brief. The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 28(a)(2)–(9) and (11), except that none of the following need appear unless the appellant is dissatisfied with the appellee’s statement in the cross-appeal:
+ Appellant’s Response and Reply Brief. The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 28(a)(2)–(8) and (10), except that none of the following need appear unless the appellant is dissatisfied with the appellee’s statement in the cross-appeal:
 
             (A) the jurisdictional statement;
 
             (B) the statement of the issues;
 
-            (C) the statement of the case;
+            (C) the statement of the case; and
 
-            (D) the statement of the facts; and
+            (D) the statement of the standard of review.
 
-            (E) the statement of the standard of review.
-
-        (4) Appellee’s Reply Brief. The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 28(a)(2)–(3) and (11) and must be limited to the issues presented by the cross-appeal.
+        (4) Appellee’s Reply Brief. The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 28(a)(2)–(3) and (10) and must be limited to the issues presented by the cross-appeal.
 
         (5) No Further Briefs. Unless the court permits, no further briefs may be filed in a case involving a cross-appeal.
 
@@ -93,7 +91,7 @@
 
         (4) the appellee’s reply brief, within 14 days after the appellant’s response and reply brief is served, but at least 7 days before argument unless the court, for good cause, allows a later filing.
 
-(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Committee Notes on Rules—2005__ 
 
@@ -126,6 +124,12 @@
  __Committee Notes on Rules—2009 Amendment__ 
 
     Subdivision (f)(4). Subdivision (f)(4) formerly required that the appellee’s reply brief be served “at least 3 days before argument unless the court, for good cause, allows a later filing.” Under former Rule 26(a), “3 days” could mean as many as 5 or even 6 days. See the Note to Rule 26. Under revised Rule 26(a), intermediate weekends and holidays are counted. Changing “3 days” to “7 days” alters the period accordingly. Under revised Rule 26(a), when a period ends on a weekend or holiday, one must continue to count in the same direction until the next day that is not a weekend or holiday; the choice of the 7-day period for subdivision (f)(4) will minimize such occurrences.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (c). Subdivision (c) is amended to accord with the amendments to Rule 28(a). Rule 28(a) is amended to consolidate subdivisions (a)(6) and (a)(7) into a new subdivision (a)(6) that provides for one “statement of the case setting out the facts relevant to the issues submitted for review, describing the relevant procedural history, and identifying the rulings presented for review. …” Rule 28.1(c) is amended to refer to that consolidated “statement of the case,” and references to subdivisions of Rule 28(a) are revised to reflect the re-numbering of those subdivisions.
+
+    Changes Made After Publication and Comment. No changes were made to the text of the proposed amendment to Rule 28.1 after publication and comment. The Committee revised a quotation in the Committee Note to Rule 28.1(c) to conform to the changes (described above) to the text of proposed Rule 28(a)(6).
 
 ----------
 

@@ -39,9 +39,7 @@
 
      The parties may stipulate, or the district court on motion may order, that the district clerk retain the record temporarily for the parties to use in preparing the papers on appeal. In that event the district clerk must certify to the circuit clerk that the record on appeal is complete. Upon receipt of the appellee’s brief, or earlier if the court orders or the parties agree, the appellant must request the district clerk to forward the record.
 
-    (d) __\[Abrogated.__ 
-
-    \]
+    (d)  __\[Abrogated.\]__ 
 
     (e) __Retaining the Record by Court Order.__ 
 

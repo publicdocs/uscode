@@ -13,29 +13,33 @@
 
 [Previous](./../../../..//us/usc/t28a/courtRules1/m__us_usc_t28a_courtRules1_rule12.1.md) | [Next](./../../../..//us/usc/t28a/courtRules1/m__us_usc_t28a_courtRules1_rule14.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28a%2FcourtRules1%2Frule13)
 
-### Rule 13. Review of a Decision of the Tax Court
+### Rule 13. Appeals from the Tax Court
 
-    (a) __How Obtained; Time for Filing Notice of Appeal.__ 
+    (a)  __Appeal as of Right.  __ 
 
-        (1) Review of a decision of the United States Tax Court is commenced by filing a notice of appeal with the Tax Court clerk within 90 days after the entry of the Tax Court’s decision. At the time of filing, the appellant must furnish the clerk with enough copies of the notice to enable the clerk to comply with Rule 3(d). If one party files a timely notice of appeal, any other party may file a notice of appeal within 120 days after the Tax Court’s decision is entered.
+        (1)
 
-        (2) If, under Tax Court rules, a party makes a timely motion to vacate or revise the Tax Court’s decision, the time to file a notice of appeal runs from the entry of the order disposing of the motion or from the entry of a new decision, whichever is later.
+ How Obtained; Time for Filing a Notice of Appeal.
 
-    (b) __Notice of Appeal; How Filed.__ 
+            (A) An appeal as of right from the United States Tax Court is commenced by filing a notice of appeal with the Tax Court clerk within 90 days after the entry of the Tax Court’s decision. At the time of filing, the appellant must furnish the clerk with enough copies of the notice to enable the clerk to comply with Rule 3(d). If one party files a timely notice of appeal, any other party may file a notice of appeal within 120 days after the Tax Court’s decision is entered.
 
-     The notice of appeal may be filed either at the Tax Court clerk’s office in the District of Columbia or by mail addressed to the clerk. If sent by mail the notice is considered filed on the postmark date, subject to § 7502 of the Internal Revenue Code, as amended, and the applicable regulations.
+            (B) If, under Tax Court rules, a party makes a timely motion to vacate or revise the Tax Court’s decision, the time to file a notice of appeal runs from the entry of the order disposing of the motion or from the entry of a new decision, whichever is later.
 
-    (c) __Contents of the Notice of Appeal; Service; Effect of Filing and Service.__ 
+        (2) Notice of Appeal; How Filed. The notice of appeal may be filed either at the Tax Court clerk’s office in the District of Columbia or by mail addressed to the clerk. If sent by mail the notice is considered filed on the postmark date, subject to § 7502 of the Internal Revenue Code, as amended, and the applicable regulations.
 
-     Rule 3 prescribes the contents of a notice of appeal, the manner of service, and the effect of its filing and service. Form 2 in the Appendix of Forms is a suggested form of a notice of appeal.
+        (3) Contents of the Notice of Appeal; Service; Effect of Filing and Service. Rule 3 prescribes the contents of a notice of appeal, the manner of service, and the effect of its filing and service. Form 2 in the Appendix of Forms is a suggested form of a notice of appeal.
 
-    (d) __The Record on Appeal; Forwarding; Filing.__ 
+        (4)
 
-        (1) An appeal from the Tax Court is governed by the parts of Rules 10, 11, and 12 regarding the record on appeal from a district court, the time and manner of forwarding and filing, and the docketing in the court of appeals. References in those rules and in Rule 3 to the district court and district clerk are to be read as referring to the Tax Court and its clerk.
+ The Record on Appeal; Forwarding; Filing.
 
-        (2) If an appeal from a Tax Court decision is taken to more than one court of appeals, the original record must be sent to the court named in the first notice of appeal filed. In an appeal to any other court of appeals, the appellant must apply to that other court to make provision for the record.
+            (A) Except as otherwise provided under Tax Court rules for the transcript of proceedings, the appeal is governed by the parts of Rules 10, 11, and 12 regarding the record on appeal from a district court, the time and manner of forwarding and filing, and the docketing in the court of appeals.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998.)
+            (B) If an appeal is taken to more than one court of appeals, the original record must be sent to the court named in the first notice of appeal filed. In an appeal to any other court of appeals, the appellant must apply to that other court to make provision for the record.
+
+    (b) Appeal by Permission. An appeal by permission is governed by Rule 5.
+
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1967__ 
 
@@ -56,6 +60,12 @@ Subdivision (a). This subdivision effects two changes in practice respecting rev
  __Committee Notes on Rules—1998 Amendment__ 
 
     The language and organization of the rule are amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Rules 13 and 14 are amended to address the treatment of permissive interlocutory appeals from the Tax Court under 26 U.S.C. § 7482(a)(2). Rules 13 and 14 do not currently address such appeals; instead, those Rules address only appeals as of right from the Tax Court. The existing Rule 13—governing appeals as of right—is revised and becomes Rule 13(a). New subdivision (b) provides that Rule 5 governs appeals by permission. The definition of district court and district clerk in current subdivision (d)(1) is deleted; definitions are now addressed in Rule 14. The caption of Title III is amended to reflect the broadened application of this Title.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

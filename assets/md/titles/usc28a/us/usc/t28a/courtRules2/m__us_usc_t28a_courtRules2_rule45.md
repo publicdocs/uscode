@@ -27,59 +27,61 @@
 
                 (i) state the court from which it issued;
 
-                (ii) state the title of the action, the court in which it is pending, and its civil-action number;
+                (ii) state the title of the action and its civil-action number;
 
                 (iii) command each person to whom it is directed to do the following at a specified time and place: attend and testify; produce designated documents, electronically stored information, or tangible things in that person’s possession, custody, or control; or permit the inspection of premises; and
 
-                (iv) set out the text of Rule 45(c) and (d).
+                (iv) set out the text of Rule 45(d) and (e).
 
             (B) Command to Attend a Deposition—Notice of the Recording Method. A subpoena commanding attendance at a deposition must state the method for recording the testimony.
 
             (C) Combining or Separating a Command to Produce or to Permit Inspection; Specifying the Form for Electronically Stored Information. A command to produce documents, electronically stored information, or tangible things or to permit the inspection of premises may be included in a subpoena commanding attendance at a deposition, hearing, or trial, or may be set out in a separate subpoena. A subpoena may specify the form or forms in which electronically stored information is to be produced.
 
-            (D) Command to Produce; Included Obligations. A command in a subpoena to produce documents, electronically stored information, or tangible things requires the responding party to permit inspection, copying, testing, or sampling of the materials.
+            (D) Command to Produce; Included Obligations. A command in a subpoena to produce documents, electronically stored information, or tangible things requires the responding person to permit inspection, copying, testing, or sampling of the materials.
 
-        (2)
+        (2) Issuing Court. A subpoena must issue from the court where the action is pending.
 
- Issued from Which Court. A subpoena must issue as follows:
+        (3) Issued by Whom. The clerk must issue a subpoena, signed but otherwise in blank, to a party who requests it. That party must complete it before service. An attorney also may issue and sign a subpoena if the attorney is authorized to practice in the issuing court.
 
-            (A) for attendance at a hearing or trial, from the court for the district where the hearing or trial is to be held;
-
-            (B) for attendance at a deposition, from the court for the district where the deposition is to be taken; and
-
-            (C) for production or inspection, if separate from a subpoena commanding a person’s attendance, from the court for the district where the production or inspection is to be made.
-
-        (3)
-
- Issued by Whom. The clerk must issue a subpoena, signed but otherwise in blank, to a party who requests it. That party must complete it before service. An attorney also may issue and sign a subpoena as an officer of:
-
-            (A) a court in which the attorney is authorized to practice; or
-
-            (B) a court for a district where a deposition is to be taken or production is to be made, if the attorney is authorized to practice in the court where the action is pending.
+        (4) Notice to Other Parties Before Service. If the subpoena commands the production of documents, electronically stored information, or tangible things or the inspection of premises before trial, then before it is served on the person to whom it is directed, a notice and a copy of the subpoena must be served on each party.
 
     (b) __Service.__ 
 
-        (1) By Whom; Tendering Fees; Serving a Copy of Certain Subpoenas. Any person who is at least 18 years old and not a party may serve a subpoena. Serving a subpoena requires delivering a copy to the named person and, if the subpoena requires that person’s attendance, tendering the fees for 1 day’s attendance and the mileage allowed by law. Fees and mileage need not be tendered when the subpoena issues on behalf of the United States or any of its officers or agencies. If the subpoena commands the production of documents, electronically stored information, or tangible things or the inspection of premises before trial, then before it is served, a notice must be served on each party.
+        (1) By Whom and How; Tendering Fees. Any person who is at least 18 years old and not a party may serve a subpoena. Serving a subpoena requires delivering a copy to the named person and, if the subpoena requires that person’s attendance, tendering the fees for 1 day’s attendance and the mileage allowed by law. Fees and mileage need not be tendered when the subpoena issues on behalf of the United States or any of its officers or agencies.
 
-        (2)
-
- Service in the United States. Subject to Rule 45(c)(3)(A)(ii), a subpoena may be served at any place:
-
-            (A) within the district of the issuing court;
-
-            (B) outside that district but within 100 miles of the place specified for the deposition, hearing, trial, production, or inspection;
-
-            (C) within the state of the issuing court if a state statute or court rule allows service at that place of a subpoena issued by a state court of general jurisdiction sitting in the place specified for the deposition, hearing, trial, production, or inspection; or
-
-            (D) that the court authorizes on motion and for good cause, if a federal statute so provides.
+        (2) Service in the United States. A subpoena may be served at any place within the United States.
 
         (3) Service in a Foreign Country. 28 U.S.C. § 1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
 
         (4) Proof of Service. Proving service, when necessary, requires filing with the issuing court a statement showing the date and manner of service and the names of the persons served. The statement must be certified by the server.
 
-    (c) __Protecting a Person Subject to a Subpoena.__ 
+    (c) __Place of Compliance.__ 
 
-        (1) Avoiding Undue Burden or Expense; Sanctions. A party or attorney responsible for issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or expense on a person subject to the subpoena. The issuing court must enforce this duty and impose an appropriate sanction—which may include lost earnings and reasonable attorney’s fees—on a party or attorney who fails to comply.
+        (1)
+
+ For a Trial, Hearing, or Deposition. A subpoena may command a person to attend a trial, hearing, or deposition only as follows:
+
+            (A) within 100 miles of where the person resides, is employed, or regularly transacts business in person; or
+
+            (B)
+
+             within the state where the person resides, is employed, or regularly transacts business in person, if the person
+
+                (i) is a party or a party’s officer; or
+
+                (ii) is commanded to attend a trial and would not incur substantial expense.
+
+        (2)
+
+ For Other Discovery. A subpoena may command:
+
+            (A) production of documents, electronically stored information, or tangible things at a place within 100 miles of where the person resides, is employed, or regularly transacts business in person; and
+
+            (B) inspection of premises at the premises to be inspected.
+
+    (d) __Protecting a Person Subject to a Subpoena; Enforcement.__ 
+
+        (1) Avoiding Undue Burden or Expense; Sanctions. A party or attorney responsible for issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or expense on a person subject to the subpoena. The court for the district where compliance is required must enforce this duty and impose an appropriate sanction—which may include lost earnings and reasonable attorney’s fees—on a party or attorney who fails to comply.
 
         (2)
 
@@ -89,9 +91,9 @@
 
             (B)
 
- Objections. A person commanded to produce documents or tangible things or to permit inspection may serve on the party or attorney designated in the subpoena a written objection to inspecting, copying, testing or sampling any or all of the materials or to inspecting the premises—or to producing electronically stored information in the form or forms requested. The objection must be served before the earlier of the time specified for compliance or 14 days after the subpoena is served. If an objection is made, the following rules apply:
+ Objections. A person commanded to produce documents or tangible things or to permit inspection may serve on the party or attorney designated in the subpoena a written objection to inspecting, copying, testing, or sampling any or all of the materials or to inspecting the premises—or to producing electronically stored information in the form or forms requested. The objection must be served before the earlier of the time specified for compliance or 14 days after the subpoena is served. If an objection is made, the following rules apply:
 
-                (i) At any time, on notice to the commanded person, the serving party may move the issuing court for an order compelling production or inspection.
+                (i) At any time, on notice to the commanded person, the serving party may move the court for the district where compliance is required for an order compelling production or inspection.
 
                 (ii) These acts may be required only as directed in the order, and the order must protect a person who is neither a party nor a party’s officer from significant expense resulting from compliance.
 
@@ -101,11 +103,11 @@
 
             (A)
 
- When Required. On timely motion, the issuing court must quash or modify a subpoena that:
+ When Required. On timely motion, the court for the district where compliance is required must quash or modify a subpoena that:
 
                 (i) fails to allow a reasonable time to comply;
 
-                (ii) requires a person who is neither a party nor a party’s officer to travel more than 100 miles from where that person resides, is employed, or regularly transacts business in person—except that, subject to Rule 45(c)(3)(B)(iii), the person may be commanded to attend a trial by traveling from any such place within the state where the trial is held;
+                (ii) requires a person to comply beyond the geographical limits specified in Rule 45(c);
 
                 (iii) requires disclosure of privileged or other protected matter, if no exception or waiver applies; or
 
@@ -113,23 +115,21 @@
 
             (B)
 
- When Permitted. To protect a person subject to or affected by a subpoena, the issuing court may, on motion, quash or modify the subpoena if it requires:
+ When Permitted. To protect a person subject to or affected by a subpoena, the court for the district where compliance is required may, on motion, quash or modify the subpoena if it requires:
 
-                (i) disclosing a trade secret or other confidential research, development, or commercial information;
+                (i) disclosing a trade secret or other confidential research, development, or commercial information; or
 
-                (ii) disclosing an unretained expert’s opinion or information that does not describe specific occurrences in dispute and results from the expert’s study that was not requested by a party; or
-
-                (iii) a person who is neither a party nor a party’s officer to incur substantial expense to travel more than 100 miles to attend trial.
+                (ii) disclosing an unretained expert’s opinion or information that does not describe specific occurrences in dispute and results from the expert’s study that was not requested by a party.
 
             (C)
 
- Specifying Conditions as an Alternative. In the circumstances described in Rule 45(c)(3)(B), the court may, instead of quashing or modifying a subpoena, order appearance or production under specified conditions if the serving party:
+ Specifying Conditions as an Alternative. In the circumstances described in Rule 45(d)(3)(B), the court may, instead of quashing or modifying a subpoena, order appearance or production under specified conditions if the serving party:
 
                 (i) shows a substantial need for the testimony or material that cannot be otherwise met without undue hardship; and
 
                 (ii) ensures that the subpoenaed person will be reasonably compensated.
 
-    (d) __Duties in Responding to a Subpoena.__ 
+    (e) __Duties in Responding to a Subpoena.__ 
 
         (1)
 
@@ -155,13 +155,17 @@
 
                 (ii) describe the nature of the withheld documents, communications, or tangible things in a manner that, without revealing information itself privileged or protected, will enable the parties to assess the claim.
 
-            (B) Information Produced. If information produced in response to a subpoena is subject to a claim of privilege or of protection as trial-preparation material, the person making the claim may notify any party that received the information of the claim and the basis for it. After being notified, a party must promptly return, sequester, or destroy the specified information and any copies it has; must not use or disclose the information until the claim is resolved; must take reasonable steps to retrieve the information if the party disclosed it before being notified; and may promptly present the information to the court under seal for a determination of the claim. The person who produced the information must preserve the information until the claim is resolved.
+            (B) Information Produced. If information produced in response to a subpoena is subject to a claim of privilege or of protection as trial-preparation material, the person making the claim may notify any party that received the information of the claim and the basis for it. After being notified, a party must promptly return, sequester, or destroy the specified information and any copies it has; must not use or disclose the information until the claim is resolved; must take reasonable steps to retrieve the information if the party disclosed it before being notified; and may promptly present the information under seal to the court for the district where compliance is required for a determination of the claim. The person who produced the information must preserve the information until the claim is resolved.
 
-    (e) __Contempt.__ 
+    (f) __Transferring a Subpoena-Related Motion.__ 
 
-     The issuing court may hold in contempt a person who, having been served, fails without adequate excuse to obey the subpoena. A nonparty’s failure to obey must be excused if the subpoena purports to require the nonparty to attend or produce at a place outside the limits of Rule 45(c)(3)(A)(ii).
+     When the court where compliance is required did not issue the subpoena, it may transfer a motion under this rule to the issuing court if the person subject to the subpoena consents or if the court finds exceptional circumstances. Then, if the attorney for a person subject to a subpoena is authorized to practice in the court where the motion was made, the attorney may file papers and appear on the motion as an officer of the issuing court. To enforce its order, the issuing court may transfer the order to the court where the motion was made.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+    (g) __Contempt.__ 
+
+     The court for the district where compliance is required—and also, after a motion is transferred, the issuing court—may hold in contempt a person who, having been served, fails without adequate excuse to obey the subpoena or an order related to it.
+
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -390,6 +394,58 @@ Note to Subdivision (d). The method provided in paragraph (1) for the authorizat
     The language of former Rule 45(d)(2) addressing the manner of asserting privilege is replaced by adopting the wording of Rule 26(b)(5). The same meaning is better expressed in the same words.
 
     Changes Made After Publication and Comment. See Note to Rule 1, supra.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Rule 45 was extensively amended in 1991. The goal of the present amendments is to clarify and simplify the rule. The amendments recognize the court where the action is pending as the issuing court, permit nationwide service of a subpoena, and collect in a new subdivision (c) the previously scattered provisions regarding place of compliance. These changes resolve a conflict that arose after the 1991 amendment about a court’s authority to compel a party or party officer to travel long distances to testify at trial; such testimony may now be required only as specified in new Rule 45(c). In addition, the amendments introduce authority in new Rule 45(f) for the court where compliance is required to transfer a subpoena-related motion to the court where the action is pending on consent of the person subject to the subpoena or in exceptional circumstances.
+
+    Subdivision (a). This subdivision is amended to provide that a subpoena issues from the court where the action is pending. Subdivision (a)(3) specifies that an attorney authorized to practice in that court may issue a subpoena, which is consistent with current practice.
+
+    In Rule 45(a)(1)(D), “person” is substituted for “party” because the subpoena may be directed to a nonparty.
+
+    Rule 45(a)(4) is added to highlight and slightly modify a notice requirement first included in the rule in 1991. Under the 1991 amendments, Rule 45(b)(1) required prior notice of the service of a “documents only” subpoena to the other parties. Rule 45(b)(1) was clarified in 2007 to specify that this notice must be served before the subpoena is served on the witness.
+
+    The Committee has been informed that parties serving subpoenas frequently fail to give the required notice to the other parties. The amendment moves the notice requirement to a new provision in Rule 45(a) and requires that the notice include a copy of the subpoena. The amendments are intended to achieve the original purpose of enabling the other parties to object or to serve a subpoena for additional materials.
+
+    Parties desiring access to information produced in response to the subpoena will need to follow up with the party serving it or the person served to obtain such access. The rule does not limit the court’s authority to order notice of receipt of produced materials or access to them. The party serving the subpoena should in any event make reasonable provision for prompt access.
+
+    Subdivision (b). The former notice requirement in Rule 45(b)(1) has been moved to new Rule 45(a)(4).
+
+    Rule 45(b)(2) is amended to provide that a subpoena may be served at any place within the United States, removing the complexities prescribed in prior versions.
+
+    Subdivision (c). Subdivision (c) is new. It collects the various provisions on where compliance can be required and simplifies them. Unlike the prior rule, place of service is not critical to place of compliance. Although Rule 45(a)(1)(A)(iii) permits the subpoena to direct a place of compliance, that place must be selected under Rule 45(c).
+
+    Rule 45(c)(1) addresses a subpoena to testify at a trial, hearing, or deposition. Rule 45(c)(1)(A) provides that compliance may be required within 100 miles of where the person subject to the subpoena resides, is employed, or regularly conducts business in person. For parties and party officers, Rule 45(c)(1)(B)(i) provides that compliance may be required anywhere in the state where the person resides, is employed, or regularly conducts business in person. When an order under Rule 43(a) authorizes testimony from a remote location, the witness can be commanded to testify from any place described in Rule 45(c)(1).
+
+    Under Rule 45(c)(1)(B)(ii), nonparty witnesses can be required to travel more than 100 miles within the state where they reside, are employed, or regularly transact business in person only if they would not, as a result, incur “substantial expense.” When travel over 100 miles could impose substantial expense on the witness, the party that served the subpoena may pay that expense and the court can condition enforcement of the subpoena on such payment.
+
+    Because Rule 45(c) directs that compliance may be commanded only as it provides, these amendments resolve a split in interpreting Rule 45’s provisions for subpoenaing parties and party officers. Compare In re Vioxx Products Liability Litigation, 438 F. Supp. 2d 664 (E.D. La. 2006) (finding authority to compel a party officer from New Jersey to testify at trial in New Orleans), with Johnson v. Big Lots Stores, Inc., 251 F.R.D. 213 (E.D. La. 2008) (holding that Rule 45 did not require attendance of plaintiffs at trial in New Orleans when they would have to travel more than 100 miles from outside the state). Rule 45(c)(1)(A) does not authorize a subpoena for trial to require a party or party officer to travel more than 100 miles unless the party or party officer resides, is employed, or regularly transacts business in person in the state.
+
+    Depositions of parties, and officers, directors, and managing agents of parties need not involve use of a subpoena. Under Rule 37(d)(1)(A)(i), failure of such a witness whose deposition was properly noticed to appear for the deposition can lead to Rule 37(b) sanctions (including dismissal or default but not contempt) without regard to service of a subpoena and without regard to the geographical limitations on compliance with a subpoena. These amendments do not change that existing law; the courts retain their authority to control the place of party depositions and impose sanctions for failure to appear under Rule 37(b).
+
+    For other discovery, Rule 45(c)(2) directs that inspection of premises occur at those premises, and that production of documents, tangible things, and electronically stored information may be commanded to occur at a place within 100 miles of where the person subject to the subpoena resides, is employed, or regularly conducts business in person. Under the current rule, parties often agree that production, particularly of electronically stored information, be transmitted by electronic means. Such arrangements facilitate discovery, and nothing in these amendments limits the ability of parties to make such arrangements.
+
+    Rule 45(d)(3)(A)(ii) directs the court to quash any subpoena that purports to compel compliance beyond the geographical limits specified in Rule 45(c).
+
+    Subdivision (d). Subdivision (d) contains the provisions formerly in subdivision (c). It is revised to recognize the court where the action is pending as the issuing court, and to take account of the addition of Rule 45(c) to specify where compliance with a subpoena is required.
+
+    Subdivision (f). Subdivision (f) is new. Under Rules 45(d)(2)(B), 45(d)(3), and 45(e)(2)(B), subpoena-related motions and applications are to be made to the court where compliance is required under Rule 45(c). Rule 45(f) provides authority for that court to transfer the motion to the court where the action is pending. It applies to all motions under this rule, including an application under Rule 45(e)(2)(B) for a privilege determination.
+
+    Subpoenas are essential to obtain discovery from nonparties. To protect local nonparties, local resolution of disputes about subpoenas is assured by the limitations of Rule 45(c) and the requirements in Rules 45(d) and (e) that motions be made in the court in which compliance is required under Rule 45(c). But transfer to the court where the action is pending is sometimes warranted. If the person subject to the subpoena consents to transfer, Rule 45(f) provides that the court where compliance is required may do so.
+
+    In the absence of consent, the court may transfer in exceptional circumstances, and the proponent of transfer bears the burden of showing that such circumstances are present. The prime concern should be avoiding burdens on local nonparties subject to subpoenas, and it should not be assumed that the issuing court is in a superior position to resolve subpoena-related motions. In some circumstances, however, transfer may be warranted in order to avoid disrupting the issuing court’s management of the underlying litigation, as when that court has already ruled on issues presented by the motion or the same issues are likely to arise in discovery in many districts. Transfer is appropriate only if such interests outweigh the interests of the nonparty served with the subpoena in obtaining local resolution of the motion. Judges in compliance districts may find it helpful to consult with the judge in the issuing court presiding over the underlying case while addressing subpoena-related motions.
+
+    If the motion is transferred, judges are encouraged to permit telecommunications methods to minimize the burden a transfer imposes on nonparties, if it is necessary for attorneys admitted in the court where the motion is made to appear in the court in which the action is pending. The rule provides that if these attorneys are authorized to practice in the court where the motion is made, they may file papers and appear in the court in which the action is pending in relation to the motion as officers of that court.
+
+    After transfer, the court where the action is pending will decide the motion. If the court rules that discovery is not justified, that should end the matter. If the court orders further discovery, it is possible that retransfer may be important to enforce the order. One consequence of failure to obey such an order is contempt, addressed in Rule 45(g). Rule 45(g) and Rule 37(b)(1) are both amended to provide that disobedience of an order enforcing a subpoena after transfer is contempt of the issuing court and the court where compliance is required under Rule 45(c). In some instances, however, there may be a question about whether the issuing court can impose contempt sanctions on a distant nonparty. If such circumstances arise, or if it is better to supervise compliance in the court where compliance is required, the rule provides authority for retransfer for enforcement. Although changed circumstances may prompt a modification of such an order, it is not expected that the compliance court will reexamine the resolution of the underlying motion.
+
+    Subdivision (g). Subdivision (g) carries forward the authority of former subdivision (e) to punish disobedience of subpoenas as contempt. It is amended to make clear that, in the event of transfer of a subpoena-related motion, such disobedience constitutes contempt of both the court where compliance is required under Rule 45(c) and the court where the action is pending. If necessary for effective enforcement, Rule 45(f) authorizes the issuing court to transfer its order after the motion is resolved.
+
+    The rule is also amended to clarify that contempt sanctions may be applied to a person who disobeys a subpoena-related order, as well as one who fails entirely to obey a subpoena. In civil litigation, it would be rare for a court to use contempt sanctions without first ordering compliance with a subpoena, and the order might not require all the compliance sought by the subpoena. Often contempt proceedings will be initiated by an order to show cause, and an order to comply or be held in contempt may modify the subpoena’s command. Disobedience of such an order may be treated as contempt.
+
+    The second sentence of former subdivision (e) is deleted as unnecessary.   
+
+    Changes Made After Publication and Comment. As described in the Report, the published preliminary draft was modified in several ways after the public comment period. The words “before trial” were restored to the notice provision that was moved to new Rule 45(a)(4). The place of compliance in new Rule 45(c)(2)(A) was changed to a place “within 100 miles of where the person resides, is employed or regularly conducts business.” In new Rule 45(f), the party consent feature was removed, meaning consent of the person subject to the subpoena is sufficient to permit transfer to the issuing court. In addition, style changes were made after consultation with the Standing Committee’s Style Consultant. In the Committee Note, clarifications were made in response to points raised during the public comment period.
 
 ----------
 

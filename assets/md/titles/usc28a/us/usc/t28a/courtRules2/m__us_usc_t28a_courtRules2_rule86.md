@@ -29,7 +29,7 @@
 
             (B) the court determines that applying them in a particular action would be infeasible or work an injustice.
 
-    (b)  __December 1, 2007__  __Amendments.__ 
+    (b)  __December__  __1, 2007 Amendments.__ 
 
      If any provision in Rules 1–5.1, 6–73, or 77–86 conflicts with another law, priority in time for the purpose of 28 U.S.C. § 2072(b) is not affected by the amendments taking effect on December 1, 2007.
 

@@ -59,7 +59,7 @@ The Appellate Rules Committee, in consultation with the Civil Rules Committee, a
 
     The Appellate Rules Committee also made stylistic changes to the Note’s first and third paragraphs. “Experienced appeal lawyers” became “Experienced lawyers,” and “act in face of a pending appeal” became “act in the face of a pending appeal.”
 
-TITLE III. __REVIEW OF A DECISION OF THE UNITED STATES TAX COURT__ 
+TITLE III. __APPEALS FROM THE UNITED STATES TAX COURT__ 
 
 ----------
 

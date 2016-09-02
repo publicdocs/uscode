@@ -23,7 +23,7 @@
 
     (b) __Against Certain Public Officers.__ 
 
-     When a judgment has been entered against a revenue officer in the circumstances stated in 28 U.S.C. § 2006, or against an officer of Congress in the circumstances stated in 2 U.S.C. § 118, the judgment must be satisfied as those statutes provide.
+     When a judgment has been entered against a revenue officer in the circumstances stated in 28 U.S.C. § 2006, or against an officer of Congress in the circumstances stated in 2 U.S.C. § 118  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> , the judgment must be satisfied as those statutes provide.
 
 (As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)
 
@@ -163,6 +163,10 @@
 
     Amended Rule 69(b) incorporates directly the provisions of 2 U.S.C. § 118 and 28 U.S.C. § 2006, deleting the incomplete statement in former Rule 69(b) of the circumstances in which execution does not issue against an officer.
 
+ __References in Text__ 
+
+    2 U.S.C. § 118, referred to in subd. (b), was editorially reclassified as [2 U.S.C. 5503][/us/usc/t2/s5503].
+
 ----------
 
 [Previous](./../../../..//us/usc/t28a/courtRules2/m__us_usc_t28a_courtRules2_rule68.md) | [Next](./../../../..//us/usc/t28a/courtRules2/m__us_usc_t28a_courtRules2_rule70.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28a%2FcourtRules2%2Frule69)
@@ -170,5 +174,6 @@
 ----------
 ----------
 
+[/us/usc/t2/s5503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5503
 
 

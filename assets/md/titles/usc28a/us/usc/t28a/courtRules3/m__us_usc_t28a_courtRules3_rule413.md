@@ -27,9 +27,9 @@
 
      This rule does not limit the admission or consideration of evidence under any other rule.
 
-    (d) __Definition of “Sexual Assault.__ 
+    (d) __Definition of “Sexual Assault.”__ 
 
-    ” In this rule and Rule 415, “sexual assault” means a crime under federal law or under state law (as “state” is defined in 18 U.S.C. § 513) involving:
+     In this rule and Rule 415, “sexual assault” means a crime under federal law or under state law (as “state” is defined in 18 U.S.C. § 513) involving:
 
         (1) any conduct prohibited by 18 U.S.C. chapter 109A;
 
@@ -51,11 +51,11 @@
 
 Section 320935(b)–(e) of [Pub. L. 103–322][/us/pl/103/322], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a], \[title I, § 120\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–25, provided that:
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     The amendments made by subsection (a) \[enacting this rule and rules 414 and 415 of these rules\] shall become effective pursuant to subsection (d).
 
->     “(c) __Recommendations by Judicial Conference.—__ 
+>     “(c)  __Recommendations by Judicial Conference__  __.—__ 
 
 >     Not later than 150 days after the date of enactment of this Act \[Sept. 13, 1994\], the Judicial Conference of the United States shall transmit to Congress a report containing recommendations for amending the Federal Rules of Evidence as they affect the admission of evidence of a defendant’s prior sexual assault or child molestation crimes in cases involving sexual assault and child molestation. The Rules Enabling Act \[[28 U.S.C. 2072][/us/usc/t28/s2072]\] shall not apply to the recommendations made by the Judicial Conference pursuant to this section.
 
@@ -67,7 +67,7 @@ Section 320935(b)–(e) of [Pub. L. 103–322][/us/pl/103/322], as amended by [P
 
 >         “(3) If the Judicial Conference fails to comply with subsection (c), the amendments made by subsection (a) shall become effective 150 days after the date the recommendations were due under subsection (c) unless otherwise provided by law.
 
->     “(e) __Application.—__ 
+>     “(e)  __Application__  __.—__ 
 
 >     The amendments made by subsection (a) shall apply to proceedings commenced on or after the effective date of such amendments \[July 9, 1995\], including all trials commenced on or after the effective date of such amendments.”
 

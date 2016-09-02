@@ -15,13 +15,13 @@
 
 ## FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to January 15, 2013)
+(As amended to January 5, 2015)
 
  __Historical Note__ 
 
     The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-    The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, [Pub. L. 98–473, title II, § 210][/us/pl/98/473/s210], 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, [Pub. L. 100–690, title VII, § 7111][/us/pl/100/690/s7111], [102 Stat. 4419][/us/stat/102/4419]; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, [Pub. L. 104–132, title I, § 103][/us/pl/104/132/s103], [110 Stat. 1218][/us/stat/110/1218]; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.
+    The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, [Pub. L. 98–473, title II, § 210][/us/pl/98/473/s210], 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, [Pub. L. 100–690, title VII, § 7111][/us/pl/100/690/s7111], [102 Stat. 4419][/us/stat/102/4419]; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, [Pub. L. 104–132, title I, § 103][/us/pl/104/132/s103], [110 Stat. 1218][/us/stat/110/1218]; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
 
 <table>
 
@@ -107,7 +107,7 @@ TITLE II. APPEAL FROM A JUDGMENT OR ORDER OF A DISTRICT COURT  </td>
 
     <td> 6.  </td>
 
-    <td> Appeal in a Bankruptcy Case from a Final Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel.  </td>
+    <td> Appeal in a Bankruptcy Case  </td>
 
   </tr>
 
@@ -171,7 +171,7 @@ TITLE II. APPEAL FROM A JUDGMENT OR ORDER OF A DISTRICT COURT  </td>
 
     <td> 
 
-TITLE III. REVIEW OF A DECISION OF THE UNITED STATES TAX COURT  </td>
+TITLE III. APPEALS FROM THE UNITED STATES TAX COURT  </td>
 
   </tr>
 
@@ -179,7 +179,7 @@ TITLE III. REVIEW OF A DECISION OF THE UNITED STATES TAX COURT  </td>
 
     <td> 13.  </td>
 
-    <td> Review of a Decision of the Tax Court.  </td>
+    <td> Appeals from the Tax Court.  </td>
 
   </tr>
 
@@ -187,7 +187,7 @@ TITLE III. REVIEW OF A DECISION OF THE UNITED STATES TAX COURT  </td>
 
     <td> 14.  </td>
 
-    <td> Applicability of Other Rules to the Review of a Tax Court Decision.  </td>
+    <td> Applicability of Other Rules to Appeals from the Tax Court.  </td>
 
   </tr>
 

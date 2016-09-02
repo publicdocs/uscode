@@ -133,11 +133,15 @@ Address:\_\_\_\_\_\_\_\_\_
 
 (As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003.)
 
- __Form 4__ 
+Form 4 __. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis__ 
 
-    (As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010.)
+    (As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Committee Notes on Rules—2010 Amendment__ 
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
+
+ __Committee Notes on Rules—2013 Amendment__ 
 
     Changes Made After Publication and Comment. No changes were made after publication and comment.
 

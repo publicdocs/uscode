@@ -15,7 +15,7 @@
 
 # Title 28—APPENDIXJUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS
 
-Current through 113-234
+Current through 113–271not235
 
 <table>
 
@@ -23,7 +23,7 @@ Current through 113-234
 
     <td> Item  </td>
 
-    <td> Page  </td>
+    <td>   </td>
 
   </tr>
 
@@ -47,7 +47,7 @@ Current through 113-234
 
     <td> Federal Rules of Appellate Procedure  </td>
 
-    <td> 667  </td>
+    <td>   </td>
 
   </tr>
 
@@ -55,7 +55,7 @@ Current through 113-234
 
     <td> Federal Rules of Civil Procedure  </td>
 
-    <td> 685  </td>
+    <td>   </td>
 
   </tr>
 
@@ -63,7 +63,7 @@ Current through 113-234
 
     <td> Federal Rules of Evidence  </td>
 
-    <td> 772  </td>
+    <td>   </td>
 
   </tr>
 

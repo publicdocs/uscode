@@ -27,9 +27,9 @@
 
      This rule does not limit the admission or consideration of evidence under any other rule.
 
-    (d) __Definition of “Child” and “Child Molestation.__ 
+    (d) __Definition of “Child” and “Child Molestation.”__ 
 
-    ” In this rule and Rule 415:
+     In this rule and Rule 415:
 
         (1) “child” means a person below the age of 14; and
 

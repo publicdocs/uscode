@@ -49,9 +49,7 @@
 
      The court may permit a party to file a supplemental pleading asserting a counterclaim that matured or was acquired by the party after serving an earlier pleading.
 
-    (f) __\[Abrogated.__ 
-
-    \]
+    (f)  __\[Abrogated.\]__ 
 
     (g) __Crossclaim Against a Coparty.__ 
 
