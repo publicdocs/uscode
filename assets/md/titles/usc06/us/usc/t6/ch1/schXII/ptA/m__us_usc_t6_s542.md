@@ -309,7 +309,7 @@ Under Secretary for Science and Technology: Will be responsible for performing t
 
     3. Border and Transportation Security
 
-    The Directorate of Border and Transportation Security (“BTS”) will include the following: the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\]; the Office for Domestic Preparedness; the Customs Service \[now Bureau of Customs and Border Protection\]; the Transportation Security Administration; FLETC; and FPS.
+    The Directorate of Border and Transportation Security (“BTS”) will include the following: the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\]; the Office for Domestic Preparedness; the Customs Service \[renamed Bureau of Customs and Border Protection\]; the Transportation Security Administration; FLETC; and FPS.
 
     The BTS Directorate will also have in place the key leaders of the new Directorate to include:
 

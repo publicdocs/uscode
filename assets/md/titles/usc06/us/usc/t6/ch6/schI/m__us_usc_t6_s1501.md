@@ -167,7 +167,11 @@
 
 ([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 102, Dec. 18, 2015, [129 Stat. 2936][/us/stat/129/2936].)
 
- __Short Title of 2015 Amendment__ 
+ __Short Title__ 
+
+[Pub. L. 114–113, div. N][/us/pl/114/113/dN], § 1(a), Dec. 18, 2015, [129 Stat. 2935][/us/stat/129/2935], provided that: 
+
+> “This division \[enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, [section 1029 of Title 18][/us/usc/t18/s1029], Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under this section and sections 101, 131, and 151 of this title and [section 301 of Title 5][/us/usc/t5/s301], Government Organization and Employees\] may be cited as the ‘Cybersecurity Act of 2015’.”
 
 [Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 101, Dec. 18, 2015, [129 Stat. 2936][/us/stat/129/2936], provided that: 
 
@@ -176,12 +180,6 @@
 [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 221, Dec. 18, 2015, [129 Stat. 2963][/us/stat/129/2963], provided that: 
 
 > “This subtitle \[subtitle B (§§ 221–229) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], enacting subchapter II of this chapter and sections 149 and 151 of this title, amending sections 148, 149, and 150 of this title and sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under [section 151 of this title][/us/usc/t6/s151]\] may be cited as the ‘Federal Cybersecurity Enhancement Act of 2015’.”
-
- __Short Title__ 
-
-[Pub. L. 114–113, div. N][/us/pl/114/113/dN], § 1(a), Dec. 18, 2015, [129 Stat. 2935][/us/stat/129/2935], provided that: 
-
-> “This division \[enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, [section 1029 of Title 18][/us/usc/t18/s1029], Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under this section and sections 101, 131, and 151 of this title and [section 301 of Title 5][/us/usc/t5/s301], Government Organization and Employees\] may be cited as the ‘Cybersecurity Act of 2015’.”
 
 ----------
 
@@ -200,15 +198,15 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2936
+[/us/pl/114/113/dN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN
+[/us/stat/129/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2935
+[/us/usc/t18/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1029
+[/us/usc/t5/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs301
 [/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2936
 [/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2963
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t6/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151
-[/us/pl/114/113/dN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN
-[/us/stat/129/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2935
-[/us/usc/t18/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1029
-[/us/usc/t5/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs301
 
 

@@ -49,7 +49,7 @@
 
         The Secretary, in coordination with the heads of other appropriate Federal departments and agencies, and in accordance with the National Cybersecurity Incident Response Plan required under subsection (c), shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.
 
-([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 228, as added and amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], §§ 205, 223(a)(2),(4), (5), Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961], 2963, 2964.)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 228, as added and amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], §§ 205, 223(a)(2), (4), (5), Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961], 2963, 2964.)
 
  __Codification__ 
 
@@ -61,9 +61,7 @@
 
  __Amendments__ 
 
-    2015—Subsecs. (a), (b). [Pub. L. 114–113][/us/pl/114/113], § 223(a)(4), added subsecs. (a) and (b).
-
-    Subsec. (c). [Pub. L. 114–113][/us/pl/114/113], § 223(a)(5), made technical amendment to reference in original act which appears in text as reference to [section 148 of this title][/us/usc/t6/s148].
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113], § 223(a)(5), made technical amendment to reference in original act which appears in text as reference to [section 148 of this title][/us/usc/t6/s148].
 
     [Pub. L. 114–113][/us/pl/114/113], § 223(a)(2), transferred former [section 149 of this title][/us/usc/t6/s149] to subsec. (c) of this section. See Codification note above.
 
@@ -99,7 +97,6 @@
 [/us/stat/128/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3070
 [/us/pl/107/296/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs228
 [/us/usc/t6/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs150
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113

@@ -267,7 +267,7 @@
 
 > “SEC. 3. __INCLUSION OF INTEROPERABLE COMMUNICATIONS CAPABILITIES IN RESPONSIBILITIES OF UNDER SECRETARY FOR MANAGEMENT.__ 
 
->     \[Amended section 341(a)(4), (d) of this title.\]
+>     \[Amended [section 341 of this title][/us/usc/t6/s341].\]
 
 ----------
 
@@ -306,5 +306,6 @@
 [/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
 [/us/stat/129/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F421
 [/us/usc/t6/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs341%2Fd
+[/us/usc/t6/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs341
 
 

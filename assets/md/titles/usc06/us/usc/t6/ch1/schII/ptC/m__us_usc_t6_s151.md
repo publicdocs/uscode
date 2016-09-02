@@ -95,7 +95,7 @@
 
  __References in Text__ 
 
-    Section 208(b) of the E-Government Act of 2002, referred to in subsec. (c)(6), is [section 208(b) of title II of Pub. L. 107–347][/us/pl/107/347/tII/s208/b], which is set out as a note under [section 3501 of Title 44][/us/usc/t44/s3501], Printing and Public Documents.
+    Section 208(b) of the E-Government Act of 2002, referred to in subsec. (c)(6), is [section 208(b) of title II of Pub. L. 107–347][/us/pl/107/347/tII/s208/b], which is set out in a note under [section 3501 of Title 44][/us/usc/t44/s3501], Public Printing and Documents.
 
  __Agency Responsibilities__ 
 

@@ -51,7 +51,7 @@
 
     (d) __Definition of nontraditional Government contractor__ 
 
-        In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 2371][/us/usc/t10/s2371] note).
+        In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) 1 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 2371][/us/usc/t10/s2371] note).
 
 ([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 831, Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 572, Dec. 26, 2007, [121 Stat. 2093][/us/stat/121/2093]; [Pub. L. 110–329, div. D, title V][/us/pl/110/329/dD/tV], § 537, Sept. 30, 2008, [122 Stat. 3687][/us/stat/122/3687]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 531, Oct. 28, 2009, [123 Stat. 2174][/us/stat/123/2174]; [Pub. L. 112–10, div. B, title VI][/us/pl/112/10/dB/tVI], § 1651, Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 527, Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974]; [Pub. L. 113–6, div. D, title V][/us/pl/113/6/dD/tV], § 525, Mar. 26, 2013, [127 Stat. 371][/us/stat/127/371]; [Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 525, Jan. 17, 2014, [128 Stat. 273][/us/stat/128/273]; [Pub. L. 114–4, title V][/us/pl/114/4/tV], § 523, Mar. 4, 2015, [129 Stat. 65][/us/stat/129/65]; [Pub. L. 114–113, div. F, title V][/us/pl/114/113/dF/tV], § 523, Dec. 18, 2015, [129 Stat. 2516][/us/stat/129/2516].)
 
@@ -115,7 +115,7 @@
 
 >     “(a) Each major acquisition program of the Department of Homeland Security, as defined in Department of Homeland Security Management Directive 102–2, shall meet established acquisition documentation requirements for its acquisition program baseline established in the Department of Homeland Security Instruction Manual 102–01–001 and the Department of Homeland Security Acquisition Instruction/Guidebook 102–01–001, Appendix K.
 
->     “(b) The Department shall report to the Committees on Appropriations of the Senate and the House of Representatives in the Comprehensive Acquisition Status Report and its quarterly updates, required under the heading ‘Office of the Under Secretary for Management’ of this Act \[div. F of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\], on any major acquisition program that does not meet such documentation requirements and the schedule by which the program will come into compliance with these requirements.
+>     “(b) The Department shall report to the Committees on Appropriations of the Senate and the House of Representatives in the Comprehensive Acquisition Status Report and its quarterly updates, required under the heading ‘Office of the Under Secretary for Management’ of this Act \[div. F of [Pub. L. 114–113][/us/pl/114/113], [129 Stat. 2493][/us/stat/129/2493]\], on any major acquisition program that does not meet such documentation requirements and the schedule by which the program will come into compliance with these requirements.
 
 >     “(c) None of the funds made available by this or any other Act for any fiscal year may be used for a major acquisition program that is out of compliance with such documentation requirements for more than two years except that funds may be used solely to come into compliance with such documentation requirements or to terminate the program.”
 
@@ -183,5 +183,6 @@
 [/us/pl/114/113/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtV
 [/us/stat/129/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2521
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2493
 
 

@@ -101,13 +101,13 @@
 
 [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 210, Dec. 18, 2015, [129 Stat. 2962][/us/stat/129/2962], provided that: 
 
-> “Nothing in this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/dN/tII/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this subtitle may be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2015\].”
+> “Nothing in this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see Short Title of 2015 Amendment note set out under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this subtitle may be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2015\].”
 
  __Definitions__ 
 
 [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 202, Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
 
-> “In this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/dN/tII/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\]:
+> “In this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see Short Title of 2015 Amendment note set out under [section 101 of this title][/us/usc/t6/s101]\]:
 
 >     “(1)  __Appropriate congressional committees__  __.—__ 
 
@@ -156,12 +156,10 @@
 [/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2962
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/dN/tII/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII%2Fs201
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/dN/tII/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII%2Fs201
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
 [/us/usc/t6/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1501

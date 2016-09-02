@@ -243,11 +243,11 @@
 
  __Prior Provisions__ 
 
-    A prior [section 227 of Pub. L. 107–296][/us/pl/107/296/s227], as added by [Pub. L. 113–282][/us/pl/113/282], § 7(a), Dec. 18, 2014, [128 Stat. 3070][/us/stat/128/3070], was classified to [section 149 of this title][/us/usc/t6/s149] prior to redesignation as [section 228(c) of Pub. L. 107–296][/us/pl/107/296/s228/c] by [Pub. L. 114–113][/us/pl/114/113] and reclassification as [section 149(c) of this title][/us/usc/t6/s149/c].
+    A prior [section 227 of Pub. L. 107–296][/us/pl/107/296/s227], as added by [Pub. L. 113–282][/us/pl/113/282], § 7(a), Dec. 18, 2014, [128 Stat. 3070][/us/stat/128/3070], was classified to [section 149 of this title][/us/usc/t6/s149] prior to redesignation by [Pub. L. 114–113][/us/pl/114/113] as [section 228(c) of Pub. L. 107–296][/us/pl/107/296/s228/c], which is now classified to [section 149(c) of this title][/us/usc/t6/s149/c].
 
  __Amendments__ 
 
-    Subsec. (a)(1) to (5). [Pub. L. 114–113][/us/pl/114/113], § 203(1)(A), (B), added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2), which defined “cybersecurity risk” and “incident”, respectively.
+    2015—Subsec. (a)(1) to (5). [Pub. L. 114–113][/us/pl/114/113], § 203(1)(A), (B), added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2), which defined “cybersecurity risk” and “incident”, respectively.
 
     Subsec. (a)(6). [Pub. L. 114–113][/us/pl/114/113], § 203(1)(C)–(E), added par. (6).
 
@@ -265,7 +265,7 @@
 
     Subsec. (d)(1)(B)(i). [Pub. L. 114–113][/us/pl/114/113], § 203(3)(A)(i), substituted “, local, and tribal” for “and local”.
 
-    Subsec. (d)(1)(B)(ii). [Pub. L. 114–113][/us/pl/114/113], § 203(3)(A)(ii), substituted “, including information sharing and analysis centers;” for “; and”.
+    Subsec. (d)(1)(B)(ii). [Pub. L. 114–113][/us/pl/114/113], § 203(3)(A)(ii), substituted “, including information sharing and analysis centers;” for “; and”.
 
     Subsec. (d)(1)(B)(iv). [Pub. L. 114–113][/us/pl/114/113], § 203(3)(A)(iii), (iv), added cl. (iv).
 
@@ -275,7 +275,7 @@
 
     Subsec. (e)(1)(B). [Pub. L. 114–113][/us/pl/114/113], § 203(4)(A)(ii), inserted “cyber threat indicators, defensive measures, and” before “information related”.
 
-    Subsec. (e)(1)(F). [Pub. L. 114–113][/us/pl/114/113], § 203(4)(A)(iii), substituted “cyber threat indicators, defensive measures, cybersecurity risks,” for “cybersecurity risks” and struck out “and” at end..
+    Subsec. (e)(1)(F). [Pub. L. 114–113][/us/pl/114/113], § 203(4)(A)(iii), substituted “cyber threat indicators, defensive measures, cybersecurity risks,” for “cybersecurity risks” and struck out “and” at end.
 
     Subsec. (e)(1)(G). [Pub. L. 114–113][/us/pl/114/113], § 203(4)(A)(iv), substituted “cyber threat indicators, defensive measures, cybersecurity risks, and incidents; and” for “cybersecurity risks and incidents”.
 
@@ -356,8 +356,8 @@
 [/us/pl/113/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282
 [/us/stat/128/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3070
 [/us/usc/t6/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs149
-[/us/pl/107/296/s228/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs228%2Fc
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/107/296/s228/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs228%2Fc
 [/us/usc/t6/s149/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs149%2Fc
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113

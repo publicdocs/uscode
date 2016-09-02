@@ -115,6 +115,12 @@
 
 > “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–143][/us/pl/114/143], § 1, Apr. 11, 2016, [130 Stat. 327][/us/stat/130/327], provided that: 
+
+> “This Act \[enacting section 321o of this title and provisions set out as a note under section 321o of this title\] may be cited as the ‘Integrated Public Alert and Warning System Modernization Act of 2015’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 201, Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
@@ -565,6 +571,8 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
+[/us/pl/114/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F143
+[/us/stat/130/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F327
 [/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113

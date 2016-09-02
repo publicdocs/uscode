@@ -15,7 +15,7 @@
 
 # Title 6—DOMESTIC SECURITY
 
-Current through 114-141
+Current through 114-143
 
 <table>
 
@@ -76,6 +76,16 @@ Current through 114-141
     <td> Border Infrastructure and Technology Modernization  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1401" data-uslm-ref="/us/usc/t6/s1401">1401</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fch6" data-uslm-ref="/us/usc/t6/ch6">6.</a>  </td>
+
+    <td> Cybersecurity  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1501" data-uslm-ref="/us/usc/t6/s1501">1501</a>  </td>
 
   </tr>
 

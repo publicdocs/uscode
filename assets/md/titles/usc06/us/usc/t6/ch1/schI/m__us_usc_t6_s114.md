@@ -31,7 +31,7 @@
 
 [Pub. L. 114–113, div. F, title V][/us/pl/114/113/dF/tV], § 510(b), Dec. 18, 2015, [129 Stat. 2514][/us/stat/129/2514], provided that: 
 
-> “The third proviso of section 537 of the Department of Homeland Security Appropriations Act, 2006 ([6 U.S.C. 114][/us/usc/t6/s114]), shall hereafter not apply with respect to funds made available in this \[Act\] \[div. F of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] or any other Act.”
+> “The third proviso of section 537 of the Department of Homeland Security Appropriations Act, 2006 ([6 U.S.C. 114][/us/usc/t6/s114]), shall hereafter not apply with respect to funds made available in this or any other Act.”
 
 ----------
 
@@ -47,6 +47,5 @@
 [/us/pl/114/113/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtV
 [/us/stat/129/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2514
 [/us/usc/t6/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs114
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

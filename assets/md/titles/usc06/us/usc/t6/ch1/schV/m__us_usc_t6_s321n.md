@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321m.md) | [Next](./../../../../..//us/usc/t6/ch1/schVI/m__us_usc_t6_ch1_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321n)
+[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321m.md) | [Next](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321n)
 
 ## § 321n. Acceptance of gifts
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321m.md) | [Next](./../../../../..//us/usc/t6/ch1/schVI/m__us_usc_t6_ch1_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321n)
+[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321m.md) | [Next](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321n)
 
 ----------
 ----------

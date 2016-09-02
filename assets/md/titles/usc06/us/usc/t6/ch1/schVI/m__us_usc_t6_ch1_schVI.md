@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321n.md) | [Next](./../../../../..//us/usc/t6/ch1/schVI/m__us_usc_t6_s331.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVI)
+[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321o.md) | [Next](./../../../../..//us/usc/t6/ch1/schVI/m__us_usc_t6_s331.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVI)
 
 ### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321n.md) | [Next](./../../../../..//us/usc/t6/ch1/schVI/m__us_usc_t6_s331.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVI)
+[Previous](./../../../../..//us/usc/t6/ch1/schV/m__us_usc_t6_s321o.md) | [Next](./../../../../..//us/usc/t6/ch1/schVI/m__us_usc_t6_s331.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVI)
 
 ----------
 ----------
