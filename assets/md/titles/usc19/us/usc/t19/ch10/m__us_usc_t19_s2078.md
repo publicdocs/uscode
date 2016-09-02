@@ -15,7 +15,7 @@
 
 ## § 2078. Certification of reason for advance
 
-    A certificate by the Commissioner of U.S. Customs and Border Protection stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee’s receipt shall be a sufficient voucher for the sum expressed to have been expended.
+    A certificate by the Commissioner of Customs  <sup>\[1\]</sup>  <sup><sup> 1 See Change of Name note below. </sup></sup>  stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee’s receipt shall be a sufficient voucher for the sum expressed to have been expended.
 
 ([Mar. 28, 1928, ch. 266][/us/act/1928-03-28/ch266], § 3, as added [Aug. 7, 1939, ch. 566][/us/act/1939-08-07/ch566], § 1, [53 Stat. 1263][/us/stat/53/1263]; amended [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(n)(2), Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
@@ -29,7 +29,7 @@
 
  __Change of Name__ 
 
-    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+    Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 1970 Amendment__ 
 
@@ -41,7 +41,7 @@
 
  __Transfer of Functions__ 
 
-    For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+    For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542]. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in [Pub. L. 107–296][/us/pl/107/296] as of Nov. 25, 2002, see [section 211 of Title 6][/us/usc/t6/s211], as amended generally by [Pub. L. 114–125][/us/pl/114/125], and [section 802(b) of Pub. L. 114–125][/us/pl/114/125/s802/b], set out as a note under [section 211 of Title 6][/us/usc/t6/s211].
 
     For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, [64 Stat. 1280][/us/stat/64/1280], 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -73,6 +73,11 @@
 [/us/pl/91/513/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1103
 [/us/usc/t21/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs171
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fb
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 
 

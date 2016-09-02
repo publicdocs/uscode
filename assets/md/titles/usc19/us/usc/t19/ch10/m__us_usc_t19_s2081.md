@@ -43,7 +43,7 @@
 
         (3) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of [section 3302 of title 31][/us/usc/t31/s3302];
 
-        only upon the written certification of the Commissioner of U.S. Customs and Border Protection (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of U.S. Customs and Border Protection) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
+        only upon the written certification of the Commissioner of Customs  <sup>\[1\]</sup>  <sup><sup> 1 See Change of Name note below. </sup></sup>  (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs)  <sup>\[1\]</sup>  that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
 
     (b) __Liquidation of corporations and business entities__ 
 
@@ -123,11 +123,11 @@
 
  __Change of Name__ 
 
-    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+    Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
-    For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+    For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542]. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in [Pub. L. 107–296][/us/pl/107/296] as of Nov. 25, 2002, see [section 211 of Title 6][/us/usc/t6/s211], as amended generally by [Pub. L. 114–125][/us/pl/114/125], and [section 802(b) of Pub. L. 114–125][/us/pl/114/125/s802/b], set out as a note under [section 211 of Title 6][/us/usc/t6/s211].
 
 ----------
 
@@ -172,5 +172,10 @@
 [/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
 [/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fb
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 
 

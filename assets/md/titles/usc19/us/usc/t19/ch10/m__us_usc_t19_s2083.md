@@ -17,7 +17,7 @@
 
     (a) __Violation estimates__ 
 
-    Not later than 30 days before the beginning of each fiscal year after fiscal year 1991, the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the “Committees”) a report that contains estimates of—
+    Not later than 30 days before the beginning of each fiscal year after fiscal year 1991, the Commissioner of Customs  <sup>\[1\]</sup>  <sup><sup> 1 See Change of Name note below. </sup></sup>  shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the “Committees”) a report that contains estimates of—
 
         (1) the number and extent of violations of the trade, customs, and illegal drug control laws listed under subsection (b) that will likely occur during the fiscal year; and
 
@@ -25,7 +25,7 @@
 
     (b) __Applicable statutory provisions__ 
 
-    The Commissioner of U.S. Customs and Border Protection, after consultation with the Committees—
+    The Commissioner of Customs,1 after consultation with the Committees—
 
         (1) shall, within 60 days after August 20, 1990, prepare a list of those provisions of the trade, customs, and illegal drug control laws of the United States for which the United States Customs Service has enforcement responsibility and to which the reports required under subsection (a) will apply; and
 
@@ -33,7 +33,7 @@
 
     (c) __Enforcement strategy__ 
 
-    Within 90 days after submitting a report under subsection (a) for any fiscal year, the Commissioner of U.S. Customs and Border Protection shall—
+    Within 90 days after submitting a report under subsection (a) for any fiscal year, the Commissioner of Customs 1 shall—
 
         (1) develop a nationally uniform enforcement strategy for dealing during that year with the violations estimated in the report; and
 
@@ -41,7 +41,7 @@
 
     (d) __Compliance program__ 
 
-    The Commissioner of U.S. Customs and Border Protection shall—
+    The Commissioner of Customs 1 shall—
 
         (1) devise and implement a methodology for estimating the level of compliance with the laws administered by the Customs Service; and
 
@@ -51,7 +51,7 @@
 
     The contents of any report submitted to the Committees under subsection (a) or (c)(2) are confidential and disclosure of all or part of the contents is restricted to—
 
-        (1) officers and employees of the United States designated by the Commissioner of U.S. Customs and Border Protection;
+        (1) officers and employees of the United States designated by the Commissioner of Customs; 1
 
         (2) the chairman of each of the Committees; and
 
@@ -65,11 +65,11 @@
 
  __Change of Name__ 
 
-    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+    Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
-    For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+    For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542]. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in [Pub. L. 107–296][/us/pl/107/296] as of Nov. 25, 2002, see [section 211 of Title 6][/us/usc/t6/s211], as amended generally by [Pub. L. 114–125][/us/pl/114/125], and [section 802(b) of Pub. L. 114–125][/us/pl/114/125/s802/b], set out as a note under [section 211 of Title 6][/us/usc/t6/s211].
 
 ----------
 
@@ -88,5 +88,10 @@
 [/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
 [/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fb
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 
 

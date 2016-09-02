@@ -1955,7 +1955,7 @@
 
 >     “If any provision of this Act, any amendment made by this Act, or the application of such a provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
-    \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
+    \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542]. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in [Pub. L. 107–296][/us/pl/107/296] as of Nov. 25, 2002, see [section 211 of Title 6][/us/usc/t6/s211], as amended generally by [Pub. L. 114–125][/us/pl/114/125], and [section 802(b) of Pub. L. 114–125][/us/pl/114/125/s802/b], set out as a note under [section 211 of Title 6][/us/usc/t6/s211].\]
 
     \[Amendment by [section 107 of Pub. L. 103–182][/us/pl/103/182/s107] to [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], set out above, effective on the date the North American Free Trade Agreement enters into force between the United States and Canada \[Jan. 1, 1994\], see [section 109(a)(2) of Pub. L. 103–182][/us/pl/103/182/s109/a/2], set out as an Effective Date; Termination of NAFTA Status note under [section 3311 of this title][/us/usc/t19/s3311].\]
 
@@ -2248,6 +2248,11 @@
 [/us/usc/t19/s1677f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%2Fd
 [/us/usc/t19/s1516a/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Fg%2F2
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fb
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/103/182/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs107
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/pl/103/182/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs109%2Fa%2F2
