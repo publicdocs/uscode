@@ -51,201 +51,301 @@
 
       <tr>
 
-        <td> Pay Grade  </td>
+        <td> 
 
-        <td> Monthly Rate  </td>
+    Pay Grade  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   O–10  </td>
-
-        <td> $150    </td>
+    Monthly Rate  </td>
 
   </tr>
 
       <tr>
 
-        <td>   O–9  </td>
+        <td> 
 
-        <td> 150    </td>
+    O–10  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   O–8  </td>
-
-        <td> 150    </td>
+    $150   </td>
 
   </tr>
 
       <tr>
 
-        <td>   O–7  </td>
+        <td> 
 
-        <td> 150    </td>
+    O–9  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   O–6  </td>
-
-        <td> 250    </td>
+    150   </td>
 
   </tr>
 
       <tr>
 
-        <td>   O–5  </td>
+        <td> 
 
-        <td> 250    </td>
+    O–8  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   O–4  </td>
-
-        <td> 225    </td>
+    150   </td>
 
   </tr>
 
       <tr>
 
-        <td>   O–3  </td>
+        <td> 
 
-        <td> 175    </td>
+    O–7  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   O–2  </td>
-
-        <td> 150    </td>
+    150   </td>
 
   </tr>
 
       <tr>
 
-        <td>   O–1  </td>
+        <td> 
 
-        <td> 150    </td>
+    O–6  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   W–5  </td>
-
-        <td> 250    </td>
+    250   </td>
 
   </tr>
 
       <tr>
 
-        <td>   W–4  </td>
+        <td> 
 
-        <td> 250    </td>
+    O–5  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   W–3  </td>
-
-        <td> 175    </td>
+    250   </td>
 
   </tr>
 
       <tr>
 
-        <td>   W–2  </td>
+        <td> 
 
-        <td> 150    </td>
+    O–4  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   W–1  </td>
-
-        <td> 150    </td>
+    225   </td>
 
   </tr>
 
       <tr>
 
-        <td>   E–9  </td>
+        <td> 
 
-        <td> 240    </td>
+    O–3  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   E–8  </td>
-
-        <td> 240    </td>
+    175   </td>
 
   </tr>
 
       <tr>
 
-        <td>   E–7  </td>
+        <td> 
 
-        <td> 240    </td>
+    O–2  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   E–6  </td>
-
-        <td> 215    </td>
+    150   </td>
 
   </tr>
 
       <tr>
 
-        <td>   E–5  </td>
+        <td> 
 
-        <td> 190    </td>
+    O–1  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   E–4  </td>
-
-        <td> 165    </td>
+    150   </td>
 
   </tr>
 
       <tr>
 
-        <td>   E–3  </td>
+        <td> 
 
-        <td> 150    </td>
+    W–5  </td>
 
-  </tr>
+        <td> 
 
-      <tr>
-
-        <td>   E–2  </td>
-
-        <td> 150    </td>
+    250   </td>
 
   </tr>
 
       <tr>
 
-        <td>   E–1  </td>
+        <td> 
 
-        <td> 150    </td>
+    W–4  </td>
+
+        <td> 
+
+    250   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    W–3  </td>
+
+        <td> 
+
+    175   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    W–2  </td>
+
+        <td> 
+
+    150   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    W–1  </td>
+
+        <td> 
+
+    150   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–9  </td>
+
+        <td> 
+
+    240   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–8  </td>
+
+        <td> 
+
+    240   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–7  </td>
+
+        <td> 
+
+    240   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–6  </td>
+
+        <td> 
+
+    215   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–5  </td>
+
+        <td> 
+
+    190   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–4  </td>
+
+        <td> 
+
+    165   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–3  </td>
+
+        <td> 
+
+    150   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–2  </td>
+
+        <td> 
+
+    150   </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    E–1  </td>
+
+        <td> 
+
+    150   </td>
 
   </tr>
 

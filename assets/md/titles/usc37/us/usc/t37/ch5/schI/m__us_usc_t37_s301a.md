@@ -233,19 +233,25 @@
 
   <tr>
 
-    <td>   “Over 14  </td>
-
-    <td> 840”;  </td>
+    <td>   </td>
 
   </tr>
 
   <tr>
 
-    <td> and by striking out phase II of the table and inserting in lieu thereof the following:  </td>
+    <td> 
+
+“Over 14  </td>
+
+    <td> 
+
+840”;  </td>
 
   </tr>
 
 </table>
+
+    and by striking out phase II of the table and inserting in lieu thereof the following:
 
 <table>
 
