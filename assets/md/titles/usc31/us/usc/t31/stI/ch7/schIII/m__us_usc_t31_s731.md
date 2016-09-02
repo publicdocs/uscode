@@ -77,7 +77,11 @@
 
     (j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 896][/us/stat/96/896]; [Pub. L. 98–326, § 1(a)][/us/pl/98/326/s1/a], June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 98–615, title II, § 204(b)][/us/pl/98/615/s204/b], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 103–89, § 3(b)(4)][/us/pl/103/89/s3/b/4], Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983]; [Pub. L. 106–303, § 5][/us/pl/106/303/s5], Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069]; [Pub. L. 108–271][/us/pl/108/271], §§ 5–7, 8(b), July 7, 2004, [118 Stat. 813][/us/stat/118/813], 814; [Pub. L. 110–323, § 9(a)][/us/pl/110/323/s9/a], Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548]; [Pub. L. 111–350, § 5(h)(2)][/us/pl/111/350/s5/h/2], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849].)
+    (k)  __Federal Government Details__  __.—__ 
+
+    The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
+
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 896][/us/stat/96/896]; [Pub. L. 98–326, § 1(a)][/us/pl/98/326/s1/a], June 22, 1984, [98 Stat. 269][/us/stat/98/269]; [Pub. L. 98–615, title II, § 204(b)][/us/pl/98/615/s204/b], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 103–89, § 3(b)(4)][/us/pl/103/89/s3/b/4], Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983]; [Pub. L. 106–303, § 5][/us/pl/106/303/s5], Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069]; [Pub. L. 108–271][/us/pl/108/271], §§ 5–7, 8(b), July 7, 2004, [118 Stat. 813][/us/stat/118/813], 814; [Pub. L. 110–323, § 9(a)][/us/pl/110/323/s9/a], Sept. 22, 2008, [122 Stat. 3548][/us/stat/122/3548]; [Pub. L. 111–350, § 5(h)(2)][/us/pl/111/350/s5/h/2], Jan. 4, 2011, [124 Stat. 3849][/us/stat/124/3849]; [Pub. L. 114–113, div. I, title I, § 1301(a)][/us/pl/114/113/s1301/a], Dec. 18, 2015, [129 Stat. 2671][/us/stat/129/2671].)
 
 <table>
 
@@ -275,6 +279,8 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
  __Amendments__ 
 
+    2015—Subsec. (k). [Pub. L. 114–113][/us/pl/114/113] added subsec. (k).
+
     2011—Subsec. (i)(7). [Pub. L. 111–350][/us/pl/111/350] substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])”.
 
     2008—Subsec. (d). [Pub. L. 110–323, § 9(a)(1)][/us/pl/110/323/s9/a/1], struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
@@ -304,6 +310,12 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
     1984—Subsec. (b). [Pub. L. 98–615][/us/pl/98/615] substituted “[section 5401 of title 5][/us/usc/t5/s5401]” for “[section 5401(a) of title 5][/us/usc/t5/s5401/a]”.
 
     Subsec. (e). [Pub. L. 98–236][/us/pl/98/236] substituted “title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title” for “title 5” in provisions preceding par. (1) and “15” for “10” in par. (1).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. I, title I, § 1301(b)][/us/pl/114/113/s1301/b], Dec. 18, 2015, [129 Stat. 2671][/us/stat/129/2671], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2016 and each succeeding fiscal year.”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -383,6 +395,8 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 [/us/stat/122/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3548
 [/us/pl/111/350/s5/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fh%2F2
 [/us/stat/124/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3849
+[/us/pl/114/113/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1301%2Fa
+[/us/stat/129/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2671
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401
@@ -394,6 +408,7 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/usc/t26/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1043
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423
 [/us/pl/110/323/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs9%2Fa%2F1
@@ -410,6 +425,8 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 [/us/usc/t5/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401
 [/us/usc/t5/s5401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5401%2Fa
 [/us/pl/98/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F236
+[/us/pl/114/113/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1301%2Fb
+[/us/stat/129/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2671
 [/us/pl/108/271/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs13
 [/us/stat/118/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F816
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89

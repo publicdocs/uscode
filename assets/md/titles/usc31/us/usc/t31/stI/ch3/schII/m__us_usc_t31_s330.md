@@ -33,7 +33,9 @@
 
             (D) competency to advise and assist persons in presenting their cases.
 
-    (b)
+    (b) Any enrolled agents properly licensed to practice as required under rules promulgated under subsection (a) shall be allowed to use the credentials or designation of “enrolled agent”, “EA”, or “E.A.”.
+
+    (c)
 
      After notice and opportunity for a proceeding, the Secretary may suspend or disbar from practice before the Department, or censure, a representative who—
 
@@ -47,7 +49,7 @@
 
         The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.
 
-    (c)
+    (d)
 
      After notice and opportunity for a hearing to any appraiser, the Secretary may—
 
@@ -55,9 +57,9 @@
 
         (2) bar such appraiser from presenting evidence or testimony in any such proceeding.
 
-    (d) Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
+    (e) Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 884][/us/stat/96/884]; [Pub. L. 98–369, div. A, title I, § 156(a)][/us/pl/98/369/s156/a], July 18, 1984, [98 Stat. 695][/us/stat/98/695]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 108–357, title VIII, § 822(a)(1)][/us/pl/108/357/s822/a/1], (b), Oct. 22, 2004, [118 Stat. 1586][/us/stat/118/1586], 1587; [Pub. L. 109–280, title XII, § 1219(d)][/us/pl/109/280/s1219/d], Aug. 17, 2006, [120 Stat. 1085][/us/stat/120/1085].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 884][/us/stat/96/884]; [Pub. L. 98–369, div. A, title I, § 156(a)][/us/pl/98/369/s156/a], July 18, 1984, [98 Stat. 695][/us/stat/98/695]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 108–357, title VIII, § 822(a)(1)][/us/pl/108/357/s822/a/1], (b), Oct. 22, 2004, [118 Stat. 1586][/us/stat/118/1586], 1587; [Pub. L. 109–280, title XII, § 1219(d)][/us/pl/109/280/s1219/d], Aug. 17, 2006, [120 Stat. 1085][/us/stat/120/1085]; [Pub. L. 114–113, div. Q, title IV, § 410][/us/pl/114/113/s410], Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121].)
 
 <table>
 
@@ -125,6 +127,8 @@ July 7, 1884, ch. 334, § 3(proviso and sentence immediately after proviso und
 
  __Amendments__ 
 
+    2015—Subsecs. (b) to (e). [Pub. L. 114–113][/us/pl/114/113] added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
     2006—Subsec. (c). [Pub. L. 109–280][/us/pl/109/280] struck out “with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986” after “any appraiser” in introductory provisions.
 
     2004—Subsec. (b). [Pub. L. 108–357, § 822(a)(1)][/us/pl/108/357/s822/a/1], inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”
@@ -169,7 +173,10 @@ July 7, 1884, ch. 334, § 3(proviso and sentence immediately after proviso und
 [/us/stat/118/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1586
 [/us/pl/109/280/s1219/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fd
 [/us/stat/120/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1085
+[/us/pl/114/113/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs410
+[/us/stat/129/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3121
 [/us/usc/t5/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs500
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs822%2Fa%2F1
 [/us/pl/108/357/s822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs822%2Fb

@@ -345,6 +345,12 @@ June 26, 1934, ch. 756, § 20(less (a)(last sentence last proviso)), 48 Stat. 
 
     Amendment by [Pub. L. 98–426][/us/pl/98/426] effective Sept. 28, 1984, see [section 28(e)(1) of Pub. L. 98–426][/us/pl/98/426/s28/e/1], set out as a note under [section 901 of Title 33][/us/usc/t33/s901], Navigation and Navigable Waters.
 
+ __Investment of National Park Service Trust Funds__ 
+
+[Pub. L. 114–113, div. G, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2533][/us/stat/129/2533], provided in part that: 
+
+> “In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts ([31 U.S.C. 1321(a)][/us/usc/t31/s1321/a](l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: Provided, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project.”
+
  __Trust Funds for Individual Indians__ 
 
     Section 725s of former Title 31 (now this section) was modified by [act June 25, 1936, ch. 814][/us/act/1936-06-25/ch814], [49 Stat. 1928][/us/stat/49/1928], providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
@@ -413,6 +419,9 @@ June 26, 1934, ch. 756, § 20(less (a)(last sentence last proviso)), 48 Stat. 
 [/us/pl/98/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426
 [/us/pl/98/426/s28/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F426%2Fs28%2Fe%2F1
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2533
+[/us/usc/t31/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1321%2Fa
 [/us/act/1936-06-25/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch814
 [/us/stat/49/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1928
 
