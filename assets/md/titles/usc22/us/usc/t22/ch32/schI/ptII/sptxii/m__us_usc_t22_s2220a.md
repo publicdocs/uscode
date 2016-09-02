@@ -161,7 +161,7 @@
 
  __Global Crop Diversity Trust__ 
 
-[Pub. L. 110–246, title III, § 3202][/us/pl/110/246/s3202], June 18, 2008, [122 Stat. 1836][/us/stat/122/1836], provided that:
+[Pub. L. 110–246, title III, § 3202][/us/pl/110/246/s3202], June 18, 2008, [122 Stat. 1836][/us/stat/122/1836], as amended by [Pub. L. 113–79, title III, § 3206][/us/pl/113/79/s3206], Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780], provided that:
 
 >     “(a)  __Contribution__  __.—__ 
 
@@ -185,7 +185,7 @@
 
 >     “(c)  __Authorization of Appropriations__  __.—__ 
 
->     There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2008 through 2012.”
+>     There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2014 through 2018.”
 
  __International Food Reserve__ 
 
@@ -305,6 +305,8 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/110/246/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3202
 [/us/stat/122/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1836
+[/us/pl/113/79/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3206
+[/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
 [/us/pl/95/426/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs604
 [/us/stat/92/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F986
 [/us/pl/95/105/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs510

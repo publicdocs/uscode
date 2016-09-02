@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277g–3.md) | [Next](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_ch7_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277h)
+[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277g–3.md) | [Next](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277h)
 
 ## § 277h. Authority of the International Boundary and Water Commission to assist State and local governments
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277g–3.md) | [Next](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_ch7_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277h)
+[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277g–3.md) | [Next](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277h)
 
 ----------
 ----------

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277h.md) | [Next](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_s278.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschV)
+[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277i.md) | [Next](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_s278.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschV)
 
 ### SUBCHAPTER V—GORGAS MEMORIAL LABORATORY
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277h.md) | [Next](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_s278.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschV)
+[Previous](./../../../../..//us/usc/t22/ch7/schIV/m__us_usc_t22_s277i.md) | [Next](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_s278.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch7%2FschV)
 
 ----------
 ----------

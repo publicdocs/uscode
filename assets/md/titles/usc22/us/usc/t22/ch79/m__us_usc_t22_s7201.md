@@ -31,11 +31,9 @@
 
         (C) any program administered under the Agricultural Trade Act of 1978 ([7 U.S.C. 5601][/us/usc/t7/s5601] et seq.);
 
-        (D) the dairy export incentive program administered under [section 713a–14 of title 15][/us/usc/t15/s713a–14];
+        (D) any commercial export sale of agricultural commodities; or
 
-        (E) any commercial export sale of agricultural commodities; or
-
-        (F) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
+        (E) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
 
     (3) __Joint resolution__ 
 
@@ -69,7 +67,7 @@
 
         (B) a mandatory decision of the United Nations Security Council.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 902\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–67; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(X), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
+([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 902\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–67; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(X), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821; [Pub. L. 113–79, title I, § 1423(b)][/us/pl/113/79/s1423/b], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
  __References in Text__ 
 
@@ -82,6 +80,8 @@
     Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) \[title IX, § 906\] of [Pub. L. 106–387][/us/pl/106/387], which is classified to [section 7205 of this title][/us/usc/t22/s7205]. Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to [section 7204 of this title][/us/usc/t22/s7204].
 
  __Amendments__ 
+
+    2014—Par. (2)(D)–(F). [Pub. L. 113–79][/us/pl/113/79] redesignated subpars. (E) and (F) as (D) and (E), respectively,, and struck out former subpar. (D) which read as follows: “the dairy export incentive program administered under [section 713a–14 of title 15][/us/usc/t15/s713a–14];”.
 
     2008—Par. (2)(A). [Pub. L. 110–246][/us/pl/110/246] substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
@@ -124,7 +124,6 @@
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431
 [/us/usc/t7/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5601
-[/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314
 [/us/usc/t22/s7202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202%2Fa%2F1
 [/us/usc/t22/s7202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202%2Fa%2F1
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
@@ -133,6 +132,8 @@
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
+[/us/pl/113/79/s1423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1423%2Fb
+[/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
@@ -146,6 +147,8 @@
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/usc/t22/s7205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7205
 [/us/usc/t22/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7204
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
