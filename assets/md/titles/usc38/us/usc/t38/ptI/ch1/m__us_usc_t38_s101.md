@@ -437,6 +437,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–19, § 1][/us/pl/114/19/s1], May 22, 2015, [129 Stat. 215][/us/stat/129/215], provided that: 
+
+> “This Act \[enacting and amending provisions set out as notes under section 1701 of this section\] may be cited as the ‘Construction Authorization and Choice Improvement Act’.”
+
 [Pub. L. 114–2, § 1][/us/pl/114/2/s1], Feb. 12, 2015, [129 Stat. 30][/us/stat/129/30], provided that: 
 
 > “This Act \[enacting [section 1709B of this title][/us/usc/t38/s1709B], amending [section 1710 of this title][/us/usc/t38/s1710], and enacting provisions set out as notes under sections 1712A, 1720F, and 7681 of this title\] may be cited as the ‘Clay Hunt Suicide Prevention for American Veterans Act’ or the ‘Clay Hunt SAV Act’.”
@@ -1556,6 +1560,8 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/114/19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19%2Fs1
+[/us/stat/129/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F215
 [/us/pl/114/2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs1
 [/us/stat/129/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F30
 [/us/usc/t38/s1709B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709B

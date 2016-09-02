@@ -283,7 +283,7 @@
 
  __Veterans Access, Choice and Accountability in Health Care__ 
 
-[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907; [Pub. L. 113–235, div. I, title II, § 242][/us/pl/113/235/s242], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568], provided that:
+[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907; [Pub. L. 113–235, div. I, title II, § 242][/us/pl/113/235/s242], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568]; [Pub. L. 114–19, § 3(a)][/us/pl/114/19/s3/a], May 22, 2015, [129 Stat. 215][/us/stat/129/215], provided that:
 
 > “SEC. 2. __DEFINITIONS.__ 
 
@@ -339,7 +339,7 @@
 
 >             “(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services;
 
->             “(B) resides more than 40 miles from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
+>             “(B) resides more than 40 miles (as calculated based on distance traveled) from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
 
 >             “(C)
 
@@ -365,7 +365,17 @@
 
 >                     (I) is required to travel by air, boat, or ferry to reach each medical facility described in clause (i) that is 40 miles or less from the residence of the veteran; or
 
->                     “(II) faces an unusual or excessive burden in accessing each medical facility described in clause (i) that is 40 miles or less from the residence of the veteran due to geographical challenges, as determined by the Secretary.
+>                     “(II)
+
+>                      faces an unusual or excessive burden in traveling to such a medical facility of the Department based on—
+
+>                         “(aa) geographical challenges;
+
+>                         “(bb) environmental factors, such as roads that are not accessible to the general public, traffic, or hazardous weather;
+
+>                         “(cc) a medical condition that impacts the ability to travel; or
+
+>                         “(dd) other factors, as determined by the Secretary.
 
 >     “(c) __Election and Authorization.—__ 
 
@@ -968,6 +978,8 @@
 [/us/stat/128/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1906
 [/us/pl/113/235/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs242
 [/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
+[/us/pl/114/19/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19%2Fs3%2Fa
+[/us/stat/129/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F215
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395

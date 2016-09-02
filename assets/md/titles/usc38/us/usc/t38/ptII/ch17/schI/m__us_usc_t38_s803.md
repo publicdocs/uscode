@@ -25,6 +25,12 @@
 
 >     In the Senate, this Act is designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.”
 
+\[[Pub. L. 114–19, § 3(b)][/us/pl/114/19/s3/b], May 22, 2015, [129 Stat. 216][/us/stat/129/216], provided that: 
+
+> “The amendments made by subsection (a) \[amending [section 101(b)(2) of Pub. L. 113–146][/us/pl/113/146/s101/b/2], set out above\] shall take effect on the date of the enactment of this Act \[May 22, 2015\] and apply with respect to care or services provided on or after such date.”
+
+\]
+
  __Location of Services__ 
 
 [Pub. L. 110–387, title III, § 301(b)][/us/pl/110/387/s301/b], Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120], provided that: 
@@ -67,6 +73,9 @@
 ----------
 
 [/us/usc/t2/s933/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs933%2Fg
+[/us/pl/114/19/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19%2Fs3%2Fb
+[/us/stat/129/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F216
+[/us/pl/113/146/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs101%2Fb%2F2
 [/us/pl/110/387/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs301%2Fb
 [/us/stat/122/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4120
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
