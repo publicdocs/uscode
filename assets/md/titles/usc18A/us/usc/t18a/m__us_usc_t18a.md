@@ -15,7 +15,7 @@
 
 # Title 18—APPENDIXUNLAWFUL POSSESSION OR RECEIPT OF FIREARMS
 
-Current through 114-38
+Current through 114-49
 
 <table>
 

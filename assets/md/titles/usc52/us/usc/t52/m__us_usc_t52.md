@@ -15,7 +15,7 @@
 
 # Title 52—VOTING AND ELECTIONS
 
-Current through 114-38
+Current through 114-49
 
 <table>
 
