@@ -1,0 +1,63 @@
+---
+---
+
+# 2 U.S.C., USLM ref /us/usc/t2/s1905
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1904.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1905a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1905)
+
+## § 1905. Deposit and use of reimbursements for law enforcement assistance
+
+    (a)
+
+        (1) Any funds received by the Capitol Police as reimbursement for law enforcement assistance from any Federal, State, or local government agency (including any agency of the District of Columbia) shall be deposited in the United States Treasury for credit to the appropriation for “general expenses” under the heading “United States Capitol Police”, or “security enhancements” under the heading “United States Capitol Police”.
+
+        (2) Funds deposited under this subsection may be expended by the Chief of the United States Capitol Police for any authorized purpose, including overtime pay expenditures relating to law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia), and shall remain available until expended.
+
+    (b) This section shall take effect on July 24, 2001, and shall apply to fiscal year 2001 and each fiscal year thereafter.
+
+([Pub. L. 107–20, title II, § 2802][/us/pl/107/20/s2802], July 24, 2001, [115 Stat. 184][/us/stat/115/184]; [Pub. L. 111–145, § 2(b)(1)][/us/pl/111/145/s2/b/1], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
+
+ __Codification__ 
+
+    Section was classified to section 207e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+
+ __Amendments__ 
+
+    2010—Subsec. (a)(1). [Pub. L. 111–145, § 2(b)(1)(A)][/us/pl/111/145/s2/b/1/A], substituted “United States Capitol Police” for “Capitol Police Board” in two places.
+
+    Subsec. (a)(2). [Pub. L. 111–145, § 2(b)(1)(B)][/us/pl/111/145/s2/b/1/B], substituted “Chief of the United States Capitol Police” for “Capitol Police Board”.
+
+ __Effective Date of 2010 Amendment__ 
+
+[Pub. L. 111–145, § 2(b)(2)][/us/pl/111/145/s2/b/2], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51], provided that: 
+
+> “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of the Supplemental Appropriations Act, 2001 \[[Pub. L. 107–20][/us/pl/107/20]\].”
+
+----------
+
+[Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1904.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1905a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1905)
+
+----------
+----------
+
+[/us/pl/107/20/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2802
+[/us/stat/115/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F184
+[/us/pl/111/145/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F1
+[/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
+[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
+[/us/pl/111/145/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F1%2FA
+[/us/pl/111/145/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F1%2FB
+[/us/pl/111/145/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fb%2F2
+[/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
+[/us/pl/107/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20
+
+
