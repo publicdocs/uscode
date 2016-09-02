@@ -53,7 +53,7 @@
 
     The Violence Against Women Act of 2000, referred to in subsec. (a), is div. B of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1491][/us/stat/114/1491], as amended. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 13701 of this title][/us/usc/t42/s13701] and Tables.
 
-    The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (a), is [Pub. L. 113–4][/us/pl/113/4], Mar. 7, 2013, [127 Stat. 54][/us/stat/127/54]. For complete classification of this Act to the Code, see Tables.
+    The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (a), is [Pub. L. 113–4][/us/pl/113/4], Mar. 7, 2013, [127 Stat. 54][/us/stat/127/54]. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 13701 of this title][/us/usc/t42/s13701] and Tables.
 
  __Codification__ 
 
@@ -95,6 +95,7 @@
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F54
+[/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/pl/113/4/s903/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F1
 [/us/pl/113/4/s903/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F2%2FA
 [/us/pl/113/4/s903/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs903%2F2%2FB

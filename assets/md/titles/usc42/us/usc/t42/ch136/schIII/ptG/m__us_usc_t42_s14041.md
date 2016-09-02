@@ -117,7 +117,7 @@
 
     Sections 14041a and 14041b were omitted in the general amendment of this part by [Pub. L. 113–4, title II, § 204(a)][/us/pl/113/4/s204/a], Mar. 7, 2013, [127 Stat. 82][/us/stat/127/82].
 
-    Section 14041a, [Pub. L. 103–322, title IV, § 40802][/us/pl/103/322/s40802], as added [Pub. L. 106–386, div. B, title II, § 1209(a)][/us/pl/106/386/s1209/a], Oct. 28, 2000, [114 Stat. 1509][/us/stat/114/1509]; amended [Pub. L. 109–162, title II, § 205(a)][/us/pl/109/162/s205/a], Jan. 5, 2006, [119 Stat. 3002][/us/stat/119/3002], related to Enhanced training and services to end violence against and abuse of women later in life.
+    Section 14041a, [Pub. L. 103–322, title IV, § 40802][/us/pl/103/322/s40802], as added [Pub. L. 106–386, div. B, title II, § 1209(a)][/us/pl/106/386/s1209/a], Oct. 28, 2000, [114 Stat. 1509][/us/stat/114/1509]; amended [Pub. L. 109–162, title II, § 205(a)][/us/pl/109/162/s205/a], Jan. 5, 2006, [119 Stat. 3002][/us/stat/119/3002], related to enhanced training and services to end violence against and abuse of women later in life.
 
     Section 14041b, [Pub. L. 103–322, title IV, § 40803][/us/pl/103/322/s40803], as added [Pub. L. 106–386, div. B, title II, § 1209(a)][/us/pl/106/386/s1209/a], Oct. 28, 2000, [114 Stat. 1509][/us/stat/114/1509]; amended [Pub. L. 109–162, title II, § 205(b)][/us/pl/109/162/s205/b], Jan. 5, 2006, [119 Stat. 3002][/us/stat/119/3002], authorized appropriations for fiscal years 2007 through 2011.
 

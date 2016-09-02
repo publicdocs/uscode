@@ -391,7 +391,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(6). [Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.”
+    2013—Subsec. (a)(6). [Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.” See Termination Date of 2013 Amendment note below.
 
     [Pub. L. 112–253][/us/pl/112/253] added par. (6).
 
@@ -403,7 +403,7 @@
 
     Subsec. (c)(4). [Pub. L. 113–4, § 1002(2)][/us/pl/113/4/s1002/2], added par. (4).
 
-    Subsec. (n).[Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs.
+    Subsec. (n).[Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
 
     [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsecs. (n).
 

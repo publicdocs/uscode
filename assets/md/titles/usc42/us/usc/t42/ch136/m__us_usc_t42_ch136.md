@@ -1499,7 +1499,7 @@ Part P—Miscellaneous Authorities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14045a" data-uslm-ref="/us/usc/t42/s14045a">14045a.</a>  </td>
 
-    <td> Enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking.  </td>
+    <td> Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking.  </td>
 
   </tr>
 

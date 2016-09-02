@@ -153,7 +153,7 @@
 
                     (II)  __Applicability of part__  __.—__ 
 
-  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
+  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “section.—”. </sup></sup>  The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
 
                 (ii) Priority shall be given to projects developed under subsection (b) of this section that primarily serve underserved populations.
 

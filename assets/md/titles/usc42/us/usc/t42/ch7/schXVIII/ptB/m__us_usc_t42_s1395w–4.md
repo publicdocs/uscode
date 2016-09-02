@@ -3291,7 +3291,7 @@
 
 > “The Secretary of Health and Human Services shall make publicly available the information used to establish the multiple procedure payment reduction policy to the professional component of imaging services in the final rule published in the Federal Register, v. 77, n. 222, November 16, 2012, pages 68891–69380 under the physician fee schedule under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]).”
 
- __Centers for Medicare & Medicaid Services to Study Reform of Physician Reimbursements__ 
+ __Centers for Medicare & Medicaid Services To Study Reform of Physician Reimbursements__ 
 
 [Pub. L. 113–67, div. B, § 1002][/us/pl/113/67/s1002], Dec. 26, 2013, [127 Stat. 1195][/us/stat/127/1195], provided that: 
 

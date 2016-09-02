@@ -535,6 +535,8 @@ Sec. 6. Coordination of Federal Oversight for BSAT Security. To ensure that the 
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t42/ch6A/schII/ptF/spt1/m__us_usc_t42_s262.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schII/ptF/spt1/m__us_usc_t42_s263.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a)
@@ -607,5 +609,6 @@ Sec. 6. Coordination of Federal Oversight for BSAT Security. To ensure that the 
 [/us/usc/t42/s262a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fi
 [/us/usc/t42/s262a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fa%2F1
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 
 

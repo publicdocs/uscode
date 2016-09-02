@@ -2685,7 +2685,7 @@
 
 >     “(b)
 
->         (1) In the case of any State whose plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] is approved by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under section 1902 \[[42 U.S.C. 1396a][/us/usc/t42/s1396a]\] after July 25, 1967, the amendment made by subsection (a) \[amending this section\] shall apply with respect to calendar quarters beginning after the date of enactment of this Act \[Jan. 2, 1968\].
+>         (1) In the case of any State whose plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] is approved by the Secretary of Health, Education, and Welfare under section 1902 \[[42 U.S.C. 1396a][/us/usc/t42/s1396a]\] after July 25, 1967, the amendment made by subsection (a) \[amending this section\] shall apply with respect to calendar quarters beginning after the date of enactment of this Act \[Jan. 2, 1968\].
 
 >         “(2)
 

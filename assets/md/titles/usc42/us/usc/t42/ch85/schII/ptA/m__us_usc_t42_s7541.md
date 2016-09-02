@@ -411,11 +411,9 @@
 
     (h) __Dealer certification__ 
 
-        (1) Upon the sale of each new light-duty motor vehicle by a dealer, the dealer shall furnish to the purchaser a certificate that such motor vehicle conforms to the applicable regulations under [section 7521 of this title][/us/usc/t42/s7521], including notice of the purchaser’s rights under paragraph (2).
+        (1) If at any time during the period for which the warranty applies under subsection (b) of this section, a motor vehicle fails to conform to the applicable regulations under [section 7521 of this title][/us/usc/t42/s7521] as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2) of this section (without regard to subparagraph (C) thereof).
 
-        (2) If at any time during the period for which the warranty applies under subsection (b) of this section, a motor vehicle fails to conform to the applicable regulations under [section 7521 of this title][/us/usc/t42/s7521] as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2) of this section (without regard to subparagraph (C) thereof).
-
-        (3) Nothing in [section 7543(a) of this title][/us/usc/t42/s7543/a] shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
+        (2) Nothing in [section 7543(a) of this title][/us/usc/t42/s7543/a] shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
 
     (i) __Warranty period__ 
 
@@ -437,7 +435,7 @@
 
             Subparagraph (A) of subsection (b)(2) of this section shall apply only where the Administrator has made a determination that the instructions concerned conform to the requirements of subsection (c)(3) of this section.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 207, as added [Pub. L. 91–604, § 8(a)][/us/pl/91/604/s8/a], Dec. 31, 1970, [84 Stat. 1696][/us/stat/84/1696]; amended [Pub. L. 95–95, title II][/us/pl/95/95], §§ 205, 208–210, 212, Aug. 7, 1977, [91 Stat. 754–756][/us/stat/91/754-756], 758; [Pub. L. 95–190, § 14(a)(70)][/us/pl/95/190/s14/a/70]–(72), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title II][/us/pl/101/549], §§ 209, 210, 230(9), Nov. 15, 1990, [104 Stat. 2484][/us/stat/104/2484], 2485, 2529.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 207, as added [Pub. L. 91–604, § 8(a)][/us/pl/91/604/s8/a], Dec. 31, 1970, [84 Stat. 1696][/us/stat/84/1696]; amended [Pub. L. 95–95, title II][/us/pl/95/95], §§ 205, 208–210, 212, Aug. 7, 1977, [91 Stat. 754–756][/us/stat/91/754-756], 758; [Pub. L. 95–190, § 14(a)(70)][/us/pl/95/190/s14/a/70]–(72), Nov. 16, 1977, [91 Stat. 1403][/us/stat/91/1403]; [Pub. L. 101–549, title II][/us/pl/101/549], §§ 209, 210, 230(9), Nov. 15, 1990, [104 Stat. 2484][/us/stat/104/2484], 2485, 2529; [Pub. L. 113–109, § 1][/us/pl/113/109/s1], June 9, 2014, [128 Stat. 1170][/us/stat/128/1170].)
 
  __Codification__ 
 
@@ -448,6 +446,8 @@
     A prior section 207 of act July 14, 1955, was renumbered section 208 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7542 of this title][/us/usc/t42/s7542].
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–109][/us/pl/113/109] redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Upon the sale of each new light-duty motor vehicle by a dealer, the dealer shall furnish to the purchaser a certificate that such motor vehicle conforms to the applicable regulations under [section 7521 of this title][/us/usc/t42/s7521], including notice of the purchaser’s rights under paragraph (2).”
 
     1990—Subsec. (a)(1). [Pub. L. 101–549, § 209(4)][/us/pl/101/549/s209/4], inserted at end “In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.”
 
@@ -517,7 +517,6 @@
 [/us/usc/t42/s7521/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fh
 [/us/usc/t42/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7611
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
-[/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/usc/t42/s7543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543%2Fa
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/pl/91/604/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs8%2Fa
@@ -528,9 +527,13 @@
 [/us/stat/91/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1403
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/stat/104/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2484
+[/us/pl/113/109/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F109%2Fs1
+[/us/stat/128/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1170
 [/us/usc/t42/s1857f–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%935a
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7542
+[/us/pl/113/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F109
+[/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
 [/us/pl/101/549/s209/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs209%2F4
 [/us/pl/101/549/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs209%2F1
 [/us/usc/t42/s7521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fd

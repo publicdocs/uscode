@@ -423,7 +423,7 @@
 
             (C) __Discrimination__ 
 
-                The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under [section 3789d of this title][/us/usc/t42/s3789d].
+                The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under [section 3789d of this title][/us/usc/t42/s3789d].1
 
             (D) __Construction__ 
 
@@ -613,7 +613,7 @@
 
     Subsec. (a)(24). [Pub. L. 113–4, § 3(a)(2)(E)][/us/pl/113/4/s3/a/2/E], redesignated par. (20) as (24). Former par. (24) redesignated (30).
 
-    Subsec. (a)(25). [Pub. L. 113–4, § 3(a)(13)][/us/pl/113/4/s3/a/13], added par. (25).
+    Subsec. (a)(25). [Pub. L. 113–4, § 3(a)(13)][/us/pl/113/4/s3/a/13], added par. (25). Former par. (25) redesignated (31).
 
     Subsec. (a)(26). [Pub. L. 113–4, § 3(a)(2)(D)][/us/pl/113/4/s3/a/2/D], redesignated par. (21) as (26). Former par. (26) redesignated (32).
 

@@ -155,7 +155,7 @@
 
 >     “(d)  __Redeterminations in Certain Cases__  __.—__ 
 
->     If, in hearing under subsection (c), the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to individuals entitled to benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if permitted to continue or resume furnishing such services, the Secretary shall not effect the exclusion (or shall suspend the exclusion, if previously effected) under paragraph (2) of section 1156(b) of such Act \[[42 U.S.C. 1320c–5(b)(2)][/us/usc/t42/s1320c–5/b/2]\] until the provider or practitioner has been provided an administrative hearing thereon under paragraph (4) of such section, notwithstanding any failure by the provider or practitioner to request the hearing on a timely basis.”
+>     If, in hearing under subsection (c), the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to individuals entitled to benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if permitted to continue or resume furnishing such services, the Secretary shall not effect the exclusion (or shall suspend the exclusion, if previously effected) under paragraph (2) of section 1156(b) of such Act \[[42 U.S.C. 1320c–5(b)][/us/usc/t42/s1320c–5/b]\] until the provider or practitioner has been provided an administrative hearing thereon under paragraph (4) of such section, notwithstanding any failure by the provider or practitioner to request the hearing on a timely basis.”
 
 ----------
 
@@ -255,6 +255,6 @@
 [/us/stat/101/1330-138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-138
 [/us/usc/t42/s1320c–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/usc/t42/s1320c–5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb%2F2
+[/us/usc/t42/s1320c–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320c%E2%80%935%2Fb
 
 
