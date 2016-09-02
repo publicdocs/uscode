@@ -69,7 +69,7 @@
 
  __Pilot Program for the Temporary Assignment of Information Technology Personnel to Private Sector Organizations__ 
 
-[Pub. L. 111–84, div. A, title XI, § 1110][/us/pl/111/84/s1110], Oct. 28, 2009, [123 Stat. 2493][/us/stat/123/2493], provided that:
+[Pub. L. 111–84, div. A, title XI, § 1110][/us/pl/111/84/s1110], Oct. 28, 2009, [123 Stat. 2493][/us/stat/123/2493], as amended by [Pub. L. 113–66, div. A, title XI, § 1106][/us/pl/113/66/s1106], Dec. 26, 2013, [127 Stat. 887][/us/stat/127/887], provided that:
 
 >     “(a)  __Assignment Authority__  __.—__ 
 
@@ -105,7 +105,7 @@
 
 >     “(d)  __Duration__  __.—__ 
 
->     An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2013.
+>     An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2018.
 
 >     “(e)  __Terms and Conditions for Private Sector Employees__  __.—__ 
 
@@ -151,7 +151,7 @@
 
 >     “(i)  __Reporting Requirement__  __.—__ 
 
->     For each of fiscal years 2010 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than 1 month after the end of the fiscal year involved, a report on any activities carried out under this section during such fiscal year, including information concerning—
+>     For each of fiscal years 2010 through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than 1 month after the end of the fiscal year involved, a report on any activities carried out under this section during such fiscal year, including information concerning—
 
 >         “(1) the respective organizations (as referred to in subsection (a)) to and from which any employee was assigned under this section;
 
@@ -198,6 +198,8 @@
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/111/84/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1110
 [/us/stat/123/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2493
+[/us/pl/113/66/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1106
+[/us/stat/127/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F887
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671

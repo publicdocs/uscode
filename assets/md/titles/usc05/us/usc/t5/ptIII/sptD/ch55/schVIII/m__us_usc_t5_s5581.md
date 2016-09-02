@@ -33,7 +33,7 @@
 
         (iii) a regional bank for cooperatives; or
 
-        (iv) the Senate within the purview of [section 36a of title 2][/us/usc/t2/s36a]; and
+        (iv) the Senate within the purview of [section 36a of title 2][/us/usc/t2/s36a];  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
     (2)
 
@@ -193,13 +193,15 @@ Aug. 3, 1950, ch. 518, § 4, 64 Stat. 396.  </td>
 
     The exception for production credit corporations in [section 7 of the Act of Aug. 3, 1950][/us/act/1950-08-03/s7], is omitted as they were merged in the Federal intermediate credit banks by the Farm Credit Act of 1956, [70 Stat. 659][/us/stat/70/659].
 
-    The exception in paragraph (1)(iv) for employees of the Senate is added on authority of the [Act of Jan. 6, 1951, ch. 1213][/us/act/1951-01-06/ch1213], [64 Stat. 1124][/us/stat/64/1124]; [2 U.S.C. 36a][/us/usc/t2/s36a].
+    The exception in paragraph (1)(iv) for employees of the Senate is added on authority of the [Act of Jan. 6, 1951, ch. 1213][/us/act/1951-01-06/ch1213], [64 Stat. 1124][/us/stat/64/1124]; [2 U.S.C. 36a][/us/usc/t2/s36a] \[now [2 U.S.C. 4592][/us/usc/t2/s4592]\].
 
     In paragraph (2), the definition of “money due” is substituted for “unpaid compensation”. Paragraph (2)(I) is added on authority of former section 1182(a)(2), which is carried into section 5344.
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
  __References in Text__ 
+
+    [Section 36a of title 2][/us/usc/t2/s36a], referred to in par. (1)(iv), was editorially reclassified as [section 4592 of Title 2][/us/usc/t2/s4592], The Congress.
 
     [Section 5344 of this title][/us/usc/t5/s5344], referred to in par. (2)(I), was amended generally by [Pub. L. 92–392][/us/pl/92/392] and provisions relating to retroactive pay formerly contained in section 5344(a)(2) are contained in section 5344(b)(2).
 
@@ -229,6 +231,9 @@ Aug. 3, 1950, ch. 518, § 4, 64 Stat. 396.  </td>
 [/us/act/1951-01-06/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-06%2Fch1213
 [/us/stat/64/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1124
 [/us/usc/t2/s36a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs36a
+[/us/usc/t2/s4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4592
+[/us/usc/t2/s36a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs36a
+[/us/usc/t2/s4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4592
 [/us/usc/t5/s5344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5344
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54

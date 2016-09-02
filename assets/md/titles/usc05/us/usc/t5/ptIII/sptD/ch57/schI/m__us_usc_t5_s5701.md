@@ -169,7 +169,7 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
 [Pub. L. 94–22, § 1][/us/pl/94/22/s1], May 19, 1975, [89 Stat. 84][/us/stat/89/84], provided: 
 
-> “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and [section 68b of Title 2][/us/usc/t2/s68b], The Congress, and enacting provisions set out as a note under [section 5707 of this title][/us/usc/t5/s5707]\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+> “That this Act \[see Tables for classification\] may be cited as the “Travel Expense Amendments Act of 1975’.”
 
  __Construction__ 
 
@@ -435,8 +435,6 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t41/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs420
 [/us/pl/94/22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs1
 [/us/stat/89/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F84
-[/us/usc/t2/s68b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68b
-[/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/pl/112/194/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs6
 [/us/stat/126/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1451
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101

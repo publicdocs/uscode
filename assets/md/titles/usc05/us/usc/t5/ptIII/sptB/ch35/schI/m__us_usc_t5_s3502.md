@@ -123,9 +123,9 @@
 
         (4) The regulations prescribed under this section shall incorporate the authority provided in this subsection.
 
-        (5) No authority under paragraph (1) may be exercised after September 30, 2014.
+        (5) No authority under paragraph (1) may be exercised after September 30, 2018.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 428][/us/stat/80/428]; [Pub. L. 90–367, § 3][/us/pl/90/367/s3], June 29, 1968, [82 Stat. 278][/us/stat/82/278]; [Pub. L. 90–623, § 1(23)][/us/pl/90/623/s1/23], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 95–454, title III, § 307(e)][/us/pl/95/454/s307/e], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1224; [Pub. L. 99–251, title III, § 306(a)][/us/pl/99/251/s306/a], Feb. 27, 1986, [100 Stat. 27][/us/stat/100/27]; [Pub. L. 101–508, title VII, § 7202(c)][/us/pl/101/508/s7202/c], Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 102–484, div. D, title XLIV, § 4433(a)(1)][/us/pl/102/484/s4433/a/1], Oct. 23, 1992, [106 Stat. 2721][/us/stat/106/2721]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106], §§ 1034, 1043(d)(1), Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430], 438; [Pub. L. 104–201, div. A, title XVI, § 1609][/us/pl/104/201/s1609], Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(1), (f)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–429; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1103\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–311; [Pub. L. 109–163, div. A, title XI, § 1102][/us/pl/109/163/s1102], Jan. 6, 2006, [119 Stat. 3447][/us/stat/119/3447]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1105, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 428][/us/stat/80/428]; [Pub. L. 90–367, § 3][/us/pl/90/367/s3], June 29, 1968, [82 Stat. 278][/us/stat/82/278]; [Pub. L. 90–623, § 1(23)][/us/pl/90/623/s1/23], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 95–454, title III, § 307(e)][/us/pl/95/454/s307/e], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1224; [Pub. L. 99–251, title III, § 306(a)][/us/pl/99/251/s306/a], Feb. 27, 1986, [100 Stat. 27][/us/stat/100/27]; [Pub. L. 101–508, title VII, § 7202(c)][/us/pl/101/508/s7202/c], Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 102–484, div. D, title XLIV, § 4433(a)(1)][/us/pl/102/484/s4433/a/1], Oct. 23, 1992, [106 Stat. 2721][/us/stat/106/2721]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106], §§ 1034, 1043(d)(1), Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430], 438; [Pub. L. 104–201, div. A, title XVI, § 1609][/us/pl/104/201/s1609], Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(1), (f)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–429; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1103\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–311; [Pub. L. 109–163, div. A, title XI, § 1102][/us/pl/109/163/s1102], Jan. 6, 2006, [119 Stat. 3447][/us/stat/119/3447]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1105, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 113–66, div. A, title XI, § 1103][/us/pl/113/66/s1103], Dec. 26, 2013, [127 Stat. 885][/us/stat/127/885].)
 
 <table>
 
@@ -206,6 +206,8 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
     The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to [section 2864(a)(2)(A) of Title 29][/us/usc/t29/s2864/a/2/A]. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (f)(5). [Pub. L. 113–66][/us/pl/113/66] substituted “September 30, 2018” for “September 30, 2014”.
 
     2008—Subsec. (f)(5). [Pub. L. 110–417][/us/pl/110/417] substituted “September 30, 2014” for “September 30, 2010”.
 
@@ -436,12 +438,15 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 [/us/stat/119/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3447
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
+[/us/pl/113/66/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1103
+[/us/stat/127/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F885
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610%2Fb
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t29/s2864/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fa%2F2%2FA
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

@@ -227,7 +227,7 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 
 >     “(b)  __Exceptions__  __.—__ 
 
->         (1) The amendment made by section 4(c) \[amending provisions set out as a note under [section 31–2 of Title 2][/us/usc/t2/s31–2], The Congress\] shall be effective as of December 31, 1991.
+>         (1) The amendment made by section 4(c) \[amending provisions set out as a note under [section 4725 of Title 2][/us/usc/t2/s4725], The Congress\] shall be effective as of December 31, 1991.
 
 >         “(2) The amendments made by section 5(d) \[amending [section 8440d of this title][/us/usc/t5/s8440d]\] shall be effective as of December 9, 1991.
 
@@ -300,7 +300,7 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 [/us/stat/118/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2312
 [/us/pl/102/378/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs9
 [/us/stat/106/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1360
-[/us/usc/t2/s31–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%932
+[/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/usc/t5/s8440d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440d
 [/us/usc/t5/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4109
 [/us/usc/t5/s3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3342

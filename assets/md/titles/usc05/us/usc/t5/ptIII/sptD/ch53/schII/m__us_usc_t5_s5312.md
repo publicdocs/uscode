@@ -197,7 +197,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
 [Pub. L. 94–82, title II, § 201][/us/pl/94/82/s201], Aug. 9, 1975, [89 Stat. 419][/us/stat/89/419], provided that: 
 
-> “This title \[enacting [section 5318 of this title][/us/usc/t5/s5318] and [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, [section 104 of Title 3][/us/usc/t3/s104], The President, [section 68 of Title 11][/us/usc/t11/s68], Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and [section 303 of Title 44][/us/usc/t44/s303], Public Printing and Documents, and enacting provisions set out as a note under [section 356 of Title 2][/us/usc/t2/s356]\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+> “This title \[see Tables for classification\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
  __Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on__  __January 1, 2005__ 
 
@@ -380,12 +380,6 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/94/82/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs201
 [/us/stat/89/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F419
-[/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
-[/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
-[/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/usc/t11/s68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs68
-[/us/usc/t44/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs303
-[/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
 [/us/pl/111/1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F1%2Fs1
 [/us/stat/123/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284

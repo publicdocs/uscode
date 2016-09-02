@@ -397,11 +397,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >     Notwithstanding any other provision of law (including any provision of this Act or amendment made by this Act), effective as provided in paragraph (2), the rate of pay of each office and position of United States Senator, the President pro tempore of the Senate, and the majority and minority leaders of the Senate shall be increased by—
 
->         “(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[[Pub. L. 100–202][/us/pl/100/202]\]; ([101 Stat. 1329–434][/us/stat/101/1329-434]; [5 U.S.C. 5305][/us/usc/t5/s5305] note \[set out below\]);
+>         “(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) \[now [2 U.S.C. 4501(2)][/us/usc/t2/s4501/2]\] were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[[Pub. L. 100–202][/us/pl/100/202]\]; ([101 Stat. 1329–434][/us/stat/101/1329-434]; [5 U.S.C. 5305][/us/usc/t5/s5305] note \[set out below\]);
 
->         “(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 ([Public Law 100–440][/us/pl/100/440]; [102 Stat. 1756][/us/stat/102/1756]; [5 U.S.C. 5305][/us/usc/t5/s5305] note \[set out below\]); and
+>         “(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) \[now [2 U.S.C. 4501(2)][/us/usc/t2/s4501/2]\] were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 ([Public Law 100–440][/us/pl/100/440]; [102 Stat. 1756][/us/stat/102/1756]; [5 U.S.C. 5305][/us/usc/t5/s5305] note \[set out below\]); and
 
->         “(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 ([Public Law 101–136][/us/pl/101/136]) \[set out below\].
+>         “(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) \[now [2 U.S.C. 4501(2)][/us/usc/t2/s4501/2]\] (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 ([Public Law 101–136][/us/pl/101/136]) \[set out below\].
 
 >     “(2) The increase in the rates of pay for each office and position described under paragraph (1) shall be effective on the first day of the first pay period beginning on or after January 1, 1990.”
 
@@ -787,14 +787,17 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 [/us/pl/101/194/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs1101%2Fa
 [/us/stat/103/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1781
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
+[/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-434
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
+[/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
 [/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
 [/us/stat/102/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1756
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
+[/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
 [/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
 [/us/pl/101/136/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2Fs619
 [/us/stat/103/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F820

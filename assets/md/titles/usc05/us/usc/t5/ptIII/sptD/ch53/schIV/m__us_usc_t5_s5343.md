@@ -371,7 +371,7 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 92–298][/us/pl/92/298], §§ 1, 2, May 17, 1972, [86 Stat. 146][/us/stat/86/146], provided: 
 
-> “That this Act \[enacting this note and amending sections 60a–1 and 60a–2 of Title 2, The Congress\] may be cited as the ‘Prevailing Rate Equalization Adjustment Act of 1972’.
+> “That this Act \[enacting this note and amending sections 4531 and 4571 of Title 2, The Congress\] may be cited as the ‘Prevailing Rate Equalization Adjustment Act of 1972’.
 
 > “Sec. 2.
 
