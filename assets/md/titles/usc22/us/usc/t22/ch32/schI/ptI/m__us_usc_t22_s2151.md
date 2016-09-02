@@ -91,6 +91,12 @@
 
 > “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–289, § 1][/us/pl/113/289/s1], Dec. 19, 2014, [128 Stat. 3283][/us/stat/128/3283], provided that: 
+
+> “This Act \[amending [section 2152h of this title][/us/usc/t22/s2152h] and provisions set out as a note under [section 2152h of this title][/us/usc/t22/s2152h]\] may be cited as the ‘Senator Paul Simon Water for the World Act of 2014’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–166, § 1][/us/pl/111/166/s1], May 17, 2010, [124 Stat. 1186][/us/stat/124/1186], provided that: 
@@ -3046,6 +3052,10 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2385a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385a
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
+[/us/pl/113/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs1
+[/us/stat/128/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283
+[/us/usc/t22/s2152h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h
+[/us/usc/t22/s2152h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h
 [/us/pl/111/166/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166%2Fs1
 [/us/stat/124/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1186
 [/us/pl/110/457/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs401

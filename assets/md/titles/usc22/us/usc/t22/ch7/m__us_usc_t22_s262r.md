@@ -69,7 +69,7 @@
 
         (2) __International financial institutions__ 
 
-            The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  Bank for Economic Cooperation and Development in the Middle East and North Africa,, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  and Inter-American Investment Corporation.
+            The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  Bank for Economic Cooperation and Development in the Middle East and North Africa,, <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  and Inter-American Investment Corporation.
 
         (3) __Multilateral development institutions__ 
 

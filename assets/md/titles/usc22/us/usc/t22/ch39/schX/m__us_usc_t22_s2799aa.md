@@ -27,7 +27,7 @@
 
         (1)
 
-         Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that—
+         Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate that—
 
             (A) the termination of such assistance would have a serious adverse effect on vital United States interests; and
 
@@ -41,7 +41,7 @@
 
             (B) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 101, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 515][/us/stat/108/515].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 101, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 515][/us/stat/108/515]; amended [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -56,6 +56,10 @@
 [Pub. L. 103–236, title VIII, § 826(c)][/us/pl/103/236/s826/c], Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519], provided that: 
 
 > “Any reference in law as of the date of enactment of this Act \[Apr. 30, 1994\] to section 669 or 670 of the Foreign Assistance Act of 1961 \[former [22 U.S.C. 2429][/us/usc/t22/s2429], 2429a\] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act \[[22 U.S.C. 2799aa][/us/usc/t22/s2799aa], 2799aa–1\].”
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–276][/us/pl/113/276] substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and” in introductory provisions.
 
  __Effective Date__ 
 
@@ -80,6 +84,8 @@
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/103/236/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fa
 [/us/stat/108/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F515
+[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
@@ -92,6 +98,7 @@
 [/us/stat/108/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F519
 [/us/usc/t22/s2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429
 [/us/usc/t22/s2799aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931

@@ -61,7 +61,7 @@
 
     (f) __Transmission of numbered certification to Congress respecting proposed agreement; contents__ 
 
-    Not less than 30 days before a cooperative project agreement is signed on behalf of the United States, the President shall transmit to the Speaker of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate, a numbered certification with respect to such proposed agreement, setting forth—
+    Not less than 30 days before a cooperative project agreement is signed on behalf of the United States, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate, a numbered certification with respect to such proposed agreement, setting forth—
 
         (1) a detailed description of the cooperative project with respect to which the certification is made;
 
@@ -97,7 +97,7 @@
 
         (2) Omitted.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 27, as added [Pub. L. 96–92, § 15][/us/pl/96/92/s15], Oct. 29, 1979, [93 Stat. 706][/us/stat/93/706]; amended [Pub. L. 99–83, title I, § 115(a)][/us/pl/99/83/s115/a], Aug. 8, 1985, [99 Stat. 199][/us/stat/99/199]; [Pub. L. 99–145, title XI, § 1102(a)(1)][/us/pl/99/145/s1102/a/1], (5), Nov. 8, 1985, [99 Stat. 708][/us/stat/99/708], 710; [Pub. L. 99–661, div. A, title XI, § 1103(a)][/us/pl/99/661/s1103/a], title XIII, § 1342(e), Nov. 14, 1986, [100 Stat. 3962][/us/stat/100/3962], 3991; [Pub. L. 100–180, div. A, title X, § 1022][/us/pl/100/180/s1022], Dec. 4, 1987, [101 Stat. 1144][/us/stat/101/1144]; [Pub. L. 102–484, div. A, title VIII, § 843(a)][/us/pl/102/484/s843/a], Oct. 23, 1992, [106 Stat. 2468][/us/stat/106/2468].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 27, as added [Pub. L. 96–92, § 15][/us/pl/96/92/s15], Oct. 29, 1979, [93 Stat. 706][/us/stat/93/706]; amended [Pub. L. 99–83, title I, § 115(a)][/us/pl/99/83/s115/a], Aug. 8, 1985, [99 Stat. 199][/us/stat/99/199]; [Pub. L. 99–145, title XI, § 1102(a)(1)][/us/pl/99/145/s1102/a/1], (5), Nov. 8, 1985, [99 Stat. 708][/us/stat/99/708], 710; [Pub. L. 99–661, div. A, title XI, § 1103(a)][/us/pl/99/661/s1103/a], title XIII, § 1342(e), Nov. 14, 1986, [100 Stat. 3962][/us/stat/100/3962], 3991; [Pub. L. 100–180, div. A, title X, § 1022][/us/pl/100/180/s1022], Dec. 4, 1987, [101 Stat. 1144][/us/stat/101/1144]; [Pub. L. 102–484, div. A, title VIII, § 843(a)][/us/pl/102/484/s843/a], Oct. 23, 1992, [106 Stat. 2468][/us/stat/106/2468]; [Pub. L. 113–276, title II, § 208(a)(4)][/us/pl/113/276/s208/a/4], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
@@ -112,6 +112,8 @@
     Subsec. (j)(2) of this section, which required the President to submit to certain committees of Congress an annual report specifying countries eligible, and criteria used to determine eligibility, for participation in cooperative project agreements under subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 39 of House Document No. 103–7.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–276][/us/pl/113/276] inserted “the Committee on Foreign Affairs of the House of Representatives,” after “the Speaker of the House of Representatives,” in introductory provisions.
 
     1992—Subsec. (c). [Pub. L. 102–484][/us/pl/102/484] substituted “costs, administrative costs, and costs of claims” for “and administrative costs”.
 
@@ -201,6 +203,8 @@
 [/us/stat/101/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1144
 [/us/pl/102/484/s843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs843%2Fa
 [/us/stat/106/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2468
+[/us/pl/113/276/s208/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F4
+[/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
@@ -209,6 +213,7 @@
 [/us/pl/99/83/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs115%2Fa
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/661/s1342/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1342%2Fe

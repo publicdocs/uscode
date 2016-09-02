@@ -87,7 +87,7 @@
 
         (1)
 
-         A determination made by the Secretary of State under subsection (d) may not be rescinded unless the President submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate—
+         A determination made by the Secretary of State under subsection (d) may not be rescinded unless the President submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate—
 
             (A)
 
@@ -127,7 +127,7 @@
 
             (B)
 
-             submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report containing—
+             submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate a report containing—
 
                 (i) the name of any country involved in the proposed transaction, the identity of any recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
 
@@ -195,7 +195,7 @@
 
         (5) the term “unsafeguarded special nuclear material” has the meaning given that term in [section 6305(8) of this title][/us/usc/t22/s6305/8].
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40, as added [Pub. L. 99–399, title V, § 509(a)][/us/pl/99/399/s509/a], Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874]; amended [Pub. L. 101–222, § 2(a)][/us/pl/101/222/s2/a], Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892]; [Pub. L. 102–138, title III, § 321][/us/pl/102/138/s321], Oct. 28, 1991, [105 Stat. 710][/us/stat/105/710]; [Pub. L. 103–236, title VIII, § 822(a)(2)][/us/pl/103/236/s822/a/2], Apr. 30, 1994, [108 Stat. 511][/us/stat/108/511]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, § 1303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–511; [Pub. L. 107–228, div. B, title XII, § 1204][/us/pl/107/228/s1204], Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427]; [Pub. L. 111–195, title I, § 107(a)(3)][/us/pl/111/195/s107/a/3], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40, as added [Pub. L. 99–399, title V, § 509(a)][/us/pl/99/399/s509/a], Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874]; amended [Pub. L. 101–222, § 2(a)][/us/pl/101/222/s2/a], Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892]; [Pub. L. 102–138, title III, § 321][/us/pl/102/138/s321], Oct. 28, 1991, [105 Stat. 710][/us/stat/105/710]; [Pub. L. 103–236, title VIII, § 822(a)(2)][/us/pl/103/236/s822/a/2], Apr. 30, 1994, [108 Stat. 511][/us/stat/108/511]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, § 1303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–511; [Pub. L. 107–228, div. B, title XII, § 1204][/us/pl/107/228/s1204], Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427]; [Pub. L. 111–195, title I, § 107(a)(3)][/us/pl/111/195/s107/a/3], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337]; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -212,6 +212,8 @@
     The Export Administration Act of 1979, referred to in subsec. (k), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 
  __Amendments__ 
+
+    2014—Subsecs. (f)(1), (g)(2)(B). [Pub. L. 113–276][/us/pl/113/276] substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and” in introductory provisions.
 
     2010—Subsec. (j). [Pub. L. 111–195][/us/pl/111/195] substituted “20 years” for “10 years”.
 
@@ -270,6 +272,8 @@
 [/us/stat/116/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1427
 [/us/pl/111/195/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs107%2Fa%2F3
 [/us/stat/124/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1337
+[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
@@ -283,6 +287,7 @@
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

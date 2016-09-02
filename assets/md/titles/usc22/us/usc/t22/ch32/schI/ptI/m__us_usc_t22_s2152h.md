@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2152g.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptII/m__us_usc_t22_ch32_schI_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h)
 
-## § 2152h. Assistance to provide safe water and sanitation
+## § 2152h. Assistance to provide safe water, sanitation, and hygiene
 
     (a) __Purposes__ 
 
@@ -37,7 +37,7 @@
 
     (b) __Authorization__ 
 
-        To carry out the purposes of subsection (a), the President is authorized to furnish assistance for programs in developing countries to provide affordable and equitable access to safe water and sanitation.
+        To carry out the purposes of subsection (a), the President is authorized to furnish assistance for programs in developing countries to provide affordable and equitable access to safe water, sanitation, and hygiene.
 
     (c) __Activities supported__ 
 
@@ -55,17 +55,315 @@
 
         The President may use payments made in local currencies under an agreement made under title I of the Food for Peace Act ([7 U.S.C. 1701][/us/usc/t7/s1701] et seq.) to provide assistance under this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 135, as added [Pub. L. 109–121, § 5(a)][/us/pl/109/121/s5/a], Dec. 1, 2005, [119 Stat. 2536][/us/stat/119/2536]; amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+    (e) __Coordination and oversight__ 
+
+        (1) __USAID Global Water Coordinator__ 
+
+            (A) __Designation__ 
+
+                The Administrator of the United States Agency for International Development (referred to in this paragraph as “USAID”) or the Administrator’s designee, who shall be a current USAID employee serving in a career or non-career position in the Senior Executive Service or at the level of a Deputy Assistant Administrator or higher, shall serve concurrently as the USAID Global Water Coordinator (referred to in this subsection as the “Coordinator”).
+
+            (B) __Specific duties__ 
+
+            The Coordinator shall—
+
+                (i) provide direction and guidance to, coordinate, and oversee the projects and programs of USAID authorized under this section;
+
+                (ii) lead the implementation and revision, not less frequently than once every 5 years, of USAID’s portion of the Global Water Strategy required under subsection (j);
+
+                (iii)
+
+                 seek—
+
+                    (I) to expand the capacity of USAID, subject to the availability of appropriations, including through the designation of a lead subject matter expert selected from among USAID staff in each high priority country designated pursuant to subsection (h);
+
+                    (II) to implement such programs and activities;
+
+                    (III) to take advantage of economies of scale; and
+
+                    (IV) to conduct more efficient and effective projects and programs;
+
+                (iv)
+
+                 coordinate with the Department of State and USAID staff in each high priority country designated pursuant to subsection (h) to ensure that USAID activities and projects, USAID program planning and budgeting documents, and USAID country development strategies reflect and seek to implement—
+
+                    (I) the safe water, sanitation, and hygiene objectives established in the strategy required under subsection (j), including objectives relating to the management of water resources; and
+
+                    (II)
+
+                     international best practices relating to—
+
+                        (aa) increasing access to safe water and sanitation;
+
+                        (bb) conducting hygiene-related activities; and
+
+                        (cc) ensuring appropriate management of water resources; and
+
+                (v) develop appropriate benchmarks, measurable goals, performance metrics, and monitoring and evaluation plans for USAID projects and programs authorized under this section.
+
+        (2) __Department of State Special Coordinator for Water Resources__ 
+
+            (A) __Designation__ 
+
+                The Secretary of State or the Secretary’s designee, who shall be a current employee of the Department of State serving in a career or non-career position in the Senior Executive Service or at the level of a Deputy Assistant Secretary or higher, shall serve concurrently as the Department of State Special Advisor for Water Resources (referred to in this paragraph as the “Special Advisor”).
+
+            (B) __Specific duties__ 
+
+            The Special Advisor shall—
+
+                (i) provide direction and guidance to, coordinate, and oversee the projects and programs of the Department of State authorized under this section;
+
+                (ii) lead the implementation and revision, not less than every 5 years, of the Department of State’s portion of the Global Water Strategy required under subsection (j);
+
+                (iii) prioritize and coordinate the Department of State’s international engagement on the allocation, distribution, and access to global fresh water resources and policies related to such matters;
+
+                (iv) coordinate with United States Agency for International Development and Department of State staff in each high priority country designated pursuant to subsection (h) to ensure that United States diplomatic efforts related to safe water, sanitation, and hygiene, including efforts related to management of water resources and watersheds and the resolution of intra- and trans-boundary conflicts over water resources, are consistent with United States national interests; and
+
+                (v) represent the views of the United States Government on the allocation, distribution, and access to global fresh water resources and policies related to such matters in key international fora, including key diplomatic, development-related, and scientific organizations.
+
+        (3) __Additional nature of duties and restriction on additional or supplemental compensation__ 
+
+            The responsibilities and specific duties of the Administrator of the United States Agency for International Development (or the Administrator’s designee) and the Secretary of State (or the Secretary’s designee) under paragraph (2) or (3), respectively, shall be in addition to any other responsibilities or specific duties assigned to such individuals. Such individuals shall receive no additional or supplemental compensation as a result of carrying out such responsibilities and specific duties under such paragraphs.
+
+    (f) __Priorities and criteria for maximum impact and long-term sustainability__ 
+
+    The Administrator of the United States Agency for International Development shall ensure that the Agency for International Development’s projects and programs authorized under this section are designed to achieve maximum impact and long-term sustainability by—
+
+        (1)
+
+         prioritizing countries on the basis of the following clearly defined criteria and indicators, to the extent sufficient empirical data are available—
+
+            (A) the proportion of the population using an unimproved drinking water source;
+
+            (B) the total population using an unimproved drinking water source;
+
+            (C) the proportion of the population without piped water access;
+
+            (D) the proportion of the population using shared or other unimproved sanitation facilities;
+
+            (E) the total population using shared or other unimproved sanitation facilities;
+
+            (F) the proportion of the population practicing open defecation;
+
+            (G) the total number of children younger than 5 years of age who died from diarrheal disease;
+
+            (H) the proportion of all deaths of children younger than 5 years of age resulting from diarrheal disease;
+
+            (I)
+
+             the national government’s capacity, capability, and commitment to work with the United States to improve access to safe water, sanitation, and hygiene, including—
+
+                (i) the government’s capacity and commitment to developing the indigenous capacity to provide safe water and sanitation without the assistance of outside donors; and
+
+                (ii)
+
+                 the degree to which such government—
+
+                    (I) identifies such efforts as a priority; and
+
+                    (II) allocates resources to such efforts;
+
+            (J) the availability of opportunities to leverage existing public, private, or other donor investments in the water, sanitation, and hygiene sectors, including investments in the management of water resources; and
+
+            (K) the likelihood of making significant improvements on a per capita basis on the health and educational opportunities available to women as a result of increased access to safe water, sanitation, and hygiene, including access to appropriate facilities at primary and secondary educational institutions seeking to ensure that communities benefitting from such projects and activities develop the indigenous capacity to provide safe water and sanitation without the assistance of outside donors;
+
+        (2)
+
+         prioritizing and measuring, including through rigorous monitoring and evaluating mechanisms, the extent to which such project or program—
+
+            (A)
+
+             furthers significant improvements in—
+
+                (i) the criteria set forth in subparagraphs (A) through (H) of paragraph (1);
+
+                (ii) the health and educational opportunities available to women as a result of increased access to safe water, sanitation, and hygiene, including access to appropriate facilities at primary and secondary educational institutions; and
+
+                (iii) the indigenous capacity of the host nation or community to provide safe water and sanitation without the assistance of outside donors;
+
+            (B)
+
+             is designed, as part of the provision of safe water and sanitation to the local community—
+
+                (i) to be financially independent over the long term, focusing on local ownership and sustainability;
+
+                (ii) to be undertaken in conjunction with relevant public institutions or private enterprises;
+
+                (iii) to identify and empower local individuals or institutions to be responsible for the effective management and maintenance of such project or program; and
+
+                (iv) to provide safe water or expertise or capacity building to those identified parties or institutions for the purposes of developing a plan and clear responsibilities for the effective management and maintenance of such project or program;
+
+            (C) leverages existing public, private, or other donor investments in the water, sanitation, and hygiene sectors, including investments in the management of water resources;
+
+            (D) avoids duplication of efforts with other United States Government agencies or departments or those of other nations or nongovernmental organizations;
+
+            (E) coordinates such efforts with the efforts of other United States Government agencies or departments or those of other nations or nongovernmental organizations directed at assisting refugees and other displaced individuals; and
+
+            (F) involves consultation with appropriate stakeholders, including communities directly affected by the lack of access to clean water, sanitation or hygiene, and other appropriate nongovernmental organizations; and
+
+        (3) seeking to further the strategy required under subsection (j) after 2018.
+
+    (g) __Use of current and improved empirical data collection and review of new standardized indicators__ 
+
+        (1) __In general__ 
+
+        The Administrator of the United States Agency for International Development is authorized to use current and improved empirical data collection—
+
+            (A) to meet the health-based prioritization criteria established pursuant to subsection (f)(1); and
+
+            (B) to review new standardized indicators in evaluating progress towards meeting such criteria.
+
+        (2) __Consultation and notice__ 
+
+        The Administrator shall—
+
+            (A) regularly consult with the appropriate congressional committees; and
+
+            (B) notify such committees not later than 30 days before using current or improved empirical data collection for the review of any new standardized indicators under paragraph (1) for the purposes of carrying out this section.
+
+    (h) __Designation of high priority countries__ 
+
+        (1) __Initial designation__ 
+
+        Not later than October 1, 2015, the President shall—
+
+            (A) designate, on the basis of the criteria set forth in subsection (f)(1) not fewer than 10 countries as high priority countries to be the primary recipients of United States Government assistance authorized under this section during fiscal year 2016; and
+
+            (B) notify the appropriate congressional committees of such designations.
+
+        (2) __Annual designations__ 
+
+            (A) __In general__ 
+
+                Except as provided in subparagraph (B), the President shall annually make new designations pursuant to the criteria set forth in paragraph (1).
+
+            (B) __Designations after fiscal year 2018__ 
+
+            Beginning with fiscal year 2019, designations under paragraph (1) shall be made—
+
+                (i) based upon the criteria set forth in subsection (f)(1); and
+
+                (ii) in furtherance of the strategy required under subsection (j).
+
+    (i) __Targeting of projects and programs to areas of greatest need__ 
+
+        (1) __In general__ 
+
+            Not later than 15 days before the obligation of any funds for water, sanitation, or hygiene projects or programs pursuant to this section in countries that are not ranked in the top 50 countries based upon the WASH Needs Index, the Administrator of the United States Agency for International Development shall notify the appropriate congressional committees of the planned obligation of such funds.
+
+        (2) __Defined term__ 
+
+            In this subsection and in subsection (j), the term “WASH Needs Index” means the needs index for water, sanitation, or hygiene projects or programs authorized under this section that has been developed using the criteria and indicators described in subparagraphs (A) through (H) of subsection (f)(1).
+
+    (j) __Global Water Strategy__ 
+
+        (1) __In general__ 
+
+        Not later than October 1, 2017, October 1, 2022, and October 1, 2027, the President, acting through the Secretary of State, the Administrator of the United States Agency for International Development, and the heads of other Federal departments and agencies, as appropriate, shall submit a single government-wide Global Water Strategy to the appropriate congressional committees that provides a detailed description of how the United States intends—
+
+            (A) to increase access to safe water, sanitation, and hygiene in high priority countries designated pursuant to subsection (h), including a summary of the WASH Needs Index and the specific weighting of empirical data and other definitions used to develop and rank countries on the WASH Needs Index;
+
+            (B) to improve the management of water resources and watersheds in such countries; and
+
+            (C) to work to prevent and resolve, to the greatest degree possible, both intra- and trans-boundary conflicts over water resources in such countries.
+
+        (2) __Agency-specific plans__ 
+
+        The Global Water Strategy shall include an agency-specific plan—
+
+            (A)
+
+             from the United States Agency for International Development that describes specifically how the Agency for International Development will—
+
+                (i) carry out the duties and responsibilities assigned to the Global Water Coordinator under subsection (e)(1);
+
+                (ii) ensure that the Agency for International Development’s projects and programs authorized under this section are designed to achieve maximum impact and long-term sustainability, including by implementing the requirements described in subsection (f); and
+
+                (iii) increase access to safe water, sanitation, and hygiene in high priority countries designated pursuant to subsection (h);
+
+            (B)
+
+             from the Department of State that describes specifically how the Department of State will—
+
+                (i) carry out the duties and responsibilities assigned to the Special Coordinator for Water Resources under subsection (e)(2); and
+
+                (ii)
+
+                 ensure that the Department’s activities authorized under this section are designed—
+
+                    (I) to improve management of water resources and watersheds in countries designated pursuant to subsection (h); and
+
+                    (II) to prevent and resolve, to the greatest degree possible, both intra- and trans-boundary conflicts over water resources in such countries; and
+
+            (C) from other Federal departments and agencies, as appropriate, that describes the contributions of the departments and agencies to implementing the Global Water Strategy.
+
+        (3) __Individualized plans for high priority countries__ 
+
+        For each high priority country designated pursuant to subsection (h), the Administrator of the United States Agency for International Development shall—
+
+            (A)
+
+             develop a costed, evidence-based, and results-oriented plan that—
+
+                (i) seeks to achieve the purposes of this section; and
+
+                (ii) meets the requirements under subsection (f); and
+
+            (B) include such plan in an appendix to the Global Water Strategy required under paragraph (1).
+
+        (4) __First time access reporting requirement__ 
+
+            The Global Water Strategy shall specifically describe the target percentage of funding for each fiscal year covered by such strategy to be directed toward projects aimed at providing first-time access to safe water and sanitation.
+
+        (5) __Performance indicators__ 
+
+            The Global Water Strategy shall include specific and measurable goals, benchmarks, performance metrics, timetables, and monitoring and evaluation plans required to be developed by the Administrator of the United States Agency for International Development pursuant to subsection (e)(1)(B)(v).
+
+        (6) __Consultation and best practices__ 
+
+        The Global Water Strategy shall—
+
+            (A) be developed in consultation with the heads of other appropriate Federal departments and agencies; and
+
+            (B) incorporate best practices from the international development community.
+
+    (k) __Definitions__ 
+
+    In this section—
+
+        (1)
+
+         the term “appropriate congressional committees” means—
+
+            (A) the Committee on Foreign Relations of the Senate;
+
+            (B) the Committee on Appropriations of the Senate;
+
+            (C) the Committee on Foreign Affairs of the House of Representatives; and
+
+            (D) the Committee on Appropriations of the House of Representatives; and
+
+        (2) the term “long-term sustainability” refers to the ability of a service delivery system, community, partner, or beneficiary to maintain, over time, any water, sanitation, or hygiene project that receives funding pursuant to the amendments made by the Senator Paul Simon Water for the World Act of 2014.
+
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 136, formerly § 135, as added [Pub. L. 109–121, § 5(a)][/us/pl/109/121/s5/a], Dec. 1, 2005, [119 Stat. 2536][/us/stat/119/2536]; amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820]; renumbered § 136 and amended [Pub. L. 113–289][/us/pl/113/289], §§ 3–6(a), Dec. 19, 2014, [128 Stat. 3283–3288][/us/stat/128/3283-3288].)
 
  __References in Text__ 
 
     The Food for Peace Act, referred to in subsec. (d), is [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], [68 Stat. 454][/us/stat/68/454]. Title I of the Act is classified generally to subchapter II (§ 1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7][/us/usc/t7/s1691] and Tables.
 
- __Codification__ 
-
-    Another [section 135 of Pub. L. 87–195][/us/pl/87/195/s135] is classified to [section 2152f of this title][/us/usc/t22/s2152f].
+    The Senator Paul Simon Water for the World Act of 2014, referred to in subsec. (k)(2), is [Pub. L. 113–289][/us/pl/113/289], Dec. 19, 2014, [128 Stat. 3283][/us/stat/128/3283], which amended this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–289, § 3(2)(A)][/us/pl/113/289/s3/2/A], substituted “, sanitation, and hygiene” for “and sanitation” in section catchline.
+
+    Subsec. (b). [Pub. L. 113–289, § 3(2)(B)][/us/pl/113/289/s3/2/B], substituted “, sanitation, and hygiene” for “and sanitation”.
+
+    Subsec. (e). [Pub. L. 113–289, § 4][/us/pl/113/289/s4], added subsec. (e).
+
+    Subsecs. (f) to (i). [Pub. L. 113–289, § 5][/us/pl/113/289/s5], added subsecs. (f) to (i).
+
+    Subsecs. (j), (k). [Pub. L. 113–289, § 6(a)][/us/pl/113/289/s6/a], added subsecs. (j) and (k).
 
     2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246] substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
@@ -75,7 +373,7 @@
 
  __Water for the Poor__ 
 
-[Pub. L. 109–121][/us/pl/109/121], Dec. 1, 2005, [119 Stat. 2533][/us/stat/119/2533], provided that:
+[Pub. L. 109–121][/us/pl/109/121], Dec. 1, 2005, [119 Stat. 2533][/us/stat/119/2533], as amended by [Pub. L. 113–289, § 6(c)][/us/pl/113/289/s6/c], Dec. 19, 2014, [128 Stat. 3290][/us/stat/128/3290], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -185,71 +483,7 @@
 
 >     \[Amended [section 1704 of Title 7][/us/usc/t7/s1704], Agriculture.\]
 
-> “SEC. 6. __SAFE WATER AND SANITATION STRATEGY.__ 
-
->     “(a)  __Strategy__  __.—__ 
-
->     The President, acting through the Secretary of State, shall develop a strategy to further the United States foreign assistance objective to provide affordable and equitable access to safe water and sanitation in developing countries, as described in section 135 of the Foreign Assistance Act of 1961 \[this section\], as added by section 5(a) of this Act.
-
->     “(b)  __Consultation__  __.—__ 
-
->     The strategy required by subsection (a) shall be developed in consultation with the Administrator of the United States Agency for International Development, the heads of other appropriate Federal departments and agencies, international organizations, international financial institutions, recipient governments, United States and international nongovernmental organizations, indigenous civil society, and other appropriate entities.
-
->     “(c)  __Implementation__  __.—__ 
-
->     The Secretary of State, acting through the Administrator of the United States Agency for International Development, shall implement the strategy required by subsection (a). The strategy may also be implemented in part by other Federal departments and agencies, as appropriate.
-
->     “(d)  __Consistent With Safe Water and Sanitation Policy__  __.—__ 
-
->     The strategy required by subsection (a) shall be consistent with the policy stated in section 3 of this Act.
-
->     “(e)  __Content__  __.—__ 
-
->     The strategy required by subsection (a) shall include—
-
->         “(1) an assessment of the activities that have been carried out, or that are planned to be carried out, by all appropriate Federal departments and agencies to improve affordable and equitable access to safe water and sanitation in all countries that receive assistance from the United States;
-
->         “(2) specific and measurable goals, benchmarks, and timetables to achieve the objective described in subsection (a);
-
->         “(3) an assessment of the level of funding and other assistance for United States water and sanitation programs needed each year to achieve the goals, benchmarks, and timetables described in paragraph (2);
-
->         “(4) methods to coordinate and integrate United States water and sanitation assistance programs with other United States development assistance programs to achieve the objective described in subsection (a);
-
->         “(5) methods to better coordinate United States water and sanitation assistance programs with programs of other donor countries and entities to achieve the objective described in subsection (a); and
-
->         “(6) an assessment of the commitment of governments of countries that receive assistance under section 135 of the Foreign Assistance Act of 1961, as added by section 5(a) of this Act, to policies or policy reforms that support affordable and equitable access by the people of such countries to safe water and sanitation.
-
->     “(f)  __Designation of High Priority Countries__  __.—__ 
-
->     The strategy required by subsection (a) shall further include the designation of high priority countries for assistance under section 135 of the Foreign Assistance Act of 1961, as added by section 5(a) of this Act. This designation shall be made on the basis of—
-
->         “(1) countries in which the need for increased access to safe water and sanitation is greatest; and
-
->         “(2) countries in which assistance under such section can be expected to make the greatest difference in promoting good health, economic development, poverty reduction, women’s empowerment, conflict prevention, and environmental sustainability.
-
->     “(g) __Reports.—__ 
-
->         “(1)  __Initial report__  __.—__ 
-
->         Not later than 180 days after the date of the enactment of this Act \[Dec. 1, 2005\], the Secretary of State shall submit to the appropriate congressional committees a report that describes the strategy required by subsection (a).
-
->         “(2) __Subsequent reports.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Not less than once every year after the submission of the initial report under paragraph (1) until 2015, the Secretary of State shall submit to the appropriate congressional committees a report on the status of the implementation of the strategy, progress made in achieving the objective described in subsection (a), and any changes to the strategy since the date of the submission of the last report.
-
->             “(B)  __Additional information__  __.—__ 
-
->             Such reports shall include information on the amount of funds expended in each country or program, disaggregated by purpose of assistance, including information on capital investments, and the source of such funds by account.
-
->         “(3)  __Definition__  __.—__ 
-
->         In this subsection, the term ‘appropriate congressional committees’ means—
-
->             “(A) the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives; and
-
->             “(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+> “\[SEC. 6. Repealed. [Pub. L. 113–289, § 6(c)][/us/pl/113/289/s6/c], Dec. 19, 2014, [128 Stat. 3290][/us/stat/128/3290].\]
 
 > “SEC. 7. __MONITORING REQUIREMENT.__ 
 
@@ -304,18 +538,30 @@
 [/us/stat/119/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2536
 [/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
+[/us/stat/128/3283-3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283-3288
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/87/195/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs135
-[/us/usc/t22/s2152f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
+[/us/stat/128/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/pl/113/289/s3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs3%2F2%2FA
+[/us/pl/113/289/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs3%2F2%2FB
+[/us/pl/113/289/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs4
+[/us/pl/113/289/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs5
+[/us/pl/113/289/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs6%2Fa
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/109/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F121
 [/us/stat/119/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2533
+[/us/pl/113/289/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs6%2Fc
+[/us/stat/128/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3290
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
+[/us/pl/113/289/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs6%2Fc
+[/us/stat/128/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3290
 [/us/usc/t22/s262r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc
 
 

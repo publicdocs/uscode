@@ -149,10 +149,6 @@
 
     The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (e)(2)(D), is [Pub. L. 108–25][/us/pl/108/25], May 27, 2003, [117 Stat. 711][/us/stat/117/711], as amended, which is classified principally to chapter 83 (§ 7601 et seq.) of this title. Section 102 of the Act enacted [section 7612 of this title][/us/usc/t22/s7612] and amended [section 2651a of this title][/us/usc/t22/s2651a]. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title][/us/usc/t22/s7601] and Tables.
 
- __Codification__ 
-
-    Another [section 135 of Pub. L. 87–195][/us/pl/87/195/s135] is classified to [section 2152h of this title][/us/usc/t22/s2152h].
-
  __Findings__ 
 
 [Pub. L. 109–95, § 2][/us/pl/109/95/s2], Nov. 8, 2005, [119 Stat. 2111][/us/stat/119/2111], provided that: 
@@ -261,8 +257,6 @@
 [/us/usc/t22/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7612
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
-[/us/pl/87/195/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs135
-[/us/usc/t22/s2152h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h
 [/us/pl/109/95/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs2
 [/us/stat/119/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2111
 [/us/usc/t22/s7673/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7673%2Fb

@@ -411,7 +411,7 @@ Part I—Declaration of Policy; Development Assistance Authorizations  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2152h" data-uslm-ref="/us/usc/t22/s2152h">2152h.</a>  </td>
 
-    <td> Assistance to provide safe water and sanitation.  </td>
+    <td> Assistance to provide safe water, sanitation, and hygiene.  </td>
 
   </tr>
 

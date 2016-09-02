@@ -33,7 +33,7 @@
 
     (b) __Report by Secretary of State on practices of proposed recipient countries; considerations__ 
 
-    The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor and with the assistance of the Ambassador at Large for International Religious Freedom, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987). Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in [section 6402 of this title][/us/usc/t22/s6402]). Wherever applicable, a  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “such report shall include a”. </sup></sup>  description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur, including the descriptions of such acts required under [section 2151n(d)(8) of this title][/us/usc/t22/s2151n/d/8]. Such report shall also include, for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country. Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission’s annual session during the period covered during the preceding year. Each report under this section shall also include (i) wherever applicable, a description of the nature and extent of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, the participation of such individuals in such groups, and the nature and extent that such individuals take a direct part in hostilities, (ii) what steps, if any, taken by the government of the country to eliminate such practices, and (iii) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary of State. Each report under this section shall describe the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement. In determining whether a government falls within the provisions of subsection (a)(3) and in the preparation of any report or statement required under this section, consideration shall be given to—
+    The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor and with the assistance of the Ambassador at Large for International Religious Freedom, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987). Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in [section 6402 of this title][/us/usc/t22/s6402]). Wherever applicable, such report shall include a description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur, including the descriptions of such acts required under [section 2151n(d)(8) of this title][/us/usc/t22/s2151n/d/8]. Such report shall also include, for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country. Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission’s annual session during the period covered during the preceding year. Each report under this section shall also include (i) wherever applicable, a description of the nature and extent of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, the participation of such individuals in such groups, and the nature and extent that such individuals take a direct part in hostilities, (ii) what steps, if any, taken by the government of the country to eliminate such practices, and (iii) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary of State. Each report under this section shall describe the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement. In determining whether a government falls within the provisions of subsection (a)(3) and in the preparation of any report or statement required under this section, consideration shall be given to—
 
         (1) the relevant findings of appropriate international organizations, including nongovernmental organizations, such as the International Committee of the Red Cross; and
 
@@ -85,17 +85,23 @@
 
     For the purposes of this section—
 
-        (1) the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person; and
+        (1) the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “and”. </sup></sup> 
 
         (2)
 
          the term “security assistance” means—
 
-            (A) assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter.
+            (A) assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter;
 
-            (B) sales of defense articles or services, extensions of credits (including participations in credits, and guaranties of loans under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\]); or
+            (B) sales of defense articles or services, extensions of credits (including participations in credits), and guaranties of loans under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\]); or
 
-            (C) any license in effect with respect to the export of defense articles or defense services to or for the armed forces, police, intelligence, or other internal security forces of a foreign country under section 38 of the Arms Export Control Act \[[22 U.S.C. 2778][/us/usc/t22/s2778]\].
+            (C)
+
+             any license in effect with respect to the export to or for the armed forces, police, intelligence, or other internal security forces of a foreign country of—
+
+                (i) defense articles or defense services under section 38 of the Armed  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Arms”. </sup></sup>  Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]); or
+
+                (ii) items listed under the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations;  <sup>\[4\]</sup>  <sup><sup> 4 So in original. The semicolon probably should be a period. </sup></sup> 
 
     (e) __Removal of prohibition on assistance__ 
 
@@ -143,7 +149,7 @@
 
         (2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-    (i)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Two subsecs. (i) have been enacted.__  __ </sup></sup> __  __Report on status of freedom of the press in recipient countries__ 
+    (i)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. Two subsecs. (i) have been enacted.__  __ </sup></sup> __  __Report on status of freedom of the press in recipient countries__ 
 
     The report required by subsection (b) shall include, wherever applicable—
 
@@ -159,7 +165,7 @@
 
             (B) what steps the government of each such country has taken to preserve the safety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
 
-    (i)  __3__  __Child marriage status__ 
+    (i)  __5__  __Child marriage status__ 
 
         (1) __In general__ 
 
@@ -173,7 +179,7 @@
 
             (B) younger than 18 years of age, if no such law exists.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 502B, as added [Pub. L. 93–559, § 46][/us/pl/93/559/s46], Dec. 30, 1974, [88 Stat. 1815][/us/stat/88/1815]; amended [Pub. L. 94–329, title III, § 301(a)][/us/pl/94/329/s301/a], June 30, 1976, [90 Stat. 748][/us/stat/90/748]; [Pub. L. 95–105, title I, § 109(a)(3)][/us/pl/95/105/s109/a/3], Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 95–384][/us/pl/95/384], §§ 6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, [92 Stat. 731][/us/stat/92/731], 732, 735, 737; [Pub. L. 96–53, title V, § 511][/us/pl/96/53/s511], Aug. 14, 1979, [93 Stat. 380][/us/stat/93/380]; [Pub. L. 96–92, § 4][/us/pl/96/92/s4], Oct. 29, 1979, [93 Stat. 702][/us/stat/93/702]; [Pub. L. 96–533, title VII][/us/pl/96/533], §§ 701(b), 704, Dec. 16, 1980, [94 Stat. 3156][/us/stat/94/3156], 3157; [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; [Pub. L. 99–64, title I, § 124][/us/pl/99/64/s124], July 12, 1985, [99 Stat. 156][/us/stat/99/156]; [Pub. L. 99–83, title XII, § 1201][/us/pl/99/83/s1201], Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276]; [Pub. L. 100–204, title I, § 127(2)][/us/pl/100/204/s127/2], Dec. 22, 1987, [101 Stat. 1343][/us/stat/101/1343]; [Pub. L. 103–236, title I, § 162(e)(2)][/us/pl/103/236/s162/e/2], Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437, § 9(a)(6)][/us/pl/103/437/s9/a/6], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 104–319, title II, § 201(b)][/us/pl/104/319/s201/b], Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866]; [Pub. L. 105–292, title I, § 102(d)(2)][/us/pl/105/292/s102/d/2], title IV, § 421(b), Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795], 2810; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 252, title VIII, § 806(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–432, 1501A–471; [Pub. L. 106–386, div. A, § 104(b)][/us/pl/106/386/s104/b], Oct. 28, 2000, [114 Stat. 1472][/us/stat/114/1472]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228], §§ 665(b), 683(b), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407], 1411; [Pub. L. 108–332, § 6(a)(2)][/us/pl/108/332/s6/a/2], Oct. 16, 2004, [118 Stat. 1285][/us/stat/118/1285]; [Pub. L. 111–166, § 2(2)][/us/pl/111/166/s2/2], May 17, 2010, [124 Stat. 1187][/us/stat/124/1187]; [Pub. L. 113–4, title XII, § 1207(b)(2)][/us/pl/113/4/s1207/b/2], Mar. 7, 2013, [127 Stat. 141][/us/stat/127/141].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 502B, as added [Pub. L. 93–559, § 46][/us/pl/93/559/s46], Dec. 30, 1974, [88 Stat. 1815][/us/stat/88/1815]; amended [Pub. L. 94–329, title III, § 301(a)][/us/pl/94/329/s301/a], June 30, 1976, [90 Stat. 748][/us/stat/90/748]; [Pub. L. 95–105, title I, § 109(a)(3)][/us/pl/95/105/s109/a/3], Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 95–384][/us/pl/95/384], §§ 6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, [92 Stat. 731][/us/stat/92/731], 732, 735, 737; [Pub. L. 96–53, title V, § 511][/us/pl/96/53/s511], Aug. 14, 1979, [93 Stat. 380][/us/stat/93/380]; [Pub. L. 96–92, § 4][/us/pl/96/92/s4], Oct. 29, 1979, [93 Stat. 702][/us/stat/93/702]; [Pub. L. 96–533, title VII][/us/pl/96/533], §§ 701(b), 704, Dec. 16, 1980, [94 Stat. 3156][/us/stat/94/3156], 3157; [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; [Pub. L. 99–64, title I, § 124][/us/pl/99/64/s124], July 12, 1985, [99 Stat. 156][/us/stat/99/156]; [Pub. L. 99–83, title XII, § 1201][/us/pl/99/83/s1201], Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276]; [Pub. L. 100–204, title I, § 127(2)][/us/pl/100/204/s127/2], Dec. 22, 1987, [101 Stat. 1343][/us/stat/101/1343]; [Pub. L. 103–236, title I, § 162(e)(2)][/us/pl/103/236/s162/e/2], Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437, § 9(a)(6)][/us/pl/103/437/s9/a/6], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 104–319, title II, § 201(b)][/us/pl/104/319/s201/b], Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866]; [Pub. L. 105–292, title I, § 102(d)(2)][/us/pl/105/292/s102/d/2], title IV, § 421(b), Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795], 2810; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 252, title VIII, § 806(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–432, 1501A–471; [Pub. L. 106–386, div. A, § 104(b)][/us/pl/106/386/s104/b], Oct. 28, 2000, [114 Stat. 1472][/us/stat/114/1472]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228], §§ 665(b), 683(b), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407], 1411; [Pub. L. 108–332, § 6(a)(2)][/us/pl/108/332/s6/a/2], Oct. 16, 2004, [118 Stat. 1285][/us/stat/118/1285]; [Pub. L. 111–166, § 2(2)][/us/pl/111/166/s2/2], May 17, 2010, [124 Stat. 1187][/us/stat/124/1187]; [Pub. L. 113–4, title XII, § 1207(b)(2)][/us/pl/113/4/s1207/b/2], Mar. 7, 2013, [127 Stat. 141][/us/stat/127/141]; [Pub. L. 113–276, title II][/us/pl/113/276], §§ 206, 208(b)(2), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992], 2993.)
 
  __References in Text__ 
 
@@ -196,6 +202,14 @@
     The 1983 amendment by [Pub. L. 98–151][/us/pl/98/151] is based on section 202(a) of H.R. 2992, Ninety-eighth Congress, 1st Session, as reported May 17, 1983, which was enacted into permanent law by [Pub. L. 98–151][/us/pl/98/151].
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–276, § 208(b)(2)(A)][/us/pl/113/276/s208/b/2/A], substituted “Wherever applicable, such report shall include a description” for “Wherever applicable, a description”.
+
+    Subsec. (d)(1). [Pub. L. 113–276, § 206(1)][/us/pl/113/276/s206/1], struck out “and” at end.
+
+    Subsec. (d)(2)(B). [Pub. L. 113–276, § 208(b)(2)(B)][/us/pl/113/276/s208/b/2/B], which directed substitution of “credits)” for “credits”, was executed by making the substitution for “credits” after “participations in”, to reflect the probable intent of Congress.
+
+    Subsec. (d)(2)(C). [Pub. L. 113–276, § 206(2)][/us/pl/113/276/s206/2], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any license in effect with respect to the export of defense articles or defense services to or for the armed forces, police, intelligence, or other internal security forces of a foreign country under section 38 of the Arms Export Control Act.”
 
     2013—Subsec. (i). [Pub. L. 113–4][/us/pl/113/4] added subsec. (i) relating to child marriage status.
 
@@ -328,6 +342,8 @@
 [/us/stat/124/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1187
 [/us/pl/113/4/s1207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1207%2Fb%2F2
 [/us/stat/127/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F141
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
+[/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
@@ -344,6 +360,10 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
+[/us/pl/113/276/s208/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F2%2FA
+[/us/pl/113/276/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs206%2F1
+[/us/pl/113/276/s208/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F2%2FB
+[/us/pl/113/276/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs206%2F2
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/111/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166
 [/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332

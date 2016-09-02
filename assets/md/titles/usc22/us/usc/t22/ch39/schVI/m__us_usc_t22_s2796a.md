@@ -17,7 +17,7 @@
 
     (a) __Written certification to Speaker of the House and chairmen of Congressional committees__ 
 
-    Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2311][/us/usc/t22/s2311] et seq.\], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
+    Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2311][/us/usc/t22/s2311] et seq.\], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
 
         (1) the country or international organization to which the defense article is to be leased or loaned;
 
@@ -39,7 +39,7 @@
 
         (2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 62, as added [Pub. L. 97–113, title I, § 109(a)][/us/pl/97/113/s109/a], Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 104–164, title I, § 141(e)(1)][/us/pl/104/164/s141/e/1], July 21, 1996, [110 Stat. 1432][/us/stat/110/1432]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 62, as added [Pub. L. 97–113, title I, § 109(a)][/us/pl/97/113/s109/a], Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 104–164, title I, § 141(e)(1)][/us/pl/104/164/s141/e/1], July 21, 1996, [110 Stat. 1432][/us/stat/110/1432]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804]; [Pub. L. 113–276, title II, § 208(a)(4)][/us/pl/113/276/s208/a/4], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
@@ -48,6 +48,8 @@
     This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–276][/us/pl/113/276] inserted “the Committee on Foreign Affairs of the House of Representatives,” after “the Speaker of the House of Representatives,” in introductory provisions.
 
     2010—Subsec. (c)(1). [Pub. L. 111–266][/us/pl/111/266] inserted “Israel,” before “or New Zealand”.
 
@@ -85,12 +87,15 @@
 [/us/stat/122/4845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4845
 [/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
 [/us/stat/124/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2804
+[/us/pl/113/276/s208/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F4
+[/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/pl/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429
 [/us/pl/104/164/s141/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fe%2F1%2FA

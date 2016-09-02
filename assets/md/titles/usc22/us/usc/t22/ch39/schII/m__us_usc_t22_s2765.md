@@ -81,9 +81,9 @@
 
     (e) __“Appropriate congressional committees” defined__ 
 
-        As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+        As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 25, as added [Pub. L. 94–329, title II, § 209(a)][/us/pl/94/329/s209/a], June 30, 1976, [90 Stat. 739][/us/stat/90/739]; amended [Pub. L. 95–384, § 18][/us/pl/95/384/s18], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; [Pub. L. 96–92][/us/pl/96/92], §§ 13, 14, Oct. 29, 1979, [93 Stat. 706][/us/stat/93/706]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 104(c), 107(d), Dec. 16, 1980, [94 Stat. 3133][/us/stat/94/3133], 3137; [Pub. L. 97–113, title VII, § 732][/us/pl/97/113/s732], Dec. 29, 1981, [95 Stat. 1557][/us/stat/95/1557]; [Pub. L. 99–83, title I][/us/pl/99/83], §§ 112, 113, Aug. 8, 1985, [99 Stat. 198][/us/stat/99/198]; [Pub. L. 104–164, title I, § 102(d)][/us/pl/104/164/s102/d], July 21, 1996, [110 Stat. 1423][/us/stat/110/1423]; [Pub. L. 105–118, title V, § 519][/us/pl/105/118/s519], Nov. 26, 1997, [111 Stat. 2411][/us/stat/111/2411]; [Pub. L. 107–228, div. B, title XII, § 1232][/us/pl/107/228/s1232], Sept. 30, 2002, [116 Stat. 1433][/us/stat/116/1433]; [Pub. L. 111–266, title I, § 104(c)][/us/pl/111/266/s104/c], Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 25, as added [Pub. L. 94–329, title II, § 209(a)][/us/pl/94/329/s209/a], June 30, 1976, [90 Stat. 739][/us/stat/90/739]; amended [Pub. L. 95–384, § 18][/us/pl/95/384/s18], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; [Pub. L. 96–92][/us/pl/96/92], §§ 13, 14, Oct. 29, 1979, [93 Stat. 706][/us/stat/93/706]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 104(c), 107(d), Dec. 16, 1980, [94 Stat. 3133][/us/stat/94/3133], 3137; [Pub. L. 97–113, title VII, § 732][/us/pl/97/113/s732], Dec. 29, 1981, [95 Stat. 1557][/us/stat/95/1557]; [Pub. L. 99–83, title I][/us/pl/99/83], §§ 112, 113, Aug. 8, 1985, [99 Stat. 198][/us/stat/99/198]; [Pub. L. 104–164, title I, § 102(d)][/us/pl/104/164/s102/d], July 21, 1996, [110 Stat. 1423][/us/stat/110/1423]; [Pub. L. 105–118, title V, § 519][/us/pl/105/118/s519], Nov. 26, 1997, [111 Stat. 2411][/us/stat/111/2411]; [Pub. L. 107–228, div. B, title XII, § 1232][/us/pl/107/228/s1232], Sept. 30, 2002, [116 Stat. 1433][/us/stat/116/1433]; [Pub. L. 111–266, title I, § 104(c)][/us/pl/111/266/s104/c], Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799]; [Pub. L. 113–276, title II, § 208(a)(3)][/us/pl/113/276/s208/a/3], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
@@ -96,6 +96,8 @@
     The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–276][/us/pl/113/276] substituted “Foreign Affairs” for “International Relations”.
 
     2010—Subsec. (a)(1). [Pub. L. 111–266, § 104(c)(1)][/us/pl/111/266/s104/c/1], inserted “, as well as exports pursuant to a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i],” after “commercial exports under this chapter”.
 
@@ -159,10 +161,6 @@
 
     Subsec. (d). [Pub. L. 95–384, § 18(a)][/us/pl/95/384/s18/a], added subsec. (d).
 
- __Change of Name__ 
-
-    Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
  __Effective Date of 1985 Amendment__ 
 
     Amendment by [Pub. L. 99–83][/us/pl/99/83] effective Oct. 1, 1985, see [section 1301 of Pub. L. 99–83][/us/pl/99/83/s1301], set out as a note under [section 2151–1 of this title][/us/usc/t22/s2151–1].
@@ -210,6 +208,8 @@
 [/us/stat/116/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1433
 [/us/pl/111/266/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fc
 [/us/stat/124/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2799
+[/us/pl/113/276/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F3
+[/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
 [/us/pl/99/83/s113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs113%2F2
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -218,6 +218,7 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/111/266/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fc%2F1
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/pl/111/266/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fc%2F2

@@ -87,7 +87,7 @@
 
         (1) In any case other than one in which an advisory opinion has been issued under subsection (d) stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) to a foreign person if the President determines that such waiver is essential to the national security of the United States.
 
-        (2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
+        (2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 
     (f) __Presumption__ 
 
@@ -129,7 +129,7 @@
 
             (D) information and technology essential to United States products or production.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73, as added [Pub. L. 101–510, div. A, title XVII, § 1703][/us/pl/101/510/s1703], Nov. 5, 1990, [104 Stat. 1746][/us/stat/104/1746]; amended [Pub. L. 102–138, title III, § 323(a)][/us/pl/102/138/s323/a], Oct. 28, 1991, [105 Stat. 711][/us/stat/105/711]; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 714(a)(7), 734(b), Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497], 505; [Pub. L. 104–106, div. A, title XIV, § 1408(d)][/us/pl/104/106/s1408/d], Feb. 10, 1996, [110 Stat. 494][/us/stat/110/494]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1136(b), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–495.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73, as added [Pub. L. 101–510, div. A, title XVII, § 1703][/us/pl/101/510/s1703], Nov. 5, 1990, [104 Stat. 1746][/us/stat/104/1746]; amended [Pub. L. 102–138, title III, § 323(a)][/us/pl/102/138/s323/a], Oct. 28, 1991, [105 Stat. 711][/us/stat/105/711]; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 714(a)(7), 734(b), Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497], 505; [Pub. L. 104–106, div. A, title XIV, § 1408(d)][/us/pl/104/106/s1408/d], Feb. 10, 1996, [110 Stat. 494][/us/stat/110/494]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1136(b), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–495; [Pub. L. 113–276, title II, § 208(a)(5)][/us/pl/113/276/s208/a/5], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
@@ -138,6 +138,8 @@
     This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2). [Pub. L. 113–276][/us/pl/113/276] substituted “the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives” for “the Committee on National Security and the Committee on International Relations of the House of Representatives”.
 
     1999—Subsec. (b). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -162,8 +164,6 @@
     1991—Subsec. (a)(1)(A). [Pub. L. 102–138][/us/pl/102/138] inserted “acquisition,” before “design,”.
 
  __Change of Name__ 
-
-    Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
     Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
@@ -257,11 +257,14 @@
 [/us/stat/112/2681-773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-773
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/113/276/s208/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F5
+[/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
 [/us/pl/103/236/s734/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs734%2Fb%2F1
 [/us/stat/108/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F505
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

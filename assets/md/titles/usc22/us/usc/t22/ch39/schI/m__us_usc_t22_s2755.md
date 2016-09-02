@@ -27,7 +27,7 @@
 
     (c) __Report by President; contents__ 
 
-        The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in [section 7701(a)(30) of title 26][/us/usc/t26/s7701/a/30]) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i]. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
+        The President shall promptly transmit reports to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in [section 7701(a)(30) of title 26][/us/usc/t26/s7701/a/30]) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i]. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
 
     (d) __Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale__ 
 
@@ -59,7 +59,7 @@
 
             (C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 5, as added [Pub. L. 94–329, title III, § 302(b)][/us/pl/94/329/s302/b], June 30, 1976, [90 Stat. 752][/us/stat/90/752]; amended [Pub. L. 95–105, title I, § 109(a)(5)][/us/pl/95/105/s109/a/5], Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–236, title I, § 162(f)][/us/pl/103/236/s162/f], Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437, § 9(a)(7)][/us/pl/103/437/s9/a/7], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 111–266, title I, § 104(b)][/us/pl/111/266/s104/b], Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 5, as added [Pub. L. 94–329, title III, § 302(b)][/us/pl/94/329/s302/b], June 30, 1976, [90 Stat. 752][/us/stat/90/752]; amended [Pub. L. 95–105, title I, § 109(a)(5)][/us/pl/95/105/s109/a/5], Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–236, title I, § 162(f)][/us/pl/103/236/s162/f], Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437, § 9(a)(7)][/us/pl/103/437/s9/a/7], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 111–266, title I, § 104(b)][/us/pl/111/266/s104/b], Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799]; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -68,6 +68,8 @@
     Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3)(B), (C), is [section 601(b) of Pub. L. 94–329][/us/pl/94/329/s601/b], June 30, 1976, [90 Stat. 729][/us/stat/90/729], which made provision for expedited procedures in the Senate, and was not classified to the Code.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–276][/us/pl/113/276] substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
     2010—Subsec. (c). [Pub. L. 111–266][/us/pl/111/266] inserted “or any import or export under a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i]” after “under this chapter”.
 
@@ -110,11 +112,14 @@
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/pl/111/266/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fb
 [/us/stat/124/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2799
+[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F729
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

@@ -27,7 +27,7 @@
 
             For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
-        (2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
+        (2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
         (3)
 
@@ -123,7 +123,7 @@
 
         As used in this section, the term “non-­nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 102, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 516][/us/stat/108/516]; amended [Pub. L. 105–194, § 2(a)][/us/pl/105/194/s2/a]–(c), July 14, 1998, [112 Stat. 627][/us/stat/112/627].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 102, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 516][/us/stat/108/516]; amended [Pub. L. 105–194, § 2(a)][/us/pl/105/194/s2/a]–(c), July 14, 1998, [112 Stat. 627][/us/stat/112/627]; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -140,6 +140,8 @@
     Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is classified to this section.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–276][/us/pl/113/276] substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
     1998—Subsec. (b)(2)(D)(ii). [Pub. L. 105–194, § 2(c)][/us/pl/105/194/s2/c], inserted “medicines, medical equipment, and” after “to”.
 
@@ -205,15 +207,13 @@
 
 >         “(4)  __Limited exception related to lethal weapons__  __.—__ 
 
->         The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(2)][/us/usc/t22/s2799aa–1/b/2]\].
+>         The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(2)][/us/usc/t22/s2799aa–1/b/2]\].”
 
->     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
+    “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—
 
->     In this section, the term ‘appropriate congressional committees’ means—
+    “(1) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
->         “(1) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
-
->         “(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.”
+    “(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.”
 
  __Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs__ 
 
@@ -317,6 +317,8 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/stat/108/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F516
 [/us/pl/105/194/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fa
 [/us/stat/112/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F627
+[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
@@ -330,6 +332,7 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/105/194/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fc
 [/us/pl/105/194/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fa
 [/us/pl/105/194/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fb

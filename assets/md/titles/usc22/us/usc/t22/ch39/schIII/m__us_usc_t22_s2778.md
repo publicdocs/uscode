@@ -49,13 +49,13 @@
 
             (B)
 
-  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There are two subpars. designated “(B)”. </sup></sup>  The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
+             The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
                 (i) such firearms are among those firearms that the Secretary of the Treasury is, or was at any time, required to authorize the importation of by reason of the provisions of [section 925(e) of title 18][/us/usc/t18/s925/e] (including the requirement for the listing of such firearms as curios or relics under section 921(a)(13) of that title); and
 
                 (ii) such foreign government certifies to the United States Government that such firearms are owned by such foreign government.
 
-            (B) 1 A copy of each registration made under this paragraph shall be transmitted to the Secretary of the Treasury for review regarding law enforcement concerns. The Secretary shall report to the President regarding such concerns as necessary.
+            (C) A copy of each registration made under this paragraph shall be transmitted to the Secretary of the Treasury for review regarding law enforcement concerns. The Secretary shall report to the President regarding such concerns as necessary.
 
         (2) Except as otherwise specifically provided in regulations issued under subsection (a)(1), no defense articles or defense services designated by the President under subsection (a)(1) may be exported or imported without a license for such export or import, issued in accordance with this chapter and regulations issued under this chapter, except that no license shall be required for exports or imports made by or for an agency of the United States Government (A) for official use by a department or agency of the United States Government, or (B) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
@@ -83,11 +83,11 @@
 
     (f) __Periodic review of items on Munitions List; exemptions__ 
 
-        (1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under [section 2394–1(a) of this title][/us/usc/t22/s2394–1/a]. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
+        (1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under [section 2394–1(a) of this title][/us/usc/t22/s2394–1/a]. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
         (2)
 
-         The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
+         The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
             (A) a description of the scope of the exemption, including a detailed summary of the defense articles, defense services, and related technical data covered by the exemption; and
 
@@ -96,6 +96,34 @@
         (3) Paragraph (2) shall not apply with respect to an exemption for Canada from the licensing requirements of this chapter for the export of defense items.
 
         (4) Paragraph (2) shall not apply with respect to an exemption under subsection (j)(1) to give effect to a treaty referred to in subsection (j)(1)(C)(i) (and any implementing arrangements to such treaty), provided that the President promulgates regulations to implement and enforce such treaty under this section and [section 2779 of this title][/us/usc/t22/s2779].
+
+        (5)
+
+            (A) Except as provided in subparagraph (B), the President shall take such actions as may be necessary to require that, at the time of export or reexport of any major defense equipment listed on the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations, the major defense equipment will not be subsequently modified so as to transform such major defense equipment into a defense article.
+
+            (B)
+
+             The President may authorize the transformation of any major defense equipment described in subparagraph (A) into a defense article if the President—
+
+                (i) determines that such transformation is appropriate and in the national interests of the United States; and
+
+                (ii) provides notice of such transformation to the chairman of the Committee on Foreign Affairs of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate consistent with the notification requirements of [section 2776(b)(5)(A) of this title][/us/usc/t22/s2776/b/5/A].
+
+            (C) In this paragraph, the term “defense article” means an item designated by the President pursuant to subsection (a)(1).
+
+        (6)
+
+         The President shall ensure that any major defense equipment that is listed on the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations, shall continue to be subject to the notification and reporting requirements of the following provisions of law:
+
+            (A) [Section 2321j(f) of this title][/us/usc/t22/s2321j/f].
+
+            (B) [Section 2415 of this title][/us/usc/t22/s2415].
+
+            (C) [Section 2753(d)(3)(A) of this title][/us/usc/t22/s2753/d/3/A].
+
+            (D) [Section 2765 of this title][/us/usc/t22/s2765].
+
+            (E) Section 2776(b), (c), and (d) of this title.
 
     (g) __Identification of persons convicted or subject to indictment for violations of certain provisions__ 
 
@@ -127,9 +155,9 @@
 
                 (x) section 601 of the National Security Act of 1947 (relating to intelligence identities protection; \[[50 U.S.C. 3121][/us/usc/t50/s3121]\]),
 
-                (xi) section 603(b) or (c) of the Comprehensive Anti-Apartheid Act of 1986 ([22 U.S.C. 5113(b)][/us/usc/t22/s5113/b] and (c));  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The semicolon probably should be a comma. </sup></sup>  or
+                (xi) section 603(b) or (c) of the Comprehensive Anti-Apartheid Act of 1986 ([22 U.S.C. 5113(b)][/us/usc/t22/s5113/b] and (c)), or
 
-                (xii) section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “sections”. </sup></sup>  3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, relating to missile systems designed to destroy aircraft ([18 U.S.C. 2332g][/us/usc/t18/s2332g]), prohibitions governing atomic weapons ([42 U.S.C. 2122][/us/usc/t42/s2122]), radiological dispersal devices ([18 U.S.C. 2332h][/us/usc/t18/s2332h]), and variola virus ([18 U.S.C. 175b][/us/usc/t18/s175b]  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “175c”. </sup></sup> );
+                (xii) sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, relating to missile systems designed to destroy aircraft ([18 U.S.C. 2332g][/us/usc/t18/s2332g]), prohibitions governing atomic weapons ([42 U.S.C. 2122][/us/usc/t42/s2122]), radiological dispersal devices ([18 U.S.C. 2332h][/us/usc/t18/s2332h]), and variola virus ([18 U.S.C. 175c][/us/usc/t18/s175c]);
 
             (B) persons who are the subject of an indictment or have been convicted under [section 371 of title 18][/us/usc/t18/s371] for conspiracy to violate any of the statutes cited in subparagraph (A); and
 
@@ -253,7 +281,7 @@
 
         (2) __Requirements of bilateral agreement__ 
 
-        A bilateral agreement referred to  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be followed by “in”. </sup></sup>  paragraph (1)—
+        A bilateral agreement referred to in paragraph (1)—
 
             (A)
 
@@ -283,7 +311,7 @@
 
         (3) __Advance certification__ 
 
-        Not less than 30 days before authorizing an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items, the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a certification that—
+        Not less than 30 days before authorizing an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items, the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a certification that—
 
             (A) the United States has entered into a bilateral agreement with that foreign country satisfying all requirements set forth in paragraph (2);
 
@@ -303,11 +331,35 @@
 
             The term “appropriate congressional committees” means—
 
-                (i) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
+                (i) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
 
                 (ii) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 38, as added [Pub. L. 94–329, title II, § 212(a)(1)][/us/pl/94/329/s212/a/1], June 30, 1976, [90 Stat. 744][/us/stat/90/744]; amended [Pub. L. 95–92, § 20][/us/pl/95/92/s20], Aug. 4, 1977, [91 Stat. 623][/us/stat/91/623]; [Pub. L. 96–70, title III, § 3303(a)(4)][/us/pl/96/70/s3303/a/4], Sept. 27, 1979, [93 Stat. 499][/us/stat/93/499]; [Pub. L. 96–72, § 22(a)][/us/pl/96/72/s22/a], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535]; [Pub. L. 96–92, § 21][/us/pl/96/92/s21], Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710]; [Pub. L. 96–533, title I, § 107(a)][/us/pl/96/533/s107/a], (c), Dec. 16, 1980, [94 Stat. 3136][/us/stat/94/3136]; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 106, 107, Dec. 29, 1981, [95 Stat. 1522][/us/stat/95/1522]; [Pub. L. 99–64, title I, § 123(a)][/us/pl/99/64/s123/a], July 12, 1985, [99 Stat. 156][/us/stat/99/156]; [Pub. L. 99–83, title I, § 119(a)][/us/pl/99/83/s119/a], (b), Aug. 8, 1985, [99 Stat. 203][/us/stat/99/203], 204; [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8142(a)\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–88; [Pub. L. 100–204, title XII, § 1255][/us/pl/100/204/s1255], Dec. 22, 1987, [101 Stat. 1429][/us/stat/101/1429]; [Pub. L. 101–222][/us/pl/101/222], §§ 3(a), 6, Dec. 12, 1989, [103 Stat. 1896][/us/stat/103/1896], 1899; [Pub. L. 103–236, title VII, § 714(a)(1)][/us/pl/103/236/s714/a/1], Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497]; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 151(a), 156, July 21, 1996, [110 Stat. 1437][/us/stat/110/1437], 1440; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(2), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, §§ 1302(a), 1303, 1304\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–510, 1501A–511; [Pub. L. 106–280, title I, § 102(a)][/us/pl/106/280/s102/a], (b), Oct. 6, 2000, [114 Stat. 846][/us/stat/114/846], 848; [Pub. L. 107–228, div. B, title XIV, § 1406][/us/pl/107/228/s1406], Sept. 30, 2002, [116 Stat. 1458][/us/stat/116/1458]; [Pub. L. 108–458, title VI, § 6910][/us/pl/108/458/s6910], Dec. 17, 2004, [118 Stat. 3774][/us/stat/118/3774]; [Pub. L. 111–195, title I, § 107(a)(2)][/us/pl/111/195/s107/a/2], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337]; [Pub. L. 111–266, title I][/us/pl/111/266], §§ 102(b)–103(c), Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], 2799.)
+    (k) __Licensing of certain commerce-controlled items__ 
+
+        (1) __In general__ 
+
+            A license or other approval from the Department of State granted in accordance with this section may also authorize the export of items subject to the Export Administration Regulations if such items are to be used in or with defense articles controlled on the United States Munitions List.
+
+        (2) __Other requirements__ 
+
+        The following requirements shall apply with respect to a license or other approval to authorize the export of items subject to the Export Administration Regulations under paragraph (1):
+
+            (A) Separate approval from the Department of Commerce shall not be required for such items if such items are approved for export under a Department of State license or other approval.
+
+            (B) Such items subject to the Export Administration Regulations that are exported pursuant to a Department of State license or other approval would remain under the jurisdiction of the Department of Commerce with respect to any subsequent transactions.
+
+            (C) The inclusion of the term “subject to the EAR” or any similar term on a Department of State license or approval shall not affect the jurisdiction with respect to such items.
+
+        (3) __Definition__ 
+
+        In this subsection, the term “Export Administration Regulations” means—
+
+            (A) the Export Administration Regulations as maintained and amended under the authority of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.); or
+
+            (B) any successor regulations.
+
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 38, as added [Pub. L. 94–329, title II, § 212(a)(1)][/us/pl/94/329/s212/a/1], June 30, 1976, [90 Stat. 744][/us/stat/90/744]; amended [Pub. L. 95–92, § 20][/us/pl/95/92/s20], Aug. 4, 1977, [91 Stat. 623][/us/stat/91/623]; [Pub. L. 96–70, title III, § 3303(a)(4)][/us/pl/96/70/s3303/a/4], Sept. 27, 1979, [93 Stat. 499][/us/stat/93/499]; [Pub. L. 96–72, § 22(a)][/us/pl/96/72/s22/a], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535]; [Pub. L. 96–92, § 21][/us/pl/96/92/s21], Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710]; [Pub. L. 96–533, title I, § 107(a)][/us/pl/96/533/s107/a], (c), Dec. 16, 1980, [94 Stat. 3136][/us/stat/94/3136]; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 106, 107, Dec. 29, 1981, [95 Stat. 1522][/us/stat/95/1522]; [Pub. L. 99–64, title I, § 123(a)][/us/pl/99/64/s123/a], July 12, 1985, [99 Stat. 156][/us/stat/99/156]; [Pub. L. 99–83, title I, § 119(a)][/us/pl/99/83/s119/a], (b), Aug. 8, 1985, [99 Stat. 203][/us/stat/99/203], 204; [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8142(a)\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–88; [Pub. L. 100–204, title XII, § 1255][/us/pl/100/204/s1255], Dec. 22, 1987, [101 Stat. 1429][/us/stat/101/1429]; [Pub. L. 101–222][/us/pl/101/222], §§ 3(a), 6, Dec. 12, 1989, [103 Stat. 1896][/us/stat/103/1896], 1899; [Pub. L. 103–236, title VII, § 714(a)(1)][/us/pl/103/236/s714/a/1], Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497]; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 151(a), 156, July 21, 1996, [110 Stat. 1437][/us/stat/110/1437], 1440; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(2), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, §§ 1302(a), 1303, 1304\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–510, 1501A–511; [Pub. L. 106–280, title I, § 102(a)][/us/pl/106/280/s102/a], (b), Oct. 6, 2000, [114 Stat. 846][/us/stat/114/846], 848; [Pub. L. 107–228, div. B, title XIV, § 1406][/us/pl/107/228/s1406], Sept. 30, 2002, [116 Stat. 1458][/us/stat/116/1458]; [Pub. L. 108–458, title VI, § 6910][/us/pl/108/458/s6910], Dec. 17, 2004, [118 Stat. 3774][/us/stat/118/3774]; [Pub. L. 111–195, title I, § 107(a)(2)][/us/pl/111/195/s107/a/2], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337]; [Pub. L. 111–266, title I][/us/pl/111/266], §§ 102(b)–103(c), Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], 2799; [Pub. L. 113–276, title II][/us/pl/113/276], §§ 204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, [128 Stat. 2990–2993][/us/stat/128/2990-2993].)
 
  __References in Text__ 
 
@@ -321,6 +373,8 @@
 
     The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8][/us/usc/t8/s1101] and Tables.
 
+    The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
+
  __Reference to Section 1934 of This Title Deemed Reference to This Section__ 
 
 [Pub. L. 94–329, title II, § 212(b)(1)][/us/pl/94/329/s212/b/1], June 30, 1976, [90 Stat. 745][/us/stat/90/745], provided in part that: 
@@ -328,6 +382,26 @@
 > “Any reference to such section \[[section 1934 of this title][/us/usc/t22/s1934]\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(B), (C). [Pub. L. 113–276, § 208(b)(1)(A)(i)][/us/pl/113/276/s208/b/1/A/i], redesignated subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations as (C).
+
+    Subsec. (f)(1). [Pub. L. 113–276, § 208(a)(1)][/us/pl/113/276/s208/a/1], substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
+
+    Subsec. (f)(2). [Pub. L. 113–276, § 208(a)(3)][/us/pl/113/276/s208/a/3], substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+
+    Subsec. (f)(5). [Pub. L. 113–276, § 205(a)][/us/pl/113/276/s205/a], added par. (5).
+
+    Subsec. (f)(6). [Pub. L. 113–276, § 205(b)][/us/pl/113/276/s205/b], added par. (6).
+
+    Subsec. (g)(1)(A)(xi). [Pub. L. 113–276, § 208(b)(1)(A)(ii)(I)][/us/pl/113/276/s208/b/1/A/ii/I], substituted “, or” for “; or”.
+
+    Subsec. (g)(1)(A)(xii). [Pub. L. 113–276, § 208(b)(1)(A)(ii)(II)][/us/pl/113/276/s208/b/1/A/ii/II], substituted “sections” for “section” and “([18 U.S.C. 175c][/us/usc/t18/s175c])” for “([18 U.S.C. 175b][/us/usc/t18/s175b])”.
+
+    Subsec. (j)(2). [Pub. L. 113–276, § 208(b)(1)(A)(iii)][/us/pl/113/276/s208/b/1/A/iii], inserted “in” before “paragraph (1)” in introductory provisions.
+
+    Subsec. (j)(3), (4)(B)(i). [Pub. L. 113–276, § 208(a)(3)][/us/pl/113/276/s208/a/3], substituted “Foreign Affairs” for “International Relations”.
+
+    Subsec. (k). [Pub. L. 113–276, § 204][/us/pl/113/276/s204], added subsec. (k).
 
     2010—Subsec. (c). [Pub. L. 111–266, § 103(a)][/us/pl/111/266/s103/a], substituted “this section, [section 2779 of this title][/us/usc/t22/s2779], a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or [section 2779 of this title][/us/usc/t22/s2779], including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty” for “this section or [section 2779 of this title][/us/usc/t22/s2779], or any rule or regulation issued under either section”.
 
@@ -1501,6 +1575,11 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/stat/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F499
 [/us/usc/t22/s2394–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931%2Fa
 [/us/usc/t22/s2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2779
+[/us/usc/t22/s2776/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fb%2F5%2FA
+[/us/usc/t22/s2321j/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321j%2Ff
+[/us/usc/t22/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2415
+[/us/usc/t22/s2753/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753%2Fd%2F3%2FA
+[/us/usc/t22/s2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2765
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
@@ -1511,10 +1590,11 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/usc/t18/s2332g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332g
 [/us/usc/t42/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2122
 [/us/usc/t18/s2332h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332h
-[/us/usc/t18/s175b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175b
+[/us/usc/t18/s175c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175c
 [/us/usc/t18/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs371
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t22/s2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/94/329/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs212%2Fa%2F1
 [/us/stat/90/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F744
@@ -1558,6 +1638,8 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/stat/124/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1337
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/stat/124/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2797
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
+[/us/stat/128/2990-2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2990-2993
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
@@ -1571,9 +1653,24 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
+[/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/94/329/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs212%2Fb%2F1
 [/us/stat/90/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F745
 [/us/usc/t22/s1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1934
+[/us/pl/113/276/s208/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F1%2FA%2Fi
+[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/276/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F3
+[/us/pl/113/276/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs205%2Fa
+[/us/pl/113/276/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs205%2Fb
+[/us/pl/113/276/s208/b/1/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F1%2FA%2Fii%2FI
+[/us/pl/113/276/s208/b/1/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F1%2FA%2Fii%2FII
+[/us/usc/t18/s175c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175c
+[/us/usc/t18/s175b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175b
+[/us/pl/113/276/s208/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F1%2FA%2Fiii
+[/us/pl/113/276/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F3
+[/us/pl/113/276/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs204
 [/us/pl/111/266/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs103%2Fa
 [/us/usc/t22/s2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2779
 [/us/usc/t22/s2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2779

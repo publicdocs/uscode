@@ -15,7 +15,7 @@
 
 # Title 22—FOREIGN RELATIONS AND INTERCOURSE
 
-Current through 113–271not235
+Current through 113–290not235not287
 
 <table>
 
@@ -1096,6 +1096,16 @@ Current through 113–271not235
     <td> Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8901" data-uslm-ref="/us/usc/t22/s8901">8901</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fch96A" data-uslm-ref="/us/usc/t22/ch96A">96A.</a>  </td>
+
+    <td> Ukraine Freedom Support  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8921" data-uslm-ref="/us/usc/t22/s8921">8921</a>  </td>
 
   </tr>
 

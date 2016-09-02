@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch96/m__us_usc_t22_s8909.md) | [Next](./../../../..//us/usc/t22/ch97/m__us_usc_t22_s9001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch97)
+[Previous](./../../../..//us/usc/t22/ch96A/m__us_usc_t22_s8930.md) | [Next](./../../../..//us/usc/t22/ch97/m__us_usc_t22_s9001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch97)
 
 ## CHAPTER 97—INTERNATIONAL CHILD ABDUCTION REMEDIES
 
@@ -115,7 +115,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch96/m__us_usc_t22_s8909.md) | [Next](./../../../..//us/usc/t22/ch97/m__us_usc_t22_s9001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch97)
+[Previous](./../../../..//us/usc/t22/ch96A/m__us_usc_t22_s8930.md) | [Next](./../../../..//us/usc/t22/ch97/m__us_usc_t22_s9001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch97)
 
 ----------
 ----------

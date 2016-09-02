@@ -31,9 +31,13 @@
 
         (3) Costs incurred by the United States shall be charged to the current applicable appropriations accounts or funds of the participating United States Government agencies.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 544, as added [Pub. L. 99–83, title I, § 126][/us/pl/99/83/s126], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; amended [Pub. L. 104–164, title I, § 112(b)][/us/pl/104/164/s112/b], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427]; [Pub. L. 107–228, div. B, title XII, § 1213][/us/pl/107/228/s1213], Sept. 30, 2002, [116 Stat. 1429][/us/stat/116/1429]; [Pub. L. 113–66, div. A, title XII, § 1233][/us/pl/113/66/s1233], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920].)
+        (4) The President shall report to the appropriate congressional committees (as defined in [section 2416(e) of this title][/us/usc/t22/s2416/e]) annually on the activities undertaken in the programs authorized under this subsection.
+
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 544, as added [Pub. L. 99–83, title I, § 126][/us/pl/99/83/s126], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; amended [Pub. L. 104–164, title I, § 112(b)][/us/pl/104/164/s112/b], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427]; [Pub. L. 107–228, div. B, title XII, § 1213][/us/pl/107/228/s1213], Sept. 30, 2002, [116 Stat. 1429][/us/stat/116/1429]; [Pub. L. 113–66, div. A, title XII, § 1233][/us/pl/113/66/s1233], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920]; [Pub. L. 113–276, title II, § 203][/us/pl/113/276/s203], Dec. 18, 2014, [128 Stat. 2990][/us/stat/128/2990].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(4). [Pub. L. 113–276][/us/pl/113/276] added par. (4).
 
     2013—Subsec. (c)(1). [Pub. L. 113–66][/us/pl/113/66] inserted “and integrated air and missile defense programs” after “tactical leadership programs” and “and integrated air and missile defense training” after “tactical leadership training”.
 
@@ -71,6 +75,7 @@
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
+[/us/usc/t22/s2416/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2416%2Fe
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/99/83/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs126
 [/us/stat/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F205
@@ -80,6 +85,9 @@
 [/us/stat/116/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1429
 [/us/pl/113/66/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1233
 [/us/stat/127/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F920
+[/us/pl/113/276/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs203
+[/us/stat/128/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2990
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
