@@ -639,7 +639,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
     Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is [section 5 of Pub. L. 103–226][/us/pl/103/226/s5], which is set out as a note under [section 3101 of Title 5][/us/usc/t5/s3101], Government Organization and Employees.
 
-    Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(32), is classified to [section 907(b)(2) of Title 2][/us/usc/t2/s907/b/2], The Congress.
+    The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1038][/us/stat/99/1038]. Section 257(b)(2) of the Act is classified to [section 907(b)(2) of Title 2][/us/usc/t2/s907/b/2], The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900] and Tables.
 
     The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of [Pub. L. 110–343][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765], which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to [section 5232 of Title 12][/us/usc/t12/s5232]. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12][/us/usc/t12/s5201] and Tables.
 
@@ -1239,7 +1239,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/95/452/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs11%2F2
 [/us/pl/103/226/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs5
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
 [/us/usc/t2/s907/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907%2Fb%2F2
+[/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5232
