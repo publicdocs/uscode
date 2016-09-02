@@ -41,33 +41,19 @@
 
     Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
 
-    (c) __Annual Report.—__ 
-
-        (1)  __In general__  __.—__ 
-
-        Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
-
-        (2)  __Contents__  __.—__ 
-
-        The report shall include—
-
-            (A) a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
-
-            (B) a description of the purpose for which each grant was made; and
-
-            (C) a description of how each grant was used by the recipient.
-
-    (d)  __Authorization of Appropriations__  __.—__ 
+    (c)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
 
-(Added [Pub. L. 107–355, § 9(a)][/us/pl/107/355/s9/a], Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994]; amended [Pub. L. 109–468, § 5][/us/pl/109/468/s5], Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90, § 32(e)][/us/pl/112/90/s32/e], Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923].)
+(Added [Pub. L. 107–355, § 9(a)][/us/pl/107/355/s9/a], Dec. 17, 2002, [116 Stat. 2994][/us/stat/116/2994]; amended [Pub. L. 109–468, § 5][/us/pl/109/468/s5], Dec. 29, 2006, [120 Stat. 3490][/us/stat/120/3490]; [Pub. L. 112–90, § 32(e)][/us/pl/112/90/s32/e], Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923]; [Pub. L. 113–188, title XV, § 1501(c)][/us/pl/113/188/s1501/c], Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
 
  __References in Text__ 
 
     [Public Law 93–153][/us/pl/93/153], referred to in subsec. (a)(1), is [Pub. L. 93–153][/us/pl/93/153], Nov. 16, 1973, [87 Stat. 576][/us/stat/87/576], as amended. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43][/us/usc/t43/s1651] and Tables.
 
  __Amendments__ 
+
+    2014—Subsecs. (c), (d). [Pub. L. 113–188][/us/pl/113/188] redesignated subsec. (d) as (c) and struck out former subsec. (c) which required annual reports on grants made under this section.
 
     2012—Subsec. (a)(1). [Pub. L. 112–90, § 32(e)(1)][/us/pl/112/90/s32/e/1], substituted “$100,000” for “$50,000”.
 
@@ -96,10 +82,13 @@
 [/us/stat/120/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3490
 [/us/pl/112/90/s32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe
 [/us/stat/125/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1923
+[/us/pl/113/188/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fc
+[/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/stat/87/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F576
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/112/90/s32/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe%2F1
 [/us/pl/112/90/s32/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe%2F2
 [/us/pl/112/90/s32/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs32%2Fe%2F3

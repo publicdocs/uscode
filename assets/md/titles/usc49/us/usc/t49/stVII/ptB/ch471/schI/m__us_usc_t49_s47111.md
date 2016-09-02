@@ -49,13 +49,13 @@
 
     (e)  __Action on Grant Assurances Concerning Airport Revenues__  __.—__ 
 
-    If, after notice and opportunity for a hearing, the Secretary finds a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b], as further defined by the Secretary under section 47107(l) of this title, or a violation of an assurance made under [section 47107(b) of this title][/us/usc/t49/s47107/b], and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “charge”. </sup></sup>  under [section 40117 of this title][/us/usc/t49/s40117]. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
+    If, after notice and opportunity for a hearing, the Secretary finds a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b], as further defined by the Secretary under [section 47107(k) of this title][/us/usc/t49/s47107/k], or a violation of an assurance made under [section 47107(b) of this title][/us/usc/t49/s47107/b], and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “charge”. </sup></sup>  under [section 40117 of this title][/us/usc/t49/s40117]. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
 
     (f)  __Judicial Enforcement__  __.—__ 
 
     For any violation of this chapter or any grant assurance made under this chapter, the Secretary may apply to the district court of the United States for any district in which the violation occurred for enforcement. Such court shall have jurisdiction to enforce obedience thereto by a writ of injunction or other process, mandatory or otherwise, restraining any person from further violation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1266][/us/stat/108/1266]; [Pub. L. 103–305, title I, § 112(b)][/us/pl/103/305/s112/b], Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1266][/us/stat/108/1266]; [Pub. L. 103–305, title I, § 112(b)][/us/pl/103/305/s112/b], Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575]; [Pub. L. 113–188, title XV, § 1501(b)(2)(C)][/us/pl/113/188/s1501/b/2/C], Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
 
 <table>
 
@@ -159,6 +159,8 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to payment);
 
  __Amendments__ 
 
+    2014—Subsec. (e). [Pub. L. 113–188][/us/pl/113/188] substituted “section 47107(k)” for “section 47107(l)”.
+
     1994—Subsecs. (e), (f). [Pub. L. 103–305][/us/pl/103/305] added subsecs. (e) and (f).
 
 ----------
@@ -169,12 +171,16 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to payment);
 ----------
 
 [/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
+[/us/usc/t49/s47107/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fk
 [/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
 [/us/usc/t49/s40117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40117
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1266
 [/us/pl/103/305/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fb
 [/us/stat/108/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1575
+[/us/pl/113/188/s1501/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FC
+[/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 
 

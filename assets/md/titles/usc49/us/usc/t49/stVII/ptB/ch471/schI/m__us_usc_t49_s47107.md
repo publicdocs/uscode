@@ -297,11 +297,7 @@
 
             (B) Revenue from sales referred to in paragraph (2) of this subsection from May 5, 1990, through December 30, 1994, may be used under paragraph (2) in any Hawaiian fiscal year, including a Hawaiian fiscal year beginning after December 31, 1994.
 
-    (k)  __Annual Summaries of Financial Reports__  __.—__ 
-
-    The Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual summary of the reports submitted to the Secretary under subsection (a)(19) of this section and under section 111(b) of the Federal Aviation Administration Authorization Act of 1994.
-
-    (l) __Policies and Procedures To Ensure Enforcement Against Illegal Diversion of Airport Revenue.—__ 
+    (k) __Policies and Procedures To Ensure Enforcement Against Illegal Diversion of Airport Revenue.—__ 
 
         (1)  __In general__  __.—__ 
 
@@ -329,13 +325,13 @@
 
         (5)  __Statute of limitations__  __.—__ 
 
-        In addition to the statute of limitations specified in subsection (n)(7), with respect to project grants made under this chapter—
+        In addition to the statute of limitations specified in subsection (m)(7), with respect to project grants made under this chapter—
 
             (A) any request by a sponsor or any other governmental entity to any airport for additional payments for services conducted off of the airport or for reimbursement for capital contributions or operating expenses shall be filed not later than 6 years after the date on which the expense is incurred; and
 
-            (B) any amount of airport funds that are used to make a payment or reimbursement as described in subparagraph (A) after the date specified in that subparagraph shall be considered to be an illegal diversion of airport revenues that is subject to subsection (n).
+            (B) any amount of airport funds that are used to make a payment or reimbursement as described in subparagraph (A) after the date specified in that subparagraph shall be considered to be an illegal diversion of airport revenues that is subject to subsection (m).
 
-    (m) __Audit Certification.—__ 
+    (l) __Audit Certification.—__ 
 
         (1)  __In general__  __.—__ 
 
@@ -345,11 +341,11 @@
 
         A review conducted under paragraph (1) shall provide reasonable assurances that funds paid or transferred to sponsors are paid or transferred in a manner consistent with the applicable requirements of this chapter and any other applicable provision of law (including regulations promulgated by the Secretary or the Administrator).
 
-    (n) __Recovery of Illegally Diverted Funds.—__ 
+    (m) __Recovery of Illegally Diverted Funds.—__ 
 
         (1)  __In general__  __.—__ 
 
-        Not later than 180 days after the issuance of an audit or any other report that identifies an illegal diversion of airport revenues (as determined under subsections (b) and (l) and section 47133), the Secretary, acting through the Administrator, shall—
+        Not later than 180 days after the issuance of an audit or any other report that identifies an illegal diversion of airport revenues (as determined under subsections (b) and (k) and section 47133), the Secretary, acting through the Administrator, shall—
 
             (A) review the audit or report;
 
@@ -375,7 +371,7 @@
 
         (4)  __Civil action__  __.—__ 
 
-        If a sponsor fails to pay an amount specified under paragraph (3) during the 180-day period beginning on the date of notification and the Secretary is unable to withhold a sufficient amount under paragraph (3), the Secretary, acting through the Administrator, may initiate a civil action under which the sponsor shall be liable for civil penalty in an amount equal to the illegal diversion in question plus interest (as determined under subsection (o)).
+        If a sponsor fails to pay an amount specified under paragraph (3) during the 180-day period beginning on the date of notification and the Secretary is unable to withhold a sufficient amount under paragraph (3), the Secretary, acting through the Administrator, may initiate a civil action under which the sponsor shall be liable for civil penalty in an amount equal to the illegal diversion in question plus interest (as determined under subsection (n)).
 
         (5) __Disposition of penalties.—__ 
 
@@ -389,17 +385,17 @@
 
         (6)  __Reimbursement__  __.—__ 
 
-        The Secretary, acting through the Administrator, shall, as soon as practicable after any amount is collected from a sponsor under paragraph (4), cause to be transferred from the Airport and Airway Trust Fund to an airport affected by a diversion that is the subject of a civil action under paragraph (4), reimbursement in an amount equal to the amount that has been collected from the sponsor under paragraph (4) (including any amount of interest calculated under subsection (o)).
+        The Secretary, acting through the Administrator, shall, as soon as practicable after any amount is collected from a sponsor under paragraph (4), cause to be transferred from the Airport and Airway Trust Fund to an airport affected by a diversion that is the subject of a civil action under paragraph (4), reimbursement in an amount equal to the amount that has been collected from the sponsor under paragraph (4) (including any amount of interest calculated under subsection (n)).
 
         (7)  __Statute of limitations__  __.—__ 
 
-        No person may bring an action for the recovery of funds illegally diverted in violation of this section (as determined under subsections (b) and (l)) or section 47133 after the date that is 6 years after the date on which the diversion occurred.
+        No person may bring an action for the recovery of funds illegally diverted in violation of this section (as determined under subsections (b) and (k)) or section 47133 after the date that is 6 years after the date on which the diversion occurred.
 
-    (o) __Interest.—__ 
+    (n) __Interest.—__ 
 
         (1)  __In general__  __.—__ 
 
-        Except as provided in paragraph (2), the Secretary, acting through the Administrator, shall charge a minimum annual rate of interest on the amount of any illegal diversion of revenues referred to in subsection (n) in an amount equal to the average investment interest rate for tax and loan accounts of the Department of the Treasury (as determined by the Secretary of the Treasury) for the applicable calendar year, rounded to the nearest whole percentage point.
+        Except as provided in paragraph (2), the Secretary, acting through the Administrator, shall charge a minimum annual rate of interest on the amount of any illegal diversion of revenues referred to in subsection (m) in an amount equal to the average investment interest rate for tax and loan accounts of the Department of the Treasury (as determined by the Secretary of the Treasury) for the applicable calendar year, rounded to the nearest whole percentage point.
 
         (2)  __Adjustment of interest rates__  __.—__ 
 
@@ -407,7 +403,7 @@
 
         (3)  __Accrual__  __.—__ 
 
-        Interest assessed under subsection (n) shall accrue from the date of the actual illegal diversion of revenues referred to in subsection (n).
+        Interest assessed under subsection (m) shall accrue from the date of the actual illegal diversion of revenues referred to in subsection (m).
 
         (4)  __Determination of applicable rate__  __.—__ 
 
@@ -417,13 +413,13 @@
 
             (B) remain at a rate fixed under subparagraph (A) during the duration of the indebtedness.
 
-    (p)  __Payment by Airport to Sponsor__  __.—__ 
+    (o)  __Payment by Airport to Sponsor__  __.—__ 
 
-    If, in the course of an audit or other review conducted under this section, the Secretary or the Administrator determines that an airport owes a sponsor funds as a result of activities conducted by the sponsor or expenditures by the sponsor for the benefit of the airport, interest on that amount shall be determined in the same manner as provided in paragraphs (1) through (4) of subsection (o), except that the amount of any interest assessed under this subsection shall be determined from the date on which the Secretary or the Administrator makes that determination.
+    If, in the course of an audit or other review conducted under this section, the Secretary or the Administrator determines that an airport owes a sponsor funds as a result of activities conducted by the sponsor or expenditures by the sponsor for the benefit of the airport, interest on that amount shall be determined in the same manner as provided in paragraphs (1) through (4) of subsection (n), except that the amount of any interest assessed under this subsection shall be determined from the date on which the Secretary or the Administrator makes that determination.
 
-    (q)
+    (p)
 
-     Notwithstanding any written assurances prescribed in subsections (a) through (p), a general aviation airport with more than 300,000 annual operations may be exempt from having to accept scheduled passenger air carrier service, provided that the following conditions are met:
+     Notwithstanding any written assurances prescribed in subsections (a) through (o), a general aviation airport with more than 300,000 annual operations may be exempt from having to accept scheduled passenger air carrier service, provided that the following conditions are met:
 
         (1) No scheduled passenger air carrier has provided service at the airport within 5 years prior to January 1, 2002.
 
@@ -431,9 +427,9 @@
 
         (3) The certificated airport operating under [section 44706 of title 49][/us/usc/t49/s44706] does not contribute to significant passenger delays as defined by DOT/FAA in the “Airport Capacity Benchmark Report 2001”.
 
-    (r) An airport that meets the conditions of subsections (q)(1) through (3) is not subject to [section 47524 of title 49][/us/usc/t49/s47524] with respect to a prohibition on all scheduled passenger service.
+    (q) An airport that meets the conditions of paragraphs (1) through (3) of subsection (p) is not subject to [section 47524 of title 49][/us/usc/t49/s47524] with respect to a prohibition on all scheduled passenger service.
 
-    (s) __Competition Disclosure Requirement.—__ 
+    (r) __Competition Disclosure Requirement.—__ 
 
         (1)  __In general__  __.—__ 
 
@@ -453,7 +449,7 @@
 
         This subsection shall cease to be effective beginning October 1, 2015.
 
-    (t) __Agreements Granting Through-The-Fence Access to General Aviation Airports.—__ 
+    (s) __Agreements Granting Through-The-Fence Access to General Aviation Airports.—__ 
 
         (1)  __In general__  __.—__ 
 
@@ -483,7 +479,7 @@
 
                 (v) to prohibit any aircraft refueling from occurring on the property.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1256][/us/stat/108/1256]; [Pub. L. 103–305, title I][/us/pl/103/305], §§ 111(a), (c), 112(a), Aug. 23, 1994, [108 Stat. 1573][/us/stat/108/1573], 1574; [Pub. L. 104–264, title I, § 143][/us/pl/104/264/s143], title VIII, § 805(a), (b)(2), Oct. 9, 1996, [110 Stat. 3221][/us/stat/110/3221], 3271, 3274; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], (80), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3397; [Pub. L. 105–135, title VI, § 604(h)(1)][/us/pl/105/135/s604/h/1], Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634]; [Pub. L. 106–181, title I, § 125(a)][/us/pl/106/181/s125/a], Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75]; [Pub. L. 107–217, § 3(n)(7)][/us/pl/107/217/s3/n/7], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 108–7, div. I, title III, § 321(a)][/us/pl/108/7/s321/a], Feb. 20, 2003, [117 Stat. 411][/us/stat/117/411]; [Pub. L. 108–11, title II, § 2702][/us/pl/108/11/s2702], Apr. 16, 2003, [117 Stat. 600][/us/stat/117/600]; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 144, 164, 165, title IV, § 424, Dec. 12, 2003, [117 Stat. 2503][/us/stat/117/2503], 2513, 2514, 2554; [Pub. L. 110–330, § 5(e)][/us/pl/110/330/s5/e], Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–12, § 5(d)][/us/pl/111/12/s5/d], Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69, § 5(e)][/us/pl/111/69/s5/e], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116, § 5(d)][/us/pl/111/116/s5/d], Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–153, § 5(d)][/us/pl/111/153/s5/d], Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161, § 5(d)][/us/pl/111/161/s5/d], Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197, § 5(d)][/us/pl/111/197/s5/d], July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I, § 104(d)][/us/pl/111/216/s104/d], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 5(e)][/us/pl/111/249/s5/e], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 111–329, § 5(d)][/us/pl/111/329/s5/d], Dec. 22, 2010, [124 Stat. 3567][/us/stat/124/3567]; [Pub. L. 112–7, § 5(d)][/us/pl/112/7/s5/d], Mar. 31, 2011, [125 Stat. 32][/us/stat/125/32]; [Pub. L. 112–16, § 5(d)][/us/pl/112/16/s5/d], May 31, 2011, [125 Stat. 219][/us/stat/125/219]; [Pub. L. 112–21, § 5(d)][/us/pl/112/21/s5/d], June 29, 2011, [125 Stat. 234][/us/stat/125/234]; [Pub. L. 112–27, § 5(d)][/us/pl/112/27/s5/d], Aug. 5, 2011, [125 Stat. 271][/us/stat/125/271]; [Pub. L. 112–30, title II, § 205(e)][/us/pl/112/30/s205/e], Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91, § 5(e)][/us/pl/112/91/s5/e], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I][/us/pl/112/95], §§ 135, 136(a), title IV, § 404, Feb. 14, 2012, [126 Stat. 22][/us/stat/126/22], 23, 85.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1256][/us/stat/108/1256]; [Pub. L. 103–305, title I][/us/pl/103/305], §§ 111(a), (c), 112(a), Aug. 23, 1994, [108 Stat. 1573][/us/stat/108/1573], 1574; [Pub. L. 104–264, title I, § 143][/us/pl/104/264/s143], title VIII, § 805(a), (b)(2), Oct. 9, 1996, [110 Stat. 3221][/us/stat/110/3221], 3271, 3274; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], (80), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3397; [Pub. L. 105–135, title VI, § 604(h)(1)][/us/pl/105/135/s604/h/1], Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634]; [Pub. L. 106–181, title I, § 125(a)][/us/pl/106/181/s125/a], Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75]; [Pub. L. 107–217, § 3(n)(7)][/us/pl/107/217/s3/n/7], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 108–7, div. I, title III, § 321(a)][/us/pl/108/7/s321/a], Feb. 20, 2003, [117 Stat. 411][/us/stat/117/411]; [Pub. L. 108–11, title II, § 2702][/us/pl/108/11/s2702], Apr. 16, 2003, [117 Stat. 600][/us/stat/117/600]; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 144, 164, 165, title IV, § 424, Dec. 12, 2003, [117 Stat. 2503][/us/stat/117/2503], 2513, 2514, 2554; [Pub. L. 110–330, § 5(e)][/us/pl/110/330/s5/e], Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–12, § 5(d)][/us/pl/111/12/s5/d], Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69, § 5(e)][/us/pl/111/69/s5/e], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116, § 5(d)][/us/pl/111/116/s5/d], Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–153, § 5(d)][/us/pl/111/153/s5/d], Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161, § 5(d)][/us/pl/111/161/s5/d], Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197, § 5(d)][/us/pl/111/197/s5/d], July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I, § 104(d)][/us/pl/111/216/s104/d], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 5(e)][/us/pl/111/249/s5/e], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 111–329, § 5(d)][/us/pl/111/329/s5/d], Dec. 22, 2010, [124 Stat. 3567][/us/stat/124/3567]; [Pub. L. 112–7, § 5(d)][/us/pl/112/7/s5/d], Mar. 31, 2011, [125 Stat. 32][/us/stat/125/32]; [Pub. L. 112–16, § 5(d)][/us/pl/112/16/s5/d], May 31, 2011, [125 Stat. 219][/us/stat/125/219]; [Pub. L. 112–21, § 5(d)][/us/pl/112/21/s5/d], June 29, 2011, [125 Stat. 234][/us/stat/125/234]; [Pub. L. 112–27, § 5(d)][/us/pl/112/27/s5/d], Aug. 5, 2011, [125 Stat. 271][/us/stat/125/271]; [Pub. L. 112–30, title II, § 205(e)][/us/pl/112/30/s205/e], Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91, § 5(e)][/us/pl/112/91/s5/e], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I][/us/pl/112/95], §§ 135, 136(a), title IV, § 404, Feb. 14, 2012, [126 Stat. 22][/us/stat/126/22], 23, 85; [Pub. L. 113–188, title XV, § 1501(b)(1)][/us/pl/113/188/s1501/b/1], (2)(A), Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023], 2024.)
 
 <table>
 
@@ -1125,9 +1121,25 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
     [Section 101(a) of title 23][/us/usc/t23/s101/a], referred to in subsec. (j)(1)(B), was subsequently amended, and section 101(a) no longer defines “Federal-aid system”.
 
-    Section 111(b) of the Federal Aviation Administration Authorization Act of 1994, referred to in subsec. (k), is [section 111(b) of Pub. L. 103–305][/us/pl/103/305/s111/b], which is set out below.
-
  __Amendments__ 
+
+    2014—Subsec. (k). [Pub. L. 113–188, § 1501(b)(1)][/us/pl/113/188/s1501/b/1], (2)(A)(i), redesignated subsec. (l) as (k) and struck out former subsec. (k). Prior to amendment, text of subsec. (k) read as follows: “The Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual summary of the reports submitted to the Secretary under subsection (a)(19) of this section and under section 111(b) of the Federal Aviation Administration Authorization Act of 1994.”
+
+    Subsec. (k)(5). [Pub. L. 113–188, § 1501(b)(2)(A)(ii)][/us/pl/113/188/s1501/b/2/A/ii], substituted “subsection (m)(7)” for “subsection (n)(7)” in introductory provisions and “subsection (m)” for “subsection (n)” in subpar. (B).
+
+    Subsec. (l). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
+
+    Subsec. (m). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], (iii), redesignated subsec. (n) as (m) and substituted “subsections (b) and (k)” for “subsections (b) and (l)” in pars. (1) and (7) and “subsection (n)” for “subsection (o)” in pars. (4) and (6). Former subsec. (m) redesignated (l).
+
+    Subsec. (n). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], (iv), redesignated subsec. (o) as (n) and substituted “subsection (m)” for “subsection (n)” wherever appearing. Former subsec. (n) redesignated (m).
+
+    Subsec. (o). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], (v), redesignated subsec. (p) as (o) and substituted “subsection (n)” for “subsection (o)”. Former subsec. (o) redesignated (n).
+
+    Subsec. (p). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], (vi), redesignated subsec. (q) as (p) and substituted “subsections (a) through (o)” for “subsections (a) through (p)” in introductory provisions. Former subsec. (p) redesignated (o).
+
+    Subsec. (q). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], (vii), redesignated subsec. (r) as (q) and substituted “paragraphs (1) through (3) of subsection (p)” for “subsections (q)(1) through (3)”. Former subsec. (q) redesignated (p).
+
+    Subsecs. (r) to (t). [Pub. L. 113–188, § 1501(b)(2)(A)(i)][/us/pl/113/188/s1501/b/2/A/i], redesignated subsecs. (s) and (t) as (r) and (s), respectively. Former subsec. (r) redesignated (q).
 
     2012—Subsec. (a)(16)(D)(ii). [Pub. L. 112–95, § 135(a)][/us/pl/112/95/s135/a], inserted “, except in the case of a relocation or replacement of an existing airport facility that meets the conditions of section 47110(d)” before semicolon at end.
 
@@ -1484,6 +1496,8 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 [/us/stat/126/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F4
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/stat/126/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F22
+[/us/pl/113/188/s1501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F1
+[/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/usc/t49/s2204/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2204%2Fd%2F2%2FB
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
 [/us/stat/101/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1502
@@ -1503,7 +1517,15 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
-[/us/pl/103/305/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs111%2Fb
+[/us/pl/113/188/s1501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F1
+[/us/pl/113/188/s1501/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fii
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
+[/us/pl/113/188/s1501/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FA%2Fi
 [/us/pl/112/95/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs135%2Fa
 [/us/pl/112/95/s135/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs135%2Fb%2F1%2FA%2Fi
 [/us/pl/112/95/s135/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs135%2Fb%2F1%2FA%2Fii

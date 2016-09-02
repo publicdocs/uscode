@@ -121,7 +121,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
  __Standards for Aircraft and Aircraft Engines To Reduce Noise Levels__ 
 
-[Pub. L. 106–181, title VII, § 726][/us/pl/106/181/s726], Apr. 5, 2000, [114 Stat. 167][/us/stat/114/167], provided that:
+[Pub. L. 106–181, title VII, § 726][/us/pl/106/181/s726], Apr. 5, 2000, [114 Stat. 167][/us/stat/114/167], as amended by [Pub. L. 113–188, title XV, § 1501(f)][/us/pl/113/188/s1501/f], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025], provided that:
 
 >     “(a)  __Development of New Standards__  __.—__ 
 
@@ -139,11 +139,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
 >         “(4) use dynamic economic modeling capable of determining impacts on all aircraft in service in the United States fleet; and
 
->         “(5) continue the use of a balanced approach to address aircraft environmental issues, taking into account aircraft technology, land use planning, economic feasibility, and airspace operational improvements.
-
->     “(c)  __Annual Report__  __.—__ 
-
->     Not later than July 1, 2000, and annually thereafter, the Secretary shall transmit to Congress a report regarding the application of new standards or technologies to reduce aircraft noise levels.”
+>         “(5) continue the use of a balanced approach to address aircraft environmental issues, taking into account aircraft technology, land use planning, economic feasibility, and airspace operational improvements.”
 
  __Aircraft Noise Research Program__ 
 
@@ -180,6 +176,8 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 [/us/stat/117/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2542
 [/us/pl/106/181/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs726
 [/us/stat/114/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F167
+[/us/pl/113/188/s1501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Ff
+[/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 [/us/pl/102/581/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs304
 [/us/stat/106/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4896
 [/us/pl/109/155/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs706%2Fb
