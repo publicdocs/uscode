@@ -1,0 +1,80 @@
+---
+---
+
+# 40 U.S.C., USLM ref /us/usc/t40/s18104
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t40/stVI/ch181/m__us_usc_t40_s18103.md) | [Next](./../../../../..//us/usc/t40/stVI/ch183/m__us_usc_t40_stVI_ch183.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs18104)
+
+## § 18104. TTY installation by Congress
+
+    Each House of Congress shall establish a policy under which Members of the House of Representatives and the Senate may obtain TTY’s for use in communicating with hearing-impaired and speech-impaired individuals, and for the use of hearing-impaired and speech-impaired employees.
+
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1291][/us/stat/116/1291].)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised
+
+Section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+18104  </td>
+
+    <td> 
+
+40:762d.  </td>
+
+    <td> 
+
+Pub. L. 100–542, § 6, Oct. 28, 1988, 102 Stat. 2722.  </td>
+
+  </tr>
+
+</table>
+
+    The words “As soon as practicable” and “as the case may be” are omitted as unnecessary.
+
+----------
+
+[Previous](./../../../../..//us/usc/t40/stVI/ch181/m__us_usc_t40_s18103.md) | [Next](./../../../../..//us/usc/t40/stVI/ch183/m__us_usc_t40_stVI_ch183.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs18104)
+
+----------
+----------
+
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
+[/us/stat/116/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1291
+
+
