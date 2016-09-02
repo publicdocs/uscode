@@ -153,6 +153,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–104, § 1][/us/pl/114/104/s1], Dec. 18, 2015, [129 Stat. 2216][/us/stat/129/2216], provided that: 
+
+> “This Act \[amending sections 274k and 274m of this title, enacting provisions set out as a note under [section 274e of this title][/us/usc/t42/s274e] and amending provisions set out as a note under [section 274k of this title][/us/usc/t42/s274k]\] may be cited as the ‘Stem Cell Therapeutic and Research Reauthorization Act of 2015’.”
+
 [Pub. L. 114–98, § 1][/us/pl/114/98/s1], Dec. 11, 2015, [129 Stat. 2199][/us/stat/129/2199], provided that: 
 
 > “This Act \[amending [section 300j–1 of this title][/us/usc/t42/s300j–1] and enacting provisions set out as a note under [section 300j–1 of this title][/us/usc/t42/s300j–1]\] may be cited as the ‘Grassroots Rural and Small Community Water Systems Assistance Act’.”
@@ -1573,6 +1577,10 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/114/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104%2Fs1
+[/us/stat/129/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2216
+[/us/usc/t42/s274e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274e
+[/us/usc/t42/s274k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274k
 [/us/pl/114/98/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs1
 [/us/stat/129/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2199
 [/us/usc/t42/s300j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%931

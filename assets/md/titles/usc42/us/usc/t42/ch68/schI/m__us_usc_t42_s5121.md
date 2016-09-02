@@ -55,6 +55,12 @@
 
     [Pub. L. 93–288, title VI, § 605][/us/pl/93/288/s605], May 22, 1974, [88 Stat. 164][/us/stat/88/164], provided that [Pub. L. 93–288][/us/pl/93/288] was effective Apr. 1, 1974, with the exception of [section 5178 of this title][/us/usc/t42/s5178], prior to repeal by [Pub. L. 100–707, title I, § 108(b)][/us/pl/100/707/s108/b], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–111, § 1][/us/pl/114/111/s1], Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240], provided that: 
+
+> “This Act \[amending sections 5122 and 5172 of this title\] may be cited as the ‘Emergency Information Improvement Act of 2015’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–2, div. B, § 1101(a)][/us/pl/113/2/s1101/a], Jan. 29, 2013, [127 Stat. 39][/us/stat/127/39], provided that: 
@@ -211,6 +217,8 @@ By virtue of the authority vested in me by the Disaster Relief Act of 1974 ([Pub
 [/us/usc/t42/s5178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5178
 [/us/pl/100/707/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs108%2Fb
 [/us/stat/102/4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4708
+[/us/pl/114/111/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111%2Fs1
+[/us/stat/129/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2240
 [/us/pl/113/2/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1101%2Fa
 [/us/stat/127/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F39
 [/us/pl/111/351/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs1

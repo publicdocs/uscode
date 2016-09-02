@@ -63,6 +63,12 @@
 
     1988—Subsec. (c)(1). [Pub. L. 100–607][/us/pl/100/607] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘human organ’ means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation.”
 
+ __Determination on the Definition of Human Organ__ 
+
+[Pub. L. 114–104, § 4][/us/pl/114/104/s4], Dec. 18, 2015, [129 Stat. 2218][/us/stat/129/2218], provided that: 
+
+> “Not later than one year after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ.”
+
  __No Impact on Social Security Trust Fund__ 
 
 [Pub. L. 110–144, § 4][/us/pl/110/144/s4], Dec. 21, 2007, [121 Stat. 1814][/us/stat/121/1814], provided that: 
@@ -86,6 +92,8 @@
 [/us/pl/110/144/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs2%2F1
 [/us/pl/110/144/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs2%2F2
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/114/104/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F104%2Fs4
+[/us/stat/129/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2218
 [/us/pl/110/144/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F144%2Fs4
 [/us/stat/121/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1814
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

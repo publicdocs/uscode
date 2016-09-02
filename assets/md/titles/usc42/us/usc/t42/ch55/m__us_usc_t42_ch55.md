@@ -59,7 +59,7 @@ SUBCHAPTER I—POLICIES AND GOALS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4332a" data-uslm-ref="/us/usc/t42/s4332a">4332a.</a>  </td>
 
-    <td> Accelerated decisionmaking in environmental reviews.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -380,6 +380,118 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370h" data-uslm-ref="/us/usc/t42/s4370h">4370h.</a>  </td>
 
     <td> Availability of funds for facilities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER IV—FEDERAL PERMITTING IMPROVEMENT  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m" data-uslm-ref="/us/usc/t42/s4370m">4370m.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%931" data-uslm-ref="/us/usc/t42/s4370m–1">4370m–1.</a>  </td>
+
+    <td> Federal permitting improvement council.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%932" data-uslm-ref="/us/usc/t42/s4370m–2">4370m–2.</a>  </td>
+
+    <td> Permitting process improvement.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%933" data-uslm-ref="/us/usc/t42/s4370m–3">4370m–3.</a>  </td>
+
+    <td> Interstate compacts.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%934" data-uslm-ref="/us/usc/t42/s4370m–4">4370m–4.</a>  </td>
+
+    <td> Coordination of required reviews.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%935" data-uslm-ref="/us/usc/t42/s4370m–5">4370m–5.</a>  </td>
+
+    <td> Delegated State permitting programs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%936" data-uslm-ref="/us/usc/t42/s4370m–6">4370m–6.</a>  </td>
+
+    <td> Litigation, judicial review, and savings provision.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%937" data-uslm-ref="/us/usc/t42/s4370m–7">4370m–7.</a>  </td>
+
+    <td> Reports.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%938" data-uslm-ref="/us/usc/t42/s4370m–8">4370m–8.</a>  </td>
+
+    <td> Funding for governance, oversight, and processing of environmental reviews and permits.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%939" data-uslm-ref="/us/usc/t42/s4370m–9">4370m–9.</a>  </td>
+
+    <td> Application.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%9310" data-uslm-ref="/us/usc/t42/s4370m–10">4370m–10.</a>  </td>
+
+    <td> GAO report.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%9311" data-uslm-ref="/us/usc/t42/s4370m–11">4370m–11.</a>  </td>
+
+    <td> Savings provision.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%9312" data-uslm-ref="/us/usc/t42/s4370m–12">4370m–12.</a>  </td>
+
+    <td> Sunset.  </td>
 
   </tr>
 

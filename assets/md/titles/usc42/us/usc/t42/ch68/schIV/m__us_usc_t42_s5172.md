@@ -57,7 +57,7 @@
 
             (B) __Definition of critical services__ 
 
-                In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications, education, and emergency medical care.
+                In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications (including broadcast and telecommunications), education, and emergency medical care.
 
         (4) __Notification to Congress__ 
 
@@ -233,7 +233,7 @@
 
             In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner’s responsibility and not the contractor’s responsibility.
 
-([Pub. L. 93–288, title IV, § 406][/us/pl/93/288/s406], as added [Pub. L. 100–707, title I, § 106(b)][/us/pl/100/707/s106/b], Nov. 23, 1988, [102 Stat. 4699][/us/stat/102/4699]; amended [Pub. L. 106–390, title II, § 205(a)][/us/pl/106/390/s205/a]–(d)(1), (e), Oct. 30, 2000, [114 Stat. 1562–1564][/us/stat/114/1562-1564], 1566; [Pub. L. 109–295, title VI, § 689h][/us/pl/109/295/s689h], Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453]; [Pub. L. 109–347, title VI, § 609][/us/pl/109/347/s609], Oct. 13, 2006, [120 Stat. 1942][/us/stat/120/1942]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title IV, § 406][/us/pl/93/288/s406], as added [Pub. L. 100–707, title I, § 106(b)][/us/pl/100/707/s106/b], Nov. 23, 1988, [102 Stat. 4699][/us/stat/102/4699]; amended [Pub. L. 106–390, title II, § 205(a)][/us/pl/106/390/s205/a]–(d)(1), (e), Oct. 30, 2000, [114 Stat. 1562–1564][/us/stat/114/1562-1564], 1566; [Pub. L. 109–295, title VI, § 689h][/us/pl/109/295/s689h], Oct. 4, 2006, [120 Stat. 1453][/us/stat/120/1453]; [Pub. L. 109–347, title VI, § 609][/us/pl/109/347/s609], Oct. 13, 2006, [120 Stat. 1942][/us/stat/120/1942]; [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864]; [Pub. L. 114–111, § 2(b)][/us/pl/114/111/s2/b], Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240].)
 
  __References in Text__ 
 
@@ -250,6 +250,8 @@
     A prior [section 406 of Pub. L. 93–288][/us/pl/93/288/s406] was renumbered section 409 by [Pub. L. 100–707][/us/pl/100/707] and is classified to [section 5176 of this title][/us/usc/t42/s5176].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3)(B). [Pub. L. 114–111][/us/pl/114/111] substituted “communications (including broadcast and telecommunications),” for “communications,”.
 
     2011—Subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), (e)(3)(A). [Pub. L. 111–351][/us/pl/111/351] substituted “Administrator” for “Director”.
 
@@ -320,6 +322,8 @@
 [/us/stat/120/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1942
 [/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
+[/us/pl/114/111/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111%2Fs2%2Fb
+[/us/stat/129/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2240
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
@@ -332,6 +336,7 @@
 [/us/pl/93/288/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs406
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t42/s5176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5176
+[/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/347/s609/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs609%2F1

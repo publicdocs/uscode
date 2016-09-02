@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch55/schIII/m__us_usc_t42_s4370h.md) | [Next](./../../../..//us/usc/t42/ch56/m__us_usc_t42_s4371.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch56)
+[Previous](./../../../..//us/usc/t42/ch55/schIV/m__us_usc_t42_s4370m–12.md) | [Next](./../../../..//us/usc/t42/ch56/m__us_usc_t42_s4371.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch56)
 
 ## CHAPTER 56—ENVIRONMENTAL QUALITY IMPROVEMENT
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch55/schIII/m__us_usc_t42_s4370h.md) | [Next](./../../../..//us/usc/t42/ch56/m__us_usc_t42_s4371.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch56)
+[Previous](./../../../..//us/usc/t42/ch55/schIV/m__us_usc_t42_s4370m–12.md) | [Next](./../../../..//us/usc/t42/ch56/m__us_usc_t42_s4371.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch56)
 
 ----------
 ----------

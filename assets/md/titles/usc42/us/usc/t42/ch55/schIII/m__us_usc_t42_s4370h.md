@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch55/schIII/m__us_usc_t42_s4370g.md) | [Next](./../../../../..//us/usc/t42/ch56/m__us_usc_t42_ch56.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370h)
+[Previous](./../../../../..//us/usc/t42/ch55/schIII/m__us_usc_t42_s4370g.md) | [Next](./../../../../..//us/usc/t42/ch55/schIV/m__us_usc_t42_ch55_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370h)
 
 ## § 4370h. Availability of funds for facilities
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch55/schIII/m__us_usc_t42_s4370g.md) | [Next](./../../../../..//us/usc/t42/ch56/m__us_usc_t42_ch56.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370h)
+[Previous](./../../../../..//us/usc/t42/ch55/schIII/m__us_usc_t42_s4370g.md) | [Next](./../../../../..//us/usc/t42/ch55/schIV/m__us_usc_t42_ch55_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370h)
 
 ----------
 ----------

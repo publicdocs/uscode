@@ -21,7 +21,7 @@
 
     (b) __Duties__ 
 
-        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. There is no par. (2).__  __ </sup></sup> __  __In general__ 
+        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __In general__ 
 
         The Deputy Director shall under the guidance and authority of the Director of the Office on Violence Against Women—
 

@@ -321,6 +321,40 @@
 
  __Strategic Petroleum Reserve Drawdown and Sale__ 
 
+[Pub. L. 114–94, div. C, title XXXII, § 32204][/us/pl/114/94/s32204], Dec. 4, 2015, [129 Stat. 1740][/us/stat/129/1740], provided that:
+
+>     “(a) __Drawdown and Sale.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Notwithstanding section 161 of the Energy Policy and Conservation Act ([42 U.S.C. 6241][/us/usc/t42/s6241]), except as provided in subsections (b) and (c), the Secretary of Energy shall drawdown and sell from the Strategic Petroleum Reserve—
+
+>             “(A) the quantity of barrels of crude oil that the Secretary of Energy determines to be appropriate to maximize the financial return to United States taxpayers for each of fiscal years 2016 and 2017;
+
+>             “(B) 16,000,000 barrels of crude oil during fiscal year 2023;
+
+>             “(C) 25,000,000 barrels of crude oil during fiscal year 2024; and
+
+>             “(D) 25,000,000 barrels of crude oil during fiscal year 2025.
+
+>         “(2)  __Deposit of amounts received from sale__  __.—__ 
+
+>         Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
+
+>     “(b)  __Emergency Protection__  __.—__ 
+
+>     The Secretary shall not draw down and sell crude oil under this section in quantities that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act ([42 U.S.C. 6241(h)][/us/usc/t42/s6241/h]) in the full quantity authorized by that subsection.
+
+>     “(c) __Increase; Limitation.—__ 
+
+>         “(1)  __Increase__  __.—__ 
+
+>         The Secretary of Energy may increase the drawdown and sales under subparagraphs (A) through (I) of subsection (a)(1) as the Secretary of Energy determines to be appropriate to maximize the financial return to United States taxpayers.
+
+>         “(2)  __Limitation__  __.—__ 
+
+>         The Secretary of Energy shall not drawdown or conduct sales of crude oil under this section after the date on which a total of $6,200,000,000 has been deposited in the general fund of the Treasury from sales authorized under this section.”
+
 [Pub. L. 114–74, title IV, § 403][/us/pl/114/74/s403], Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589], provided that:
 
 >     “(a)  __Drawdown and Sale__  __.—__ 
@@ -426,6 +460,10 @@
 [/us/stat/112/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3484
 [/us/usc/t42/s6393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6393
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
+[/us/pl/114/94/s32204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32204
+[/us/stat/129/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1740
+[/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
+[/us/usc/t42/s6241/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241%2Fh
 [/us/pl/114/74/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs403
 [/us/stat/129/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F589
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241

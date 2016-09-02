@@ -71,13 +71,13 @@
 
         (B)  __Additional facilities__  __.—__ 
 
-        In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
+        In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, broadcasting facilities, and facilities that provide health and safety services of a governmental nature), as defined by the President.
 
     (12)  __Chief executive__  __.—__ 
 
     The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.
 
-([Pub. L. 93–288, title I, § 102][/us/pl/93/288/s102], May 22, 1974, [88 Stat. 144][/us/stat/88/144]; [Pub. L. 100–707, title I, § 103(b)][/us/pl/100/707/s103/b]–(d), (f), Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689], 4690; [Pub. L. 102–247, title II, § 205][/us/pl/102/247/s205], Feb. 24, 1992, [106 Stat. 38][/us/stat/106/38]; [Pub. L. 106–390, title III, § 302][/us/pl/106/390/s302], Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572]; [Pub. L. 109–295, title VI, § 688][/us/pl/109/295/s688], Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448]; [Pub. L. 113–2, div. B, § 1110(c)][/us/pl/113/2/s1110/c], Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49].)
+([Pub. L. 93–288, title I, § 102][/us/pl/93/288/s102], May 22, 1974, [88 Stat. 144][/us/stat/88/144]; [Pub. L. 100–707, title I, § 103(b)][/us/pl/100/707/s103/b]–(d), (f), Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689], 4690; [Pub. L. 102–247, title II, § 205][/us/pl/102/247/s205], Feb. 24, 1992, [106 Stat. 38][/us/stat/106/38]; [Pub. L. 106–390, title III, § 302][/us/pl/106/390/s302], Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572]; [Pub. L. 109–295, title VI, § 688][/us/pl/109/295/s688], Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448]; [Pub. L. 113–2, div. B, § 1110(c)][/us/pl/113/2/s1110/c], Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49]; [Pub. L. 114–111, § 2(a)][/us/pl/114/111/s2/a], Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240].)
 
  __References in Text__ 
 
@@ -87,7 +87,9 @@
 
  __Amendments__ 
 
-    Par. (6). [Pub. L. 113–2, § 1110(c)(3)][/us/pl/113/2/s1110/c/3], added par. (6). Former par. (6) redesignated (7).
+    2015—Par. (11)(B). [Pub. L. 114–111][/us/pl/114/111] inserted “broadcasting facilities,” after “workshops,”.
+
+    2013—Par. (6). [Pub. L. 113–2, § 1110(c)(3)][/us/pl/113/2/s1110/c/3], added par. (6). Former par. (6) redesignated (7).
 
     Par. (7). [Pub. L. 113–2, § 1110(c)(2)][/us/pl/113/2/s1110/c/2], redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
@@ -170,12 +172,15 @@
 [/us/stat/120/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1448
 [/us/pl/113/2/s1110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc
 [/us/stat/127/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F49
+[/us/pl/114/111/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111%2Fs2%2Fa
+[/us/stat/129/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2240
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/103/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F454
 [/us/stat/108/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4791
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a
+[/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
 [/us/pl/113/2/s1110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F3
 [/us/pl/113/2/s1110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F2
 [/us/pl/113/2/s1110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1110%2Fc%2F1

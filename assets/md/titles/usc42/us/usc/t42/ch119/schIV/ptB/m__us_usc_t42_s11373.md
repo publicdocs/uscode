@@ -29,7 +29,7 @@
 
     (d) __Reallocation of funds__ 
 
-        (1) The Secretary shall, not less than twice during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b) of this section.
+        (1) The Secretary shall, not less than once during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b) of this section.
 
         (2) If a city or county eligible for a grant under subsection (a) of this section fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 
@@ -39,13 +39,15 @@
 
         In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
-([Pub. L. 100–77, title IV, § 414][/us/pl/100/77/s414], formerly § 413, July 22, 1987, [101 Stat. 496][/us/stat/101/496]; [Pub. L. 100–628, title IV, § 421][/us/pl/100/628/s421], Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII, § 832(f)(3)][/us/pl/101/625/s832/f/3]–(5), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V, § 506(a)(3)][/us/pl/104/330/s506/a/3], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 414 and amended [Pub. L. 111–22, div. B, title II, § 1201(3)][/us/pl/111/22/s1201/3], (5), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1679.)
+([Pub. L. 100–77, title IV, § 414][/us/pl/100/77/s414], formerly § 413, July 22, 1987, [101 Stat. 496][/us/stat/101/496]; [Pub. L. 100–628, title IV, § 421][/us/pl/100/628/s421], Nov. 7, 1988, [102 Stat. 3231][/us/stat/102/3231]; [Pub. L. 101–625, title VIII, § 832(f)(3)][/us/pl/101/625/s832/f/3]–(5), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V, § 506(a)(3)][/us/pl/104/330/s506/a/3], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 414 and amended [Pub. L. 111–22, div. B, title II, § 1201(3)][/us/pl/111/22/s1201/3], (5), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1679; [Pub. L. 114–94, div. G, title LXXIX, § 79002][/us/pl/114/94/s79002], Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
 
  __Prior Provisions__ 
 
     A prior [section 414 of Pub. L. 100–77][/us/pl/100/77/s414] was classified to [section 11374 of this title][/us/usc/t42/s11374] prior to renumbering as section 415 and repeal by [Pub. L. 111–22][/us/pl/111/22].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(1). [Pub. L. 114–94][/us/pl/114/94] substituted “once” for “twice”.
 
     2009—Subsec. (b). [Pub. L. 111–22, § 1201(5)][/us/pl/111/22/s1201/5], substituted “amounts appropriated under [section 11364 of this title][/us/usc/t42/s11364] and made available to carry out this part for any” for “amounts appropriated to carry out this part for any”.
 
@@ -100,9 +102,12 @@
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
 [/us/pl/111/22/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F3
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
+[/us/pl/114/94/s79002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs79002
+[/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
 [/us/pl/100/77/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs414
 [/us/usc/t42/s11374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/22/s1201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F5
 [/us/usc/t42/s11364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11364
 [/us/pl/104/330/s506/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F3%2FA

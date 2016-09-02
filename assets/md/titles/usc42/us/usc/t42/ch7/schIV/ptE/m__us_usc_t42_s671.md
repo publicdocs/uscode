@@ -57,7 +57,17 @@
 
                 (ii) 2 years after September 29, 2014, demonstrate to the Secretary that the State agency is implementing the policies and procedures referred to in clause (i).
 
-        (10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter, and provides that a waiver of any such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care;
+        (10)
+
+         provides—
+
+            (A) for the establishment or designation of a State authority or authorities that shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for the institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and which shall permit use of the reasonable and prudent parenting standard;
+
+            (B) that the standards established pursuant to subparagraph (A) shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B and shall require, as a condition of each contract entered into by a child care institution to provide foster care, the presence on-site of at least 1 official who, with respect to any child placed at the child care institution, is designated to be the caregiver who is authorized to apply the reasonable and prudent parent standard to decisions involving the participation of the child in age or developmentally-appropriate activities, and who is provided with training in how to use and apply the reasonable and prudent parent standard in the same manner as prospective foster parents are provided the training pursuant to paragraph (24);
+
+            (C) that the standards established pursuant to subparagraph (A) shall include policies related to the liability of foster parents and private entities under contract by the State involving the application of the reasonable and prudent parent standard, to ensure appropriate liability for caregivers when a child participates in an approved activity and the caregiver approving the activity acts in accordance with the reasonable and prudent parent standard; and
+
+            (D) that a waiver of any standards established pursuant to subparagraph (A) may be made only on a case-by-case basis for nonsafety standards (as determined by the State) in relative foster family homes for specific children in care;
 
         (11) provides for periodic review of the standards referred to in the preceding paragraph and amounts paid as foster care maintenance payments and adoption assistance to assure their continuing appropriateness;
 
@@ -113,7 +123,7 @@
 
             (F) reasonable efforts to place a child for adoption or with a legal guardian, including identifying appropriate in-State and out-of-State placements  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  may be made concurrently with reasonable efforts of the type described in subparagraph (B);
 
-        (16) provides for the development of a case plan (as defined in [section 675(1) of this title][/us/usc/t42/s675/1]) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in [section 675(5)(B) of this title][/us/usc/t42/s675/5/B] with respect to each such child;
+        (16) provides for the development of a case plan (as defined in [section 675(1) of this title][/us/usc/t42/s675/1] and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in sections 675(5) and 675a of this title with respect to each such child;
 
         (17) provides that, where appropriate, all steps will be taken, including cooperative efforts with the State agencies administering the program funded under part A of this subchapter and plan approved under part D of this subchapter, to secure an assignment to the State of any rights to support on behalf of each child receiving foster care maintenance payments under this part;
 
@@ -171,9 +181,9 @@
 
             (B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness;
 
-        (24) include  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “includes”. </sup></sup>  a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, and that such preparation will be continued, as necessary, after the placement of the child;
+        (24) includes a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, that the preparation will be continued, as necessary, after the placement of the child, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities;
 
-        (25) provide  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “provides”. </sup></sup>  that the State shall have in effect procedures for the orderly and timely interstate placement of children; and procedures implemented in accordance with an interstate compact, if incorporating with the procedures prescribed by paragraph (26), shall be considered to satisfy the requirement of this paragraph;
+        (25) provide  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “provides”. </sup></sup>  that the State shall have in effect procedures for the orderly and timely interstate placement of children; and procedures implemented in accordance with an interstate compact, if incorporating with the procedures prescribed by paragraph (26), shall be considered to satisfy the requirement of this paragraph;
 
         (26)
 
@@ -276,38 +286,6 @@
         Not later than 4 years after September 29, 2014, and annually thereafter, the Secretary shall report to the Congress and make available to the public on the Internet website of the Department of Health and Human Services the number of children and youth reported in accordance with subsection (a)(34)(B) of this section to be sex trafficking victims (as defined in [section 675(9)(A) of this title][/us/usc/t42/s675/9/A]).
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 471, as added [Pub. L. 96–272, title I, § 101(a)(1)][/us/pl/96/272/s101/a/1], June 17, 1980, [94 Stat. 501][/us/stat/94/501]; amended [Pub. L. 97–35, title XXIII, § 2353(r)][/us/pl/97/35/s2353/r], Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874]; [Pub. L. 97–248, title I, § 160(d)][/us/pl/97/248/s160/d], Sept. 3, 1982, [96 Stat. 400][/us/stat/96/400]; [Pub. L. 98–378, § 11(c)][/us/pl/98/378/s11/c], Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318]; [Pub. L. 99–514, title XVII, § 1711(c)(2)][/us/pl/99/514/s1711/c/2], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 100–485, title II, § 202(c)(1)][/us/pl/100/485/s202/c/1], Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378]; [Pub. L. 101–508, title V, § 5054(b)][/us/pl/101/508/s5054/b], Nov. 5, 1990, [104 Stat. 1388–229][/us/stat/104/1388-229]; [Pub. L. 103–66, title XIII, § 13711(b)(4)][/us/pl/103/66/s13711/b/4], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 103–432, title II, § 203(b)][/us/pl/103/432/s203/b], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456]; [Pub. L. 104–188, title I, § 1808(a)][/us/pl/104/188/s1808/a], Aug. 20, 1996, [110 Stat. 1903][/us/stat/110/1903]; [Pub. L. 104–193, title I, § 108(d)(2)][/us/pl/104/193/s108/d/2], title V, § 505, Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2278; [Pub. L. 105–33, title V, § 5591(b)][/us/pl/105/33/s5591/b], Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643]; [Pub. L. 105–89, title I][/us/pl/105/89], §§ 101(a), 106, title III, §§ 306, 308, Nov. 19, 1997, [111 Stat. 2116][/us/stat/111/2116], 2120, 2132, 2133; [Pub. L. 105–200, title III, § 301(a)][/us/pl/105/200/s301/a], July 16, 1998, [112 Stat. 658][/us/stat/112/658]; [Pub. L. 106–169, title I, § 112(a)][/us/pl/106/169/s112/a], title IV, § 401(o), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1859; [Pub. L. 109–171, title VII, § 7401(c)][/us/pl/109/171/s7401/c], Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–239][/us/pl/109/239], §§ 3, 4(a)(1), 10, July 3, 2006, [120 Stat. 508][/us/stat/120/508], 513; [Pub. L. 109–248, title I, § 152(a)][/us/pl/109/248/s152/a], (b), July 27, 2006, [120 Stat. 608][/us/stat/120/608], 609; [Pub. L. 109–432, div. B, title IV, § 405(c)(1)(B)(i)][/us/pl/109/432/s405/c/1/B/i], Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999]; [Pub. L. 110–351, title I][/us/pl/110/351], §§ 101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§ 204(b), 206, title III, § 301(c)(1)(A), title IV, § 403, Oct. 7, 2008, [122 Stat. 3950–3952][/us/stat/122/3950-3952], 3956, 3957, 3960, 3962, 3969, 3979; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)][/us/pl/111/148/s6703/d/2/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803]; [Pub. L. 113–183, title I][/us/pl/113/183], §§ 101(a), 102, 104, 111(a)(2), (b), 112(b)(2)(A)(ii), title II, § 209(a)(1), Sept. 29, 2014, [128 Stat. 1920–1922][/us/stat/128/1920-1922], 1924, 1927, 1941.)
-
- __Amendment of Subsection (a)__ 
-
-    [Pub. L. 113–183, title I][/us/pl/113/183], §§ 111(a)(2), (b), (d), 112(b)(2)(A)(ii), (c), Sept. 29, 2014, [128 Stat. 1924][/us/stat/128/1924], 1925, 1927, 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, subsection (a) of this section is amended as follows:
-
-    (1) by amending paragraph (10) to read as follows:
-
-    “(10) provides—
-
-    “(A) for the establishment or designation of a State authority or authorities that shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for the institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and which shall permit use of the reasonable and prudent parenting standard;
-
-    “(B) that the standards established pursuant to subparagraph (A) shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B and shall require, as a condition of each contract entered into by a child care institution to provide foster care, the presence on-site of at least 1 official who, with respect to any child placed at the child care institution, is designated to be the caregiver who is authorized to apply the reasonable and prudent parent standard to decisions involving the participation of the child in age or developmentally-appropriate activities, and who is provided with training in how to use and apply the reasonable and prudent parent standard in the same manner as prospective foster parents are provided the training pursuant to paragraph (24);
-
-    “(C) that the standards established pursuant to subparagraph (A) shall include policies related to the liability of foster parents and private entities under contract by the State involving the application of the reasonable and prudent parent standard, to ensure appropriate liability for caregivers when a child participates in an approved activity and the caregiver approving the activity acts in accordance with the reasonable and prudent parent standard; and
-
-    “(D) that a waiver of any standards established pursuant to subparagraph (A) may be made only on a case-by-case basis for nonsafety standards (as determined by the State) in relative foster family homes for specific children in care;”;
-
-    (2) in paragraph (16)—
-
-    (A) by inserting “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(1) of this title][/us/usc/t42/s675/1]”; and
-
-    (B) by striking “[section 675(5)(B) of this title][/us/usc/t42/s675/5/B]” and inserting “sections 675(5) and 675a of this title”; and
-
-    (3) in paragraph (24)—
-
-    (A) by striking “include” and inserting “includes”;
-
-    (B) by striking “and that such preparation” and inserting “that the preparation”; and
-
-    (C) by inserting “, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities” before the semicolon.
-
-    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -722,7 +700,7 @@
 [/us/usc/t18/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1112%2Fa
 [/us/usc/t42/s675/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FC
 [/us/usc/t42/s675/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F1
-[/us/usc/t42/s675/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FB
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
 [/us/usc/t42/s1396a/a/10/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FA%2Fi%2FI
 [/us/usc/t42/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs672
 [/us/usc/t42/s673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fd
@@ -776,11 +754,6 @@
 [/us/stat/124/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F803
 [/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/stat/128/1920-1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1920-1922
-[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
-[/us/stat/128/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1924
-[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
-[/us/usc/t42/s675/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F1
-[/us/usc/t42/s675/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FB
 [/us/usc/t28/s534/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534%2Fe%2F3%2FA
 [/us/usc/t28/s534/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534%2Ff%2F3%2FA
 [/us/pl/109/248/s153/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs153%2Fi

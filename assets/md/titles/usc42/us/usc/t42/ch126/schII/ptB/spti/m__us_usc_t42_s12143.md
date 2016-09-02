@@ -125,6 +125,12 @@
 
     Subsec. (a) of this section effective 18 months after July 26, 1990, and subsecs. (b) to (f) of this section effective July 26, 1990, see [section 231 of Pub. L. 101–336][/us/pl/101/336/s231], set out as a note under [section 12141 of this title][/us/usc/t42/s12141].
 
+ __Paratransit System Under FTA Approved Coordinated Plan__ 
+
+[Pub. L. 114–94, div. A, title III, § 3023][/us/pl/114/94/s3023], Dec. 4, 2015, [129 Stat. 1494][/us/stat/129/1494], provided that: 
+
+> “Notwithstanding the provisions of section 37.131(c) of title 49, Code of Federal Regulations, any paratransit system currently coordinating complementary paratransit service for more than 40 fixed route agencies shall be permitted to continue using an existing tiered, distance-based coordinated paratransit fare system, if the fare for the existing tiered, distance-based coordinated paratransit fare system is not increased by a greater percentage than any increase to the fixed route fare for the largest transit agency in the complementary paratransit service area.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t42/ch126/schII/ptB/spti/m__us_usc_t42_s12142.md) | [Next](./../../../../../../..//us/usc/t42/ch126/schII/ptB/spti/m__us_usc_t42_s12144.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12143)
@@ -138,5 +144,7 @@
 [/us/stat/104/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F340
 [/us/pl/101/336/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs231
 [/us/usc/t42/s12141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12141
+[/us/pl/114/94/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3023
+[/us/stat/129/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1494
 
 
