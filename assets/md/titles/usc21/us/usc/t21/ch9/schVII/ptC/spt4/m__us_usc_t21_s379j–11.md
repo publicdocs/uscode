@@ -83,10 +83,6 @@ For purposes of this subpart:
 
 ([June 25, 1938, ch. 675, § 739][/us/act/1938-06-25/ch675/s739], as added [Pub. L. 108–130, § 3][/us/pl/108/130/s3], Nov. 18, 2003, [117 Stat. 1361][/us/stat/117/1361]; amended [Pub. L. 110–85, title I, § 109][/us/pl/110/85/s109], Sept. 27, 2007, [121 Stat. 842][/us/stat/121/842]; [Pub. L. 110–316, title I, § 102][/us/pl/110/316/s102], Aug. 14, 2008, [122 Stat. 3510][/us/stat/122/3510]; [Pub. L. 113–14, title I, § 102][/us/pl/113/14/s102], June 13, 2013, [127 Stat. 452][/us/stat/127/452].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–14][/us/pl/113/14], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—[Pub. L. 113–14][/us/pl/113/14] amended section generally. Prior to amendment, section consisted of pars. (1) to (12) defining similar terms for this subpart.
@@ -210,7 +206,6 @@ For effective date of amendment by [Pub. L. 113–14][/us/pl/113/14], see Effect
 [/us/stat/122/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3510
 [/us/pl/113/14/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs102
 [/us/stat/127/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F452
-[/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
 [/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
 [/us/pl/110/316/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F316%2Fs102%2F1
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360

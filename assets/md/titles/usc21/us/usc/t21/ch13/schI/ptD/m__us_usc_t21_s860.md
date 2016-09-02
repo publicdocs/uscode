@@ -97,7 +97,7 @@
 
     Subsec. (b). [Pub. L. 99–646][/us/pl/99/646] which directed that “parole” be inserted after “(2) at least three times any special” could not be executed in view of prior amendment by [Pub. L. 99–570, § 1104(c)][/us/pl/99/570/s1104/c] below.
 
-    [Pub. L. 99–570, § 1166(b)][/us/pl/99/570/s1166/b], which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by [Pub. L. 99–570, § 1104(c)][/us/pl/99/570/s1104/c] below.
+    [Pub. L. 99–570, § 1866(b)][/us/pl/99/570/s1866/b], which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by [Pub. L. 99–570, § 1104(c)][/us/pl/99/570/s1104/c] below.
 
     [Pub. L. 99–570][/us/pl/99/570], §§ 1104(a), 1841(b)(2), inserted reference to [section 856 of this title][/us/usc/t21/s856], inserted “or manufacturing” after “distributing” and substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”.
 
@@ -179,7 +179,7 @@
 [/us/pl/99/570/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1004%2Fa
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/570/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1104%2Fc
-[/us/pl/99/570/s1166/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1166%2Fb
+[/us/pl/99/570/s1866/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1866%2Fb
 [/us/pl/99/570/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1104%2Fc
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t21/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs856

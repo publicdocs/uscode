@@ -37,7 +37,7 @@
 
     For purposes of this title: 1
 
-        (1) The term “priority countermeasure” has the meaning given such term in [section 247d–6(h)(4) of title 42][/us/usc/t42/s247d–6/h/4].
+        (1) The term “priority countermeasure” has the meaning given such term in section 247d–6(h)(4) 1 of title 42.
 
         (2) The term “priority drugs or biological products” means a drug or biological product that is the subject of a drug or biologics application referred to in section 101(4) of the Food and Drug Administration Modernization Act of 1997.
 
@@ -48,6 +48,8 @@
     Section 123, referred to in subsec. (b), is [section 123 of Pub. L. 107–188][/us/pl/107/188/s123], title I, June 12, 2002, [116 Stat. 613][/us/stat/116/613], which is not classified to the Code.
 
     This title, referred to in subsec. (d), is title I of [Pub. L. 107–188][/us/pl/107/188], June 12, 2002, [116 Stat. 596][/us/stat/116/596], which enacted this section, [section 669a of Title 29][/us/usc/t29/s669a], Labor, and sections 244, 245, 247d–3a, 247d–3b, 247d–7a to 247d–7d, 300hh, 300hh–11 to 300hh–13, 1320b–5, and 7257d of Title 42, The Public Health and Welfare, amended sections 247d to 247d–6, 264, 266, 290hh–1, and 5196b of Title 42, and enacted provisions set out as notes preceding [section 8101 of Title 38][/us/usc/t38/s8101], Veterans’ Benefits, and under sections 201, 244, 247d, 247d–6, 300hh, 300hh–12, and 1320b–5 of Title 42. For complete classification of this title to the Code, see Tables.
+
+    [Section 247d–6(h)(4) of title 42][/us/usc/t42/s247d–6/h/4], referred to in subsec. (d)(1), was redesignated section 247d–6(e)(4) by [Pub. L. 109–417, title III, § 304(3)][/us/pl/109/417/s304/3], Dec. 19, 2006, [120 Stat. 2861][/us/stat/120/2861].
 
     Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in subsec. (d)(2), is [section 101(4) of Pub. L. 105–115][/us/pl/105/115/s101/4], which is set out as a note under [section 379g of this title][/us/usc/t21/s379g].
 
@@ -68,7 +70,6 @@
 [/us/usc/t42/s262/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fa%2F3
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
-[/us/usc/t42/s247d–6/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fh%2F4
 [/us/pl/107/188/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs122
 [/us/stat/116/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F613
 [/us/pl/107/188/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs123
@@ -77,6 +78,9 @@
 [/us/stat/116/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F596
 [/us/usc/t29/s669a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs669a
 [/us/usc/t38/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8101
+[/us/usc/t42/s247d–6/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fh%2F4
+[/us/pl/109/417/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs304%2F3
+[/us/stat/120/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2861
 [/us/pl/105/115/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs101%2F4
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
 

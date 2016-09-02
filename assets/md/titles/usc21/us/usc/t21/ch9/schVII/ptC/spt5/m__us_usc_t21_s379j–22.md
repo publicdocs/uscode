@@ -91,10 +91,6 @@
 
 ([June 25, 1938, ch. 675, § 742][/us/act/1938-06-25/ch675/s742], as added [Pub. L. 110–316, title II, § 203][/us/pl/110/316/s203], Aug. 14, 2008, [122 Stat. 3522][/us/stat/122/3522]; amended [Pub. L. 113–14, title II, § 203][/us/pl/113/14/s203], June 13, 2013, [127 Stat. 472][/us/stat/127/472].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–14][/us/pl/113/14], see Effective Date of 2013 Amendment note below.
-
  __Termination of Section__ 
 
 For termination of section by [section 206(b) of Pub. L. 113–14][/us/pl/113/14/s206/b], see Termination Date note below.
@@ -135,7 +131,6 @@ For termination of section by [section 206(b) of Pub. L. 113–14][/us/pl/113/14
 [/us/stat/122/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3522
 [/us/pl/113/14/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs203
 [/us/stat/127/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F472
-[/us/pl/113/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14
 [/us/pl/113/14/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs206%2Fb
 [/us/pl/113/14/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs201%2Fb
 [/us/usc/t21/s379j–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9321
