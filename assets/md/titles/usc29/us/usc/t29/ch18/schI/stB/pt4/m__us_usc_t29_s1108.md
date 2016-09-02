@@ -99,7 +99,7 @@
 
             (C) such stock does not constitute a qualifying employer security (as defined in [section 1107(d)(5) of this title][/us/usc/t29/s1107/d/5] as in effect at the time of the sale).
 
-        (13) Any transfer made before January 1, 2022, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under [section 420 of title 26][/us/usc/t26/s420] (as in effect on July 6, 2012).
+        (13) Any transfer made before January 1, 2026, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under [section 420 of title 26][/us/usc/t26/s420] (as in effect on July 31, 2015).
 
         (14)
 
@@ -495,7 +495,7 @@
 
                 The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(18)][/us/usc/t15/s78c/a/18]) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2(a)(17)][/us/usc/t15/s80b–2/a/17]) (substituting the entity for the investment adviser referred to in such section).
 
-([Pub. L. 93–406, title I, § 408][/us/pl/93/406/s408], Sept. 2, 1974, [88 Stat. 883][/us/stat/88/883]; [Pub. L. 96–364, title III, § 308][/us/pl/96/364/s308], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 97–354, § 5(a)(43)][/us/pl/97/354/s5/a/43], Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697]; [Pub. L. 99–514, title XI, § 1114(b)(15)(B)][/us/pl/99/514/s1114/b/15/B], title XVIII, § 1898(i)(1), Oct. 22, 1986, [100 Stat. 2452][/us/stat/100/2452], 2957; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–508, title XII, § 12012(b)][/us/pl/101/508/s12012/b], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 103–465, title VII, § 731(c)(4)(C)][/us/pl/103/465/s731/c/4/C], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1704(n)(2)][/us/pl/104/188/s1704/n/2], Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886]; [Pub. L. 105–34, title XV, § 1506(b)(2)][/us/pl/105/34/s1506/b/2], Aug. 5, 1997, [111 Stat. 1066][/us/stat/111/1066]; [Pub. L. 106–170, title V, § 535(a)(2)(C)][/us/pl/106/170/s535/a/2/C], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–16, title VI, § 612(b)][/us/pl/107/16/s612/b], June 7, 2001, [115 Stat. 100][/us/stat/115/100]; [Pub. L. 108–218, title II, § 204(b)(3)][/us/pl/108/218/s204/b/3], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(a)(3)][/us/pl/108/357/s709/a/3], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I, § 108(a)(11)][/us/pl/109/280/s108/a/11], formerly § 107(a)(11), title VI, §§ 601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 952, 953, 967–969, 971, 972, 975, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 106(a)(1)][/us/pl/110/458/s106/a/1], (b)(1), Dec. 23, 2008, [122 Stat. 5106][/us/stat/122/5106]; [Pub. L. 112–141, div. D, title II, § 40241(b)][/us/pl/112/141/s40241/b], July 6, 2012, [126 Stat. 859][/us/stat/126/859].)
+([Pub. L. 93–406, title I, § 408][/us/pl/93/406/s408], Sept. 2, 1974, [88 Stat. 883][/us/stat/88/883]; [Pub. L. 96–364, title III, § 308][/us/pl/96/364/s308], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 97–354, § 5(a)(43)][/us/pl/97/354/s5/a/43], Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697]; [Pub. L. 99–514, title XI, § 1114(b)(15)(B)][/us/pl/99/514/s1114/b/15/B], title XVIII, § 1898(i)(1), Oct. 22, 1986, [100 Stat. 2452][/us/stat/100/2452], 2957; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–508, title XII, § 12012(b)][/us/pl/101/508/s12012/b], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 103–465, title VII, § 731(c)(4)(C)][/us/pl/103/465/s731/c/4/C], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1704(n)(2)][/us/pl/104/188/s1704/n/2], Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886]; [Pub. L. 105–34, title XV, § 1506(b)(2)][/us/pl/105/34/s1506/b/2], Aug. 5, 1997, [111 Stat. 1066][/us/stat/111/1066]; [Pub. L. 106–170, title V, § 535(a)(2)(C)][/us/pl/106/170/s535/a/2/C], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–16, title VI, § 612(b)][/us/pl/107/16/s612/b], June 7, 2001, [115 Stat. 100][/us/stat/115/100]; [Pub. L. 108–218, title II, § 204(b)(3)][/us/pl/108/218/s204/b/3], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(a)(3)][/us/pl/108/357/s709/a/3], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I, § 108(a)(11)][/us/pl/109/280/s108/a/11], formerly § 107(a)(11), title VI, §§ 601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 952, 953, 967–969, 971, 972, 975, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 106(a)(1)][/us/pl/110/458/s106/a/1], (b)(1), Dec. 23, 2008, [122 Stat. 5106][/us/stat/122/5106]; [Pub. L. 112–141, div. D, title II, § 40241(b)][/us/pl/112/141/s40241/b], July 6, 2012, [126 Stat. 859][/us/stat/126/859]; [Pub. L. 114–41, title II, § 2007(b)][/us/pl/114/41/s2007/b], July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
 
  __References in Text__ 
 
@@ -506,6 +506,8 @@
     The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15][/us/usc/t15/s78a] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(13). [Pub. L. 114–41][/us/pl/114/41] substituted “January 1, 2026” for “January 1, 2022” and “July 31, 2015” for “July 6, 2012”. The latter substitution was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
     2012—Subsec. (b)(13). [Pub. L. 112–141][/us/pl/112/141] substituted “January 1, 2022” for “January 1, 2014” and “July 6, 2012” for “August 17, 2006”.
 
@@ -736,6 +738,8 @@
 [/us/stat/122/5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5106
 [/us/pl/112/141/s40241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fb
 [/us/stat/126/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F859
+[/us/pl/114/41/s2007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2007%2Fb
+[/us/stat/129/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F459
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
@@ -744,6 +748,7 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/458/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fb%2F1
 [/us/pl/110/458/s106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fa%2F1%2FA

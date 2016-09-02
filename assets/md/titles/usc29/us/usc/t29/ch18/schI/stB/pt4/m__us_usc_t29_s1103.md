@@ -57,7 +57,7 @@
 
     (c) __Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets__ 
 
-        (1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under [section 420 of title 26][/us/usc/t26/s420] (as in effect on July 6, 2012), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+        (1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under [section 420 of title 26][/us/usc/t26/s420] (as in effect on July 31, 2015), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
 
         (2)
 
@@ -81,13 +81,15 @@
 
         (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
 
-([Pub. L. 93–406, title I, § 403][/us/pl/93/406/s403], Sept. 2, 1974, [88 Stat. 876][/us/stat/88/876]; [Pub. L. 96–364, title III, § 310][/us/pl/96/364/s310], title IV, §§ 402(b)(2), 410(a), 411(c), Sept. 26, 1980, [94 Stat. 1296][/us/stat/94/1296], 1299, 1308; [Pub. L. 100–203, title IX, § 9343(c)][/us/pl/100/203/s9343/c], Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–508, title XII, § 12012(a)][/us/pl/101/508/s12012/a], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 103–465, title VII, § 731(c)(4)(B)][/us/pl/103/465/s731/c/4/B], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 106–170, title V, § 535(a)(2)(B)][/us/pl/106/170/s535/a/2/B], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 108–218, title II, § 204(b)(2)][/us/pl/108/218/s204/b/2], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(a)(2)][/us/pl/108/357/s709/a/2], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I, § 108(a)(11)][/us/pl/109/280/s108/a/11], formerly § 107(a)(11), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 112–141, div. D, title II, § 40241(b)(1)][/us/pl/112/141/s40241/b/1], July 6, 2012, [126 Stat. 859][/us/stat/126/859].)
+([Pub. L. 93–406, title I, § 403][/us/pl/93/406/s403], Sept. 2, 1974, [88 Stat. 876][/us/stat/88/876]; [Pub. L. 96–364, title III, § 310][/us/pl/96/364/s310], title IV, §§ 402(b)(2), 410(a), 411(c), Sept. 26, 1980, [94 Stat. 1296][/us/stat/94/1296], 1299, 1308; [Pub. L. 100–203, title IX, § 9343(c)][/us/pl/100/203/s9343/c], Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–508, title XII, § 12012(a)][/us/pl/101/508/s12012/a], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 103–465, title VII, § 731(c)(4)(B)][/us/pl/103/465/s731/c/4/B], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 106–170, title V, § 535(a)(2)(B)][/us/pl/106/170/s535/a/2/B], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 108–218, title II, § 204(b)(2)][/us/pl/108/218/s204/b/2], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(a)(2)][/us/pl/108/357/s709/a/2], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I, § 108(a)(11)][/us/pl/109/280/s108/a/11], formerly § 107(a)(11), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 112–141, div. D, title II, § 40241(b)(1)][/us/pl/112/141/s40241/b/1], July 6, 2012, [126 Stat. 859][/us/stat/126/859]; [Pub. L. 114–41, title II, § 2007(b)(1)][/us/pl/114/41/s2007/b/1], July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1). [Pub. L. 114–41][/us/pl/114/41] substituted “July 31, 2015” for “July 6, 2012”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
     2012—Subsec. (c)(1). [Pub. L. 112–141][/us/pl/112/141] substituted “July 6, 2012” for “August 17, 2006”.
 
@@ -206,8 +208,11 @@
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
 [/us/pl/112/141/s40241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fb%2F1
 [/us/stat/126/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F859
+[/us/pl/114/41/s2007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2007%2Fb%2F1
+[/us/stat/129/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F459
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
