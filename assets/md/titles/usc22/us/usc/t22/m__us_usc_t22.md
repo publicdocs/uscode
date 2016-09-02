@@ -15,7 +15,7 @@
 
 # Title 22—FOREIGN RELATIONS AND INTERCOURSE
 
-Current through 113-88
+Current through 113-99
 
 <table>
 
@@ -1086,6 +1086,16 @@ Current through 113-88
     <td> Iran Freedom and Counterproliferation  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8801" data-uslm-ref="/us/usc/t22/s8801">8801</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fch96" data-uslm-ref="/us/usc/t22/ch96">96.</a>  </td>
+
+    <td> Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8901" data-uslm-ref="/us/usc/t22/s8901">8901</a>  </td>
 
   </tr>
 
