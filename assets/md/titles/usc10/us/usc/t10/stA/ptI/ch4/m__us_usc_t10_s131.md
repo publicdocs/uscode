@@ -203,7 +203,9 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title IX, § 903(a)][/us/pl/104/106/s903/a], Feb. 10, 1996, [110 Stat. 401][/us/stat/110/401], which provided that the amendments made by [section 903 of Pub. L. 104–106][/us/pl/104/106/s903] (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under [section 167 of this title][/us/usc/t10/s167]) were to take effect on Jan. 31, 1997, was repealed by [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617].References
+    [Pub. L. 104–106, div. A, title IX, § 903(a)][/us/pl/104/106/s903/a], Feb. 10, 1996, [110 Stat. 401][/us/stat/110/401], which provided that the amendments made by [section 903 of Pub. L. 104–106][/us/pl/104/106/s903] (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under [section 167 of this title][/us/usc/t10/s167]) were to take effect on Jan. 31, 1997, was repealed by [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617].
+
+ __References__ 
 
 [Pub. L. 113–291, div. A, title IX, § 901(n)][/us/pl/113/291/s901/n], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 

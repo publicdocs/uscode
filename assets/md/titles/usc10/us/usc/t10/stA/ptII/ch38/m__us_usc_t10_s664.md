@@ -205,7 +205,7 @@
 
 [Pub. L. 109–364, div. A, title V, § 519(e)][/us/pl/109/364/s519/e], Oct. 17, 2006, [120 Stat. 2191][/us/stat/120/2191], provided that: 
 
-> “The amendments made by this section \[amending this section and former section 667 and [section 668 of this title][/us/usc/t10/s668]\] shall take effect on October 1, 2007.”
+> “The amendments made by this section \[amending this section, former section 667, and [section 668 of this title][/us/usc/t10/s668]\] shall take effect on October 1, 2007.”
 
  __Retroactive Joint Service Credit for Duty in Certain Joint Task Forces__ 
 

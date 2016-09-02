@@ -119,7 +119,7 @@
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 168 of title 10][/us/usc/t10/s168], United States Code, as so amended, that begin on or after that date.”
 
- __Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense__ 
+ __Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations__ 
 
 [Pub. L. 113–291, div. A, title X, § 1047(b)][/us/pl/113/291/s1047/b], Dec. 19, 2014, [128 Stat. 3495][/us/stat/128/3495], provided that: 
 

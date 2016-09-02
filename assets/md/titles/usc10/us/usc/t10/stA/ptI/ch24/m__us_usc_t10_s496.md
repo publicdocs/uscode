@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])”.
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])” in introductory provisions.
 
 ----------
 

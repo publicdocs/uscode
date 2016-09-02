@@ -115,7 +115,7 @@
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 184 of title 10][/us/usc/t10/s184], United States Code (as so amended), that begin on or after that date.”
 
- __Redesignation of the Asia-Pacific Center for Security Studies as the Daniel k. Inouye Asia-Pacific Center for Security Studies__ 
+ __Redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies__ 
 
 [Pub. L. 113–291, div. B, title XXVIII, § 2861(a)][/us/pl/113/291/s2861/a], Dec. 19, 2014, [128 Stat. 3715][/us/stat/128/3715], provided that: 
 

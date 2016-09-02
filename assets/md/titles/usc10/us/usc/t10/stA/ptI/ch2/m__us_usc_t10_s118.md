@@ -165,7 +165,7 @@
 
         The Panel for a quadrennial defense review shall terminate 45 days after the date on which the Panel submits its final report on the quadrennial defense review under paragraph (7).
 
-    \[(g) Repealed. [Pub. L. 113–291, div. A, title X, § 1071(f)(1)][/us/pl/113/291/s1071/f/1], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]\]
+    \[(g) Repealed. [Pub. L. 113–291, div. A, title X, § 1071(f)(1)][/us/pl/113/291/s1071/f/1], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].\]
 
     (h)  __Relationship to Budget__  __.—__ 
 
@@ -373,7 +373,7 @@
 
 [Pub. L. 113–291, div. A, title X, § 1072(c)][/us/pl/113/291/s1072/c], Dec. 19, 2014, [128 Stat. 3517][/us/stat/128/3517], provided that: 
 
-> “Section 118 of such title, as amended by subsection (a), and the amendments made by this section \[amending this section and repealing [section 118b of this title][/us/usc/t10/s118b]\], shall take effect on October 1, 2015.”
+> “Section 118 of such title \[meaning title 10, United States Code\], as amended by subsection (a), and the amendments made by this section \[amending this section and repealing [section 118b of this title][/us/usc/t10/s118b]\], shall take effect on October 1, 2015.”
 
  __Transfer of Functions__ 
 

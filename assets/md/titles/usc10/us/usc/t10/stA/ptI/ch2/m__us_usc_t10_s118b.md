@@ -61,7 +61,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal of section effective Oct. 1, 2015, see [section 1072(c) of Pub. L. 113–291][/us/pl/113/291/s1072/c], set out as an Effective Date of 2014 Amendment note under [section 118 of this title][/us/usc/t10/s118].
+    Repeal effective Oct. 1, 2015, see [section 1072(c) of Pub. L. 113–291][/us/pl/113/291/s1072/c], set out as an Effective Date of 2014 Amendment note under [section 118 of this title][/us/usc/t10/s118].
 
  __Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy__ 
 

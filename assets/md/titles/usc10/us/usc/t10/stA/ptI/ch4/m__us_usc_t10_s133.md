@@ -119,7 +119,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(j)(2)][/us/pl/113/291/s901/j/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment by section 901(j)(2)(A) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
+    [Pub. L. 113–291, div. A, title IX, § 901(j)(2)][/us/pl/113/291/s901/j/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(j)(2)(A) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
 
  __Reports to Congress on Failure To Comply With Recommendations__ 
 

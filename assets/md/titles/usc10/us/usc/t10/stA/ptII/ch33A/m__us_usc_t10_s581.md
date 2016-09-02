@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–291, § 501][/us/pl/113/291/s501], redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted semicolon for period at end, and added subpar. (B).
+    2014—Subsec. (d). [Pub. L. 113–291, § 501][/us/pl/113/291/s501], redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and, in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted “; or” for period at end, and added subpar. (B).
 
     Subsec. (e). [Pub. L. 113–291, § 502(a)][/us/pl/113/291/s502/a], designated existing provisions as par. (1), substituted “three months” for “90 days”, and added par. (2).
 

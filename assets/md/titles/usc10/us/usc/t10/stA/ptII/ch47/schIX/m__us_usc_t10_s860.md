@@ -237,11 +237,11 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 
 [Pub. L. 113–66, div. A, title XVII, § 1702(d)(2)][/us/pl/113/66/s1702/d/2], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], as amended by [Pub. L. 113–291, div. A, title V, § 531(g)(2)(A)][/us/pl/113/291/s531/g/2/A], Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that:
 
->      “(A) Except as provided in subparagraph (B), the amendments made by subsection (b) and paragraphs (1) and (2) of subsection (c) \[amending this section and [section 871 of this title][/us/usc/t10/s871]\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.
+>     “(A) Except as provided in subparagraph (B), the amendments made by subsection (b) and paragraphs (1) and (2) of subsection (c) \[amending this section and [section 871 of this title][/us/usc/t10/s871]\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.
 
 >     “(B) With respect to the findings and sentence of a court-martial that includes both a conviction for an offense committed before the effective date specified in subparagraph (A) and a conviction for an offense committed on or after that effective date, the convening authority shall have the same authority to take action on such findings and sentence as was in effect on the day before such effective date, except with respect to a mandatory minimum sentence under [section 856(b) of title 10][/us/usc/t10/s856/b], United States Code (article 56(b) of the Uniform Code of Military Justice).”
 
-\[[Pub. L. 113–291, div. A, title V, § 531(g)(2)(B)][/us/pl/113/291/s531/g/2/B], [128 Stat. 3366][/us/stat/128/3366], provided that: 
+\[[Pub. L. 113–291, div. A, title V, § 531(g)(2)(B)][/us/pl/113/291/s531/g/2/B], Dec. 19, 2014, [128 Stat. 3366][/us/stat/128/3366], provided that: 
 
 > “The amendments made by subparagraph (A) \[amending [section 1702(d)(2) of Pub. L. 113–66][/us/pl/113/66/s1702/d/2], set out above\] shall not apply to the findings and sentence of a court-martial with respect to which the convening authority has taken action before the date that is 30 days after the date of the enactment of this Act \[Dec. 19, 2014\].”
 

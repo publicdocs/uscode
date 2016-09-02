@@ -57,7 +57,7 @@
 
         (4) Any additional matters the Secretary of Defense considers necessary to address.
 
-    (c)  __Senior Management Workforce; Senior Functional and Technical Workforce__  __.—__ 
+    (c) __Senior Management Workforce; Senior Functional and Technical Workforce.—__ 
 
         (1)
 
@@ -139,7 +139,7 @@
 
     The Secretary of Defense shall require the Secretary of each military department and the head of each Defense Agency to submit a report to the Secretary addressing each of the matters described in this section. The Secretary of Defense shall establish a deadline for the submittal of reports under this subsection that enables the Secretary to consider the material submitted in a timely manner and incorporate such material, as appropriate, into the strategic workforce plan required by this section.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 

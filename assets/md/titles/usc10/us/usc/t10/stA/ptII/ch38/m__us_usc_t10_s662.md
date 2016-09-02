@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291][/us/pl/113/291] struck out subsec. (a) designation and heading “Qualifications.—” and struck out subsec. (b) which related to annual report.
+    2014—[Pub. L. 113–291][/us/pl/113/291] struck out subsec. (a) designation and heading “Qualifications.—” before “The Secretary of Defense” and struck out subsec. (b) which related to annual report.
 
     2009—Subsec. (a)(2). [Pub. L. 111–84][/us/pl/111/84] made technical amendment to directory language of [Pub. L. 110–417, § 523(1)][/us/pl/110/417/s523/1]. See 2008 Amendment note below.
 

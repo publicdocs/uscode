@@ -143,9 +143,9 @@
 
     Subsec. (d). [Pub. L. 113–291, § 321(2)][/us/pl/113/291/s321/2], (3), added subsec. (d) and struck out former subsec. (d) which related to comprehensive readiness indicators for active components.
 
-    Subsec. (e). [Pub. L. 113–291, § 321(4)][/us/pl/113/291/s321/4], (5), redesignated subsec. (g) as (e) and substituted “National Response Framework” for “National Response Plan” in par. (1).
+    Subsec. (e). [Pub. L. 113–291, § 321(2)][/us/pl/113/291/s321/2], (4), redesignated subsec. (g) as (e) and struck out former subsec. (e) which related to logistics indicators.
 
-    [Pub. L. 113–291, § 321(2)][/us/pl/113/291/s321/2], struck out subsec. (e) which related to logistics indicators.
+    Subsec. (e)(1). [Pub. L. 113–291, § 321(5)][/us/pl/113/291/s321/5], substituted “National Response Framework” for “National Response Plan”.
 
     Subsec. (f). [Pub. L. 113–291, § 321(2)][/us/pl/113/291/s321/2], (4), redesignated subsec. (h) as (f) and struck out former subsec. (f) which related to unit readiness indicators.
 
@@ -272,8 +272,8 @@
 [/us/stat/128/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3342
 [/us/pl/113/291/s321/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F1
 [/us/pl/113/291/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F2
-[/us/pl/113/291/s321/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F4
 [/us/pl/113/291/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F2
+[/us/pl/113/291/s321/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F5
 [/us/pl/113/291/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F2
 [/us/pl/113/291/s321/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F6
 [/us/pl/113/291/s321/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs321%2F4

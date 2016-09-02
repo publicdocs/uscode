@@ -107,7 +107,7 @@
 
 >         “(A) designate a Department component under subsection (a) of such section 391; and
 
->         “(B) issue or revise guidance applicable to Department components that ensures the rapid sharing by the component designated pursuant to such section 391 or section 941 of the National Defense Authorization Act for Fiscal Year 2013 ([10 U.S.C. 2224][/us/usc/t10/s2224] note) of information relating to cyber incidents with respect to networks or information systems of contractors with other appropriate Department components.”
+>         “(B) issue or revise guidance applicable to Department components that ensures the rapid sharing by the component designated pursuant to such section 391 or section 941 of the National Defense Authorization Act for Fiscal Year 2013 \[[Pub. L. 112–239][/us/pl/112/239]\] ([10 U.S.C. 2224][/us/usc/t10/s2224] note) of information relating to cyber incidents with respect to networks or information systems of contractors with other appropriate Department components.”
 
 ----------
 
@@ -125,6 +125,7 @@
 [/us/pl/113/291/s1632/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1632%2Fc
 [/us/stat/128/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3640
 [/us/usc/t10/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs391
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
 
 

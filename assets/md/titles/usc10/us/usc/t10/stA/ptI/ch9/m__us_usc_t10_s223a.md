@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] struck out subsec. (d). Prior to amendment, text read as follows: “The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).”
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] struck out subsec. (d). Text read as follows: “The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).”
 
  __Implementation of Requirement for Availability of Test Plans__ 
 

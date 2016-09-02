@@ -37,13 +37,13 @@
 
 (Added and amended [Pub. L. 113–291, div. A, title IX, § 901(b)(1)][/us/pl/113/291/s901/b/1], (j)(1)(B), Dec. 19, 2014, [128 Stat. 3463][/us/stat/128/3463], 3467.)
 
- __Amendment of Subsection (c)__ 
+ __Amendment of Section__ 
 
     [Pub. L. 113–291, div. A, title IX, § 901(j)(1)(B)][/us/pl/113/291/s901/j/1/B], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that, effective Feb. 1, 2017, this section is amended by striking subsection (c). See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
-    A prior [section 142 of this title][/us/usc/t10/s142] was renumbered [section 138d of this title][/us/usc/t10/s138d].
+    A prior [section 142 of this title][/us/usc/t10/s142] was renumbered [section 138d of this title][/us/usc/t10/s138d] and subsequently repealed.
 
     Another prior [section 142 of this title][/us/usc/t10/s142] was contained in chapter 5 of this title, prior to amendment by [Pub. L. 99–433][/us/pl/99/433]. See note preceding [section 151 of this title][/us/usc/t10/s151].
 

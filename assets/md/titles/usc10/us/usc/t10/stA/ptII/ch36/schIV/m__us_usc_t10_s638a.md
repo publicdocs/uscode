@@ -95,7 +95,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(3) to (5). [Pub. L. 113–291, § 503][/us/pl/113/291/s503], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of officers described in subsection (b)(3) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
+    2014—Subsec. (d)(3) to (5). [Pub. L. 113–291][/us/pl/113/291] redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of officers described in subsection (b)(3) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
 
     2013—Subsec. (a). [Pub. L. 112–239, § 502(1)][/us/pl/112/239/s502/1], designated existing provisions as par. (1), struck out “, during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “military department”, and added par. (2).
 
@@ -164,7 +164,7 @@
 [/us/stat/128/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3355
 [/us/pl/102/484/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4403
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
-[/us/pl/113/291/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs503
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs502%2F1
 [/us/pl/113/66/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fa%2F1
 [/us/usc/t10/s638/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs638%2Fa%2F1%2FA

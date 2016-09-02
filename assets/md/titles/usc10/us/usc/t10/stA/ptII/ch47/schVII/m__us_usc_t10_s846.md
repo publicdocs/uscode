@@ -37,7 +37,7 @@
 
     Process issued in court-martial cases to compel witnesses to appear and testify and to compel the production of other evidence shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue and shall run to any part of the United States, or the Commonwealths and possessions.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 113–66, div. A, title XVII, § 1704][/us/pl/113/66/s1704], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958]; [Pub. L. 113–291, div. A, title V, § 531(b)][/us/pl/113/291/s531/b], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363],.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 113–66, div. A, title XVII, § 1704][/us/pl/113/66/s1704], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958]; [Pub. L. 113–291, div. A, title V, § 531(b)][/us/pl/113/291/s531/b], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
 
 <table>
 

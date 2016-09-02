@@ -39,7 +39,7 @@
 
 >     “(a)  __Authority__  __.—__ 
 
->     A joint task force of the Department of Defense that provides support to law enforcement agencies conducting counter-drug activities may also provide, subject to all applicable laws and regulations, support to law enforcement agencies conducting counter-terrorism activities.
+>     A joint task force of the Department of Defense that provides support to law enforcement agencies conducting counter-drug activities may also provide, subject to all applicable laws and regulations, support to law enforcement agencies conducting counter-terrorism activities or counter-transnational organized crime activities.
 
 >     “(b)  __Availability of Funds__  __.—__ 
 
@@ -67,7 +67,7 @@
 
 >             “(B) The Secretary of Defense may waive the requirements of subparagraph (A) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to the congressional defense committees notice in writing of any waiver issued under this subparagraph, together with a description of the vital national security interests associated with the support covered by such waiver.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >         (1) In this section, the term ‘transnational organized crime’ has the meaning given such term in section 1004(j) of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 374][/us/usc/t10/s374] note).
 
