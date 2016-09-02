@@ -87,11 +87,11 @@
 
 [Pub. L. 100–204, title I, § 139][/us/pl/100/204/s139], Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347], as amended by [Pub. L. 108–458, title VII, § 7121(e)][/us/pl/108/458/s7121/e], Dec. 17, 2004, [118 Stat. 3808][/us/stat/118/3808], provided that:
 
->     “(a) __Restriction on Use of Funds.—__ 
+>     “(a)  __Restriction on Use of Funds__  __.—__ 
 
 >     If any international agreement, whose text is required to be transmitted to the Congress pursuant to the first sentence of subsection (a) of [section 112b of title 1][/us/usc/t1/s112b], United States Code (commonly referred to as the ‘Case-Zablocki Act’), is not so transmitted within the 60-day period specified in that sentence, then no funds authorized to be appropriated by this or any other Act shall be available after the end of that 60-day period to implement that agreement until the text of that agreement has been so transmitted.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall take effect 60 days after the date of enactment of the 911 \[probably means 9/11\] Commission Implementation Act of 2004 \[Dec. 17, 2004\] and shall apply during fiscal years 2005, 2006, and 2007.”
 

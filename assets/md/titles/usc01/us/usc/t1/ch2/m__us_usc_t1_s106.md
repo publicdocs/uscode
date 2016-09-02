@@ -23,21 +23,21 @@
 
 [Pub. L. 100–360, title IV, § 411(a)][/us/pl/100/360/s411/a], July 1, 1988, [102 Stat. 768][/us/stat/102/768], provided that:
 
->     “(1) __Reference.—__ 
+>     “(1)  __Reference__  __.—__ 
 
 >     In this section, the term ‘OBRA’ refers to the Omnibus Budget Reconciliation Act of 1987 ([Public Law 100–203][/us/pl/100/203]) \[[Pub. L. 100–203][/us/pl/100/203], Dec. 22, 1987, [101 Stat. 1330][/us/stat/101/1330], see Tables for classification\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Except as specifically provided in this section, the amendments made by this section \[amending sections 254o, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5, 1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395l, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396o, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395l, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealing provisions set out as notes under section 1395l of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
 
 >     “(3) __Ratification of enrollment corrections and printed enrollment.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[[Pub. L. 100–203, title IV][/us/pl/100/203], Dec. 22, 1987, [101 Stat. 1330–39][/us/stat/101/1330-39]\], as prepared and printed under section 8004 of OBRA \[[section 8004 of Pub. L. 100–203][/us/pl/100/203/s8004], set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
->         “(B) __Footnote corrections.—__ 
+>         “(B)  __Footnote corrections__  __.—__ 
 
 >             (i) With respect to the reference to which footnote 28 relates ([101 Stat. 1330–81][/us/stat/101/1330-81]), the reference shall be deemed to have read ‘1320a–7b)’.
 
@@ -45,7 +45,7 @@
 
 >             “(iii) With respect to the designation to which footnote 52 relates ([101 Stat. 1330–151][/us/stat/101/1330-151]), the designation shall be deemed to have read ‘(F)’.
 
->         “(C) __Clarifications of illegible matter.—__ 
+>         “(C)  __Clarifications of illegible matter__  __.—__ 
 
 >             (i) Section 1842(n)(1)(A) of the Social Security Act, as added by section 4051(a) of OBRA ([101 Stat. 1330–93][/us/stat/101/1330-93]) \[[42 U.S.C. 1395m(n)(1)(A)][/us/usc/t42/s1395m/n/1/A]\], is deemed to have the phrase ‘the supplier’s reasonable charge to individuals enrolled under this part for the test’ immediately after ‘or, if lower, the’.
 
@@ -73,11 +73,11 @@
 
 > “SECTION 1. __WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING.__ 
 
->     “(a) __Waiver.—__ 
+>     “(a)  __Waiver__  __.—__ 
 
 >     The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation measure of the One Hundred Fourth Congress presented to the President after the enactment of this joint resolution \[Sept. 30, 1996\].
 
->     “(b) __Certification of Enrollment by Committee on House Oversight.—__ 
+>     “(b)  __Certification of Enrollment by Committee on House Oversight__  __.—__ 
 
 >     The enrollment of any such measure shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.
 
@@ -93,7 +93,7 @@
 
 > “SEC. 201. __WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING.__ 
 
->     “(a) __Waiver.—__ 
+>     “(a)  __Waiver__  __.—__ 
 
 >     The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any of the following measures of the first session of the One Hundred Fourth Congress presented to the President after the enactment of this joint resolution \[Nov. 20, 1995\]:
 
@@ -103,7 +103,7 @@
 
 >         “(3) A reconciliation bill.
 
->     “(b) __Certification by Committee on House Oversight.—__ 
+>     “(b)  __Certification by Committee on House Oversight__  __.—__ 
 
 >     The enrollment of a measure to which subsection (a) applies shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.
 
@@ -111,15 +111,15 @@
 
 > “As used in this joint resolution:
 
->     “(1) __Continuing resolution.—__ 
+>     “(1)  __Continuing resolution__  __.—__ 
 
 >     The term ‘continuing resolution’ means a bill or joint resolution that includes provisions making further continuing appropriations for fiscal year 1996.
 
->     “(2) __Debt limit extension measure.—__ 
+>     “(2)  __Debt limit extension measure__  __.—__ 
 
 >     The term ‘debt limit extension measure’ means a bill or joint resolution that includes provisions increasing or waiving (for a temporary period or otherwise) the public debt limit under [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code.
 
->     “(3) __Reconciliation bill.—__ 
+>     “(3)  __Reconciliation bill__  __.—__ 
 
 >     The term ‘reconciliation bill’ means a bill that is a reconciliation bill within the meaning of section 310 of the Congressional Budget Act of 1974 \[[2 U.S.C. 641][/us/usc/t2/s641]\].”
 
@@ -143,11 +143,11 @@
 
 > “SECTION 1. __WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING OF ENROLLMENT OF CERTAIN MEASURES.__ 
 
->     “(a) __Waiver.—__ 
+>     “(a)  __Waiver__  __.—__ 
 
 >     The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of S. 2830 \[[Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3359][/us/stat/104/3359]\].
 
->     “(b) __Certification of Enrollment by the Secretary of the Senate.—__ 
+>     “(b)  __Certification of Enrollment by the Secretary of the Senate__  __.—__ 
 
 >     The enrollment of S. 2830 shall be in such form as the Secretary of the Senate certifies to be a true enrollment.
 
@@ -155,23 +155,23 @@
 
 >     “(a) __Preparation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If S. 2830 is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill the Secretary of the Senate shall prepare a printed enrollment of the bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
 
->         “(2) __Typographical corrections.—__ 
+>         “(2)  __Typographical corrections__  __.—__ 
 
 >         A printed enrollment prepared pursuant to paragraph (1) may, in order to conform to customary style for printed laws, include corrections in indentation, type face, and type size and may include notations (in the margins or as otherwise appropriate) of obvious errors in spelling or punctuation in the hand enrollment.
 
->     “(b) __Transmittal to President.—__ 
+>     “(b)  __Transmittal to President__  __.—__ 
 
 >     A printed enrollment prepared pursuant to subsection (a), after being certified by the Secretary of the Senate to be a correct printing of the hand enrollment, shall be signed by the presiding officer of each House of Congress and transmitted to the President.
 
->     “(c) __Certification by President; Preservation in Archives.—__ 
+>     “(c)  __Certification by President; Preservation in Archives__  __.—__ 
 
 >     Upon certification by the President that a printed enrollment transmitted pursuant to subsection (b) is a correct printing of the hand enrollment, such printed enrollment shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment.
 
->     “(d) __Publication of Law.—__ 
+>     “(d)  __Publication of Law__  __.—__ 
 
 >     In preparing the bill or joint resolution for publication in slip form and in the United States Statutes at Large pursuant to [section 112 of title 1][/us/usc/t1/s112], United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
@@ -179,7 +179,7 @@
 
 > “As used in this resolution:
 
->     “(1) __\[sic\] Hand enrollment.—__ 
+>     “(1) __\[sic\]__  __Hand enrollment__  __.—__ 
 
 >     The term ‘hand enrollment’ means the enrollment, as authorized by section 1, of a bill or joint resolution for presentment to the President in a form other than the printed form required by sections 106 and 107 of title 1, United States Code.”
 
@@ -187,11 +187,11 @@
 
 > “SECTION 1. __WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING OF ENROLLMENT OF CERTAIN MEASURES.__ 
 
->     “(a) __Waiver.—__ 
+>     “(a)  __Waiver__  __.—__ 
 
 >     The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any reconciliation bill, appropriation bill, or continuing resolution of the One Hundred First Congress presented to the President after the enactment of this joint resolution \[Oct. 27, 1990\].
 
->     “(b) __Certification of Enrollment by Committee on House Administration.—__ 
+>     “(b)  __Certification of Enrollment by Committee on House Administration__  __.—__ 
 
 >     The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment.
 
@@ -199,23 +199,23 @@
 
 >     “(a) __Preparation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a reconciliation bill, appropriation bill, or continuing resolution is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill or joint resolution the Clerk of the House of Representatives shall prepare a printed enrollment of the bill or joint resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply.
 
->         “(2) __Typographical corrections.—__ 
+>         “(2)  __Typographical corrections__  __.—__ 
 
 >         A printed enrollment prepared pursuant to paragraph (1) may, in order to conform to customary style for printed laws, include corrections in indentation, type face, and type size and may include notations (in the margins or as otherwise appropriate) of obvious errors in spelling or punctuation in the hand enrollment.
 
->     “(b) __Transmittal to President.—__ 
+>     “(b)  __Transmittal to President__  __.—__ 
 
 >     A printed enrollment prepared pursuant to subsection (a), after being certified by the Committee on House Administration of the House of Representatives to be a correct printing of the hand enrollment, shall be signed by the presiding officer of each House of Congress and transmitted to the President.
 
->     “(c) __Certification by President; Preservation in Archives.—__ 
+>     “(c)  __Certification by President; Preservation in Archives__  __.—__ 
 
 >     Upon certification by the President that a printed enrollment transmitted pursuant to subsection (b) is a correct printing of the hand enrollment, such printed enrollment shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment.
 
->     “(d) __Publication of Law.—__ 
+>     “(d)  __Publication of Law__  __.—__ 
 
 >     In preparing the bill or joint resolution for publication in slip form and in the United States Statutes at Large pursuant to [section 112 of title 1][/us/usc/t1/s112], United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
@@ -223,19 +223,19 @@
 
 > “As used in this resolution:
 
->     “(1) __Reconciliation bill.—__ 
+>     “(1)  __Reconciliation bill__  __.—__ 
 
 >     The term ‘reconciliation bill’ means a bill to provide for reconciliation pursuant to section 4 of the concurrent resolution on the budget for fiscal year 1991.
 
->     “(2) __Appropriation bill.—__ 
+>     “(2)  __Appropriation bill__  __.—__ 
 
 >     The term ‘appropriation bill’ means a general appropriation bill making appropriations for the fiscal year ending September 30, 1991.
 
->     “(3) __Continuing resolution.—__ 
+>     “(3)  __Continuing resolution__  __.—__ 
 
 >     The term ‘continuing resolution’ means a joint resolution making continuing appropriations for the fiscal year 1991.
 
->     “(4) __Hand enrollment.—__ 
+>     “(4)  __Hand enrollment__  __.—__ 
 
 >     The term ‘hand enrollment’ means the enrollment, as authorized by section 1, of a bill or joint resolution for presentment to the President in a form other than the printed form required by sections 106 and 107 of title 1, United States Code.”
 
@@ -243,11 +243,11 @@
 
 > “SECTION 1. __HAND ENROLLMENT AUTHORIZED FOR GENERAL APPROPRIATIONS BILLS.__ 
 
->     “(a) __Waiver of Certain Laws With Respect to Printing of Enrolled Bills.—__ 
+>     “(a)  __Waiver of Certain Laws With Respect to Printing of Enrolled Bills__  __.—__ 
 
 >     During the remainder of the second session of the One Hundredth Congress, the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any general appropriations bill making appropriations for the fiscal year ending September 30, 1989.
 
->     “(b) __Certification by Committee on House Administration.—__ 
+>     “(b)  __Certification by Committee on House Administration__  __.—__ 
 
 >     The enrollment of any such bill shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment.
 
@@ -255,51 +255,51 @@
 
 >     “(a) __Preparation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
 
->         “(2) __Limited stylistic corrections.—__ 
+>         “(2)  __Limited stylistic corrections__  __.—__ 
 
 >         A printed enrollment prepared pursuant to paragraph (1) may, in order to conform to customary style for printed laws, include corrections in spelling, punctuation, indentation, type face, and type size and other necessary stylistic corrections to the hand enrollment. Such a printed enrollment shall include notations (in the margins or as otherwise appropriate) of all such corrections.
 
->     “(b) __Transmittal to President.—__ 
+>     “(b)  __Transmittal to President__  __.—__ 
 
 >     A printed enrollment prepared pursuant to subsection (a) shall be signed by the presiding officer of each House of Congress as a correct printing of the hand enrollment and shall be transmitted to the President.
 
->     “(c) __Certification by President; Legal Effect.—__ 
+>     “(c)  __Certification by President; Legal Effect__  __.—__ 
 
 >     Upon certification by the President that a printed enrollment transmitted pursuant to subsection (b) is a correct printing of the hand enrollment, such printed enrollment shall be considered for all purposes as the original enrollment of the bill concerned and as valid evidence of the enactment of that bill.
 
->     “(d) __Archives.—__ 
+>     “(d)  __Archives__  __.—__ 
 
 >     A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing the bill concerned for publication in slip form and in the United States Statutes at Large pursuant to [section 112 of title 1][/us/usc/t1/s112], United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
->     “(e) __Hand Enrollment Defined.—__ 
+>     “(e)  __Hand Enrollment Defined__  __.—__ 
 
 >     As used in this section, the term ‘hand enrollment’ means the enrollment, as authorized by section 1, of a bill for presentment to the President in a form other than the printed form required by sections 106 and 107 of title 1, United States Code.”
 
 [Pub. L. 100–203, title VIII, § 8004][/us/pl/100/203/s8004], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282], provided that:
 
->     “(a) __Preparation of Printed Enrollment.—__ 
+>     “(a)  __Preparation of Printed Enrollment__  __.—__ 
 
 >         (1) Upon the enactment of this Act enrolled as a hand enrollment, the Clerk of the House of Representatives shall prepare a printed enrollment of this Act as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply. Such enrollment shall be a correct enrollment of this Act as enrolled in the hand enrollment.
 
 >         “(2) A printed enrollment prepared pursuant to paragraph (1) may, in order to conform to customary style for printed laws, include corrections in spelling, punctuation, indentation, type face, and type size and other necessary stylistic corrections to the hand enrollment. Such a printed enrollment shall include notations (in the margins or as otherwise appropriate) of all such corrections.
 
->     “(b) __Transmittal to President.—__ 
+>     “(b)  __Transmittal to President__  __.—__ 
 
 >     A printed enrollment prepared pursuant to subsection (a) shall be signed by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this Act and shall be transmitted to the President.
 
->     “(c) __Certification by President; Legal Effect.—__ 
+>     “(c)  __Certification by President; Legal Effect__  __.—__ 
 
 >     Upon certification by the President that a printed enrollment transmitted pursuant to subsection (b) is a correct printing of the hand enrollment of this Act, such printed enrollment shall be considered for all purposes as the original enrollment of this Act and as valid evidence of the enactment of this Act.
 
->     “(d) __Archives.—__ 
+>     “(d)  __Archives__  __.—__ 
 
 >     A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this Act for publication in slip form and in the United States Statutes at Large pursuant to [section 112 of title 1][/us/usc/t1/s112], United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
->     “(e) __Hand Enrollment Defined.—__ 
+>     “(e)  __Hand Enrollment Defined__  __.—__ 
 
 >     As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[[Pub. L. 100–199][/us/pl/100/199], Dec. 21, 1987, [101 Stat. 1326][/us/stat/101/1326]\].”
 

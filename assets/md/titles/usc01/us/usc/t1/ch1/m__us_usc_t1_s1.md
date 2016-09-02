@@ -65,6 +65,12 @@
 
 > “This Act \[enacting [section 7 of this title][/us/usc/t1/s7] and [section 1738C of Title 28][/us/usc/t28/s1738C], Judiciary and Judicial Procedure\] may be cited as the ‘Defense of Marriage Act’.”
 
+ __References in__  __[__  __Pub. L. 113–67__  __][/us/pl/113/67]__ 
+
+[Pub. L. 113–67, div. A, § 1(c)][/us/pl/113/67/s1/c], Dec. 26, 2013, [127 Stat. 1166][/us/stat/127/1166], provided that: 
+
+> “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Bipartisan Budget Act of 2013, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
  __References in__  __[__  __Pub. L. 113–6__  __][/us/pl/113/6]__ 
 
 [Pub. L. 113–6, § 3][/us/pl/113/6/s3], Mar. 26, 2013, [127 Stat. 199][/us/stat/127/199], provided that: 
@@ -198,6 +204,9 @@
 [/us/stat/110/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2419
 [/us/usc/t1/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs7
 [/us/usc/t28/s1738C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1738C
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1%2Fc
+[/us/stat/127/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1166
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/pl/113/6/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs3
 [/us/stat/127/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F199
