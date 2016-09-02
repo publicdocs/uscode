@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9005.1.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9007.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule9006)
 
-### Rule 9006. Computing and Extending Time
+### Rule 9006. Computing and Extending Time; Time for Motion Papers
 
     (a)  __Computing Time__  __.__ 
 
@@ -81,9 +81,9 @@
 
         (2) Reduction Not Permitted. The court may not reduce the time for taking action under Rules 2002(a)(7), 2003(a), 3002(c), 3014, 3015, 4001(b)(2), (c)(2), 4003(a), 4004(a), 4007(c), 4008(a), 8002, and 9033(b). In addition, the court may not reduce the time under Rule 1007(c) to file the statement required by Rule 1007(b)(7).
 
-    (d)  __For Motions—Affidavits__  __.__ 
+    (d)  __Motion Papers__  __.__ 
 
-     A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion; and, except as otherwise provided in Rule 9023, opposing affidavits may be served not later than one day before the hearing, unless the court permits them to be served at some other time.
+     A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion. Except as otherwise provided in Rule 9023, any written response shall be served not later than one day before the hearing, unless the court permits otherwise.
 
     (e)  __Time of Service__  __.__ 
 
@@ -97,7 +97,7 @@
 
      This rule shall not limit the court’s authority under § 557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -246,6 +246,12 @@
     • 25-day periods become 28-day periods
 
     Subdivision (f) is amended to conform to the changes made to Rule 5(b)(2) of the Federal Rules of Civil Procedure as a part of the Civil Rules Restyling Project. As a part of that project, subparagraphs (b)(2)(C) and (D) of that rule were rewritten as subparagraphs (b)(2)(D), (E), and (F). The cross reference to those rules contained in subdivision (f) of this rule is corrected by this amendment.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    The title of this rule is amended to draw attention to the fact that it prescribes time limits for the service of motion papers. These time periods apply unless another Bankruptcy Rule or a court order, including a local rule, prescribes different time periods. Rules 9013 and 9014 should also be consulted regarding motion practice. Rule 9013 governs the form of motions and the parties who must be served. Rule 9014 prescribes the procedures applicable to contested matters, including the method of serving motions commencing contested matters and subsequent papers. Subdivision (d) is amended to apply to any written response to a motion, rather than just to opposing affidavits. The caption of the subdivision is amended to reflect this change. Other changes are stylistic.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

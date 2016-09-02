@@ -15,13 +15,23 @@
 
 ### Rule 9013. Motions: Form and Service
 
-    A request for an order, except when an application is authorized by these rules, shall be by written motion, unless made during a hearing. The motion shall state with particularity the grounds therefor, and shall set forth the relief or order sought. Every written motion other than one which may be considered ex parte shall be served by the moving party on the trustee or debtor in possession and on those entities specified by these rules or, if service is not required or the entities to be served are not specified by these rules, the moving party shall serve the entities the court directs.
+    A request for an order, except when an application is authorized by the rules, shall be by written motion, unless made during a hearing. The motion shall state with particularity the grounds therefor, and shall set forth the relief or order sought. Every written motion, other than one which may be considered ex parte, shall be served by the moving party within the time determined under Rule 9006(d). The moving party shall serve the motion on:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+    (a) the trustee or debtor in possession and on those entities specified by these rules; or
+
+    (b) the entities the court directs if these rules do not require service or specify the entities to be served.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
     This rule is derived from Rule 5(a) and Rule 7(b)(1) F.R.Civ.P. Except when an application is specifically authorized by these rules, for example an application under Rule 2014 for approval of the employment of a professional, all requests for court action must be made by motion.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    A cross-reference to Rule 9006(d) is added to this rule to call attention to the time limits for the service of motions, supporting affidavits, and written responses to motions. Rule 9006(d) prescribes time limits that apply unless other limits are fixed by these rules, a court order, or a local rule. The other changes are stylistic.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 

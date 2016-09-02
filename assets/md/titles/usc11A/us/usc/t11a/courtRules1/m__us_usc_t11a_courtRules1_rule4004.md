@@ -29,7 +29,7 @@
 
         (1)
 
-         In a chapter 7 case, on expiration of the times fixed for objecting to discharge and for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge unless:
+         In a chapter 7 case, on expiration of the times fixed for objecting to discharge and for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge, except that the court shall not grant the discharge if:
 
             (A) the debtor is not an individual;
 
@@ -45,15 +45,15 @@
 
             (G) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. § 1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. § 1930(b) that is payable to the clerk upon the commencement of a case under the Code, unless the court has waived the fees under 28 U.S.C. § 1930(f);
 
-            (H) the debtor has not filed with the court a statement of completion of a course concerning personal financial management as required by Rule 1007(b)(7);
+            (H) the debtor has not filed with the court a statement of completion of a course concerning personal financial management if required by Rule 1007(b)(7);
 
             (I) a motion to delay or postpone discharge under § 727(a)(12) is pending;
 
             (J) a motion to enlarge the time to file a reaffirmation agreement under Rule 4008(a) is pending;
 
-            (K) a presumption has arisen under § 524(m) that a reaffirmation agreement is an undue hardship; or
+            (K) a presumption is in effect under § 524(m) that a reaffirmation agreement is an undue hardship and the court has not concluded a hearing on the presumption; or
 
-            (L) a motion is pending to delay discharge, because the debtor has not filed with the court all tax documents required to be filed under § 521(f).
+            (L) a motion is pending to delay discharge because the debtor has not filed with the court all tax documents required to be filed under § 521(f).
 
         (2) Notwithstanding Rule 4004(c)(1), on motion of the debtor, the court may defer the entry of an order granting a discharge for 30 days and, on motion within that period, the court may defer entry of the order to a date certain.
 
@@ -77,7 +77,7 @@
 
      The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -186,6 +186,16 @@
     Subdivision (b). Subdivision (b) is amended to allow a party, under certain specified circumstances, to seek an extension of time to object to discharge after the time for filing has expired. This amendment addresses the situation in which there is a gap between the expiration of the time for objecting to discharge and the entry of the discharge order. If, during that period, a party discovers facts that would provide grounds for revocation of discharge, it may not be able to seek revocation under § 727(d) of the Code because the facts would have been known prior to the granting of the discharge. Furthermore, during that period the debtor may commit an act that provides a basis for both denial and revocation of the discharge. In those situations, subdivision (b)(2) allows a party to file a motion for an extension of time to object to discharge based on those facts so long as they were not known to the party before expiration of the deadline for objecting. The motion must be filed promptly after discovery of those facts.
 
     Changes Made After Publication. Following publication minor stylistic changes were made to the language of the rule, and a sentence was added to the Committee Note to clarify that the rule applies whenever the debtor commits an act during the gap period that provides a basis for both denial and revocation of the discharge.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (c)(1) is amended in several respects. The introductory language of paragraph (1) is revised to emphasize that the listed circumstances do not just relieve the court of the obligation to enter the discharge promptly but that they prevent the court from entering a discharge.
+
+    Subdivision (c)(1)(H) is amended to reflect the simultaneous amendment of Rule 1007(b)(7). The amendment of the latter rule relieves a debtor of the obligation to file a statement of completion of a course concerning personal financial management if the course provider notifies the court directly that the debtor has completed the course. Subparagraph (H) now requires postponement of the discharge when a debtor fails to file a statement of course completion only if the debtor has an obligation to file the statement.
+
+    Subdivision (c)(1)(K) is amended to make clear that the prohibition on entering a discharge due to a presumption of undue hardship under § 524(m) of the Code ceases when the presumption expires or the court concludes a hearing on the presumption.
+
+    Changes Made After Publication and Comment. Because this amendment is being made to conform to a simultaneous amendment of Rule 1007(b)(7) and is otherwise technical in nature, final approval is sought without publication.
 
 ----------
 

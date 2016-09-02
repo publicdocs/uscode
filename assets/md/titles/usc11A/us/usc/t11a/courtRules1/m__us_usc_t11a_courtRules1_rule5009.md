@@ -21,13 +21,13 @@
 
     (b)  __Notice of Failure To File Rule__  __1007(b)(7)__  __Statement__  __.__ 
 
-     If an individual debtor in a chapter 7 or 13 case has not filed the statement required by Rule 1007(b)(7) within 45 days after the first date set for the meeting of creditors under § 341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the statement is filed within the applicable time limit under Rule 1007(c).
+     If an individual debtor in a chapter 7 or 13 case is required to file a statement under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under § 341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the required statement is filed within the applicable time limit under Rule 1007(c).
 
     (c)  __Cases Under Chapter__  __15.__ 
 
      A foreign representative in a proceeding recognized under § 1517 of the Code shall file a final report when the purpose of the representative’s appearance in the court is completed. The report shall describe the nature and results of the representative’s activities in the court. The foreign representative shall transmit the report to the United States trustee, and give notice of its filing to the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct. The foreign representative shall file a certificate with the court that notice has been given. If no objection has been filed by the United States trustee or a party in interest within 30 days after the certificate is filed, there shall be a presumption that the case has been fully administered.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -46,6 +46,12 @@
     Subdivision (c). Subdivision (c) requires a foreign representative in a chapter 15 case to file a final report setting out the foreign representative’s actions and results obtained in the United States court. It also requires the foreign representative to give notice of the filing of the report, and provides interested parties with 30 days to object to the report after the foreign representative has certified that notice has been given. In the absence of a timely objection, a presumption arises that the case is fully administered, and the case may be closed.
 
     Changes Made After Publication. No changes since publication.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (b) is amended to conform to the amendment of Rule 1007(b)(7). Rule 1007(b)(7) relieves an individual debtor of the obligation to file a statement of completion of a personal financial management course if the course provider notifies the court that the debtor has completed the course. The clerk’s duty under subdivision (b) to notify the debtor of the possible closure of the case without discharge if the statement is not timely filed therefore applies only if the course provider has not already notified the court of the debtor’s completion of the course.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 

@@ -21,7 +21,7 @@
 
     (b)  __Service__  __.__ 
 
-     The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004. Any paper served after the motion shall be served in the manner provided by Rule 5(b) F. R. Civ. P.
+     The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004 and within the time determined under Rule 9006(d). Any written response to the motion shall be served within the time determined under Rule 9006(d). Any paper served after the motion shall be served in the manner provided by Rule 5(b) F.R.Civ.P.
 
     (c)  __Application of Part VII Rules__  __.__ 
 
@@ -35,7 +35,7 @@
 
      The court shall provide procedures that enable parties to ascertain at a reasonable time before any scheduled hearing whether the hearing will be an evidentiary hearing at which witnesses may testify.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -78,6 +78,12 @@
     The rule is amended to provide that the mandatory disclosure requirements of Fed. R. Civ. P. 26, as incorporated by Rule 7026, do not apply in contested matters. The typically short time between the commencement and resolution of most contested matters makes the mandatory disclosure provisions of Rule 26 ineffective. Nevertheless, the court may by local rule or by order in a particular case provide that these provisions of the rule apply in a contested matter.
 
     Changes Made After Publication. No changes since publication.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    A cross-reference to Rule 9006(d) is added to subdivision (b) to call attention to the time limits for the service of motions, supporting affidavits, and written responses to motions. Rule 9006(d) prescribes time limits that apply unless other limits are fixed by these rules, a court order, or a local rule.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

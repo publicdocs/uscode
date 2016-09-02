@@ -65,7 +65,13 @@
 
         (6) A debtor in a chapter 13 case shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form, and, if the current monthly income exceeds the median family income for the applicable state and household size, a calculation of disposable income made in accordance with § 1325(b)(3), prepared as prescribed by the appropriate Official Form.
 
-        (7) An individual debtor in a chapter 7 or chapter 13 case shall file a statement of completion of a course concerning personal financial management, prepared as prescribed by the appropriate Official Form. An individual debtor shall file the statement in a chapter 11 case in which § 1141(d)(3) applies.
+        (7)
+
+         Unless an approved provider of an instructional course concerning personal financial management has notified the court that a debtor has completed the course after filing the petition:
+
+            (A) An individual debtor in a chapter 7 or chapter 13 case shall file a statement of completion of the course, prepared as prescribed by the appropriate Official Form; and  
+
+            (B) An individual debtor in a chapter 11 case shall file the statement if § 1141(d)(3) applies.
 
         (8) If an individual debtor in a chapter 11, 12, or 13 case has claimed an exemption under § 522(b)(3)(A) in property of the kind described in § 522(p)(1) with a value in excess of the amount set out in § 522(q)(1), the debtor shall file a statement as to whether there is any proceeding pending in which the debtor may be found guilty of a felony of a kind described in § 522(q)(1)(A) or found liable for a debt of the kind described in § 522(q)(1)(B).
 
@@ -113,7 +119,7 @@
 
      If the debtor knows that a person on the list of creditors or schedules is an infant or incompetent person, the debtor also shall include the name, address, and legal relationship of any person upon whom process would be served in an adversary proceeding against the infant or incompetent person in accordance with Rule 7004(b)(2).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -258,6 +264,12 @@
  __Committee Notes on Rules—2012 Amendment__ 
 
     Subdivision (c). In subdivision (c), the time limit for a debtor in an involuntary case to file the list required by subdivision (a)(2) is deleted as unnecessary. Subdivision (a)(2) provides that the list must be filed within seven days after the entry of the order for relief. The other change to subdivision (c) is stylistic.
+
+ __Committee Notes on Rules—2013 Amendment__ 
+
+    Subdivision (b)(7) is amended to relieve an individual debtor of the obligation to file a statement of completion of a personal financial management course if the course provider notifies the court that the debtor has completed the course. Course providers approved under § 111 of the Code may be permitted to file this notification electronically with the court immediately upon the debtor’s completion of the course. If the provider does not notify the court, the debtor must file the statement, prepared as prescribed by the appropriate Official Form, within the time period specified by subdivision (c).
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 
