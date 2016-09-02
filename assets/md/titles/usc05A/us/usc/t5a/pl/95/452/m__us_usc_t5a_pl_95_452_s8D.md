@@ -125,7 +125,7 @@
 
             (C) This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
 
-([Pub. L. 95–452, § 8D][/us/pl/95/452/s8D], formerly § 8C, as added [Pub. L. 100–504, title I, § 102(f)][/us/pl/100/504/s102/f], Oct. 18, 1988, [102 Stat. 2518][/us/stat/102/2518]; renumbered § 8D, [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; amended [Pub. L. 105–206, title I, § 1103(b)][/us/pl/105/206/s1103/b], (e)(1), (2), July 22, 1998, [112 Stat. 705][/us/stat/112/705], 709; [Pub. L. 107–296, title XI, § 1112(a)(1)][/us/pl/107/296/s1112/a/1], Nov. 25, 2002, [116 Stat. 2275][/us/stat/116/2275]; [Pub. L. 108–7, div. L, § 104(c)(2)][/us/pl/108/7/s104/c/2], Feb. 20, 2003, [117 Stat. 531][/us/stat/117/531]; [Pub. L. 109–177, title VI, § 605(e)(3)][/us/pl/109/177/s605/e/3], Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255]; [Pub. L. 110–409, § 14(b)][/us/pl/110/409/s14/b], Oct. 14, 2008, [122 Stat. 4316][/us/stat/122/4316]; [Pub. L. 112–199, title I, § 117(b)][/us/pl/112/199/s117/b], Nov. 27, 2012, [126 Stat. 1475][/us/stat/126/1475].)
+([Pub. L. 95–452][/us/pl/95/452], § 8D, formerly § 8C, as added [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(f), Oct. 18, 1988, [102 Stat. 2518][/us/stat/102/2518]; renumbered § 8D, [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; amended [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(b), (e)(1), (2), July 22, 1998, [112 Stat. 705][/us/stat/112/705], 709; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(a)(1), Nov. 25, 2002, [116 Stat. 2275][/us/stat/116/2275]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 104(c)(2), Feb. 20, 2003, [117 Stat. 531][/us/stat/117/531]; [Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 605(e)(3), Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255]; [Pub. L. 110–409][/us/pl/110/409], § 14(b), Oct. 14, 2008, [122 Stat. 4316][/us/stat/122/4316]; [Pub. L. 112–199, title I][/us/pl/112/199/tI], § 117(b), Nov. 27, 2012, [126 Stat. 1475][/us/stat/126/1475].)
 
  __Amendment of Section__ 
 
@@ -141,49 +141,49 @@
 
  __Amendments__ 
 
-    2012—Subsec. (j). [Pub. L. 112–199, § 117(b)][/us/pl/112/199/s117/b], (c), temporarily substituted “section 3(d)(1)(A)” for “section 3(d)(1)” and “section 3(d)(1)(B)” for “section 3(d)(2)”. See Effective and Termination Dates of 2012 Amendment note below.
+    2012—Subsec. (j). [Pub. L. 112–199][/us/pl/112/199], § 117(b), (c), temporarily substituted “section 3(d)(1)(A)” for “section 3(d)(1)” and “section 3(d)(1)(B)” for “section 3(d)(2)”. See Effective and Termination Dates of 2012 Amendment note below.
 
     2008—Subsec. (k)(1)(C). [Pub. L. 110–409][/us/pl/110/409] substituted “protection to the Commissioner of Internal Revenue” for “physical security”.
 
     2006—Subsec. (a)(1)(F). [Pub. L. 109–177][/us/pl/109/177] substituted “[section 3056A of title 18][/us/usc/t18/s3056A]” for “[section 202 of title 3][/us/usc/t3/s202]”.
 
-    2003—Subsec. (b)(1). [Pub. L. 108–7, § 104(c)(2)(A)][/us/pl/108/7/s104/c/2/A], in first sentence, struck out “, the Office of Internal Affairs of the United States Customs Service, and the Office of Inspections of the United States Secret Service,” after “Tax and Trade Bureau” and, in second sentence, struck out “each” after “The head of”.
+    2003—Subsec. (b)(1). [Pub. L. 108–7][/us/pl/108/7], § 104(c)(2)(A), in first sentence, struck out “, the Office of Internal Affairs of the United States Customs Service, and the Office of Inspections of the United States Secret Service,” after “Tax and Trade Bureau” and, in second sentence, struck out “each” after “The head of”.
 
-    Subsec. (c). [Pub. L. 108–7, § 104(c)(2)(B)][/us/pl/108/7/s104/c/2/B], substituted “bureau” for “bureaus and services”.
+    Subsec. (c). [Pub. L. 108–7][/us/pl/108/7], § 104(c)(2)(B), substituted “bureau” for “bureaus and services”.
 
-    Subsec. (d). [Pub. L. 108–7, § 104(c)(2)(C)][/us/pl/108/7/s104/c/2/C], substituted “the bureau” for “a bureau or service” and struck out “or service” after “such bureau”.
+    Subsec. (d). [Pub. L. 108–7][/us/pl/108/7], § 104(c)(2)(C), substituted “the bureau” for “a bureau or service” and struck out “or service” after “such bureau”.
 
     2002—Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
 
-    1998—Subsec. (a)(1). [Pub. L. 105–206, § 1103(e)(2)(A)(i)][/us/pl/105/206/s1103/e/2/A/i], inserted “of the Department of the Treasury” after “Inspector General” in introductory provisions.
+    1998—Subsec. (a)(1). [Pub. L. 105–206][/us/pl/105/206], § 1103(e)(2)(A)(i), inserted “of the Department of the Treasury” after “Inspector General” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 105–206, § 1103(e)(2)(A)(ii)][/us/pl/105/206/s1103/e/2/A/ii], inserted “of the Department of the Treasury” after “prohibit the Inspector General”.
+    Subsec. (a)(2). [Pub. L. 105–206][/us/pl/105/206], § 1103(e)(2)(A)(ii), inserted “of the Department of the Treasury” after “prohibit the Inspector General”.
 
-    Subsec. (a)(3). [Pub. L. 105–206, § 1103(e)(2)(A)(iii)][/us/pl/105/206/s1103/e/2/A/iii], inserted “of the Department of the Treasury” after “Inspector General” in two places.
+    Subsec. (a)(3). [Pub. L. 105–206][/us/pl/105/206], § 1103(e)(2)(A)(iii), inserted “of the Department of the Treasury” after “Inspector General” in two places.
 
-    Subsec. (a)(4). [Pub. L. 105–206, § 1103(b)(1)][/us/pl/105/206/s1103/b/1], added par. (4).
+    Subsec. (a)(4). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(1), added par. (4).
 
-    Subsec. (b). [Pub. L. 105–206, § 1103(e)(1)][/us/pl/105/206/s1103/e/1], (2)(B), struck out “and the internal audits and internal investigations performed by the Office of Assistant Commissioner (Inspection) of the Internal Revenue Service” after “United States Secret Service,” in first sentence, and inserted “of the Department of the Treasury” after “Inspector General” in second sentence.
+    Subsec. (b). [Pub. L. 105–206][/us/pl/105/206], § 1103(e)(1), (2)(B), struck out “and the internal audits and internal investigations performed by the Office of Assistant Commissioner (Inspection) of the Internal Revenue Service” after “United States Secret Service,” in first sentence, and inserted “of the Department of the Treasury” after “Inspector General” in second sentence.
 
-    [Pub. L. 105–206, § 1103(b)(2)][/us/pl/105/206/s1103/b/2], designated existing provisions as par. (1) and added pars. (2) and (3).
+    [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsecs. (c), (d). [Pub. L. 105–206, § 1103(e)(2)(C)][/us/pl/105/206/s1103/e/2/C], inserted “of the Department of the Treasury” after “Inspector General” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 105–206][/us/pl/105/206], § 1103(e)(2)(C), inserted “of the Department of the Treasury” after “Inspector General” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 105–206, § 1103(b)(3)(A)][/us/pl/105/206/s1103/b/3/A], substituted “Treasury Inspector General for Tax Administration” for “Inspector General”.
+    Subsec. (e)(1). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(3)(A), substituted “Treasury Inspector General for Tax Administration” for “Inspector General”.
 
-    Subsec. (e)(2). [Pub. L. 105–206, § 1103(b)(3)(B)][/us/pl/105/206/s1103/b/3/B], (C), redesignated subpar. (C) as par. (2), substituted “Treasury Inspector General for Tax Administration” for “Inspector General”, and struck out former par. (2) introductory provisions and subpars. (A) and (B), which required written notice to Assistant Commissioner (Inspection) of Inspector General’s intent to access returns and return information, that such notice indicate specific returns or information being accessed, contain certification of need for purpose described under [section 6103(h)(1) of this title][/us/usc/t5/s6103/h/1], and identify those employees who may receive such returns or information. Former subpar. (D) redesignated par. (3).
+    Subsec. (e)(2). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(3)(B), (C), redesignated subpar. (C) as par. (2), substituted “Treasury Inspector General for Tax Administration” for “Inspector General”, and struck out former par. (2) introductory provisions and subpars. (A) and (B), which required written notice to Assistant Commissioner (Inspection) of Inspector General’s intent to access returns and return information, that such notice indicate specific returns or information being accessed, contain certification of need for purpose described under [section 6103(h)(1) of this title][/us/usc/t5/s6103/h/1], and identify those employees who may receive such returns or information. Former subpar. (D) redesignated par. (3).
 
-    Subsec. (e)(3). [Pub. L. 105–206, § 1103(b)(3)(D)][/us/pl/105/206/s1103/b/3/D], redesignated subpar. (D) of par. (2) as par. (3) and substituted “Treasury Inspector General for Tax Administration” for “Inspector General”.
+    Subsec. (e)(3). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(3)(D), redesignated subpar. (D) of par. (2) as par. (3) and substituted “Treasury Inspector General for Tax Administration” for “Inspector General”.
 
-    Subsec. (f). [Pub. L. 105–206, § 1103(b)(4)][/us/pl/105/206/s1103/b/4], substituted “Inspector General of the Department of the Treasury or the Treasury Inspector General for Tax Administration” for “Inspector General”.
+    Subsec. (f). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(4), substituted “Inspector General of the Department of the Treasury or the Treasury Inspector General for Tax Administration” for “Inspector General”.
 
-    Subsec. (g). [Pub. L. 105–206, § 1103(b)(5)][/us/pl/105/206/s1103/b/5], struck out subsec. (g) which read as follows: “Notwithstanding section 4(d), in matters involving chapter 75 of the Internal Revenue Code of 1986, the Inspector General shall report expeditiously to the Attorney General only offenses under section 7214 of such Code, unless the Inspector General obtains the consent of the Commissioner of Internal Revenue to exercise additional reporting authority with respect to such chapter.”
+    Subsec. (g). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(5), struck out subsec. (g) which read as follows: “Notwithstanding section 4(d), in matters involving chapter 75 of the Internal Revenue Code of 1986, the Inspector General shall report expeditiously to the Attorney General only offenses under section 7214 of such Code, unless the Inspector General obtains the consent of the Commissioner of Internal Revenue to exercise additional reporting authority with respect to such chapter.”
 
-    Subsec. (g)(1). [Pub. L. 105–206, § 1103(b)(6)(A)][/us/pl/105/206/s1103/b/6/A], (B), redesignated subsec. (h) as (g)(1) and substituted “and the Committees on Government Reform and Oversight and Ways and Means of the House of Representatives” for “and the Committees on Government Operations and Ways and Means of the House of Representatives”.
+    Subsec. (g)(1). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(6)(A), (B), redesignated subsec. (h) as (g)(1) and substituted “and the Committees on Government Reform and Oversight and Ways and Means of the House of Representatives” for “and the Committees on Government Operations and Ways and Means of the House of Representatives”.
 
-    Subsec. (g)(2). [Pub. L. 105–206, § 1103(b)(6)(C)][/us/pl/105/206/s1103/b/6/C], added par. (2).
+    Subsec. (g)(2). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(6)(C), added par. (2).
 
-    Subsecs. (h) to (l). [Pub. L. 105–206, § 1103(b)(7)][/us/pl/105/206/s1103/b/7], added subsecs. (h) to (l). Former subsec. (h) redesignated (g)(1).
+    Subsecs. (h) to (l). [Pub. L. 105–206][/us/pl/105/206], § 1103(b)(7), added subsecs. (h) to (l). Former subsec. (h) redesignated (g)(1).
 
  __Change of Name__ 
 
@@ -222,53 +222,53 @@
 [/us/usc/t26/s6103/p/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Fp%2F4
 [/us/usc/t26/s6406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6406
 [/us/usc/t26/s7608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7608%2Fb
-[/us/pl/95/452/s8D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8D
-[/us/pl/100/504/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Ff
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2518
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
-[/us/pl/105/206/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F705
-[/us/pl/107/296/s1112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fa%2F1
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2275
-[/us/pl/108/7/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs104%2Fc%2F2
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F531
-[/us/pl/109/177/s605/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fe%2F3
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F255
-[/us/pl/110/409/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs14%2Fb
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4316
-[/us/pl/112/199/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs117%2Fb
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1475
 [/us/pl/112/199/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs117%2Fc
 [/us/pl/94/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F524
 [/us/stat/90/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2475
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
-[/us/pl/112/199/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs117%2Fb
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t18/s3056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A
 [/us/usc/t3/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs202
-[/us/pl/108/7/s104/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs104%2Fc%2F2%2FA
-[/us/pl/108/7/s104/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs104%2Fc%2F2%2FB
-[/us/pl/108/7/s104/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs104%2Fc%2F2%2FC
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/105/206/s1103/e/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fe%2F2%2FA%2Fi
-[/us/pl/105/206/s1103/e/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fe%2F2%2FA%2Fii
-[/us/pl/105/206/s1103/e/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fe%2F2%2FA%2Fiii
-[/us/pl/105/206/s1103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F1
-[/us/pl/105/206/s1103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fe%2F1
-[/us/pl/105/206/s1103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F2
-[/us/pl/105/206/s1103/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fe%2F2%2FC
-[/us/pl/105/206/s1103/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F3%2FA
-[/us/pl/105/206/s1103/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F3%2FB
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t5/s6103/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103%2Fh%2F1
-[/us/pl/105/206/s1103/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F3%2FD
-[/us/pl/105/206/s1103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F4
-[/us/pl/105/206/s1103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F5
-[/us/pl/105/206/s1103/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F6%2FA
-[/us/pl/105/206/s1103/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F6%2FC
-[/us/pl/105/206/s1103/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fb%2F7
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199

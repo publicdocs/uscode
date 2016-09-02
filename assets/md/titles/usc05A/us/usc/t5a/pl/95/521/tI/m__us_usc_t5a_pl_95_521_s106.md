@@ -57,7 +57,7 @@
 
         (7) Each supervising ethics office may render advisory opinions interpreting this title within its respective jurisdiction. Notwithstanding any other provision of law, the individual to whom a public advisory opinion is rendered in accordance with this paragraph, and any other individual covered by this title who is involved in a fact situation which is indistinguishable in all material aspects, and who acts in good faith in accordance with the provisions and findings of such advisory opinion shall not, as a result of such act, be subject to any penalty or sanction provided by this title.
 
-([Pub. L. 95–521, title I, § 106][/us/pl/95/521/s106], Oct. 26, 1978, [92 Stat. 1833][/us/stat/92/1833]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1739][/us/stat/103/1739]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (7), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 155.)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 106, Oct. 26, 1978, [92 Stat. 1833][/us/stat/92/1833]; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1739][/us/stat/103/1739]; [Pub. L. 101–280][/us/pl/101/280], § 3(1), (7), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 155.)
 
  __Codification__ 
 
@@ -65,31 +65,31 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(2). [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    1990—Subsec. (a)(2). [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Subsec. (b)(1). [Pub. L. 101–280, § 3(7)(B)][/us/pl/101/280/s3/7/B], substituted “the Secretary concerned, the designated agency ethics official,” for “Secretary concerned, designated agency ethics official, or”.
+    Subsec. (b)(1). [Pub. L. 101–280][/us/pl/101/280], § 3(7)(B), substituted “the Secretary concerned, the designated agency ethics official,” for “Secretary concerned, designated agency ethics official, or”.
 
-    [Pub. L. 101–280, § 3(7)(A)][/us/pl/101/280/s3/7/A], substituted “a person designated by the Judicial Conference” for “the Chairman of the Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(7)(A), substituted “a person designated by the Judicial Conference” for “the Chairman of the Judicial Conference”.
 
-    [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Subsec. (b)(2). [Pub. L. 101–280, § 3(7)(C)][/us/pl/101/280/s3/7/C], substituted “the Secretary concerned, the designated agency ethics official,” for “Secretary concerned, designated agency ethics official or”.
+    Subsec. (b)(2). [Pub. L. 101–280][/us/pl/101/280], § 3(7)(C), substituted “the Secretary concerned, the designated agency ethics official,” for “Secretary concerned, designated agency ethics official or”.
 
-    [Pub. L. 101–280, § 3(7)(A)][/us/pl/101/280/s3/7/A], substituted “a person designated by the Judicial Conference” for “the Chairman of the Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(7)(A), substituted “a person designated by the Judicial Conference” for “the Chairman of the Judicial Conference”.
 
-    [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Subsec. (b)(3). [Pub. L. 101–280, § 3(7)(D)][/us/pl/101/280/s3/7/D], substituted “the Secretary concerned, the designated agency ethics official, a person designated by a congressional ethics committee, or a person designated by the” for “Secretary concerned, designated agency ethics official, a congressional ethics committee, or the”.
+    Subsec. (b)(3). [Pub. L. 101–280][/us/pl/101/280], § 3(7)(D), substituted “the Secretary concerned, the designated agency ethics official, a person designated by a congressional ethics committee, or a person designated by the” for “Secretary concerned, designated agency ethics official, a congressional ethics committee, or the”.
 
-    [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Subsec. (b)(4). [Pub. L. 101–280, § 3(7)(E)][/us/pl/101/280/s3/7/E], inserted “in the executive branch” after “position” and substituted “Foreign Service” for “foreign service”.
+    Subsec. (b)(4). [Pub. L. 101–280][/us/pl/101/280], § 3(7)(E), inserted “in the executive branch” after “position” and substituted “Foreign Service” for “foreign service”.
 
-    Subsec. (b)(5). [Pub. L. 101–280, § 3(7)(F)][/us/pl/101/280/s3/7/F], substituted “Foreign Service” for “foreign service”.
+    Subsec. (b)(5). [Pub. L. 101–280][/us/pl/101/280], § 3(7)(F), substituted “Foreign Service” for “foreign service”.
 
-    Subsec. (b)(6). [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    Subsec. (b)(6). [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    [Pub. L. 101–280, § 3(7)(G)][/us/pl/101/280/s3/7/G], substituted “employee,” for “employee”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(7)(G), substituted “employee,” for “employee”.
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, substituting provisions relating to review of reports for provisions relating to failure to file or filing false reports. See section 104(a) of this Appendix.
 
@@ -105,26 +105,26 @@
 ----------
 
 [/us/usc/t18/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208%2Fb
-[/us/pl/95/521/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs106
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1833
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1739
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F152
 [/us/usc/t2/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs706
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FB
-[/us/pl/101/280/s3/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FA
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FC
-[/us/pl/101/280/s3/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FA
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FD
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FE
-[/us/pl/101/280/s3/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FF
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/7/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F7%2FG
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204

@@ -19,7 +19,7 @@
 
     (b) Each agency shall be responsible for providing support services for each advisory committee established by or reporting to it unless the establishing authority provides otherwise. Where any such advisory committee reports to more than one agency, only one agency shall be responsible for support services at any one time. In the case of Presidential advisory committees, such services may be provided by the General Services Administration.
 
-([Pub. L. 92–463, § 12][/us/pl/92/463/s12], Oct. 6, 1972, [86 Stat. 775][/us/stat/86/775].)
+([Pub. L. 92–463][/us/pl/92/463], § 12, Oct. 6, 1972, [86 Stat. 775][/us/stat/86/775].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/92/463/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs12
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F775
 
 

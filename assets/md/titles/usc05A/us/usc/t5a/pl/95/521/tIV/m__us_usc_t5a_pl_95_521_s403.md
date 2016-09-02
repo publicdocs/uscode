@@ -39,7 +39,7 @@
 
         (3) The Director shall establish written rules setting forth the criteria to be used in determining whether the acceptance of contributions of money, services, use of facilities, or personal property under this subsection would reflect unfavorably upon the ability of the Office of Government Ethics, or any employee of such Office, to carry out its responsibilities or official duties in a fair and objective manner, or would compromise the integrity or the appearance of the integrity of its programs or any official involved in those programs.
 
-([Pub. L. 95–521, title IV, § 403][/us/pl/95/521/s403], Oct. 26, 1978, [92 Stat. 1863][/us/stat/92/1863]; [Pub. L. 98–150, § 5][/us/pl/98/150/s5], Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960]; [Pub. L. 100–598, § 9][/us/pl/100/598/s9], Nov. 3, 1988, [102 Stat. 3035][/us/stat/102/3035]; [Pub. L. 104–179, § 2][/us/pl/104/179/s2], Aug. 6, 1996, [110 Stat. 1566][/us/stat/110/1566].)
+([Pub. L. 95–521, title IV][/us/pl/95/521/tIV], § 403, Oct. 26, 1978, [92 Stat. 1863][/us/stat/92/1863]; [Pub. L. 98–150][/us/pl/98/150], § 5, Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960]; [Pub. L. 100–598][/us/pl/100/598], § 9, Nov. 3, 1988, [102 Stat. 3035][/us/stat/102/3035]; [Pub. L. 104–179][/us/pl/104/179], § 2, Aug. 6, 1996, [110 Stat. 1566][/us/stat/110/1566].)
 
  __References in Text__ 
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/95/521/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs403
+[/us/pl/95/521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtIV
 [/us/stat/92/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1863
-[/us/pl/98/150/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs5
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F960
-[/us/pl/100/598/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598%2Fs9
+[/us/pl/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598
 [/us/stat/102/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3035
-[/us/pl/104/179/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179%2Fs2
+[/us/pl/104/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179
 [/us/stat/110/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1566
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824

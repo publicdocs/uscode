@@ -65,7 +65,7 @@
 
     (e) The Administrator shall include in budget recommendations a summary of the amounts he deems necessary for the expenses of advisory committees, including the expenses for publication of reports where appropriate.
 
-([Pub. L. 92–463, § 7][/us/pl/92/463/s7], Oct. 6, 1972, [86 Stat. 772][/us/stat/86/772]; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, [91 Stat. 1634][/us/stat/91/1634]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36067, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 96–523, § 2][/us/pl/96/523/s2], Dec. 12, 1980, [94 Stat. 3040][/us/stat/94/3040].)
+([Pub. L. 92–463][/us/pl/92/463], § 7, Oct. 6, 1972, [86 Stat. 772][/us/stat/86/772]; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, [91 Stat. 1634][/us/stat/91/1634]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36067, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 96–523][/us/pl/96/523], § 2, Dec. 12, 1980, [94 Stat. 3040][/us/stat/94/3040].)
 
  __References in Text__ 
 
@@ -100,11 +100,11 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t5/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3102
-[/us/pl/92/463/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs7
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F772
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/96/523/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F523%2Fs2
+[/us/pl/96/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F523
 [/us/stat/94/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3040
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794

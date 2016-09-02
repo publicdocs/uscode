@@ -105,13 +105,13 @@
 
         (3) The Inspector General shall notify the Attorney General 7 days before issuing any subpoena under this section.
 
-([Pub. L. 95–452, § 8][/us/pl/95/452/s8], Oct. 12, 1978, [92 Stat. 1105][/us/stat/92/1105]; [Pub. L. 97–252, title XI, § 1117(b)][/us/pl/97/252/s1117/b], Sept. 8, 1982, [96 Stat. 751][/us/stat/96/751]; [Pub. L. 100–504, title I, § 110(b)][/us/pl/100/504/s110/b], Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 104–106, div. A, title XV, § 1502(f)(6)][/us/pl/104/106/s1502/f/6], Feb. 10, 1996, [110 Stat. 510][/us/stat/110/510]; [Pub. L. 106–65, div. A, title X, § 1067(17)][/us/pl/106/65/s1067/17], Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 907, Oct. 14, 2008, [122 Stat. 4569][/us/stat/122/4569]; [Pub. L. 111–84, div. A, title X, § 1042][/us/pl/111/84/s1042], Oct. 28, 2009, [123 Stat. 2455][/us/stat/123/2455]; [Pub. L. 112–239, div. A, title XVI, § 1614][/us/pl/112/239/s1614], Jan. 2, 2013, [126 Stat. 2066][/us/stat/126/2066].)
+([Pub. L. 95–452][/us/pl/95/452], § 8, Oct. 12, 1978, [92 Stat. 1105][/us/stat/92/1105]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1117(b), Sept. 8, 1982, [96 Stat. 751][/us/stat/96/751]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 110(b), Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(f)(6), Feb. 10, 1996, [110 Stat. 510][/us/stat/110/510]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(17), Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 907, Oct. 14, 2008, [122 Stat. 4569][/us/stat/122/4569]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1042, Oct. 28, 2009, [123 Stat. 2455][/us/stat/123/2455]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1614, Jan. 2, 2013, [126 Stat. 2066][/us/stat/126/2066].)
 
  __Amendments__ 
 
-    2013—Subsec. (c)(10). [Pub. L. 112–239, § 1614(a)][/us/pl/112/239/s1614/a], added par. (10).
+    2013—Subsec. (c)(10). [Pub. L. 112–239][/us/pl/112/239], § 1614(a), added par. (10).
 
-    Subsec. (f)(1). [Pub. L. 112–239, § 1614(b)][/us/pl/112/239/s1614/b], added par. (1) and struck out former par. (1) which read as follows: “Each semiannual report prepared by the Inspector General of the Department of Defense under section 5(a) shall include information concerning the numbers and types of contract audits conducted by the Department during the reporting period. Each such report shall be transmitted by the Secretary of Defense to the Committees on Armed Services and Governmental Affairs of the Senate and the Committee on Armed Services and the Committee on Government Reform and Oversight of the House of Representatives and to other appropriate committees or subcommittees of the Congress.”
+    Subsec. (f)(1). [Pub. L. 112–239][/us/pl/112/239], § 1614(b), added par. (1) and struck out former par. (1) which read as follows: “Each semiannual report prepared by the Inspector General of the Department of Defense under section 5(a) shall include information concerning the numbers and types of contract audits conducted by the Department during the reporting period. Each such report shall be transmitted by the Secretary of Defense to the Committees on Armed Services and Governmental Affairs of the Senate and the Committee on Armed Services and the Committee on Government Reform and Oversight of the House of Representatives and to other appropriate committees or subcommittees of the Congress.”
 
     2009—Subsec. (i). [Pub. L. 111–84][/us/pl/111/84] added subsec. (i).
 
@@ -119,13 +119,13 @@
 
     1999—Subsecs. (b)(3), (f)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    1996—Subsec. (b)(3). [Pub. L. 104–106, § 1502(f)(6)(A)][/us/pl/104/106/s1502/f/6/A], substituted “Committee on National Security and the Committee on Government Reform and Oversight” for “Committees on Armed Services and Government Operations”.
+    1996—Subsec. (b)(3). [Pub. L. 104–106][/us/pl/104/106], § 1502(f)(6)(A), substituted “Committee on National Security and the Committee on Government Reform and Oversight” for “Committees on Armed Services and Government Operations”.
 
-    Subsec. (b)(4). [Pub. L. 104–106, § 1502(f)(6)(B)][/us/pl/104/106/s1502/f/6/B], substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives”.
+    Subsec. (b)(4). [Pub. L. 104–106][/us/pl/104/106], § 1502(f)(6)(B), substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives”.
 
-    Subsec. (f)(1). [Pub. L. 104–106, § 1502(f)(6)(C)][/us/pl/104/106/s1502/f/6/C], substituted “Committee on National Security and the Committee on Government Reform and Oversight” for “Committees on Armed Services and Government Operations”.
+    Subsec. (f)(1). [Pub. L. 104–106][/us/pl/104/106], § 1502(f)(6)(C), substituted “Committee on National Security and the Committee on Government Reform and Oversight” for “Committees on Armed Services and Government Operations”.
 
-    Subsec. (f)(2). [Pub. L. 104–106, § 1502(f)(6)(D)][/us/pl/104/106/s1502/f/6/D], substituted “congressional committees specified in paragraph (1)” for “Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives”.
+    Subsec. (f)(2). [Pub. L. 104–106][/us/pl/104/106], § 1502(f)(6)(D), substituted “congressional committees specified in paragraph (1)” for “Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives”.
 
     1988—Subsec. (e). [Pub. L. 100–504][/us/pl/100/504] inserted provision at end that when Coast Guard operates as service of another department or agency of Federal Government, member of Coast Guard shall be deemed employee of such department or agency.
 
@@ -154,31 +154,31 @@
 
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
 [/us/usc/t10/s140/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140%2Fb
-[/us/pl/95/452/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1105
-[/us/pl/97/252/s1117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1117%2Fb
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F751
-[/us/pl/100/504/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs110%2Fb
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2529
-[/us/pl/104/106/s1502/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Ff%2F6
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F510
-[/us/pl/106/65/s1067/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F17
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F775
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4569
-[/us/pl/111/84/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1042
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2455
-[/us/pl/112/239/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1614
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2066
-[/us/pl/112/239/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1614%2Fa
-[/us/pl/112/239/s1614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1614%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1502/f/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Ff%2F6%2FA
-[/us/pl/104/106/s1502/f/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Ff%2F6%2FB
-[/us/pl/104/106/s1502/f/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Ff%2F6%2FC
-[/us/pl/104/106/s1502/f/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Ff%2F6%2FD
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504

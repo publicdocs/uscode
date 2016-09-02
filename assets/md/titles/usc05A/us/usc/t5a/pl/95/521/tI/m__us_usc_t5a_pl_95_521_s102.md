@@ -369,7 +369,7 @@
 
         (2) benefits received under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\].
 
-([Pub. L. 95–521, title I, § 102][/us/pl/95/521/s102], Oct. 26, 1978, [92 Stat. 1825][/us/stat/92/1825]; [Pub. L. 96–19][/us/pl/96/19], §§ 3(a)(1), (b), 6(a), 7(a)–(d)(1), (f), 9(b), (c)(1), (j), June 13, 1979, [93 Stat. 39–43][/us/stat/93/39-43]; [Pub. L. 97–51, § 130(b)][/us/pl/97/51/s130/b], Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966]; [Pub. L. 98–150, § 10][/us/pl/98/150/s10], Nov. 11, 1983, [97 Stat. 962][/us/stat/97/962]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1727][/us/stat/103/1727]; [Pub. L. 101–280, § 3(3)][/us/pl/101/280/s3/3], May 4, 1990, [104 Stat. 152][/us/stat/104/152]; [Pub. L. 102–90, title III, § 314(a)][/us/pl/102/90/s314/a], Aug. 14, 1991, [105 Stat. 469][/us/stat/105/469]; [Pub. L. 104–65][/us/pl/104/65], §§ 20, 22(a), (b), Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704], 705; [Pub. L. 112–105, § 13(a)][/us/pl/112/105/s13/a], Apr. 4, 2012, [126 Stat. 300][/us/stat/126/300].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 102, Oct. 26, 1978, [92 Stat. 1825][/us/stat/92/1825]; [Pub. L. 96–19][/us/pl/96/19], §§ 3(a)(1), (b), 6(a), 7(a)–(d)(1), (f), 9(b), (c)(1), (j), June 13, 1979, [93 Stat. 39–43][/us/stat/93/39-43]; [Pub. L. 97–51][/us/pl/97/51], § 130(b), Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966]; [Pub. L. 98–150][/us/pl/98/150], § 10, Nov. 11, 1983, [97 Stat. 962][/us/stat/97/962]; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1727][/us/stat/103/1727]; [Pub. L. 101–280][/us/pl/101/280], § 3(3), May 4, 1990, [104 Stat. 152][/us/stat/104/152]; [Pub. L. 102–90, title III][/us/pl/102/90/tIII], § 314(a), Aug. 14, 1991, [105 Stat. 469][/us/stat/105/469]; [Pub. L. 104–65][/us/pl/104/65], §§ 20, 22(a), (b), Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704], 705; [Pub. L. 112–105][/us/pl/112/105], § 13(a), Apr. 4, 2012, [126 Stat. 300][/us/stat/126/300].)
 
  __References in Text__ 
 
@@ -387,47 +387,47 @@
 
     2012—Subsec. (a)(4)(A). [Pub. L. 112–105][/us/pl/112/105] substituted “spouse, except that this exception shall not apply to a reporting individual—” for “spouse; and” and added cls. (i) to (iii).
 
-    1995—Subsec. (a)(1)(B)(viii), (ix). [Pub. L. 104–65, § 20(a)][/us/pl/104/65/s20/a], added cls. (viii) and (ix) and struck out former cl. (viii) which read as follows: “greater than $1,000,000.”
+    1995—Subsec. (a)(1)(B)(viii), (ix). [Pub. L. 104–65][/us/pl/104/65], § 20(a), added cls. (viii) and (ix) and struck out former cl. (viii) which read as follows: “greater than $1,000,000.”
 
-    Subsec. (a)(8). [Pub. L. 104–65, § 22(a)][/us/pl/104/65/s22/a], added par. (8).
+    Subsec. (a)(8). [Pub. L. 104–65][/us/pl/104/65], § 22(a), added par. (8).
 
-    Subsec. (d)(1). [Pub. L. 104–65, § 22(b)][/us/pl/104/65/s22/b], substituted “(5), and (8)” for “and (5)” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 104–65][/us/pl/104/65], § 22(b), substituted “(5), and (8)” for “and (5)” in introductory provisions.
 
-    Subsec. (d)(1)(G) to (J). [Pub. L. 104–65, § 20(b)][/us/pl/104/65/s20/b], added subpars. (G) to (J) and struck out former subpar. (G) which read as follows: “greater than $1,000,000.”
+    Subsec. (d)(1)(G) to (J). [Pub. L. 104–65][/us/pl/104/65], § 20(b), added subpars. (G) to (J) and struck out former subpar. (G) which read as follows: “greater than $1,000,000.”
 
-    Subsec. (e)(1)(F). [Pub. L. 104–65, § 20(c)][/us/pl/104/65/s20/c], added subpar. (F).
+    Subsec. (e)(1)(F). [Pub. L. 104–65][/us/pl/104/65], § 20(c), added subpar. (F).
 
-    1991—Subsec. (a)(2)(A). [Pub. L. 102–90, § 314(a)(3)][/us/pl/102/90/s314/a/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The identity of the source, a brief description, and the value of all gifts other than transportation, lodging, food, or entertainment aggregating $100 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph.”
+    1991—Subsec. (a)(2)(A). [Pub. L. 102–90][/us/pl/102/90], § 314(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The identity of the source, a brief description, and the value of all gifts other than transportation, lodging, food, or entertainment aggregating $100 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph.”
 
-    [Pub. L. 102–90, § 314(a)(1)][/us/pl/102/90/s314/a/1], (2), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The identity of the source and a brief description (including a travel itinerary, dates, and nature of expenses provided) of any gifts of transportation, lodging, food, or entertainment aggregating $250 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any food, lodging, or entertainment received as personal hospitality of any individual need not be reported, and any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph.”
+    [Pub. L. 102–90][/us/pl/102/90], § 314(a)(1), (2), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The identity of the source and a brief description (including a travel itinerary, dates, and nature of expenses provided) of any gifts of transportation, lodging, food, or entertainment aggregating $250 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any food, lodging, or entertainment received as personal hospitality of any individual need not be reported, and any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph.”
 
-    Subsec. (a)(2)(B). [Pub. L. 102–90, § 314(a)(2)][/us/pl/102/90/s314/a/2], (4), redesignated subpar. (C) as (B) and substituted “more than the minimal value as established by [section 7342(a)(5) of title 5][/us/usc/t5/s7342/a/5], United States Code, or $250, whichever is greater” for “$250 or more in value”. Former subpar. (B) redesignated (A).
+    Subsec. (a)(2)(B). [Pub. L. 102–90][/us/pl/102/90], § 314(a)(2), (4), redesignated subpar. (C) as (B) and substituted “more than the minimal value as established by [section 7342(a)(5) of title 5][/us/usc/t5/s7342/a/5], United States Code, or $250, whichever is greater” for “$250 or more in value”. Former subpar. (B) redesignated (A).
 
-    Subsec. (a)(2)(C), (D). [Pub. L. 102–90, § 314(a)(2)][/us/pl/102/90/s314/a/2], (5), redesignated subpar. (D) as (C) and struck out “or (B)” after “(A)”. Former subpar. (C) redesignated (B).
+    Subsec. (a)(2)(C), (D). [Pub. L. 102–90][/us/pl/102/90], § 314(a)(2), (5), redesignated subpar. (D) as (C) and struck out “or (B)” after “(A)”. Former subpar. (C) redesignated (B).
 
-    1990—Subsec. (a)(1)(A). [Pub. L. 101–280, § 3(3)(A)(i)][/us/pl/101/280/s3/3/A/i], substituted “the reporting individual” for “such individuals”.
+    1990—Subsec. (a)(1)(A). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(A)(i), substituted “the reporting individual” for “such individuals”.
 
-    Subsec. (a)(3). [Pub. L. 101–280, § 3(3)(A)(ii)][/us/pl/101/280/s3/3/A/ii], substituted “, or by a parent, brother, sister, or child of the reporting individual or of the reporting individual’s spouse,” for “parent, brother, sister, or child”.
+    Subsec. (a)(3). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(A)(ii), substituted “, or by a parent, brother, sister, or child of the reporting individual or of the reporting individual’s spouse,” for “parent, brother, sister, or child”.
 
-    Subsec. (a)(4). [Pub. L. 101–280, § 3(3)(A)(iii)][/us/pl/101/280/s3/3/A/iii], substituted “spouse, or a parent, brother, sister, or child of the reporting individual or of the reporting individual’s spouse” for “relative”.
+    Subsec. (a)(4). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(A)(iii), substituted “spouse, or a parent, brother, sister, or child of the reporting individual or of the reporting individual’s spouse” for “relative”.
 
-    Subsec. (e)(1)(E). [Pub. L. 101–280, § 3(3)(B)][/us/pl/101/280/s3/3/B], inserted “of subsection (a)” after “(3) through (5)”.
+    Subsec. (e)(1)(E). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(B), inserted “of subsection (a)” after “(3) through (5)”.
 
-    Subsec. (f)(3)(A)(i)(II). [Pub. L. 101–280, § 3(3)(C)(i)(I)][/us/pl/101/280/s3/3/C/i/I], struck out comma after “involved in”.
+    Subsec. (f)(3)(A)(i)(II). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(C)(i)(I), struck out comma after “involved in”.
 
-    Subsec. (f)(3)(A)(ii)(II). [Pub. L. 101–280, § 3(3)(C)(i)(II)][/us/pl/101/280/s3/3/C/i/II], amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “is not or has not been a partner of any interested party and is not a partner of, or involved in any joint venture or other investment with any interested party; and”.
+    Subsec. (f)(3)(A)(ii)(II). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(C)(i)(II), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “is not or has not been a partner of any interested party and is not a partner of, or involved in any joint venture or other investment with any interested party; and”.
 
-    Subsec. (f)(3)(F). [Pub. L. 101–280, § 3(3)(C)(i)(III)][/us/pl/101/280/s3/3/C/i/III], substituted “title II of the Ethics Reform Act of 1989” for “this section”.
+    Subsec. (f)(3)(F). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(C)(i)(III), substituted “title II of the Ethics Reform Act of 1989” for “this section”.
 
-    Subsec. (f)(6)(A), (B). [Pub. L. 101–280, § 3(3)(C)(ii)][/us/pl/101/280/s3/3/C/ii], substituted “and willfully, or negligently,” for “or negligently”.
+    Subsec. (f)(6)(A), (B). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(C)(ii), substituted “and willfully, or negligently,” for “or negligently”.
 
-    Subsec. (i). [Pub. L. 101–280, § 3(3)(D)][/us/pl/101/280/s3/3/D], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–280][/us/pl/101/280], § 3(3)(D), added subsec. (i).
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related, respectively, to Members of Congress, legislative officers and employees, non-legislative personnel and Congressional candidates, categories of value; interests in real property and other items needing appraisals, information respecting spouses and dependent children, trusts or other financial arrangements including qualified blind trusts, political campaign funds, and gifts and reimbursements.
 
-    1983—Subsec. (e)(5)(A). [Pub. L. 98–150, § 10(b)][/us/pl/98/150/s10/b], inserted provision that this subparagraph shall not apply with respect to a trust meeting the requirements for being considered a qualified blind trust under paragraph (7) of this subsection.
+    1983—Subsec. (e)(5)(A). [Pub. L. 98–150][/us/pl/98/150], § 10(b), inserted provision that this subparagraph shall not apply with respect to a trust meeting the requirements for being considered a qualified blind trust under paragraph (7) of this subsection.
 
-    Subsec. (e)(7). [Pub. L. 98–150, § 10(a)][/us/pl/98/150/s10/a], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any trust which is in existence prior to the date of the enactment of this Act shall be considered a qualified blind trust if—
+    Subsec. (e)(7). [Pub. L. 98–150][/us/pl/98/150], § 10(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any trust which is in existence prior to the date of the enactment of this Act shall be considered a qualified blind trust if—
 
     “(A) the supervising ethics office determines that the trust was a good faith effort to establish a blind trust;
 
@@ -437,31 +437,31 @@
 
     1981—Subsec. (a)(1)(A). [Pub. L. 97–51][/us/pl/97/51] inserted “including speeches, appearances, articles, or other publications” after “honoraria from any source”.
 
-    1979—Subsec. (a)(2)(B). [Pub. L. 96–19, § 3(b)(2)][/us/pl/96/19/s3/b/2], struck out provision that a gift need not be aggregated if, in an unusual case, a publicly available request for a waiver is granted.
+    1979—Subsec. (a)(2)(B). [Pub. L. 96–19][/us/pl/96/19], § 3(b)(2), struck out provision that a gift need not be aggregated if, in an unusual case, a publicly available request for a waiver is granted.
 
-    Subsec. (a)(2)(D). [Pub. L. 96–19, § 3(b)(1)][/us/pl/96/19/s3/b/1], added subpar. (D).
+    Subsec. (a)(2)(D). [Pub. L. 96–19][/us/pl/96/19], § 3(b)(1), added subpar. (D).
 
-    Subsec. (a)(6). [Pub. L. 96–19, § 9(b)][/us/pl/96/19/s9/b], substituted “The identity of all positions held” for “The identity of all positions”.
+    Subsec. (a)(6). [Pub. L. 96–19][/us/pl/96/19], § 9(b), substituted “The identity of all positions held” for “The identity of all positions”.
 
-    Subsec. (a)(7). [Pub. L. 96–19, § 9(j)][/us/pl/96/19/s9/j], struck out a colon following “arrangement with respect to”.
+    Subsec. (a)(7). [Pub. L. 96–19][/us/pl/96/19], § 9(j), struck out a colon following “arrangement with respect to”.
 
-    Subsec. (b). [Pub. L. 96–19, § 9(c)(1)][/us/pl/96/19/s9/c/1], substituted provisions that the information required by pars. (3) and (4) of subsec. (a) be as of the date specified in the report but which is less than thirty-one days before the filing date and that the information required by par. (6) and, in the case of reports filed under section 101(c), par. (7) of subsec. (a) be as of the filing date but for periods described in such paragraphs for provisions that required that the information covered by pars. (3), (4), (6), and, in the case of reports filed pursuant to section 101(c), par. (7) of subsec. (a) be as of a date specified in such report, which could not be more than thirty-one days prior to the date of filing.
+    Subsec. (b). [Pub. L. 96–19][/us/pl/96/19], § 9(c)(1), substituted provisions that the information required by pars. (3) and (4) of subsec. (a) be as of the date specified in the report but which is less than thirty-one days before the filing date and that the information required by par. (6) and, in the case of reports filed under section 101(c), par. (7) of subsec. (a) be as of the filing date but for periods described in such paragraphs for provisions that required that the information covered by pars. (3), (4), (6), and, in the case of reports filed pursuant to section 101(c), par. (7) of subsec. (a) be as of a date specified in such report, which could not be more than thirty-one days prior to the date of filing.
 
-    Subsec. (d)(1)(B). [Pub. L. 96–19, § 6(a)(1)][/us/pl/96/19/s6/a/1], (2), substituted “any gifts received by a spouse which are” for “any gift which is” and “and a brief description” for “or a brief description”.
+    Subsec. (d)(1)(B). [Pub. L. 96–19][/us/pl/96/19], § 6(a)(1), (2), substituted “any gifts received by a spouse which are” for “any gift which is” and “and a brief description” for “or a brief description”.
 
-    Subsec. (d)(1)(C). [Pub. L. 96–19, § 6(a)(3)][/us/pl/96/19/s6/a/3], (4), substituted “reimbursements received by a spouse which are” for “reimbursement which is” and “description of each such reimbursement” for “description of the reimbursement”.
+    Subsec. (d)(1)(C). [Pub. L. 96–19][/us/pl/96/19], § 6(a)(3), (4), substituted “reimbursements received by a spouse which are” for “reimbursement which is” and “description of each such reimbursement” for “description of the reimbursement”.
 
-    Subsec. (d)(1)(D). [Pub. L. 96–19, § 6(a)(5)][/us/pl/96/19/s6/a/5], substituted “represent the spouse’s or dependent child’s sole financial interest” for “represent the spouse or dependent child’s sole financial interest”.
+    Subsec. (d)(1)(D). [Pub. L. 96–19][/us/pl/96/19], § 6(a)(5), substituted “represent the spouse’s or dependent child’s sole financial interest” for “represent the spouse or dependent child’s sole financial interest”.
 
-    Subsec. (e)(3). [Pub. L. 96–19, § 7(a)][/us/pl/96/19/s7/a]–(d)(1), substituted “a broker, or an investment adviser” for “or a broker” in subpar. (A) preceding cl. (i), substituted “is not or has not been” for “is or has not been” in cl. (ii) of subpar. (A), and, in provisions following subpar. (D), substituted “[section 78c(a)(4) of title 15][/us/usc/t15/s78c/a/4]” for “[section 78 of title 15][/us/usc/t15/s78]”, substituted “the reports” for “their reports”, and inserted definition of “investment ad­viser”.
+    Subsec. (e)(3). [Pub. L. 96–19][/us/pl/96/19], § 7(a)–(d)(1), substituted “a broker, or an investment adviser” for “or a broker” in subpar. (A) preceding cl. (i), substituted “is not or has not been” for “is or has not been” in cl. (ii) of subpar. (A), and, in provisions following subpar. (D), substituted “[section 78c(a)(4) of title 15][/us/usc/t15/s78c/a/4]” for “[section 78 of title 15][/us/usc/t15/s78]”, substituted “the reports” for “their reports”, and inserted definition of “investment ad­viser”.
 
-    Subsec. (e)(5)(D). [Pub. L. 96–19, § 7(f)][/us/pl/96/19/s7/f], substituted “shall apply with respect to such documents and lists” for “shall apply”.
+    Subsec. (e)(5)(D). [Pub. L. 96–19][/us/pl/96/19], § 7(f), substituted “shall apply with respect to such documents and lists” for “shall apply”.
 
-    Subsec. (g). [Pub. L. 96–19, § 3(a)(1)][/us/pl/96/19/s3/a/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 96–19][/us/pl/96/19], § 3(a)(1), added subsec. (g).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–105, § 13(b)][/us/pl/112/105/s13/b], Apr. 4, 2012, [126 Stat. 300][/us/stat/126/300], provided that: 
+[Pub. L. 112–105][/us/pl/112/105], § 13(b), Apr. 4, 2012, [126 Stat. 300][/us/stat/126/300], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports which are required to be filed under section 101 of the Ethics of Government Act of 1978 \[[section 101 of Pub. L. 95–521][/us/pl/95/521/s101], set out in this Appendix\] on or after the date of the enactment of this Act \[Apr. 4, 2012\].”
 
@@ -469,7 +469,7 @@
 
     Amendment by [section 20 of Pub. L. 104–65][/us/pl/104/65/s20] effective Jan. 1, 1996, see [section 24 of Pub. L. 104–65][/us/pl/104/65/s24], set out as an Effective Date note under [section 1601 of Title 2][/us/usc/t2/s1601], The Congress.
 
-[Pub. L. 104–65, § 22(c)][/us/pl/104/65/s22/c], Dec. 19, 1995, [109 Stat. 705][/us/stat/109/705], provided that: 
+[Pub. L. 104–65][/us/pl/104/65], § 22(c), Dec. 19, 1995, [109 Stat. 705][/us/stat/109/705], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to reports filed under title I of the Ethics in Government Act of 1978 \[section 101 et seq. of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix\] for calendar year 1996 and thereafter.”
 
@@ -483,7 +483,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–150, § 13][/us/pl/98/150/s13], Nov. 11, 1983, [97 Stat. 963][/us/stat/97/963], provided that: 
+[Pub. L. 98–150][/us/pl/98/150], § 13, Nov. 11, 1983, [97 Stat. 963][/us/stat/97/963], provided that: 
 
 > “The amendments made by this Act \[enacting sections 211 and 407 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, amending sections 102, 201–203, 210, 302, and 401–405 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, and enacting provisions set out as a note under section 402 of this Appendix\] shall take effect on October 1, 1983.”
 
@@ -503,23 +503,23 @@
 [/us/usc/t15/s78c/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F4
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/95/521/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs102
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1825
 [/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/stat/93/39-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F39-43
-[/us/pl/97/51/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs130%2Fb
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F966
-[/us/pl/98/150/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs10
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F962
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1727
-[/us/pl/101/280/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F152
-[/us/pl/102/90/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fa
+[/us/pl/102/90/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtIII
 [/us/stat/105/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F469
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F704
-[/us/pl/112/105/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs13%2Fa
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F300
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204
@@ -528,49 +528,49 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t2/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs702
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
-[/us/pl/104/65/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs20%2Fa
-[/us/pl/104/65/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs22%2Fa
-[/us/pl/104/65/s22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs22%2Fb
-[/us/pl/104/65/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs20%2Fb
-[/us/pl/104/65/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs20%2Fc
-[/us/pl/102/90/s314/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fa%2F3
-[/us/pl/102/90/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fa%2F1
-[/us/pl/102/90/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fa%2F2
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
+[/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
+[/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
 [/us/usc/t5/s7342/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fa%2F5
-[/us/pl/102/90/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fa%2F2
-[/us/pl/101/280/s3/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FA%2Fi
-[/us/pl/101/280/s3/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FA%2Fii
-[/us/pl/101/280/s3/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FA%2Fiii
-[/us/pl/101/280/s3/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FB
-[/us/pl/101/280/s3/3/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FC%2Fi%2FI
-[/us/pl/101/280/s3/3/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FC%2Fi%2FII
-[/us/pl/101/280/s3/3/C/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FC%2Fi%2FIII
-[/us/pl/101/280/s3/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FC%2Fii
-[/us/pl/101/280/s3/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F3%2FD
+[/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
-[/us/pl/98/150/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs10%2Fb
-[/us/pl/98/150/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs10%2Fa
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
-[/us/pl/96/19/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs3%2Fb%2F2
-[/us/pl/96/19/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs3%2Fb%2F1
-[/us/pl/96/19/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fb
-[/us/pl/96/19/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fj
-[/us/pl/96/19/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fc%2F1
-[/us/pl/96/19/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs6%2Fa%2F1
-[/us/pl/96/19/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs6%2Fa%2F3
-[/us/pl/96/19/s6/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs6%2Fa%2F5
-[/us/pl/96/19/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs7%2Fa
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/usc/t15/s78c/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F4
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
-[/us/pl/96/19/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs7%2Ff
-[/us/pl/96/19/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs3%2Fa%2F1
-[/us/pl/112/105/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs13%2Fb
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F300
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/104/65/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs20
 [/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/104/65/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs22%2Fc
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F705
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
@@ -579,7 +579,7 @@
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204
-[/us/pl/98/150/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs13
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F963
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521

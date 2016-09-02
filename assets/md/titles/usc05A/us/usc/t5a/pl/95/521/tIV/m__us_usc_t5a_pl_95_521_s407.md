@@ -17,7 +17,7 @@
 
     \[Section amended sections 5314 and 5316 of Title 5, Government Organization and Employees.\]
 
-([Pub. L. 95–521, title IV, § 407][/us/pl/95/521/s407], as added [Pub. L. 98–150, § 4][/us/pl/98/150/s4], Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960]; amended [Pub. L. 100–598, § 8][/us/pl/100/598/s8], Nov. 3, 1988, [102 Stat. 3035][/us/stat/102/3035].)
+([Pub. L. 95–521, title IV][/us/pl/95/521/tIV], § 407, as added [Pub. L. 98–150][/us/pl/98/150], § 4, Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960]; amended [Pub. L. 100–598][/us/pl/100/598], § 8, Nov. 3, 1988, [102 Stat. 3035][/us/stat/102/3035].)
 
  __Amendments__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/95/521/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs407
-[/us/pl/98/150/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs4
+[/us/pl/95/521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtIV
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F960
-[/us/pl/100/598/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598%2Fs8
+[/us/pl/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598
 [/us/stat/102/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3035
 [/us/pl/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa

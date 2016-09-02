@@ -35,7 +35,7 @@
 
         (ii) an Office of Treasury Inspector General for Tax Administration.
 
-([Pub. L. 95–452, § 2][/us/pl/95/452/s2], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101]; [Pub. L. 96–88, title V, § 508(n)(1)][/us/pl/96/88/s508/n/1], Oct. 17, 1979, [93 Stat. 694][/us/stat/93/694]; [Pub. L. 97–113, title VII, § 705(a)(1)][/us/pl/97/113/s705/a/1], Dec. 29, 1981, [95 Stat. 1544][/us/stat/95/1544]; [Pub. L. 97–252, title XI, § 1117(a)(1)][/us/pl/97/252/s1117/a/1], Sept. 8, 1982, [96 Stat. 750][/us/stat/96/750]; [Pub. L. 99–93, title I, § 150(a)(1)][/us/pl/99/93/s150/a/1], Aug. 16, 1985, [99 Stat. 427][/us/stat/99/427]; [Pub. L. 99–399, title IV, § 412(a)(1)][/us/pl/99/399/s412/a/1], Aug. 27, 1986, [100 Stat. 867][/us/stat/100/867]; [Pub. L. 100–504, title I, § 102(a)][/us/pl/100/504/s102/a], (b), Oct. 18, 1988, [102 Stat. 2515][/us/stat/102/2515]; [Pub. L. 100–527, § 13(h)(1)][/us/pl/100/527/s13/h/1], Oct. 25, 1988, [102 Stat. 2643][/us/stat/102/2643]; [Pub. L. 105–206, title I, § 1103(a)][/us/pl/105/206/s1103/a], July 22, 1998, [112 Stat. 705][/us/stat/112/705]; [Pub. L. 110–409, § 7(d)(1)(A)][/us/pl/110/409/s7/d/1/A], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313].)
+([Pub. L. 95–452][/us/pl/95/452], § 2, Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 508(n)(1), Oct. 17, 1979, [93 Stat. 694][/us/stat/93/694]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 705(a)(1), Dec. 29, 1981, [95 Stat. 1544][/us/stat/95/1544]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1117(a)(1), Sept. 8, 1982, [96 Stat. 750][/us/stat/96/750]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 150(a)(1), Aug. 16, 1985, [99 Stat. 427][/us/stat/99/427]; [Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 412(a)(1), Aug. 27, 1986, [100 Stat. 867][/us/stat/100/867]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(a), (b), Oct. 18, 1988, [102 Stat. 2515][/us/stat/102/2515]; [Pub. L. 100–527][/us/pl/100/527], § 13(h)(1), Oct. 25, 1988, [102 Stat. 2643][/us/stat/102/2643]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(a), July 22, 1998, [112 Stat. 705][/us/stat/112/705]; [Pub. L. 110–409][/us/pl/110/409], § 7(d)(1)(A), Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 
     1985—Par. (1). [Pub. L. 99–93][/us/pl/99/93] inserted reference to the Department of State.
 
-    1982—Par. (1). [Pub. L. 97–252, § 1117(a)(1)][/us/pl/97/252/s1117/a/1], inserted “the Department of Defense,”.
+    1982—Par. (1). [Pub. L. 97–252][/us/pl/97/252], § 1117(a)(1), inserted “the Department of Defense,”.
 
     1981—Par. (1). [Pub. L. 97–113][/us/pl/97/113] inserted “the Agency for International Development,”.
 
@@ -78,25 +78,25 @@
 ----------
 ----------
 
-[/us/pl/95/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs2
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/96/88/s508/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fn%2F1
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F694
-[/us/pl/97/113/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs705%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1544
-[/us/pl/97/252/s1117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1117%2Fa%2F1
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F750
-[/us/pl/99/93/s150/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs150%2Fa%2F1
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F427
-[/us/pl/99/399/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs412%2Fa%2F1
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F867
-[/us/pl/100/504/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fa
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2515
-[/us/pl/100/527/s13/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs13%2Fh%2F1
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2643
-[/us/pl/105/206/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F705
-[/us/pl/110/409/s7/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fd%2F1%2FA
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
@@ -107,7 +107,7 @@
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
-[/us/pl/97/252/s1117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1117%2Fa%2F1
+[/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Title I of [Pub. L. 95–521][/us/pl/95/521] was classified to chapter 18 (§ 701 et seq.) of Title 2, The Congress, prior to general amendment of title I by [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724].
+    Title I of [Pub. L. 95–521][/us/pl/95/521] was classified to chapter 18 (§ 701 et seq.) of Title 2, The Congress, prior to general amendment of title I by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 
 

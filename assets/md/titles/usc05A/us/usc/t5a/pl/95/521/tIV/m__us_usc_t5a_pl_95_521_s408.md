@@ -21,7 +21,7 @@
 
     (2) such other information as the Director may consider appropriate.
 
-([Pub. L. 95–521, title IV, § 408][/us/pl/95/521/s408], as added [Pub. L. 100–598, § 4][/us/pl/100/598/s4], Nov. 3, 1988, [102 Stat. 3031][/us/stat/102/3031]; amended [Pub. L. 104–179, § 4(b)(2)(B)][/us/pl/104/179/s4/b/2/B], Aug. 6, 1996, [110 Stat. 1567][/us/stat/110/1567].)
+([Pub. L. 95–521, title IV][/us/pl/95/521/tIV], § 408, as added [Pub. L. 100–598][/us/pl/100/598], § 4, Nov. 3, 1988, [102 Stat. 3031][/us/stat/102/3031]; amended [Pub. L. 104–179][/us/pl/104/179], § 4(b)(2)(B), Aug. 6, 1996, [110 Stat. 1567][/us/stat/110/1567].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/95/521/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs408
-[/us/pl/100/598/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598%2Fs4
+[/us/pl/95/521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtIV
+[/us/pl/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598
 [/us/stat/102/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3031
-[/us/pl/104/179/s4/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179%2Fs4%2Fb%2F2%2FB
+[/us/pl/104/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179
 [/us/stat/110/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1567
 [/us/pl/104/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179
 

@@ -39,7 +39,7 @@
 
         (3) when received by a justice or judge of the United States retired from regular active service under [section 372(a) of title 28][/us/usc/t28/s372/a], United States Code.
 
-([Pub. L. 95–521, title V, § 502][/us/pl/95/521/s502], as added [Pub. L. 101–194, title VI, § 601(a)][/us/pl/101/194/s601/a], Nov. 30, 1989, [103 Stat. 1761][/us/stat/103/1761]; amended [Pub. L. 101–280, § 7(a)(1)][/us/pl/101/280/s7/a/1], (b), May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 101–650, title III, § 319][/us/pl/101/650/s319], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–198, § 6][/us/pl/102/198/s6], Dec. 9, 1991, [105 Stat. 1624][/us/stat/105/1624]; [Pub. L. 102–378, § 4(b)(3)][/us/pl/102/378/s4/b/3], Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357].)
+([Pub. L. 95–521, title V][/us/pl/95/521/tV], § 502, as added [Pub. L. 101–194, title VI][/us/pl/101/194/tVI], § 601(a), Nov. 30, 1989, [103 Stat. 1761][/us/stat/103/1761]; amended [Pub. L. 101–280][/us/pl/101/280], § 7(a)(1), (b), May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 319, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–198][/us/pl/102/198], § 6, Dec. 9, 1991, [105 Stat. 1624][/us/stat/105/1624]; [Pub. L. 102–378][/us/pl/102/378], § 4(b)(3), Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357].)
 
  __References in Text__ 
 
@@ -51,17 +51,17 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–378, § 4(b)(3)][/us/pl/102/378/s4/b/3], substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
+    1992—Subsec. (a). [Pub. L. 102–378][/us/pl/102/378], § 4(b)(3), substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
 
     1991—Subsec. (b). [Pub. L. 102–198][/us/pl/102/198] substituted heading for one which read “Senior Judges Teaching Compensation” and amended text generally. Prior to amendment, text read as follows: “Any compensation for teaching received by a senior judge (as designated under [section 294(b) of title 28][/us/usc/t28/s294/b], United States Code) approved under subsection (a)(5) of this section shall not be treated as outside earned income for the purpose of the limitation under section 501(a).”
 
     1990—[Pub. L. 101–650][/us/pl/101/650] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 101–280, § 7(a)(1)][/us/pl/101/280/s7/a/1], in introductory provisions substituted “a noncareer officer or employee” for “not a career civil servant”.
+    [Pub. L. 101–280][/us/pl/101/280], § 7(a)(1), in introductory provisions substituted “a noncareer officer or employee” for “not a career civil servant”.
 
-    [Pub. L. 101–280, § 7(b)(1)][/us/pl/101/280/s7/b/1], in par. (1) substituted “receive compensation for affiliating with or being” for “affiliate with or be” and “which provides professional services involving” for “to provide professional services which involves”, and struck out “for compensation” after “relationship”.
+    [Pub. L. 101–280][/us/pl/101/280], § 7(b)(1), in par. (1) substituted “receive compensation for affiliating with or being” for “affiliate with or be” and “which provides professional services involving” for “to provide professional services which involves”, and struck out “for compensation” after “relationship”.
 
-    [Pub. L. 101–280, § 7(b)(2)][/us/pl/101/280/s7/b/2], in par. (3) substituted “receive compensation for practicing” for “practice” and struck out “for compensation” after “relationship”.
+    [Pub. L. 101–280][/us/pl/101/280], § 7(b)(2), in par. (3) substituted “receive compensation for practicing” for “practice” and struck out “for compensation” after “relationship”.
 
  __Effective Date__ 
 
@@ -78,28 +78,28 @@
 [/us/usc/t28/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fb
 [/us/usc/t28/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371
 [/us/usc/t28/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372%2Fa
-[/us/pl/95/521/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs502
-[/us/pl/101/194/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs601%2Fa
+[/us/pl/95/521/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtV
+[/us/pl/101/194/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVI
 [/us/stat/103/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1761
-[/us/pl/101/280/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fa%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F161
-[/us/pl/101/650/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs319
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/198/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs6
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1624
-[/us/pl/102/378/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fb%2F3
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1357
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/95/521/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs502
 [/us/stat/92/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1867
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/pl/102/378/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fb%2F3
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/usc/t28/s294/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs294%2Fb
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
-[/us/pl/101/280/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fa%2F1
-[/us/pl/101/280/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fb%2F1
-[/us/pl/101/280/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fb%2F2
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs703
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/101/194/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs603

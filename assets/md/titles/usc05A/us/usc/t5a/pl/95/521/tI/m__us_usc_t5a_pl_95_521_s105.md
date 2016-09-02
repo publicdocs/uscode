@@ -103,7 +103,7 @@
 
         (3) After the relevant time period identified under paragraph (2), the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 101(b) and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 101(c) and was not subsequently elected, such reports shall be destroyed 1 year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation or inquiry.
 
-([Pub. L. 95–521, title I, § 105][/us/pl/95/521/s105], Oct. 26, 1978, [92 Stat. 1833][/us/stat/92/1833]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1737][/us/stat/103/1737]; [Pub. L. 101–280, § 3(6)][/us/pl/101/280/s3/6], May 4, 1990, [104 Stat. 154][/us/stat/104/154]; [Pub. L. 102–90, title III, § 313(2)][/us/pl/102/90/s313/2], Aug. 14, 1991, [105 Stat. 469][/us/stat/105/469]; [Pub. L. 103–359, title V, § 501(m)][/us/pl/103/359/s501/m], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XI, § 1122(b)(2)][/us/pl/104/201/s1122/b/2], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 105–318, § 7][/us/pl/105/318/s7], Oct. 30, 1998, [112 Stat. 3011][/us/stat/112/3011]; [Pub. L. 107–126][/us/pl/107/126], Jan. 16, 2002, [115 Stat. 2404][/us/stat/115/2404]; [Pub. L. 108–458, title I, § 1079(c)][/us/pl/108/458/s1079/c], Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696]; [Pub. L. 110–24][/us/pl/110/24], §§ 2, 3, May 3, 2007, [121 Stat. 100][/us/stat/121/100]; [Pub. L. 110–177, title I, § 104][/us/pl/110/177/s104], Jan. 7, 2008, [121 Stat. 2535][/us/stat/121/2535]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 112–84, § 1][/us/pl/112/84/s1], Jan. 3, 2012, [125 Stat. 1870][/us/stat/125/1870]; [Pub. L. 112–105, § 8(c)][/us/pl/112/105/s8/c], Apr. 4, 2012, [126 Stat. 296][/us/stat/126/296].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 105, Oct. 26, 1978, [92 Stat. 1833][/us/stat/92/1833]; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1737][/us/stat/103/1737]; [Pub. L. 101–280][/us/pl/101/280], § 3(6), May 4, 1990, [104 Stat. 154][/us/stat/104/154]; [Pub. L. 102–90, title III][/us/pl/102/90/tIII], § 313(2), Aug. 14, 1991, [105 Stat. 469][/us/stat/105/469]; [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(m), Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(b)(2), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 105–318][/us/pl/105/318], § 7, Oct. 30, 1998, [112 Stat. 3011][/us/stat/112/3011]; [Pub. L. 107–126][/us/pl/107/126], Jan. 16, 2002, [115 Stat. 2404][/us/stat/115/2404]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1079(c), Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696]; [Pub. L. 110–24][/us/pl/110/24], §§ 2, 3, May 3, 2007, [121 Stat. 100][/us/stat/121/100]; [Pub. L. 110–177, title I][/us/pl/110/177/tI], § 104, Jan. 7, 2008, [121 Stat. 2535][/us/stat/121/2535]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 112–84][/us/pl/112/84], § 1, Jan. 3, 2012, [125 Stat. 1870][/us/stat/125/1870]; [Pub. L. 112–105][/us/pl/112/105], § 8(c), Apr. 4, 2012, [126 Stat. 296][/us/stat/126/296].)
 
  __Codification__ 
 
@@ -111,11 +111,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(3)(A). [Pub. L. 112–84, § 1(1)][/us/pl/112/84/s1/1], substituted “Marshals” for “Marshall”.
+    2012—Subsec. (b)(3)(A). [Pub. L. 112–84][/us/pl/112/84], § 1(1), substituted “Marshals” for “Marshall”.
 
-    Subsec. (b)(3)(C). [Pub. L. 112–84, § 1(2)][/us/pl/112/84/s1/2], inserted “and the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform” after “of the Senate”.
+    Subsec. (b)(3)(C). [Pub. L. 112–84][/us/pl/112/84], § 1(2), inserted “and the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform” after “of the Senate”.
 
-    Subsec. (b)(3)(E). [Pub. L. 112–84, § 1(3)][/us/pl/112/84/s1/3], substituted “2017” for “2011” in two places.
+    Subsec. (b)(3)(E). [Pub. L. 112–84][/us/pl/112/84], § 1(3), substituted “2017” for “2011” in two places.
 
     Subsec. (d). [Pub. L. 112–105][/us/pl/112/105] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any report filed with or transmitted to an agency or supervising ethics office or to the Clerk of the House of Representatives or the Secretary of the Senate pursuant to this title shall be retained by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be. Such report shall be made available to the public for a period of six years after receipt of the report. After such six-year period the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 101(b) and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 101(c) and was not subsequently elected, such reports shall be destroyed one year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation.”
 
@@ -123,13 +123,13 @@
 
     Subsec. (b)(3)(E). [Pub. L. 110–177][/us/pl/110/177] substituted “2011” for “2009” in two places.
 
-    2007—Subsec. (b)(3)(A). [Pub. L. 110–24, § 2(1)][/us/pl/110/24/s2/1], inserted “or a family member of that individual” before period at end.
+    2007—Subsec. (b)(3)(A). [Pub. L. 110–24][/us/pl/110/24], § 2(1), inserted “or a family member of that individual” before period at end.
 
-    Subsec. (b)(3)(B)(i). [Pub. L. 110–24, § 2(2)][/us/pl/110/24/s2/2], inserted “or a family member of that individual” before semicolon.
+    Subsec. (b)(3)(B)(i). [Pub. L. 110–24][/us/pl/110/24], § 2(2), inserted “or a family member of that individual” before semicolon.
 
-    Subsec. (b)(3)(C)(iv) to (vii). [Pub. L. 110–24, § 3(b)][/us/pl/110/24/s3/b], added cls. (iv) to (vii).
+    Subsec. (b)(3)(C)(iv) to (vii). [Pub. L. 110–24][/us/pl/110/24], § 3(b), added cls. (iv) to (vii).
 
-    Subsec. (b)(3)(E). [Pub. L. 110–24, § 3(a)][/us/pl/110/24/s3/a], substituted “2009” for “2005” in two places.
+    Subsec. (b)(3)(E). [Pub. L. 110–24][/us/pl/110/24], § 3(a), substituted “2009” for “2005” in two places.
 
     2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458] inserted “the Office of the Director of National Intelligence,” before “the Central Intelligence Agency”.
 
@@ -143,19 +143,19 @@
 
     1991—Subsec. (b)(1). [Pub. L. 102–90][/us/pl/102/90] substituted “Except as provided in the second sentence of this subsection, each agency” for “Each agency” and inserted after first sentence “With respect to any report required to be filed by May 15 of any year, such report shall be made available for public inspection within 30 calendar days after May 15 of such year or within 30 days of the date of filing of such a report for which an extension is granted pursuant to section 101(g).”
 
-    1990—Subsec. (a). [Pub. L. 101–280, § 3(6)(A)][/us/pl/101/280/s3/6/A], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each agency and each supervisory ethics office shall make each report filed with it under this title available to the public in accordance with the provisions of subsection (b) of this section, except that this section does not require public availability of a report filed by—
+    1990—Subsec. (a). [Pub. L. 101–280][/us/pl/101/280], § 3(6)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each agency and each supervisory ethics office shall make each report filed with it under this title available to the public in accordance with the provisions of subsection (b) of this section, except that this section does not require public availability of a report filed by—
 
     “(1) any individual in the Central Intelligence Agency, the Defense Intelligence Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, by revealing the identity of the individual or other sensitive information, compromise the national interest of the United States. In addition, such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds that such filing is necessary in the national interest; or
 
     “(2) an independent counsel or person appointed by independent counsel under chapter 40 of title 28, United States Code, whose identity has not otherwise been disclosed.”
 
-    Subsec. (b)(1). [Pub. L. 101–280, § 3(6)(B)(i)(I)][/us/pl/101/280/s3/6/B/i/I], substituted “, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate” for “and each supervising ethics office”.
+    Subsec. (b)(1). [Pub. L. 101–280][/us/pl/101/280], § 3(6)(B)(i)(I), substituted “, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate” for “and each supervising ethics office”.
 
-    [Pub. L. 101–280, § 3(6)(B)(i)(II)][/us/pl/101/280/s3/6/B/i/II], substituted “under this title by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be,” for “by such agency or office under this title”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(6)(B)(i)(II), substituted “under this title by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be,” for “by such agency or office under this title”.
 
-    [Pub. L. 101–280, § 3(6)(B)(ii)][/us/pl/101/280/s3/6/B/ii], substituted “, office, Clerk, or Secretary of the Senate, as the case may be” for “or office”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(6)(B)(ii), substituted “, office, Clerk, or Secretary of the Senate, as the case may be” for “or office”.
 
-    Subsec. (d). [Pub. L. 101–280, § 3(6)(C)][/us/pl/101/280/s3/6/C], inserted “or to the Clerk of the House of Representatives or the Secretary of the Senate” after “ethics office” and “or by the Clerk or the Secretary of the Senate” after “or office”.
+    Subsec. (d). [Pub. L. 101–280][/us/pl/101/280], § 3(6)(C), inserted “or to the Clerk of the House of Representatives or the Secretary of the Senate” after “ethics office” and “or by the Clerk or the Secretary of the Senate” after “or office”.
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, substituting provisions relating to custody of and public access to reports for provisions relating to review and compliance procedures. See section 106 of this Appendix.
 
@@ -179,7 +179,7 @@
 
  __Public, Online Disclosure of Financial Disclosure Forms__ 
 
-[Pub. L. 113–7, § 1(a)(1)][/us/pl/113/7/s1/a/1], (2), Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438], provided that:
+[Pub. L. 113–7][/us/pl/113/7], § 1(a)(1), (2), Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -201,11 +201,11 @@
 
  __Changed Effective Date for Financial Disclosure Forms of Certain Officers and Employees__ 
 
-    [Pub. L. 112–178, § 1][/us/pl/112/178/s1], Sept. 28, 2012, [126 Stat. 1408][/us/stat/126/1408], as amended by [Pub. L. 112–207, § 1][/us/pl/112/207/s1], Dec. 7, 2012, [126 Stat. 1495][/us/stat/126/1495], which provided that, except with respect to financial disclosure forms filed by certain officers and employees, sections 8(a)(1) and 11(a)(1) of [Pub. L. 112–105][/us/pl/112/105] (set out below) were effective Apr. 15, 2013, was repealed by [Pub. L. 113–7, § 1(a)(3)][/us/pl/113/7/s1/a/3], Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438].
+    [Pub. L. 112–178][/us/pl/112/178], § 1, Sept. 28, 2012, [126 Stat. 1408][/us/stat/126/1408], as amended by [Pub. L. 112–207][/us/pl/112/207], § 1, Dec. 7, 2012, [126 Stat. 1495][/us/stat/126/1495], which provided that, except with respect to financial disclosure forms filed by certain officers and employees, sections 8(a)(1) and 11(a)(1) of [Pub. L. 112–105][/us/pl/112/105] (set out below) were effective Apr. 15, 2013, was repealed by [Pub. L. 113–7][/us/pl/113/7], § 1(a)(3), Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438].
 
  __Public Filing and Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff__ 
 
-[Pub. L. 112–105, § 8(a)][/us/pl/112/105/s8/a], (b), Apr. 4, 2012, [126 Stat. 295][/us/stat/126/295], as amended by [Pub. L. 112–173, § 1(1)][/us/pl/112/173/s1/1], Aug. 16, 2012, [126 Stat. 1310][/us/stat/126/1310]; [Pub. L. 113–7, § 1(b)(1)][/us/pl/113/7/s1/b/1], Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438], provided that:
+[Pub. L. 112–105][/us/pl/112/105], § 8(a), (b), Apr. 4, 2012, [126 Stat. 295][/us/stat/126/295], as amended by [Pub. L. 112–173][/us/pl/112/173], § 1(1), Aug. 16, 2012, [126 Stat. 1310][/us/stat/126/1310]; [Pub. L. 113–7][/us/pl/113/7], § 1(b)(1), Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438], provided that:
 
 >     “(a) __Public, Online Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff.—__ 
 
@@ -267,7 +267,7 @@
 
  __Executive Branch Reporting__ 
 
-[Pub. L. 112–105, § 11][/us/pl/112/105/s11], Apr. 4, 2012, [126 Stat. 298][/us/stat/126/298], as amended by [Pub. L. 112–173, § 1(2)][/us/pl/112/173/s1/2], Aug. 16, 2012, [126 Stat. 1310][/us/stat/126/1310]; [Pub. L. 113–7, § 1(b)(2)][/us/pl/113/7/s1/b/2], Apr. 15, 2013, [127 Stat. 439][/us/stat/127/439], provided that:
+[Pub. L. 112–105][/us/pl/112/105], § 11, Apr. 4, 2012, [126 Stat. 298][/us/stat/126/298], as amended by [Pub. L. 112–173][/us/pl/112/173], § 1(2), Aug. 16, 2012, [126 Stat. 1310][/us/stat/126/1310]; [Pub. L. 113–7][/us/pl/113/7], § 1(b)(2), Apr. 15, 2013, [127 Stat. 439][/us/stat/127/439], provided that:
 
 >     “(a) __Executive Branch Reporting.—__ 
 
@@ -329,7 +329,7 @@
 
  __Public Availability of Reports Filed Under Pre-1991 Ethics in Government Act Provisions__ 
 
-[Pub. L. 101–280, § 9][/us/pl/101/280/s9], May 4, 1990, [104 Stat. 162][/us/stat/104/162], provided that: 
+[Pub. L. 101–280][/us/pl/101/280], § 9, May 4, 1990, [104 Stat. 162][/us/stat/104/162], provided that: 
 
 > “Those reports filed under title I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], or III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[[Pub. L. 95–521][/us/pl/95/521]\], as in effect before January 1, 1991, shall be made available to the public on or after such date in accordance with section 105 of that Act \[this section\], as amended by the Ethics Reform Act of 1989 \[[Pub. L. 101–194][/us/pl/101/194]\], and the provisions of such section shall apply with respect to those reports.”
 
@@ -340,56 +340,56 @@
 ----------
 ----------
 
-[/us/pl/95/521/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs105
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1833
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1737
-[/us/pl/101/280/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F6
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F154
-[/us/pl/102/90/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs313%2F2
+[/us/pl/102/90/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtIII
 [/us/stat/105/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F469
-[/us/pl/103/359/s501/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fm
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3430
-[/us/pl/104/201/s1122/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fb%2F2
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/105/318/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs7
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/stat/112/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3011
 [/us/pl/107/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F126
 [/us/stat/115/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2404
-[/us/pl/108/458/s1079/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1079%2Fc
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3696
 [/us/pl/110/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24
 [/us/stat/121/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F100
-[/us/pl/110/177/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs104
+[/us/pl/110/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtI
 [/us/stat/121/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2535
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
-[/us/pl/112/84/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84%2Fs1
+[/us/pl/112/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84
 [/us/stat/125/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1870
-[/us/pl/112/105/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs8%2Fc
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F296
 [/us/usc/t2/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs705
-[/us/pl/112/84/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84%2Fs1%2F1
-[/us/pl/112/84/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84%2Fs1%2F2
-[/us/pl/112/84/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84%2Fs1%2F3
+[/us/pl/112/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84
+[/us/pl/112/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84
+[/us/pl/112/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F84
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
-[/us/pl/110/24/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24%2Fs2%2F1
-[/us/pl/110/24/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24%2Fs2%2F2
-[/us/pl/110/24/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24%2Fs3%2Fb
-[/us/pl/110/24/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24%2Fs3%2Fa
+[/us/pl/110/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24
+[/us/pl/110/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24
+[/us/pl/110/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24
+[/us/pl/110/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F126
 [/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
-[/us/pl/101/280/s3/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F6%2FA
-[/us/pl/101/280/s3/6/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F6%2FB%2Fi%2FI
-[/us/pl/101/280/s3/6/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F6%2FB%2Fi%2FII
-[/us/pl/101/280/s3/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F6%2FB%2Fii
-[/us/pl/101/280/s3/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F6%2FC
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
@@ -401,22 +401,22 @@
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204
-[/us/pl/113/7/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7%2Fs1%2Fa%2F1
+[/us/pl/113/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7
 [/us/stat/127/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F438
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/112/178/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F178%2Fs1
+[/us/pl/112/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F178
 [/us/stat/126/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1408
-[/us/pl/112/207/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F207%2Fs1
+[/us/pl/112/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F207
 [/us/stat/126/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1495
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
-[/us/pl/113/7/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7%2Fs1%2Fa%2F3
+[/us/pl/113/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7
 [/us/stat/127/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F438
-[/us/pl/112/105/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs8%2Fa
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F295
-[/us/pl/112/173/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F173%2Fs1%2F1
+[/us/pl/112/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F173
 [/us/stat/126/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1310
-[/us/pl/113/7/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7%2Fs1%2Fb%2F1
+[/us/pl/113/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7
 [/us/stat/127/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F438
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
@@ -424,16 +424,16 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/95/521/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs105%2Fb%2F2
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/pl/112/105/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs11
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F298
-[/us/pl/112/173/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F173%2Fs1%2F2
+[/us/pl/112/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F173
 [/us/stat/126/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1310
-[/us/pl/113/7/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7%2Fs1%2Fb%2F2
+[/us/pl/113/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F7
 [/us/stat/127/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F439
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/pl/101/280/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs9
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F162
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194

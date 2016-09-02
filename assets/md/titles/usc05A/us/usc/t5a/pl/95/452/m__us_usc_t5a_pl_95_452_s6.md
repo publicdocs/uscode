@@ -139,7 +139,7 @@
 
             (E) any comments of the affected Inspector General with respect to the proposal if the Inspector General concludes that the budget submitted by the President would substantially inhibit the Inspector General from performing the duties of the office.
 
-([Pub. L. 95–452, § 6][/us/pl/95/452/s6], Oct. 12, 1978, [92 Stat. 1104][/us/stat/92/1104]; [Pub. L. 100–504, title I][/us/pl/100/504], §§ 107, 110(a), Oct. 18, 1988, [102 Stat. 2528][/us/stat/102/2528], 2529; [Pub. L. 107–296, title VIII, § 812(a)][/us/pl/107/296/s812/a], Nov. 25, 2002, [116 Stat. 2222][/us/stat/116/2222]; [Pub. L. 110–409][/us/pl/110/409], §§ 8, 9, 11, 14(a), Oct. 14, 2008, [122 Stat. 4313–4316][/us/stat/122/4313-4316].)
+([Pub. L. 95–452][/us/pl/95/452], § 6, Oct. 12, 1978, [92 Stat. 1104][/us/stat/92/1104]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], §§ 107, 110(a), Oct. 18, 1988, [102 Stat. 2528][/us/stat/102/2528], 2529; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 812(a), Nov. 25, 2002, [116 Stat. 2222][/us/stat/116/2222]; [Pub. L. 110–409][/us/pl/110/409], §§ 8, 9, 11, 14(a), Oct. 14, 2008, [122 Stat. 4313–4316][/us/stat/122/4313-4316].)
 
  __References in Text__ 
 
@@ -149,27 +149,27 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(4). [Pub. L. 110–409, § 9(2)][/us/pl/110/409/s9/2], which directed substitution of “subpoena” for “subpena”, was executed by making the substitution for “subpena” both places it appeared, to reflect the probable intent of Congress.
+    2008—Subsec. (a)(4). [Pub. L. 110–409][/us/pl/110/409], § 9(2), which directed substitution of “subpoena” for “subpena”, was executed by making the substitution for “subpena” both places it appeared, to reflect the probable intent of Congress.
 
-    [Pub. L. 110–409, § 9(1)][/us/pl/110/409/s9/1], inserted “in any medium (including electronically stored information, as well as any tangible thing)” after “other data”.
+    [Pub. L. 110–409][/us/pl/110/409], § 9(1), inserted “in any medium (including electronically stored information, as well as any tangible thing)” after “other data”.
 
-    Subsec. (d). [Pub. L. 110–409, § 14(a)][/us/pl/110/409/s14/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of the provisions of title 5, United States Code, governing the Senior Executive Service, any reference in such provisions to the ‘appointing authority’ for a member of the Senior Executive Service or for a Senior Executive Service position shall, if such member or position is or would be within the Office of an Inspector General, be deemed to be a reference to such Inspector General.”
+    Subsec. (d). [Pub. L. 110–409][/us/pl/110/409], § 14(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of the provisions of title 5, United States Code, governing the Senior Executive Service, any reference in such provisions to the ‘appointing authority’ for a member of the Senior Executive Service or for a Senior Executive Service position shall, if such member or position is or would be within the Office of an Inspector General, be deemed to be a reference to such Inspector General.”
 
-    Subsec. (e)(1). [Pub. L. 110–409, § 11(1)][/us/pl/110/409/s11/1], struck out “appointed under section 3” after “each Inspector General” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 110–409][/us/pl/110/409], § 11(1), struck out “appointed under section 3” after “each Inspector General” in introductory provisions.
 
-    Subsec. (e)(9). [Pub. L. 110–409, § 11(2)][/us/pl/110/409/s11/2], added par. (9).
+    Subsec. (e)(9). [Pub. L. 110–409][/us/pl/110/409], § 11(2), added par. (9).
 
-    Subsec. (f). [Pub. L. 110–409, § 8][/us/pl/110/409/s8], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–409][/us/pl/110/409], § 8, added subsec. (f).
 
     2002—Subsec. (e). [Pub. L. 107–296][/us/pl/107/296] added subsec. (e).
 
-    1988—Subsec. (a)(5) to (9). [Pub. L. 100–504, § 107][/us/pl/100/504/s107], added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+    1988—Subsec. (a)(5) to (9). [Pub. L. 100–504][/us/pl/100/504], § 107, added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
-    Subsec. (d). [Pub. L. 100–504, § 110(a)][/us/pl/100/504/s110/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–504][/us/pl/100/504], § 110(a), added subsec. (d).
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–296, title VIII, § 812(c)][/us/pl/107/296/s812/c], Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224], provided that:
+[Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 812(c), Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -189,11 +189,11 @@
 
  __Links to Websites of Offices of Inspectors General__ 
 
-    Provisions of [Pub. L. 110–161, div. B, title V, § 534][/us/pl/110/161/s534], div. D, title VII, § 746, div. E, title V, § 555, div. G, title V, § 522, div. I, title II, § 226, div. J, title I, § 115, div. K, title I, § 195, title II, § 234, and [Pub. L. 110–116, div. A, title VIII, § 8121][/us/pl/110/116/s8121], formerly set out as notes under this section were transferred, and are listed in a table of similar provisions under section 8M of this Appendix.
+    Provisions of [Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 534, div. D, title VII, § 746, div. E, title V, § 555, div. G, title V, § 522, div. I, title II, § 226, div. J, title I, § 115, div. K, title I, § 195, title II, § 234, and [Pub. L. 110–116, div. A, title VIII][/us/pl/110/116/dA/tVIII], § 8121, formerly set out as notes under this section were transferred, and are listed in a table of similar provisions under section 8M of this Appendix.
 
  __Promulgation of Initial Guidelines__ 
 
-[Pub. L. 107–296, title VIII, § 812(b)][/us/pl/107/296/s812/b], Nov. 25, 2002, [116 Stat. 2223][/us/stat/116/2223], provided that:
+[Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 812(b), Nov. 25, 2002, [116 Stat. 2223][/us/stat/116/2223], provided that:
 
 >     “(1)  __Definition__  __.—__ 
 
@@ -223,7 +223,7 @@
 
  __Establishment of Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory__ 
 
-[Pub. L. 106–422, § 2][/us/pl/106/422/s2], Nov. 1, 2000, [114 Stat. 1873][/us/stat/114/1873], provided that:
+[Pub. L. 106–422][/us/pl/106/422], § 2, Nov. 1, 2000, [114 Stat. 1873][/us/stat/114/1873], provided that:
 
 >     “(a) __Inspectors General Criminal Investigator Academy.—__ 
 
@@ -271,39 +271,39 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s4507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4507%2Fb
-[/us/pl/95/452/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs6
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1104
-[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2528
-[/us/pl/107/296/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs812%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2222
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4313-4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313-4316
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/110/409/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs9%2F2
-[/us/pl/110/409/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs9%2F1
-[/us/pl/110/409/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs14%2Fa
-[/us/pl/110/409/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs11%2F1
-[/us/pl/110/409/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs11%2F2
-[/us/pl/110/409/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs8
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/100/504/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs107
-[/us/pl/100/504/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs110%2Fa
-[/us/pl/107/296/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs812%2Fc
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2224
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/pl/100/504/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs113
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/110/161/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs534
-[/us/pl/110/116/s8121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2Fs8121
-[/us/pl/107/296/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs812%2Fb
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
+[/us/pl/110/116/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2FdA%2FtVIII
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2223
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/422/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422%2Fs2
+[/us/pl/106/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422
 [/us/stat/114/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1873
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 

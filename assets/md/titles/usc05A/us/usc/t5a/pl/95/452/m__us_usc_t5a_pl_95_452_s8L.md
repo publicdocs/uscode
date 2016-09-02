@@ -91,7 +91,7 @@
 
     Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this Act with respect to overseas contingency operations.
 
-([Pub. L. 95–452, § 8L][/us/pl/95/452/s8L], as added [Pub. L. 112–239, div. A, title VIII, § 848(2)][/us/pl/112/239/s848/2], Jan. 2, 2013, [126 Stat. 1851][/us/stat/126/1851].)
+([Pub. L. 95–452][/us/pl/95/452], § 8L, as added [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 848(2), Jan. 2, 2013, [126 Stat. 1851][/us/stat/126/1851].)
 
  __Prior Provisions__ 
 
@@ -108,8 +108,8 @@
 [/us/usc/t5/s9902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902%2Fg
 [/us/usc/t5/s9902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902%2Fg
 [/us/usc/t5/s3161/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3161%2Fb%2F2
-[/us/pl/95/452/s8L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8L
-[/us/pl/112/239/s848/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs848%2F2
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1851
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 

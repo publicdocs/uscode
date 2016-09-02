@@ -47,11 +47,11 @@
 
     (d) In carrying out the duties and responsibilities established under this Act, each Inspector General shall report expeditiously to the Attorney General whenever the Inspector General has reasonable grounds to believe there has been a violation of Federal criminal law.
 
-([Pub. L. 95–452, § 4][/us/pl/95/452/s4], Oct. 12, 1978, [92 Stat. 1102][/us/stat/92/1102]; [Pub. L. 100–504, title I, § 109][/us/pl/100/504/s109], Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 103–82, title II, § 202(g)(5)(A)][/us/pl/103/82/s202/g/5/A], Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–409, § 7(d)(1)(A)][/us/pl/110/409/s7/d/1/A], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313].)
+([Pub. L. 95–452][/us/pl/95/452], § 4, Oct. 12, 1978, [92 Stat. 1102][/us/stat/92/1102]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 109, Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(5)(A), Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–409][/us/pl/110/409], § 7(d)(1)(A), Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313].)
 
  __References in Text__ 
 
-    Section 8F, referred to in subsec. (b)(2), which related to requirements for Federal entities and designated Federal entities, was renumbered section 8G by [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408].
+    Section 8F, referred to in subsec. (b)(2), which related to requirements for Federal entities and designated Federal entities, was renumbered section 8G by [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408].
 
  __Amendments__ 
 
@@ -78,17 +78,17 @@
 ----------
 ----------
 
-[/us/pl/95/452/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs4
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1102
-[/us/pl/100/504/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs109
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2529
-[/us/pl/103/82/s202/g/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F5%2FA
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F890
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/409/s7/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fd%2F1%2FA
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

@@ -133,7 +133,7 @@
 
     (19) “value” means a good faith estimate of the dollar value if the exact value is neither known nor easily obtainable by the reporting individual.
 
-([Pub. L. 95–521, title I, § 109][/us/pl/95/521/s109], Oct. 26, 1978, [92 Stat. 1836][/us/stat/92/1836]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1741][/us/stat/103/1741]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (8), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 155; [Pub. L. 102–378, § 4(a)(2)][/us/pl/102/378/s4/a/2], Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–160, div. A, title XI, § 1182(d)(3)][/us/pl/103/160/s1182/d/3], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–337, div. A, title IX, § 924(d)(3)][/us/pl/103/337/s924/d/3], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–186, title II, § 216(2)][/us/pl/104/186/s216/2], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 105–368, title V, § 512(b)(1)(D)][/us/pl/105/368/s512/b/1/D], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–323, § 7][/us/pl/110/323/s7], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 109, Oct. 26, 1978, [92 Stat. 1836][/us/stat/92/1836]; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1741][/us/stat/103/1741]; [Pub. L. 101–280][/us/pl/101/280], § 3(1), (8), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 155; [Pub. L. 102–378][/us/pl/102/378], § 4(a)(2), Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(d)(3), Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(d)(3), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 216(2), Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(b)(1)(D), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–323][/us/pl/110/323], § 7, Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -145,9 +145,9 @@
 
  __Amendments__ 
 
-    2008—Par. (13)(B)(i). [Pub. L. 110–323, § 7(1)][/us/pl/110/323/s7/1], inserted “(except any officer or employee of the Government Accountability Office)” after “legislative branch” and struck out “and” after semicolon.
+    2008—Par. (13)(B)(i). [Pub. L. 110–323][/us/pl/110/323], § 7(1), inserted “(except any officer or employee of the Government Accountability Office)” after “legislative branch” and struck out “and” after semicolon.
 
-    Par. (13)(B)(ii), (iii). [Pub. L. 110–323, § 7(2)][/us/pl/110/323/s7/2], (3), added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Par. (13)(B)(ii), (iii). [Pub. L. 110–323][/us/pl/110/323], § 7(2), (3), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
     2004—Pars. (4), (11)(D). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -161,43 +161,43 @@
 
     1992—Par. (8). [Pub. L. 102–572][/us/pl/102/572] substituted “Court of Federal Claims” for “Claims Court”.
 
-    [Pub. L. 102–378, § 4(a)(2)(A)][/us/pl/102/378/s4/a/2/A], substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule”.
+    [Pub. L. 102–378][/us/pl/102/378], § 4(a)(2)(A), substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule”.
 
     Par. (10). [Pub. L. 102–572][/us/pl/102/572] substituted “Court of Federal Claims” for “Claims Court”.
 
-    Par. (13)(B)(i). [Pub. L. 102–378, § 4(a)(2)(B)][/us/pl/102/378/s4/a/2/B], substituted “who, for at least 60 days, occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “who is compensated for at least 60 days at a rate of basic pay equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
+    Par. (13)(B)(i). [Pub. L. 102–378][/us/pl/102/378], § 4(a)(2)(B), substituted “who, for at least 60 days, occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “who is compensated for at least 60 days at a rate of basic pay equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
 
-    Par. (13)(B)(ii). [Pub. L. 102–378, § 4(a)(2)(C)][/us/pl/102/378/s4/a/2/C], substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “compensated at a rate equal to or in excess of the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
+    Par. (13)(B)(ii). [Pub. L. 102–378][/us/pl/102/378], § 4(a)(2)(C), substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “compensated at a rate equal to or in excess of the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
 
-    1990—Par. (1). [Pub. L. 101–280, § 3(8)(A)][/us/pl/101/280/s3/8/A], substituted “Select Committee on Ethics of the Senate” for “Senate Select Committee on Ethics”.
+    1990—Par. (1). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(A), substituted “Select Committee on Ethics of the Senate” for “Senate Select Committee on Ethics”.
 
-    Par. (4). [Pub. L. 101–280, § 3(8)(B)][/us/pl/101/280/s3/8/B], inserted “, other than the General Accounting Office,” after “Code)”.
+    Par. (4). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(B), inserted “, other than the General Accounting Office,” after “Code)”.
 
-    Par. (5)(C). [Pub. L. 101–280, § 3(8)(C)(i)][/us/pl/101/280/s3/8/C/i], inserted “, the District of Columbia, or a State or local government or political subdivision thereof” after “United States Government”.
+    Par. (5)(C). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(C)(i), inserted “, the District of Columbia, or a State or local government or political subdivision thereof” after “United States Government”.
 
-    Par. (5)(D). [Pub. L. 101–280, § 3(8)(C)(ii)][/us/pl/101/280/s3/8/C/ii], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “food and beverages consumed at banquets, receptions, or similar events; or”.
+    Par. (5)(D). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(C)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “food and beverages consumed at banquets, receptions, or similar events; or”.
 
-    Par. (5)(E). [Pub. L. 101–280, § 3(8)(C)(iii)][/us/pl/101/280/s3/8/C/iii], substituted “individual,” for “individual” and inserted “or” after semicolon at end.
+    Par. (5)(E). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(C)(iii), substituted “individual,” for “individual” and inserted “or” after semicolon at end.
 
-    Par. (5)(F). [Pub. L. 101–280, § 3(8)(C)(iv)][/us/pl/101/280/s3/8/C/iv], added subpar. (F).
+    Par. (5)(F). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(C)(iv), added subpar. (F).
 
-    Par. (8). [Pub. L. 101–280, § 3(8)(D)][/us/pl/101/280/s3/8/D], substituted “United States Sentencing Commission, of the Tax Court, of the Claims Court,” for “Tax Court,” and “who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule” for “who receives compensation at a rate at or in excess of the minimum rate prescribed for grade 16 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code;”.
+    Par. (8). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(D), substituted “United States Sentencing Commission, of the Tax Court, of the Claims Court,” for “Tax Court,” and “who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule” for “who receives compensation at a rate at or in excess of the minimum rate prescribed for grade 16 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code;”.
 
-    Par. (10). [Pub. L. 101–280, § 3(8)(E)][/us/pl/101/280/s3/8/E], substituted “Guam, the Northern Mariana Islands,” for “the Canal Zone, Guam,” struck out “Court of Claims,” after “Virgin Islands,” and inserted “Claims Court, Court of Veterans Appeals,” after “Tax Court,”.
+    Par. (10). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(E), substituted “Guam, the Northern Mariana Islands,” for “the Canal Zone, Guam,” struck out “Court of Claims,” after “Virgin Islands,” and inserted “Claims Court, Court of Veterans Appeals,” after “Tax Court,”.
 
-    Par. (13)(B)(i). [Pub. L. 101–280, § 3(8)(F)][/us/pl/101/280/s3/8/F], substituted “at least 60” for “60 consecutive” and “of basic pay equal to or greater than” for “equal to or in excess of”.
+    Par. (13)(B)(i). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(F), substituted “at least 60” for “60 consecutive” and “of basic pay equal to or greater than” for “equal to or in excess of”.
 
-    Par. (15)(A). [Pub. L. 101–280, § 3(8)(G)][/us/pl/101/280/s3/8/G], inserted “, the District of Columbia, or a State or local government or political subdivision thereof” after “Government”.
+    Par. (15)(A). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(G), inserted “, the District of Columbia, or a State or local government or political subdivision thereof” after “Government”.
 
-    Par. (17)(C). [Pub. L. 101–280, § 3(8)(H)][/us/pl/101/280/s3/8/H], added subpar. (C).
+    Par. (17)(C). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(H), added subpar. (C).
 
-    Par. (18)(A). [Pub. L. 101–280, § 3(8)(I)(i)][/us/pl/101/280/s3/8/I/i], substituted “the Secretary of the Senate” for “such committee”.
+    Par. (18)(A). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(I)(i), substituted “the Secretary of the Senate” for “such committee”.
 
-    Par. (18)(B). [Pub. L. 101–280, § 3(8)(I)(ii)][/us/pl/101/280/s3/8/I/ii], substituted “the Clerk of the House of Representatives” for “such committee”.
+    Par. (18)(B). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(I)(ii), substituted “the Clerk of the House of Representatives” for “such committee”.
 
-    Par. (18)(C). [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    Par. (18)(C). [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Par. (18)(D). [Pub. L. 101–280, § 3(8)(I)(iii)][/us/pl/101/280/s3/8/I/iii], inserted “officers and” after “branch”.
+    Par. (18)(D). [Pub. L. 101–280][/us/pl/101/280], § 3(8)(I)(iii), inserted “officers and” after “branch”.
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, substituting provisions setting forth definitions for purposes of title I of [Pub. L. 95–521][/us/pl/95/521] for provisions relating to a study by the Comptroller General.
 
@@ -239,34 +239,34 @@
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
 [/us/usc/t5/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103%2Fh
 [/us/usc/t5/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103%2Fh
-[/us/pl/95/521/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs109
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1836
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1741
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F152
-[/us/pl/102/378/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fa%2F2
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1357
-[/us/pl/102/572/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F2
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/160/s1182/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fd%2F3
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1773
-[/us/pl/103/337/s924/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fd%2F3
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
-[/us/pl/104/186/s216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs216%2F2
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1747
-[/us/pl/105/368/s512/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fb%2F1%2FD
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/323/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs7
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs709
-[/us/pl/110/323/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs7%2F1
-[/us/pl/110/323/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs7%2F2
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
+[/us/pl/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
@@ -275,26 +275,26 @@
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
 [/us/usc/t10/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F8
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/378/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fa%2F2%2FA
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/378/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fa%2F2%2FB
-[/us/pl/102/378/s4/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fa%2F2%2FC
-[/us/pl/101/280/s3/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FA
-[/us/pl/101/280/s3/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FB
-[/us/pl/101/280/s3/8/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FC%2Fi
-[/us/pl/101/280/s3/8/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FC%2Fii
-[/us/pl/101/280/s3/8/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FC%2Fiii
-[/us/pl/101/280/s3/8/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FC%2Fiv
-[/us/pl/101/280/s3/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FD
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/280/s3/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FE
-[/us/pl/101/280/s3/8/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FF
-[/us/pl/101/280/s3/8/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FG
-[/us/pl/101/280/s3/8/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FH
-[/us/pl/101/280/s3/8/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FI%2Fi
-[/us/pl/101/280/s3/8/I/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FI%2Fii
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/8/I/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FI%2Fiii
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb

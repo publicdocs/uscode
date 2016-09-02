@@ -33,7 +33,7 @@
 
     (c) To the extent they are applicable, the guidelines set out in subsection (b) of this section shall be followed by the President, agency heads, or other Federal officials in creating an advisory committee.
 
-([Pub. L. 92–463, § 5][/us/pl/92/463/s5], Oct. 6, 1972, [86 Stat. 771][/us/stat/86/771].)
+([Pub. L. 92–463][/us/pl/92/463], § 5, Oct. 6, 1972, [86 Stat. 771][/us/stat/86/771].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/92/463/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs5
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F771
 
 

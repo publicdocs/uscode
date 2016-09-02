@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 95–452, § 10][/us/pl/95/452/s10], Oct. 12, 1978, [92 Stat. 1108][/us/stat/92/1108], amended sections 5315 and 5316 of Title 5, Government Organization and Employees, and [section 3522 of Title 42][/us/usc/t42/s3522], The Public Health and Welfare, which amendments have been executed to text.
+    Section, [Pub. L. 95–452][/us/pl/95/452], § 10, Oct. 12, 1978, [92 Stat. 1108][/us/stat/92/1108], amended sections 5315 and 5316 of Title 5, Government Organization and Employees, and [section 3522 of Title 42][/us/usc/t42/s3522], The Public Health and Welfare, which amendments have been executed to text.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/452/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs10
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1108
 [/us/usc/t42/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3522
 

@@ -187,11 +187,11 @@
 
             (C) summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
-([Pub. L. 95–452, § 8G][/us/pl/95/452/s8G], formerly § 8E, as added [Pub. L. 100–504, title I, § 104(a)][/us/pl/100/504/s104/a], Oct. 18, 1988, [102 Stat. 2522][/us/stat/102/2522]; amended [Pub. L. 101–73, title VII, § 702(c)][/us/pl/101/73/s702/c], Aug. 9, 1989, [103 Stat. 415][/us/stat/103/415]; renumbered § 8F and amended [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], (2)(A), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], 890; renumbered § 8G and amended [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], (4), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; [Pub. L. 104–88, title III, § 319][/us/pl/104/88/s319], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(b)(1), (2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–379; [Pub. L. 105–134, title IV, § 409(a)(1)][/us/pl/105/134/s409/a/1], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 105–277, div. C, title III, § 306(h)][/us/pl/105/277/s306/h], as added [Pub. L. 106–31, title I, § 105(a)(5)][/us/pl/106/31/s105/a/5], May 21, 1999, [113 Stat. 63][/us/stat/113/63]; [Pub. L. 106–422, § 1(b)(1)][/us/pl/106/422/s1/b/1], Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872]; [Pub. L. 107–252, title VIII, § 812(a)][/us/pl/107/252/s812/a], Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435], §§ 603(b), 605(a), Dec. 20, 2006, [120 Stat. 3240][/us/stat/120/3240], 3242; [Pub. L. 110–409][/us/pl/110/409], §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, [122 Stat. 4302][/us/stat/122/4302], 4305, 4313; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 989B, 989D, title X, § 1081, July 21, 2010, [124 Stat. 1945][/us/stat/124/1945], 1946, 2080; [Pub. L. 111–259, title IV, § 431(a)][/us/pl/111/259/s431/a], (c), Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title IV][/us/pl/113/126], §§ 402(1), 412(1), July 7, 2014, [128 Stat. 1408][/us/stat/128/1408], 1409; [Pub. L. 114–113, div. H, title IV, § 401(a)][/us/pl/114/113/s401/a], Dec. 18, 2015, [129 Stat. 2639][/us/stat/129/2639].)
+([Pub. L. 95–452][/us/pl/95/452], § 8G, formerly § 8E, as added [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 104(a), Oct. 18, 1988, [102 Stat. 2522][/us/stat/102/2522]; amended [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 702(c), Aug. 9, 1989, [103 Stat. 415][/us/stat/103/415]; renumbered § 8F and amended [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(1), (2)(A), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], 890; renumbered § 8G and amended [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), (4), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 319, Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 662(b)(1), (2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–379; [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 409(a)(1), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 105–277, div. C, title III][/us/pl/105/277/dC/tIII], § 306(h), as added [Pub. L. 106–31, title I][/us/pl/106/31/tI], § 105(a)(5), May 21, 1999, [113 Stat. 63][/us/stat/113/63]; [Pub. L. 106–422][/us/pl/106/422], § 1(b)(1), Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872]; [Pub. L. 107–252, title VIII][/us/pl/107/252/tVIII], § 812(a), Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], §§ 603(b), 605(a), Dec. 20, 2006, [120 Stat. 3240][/us/stat/120/3240], 3242; [Pub. L. 110–409][/us/pl/110/409], §§ 2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, [122 Stat. 4302][/us/stat/122/4302], 4305, 4313; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 989B, 989D, title X, § 1081, July 21, 2010, [124 Stat. 1945][/us/stat/124/1945], 1946, 2080; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 431(a), (c), Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title IV][/us/pl/113/126/tIV], §§ 402(1), 412(1), July 7, 2014, [128 Stat. 1408][/us/stat/128/1408], 1409; [Pub. L. 114–113, div. H, title IV][/us/pl/114/113/dH/tIV], § 401(a), Dec. 18, 2015, [129 Stat. 2639][/us/stat/129/2639].)
 
  __Amendment of Subsections (a) and (e)__ 
 
-    [Pub. L. 114–113, div. H, title IV, § 401(a)][/us/pl/114/113/s401/a], (c), Dec. 18, 2015, [129 Stat. 2639][/us/stat/129/2639], 2640, provided that, effective on the date that is 180 days after Dec. 18, 2015, this section is amended—
+    [Pub. L. 114–113, div. H, title IV][/us/pl/114/113/dH/tIV], § 401(a), (c), Dec. 18, 2015, [129 Stat. 2639][/us/stat/129/2639], 2640, provided that, effective on the date that is 180 days after Dec. 18, 2015, this section is amended—
 
     (1) in subsection (a)—
 
@@ -211,9 +211,11 @@
 
     (B) by striking “board or commission”, the second place it appears, and inserting “board, committee, or commission”.
 
+    See 2015 Amendment notes below.
+
  __Amendment of Subsection (a)(2)__ 
 
-    [Pub. L. 105–134, title IV, § 409(a)][/us/pl/105/134/s409/a], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking “Amtrak,”.
+    [Pub. L. 105–134, title IV][/us/pl/105/134/tIV], § 409(a), Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking “Amtrak,”.
 
  __References in Text__ 
 
@@ -225,45 +227,45 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–113, § 401(a)(1)(A)][/us/pl/114/113/s401/a/1/A], inserted “the Committee for Purchase From People Who Are Blind or Severely Disabled,” after “the Board for International Broadcasting,”.
+    2015—Subsec. (a)(2). [Pub. L. 114–113][/us/pl/114/113], § 401(a)(1)(A), inserted “the Committee for Purchase From People Who Are Blind or Severely Disabled,” after “the Board for International Broadcasting,”.
 
-    Subsec. (a)(4)(D) to (I). [Pub. L. 114–113, § 401(a)(1)(B)][/us/pl/114/113/s401/a/1/B], added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
+    Subsec. (a)(4)(D) to (I). [Pub. L. 114–113][/us/pl/114/113], § 401(a)(1)(B), added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
 
-    Subsec. (e)(1). [Pub. L. 114–113, § 401(a)(2)][/us/pl/114/113/s401/a/2], substituted “board, chairman of a committee, or commission” for “board or commission” first time appearing and “board, committee, or commission” for “board or commission” second time appearing.
+    Subsec. (e)(1). [Pub. L. 114–113][/us/pl/114/113], § 401(a)(2), substituted “board, chairman of a committee, or commission” for “board or commission” the first time appearing and “board, committee, or commission” for “board or commission” the second time appearing.
 
-    2014—Subsec. (a)(2). [Pub. L. 113–126, § 412(1)][/us/pl/113/126/s412/1], struck out “the National Reconnaissance Office,” after “the National Labor Relations Board,”.
+    2014—Subsec. (a)(2). [Pub. L. 113–126][/us/pl/113/126], § 412(1), struck out “the National Reconnaissance Office,” after “the National Labor Relations Board,”.
 
-    [Pub. L. 113–126, § 402(1)][/us/pl/113/126/s402/1], struck out “the National Security Agency,” before “the National Science Foundation,”.
+    [Pub. L. 113–126][/us/pl/113/126], § 402(1), struck out “the National Security Agency,” before “the National Science Foundation,”.
 
-    2010—Subsec. (a)(2). [Pub. L. 111–259, § 431(a)][/us/pl/111/259/s431/a], inserted “the Defense Intelligence Agency,” after “the Corporation for Public Broadcasting,”, “the National Geospatial-Intelligence Agency,” after “the National Endowment for the Humanities,”, and “the National Reconnaissance Office, the National Security Agency,” after “the National Labor Relations Board,”.
+    2010—Subsec. (a)(2). [Pub. L. 111–259][/us/pl/111/259], § 431(a), inserted “the Defense Intelligence Agency,” after “the Corporation for Public Broadcasting,”, “the National Geospatial-Intelligence Agency,” after “the National Endowment for the Humanities,”, and “the National Reconnaissance Office, the National Security Agency,” after “the National Labor Relations Board,”.
 
-    [Pub. L. 111–203, § 1081(1)][/us/pl/111/203/s1081/1], inserted “and the Bureau of Consumer Financial Protection” after “Board of Governors of the Federal Reserve System”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1081(1), inserted “and the Bureau of Consumer Financial Protection” after “Board of Governors of the Federal Reserve System”.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 989B(1)(A)][/us/pl/111/203/s989B/1/A], inserted “the board or commission of the designated Federal entity, or in the event the designated Federal entity does not have a board or commission,” after “means” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 989B(1)(A), inserted “the board or commission of the designated Federal entity, or in the event the designated Federal entity does not have a board or commission,” after “means” in introductory provisions.
 
-    Subsec. (a)(4)(C) to (H). [Pub. L. 111–203, § 989B(1)(B)][/us/pl/111/203/s989B/1/B], (C), added subpars. (C) to (H).
+    Subsec. (a)(4)(C) to (H). [Pub. L. 111–203][/us/pl/111/203], § 989B(1)(B), (C), added subpars. (C) to (H).
 
-    Subsec. (c). [Pub. L. 111–203, § 1081(2)][/us/pl/111/203/s1081/2], inserted at end “For purposes of implementing this section, the Chairman of the Board of Governors of the Federal Reserve System shall appoint the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection. The Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection shall have all of the authorities and responsibilities provided by this Act with respect to the Bureau of Consumer Financial Protection, as if the Bureau were part of the Board of Governors of the Federal Reserve System.”
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1081(2), inserted at end “For purposes of implementing this section, the Chairman of the Board of Governors of the Federal Reserve System shall appoint the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection. The Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection shall have all of the authorities and responsibilities provided by this Act with respect to the Bureau of Consumer Financial Protection, as if the Bureau were part of the Board of Governors of the Federal Reserve System.”
 
-    Subsec. (d). [Pub. L. 111–259, § 431(c)][/us/pl/111/259/s431/c], designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the head” for “The head”, and added par. (2).
+    Subsec. (d). [Pub. L. 111–259][/us/pl/111/259], § 431(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the head” for “The head”, and added par. (2).
 
-    Subsec. (e). [Pub. L. 111–203, § 989D][/us/pl/111/203/s989D], designated existing provisions as par. (2) and added par. (1).
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 989D, designated existing provisions as par. (2) and added par. (1).
 
-    Subsec. (g)(3). [Pub. L. 111–203, § 1081(3)][/us/pl/111/203/s1081/3], inserted “and the Bureau of Consumer Financial Protection” after “the Inspector General of the Board of Governors of the Federal Reserve System”.
+    Subsec. (g)(3). [Pub. L. 111–203][/us/pl/111/203], § 1081(3), inserted “and the Bureau of Consumer Financial Protection” after “the Inspector General of the Board of Governors of the Federal Reserve System”.
 
-    Subsec. (h)(1). [Pub. L. 111–203, § 989B(2)][/us/pl/111/203/s989B/2], inserted “if the designated Federal entity is not a board or commission, include” after “designated Federal entities and”.
+    Subsec. (h)(1). [Pub. L. 111–203][/us/pl/111/203], § 989B(2), inserted “if the designated Federal entity is not a board or commission, include” after “designated Federal entities and”.
 
-    2008—Subsec. (a). [Pub. L. 110–409, § 7(d)(1)][/us/pl/110/409/s7/d/1], substituted “section 12” for “section 11” in introductory provisions and “section 12(2)” for “section 11(2)” in par. (1)(A).
+    2008—Subsec. (a). [Pub. L. 110–409][/us/pl/110/409], § 7(d)(1), substituted “section 12” for “section 11” in introductory provisions and “section 12(2)” for “section 11(2)” in par. (1)(A).
 
-    Subsec. (c). [Pub. L. 110–409, § 2][/us/pl/110/409/s2], inserted at end “Each Inspector General shall be appointed without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.”
+    Subsec. (c). [Pub. L. 110–409][/us/pl/110/409], § 2, inserted at end “Each Inspector General shall be appointed without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.”
 
-    Subsec. (e). [Pub. L. 110–409, § 3(b)][/us/pl/110/409/s3/b], substituted “shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.” for “shall promptly communicate in writing the reasons for any such removal or transfer to both Houses of the Congress.”
+    Subsec. (e). [Pub. L. 110–409][/us/pl/110/409], § 3(b), substituted “shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.” for “shall promptly communicate in writing the reasons for any such removal or transfer to both Houses of the Congress.”
 
-    Subsec. (g)(4). [Pub. L. 110–409, § 6(b)][/us/pl/110/409/s6/b], added par. (4).
+    Subsec. (g)(4). [Pub. L. 110–409][/us/pl/110/409], § 6(b), added par. (4).
 
-    2006—Subsec. (a)(2). [Pub. L. 109–435, § 605(a)][/us/pl/109/435/s605/a], inserted “the Postal Regulatory Commission,” after “the United States International Trade Commission,”.
+    2006—Subsec. (a)(2). [Pub. L. 109–435][/us/pl/109/435], § 605(a), inserted “the Postal Regulatory Commission,” after “the United States International Trade Commission,”.
 
-    Subsec. (f)(3) to (6). [Pub. L. 109–435, § 603(b)][/us/pl/109/435/s603/b], added par. (6) and redesignated par. (3), relating to Postal employees and labor organizations representing such employees, and par. (4) as pars. (4) and (5), respectively.
+    Subsec. (f)(3) to (6). [Pub. L. 109–435][/us/pl/109/435], § 603(b), added par. (6) and redesignated par. (3), relating to Postal employees and labor organizations representing such employees, and par. (4) as pars. (4) and (5), respectively.
 
     2004—Subsec. (a)(1)(E). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -271,11 +273,11 @@
 
     2000—Subsec. (a)(2). [Pub. L. 106–422][/us/pl/106/422] struck out “the Tennessee Valley Authority,” before “the United States International Trade Commission,”.
 
-    1998—Subsec. (a)(2). [Pub. L. 105–277, § 306(h)][/us/pl/105/277/s306/h], as added by [Pub. L. 106–31][/us/pl/106/31], inserted “the Denali Commission,” after “the Corporation for Public Broadcasting,”.
+    1998—Subsec. (a)(2). [Pub. L. 105–277][/us/pl/105/277], § 306(h), as added by [Pub. L. 106–31][/us/pl/106/31], inserted “the Denali Commission,” after “the Corporation for Public Broadcasting,”.
 
-    1996—Subsec. (a)(4). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(b)(1)\], substituted “except that—” and subpars. (A) and (B) for “except that with respect to the National Science Foundation, such term means the National Science Board;”.
+    1996—Subsec. (a)(4). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 662(b)(1)\], substituted “except that—” and subpars. (A) and (B) for “except that with respect to the National Science Foundation, such term means the National Science Board;”.
 
-    Subsec. (f). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(b)(2)\], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 662(b)(2)\], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
     “(1) The Chief Postal Inspector of the United States Postal Service shall also hold the position of Inspector General of the United States Postal Service, and for purposes of this section, shall report to, and be under the general supervision of, the Postmaster General of the United States Postal Service. The Postmaster General, in consultation with the Governors of the United States Postal Service, shall appoint the Chief Postal Inspector. The Postmaster General, with the concurrence of the Governors of the United States Postal Service, shall have power to remove the Chief Postal Inspector or transfer the Chief Postal Inspector to another position or location within the United States Postal Service. If the Chief Postal Inspector is removed or transferred in accordance with this subsection, the Postmaster General shall promptly notify both Houses of the Congress in writing of the reasons for such removal or transfer.
 
@@ -283,9 +285,9 @@
 
     1995—Subsec. (a)(2). [Pub. L. 104–88][/us/pl/104/88] struck out “the Interstate Commerce Commission,” after “Federal Trade Commission,”.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–204, § 23(a)(4)][/us/pl/103/204/s23/a/4], which directed the amendment of section 8F(a)(2) by striking “the Federal Deposit Insurance Corporation,”, was executed by striking the quoted language as it appeared after “Federal Communications Commission,” in subsec. (a)(2) of this section, to reflect the probable intent of Congress and the successive renumbering of this section as section 8F of the Inspector General Act of 1978 by [Pub. L. 103–82][/us/pl/103/82] and as section 8G by [Pub. L. 103–204][/us/pl/103/204]. See Codification note set out under section 8F of the Inspector General Act of 1978 in this Appendix.
+    1993—Subsec. (a)(2). [Pub. L. 103–204][/us/pl/103/204], § 23(a)(4), which directed the amendment of section 8F(a)(2) by striking “the Federal Deposit Insurance Corporation,”, was executed by striking the quoted language as it appeared after “Federal Communications Commission,” in subsec. (a)(2) of this section, to reflect the probable intent of Congress and the successive renumbering of this section as section 8F of the Inspector General Act of 1978 by [Pub. L. 103–82][/us/pl/103/82] and as section 8G by [Pub. L. 103–204][/us/pl/103/204]. See Codification note set out under section 8F of the Inspector General Act of 1978 in this Appendix.
 
-    [Pub. L. 103–82, § 202(g)(2)(A)][/us/pl/103/82/s202/g/2/A], struck out “ACTION,” before “Amtrak,”.
+    [Pub. L. 103–82][/us/pl/103/82], § 202(g)(2)(A), struck out “ACTION,” before “Amtrak,”.
 
     1989—Subsec. (a)(2). [Pub. L. 101–73][/us/pl/101/73] substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
 
@@ -297,13 +299,13 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. H, title IV, § 401(c)][/us/pl/114/113/s401/c], Dec. 18, 2015, [129 Stat. 2640][/us/stat/129/2640], provided that: 
+[Pub. L. 114–113, div. H, title IV][/us/pl/114/113/dH/tIV], § 401(c), Dec. 18, 2015, [129 Stat. 2640][/us/stat/129/2640], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note under this section\], and the amendments made by this section, shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–126, title IV, § 403][/us/pl/113/126/s403], July 7, 2014, [128 Stat. 1408][/us/stat/128/1408], provided that:
+[Pub. L. 113–126, title IV][/us/pl/113/126/tIV], § 403, July 7, 2014, [128 Stat. 1408][/us/stat/128/1408], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -333,7 +335,7 @@
 
 >     The individual serving as Inspector General of the National Security Agency on the date of the enactment of this Act \[July 7, 2014\] shall be eligible to be appointed by the President to a new term of service under section 3 of the Inspector General Act of 1978 (5 U.S.C. App.), by and with the advice and consent of the Senate.”
 
-[Pub. L. 113–126, title IV, § 413][/us/pl/113/126/s413], July 7, 2014, [128 Stat. 1410][/us/stat/128/1410], provided that:
+[Pub. L. 113–126, title IV][/us/pl/113/126/tIV], § 413, July 7, 2014, [128 Stat. 1410][/us/stat/128/1410], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -367,11 +369,11 @@
 
     Amendment by sections 989B and 989D of [Pub. L. 111–203][/us/pl/111/203] effective 1 day after July 21, 2010, except as otherwise provided, see [section 4 of Pub. L. 111–203][/us/pl/111/203/s4], set out as an Effective Date note under [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking.
 
-    [Pub. L. 111–203, title X, § 1081][/us/pl/111/203/s1081], July 21, 2010, [124 Stat. 2080][/us/stat/124/2080], provided that the amendment made by section 1081 is effective on July 21, 2010.
+    [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1081, July 21, 2010, [124 Stat. 2080][/us/stat/124/2080], provided that the amendment made by section 1081 is effective on July 21, 2010.
 
  __Effective Date of 2006 Amendment; Savings Provision__ 
 
-[Pub. L. 109–435, title VI, § 603(d)][/us/pl/109/435/s603/d], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241], provided that:
+[Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 603(d), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -383,13 +385,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–252, title VIII, § 812(b)][/us/pl/107/252/s812/b], Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727], provided that: 
+[Pub. L. 107–252, title VIII][/us/pl/107/252/tVIII], § 812(b), Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 \[[52 U.S.C. 20923][/us/usc/t52/s20923]\].”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–422, § 1(d)][/us/pl/106/422/s1/d], Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872], provided that:
+[Pub. L. 106–422][/us/pl/106/422], § 1(d), Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -415,7 +417,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–82, title II, § 202(g)(2)(B)][/us/pl/103/82/s202/g/2/B], Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890], provided that: 
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(2)(B), Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890], provided that: 
 
 > “This paragraph \[amending this section\] shall take effect on the effective date of section 203(c)(2).”
 
@@ -427,13 +429,13 @@
 
  __Inspector General for Committee for Purchase From People Who Are Blind or Severely Disabled__ 
 
-[Pub. L. 114–113, div. H, title IV, § 401(b)][/us/pl/114/113/s401/b], Dec. 18, 2015, [129 Stat. 2640][/us/stat/129/2640], provided that: 
+[Pub. L. 114–113, div. H, title IV][/us/pl/114/113/dH/tIV], § 401(b), Dec. 18, 2015, [129 Stat. 2640][/us/stat/129/2640], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee.”
 
  __Amtrak Inspector General__ 
 
-[Pub. L. 114–94, div. A, title XI, § 11314][/us/pl/114/94/s11314], Dec. 4, 2015, [129 Stat. 1674][/us/stat/129/1674], provided that:
+[Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11314, Dec. 4, 2015, [129 Stat. 1674][/us/stat/129/1674], provided that:
 
 >     “(a) __Authority.—__ 
 
@@ -459,21 +461,21 @@
 
  __Inspector General at the Commission on Civil Rights__ 
 
-[Pub. L. 113–76, div. B, title IV][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 75][/us/stat/128/75], provided in part: 
+[Pub. L. 113–76, div. B, title IV][/us/pl/113/76/dB/tIV], Jan. 17, 2014, [128 Stat. 75][/us/stat/128/75], provided in part: 
 
 > “That the Inspector General for the Commission on Civil Rights (CCR IG), as provided in [Public Law 113–6][/us/pl/113/6] \[set out below\], is authorized to close out all work related to pending or closed investigations, to complete pending investigations, and to terminate all activities related to the duties, responsibilities and authorities of the CCR IG: Provided further, That when the CCR IG concludes that all pending investigations have been completed, all work related to pending or closed investigations has been closed out, and all activities related to the duties, responsibilities and authorities of the CCR IG have ended, the CCR IG shall certify that conclusion to the Committees on Appropriations of the House of Representatives and the Senate, and the Office of the CCR IG shall then be terminated”.
 
-[Pub. L. 113–6, div. B, title IV][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 266][/us/stat/127/266], provided in part: 
+[Pub. L. 113–6, div. B, title IV][/us/pl/113/6/dB/tIV], Mar. 26, 2013, [127 Stat. 266][/us/stat/127/266], provided in part: 
 
 > “That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978 \[[Pub. L. 95–452][/us/pl/95/452], set out in this Appendix\]: Provided further, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: Provided further, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights”.
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 112–55, div. B, title IV][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 628][/us/stat/125/628].
+    [Pub. L. 112–55, div. B, title IV][/us/pl/112/55/dB/tIV], Nov. 18, 2011, [125 Stat. 628][/us/stat/125/628].
 
  __Special Inspector General for Afghanistan Reconstruction__ 
 
-[Pub. L. 110–181, div. A, title XII, § 1229][/us/pl/110/181/s1229], Jan. 28, 2008, [122 Stat. 378][/us/stat/122/378], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(11), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–38, § 1][/us/pl/111/38/s1], June 30, 2009, [123 Stat. 1932][/us/stat/123/1932], provided that:
+[Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1229, Jan. 28, 2008, [122 Stat. 378][/us/stat/122/378], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(11), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–38][/us/pl/111/38], § 1, June 30, 2009, [123 Stat. 1932][/us/stat/123/1932], provided that:
 
 >     “(a)  __Purposes__  __.—__ 
 
@@ -781,7 +783,7 @@
 
  __Deadline Relating to Postal Regulatory Commission__ 
 
-[Pub. L. 109–435, title VI, § 605(c)][/us/pl/109/435/s605/c], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that: 
+[Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 605(c), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that: 
 
 > “No later than 180 days after the date of the enactment of this Act \[Dec. 20, 2006\]—
 
@@ -791,31 +793,31 @@
 
  __Inspector General of Chemical Safety and Hazard Investigation Board__ 
 
-[Pub. L. 114–113, div. G, title III][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2569][/us/stat/129/2569], provided in part: 
+[Pub. L. 114–113, div. G, title III][/us/pl/114/113/dG/tIII], Dec. 18, 2015, [129 Stat. 2569][/us/stat/129/2569], provided in part: 
 
 > “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the \[Chemical Safety and Hazard Investigation\] Board: Provided further, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 113–235, div. F, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2438][/us/stat/128/2438].
+    [Pub. L. 113–235, div. F, title III][/us/pl/113/235/dF/tIII], Dec. 16, 2014, [128 Stat. 2438][/us/stat/128/2438].
 
-    [Pub. L. 113–76, div. G, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 332][/us/stat/128/332].
+    [Pub. L. 113–76, div. G, title III][/us/pl/113/76/dG/tIII], Jan. 17, 2014, [128 Stat. 332][/us/stat/128/332].
 
-    [Pub. L. 112–74, div. E, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1031][/us/stat/125/1031].
+    [Pub. L. 112–74, div. E, title III][/us/pl/112/74/dE/tIII], Dec. 23, 2011, [125 Stat. 1031][/us/stat/125/1031].
 
-    [Pub. L. 111–88, div. A, title III][/us/pl/111/88], Oct. 30, 2009, [123 Stat. 2950][/us/stat/123/2950].
+    [Pub. L. 111–88, div. A, title III][/us/pl/111/88/dA/tIII], Oct. 30, 2009, [123 Stat. 2950][/us/stat/123/2950].
 
-    [Pub. L. 111–8, div. E, title III][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 739][/us/stat/123/739].
+    [Pub. L. 111–8, div. E, title III][/us/pl/111/8/dE/tIII], Mar. 11, 2009, [123 Stat. 739][/us/stat/123/739].
 
-    [Pub. L. 110–161, div. F, title III][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2139][/us/stat/121/2139].
+    [Pub. L. 110–161, div. F, title III][/us/pl/110/161/dF/tIII], Dec. 26, 2007, [121 Stat. 2139][/us/stat/121/2139].
 
-    [Pub. L. 109–54, title III][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 543][/us/stat/119/543].
+    [Pub. L. 109–54, title III][/us/pl/109/54/tIII], Aug. 2, 2005, [119 Stat. 543][/us/stat/119/543].
 
-    [Pub. L. 108–447, div. I, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3322][/us/stat/118/3322].
+    [Pub. L. 108–447, div. I, title III][/us/pl/108/447/dI/tIII], Dec. 8, 2004, [118 Stat. 3322][/us/stat/118/3322].
 
-    [Pub. L. 108–199, div. G, title III][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 399][/us/stat/118/399].
+    [Pub. L. 108–199, div. G, title III][/us/pl/108/199/dG/tIII], Jan. 23, 2004, [118 Stat. 399][/us/stat/118/399].
 
-[Pub. L. 107–73, title III][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 679][/us/stat/115/679], provided in part: 
+[Pub. L. 107–73, title III][/us/pl/107/73/tIII], Nov. 26, 2001, [115 Stat. 679][/us/stat/115/679], provided in part: 
 
 > “That, hereafter, there shall be an Inspector General at the \[Chemical Safety and Hazard Investigation\] Board who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978, as amended \[[Pub. L. 95–452][/us/pl/95/452], set out in this Appendix\]: Provided further, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: Provided further, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
@@ -825,25 +827,25 @@ Similar provisions were contained in the following prior appropriations acts:
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–36.
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–36.
 
-[Pub. L. 108–7, div. K, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 515][/us/stat/117/515], provided in part: 
+[Pub. L. 108–7, div. K, title III][/us/pl/108/7/dK/tIII], Feb. 20, 2003, [117 Stat. 515][/us/stat/117/515], provided in part: 
 
 > “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 107–73, title III][/us/pl/107/73], Nov. 26, 2001, [115 Stat. 688][/us/stat/115/688].
+    [Pub. L. 107–73, title III][/us/pl/107/73/tIII], Nov. 26, 2001, [115 Stat. 688][/us/stat/115/688].
 
-    [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–46.
+    [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–46.
 
  __Special Inspector General for Iraq Reconstruction__ 
 
-[Pub. L. 108–375, div. A, title XII, § 1203(b)][/us/pl/108/375/s1203/b], Oct. 28, 2004, [118 Stat. 2079][/us/stat/118/2079], provided that: 
+[Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1203(b), Oct. 28, 2004, [118 Stat. 2079][/us/stat/118/2079], provided that: 
 
 > “The individual serving as the Inspector General of the Coalition Provisional Authority as of the date of the enactment of this Act \[Oct. 28, 2004\] may continue to serve in that position after that date without reappointment under paragraph (1) of section 3001(c) of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 \[[Pub. L. 108–106][/us/pl/108/106], set out below\], but remaining subject to removal as specified in paragraph (4) of that section.”
 
-[Pub. L. 108–106, title III, § 3001][/us/pl/108/106/s3001], Nov. 6, 2003, [117 Stat. 1234][/us/stat/117/1234], as amended by [Pub. L. 108–375, div. A, title XII, § 1203(a)(1)][/us/pl/108/375/s1203/a/1]–(3)(A), (c)–(j), Oct. 28, 2004, [118 Stat. 2078–2081][/us/stat/118/2078-2081]; [Pub. L. 109–102, title V, § 599][/us/pl/109/102/s599], Nov. 14, 2005, [119 Stat. 2240][/us/stat/119/2240]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364], §§ 1054(b), 1071(g)(13), Oct. 17, 2006, [120 Stat. 2397][/us/stat/120/2397], 2403; [Pub. L. 109–440, § 2][/us/pl/109/440/s2], Dec. 20, 2006, [120 Stat. 3286][/us/stat/120/3286]; [Pub. L. 110–28, title III, § 3801][/us/pl/110/28/s3801], May 25, 2007, [121 Stat. 147][/us/stat/121/147]; [Pub. L. 110–181, div. A, title XII, § 1221][/us/pl/110/181/s1221], Jan. 28, 2008, [122 Stat. 371][/us/stat/122/371], provided that:
+[Pub. L. 108–106, title III][/us/pl/108/106/tIII], § 3001, Nov. 6, 2003, [117 Stat. 1234][/us/stat/117/1234], as amended by [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1203(a)(1)–(3)(A), (c)–(j), Oct. 28, 2004, [118 Stat. 2078–2081][/us/stat/118/2078-2081]; [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 599, Nov. 14, 2005, [119 Stat. 2240][/us/stat/119/2240]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], §§ 1054(b), 1071(g)(13), Oct. 17, 2006, [120 Stat. 2397][/us/stat/120/2397], 2403; [Pub. L. 109–440][/us/pl/109/440], § 2, Dec. 20, 2006, [120 Stat. 3286][/us/stat/120/3286]; [Pub. L. 110–28, title III][/us/pl/110/28/tIII], § 3801, May 25, 2007, [121 Stat. 147][/us/stat/121/147]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1221, Jan. 28, 2008, [122 Stat. 371][/us/stat/122/371], provided that:
 
 >     “(a)  __Purposes__  __.—__ 
 
@@ -1063,7 +1065,7 @@ Similar provisions were contained in the following prior appropriations acts:
 
  __Tennessee Valley Authority; Findings__ 
 
-[Pub. L. 106–422, § 1(a)][/us/pl/106/422/s1/a], Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872], provided that: 
+[Pub. L. 106–422][/us/pl/106/422], § 1(a), Nov. 1, 2000, [114 Stat. 1872][/us/stat/114/1872], provided that: 
 
 > “Congress finds that—
 
@@ -1107,7 +1109,7 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 
  __Report on Implementation__ 
 
-    [Pub. L. 100–504, title I, § 111][/us/pl/100/504/s111], Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529], directed the head of each designated Federal entity (as defined under subsec. (a)(2) of this section) to submit, on Oct. 31, 1989, to Director of Office of Management and Budget and to each House of Congress a report on status of implementation by that entity of the requirements of section 8E of the Inspector General Act of 1978.
+    [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 111, Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529], directed the head of each designated Federal entity (as defined under subsec. (a)(2) of this section) to submit, on Oct. 31, 1989, to Director of Office of Management and Budget and to each House of Congress a report on status of implementation by that entity of the requirements of section 8E of the Inspector General Act of 1978.
 
 ----------
 
@@ -1122,135 +1124,135 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/usc/t12/s1752a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752a
 [/us/usc/t39/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs202%2Fe
 [/us/usc/t39/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs102%2F3
-[/us/pl/95/452/s8G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8G
-[/us/pl/100/504/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs104%2Fa
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2522
-[/us/pl/101/73/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs702%2Fc
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F415
-[/us/pl/103/82/s202/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F1
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F889
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
-[/us/pl/104/88/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs319
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F949
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/105/134/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs409%2Fa%2F1
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
-[/us/pl/105/277/s306/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs306%2Fh
-[/us/pl/106/31/s105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs105%2Fa%2F5
+[/us/pl/105/277/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIII
+[/us/pl/106/31/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtI
 [/us/stat/113/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F63
-[/us/pl/106/422/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422%2Fs1%2Fb%2F1
+[/us/pl/106/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422
 [/us/stat/114/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1872
-[/us/pl/107/252/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs812%2Fa
+[/us/pl/107/252/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2FtVIII
 [/us/stat/116/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1727
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3240
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4302
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1945
-[/us/pl/111/259/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs431%2Fa
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2731
-[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIV
 [/us/stat/128/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1408
-[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/pl/114/113/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIV
 [/us/stat/129/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2639
-[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/pl/114/113/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIV
 [/us/stat/129/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2639
-[/us/pl/105/134/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs409%2Fa
+[/us/pl/105/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2FtIV
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449
 [/us/usc/t29/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs167
-[/us/pl/114/113/s401/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa%2F1%2FA
-[/us/pl/114/113/s401/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa%2F1%2FB
-[/us/pl/114/113/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa%2F2
-[/us/pl/113/126/s412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs412%2F1
-[/us/pl/113/126/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs402%2F1
-[/us/pl/111/259/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs431%2Fa
-[/us/pl/111/203/s1081/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1081%2F1
-[/us/pl/111/203/s989B/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989B%2F1%2FA
-[/us/pl/111/203/s989B/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989B%2F1%2FB
-[/us/pl/111/203/s1081/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1081%2F2
-[/us/pl/111/259/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs431%2Fc
-[/us/pl/111/203/s989D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989D
-[/us/pl/111/203/s1081/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1081%2F3
-[/us/pl/111/203/s989B/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989B%2F2
-[/us/pl/110/409/s7/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fd%2F1
-[/us/pl/110/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs2
-[/us/pl/110/409/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs3%2Fb
-[/us/pl/110/409/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs6%2Fb
-[/us/pl/109/435/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs605%2Fa
-[/us/pl/109/435/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs603%2Fb
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/pl/106/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422
-[/us/pl/105/277/s306/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs306%2Fh
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t39/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs102%2F3
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/103/204/s23/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F4
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
-[/us/pl/103/82/s202/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F2%2FA
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/114/113/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fc
+[/us/pl/114/113/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIV
 [/us/stat/129/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2640
-[/us/pl/113/126/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs403
+[/us/pl/113/126/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIV
 [/us/stat/128/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1408
 [/us/usc/t50/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3602
 [/us/pl/95/452/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs12
-[/us/pl/113/126/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs413
+[/us/pl/113/126/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIV
 [/us/stat/128/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1410
 [/us/usc/t50/s3041a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3041a
 [/us/pl/95/452/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs12
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1081
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2080
-[/us/pl/109/435/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs603%2Fd
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
-[/us/pl/107/252/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs812%2Fb
+[/us/pl/107/252/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2FtVIII
 [/us/stat/116/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1727
 [/us/usc/t52/s20923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20923
-[/us/pl/106/422/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422%2Fs1%2Fd
+[/us/pl/106/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422
 [/us/stat/114/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1872
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/105/134/s409/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs409%2Fa%2F2
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/103/82/s202/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F2%2FB
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F890
 [/us/pl/103/82/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fc%2F2
 [/us/pl/103/82/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fd
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651
 [/us/pl/100/504/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs113
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
-[/us/pl/114/113/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fb
+[/us/pl/114/113/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIV
 [/us/stat/129/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2640
-[/us/pl/114/94/s11314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11314
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1674
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdB%2FtIV
 [/us/stat/128/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F75
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
-[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/6/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdB%2FtIV
 [/us/stat/127/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F266
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/pl/112/55/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdB%2FtIV
 [/us/stat/125/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F628
-[/us/pl/110/181/s1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1229
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F378
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/111/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F38%2Fs1
+[/us/pl/111/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F38
 [/us/stat/123/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1932
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
@@ -1263,57 +1265,57 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/stat/119/3455-3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3455-3456
 [/us/stat/122/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F428
-[/us/pl/109/435/s605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs605%2Fc
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdG%2FtIII
 [/us/stat/129/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2569
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdF%2FtIII
 [/us/stat/128/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2438
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIII
 [/us/stat/128/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F332
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIII
 [/us/stat/125/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1031
-[/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
+[/us/pl/111/88/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIII
 [/us/stat/123/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2950
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtIII
 [/us/stat/123/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F739
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtIII
 [/us/stat/121/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2139
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtIII
 [/us/stat/119/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F543
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdI%2FtIII
 [/us/stat/118/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3322
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtIII
 [/us/stat/118/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F399
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtIII
 [/us/stat/115/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F679
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIII
 [/us/stat/117/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F515
-[/us/pl/107/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73
+[/us/pl/107/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2FtIII
 [/us/stat/115/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F688
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/108/375/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1203%2Fb
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2079
 [/us/pl/108/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106
-[/us/pl/108/106/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs3001
+[/us/pl/108/106/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2FtIII
 [/us/stat/117/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1234
-[/us/pl/108/375/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1203%2Fa%2F1
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2078-2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2078-2081
-[/us/pl/109/102/s599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs599
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2240
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2397
-[/us/pl/109/440/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F440%2Fs2
+[/us/pl/109/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F440
 [/us/stat/120/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3286
-[/us/pl/110/28/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs3801
+[/us/pl/110/28/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtIII
 [/us/stat/121/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F147
-[/us/pl/110/181/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1221
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F371
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
@@ -1328,13 +1330,13 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
 [/us/stat/117/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1226
-[/us/pl/106/422/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422%2Fs1%2Fa
+[/us/pl/106/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F422
 [/us/stat/114/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1872
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
-[/us/pl/100/504/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs111
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2529
 
 

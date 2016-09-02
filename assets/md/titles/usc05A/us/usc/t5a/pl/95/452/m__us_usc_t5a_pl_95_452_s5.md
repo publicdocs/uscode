@@ -207,7 +207,7 @@
 
             (B) in the event that the management of an establishment concludes no action is necessary, final action occurs when a management decision has been made.
 
-([Pub. L. 95–452, § 5][/us/pl/95/452/s5], Oct. 12, 1978, [92 Stat. 1103][/us/stat/92/1103]; [Pub. L. 97–252, title XI, § 1117(c)][/us/pl/97/252/s1117/c], Sept. 8, 1982, [96 Stat. 752][/us/stat/96/752]; [Pub. L. 100–504, title I][/us/pl/100/504], §§ 102(g), 106, Oct. 18, 1988, [102 Stat. 2521][/us/stat/102/2521], 2525; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII, § 805(c)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–393; [Pub. L. 110–409, § 12][/us/pl/110/409/s12], Oct. 14, 2008, [122 Stat. 4315][/us/stat/122/4315]; [Pub. L. 111–203, title IX, § 989C][/us/pl/111/203/s989C], July 21, 2010, [124 Stat. 1945][/us/stat/124/1945].)
+([Pub. L. 95–452][/us/pl/95/452], § 5, Oct. 12, 1978, [92 Stat. 1103][/us/stat/92/1103]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1117(c), Sept. 8, 1982, [96 Stat. 752][/us/stat/96/752]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], §§ 102(g), 106, Oct. 18, 1988, [102 Stat. 2521][/us/stat/102/2521], 2525; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VIII, § 805(c)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–393; [Pub. L. 110–409][/us/pl/110/409], § 12, Oct. 14, 2008, [122 Stat. 4315][/us/stat/122/4315]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 989C, July 21, 2010, [124 Stat. 1945][/us/stat/124/1945].)
 
  __References in Text__ 
 
@@ -217,27 +217,27 @@
 
     2010—Subsec. (a)(14) to (16). [Pub. L. 111–203][/us/pl/111/203] added pars. (14) to (16).
 
-    2008—Subsec. (a)(6). [Pub. L. 110–409, § 12(1)(B)][/us/pl/110/409/s12/1/B], struck out “audit” after “reporting period and for each”.
+    2008—Subsec. (a)(6). [Pub. L. 110–409][/us/pl/110/409], § 12(1)(B), struck out “audit” after “reporting period and for each”.
 
-    [Pub. L. 110–409, § 12(1)(A)][/us/pl/110/409/s12/1/A], which directed insertion of “, inspection reports, and evaluation reports” after “audit reports” the first place appearing, was executed by making the insertion after “audit report” the first place appearing, to reflect the probable intent of Congress.
+    [Pub. L. 110–409][/us/pl/110/409], § 12(1)(A), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports” the first place appearing, was executed by making the insertion after “audit report” the first place appearing, to reflect the probable intent of Congress.
 
-    Subsec. (a)(8), (9). [Pub. L. 110–409, § 12(1)][/us/pl/110/409/s12/1], in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”.
+    Subsec. (a)(8), (9). [Pub. L. 110–409][/us/pl/110/409], § 12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”.
 
-    Subsec. (a)(10). [Pub. L. 110–409, § 12(2)][/us/pl/110/409/s12/2], which directed insertion of “, inspection reports, and evaluation reports” after “audit reports”, was executed by making the insertion after “audit report” to reflect the probable intent of Congress.
+    Subsec. (a)(10). [Pub. L. 110–409][/us/pl/110/409], § 12(2), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports”, was executed by making the insertion after “audit report” to reflect the probable intent of Congress.
 
-    Subsec. (b)(2), (3). [Pub. L. 110–409, § 12(1)][/us/pl/110/409/s12/1], in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”.
+    Subsec. (b)(2), (3). [Pub. L. 110–409][/us/pl/110/409], § 12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”.
 
     1996—Subsec. (a)(13). [Pub. L. 104–208][/us/pl/104/208] added par. (13).
 
-    1988—Subsec. (a)(6) to (12). [Pub. L. 100–504, § 106(a)][/us/pl/100/504/s106/a], added pars. (6) to (12), and struck out former par. (6) which read as follows: “a listing of each audit report completed by the Office during the reporting period.”
+    1988—Subsec. (a)(6) to (12). [Pub. L. 100–504][/us/pl/100/504], § 106(a), added pars. (6) to (12), and struck out former par. (6) which read as follows: “a listing of each audit report completed by the Office during the reporting period.”
 
-    Subsec. (b). [Pub. L. 100–504, § 106(b)][/us/pl/100/504/s106/b], substituted “head of the establishment containing—” and pars. (1) to (4) for “head of the establishment containing any comments such head deems appropriate.”
+    Subsec. (b). [Pub. L. 100–504][/us/pl/100/504], § 106(b), substituted “head of the establishment containing—” and pars. (1) to (4) for “head of the establishment containing any comments such head deems appropriate.”
 
-    Subsec. (c). [Pub. L. 100–504, § 106(c)][/us/pl/100/504/s106/c], inserted at end “Within 60 days after the transmission of the semiannual reports of each establishment head to the Congress, the head of each establishment shall make copies of such report available to the public upon request and at a reasonable cost.”
+    Subsec. (c). [Pub. L. 100–504][/us/pl/100/504], § 106(c), inserted at end “Within 60 days after the transmission of the semiannual reports of each establishment head to the Congress, the head of each establishment shall make copies of such report available to the public upon request and at a reasonable cost.”
 
-    Subsec. (e)(3). [Pub. L. 100–504, § 102(g)][/us/pl/100/504/s102/g], substituted “Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986, nothing” for “Nothing”.
+    Subsec. (e)(3). [Pub. L. 100–504][/us/pl/100/504], § 102(g), substituted “Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986, nothing” for “Nothing”.
 
-    Subsec. (f). [Pub. L. 100–504, § 106(d)][/us/pl/100/504/s106/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–504][/us/pl/100/504], § 106(d), added subsec. (f).
 
     1982—Subsec. (e). [Pub. L. 97–252][/us/pl/97/252] added subsec. (e).
 
@@ -251,13 +251,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–504, title I, § 113][/us/pl/100/504/s113], Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530], provided that: 
+[Pub. L. 100–504, title I][/us/pl/100/504/tI], § 113, Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530], provided that: 
 
 > “This title and the amendments made by this title \[enacting sections 8B–8F of [Pub. L. 95–452][/us/pl/95/452], set out in this Appendix, amending sections 2, 4–6, 8, 9, and 11 of [Pub. L. 95–452][/us/pl/95/452], set out in this Appendix, sections 5315 and 5316 of this title, sections 405 and 1105 of Title 31, Money and Finance, and [section 410 of Title 39][/us/usc/t39/s410], Postal Service, repealing sections 3521–3527 and 7138 of Title 42, The Public Health and Welfare, and [section 231v of Title 45][/us/usc/t45/s231v], Railroads, and enacting provisions set out as notes under sections 1, 8D, 8E, and 9 of [Pub. L. 95–452][/us/pl/95/452], set out in this Appendix\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\], except that section 5(a)(6) through (12) of the Inspector General Act of 1978 (as amended by [section 106(a) of this title][/us/usc/t5/s106/a]) and section 5(b)(1) through (4) of the Inspector General Act of 1978 (as amended by [section 106(b) of this title][/us/usc/t5/s106/b]) shall take effect 1 year after the date of the enactment of this title.”
 
  __Corrective Responses by Heads of Certain Establishments to Deficiencies Identified by Inspectors General__ 
 
-[Pub. L. 111–203, title IX, § 989H][/us/pl/111/203/s989H], July 21, 2010, [124 Stat. 1948][/us/stat/124/1948], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 989H, July 21, 2010, [124 Stat. 1948][/us/stat/124/1948], provided that: 
 
 > “The Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Commodity Futures Trading Commission, the Chairman of the National Credit Union Administration, the Director of the Pension Benefit Guaranty Corporation, and the Chairman of the Securities and Exchange Commission shall each—
 
@@ -267,7 +267,7 @@
 
  __Disclosure of Government Contractor Audit Findings__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 845][/us/pl/110/181/s845], Jan. 28, 2008, [122 Stat. 240][/us/stat/122/240], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 845, Jan. 28, 2008, [122 Stat. 240][/us/stat/122/240], provided that:
 
 >     “(a) __Required Annex on Significant Audit Findings.—__ 
 
@@ -341,7 +341,7 @@
 
  __Prompt Management Decisions and Implementation of Audit Recommendations__ 
 
-[Pub. L. 103–355, title VI, § 6009][/us/pl/103/355/s6009], Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367], as amended by [Pub. L. 104–106, div. A, title VIII, § 810][/us/pl/104/106/s810], Feb. 10, 1996, [110 Stat. 394][/us/stat/110/394], provided that:
+[Pub. L. 103–355, title VI][/us/pl/103/355/tVI], § 6009, Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367], as amended by [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 810, Feb. 10, 1996, [110 Stat. 394][/us/stat/110/394], provided that:
 
 >     “(a)  __Management Decisions__  __.—__ 
 
@@ -361,33 +361,33 @@
 ----------
 
 [/us/usc/t26/s6103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Ff
-[/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1103
-[/us/pl/97/252/s1117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1117%2Fc
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F752
-[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2521
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/110/409/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs12
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4315
-[/us/pl/111/203/s989C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989C
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1945
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/110/409/s12/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs12%2F1%2FB
-[/us/pl/110/409/s12/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs12%2F1%2FA
-[/us/pl/110/409/s12/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs12%2F1
-[/us/pl/110/409/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs12%2F2
-[/us/pl/110/409/s12/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs12%2F1
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/100/504/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs106%2Fa
-[/us/pl/100/504/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs106%2Fb
-[/us/pl/100/504/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs106%2Fc
-[/us/pl/100/504/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fg
-[/us/pl/100/504/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs106%2Fd
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
@@ -395,7 +395,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
-[/us/pl/100/504/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs113
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2530
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
@@ -404,17 +404,17 @@
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t5/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs106%2Fa
 [/us/usc/t5/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs106%2Fb
-[/us/pl/111/203/s989H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989H
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1948
-[/us/pl/110/181/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs845
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F240
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/103/355/s6009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs6009
+[/us/pl/103/355/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVI
 [/us/stat/108/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3367
-[/us/pl/104/106/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs810
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F394
 
 

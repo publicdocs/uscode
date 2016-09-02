@@ -27,7 +27,7 @@
 
         (3) carry out, on behalf of that agency, the provisions of [section 552 of title 5][/us/usc/t5/s552], United States Code, with respect to such reports, rec­ords, and other papers.
 
-([Pub. L. 92–463, § 8][/us/pl/92/463/s8], Oct. 6, 1972, [86 Stat. 773][/us/stat/86/773]; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, [91 Stat. 1634][/us/stat/91/1634].)
+([Pub. L. 92–463][/us/pl/92/463], § 8, Oct. 6, 1972, [86 Stat. 773][/us/stat/86/773]; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, [91 Stat. 1634][/us/stat/91/1634].)
 
  __Transfer of Functions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/92/463/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs8
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F773
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634

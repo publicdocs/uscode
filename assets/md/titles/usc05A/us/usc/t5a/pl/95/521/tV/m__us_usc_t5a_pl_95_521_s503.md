@@ -29,7 +29,7 @@
 
     (3) and administered by the Judicial Conference of the United States (or such other agency as it may designate) with respect to officers and employees of the judicial branch.
 
-([Pub. L. 95–521, title V, § 503][/us/pl/95/521/s503], as added [Pub. L. 101–194, title VI, § 601(a)][/us/pl/101/194/s601/a], Nov. 30, 1989, [103 Stat. 1761][/us/stat/103/1761]; amended [Pub. L. 101–280, § 7(c)][/us/pl/101/280/s7/c], May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 102–90, title I, § 6(b)(1)][/us/pl/102/90/s6/b/1], Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450].)
+([Pub. L. 95–521, title V][/us/pl/95/521/tV], § 503, as added [Pub. L. 101–194, title VI][/us/pl/101/194/tVI], § 601(a), Nov. 30, 1989, [103 Stat. 1761][/us/stat/103/1761]; amended [Pub. L. 101–280][/us/pl/101/280], § 7(c), May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 102–90, title I][/us/pl/102/90/tI], § 6(b)(1), Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450].)
 
  __Prior Provisions__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–90, title I, § 6(f)(1)][/us/pl/102/90/s6/f/1], Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451], provided that: 
+[Pub. L. 102–90, title I][/us/pl/102/90/tI], § 6(f)(1), Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451], provided that: 
 
 > “Except for the provisions of subsection (e)(1) \[[105 Stat. 451][/us/stat/105/451]\], the provisions of this section \[amending this section and [section 505 of Pub. L. 95–521][/us/pl/95/521/s505], set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under [section 5318 of this title][/us/usc/t5/s5318], and repealing provisions set out as notes under sections 358 and 4501 of Title 2\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\].”
 
@@ -62,19 +62,19 @@
 ----------
 ----------
 
-[/us/pl/95/521/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs503
-[/us/pl/101/194/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs601%2Fa
+[/us/pl/95/521/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtV
+[/us/pl/101/194/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVI
 [/us/stat/103/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1761
-[/us/pl/101/280/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fc
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F161
-[/us/pl/102/90/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Fb%2F1
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F450
 [/us/pl/95/521/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs503
 [/us/stat/92/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1867
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
 [/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
-[/us/pl/102/90/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Ff%2F1
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/pl/95/521/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs505

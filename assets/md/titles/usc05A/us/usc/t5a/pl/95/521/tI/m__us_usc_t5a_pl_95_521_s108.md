@@ -19,7 +19,7 @@
 
     (b) No later than December 31, 1992, and regularly thereafter, the Comptroller General shall conduct a study to determine whether the provisions of this title are being carried out effectively.
 
-([Pub. L. 95–521, title I, § 108][/us/pl/95/521/s108], Oct. 26, 1978, [92 Stat. 1835][/us/stat/92/1835]; [Pub. L. 96–19, § 9(t)][/us/pl/96/19/s9/t], June 13, 1979, [93 Stat. 44][/us/stat/93/44]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1741][/us/stat/103/1741].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 108, Oct. 26, 1978, [92 Stat. 1835][/us/stat/92/1835]; [Pub. L. 96–19][/us/pl/96/19], § 9(t), June 13, 1979, [93 Stat. 44][/us/stat/93/44]; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1741][/us/stat/103/1741].)
 
  __Codification__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/95/521/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs108
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1835
-[/us/pl/96/19/s9/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Ft
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/stat/93/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F44
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1741
 [/us/usc/t2/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs708
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194

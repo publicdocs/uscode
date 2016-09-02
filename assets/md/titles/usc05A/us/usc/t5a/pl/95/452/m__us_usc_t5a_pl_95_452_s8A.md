@@ -27,7 +27,7 @@
 
     (f) As used in this Act, the term “Agency for International Development” includes any successor agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\].1
 
-([Pub. L. 95–452, § 8A][/us/pl/95/452/s8A], as added [Pub. L. 97–113, title VII, § 705(a)(3)][/us/pl/97/113/s705/a/3], Dec. 29, 1981, [95 Stat. 1544][/us/stat/95/1544]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(b)(2), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 205\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422.)
+([Pub. L. 95–452][/us/pl/95/452], § 8A, as added [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 705(a)(3), Dec. 29, 1981, [95 Stat. 1544][/us/stat/95/1544]; amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1422(b)(2), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 205\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422.)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title II, § 205(a)\], which directed the amendment of subsec. (a) by striking “and” at the end of par. (1), striking the period at the end of par. (2) and inserting “; and”, and adding a new par. (3) to read: “shall supervise, direct, and control audit and investigative activities relating to programs and operations within the Inter-American Foundation and the African Development Foundation.”, could not be executed because of the prior amendment by [Pub. L. 105–277, § 1422(b)(2)(A)][/us/pl/105/277/s1422/b/2/A]. See 1998 Amendment note below.
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title II, § 205(a)\], which directed the amendment of subsec. (a) by striking “and” at the end of par. (1), striking the period at the end of par. (2) and inserting “; and”, and adding a new par. (3) to read: “shall supervise, direct, and control audit and investigative activities relating to programs and operations within the Inter-American Foundation and the African Development Foundation.”, could not be executed because of the prior amendment by [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(2)(A). See 1998 Amendment note below.
 
-    Subsec. (f). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title II, § 205(b)\], which directed insertion of “, an employee of the Inter-American Foundation, and an employee of the African Development Foundation” before period at end, was not executed because of the prior amendment by [Pub. L. 105–277, § 1422(b)(2)(B)][/us/pl/105/277/s1422/b/2/B], (C), which struck out the subsec. (f) to which the amendment was to be made. See 1998 Amendment note below.
+    Subsec. (f). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title II, § 205(b)\], which directed insertion of “, an employee of the Inter-American Foundation, and an employee of the African Development Foundation” before period at end, was not executed because of the prior amendment by [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(2)(B), (C), which struck out the subsec. (f) to which the amendment was to be made. See 1998 Amendment note below.
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1422(b)(2)(A)][/us/pl/105/277/s1422/b/2/A], struck out dash after “Agency for International Development”, struck out par. (1) designation before “shall supervise”, substituted period for “; and” after “Administrator of that Agency”, and struck out par. (2) which read as follows: “to the extent requested by the Director of the United States International Development Cooperation Agency (after consultation with the Administrator of the Agency for International Development), shall supervise, direct, and control all audit, investigative, and security activities relating to programs and operations within the United States International Development Cooperation Agency.”
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(2)(A), struck out dash after “Agency for International Development”, struck out par. (1) designation before “shall supervise”, substituted period for “; and” after “Administrator of that Agency”, and struck out par. (2) which read as follows: “to the extent requested by the Director of the United States International Development Cooperation Agency (after consultation with the Administrator of the Agency for International Development), shall supervise, direct, and control all audit, investigative, and security activities relating to programs and operations within the United States International Development Cooperation Agency.”
 
-    Subsecs. (c) to (h). [Pub. L. 105–277, § 1422(b)(2)(B)][/us/pl/105/277/s1422/b/2/B], (C), redesignated subsecs. (d), (e), (g), and (h) as (c), (d), (e), and (f), respectively, and struck out former subsecs. (c) and (f) which read as follows:
+    Subsecs. (c) to (h). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(2)(B), (C), redesignated subsecs. (d), (e), (g), and (h) as (c), (d), (e), and (f), respectively, and struck out former subsecs. (c) and (f) which read as follows:
 
     “(c) The semiannual reports required to be submitted to the Administrator of the Agency for International Development pursuant to section 5(b) of this Act shall also be submitted to the Director of the United States International Development Cooperation Agency.
 
@@ -60,22 +60,22 @@
 
 [/us/usc/t22/s2384/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2384%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/452/s8A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8A
-[/us/pl/97/113/s705/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs705%2Fa%2F3
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1544
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-792
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/277/s1422/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F2%2FA
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/277/s1422/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F2%2FB
-[/us/pl/105/277/s1422/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F2%2FA
-[/us/pl/105/277/s1422/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F2%2FB
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1401
 [/us/usc/t22/s6561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6561

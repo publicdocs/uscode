@@ -21,7 +21,7 @@
 
     (c) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to an Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-([Pub. L. 95–452, § 7][/us/pl/95/452/s7], Oct. 12, 1978, [92 Stat. 1105][/us/stat/92/1105].)
+([Pub. L. 95–452][/us/pl/95/452], § 7, Oct. 12, 1978, [92 Stat. 1105][/us/stat/92/1105].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/452/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs7
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1105
 
 

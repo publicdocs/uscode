@@ -361,7 +361,7 @@
 
         This subsection is not intended to create any right or benefit, substantive or procedural, enforceable at law by a person against the United States, its agencies, its officers, or any person.
 
-([Pub. L. 95–452, § 11][/us/pl/95/452/s11], as added [Pub. L. 110–409, § 7(a)][/us/pl/110/409/s7/a], Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537]; [Pub. L. 114–113, div. M, title III, § 304][/us/pl/114/113/s304], Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
+([Pub. L. 95–452][/us/pl/95/452], § 11, as added [Pub. L. 110–409][/us/pl/110/409], § 7(a), Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305]; amended [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537]; [Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 304, Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
 
  __References in Text__ 
 
@@ -381,7 +381,7 @@
 
  __Effective Date; Existing Executive Orders__ 
 
-[Pub. L. 110–409, § 7(c)][/us/pl/110/409/s7/c], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313], provided that:
+[Pub. L. 110–409][/us/pl/110/409], § 7(c), Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313], provided that:
 
 >     “(1)  __Council__  __.—__ 
 
@@ -397,7 +397,7 @@
 
  __Additional Oversight of Financial Regulatory System__ 
 
-[Pub. L. 111–203, title IX, § 989E][/us/pl/111/203/s989E], July 21, 2010, [124 Stat. 1946][/us/stat/124/1946], provided that:
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 989E, July 21, 2010, [124 Stat. 1946][/us/stat/124/1946], provided that:
 
 >     “(a) __Council of Inspectors General on Financial Oversight.—__ 
 
@@ -457,7 +457,7 @@
 
  __Special Inspectors General for Iraq and Afghanistan Reconstruction__ 
 
-[Pub. L. 111–15, § 7][/us/pl/111/15/s7], Apr. 24, 2009, [123 Stat. 1605][/us/stat/123/1605], provided that: 
+[Pub. L. 111–15][/us/pl/111/15], § 7, Apr. 24, 2009, [123 Stat. 1605][/us/stat/123/1605], provided that: 
 
 > “The Special Inspector General for Iraq Reconstruction and the Special Inspector General for Afghanistan Reconstruction shall be a \[sic\] members of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General for Iraq Reconstruction and the Office of the Special Inspector General for Afghanistan Reconstruction, respectively.”
 
@@ -469,18 +469,18 @@
 ----------
 
 [/us/usc/t31/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1532
-[/us/pl/95/452/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs11
-[/us/pl/110/409/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fa
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4305
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/114/113/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2913
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
-[/us/pl/110/409/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fc
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
@@ -488,10 +488,10 @@
 [/us/usc/t5/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1211
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/pl/95/452/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs3
-[/us/pl/111/203/s989E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989E
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1946
 [/us/usc/t12/s5231/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5231%2Fk
-[/us/pl/111/15/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15%2Fs7
+[/us/pl/111/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F15
 [/us/stat/123/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1605
 
 

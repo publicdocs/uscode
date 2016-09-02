@@ -59,17 +59,17 @@
 
             The Inspector General of each agency shall not disclose the identity of any individual making a report under this paragraph without the consent of the individual unless the Inspector General determines that such a disclosure is unavoidable during the course of the investigation.
 
-([Pub. L. 95–452, § 8M][/us/pl/95/452/s8M], formerly § 8L, as added [Pub. L. 110–409, § 13(a)][/us/pl/110/409/s13/a], Oct. 14, 2008, [122 Stat. 4315][/us/stat/122/4315]; renumbered § 8M, [Pub. L. 112–239, div. A, title VIII, § 848(1)][/us/pl/112/239/s848/1], Jan. 2, 2013, [126 Stat. 1851][/us/stat/126/1851].)
+([Pub. L. 95–452][/us/pl/95/452], § 8M, formerly § 8L, as added [Pub. L. 110–409][/us/pl/110/409], § 13(a), Oct. 14, 2008, [122 Stat. 4315][/us/stat/122/4315]; renumbered § 8M, [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 848(1), Jan. 2, 2013, [126 Stat. 1851][/us/stat/126/1851].)
 
  __Implementation__ 
 
-[Pub. L. 110–409, § 13(c)][/us/pl/110/409/s13/c], Oct. 14, 2008, [122 Stat. 4316][/us/stat/122/4316], provided that: 
+[Pub. L. 110–409][/us/pl/110/409], § 13(c), Oct. 14, 2008, [122 Stat. 4316][/us/stat/122/4316], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Oct. 14, 2008\], the head of each agency and the Inspector General of each agency shall implement the amendment made by this section \[enacting this section and amending provisions set out as a note under [section 6 of Pub. L. 95–452][/us/pl/95/452/s6], set out in this Appendix\].”
 
  __Links to Websites of Offices of Inspectors General__ 
 
-[Pub. L. 111–8, div. D, title VII, § 744][/us/pl/111/8/s744], Mar. 11, 2009, [123 Stat. 693][/us/stat/123/693], provided that:
+[Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 744, Mar. 11, 2009, [123 Stat. 693][/us/stat/123/693], provided that:
 
 >     “(a) Each executive department and agency shall establish and maintain on the homepage of its website, an obvious, direct link to the website of its respective Inspector General.
 
@@ -77,31 +77,31 @@
 
 Similar provisions requiring certain departments, agencies, and commissions to establish and maintain on the homepages of their websites links to the offices of their inspectors general and/or mechanisms for anonymous reporting of waste, fraud, and abuse were contained in the following appropriation acts:
 
-    [Pub. L. 113–6, div. B, title V, § 524][/us/pl/113/6/s524], Mar. 26, 2013, [127 Stat. 275][/us/stat/127/275].
+    [Pub. L. 113–6, div. B, title V][/us/pl/113/6/dB/tV], § 524, Mar. 26, 2013, [127 Stat. 275][/us/stat/127/275].
 
-    [Pub. L. 112–55, div. B, title V, § 526][/us/pl/112/55/s526], Nov. 18, 2011, [125 Stat. 636][/us/stat/125/636].
+    [Pub. L. 112–55, div. B, title V][/us/pl/112/55/dB/tV], § 526, Nov. 18, 2011, [125 Stat. 636][/us/stat/125/636].
 
-    [Pub. L. 111–117, div. B, title V, § 526][/us/pl/111/117/s526], Dec. 16, 2009, [123 Stat. 3154][/us/stat/123/3154].
+    [Pub. L. 111–117, div. B, title V][/us/pl/111/117/dB/tV], § 526, Dec. 16, 2009, [123 Stat. 3154][/us/stat/123/3154].
 
-    [Pub. L. 111–8, div. B, title V, § 526][/us/pl/111/8/s526], Mar. 11, 2009, [123 Stat. 599][/us/stat/123/599].
+    [Pub. L. 111–8, div. B, title V][/us/pl/111/8/dB/tV], § 526, Mar. 11, 2009, [123 Stat. 599][/us/stat/123/599].
 
-    [Pub. L. 110–161, div. B, title V, § 534][/us/pl/110/161/s534], Dec. 26, 2007, [121 Stat. 1932][/us/stat/121/1932].
+    [Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 534, Dec. 26, 2007, [121 Stat. 1932][/us/stat/121/1932].
 
-    [Pub. L. 110–161, div. D, title VII, § 746][/us/pl/110/161/s746], Dec. 26, 2007, [121 Stat. 2034][/us/stat/121/2034], as amended by [Pub. L. 110–409, § 13(b)][/us/pl/110/409/s13/b], Oct. 14, 2008, [122 Stat. 4316][/us/stat/122/4316].
+    [Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 746, Dec. 26, 2007, [121 Stat. 2034][/us/stat/121/2034], as amended by [Pub. L. 110–409][/us/pl/110/409], § 13(b), Oct. 14, 2008, [122 Stat. 4316][/us/stat/122/4316].
 
-    [Pub. L. 110–161, div. E, title V, § 555][/us/pl/110/161/s555], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].
+    [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 555, Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].
 
-    [Pub. L. 110–161, div. G, title V, § 522][/us/pl/110/161/s522], Dec. 26, 2007, [121 Stat. 2211][/us/stat/121/2211].
+    [Pub. L. 110–161, div. G, title V][/us/pl/110/161/dG/tV], § 522, Dec. 26, 2007, [121 Stat. 2211][/us/stat/121/2211].
 
-    [Pub. L. 110–161, div. I, title II, § 226][/us/pl/110/161/s226], Dec. 26, 2007, [121 Stat. 2272][/us/stat/121/2272].
+    [Pub. L. 110–161, div. I, title II][/us/pl/110/161/dI/tII], § 226, Dec. 26, 2007, [121 Stat. 2272][/us/stat/121/2272].
 
-    [Pub. L. 110–161, div. J, title I, § 115][/us/pl/110/161/s115], Dec. 26, 2007, [121 Stat. 2288][/us/stat/121/2288].
+    [Pub. L. 110–161, div. J, title I][/us/pl/110/161/dJ/tI], § 115, Dec. 26, 2007, [121 Stat. 2288][/us/stat/121/2288].
 
-    [Pub. L. 110–161, div. K, title I, § 195][/us/pl/110/161/s195], Dec. 26, 2007, [121 Stat. 2408][/us/stat/121/2408].
+    [Pub. L. 110–161, div. K, title I][/us/pl/110/161/dK/tI], § 195, Dec. 26, 2007, [121 Stat. 2408][/us/stat/121/2408].
 
-    [Pub. L. 110–161, div. K, title II, § 234][/us/pl/110/161/s234], Dec. 26, 2007, [121 Stat. 2439][/us/stat/121/2439].
+    [Pub. L. 110–161, div. K, title II][/us/pl/110/161/dK/tII], § 234, Dec. 26, 2007, [121 Stat. 2439][/us/stat/121/2439].
 
-    [Pub. L. 110–116, div. A, title VIII, § 8121][/us/pl/110/116/s8121], Nov. 13, 2007, [121 Stat. 1341][/us/stat/121/1341].
+    [Pub. L. 110–116, div. A, title VIII][/us/pl/110/116/dA/tVIII], § 8121, Nov. 13, 2007, [121 Stat. 1341][/us/stat/121/1341].
 
 ----------
 
@@ -110,43 +110,43 @@ Similar provisions requiring certain departments, agencies, and commissions to e
 ----------
 ----------
 
-[/us/pl/95/452/s8M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8M
-[/us/pl/110/409/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs13%2Fa
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4315
-[/us/pl/112/239/s848/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs848%2F1
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1851
-[/us/pl/110/409/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs13%2Fc
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4316
 [/us/pl/95/452/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs6
-[/us/pl/111/8/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs744
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F693
-[/us/pl/113/6/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs524
+[/us/pl/113/6/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdB%2FtV
 [/us/stat/127/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F275
-[/us/pl/112/55/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs526
+[/us/pl/112/55/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdB%2FtV
 [/us/stat/125/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F636
-[/us/pl/111/117/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs526
+[/us/pl/111/117/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdB%2FtV
 [/us/stat/123/3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3154
-[/us/pl/111/8/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs526
+[/us/pl/111/8/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdB%2FtV
 [/us/stat/123/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F599
-[/us/pl/110/161/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs534
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
 [/us/stat/121/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1932
-[/us/pl/110/161/s746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs746
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2034
-[/us/pl/110/409/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs13%2Fb
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4316
-[/us/pl/110/161/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs555
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2082
-[/us/pl/110/161/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs522
+[/us/pl/110/161/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdG%2FtV
 [/us/stat/121/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2211
-[/us/pl/110/161/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs226
+[/us/pl/110/161/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdI%2FtII
 [/us/stat/121/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2272
-[/us/pl/110/161/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs115
+[/us/pl/110/161/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtI
 [/us/stat/121/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2288
-[/us/pl/110/161/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs195
+[/us/pl/110/161/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtI
 [/us/stat/121/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2408
-[/us/pl/110/161/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs234
+[/us/pl/110/161/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtII
 [/us/stat/121/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2439
-[/us/pl/110/116/s8121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2Fs8121
+[/us/pl/110/116/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2FdA%2FtVIII
 [/us/stat/121/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1341
 
 

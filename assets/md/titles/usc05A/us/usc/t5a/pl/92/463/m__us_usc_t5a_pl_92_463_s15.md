@@ -51,7 +51,7 @@
 
     The Administrator of General Services may issue regulations implementing this section.
 
-([Pub. L. 92–463, § 15][/us/pl/92/463/s15], as added [Pub. L. 105–153, § 2(b)][/us/pl/105/153/s2/b], Dec. 17, 1997, [111 Stat. 2689][/us/stat/111/2689].)
+([Pub. L. 92–463][/us/pl/92/463], § 15, as added [Pub. L. 105–153][/us/pl/105/153], § 2(b), Dec. 17, 1997, [111 Stat. 2689][/us/stat/111/2689].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Report__ 
 
-[Pub. L. 105–153, § 3][/us/pl/105/153/s3], Dec. 17, 1997, [111 Stat. 2691][/us/stat/111/2691], provided that: 
+[Pub. L. 105–153][/us/pl/105/153], § 3, Dec. 17, 1997, [111 Stat. 2691][/us/stat/111/2691], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1997\], the Administrator of General Services shall submit a report to the Congress on the implementation of and compliance with the amendments made by this Act \[enacting this section, amending [section 3 of Pub. L. 92–463][/us/pl/92/463/s3], set out in this Appendix, and redesignating former [section 15 of Pub. L. 92–463][/us/pl/92/463/s15], set out in this Appendix, as section 16\].”
 
@@ -77,12 +77,12 @@
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/92/463/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs15
-[/us/pl/105/153/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153%2Fs2%2Fb
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
+[/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
 [/us/stat/111/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2689
 [/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
 [/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
-[/us/pl/105/153/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153%2Fs3
+[/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
 [/us/stat/111/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2691
 [/us/pl/92/463/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs3
 [/us/pl/92/463/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs15

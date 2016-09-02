@@ -23,7 +23,7 @@
 
     Notwithstanding paragraphs (7) and (8) of section 6(a), the Inspector General of the Federal Deposit Insurance Corporation may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and to obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Federal Deposit Insurance Corporation.
 
-([Pub. L. 95–452, § 8C][/us/pl/95/452/s8C], as added [Pub. L. 103–204, § 23(a)(2)][/us/pl/103/204/s23/a/2], Dec. 17, 1993, [107 Stat. 2407][/us/stat/107/2407].)
+([Pub. L. 95–452][/us/pl/95/452], § 8C, as added [Pub. L. 103–204][/us/pl/103/204], § 23(a)(2), Dec. 17, 1993, [107 Stat. 2407][/us/stat/107/2407].)
 
  __Prior Provisions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/452/s8C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8C
-[/us/pl/103/204/s23/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F2
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2407
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 

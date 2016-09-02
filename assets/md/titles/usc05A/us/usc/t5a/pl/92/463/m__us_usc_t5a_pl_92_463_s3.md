@@ -35,7 +35,7 @@
 
     (4) The term “Presidential advisory committee” means an advisory committee which advises the President.
 
-([Pub. L. 92–463, § 3][/us/pl/92/463/s3], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770]; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, [91 Stat. 1634][/us/stat/91/1634]; [Pub. L. 105–153, § 2(a)][/us/pl/105/153/s2/a], Dec. 17, 1997, [111 Stat. 2689][/us/stat/111/2689].)
+([Pub. L. 92–463][/us/pl/92/463], § 3, Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770]; 1977 Reorg. Plan No. 1, § 5F, eff. Nov. 20, 1977, 42 F.R. 56101, [91 Stat. 1634][/us/stat/91/1634]; [Pub. L. 105–153][/us/pl/105/153], § 2(a), Dec. 17, 1997, [111 Stat. 2689][/us/stat/111/2689].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–153, § 2(c)][/us/pl/105/153/s2/c], Dec. 17, 1997, [111 Stat. 2691][/us/stat/111/2691], provided that:
+[Pub. L. 105–153][/us/pl/105/153], § 2(c), Dec. 17, 1997, [111 Stat. 2691][/us/stat/111/2691], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -65,13 +65,13 @@
 ----------
 
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/92/463/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs3
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/stat/91/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1634
-[/us/pl/105/153/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153%2Fs2%2Fa
+[/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
 [/us/stat/111/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2689
 [/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
-[/us/pl/105/153/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153%2Fs2%2Fc
+[/us/pl/105/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F153
 [/us/stat/111/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2691
 [/us/pl/92/463/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs15
 [/us/pl/92/463/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs15

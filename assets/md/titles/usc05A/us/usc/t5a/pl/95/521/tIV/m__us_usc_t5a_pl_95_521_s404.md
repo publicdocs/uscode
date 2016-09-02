@@ -17,7 +17,7 @@
 
     In promulgating rules and regulations pertaining to financial disclosure, conflict of interest, and ethics in the executive branch, the Director shall issue rules and regulations in accordance with chapter 5 of title 5, United States Code. Any person may seek judicial review of any such rule or regulation.
 
-([Pub. L. 95–521, title IV, § 404][/us/pl/95/521/s404], Oct. 26, 1978, [92 Stat. 1863][/us/stat/92/1863]; [Pub. L. 98–150, § 3(c)][/us/pl/98/150/s3/c], Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960].)
+([Pub. L. 95–521, title IV][/us/pl/95/521/tIV], § 404, Oct. 26, 1978, [92 Stat. 1863][/us/stat/92/1863]; [Pub. L. 98–150][/us/pl/98/150], § 3(c), Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/521/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs404
+[/us/pl/95/521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtIV
 [/us/stat/92/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1863
-[/us/pl/98/150/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fc
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F960
 [/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150

@@ -53,7 +53,7 @@
 
     (d) The Attorney General shall ensure by regulation that any component of the Department of Justice receiving a nonfrivolous allegation of criminal wrongdoing or administrative misconduct by an employee of the Department of Justice, except with respect to allegations described in subsection (b)(3), shall report that information to the Inspector General.
 
-([Pub. L. 95–452, § 8E][/us/pl/95/452/s8E], formerly § 8D, as added [Pub. L. 100–504, title I, § 102(f)][/us/pl/100/504/s102/f], Oct. 18, 1988, [102 Stat. 2520][/us/stat/102/2520]; renumbered § 8E, [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; [Pub. L. 107–273, div. A, title III, § 308][/us/pl/107/273/s308], Nov. 2, 2002, [116 Stat. 1784][/us/stat/116/1784].)
+([Pub. L. 95–452][/us/pl/95/452], § 8E, formerly § 8D, as added [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(f), Oct. 18, 1988, [102 Stat. 2520][/us/stat/102/2520]; renumbered § 8E, [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 308, Nov. 2, 2002, [116 Stat. 1784][/us/stat/116/1784].)
 
  __Prior Provisions__ 
 
@@ -63,13 +63,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(2) to (5). [Pub. L. 107–273, § 308(1)][/us/pl/107/273/s308/1], added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
+    2002—Subsec. (b)(2) to (5). [Pub. L. 107–273][/us/pl/107/273], § 308(1), added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) shall give particular regard to the activities of the Counsel, Office of Professional Responsibility of the Department and the audit, internal investigative, and inspection units outside the Office of Inspector General with a view toward avoiding duplication and insuring effective coordination and cooperation; and
 
     “(3) shall refer to the Counsel, Office of Professional Responsibility of the Department for investigation, information or allegations relating to the conduct of an officer or employee of the Department of Justice employed in an attorney, criminal investigative, or law enforcement position that is or may be a violation of law, regulation, or order of the Department or any other applicable standard of conduct, except that no such referral shall be made if the officer or employee is employed in the Office of Professional Responsibility of the Department.”
 
-    Subsec. (d). [Pub. L. 107–273, § 308(2)][/us/pl/107/273/s308/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–273][/us/pl/107/273], § 308(2), added subsec. (d).
 
  __Change of Name__ 
 
@@ -83,7 +83,7 @@
 
  __Appointment of Oversight Official Within the Office of Inspector General__ 
 
-[Pub. L. 107–273, div. A, title III, § 309(a)][/us/pl/107/273/s309/a], Nov. 2, 2002, [116 Stat. 1784][/us/stat/116/1784], provided that:
+[Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 309(a), Nov. 2, 2002, [116 Stat. 1784][/us/stat/116/1784], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -95,7 +95,7 @@
 
  __Review of Civil Rights Complaints by the Department of Justice__ 
 
-[Pub. L. 107–56, title X, § 1001][/us/pl/107/56/s1001], Oct. 26, 2001, [115 Stat. 391][/us/stat/115/391], provided that: 
+[Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1001, Oct. 26, 2001, [115 Stat. 391][/us/stat/115/391], provided that: 
 
 > “The Inspector General of the Department of Justice shall designate one official who shall—
 
@@ -107,7 +107,7 @@
 
  __Transfer of 20 Investigation Positions Within Department of Justice__ 
 
-[Pub. L. 100–504, title I, § 102(h)][/us/pl/100/504/s102/h], Oct. 18, 1988, [102 Stat. 2521][/us/stat/102/2521], provided that: 
+[Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(h), Oct. 18, 1988, [102 Stat. 2521][/us/stat/102/2521], provided that: 
 
 > “No later than 90 days after the date of appointment of the Inspector General of the Department of Justice, the Inspector General shall designate 20 full-time investigation positions which the Attorney General may transfer from the Office of Inspector General of the Department of Justice to the Office of Professional Responsibility of the Department of Justice for the performance of functions described under section 8D(b)(3) \[now 8E(b)(3)\] of the Inspector General Act of 1978 \[subsec. (b)(3) of this section\]. Any personnel who are transferred pursuant to this subsection, and who, at the time of being so transferred, are protected from reduction in classification or compensation under section 9(c) of such Act \[[section 9(c) of Pub. L. 95–452][/us/pl/95/452/s9/c], set out in this Appendix\], shall continue to be so protected for 1 year after the date of transfer pursuant to this subsection.”
 
@@ -118,27 +118,27 @@
 ----------
 ----------
 
-[/us/pl/95/452/s8E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8E
-[/us/pl/100/504/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Ff
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2520
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
-[/us/pl/107/273/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs308
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1784
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
-[/us/pl/107/273/s308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs308%2F1
-[/us/pl/107/273/s308/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs308%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/100/504/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs113
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
-[/us/pl/107/273/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs309%2Fa
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1784
-[/us/pl/107/56/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1001
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F391
-[/us/pl/100/504/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fh
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2521
 [/us/pl/95/452/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs9%2Fc
 

@@ -19,7 +19,7 @@
 
     (b) If an agreement described in subsection (a) requires that the individual recuse himself or herself from particular categories of agency or other official action, the individual shall reduce to writing those subjects regarding which the recusal agreement will apply and the process by which it will be determined whether the individual must recuse himself or herself in a specific instance. An individual shall be considered to have complied with the requirements of subsection (a) with respect to such recusal agreement if such individual files a copy of the document setting forth the information described in the preceding sentence with such individual’s designated agency ethics official or the appropriate supervising ethics office within the time prescribed in the last sentence of subsection (a).
 
-([Pub. L. 95–521, title I, § 110][/us/pl/95/521/s110], as added [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1744][/us/stat/103/1744]; amended [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], May 4, 1990, [104 Stat. 152][/us/stat/104/152].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 110, as added [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1744][/us/stat/103/1744]; amended [Pub. L. 101–280][/us/pl/101/280], § 3(1), May 4, 1990, [104 Stat. 152][/us/stat/104/152].)
 
  __References in Text__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/95/521/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs110
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1744
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F152
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824

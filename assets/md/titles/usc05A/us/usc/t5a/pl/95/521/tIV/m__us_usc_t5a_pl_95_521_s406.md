@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 95–521, title IV, § 406][/us/pl/95/521/s406], Oct. 26, 1978, [92 Stat. 1864][/us/stat/92/1864], amended [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
+    Section, [Pub. L. 95–521, title IV][/us/pl/95/521/tIV], § 406, Oct. 26, 1978, [92 Stat. 1864][/us/stat/92/1864], amended [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/521/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs406
+[/us/pl/95/521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtIV
 [/us/stat/92/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1864
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 

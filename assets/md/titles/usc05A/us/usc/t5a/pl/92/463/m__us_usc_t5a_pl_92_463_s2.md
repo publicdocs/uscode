@@ -33,7 +33,7 @@
 
         (6) the function of advisory committees should be advisory only, and that all matters under their consideration should be determined, in accordance with law, by the official, agency, or officer involved.
 
-([Pub. L. 92–463, § 2][/us/pl/92/463/s2], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770].)
+([Pub. L. 92–463][/us/pl/92/463], § 2, Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770].)
 
  __Executive Order No. 11686__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/92/463/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs2
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t31/s581c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs581c

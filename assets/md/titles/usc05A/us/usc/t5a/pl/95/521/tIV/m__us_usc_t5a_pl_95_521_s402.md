@@ -157,35 +157,35 @@
 
         (6) Notwithstanding any other provision of law, no record developed pursuant to the authority of this section concerning an investigation of an individual for a violation of any rule, regulation, or Executive order relating to a conflict of interest shall be made available pursuant to [section 552(a)(3) of title 5][/us/usc/t5/s552/a/3], United States Code, unless the request for such information identifies the individual to whom such records relate and the subject matter of any alleged violation to which such records relate, except that nothing in this subsection shall affect the application of the provisions of [section 552(b) of title 5][/us/usc/t5/s552/b], United States Code, to any record so identified.
 
-([Pub. L. 95–521, title IV, § 402][/us/pl/95/521/s402], Oct. 26, 1978, [92 Stat. 1862][/us/stat/92/1862]; [Pub. L. 96–19, § 9(e)][/us/pl/96/19/s9/e], (s), June 13, 1979, [93 Stat. 43][/us/stat/93/43], 44; [Pub. L. 98–150, § 3(a)][/us/pl/98/150/s3/a], (b), Nov. 11, 1983, [97 Stat. 959][/us/stat/97/959]; [Pub. L. 100–598][/us/pl/100/598], §§ 5–7, Nov. 3, 1988, [102 Stat. 3032][/us/stat/102/3032], 3033.)
+([Pub. L. 95–521, title IV][/us/pl/95/521/tIV], § 402, Oct. 26, 1978, [92 Stat. 1862][/us/stat/92/1862]; [Pub. L. 96–19][/us/pl/96/19], § 9(e), (s), June 13, 1979, [93 Stat. 43][/us/stat/93/43], 44; [Pub. L. 98–150][/us/pl/98/150], § 3(a), (b), Nov. 11, 1983, [97 Stat. 959][/us/stat/97/959]; [Pub. L. 100–598][/us/pl/100/598], §§ 5–7, Nov. 3, 1988, [102 Stat. 3032][/us/stat/102/3032], 3033.)
 
  __References in Text__ 
 
-    Title II of this Act, referred to in subsec. (b)(1), (3), and (15), and title 2 of this Act, referred to in subsec. (f)(2)(B)(iv), is title II of [Pub. L. 95–521][/us/pl/95/521], which was set out in this Appendix prior to repeal by [Pub. L. 101–194, title II, § 201][/us/pl/101/194/s201], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724].
+    Title II of this Act, referred to in subsec. (b)(1), (3), and (15), and title 2 of this Act, referred to in subsec. (f)(2)(B)(iv), is title II of [Pub. L. 95–521][/us/pl/95/521], which was set out in this Appendix prior to repeal by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 201, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724].
 
-    Section 206 of this Act, referred to in subsec. (f)(2)(B)(iv), is [section 206 of Pub. L. 95–521][/us/pl/95/521/s206], which was set out in this Appendix prior to repeal by [Pub. L. 101–194, title II, § 201][/us/pl/101/194/s201], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724].
+    Section 206 of this Act, referred to in subsec. (f)(2)(B)(iv), is [section 206 of Pub. L. 95–521][/us/pl/95/521/s206], which was set out in this Appendix prior to repeal by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 201, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724].
 
  __Amendments__ 
 
     1988—Subsecs. (d) to (f). [Pub. L. 100–598][/us/pl/100/598] added subsecs. (d) to (f).
 
-    1983—Subsec. (a). [Pub. L. 98–150, § 3(a)][/us/pl/98/150/s3/a], substituted “in consultation with” for “under the general supervision of”.
+    1983—Subsec. (a). [Pub. L. 98–150][/us/pl/98/150], § 3(a), substituted “in consultation with” for “under the general supervision of”.
 
-    Subsec. (b)(1). [Pub. L. 98–150, § 3(b)(1)][/us/pl/98/150/s3/b/1], struck out “and recommending to the Office of Personnel Management” after “(1) developing”, inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “President or the Director” for “President or the Office of Personnel Management”.
+    Subsec. (b)(1). [Pub. L. 98–150][/us/pl/98/150], § 3(b)(1), struck out “and recommending to the Office of Personnel Management” after “(1) developing”, inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “President or the Director” for “President or the Office of Personnel Management”.
 
-    Subsec. (b)(2). [Pub. L. 98–150, § 3(b)(2)][/us/pl/98/150/s3/b/2], struck out “and recommending to the Office of Personnel Management” after “(2) developing”, inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “President or the Director” for “President or the Office of Personnel Management”.
+    Subsec. (b)(2). [Pub. L. 98–150][/us/pl/98/150], § 3(b)(2), struck out “and recommending to the Office of Personnel Management” after “(2) developing”, inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “President or the Director” for “President or the Office of Personnel Management”.
 
-    Subsec. (b)(6). [Pub. L. 98–150, § 3(b)(3)][/us/pl/98/150/s3/b/3], substituted “Director” for “Office of Personnel Management”.
+    Subsec. (b)(6). [Pub. L. 98–150][/us/pl/98/150], § 3(b)(3), substituted “Director” for “Office of Personnel Management”.
 
-    Subsec. (b)(12). [Pub. L. 98–150, § 3(b)(4)][/us/pl/98/150/s3/b/4], inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “Director” for “Office of Personnel Management”.
+    Subsec. (b)(12). [Pub. L. 98–150][/us/pl/98/150], § 3(b)(4), inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “Director” for “Office of Personnel Management”.
 
-    Subsec. (b)(15). [Pub. L. 98–150, § 3(b)(5)][/us/pl/98/150/s3/b/5], substituted “, in consultation with the Office of Personnel Management, and promulgating” for “and recommending for promulgation by the Office of Personnel Management”.
+    Subsec. (b)(15). [Pub. L. 98–150][/us/pl/98/150], § 3(b)(5), substituted “, in consultation with the Office of Personnel Management, and promulgating” for “and recommending for promulgation by the Office of Personnel Management”.
 
-    1979—Subsec. (b)(1). [Pub. L. 96–19, § 9(s)][/us/pl/96/19/s9/s], substituted “consultation” for “consulation” and struck out a comma after “rules and regulations” and “President”.
+    1979—Subsec. (b)(1). [Pub. L. 96–19][/us/pl/96/19], § 9(s), substituted “consultation” for “consulation” and struck out a comma after “rules and regulations” and “President”.
 
-    Subsec. (b)(15). [Pub. L. 96–19, § 9(e)(2)][/us/pl/96/19/s9/e/2], added par. (15).
+    Subsec. (b)(15). [Pub. L. 96–19][/us/pl/96/19], § 9(e)(2), added par. (15).
 
-    Subsec. (d). [Pub. L. 96–19, § 9(e)(1)][/us/pl/96/19/s9/e/1], repealed subsec. (d) which required the promulgation of a regulation establishing a method of readily determining, without expert appraisal, the fair market value of assets required to be disclosed.
+    Subsec. (d). [Pub. L. 96–19][/us/pl/96/19], § 9(e)(1), repealed subsec. (d) which required the promulgation of a regulation establishing a method of readily determining, without expert appraisal, the fair market value of assets required to be disclosed.
 
  __Effective Date of 1983 Amendment__ 
 
@@ -193,7 +193,7 @@
 
  __Rules and Regulations in Effect Before October 1, 1983__ 
 
-[Pub. L. 98–150, § 3(d)][/us/pl/98/150/s3/d], Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960], provided that:
+[Pub. L. 98–150][/us/pl/98/150], § 3(d), Nov. 11, 1983, [97 Stat. 960][/us/stat/97/960], provided that:
 
 >     “(1) Any rules or regulations issued under section 402 of the Ethics in Government Act of 1978 \[this section\] which are in effect immediately before the effective date of the amendments made by this Act \[Oct. 1, 1983\] shall remain in effect according to their terms until modified, superseded, set aside, or revoked on or after such effective date.
 
@@ -212,33 +212,33 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s552/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F3
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/95/521/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs402
+[/us/pl/95/521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtIV
 [/us/stat/92/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1862
-[/us/pl/96/19/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fe
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/stat/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F43
-[/us/pl/98/150/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fa
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F959
 [/us/pl/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598
 [/us/stat/102/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3032
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/pl/101/194/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs201
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 [/us/pl/95/521/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs206
-[/us/pl/101/194/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs201
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 [/us/pl/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F598
-[/us/pl/98/150/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fa
-[/us/pl/98/150/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fb%2F1
-[/us/pl/98/150/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fb%2F2
-[/us/pl/98/150/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fb%2F3
-[/us/pl/98/150/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fb%2F4
-[/us/pl/98/150/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fb%2F5
-[/us/pl/96/19/s9/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fs
-[/us/pl/96/19/s9/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fe%2F2
-[/us/pl/96/19/s9/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fe%2F1
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/pl/98/150/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs13
-[/us/pl/98/150/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150%2Fs3%2Fd
+[/us/pl/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F150
 [/us/stat/97/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F960
 
 

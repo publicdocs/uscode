@@ -17,7 +17,7 @@
 
     The provisions of this Act and the amendments made by this Act \[see section 10 of this Act\] shall take effect October 1, 1978.
 
-([Pub. L. 95–452, § 13][/us/pl/95/452/s13], formerly § 12, Oct. 12, 1978, [92 Stat. 1109][/us/stat/92/1109]; renumbered § 13, [Pub. L. 110–409, § 7(a)][/us/pl/110/409/s7/a], Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305].)
+([Pub. L. 95–452][/us/pl/95/452], § 13, formerly § 12, Oct. 12, 1978, [92 Stat. 1109][/us/stat/92/1109]; renumbered § 13, [Pub. L. 110–409][/us/pl/110/409], § 7(a), Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/95/452/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs13
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1109
-[/us/pl/110/409/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fa
+[/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
 [/us/stat/122/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4305
 
 

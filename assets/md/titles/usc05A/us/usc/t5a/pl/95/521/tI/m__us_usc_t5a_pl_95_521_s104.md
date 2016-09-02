@@ -55,7 +55,7 @@
 
         (2) The supervising ethics office may waive the filing fee under this subsection in extraordinary circumstances.
 
-([Pub. L. 95–521, title I, § 104][/us/pl/95/521/s104], Oct. 26, 1978, [92 Stat. 1832][/us/stat/92/1832]; [Pub. L. 96–19, § 8(a)][/us/pl/96/19/s8/a], June 13, 1979, [93 Stat. 41][/us/stat/93/41]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1737][/us/stat/103/1737]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (5), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 154; [Pub. L. 101–650, title IV, § 405][/us/pl/101/650/s405], Dec. 1, 1990, [104 Stat. 5124][/us/stat/104/5124]; [Pub. L. 110–81, title VII, § 702][/us/pl/110/81/s702], Sept. 14, 2007, [121 Stat. 775][/us/stat/121/775].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 104, Oct. 26, 1978, [92 Stat. 1832][/us/stat/92/1832]; [Pub. L. 96–19][/us/pl/96/19], § 8(a), June 13, 1979, [93 Stat. 41][/us/stat/93/41]; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1737][/us/stat/103/1737]; [Pub. L. 101–280][/us/pl/101/280], § 3(1), (5), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 154; [Pub. L. 101–650, title IV][/us/pl/101/650/tIV], § 405, Dec. 1, 1990, [104 Stat. 5124][/us/stat/104/5124]; [Pub. L. 110–81, title VII][/us/pl/110/81/tVII], § 702, Sept. 14, 2007, [121 Stat. 775][/us/stat/121/775].)
 
  __Codification__ 
 
@@ -67,13 +67,13 @@
 
     1990—Subsec. (b). [Pub. L. 101–650][/us/pl/101/650] inserted at end “Whenever the Judicial Conference refers a name to the Attorney General under this subsection, the Judicial Conference also shall notify the judicial council of the circuit in which the named individual serves of the referral.”
 
-    [Pub. L. 101–280, § 3(5)(A)][/us/pl/101/280/s3/5/A], substituted “Judicial Conference” for “Chairman of the Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(5)(A), substituted “Judicial Conference” for “Chairman of the Judicial Conference”.
 
-    [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Subsec. (c). [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], struck out “of the United States” after “Judicial Conference”.
+    Subsec. (c). [Pub. L. 101–280][/us/pl/101/280], § 3(1), struck out “of the United States” after “Judicial Conference”.
 
-    Subsec. (d)(1). [Pub. L. 101–280, § 3(5)(B)][/us/pl/101/280/s3/5/B], substituted closing provisions for former closing provisions which read “shall pay a filing fee of $200 to the miscellaneous receipts of the General Treasury”.
+    Subsec. (d)(1). [Pub. L. 101–280][/us/pl/101/280], § 3(5)(B), substituted closing provisions for former closing provisions which read “shall pay a filing fee of $200 to the miscellaneous receipts of the General Treasury”.
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, substituting provisions relating to failure to file or filing false reports for provisions relating to accessibility of reports. See section 105 of this Appendix.
 
@@ -94,25 +94,25 @@
 ----------
 ----------
 
-[/us/pl/95/521/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs104
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1832
-[/us/pl/96/19/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs8%2Fa
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/stat/93/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F41
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1737
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F152
-[/us/pl/101/650/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs405
+[/us/pl/101/650/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIV
 [/us/stat/104/5124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5124
-[/us/pl/110/81/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs702
+[/us/pl/110/81/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtVII
 [/us/stat/121/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F775
 [/us/usc/t2/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs704
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
-[/us/pl/101/280/s3/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F5%2FA
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F1
-[/us/pl/101/280/s3/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F5%2FB
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650

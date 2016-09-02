@@ -23,7 +23,7 @@
 
     Any entity described in section 503 may render advisory opinions interpreting this title, in writing, to individuals covered by this title. Any individual to whom such an advisory opinion is rendered and any other individual covered by this title who is involved in a fact situation which is indistinguishable in all material aspects, and who, after the issuance of such advisory opinion, acts in good faith in accordance with its provisions and findings shall not, as a result of such actions, be subject to any sanction under subsection (a).
 
-([Pub. L. 95–521, title V, § 504][/us/pl/95/521/s504], as added [Pub. L. 101–194, title VI, § 601(a)][/us/pl/101/194/s601/a], Nov. 30, 1989, [103 Stat. 1761][/us/stat/103/1761].)
+([Pub. L. 95–521, title V][/us/pl/95/521/tV], § 504, as added [Pub. L. 101–194, title VI][/us/pl/101/194/tVI], § 601(a), Nov. 30, 1989, [103 Stat. 1761][/us/stat/103/1761].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/521/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs504
-[/us/pl/101/194/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs601%2Fa
+[/us/pl/95/521/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtV
+[/us/pl/101/194/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVI
 [/us/stat/103/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1761
 [/us/pl/101/194/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs703
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318

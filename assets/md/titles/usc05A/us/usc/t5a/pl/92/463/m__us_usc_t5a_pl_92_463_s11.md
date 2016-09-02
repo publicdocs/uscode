@@ -19,7 +19,7 @@
 
     (b) As used in this section “agency proceeding” means any proceeding as defined in [section 551(12) of title 5][/us/usc/t5/s551/12], United States Code.
 
-([Pub. L. 92–463, § 11][/us/pl/92/463/s11], Oct. 6, 1972, [86 Stat. 775][/us/stat/86/775].)
+([Pub. L. 92–463][/us/pl/92/463], § 11, Oct. 6, 1972, [86 Stat. 775][/us/stat/86/775].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s551/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F12
-[/us/pl/92/463/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs11
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F775
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/pl/92/463/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs15

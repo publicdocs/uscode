@@ -27,7 +27,7 @@
 
     (c) Nothing in this Act requiring reporting of information shall be deemed to authorize the receipt of income, gifts, or reimbursements; the holding of assets, liabilities, or positions; or the participation in transactions that are prohibited by law, Executive order, rule, or regulation.
 
-([Pub. L. 95–521, title I, § 107][/us/pl/95/521/s107], Oct. 26, 1978, [92 Stat. 1834][/us/stat/92/1834]; [Pub. L. 96–19, § 9(d)][/us/pl/96/19/s9/d], (g), June 13, 1979, [93 Stat. 42][/us/stat/93/42], 43; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1740][/us/stat/103/1740].)
+([Pub. L. 95–521, title I][/us/pl/95/521/tI], § 107, Oct. 26, 1978, [92 Stat. 1834][/us/stat/92/1834]; [Pub. L. 96–19][/us/pl/96/19], § 9(d), (g), June 13, 1979, [93 Stat. 42][/us/stat/93/42], 43; [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1740][/us/stat/103/1740].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, substituting provisions relating to confidential reports and other additional requirements for provisions setting forth definitions for purposes of title I of [Pub. L. 95–521][/us/pl/95/521]. See section 109 of this Appendix.
 
-    1979—Par. (1). [Pub. L. 96–19, § 9(d)][/us/pl/96/19/s9/d], substituted “gross income derived from business (and net income if the individual elects to include it)” for “net and gross income derived from business”.
+    1979—Par. (1). [Pub. L. 96–19][/us/pl/96/19], § 9(d), substituted “gross income derived from business (and net income if the individual elects to include it)” for “net and gross income derived from business”.
 
-    Par. (16). [Pub. L. 96–19, § 9(g)][/us/pl/96/19/s9/g], inserted quotation marks after “designated committee of the House of Representatives” and before “designated committee of the Senate”.
+    Par. (16). [Pub. L. 96–19][/us/pl/96/19], § 9(g), inserted quotation marks after “designated committee of the House of Representatives” and before “designated committee of the Senate”.
 
  __Effective Date of 1989 Amendment__ 
 
@@ -58,19 +58,19 @@
 
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
-[/us/pl/95/521/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs107
+[/us/pl/95/521/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtI
 [/us/stat/92/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1834
-[/us/pl/96/19/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fd
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/stat/93/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F42
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1740
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/usc/t2/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs707
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/pl/96/19/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fd
-[/us/pl/96/19/s9/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fg
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
+[/us/pl/96/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204
 

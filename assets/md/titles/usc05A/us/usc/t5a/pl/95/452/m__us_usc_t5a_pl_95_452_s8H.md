@@ -93,7 +93,7 @@
 
         (2) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-([Pub. L. 95–452, § 8H][/us/pl/95/452/s8H], as added [Pub. L. 105–272, title VII, § 702(b)(1)][/us/pl/105/272/s702/b/1], Oct. 20, 1998, [112 Stat. 2415][/us/stat/112/2415]; amended [Pub. L. 107–108, title III, § 309(b)][/us/pl/107/108/s309/b], Dec. 28, 2001, [115 Stat. 1400][/us/stat/115/1400]; [Pub. L. 107–306, title VIII, § 825][/us/pl/107/306/s825], Nov. 27, 2002, [116 Stat. 2429][/us/stat/116/2429]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(2), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 111–259, title IV, § 431(b)][/us/pl/111/259/s431/b], Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title III, § 310][/us/pl/113/126/s310], title VI, § 603(a), July 7, 2014, [128 Stat. 1398][/us/stat/128/1398], 1420.)
+([Pub. L. 95–452][/us/pl/95/452], § 8H, as added [Pub. L. 105–272, title VII][/us/pl/105/272/tVII], § 702(b)(1), Oct. 20, 1998, [112 Stat. 2415][/us/stat/112/2415]; amended [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 309(b), Dec. 28, 2001, [115 Stat. 1400][/us/stat/115/1400]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 825, Nov. 27, 2002, [116 Stat. 2429][/us/stat/116/2429]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(2), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 431(b), Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 310, title VI, § 603(a), July 7, 2014, [128 Stat. 1398][/us/stat/128/1398], 1420.)
 
  __Prior Provisions__ 
 
@@ -101,29 +101,29 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(B), (C). [Pub. L. 113–126, § 310(1)][/us/pl/113/126/s310/1], (2), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    2014—Subsec. (a)(1)(B), (C). [Pub. L. 113–126][/us/pl/113/126], § 310(1), (2), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (a)(1)(D). [Pub. L. 113–126, § 310(1)][/us/pl/113/126/s310/1], (3), redesignated subpar. (C) as (D), substituted “Act, section 17” for “Act or section 17”, and inserted “, or section 103H(k) of the National Security Act of 1947 ([50 U.S.C. 3033(k)][/us/usc/t50/s3033/k])” before period at end.
+    Subsec. (a)(1)(D). [Pub. L. 113–126][/us/pl/113/126], § 310(1), (3), redesignated subpar. (C) as (D), substituted “Act, section 17” for “Act or section 17”, and inserted “, or section 103H(k) of the National Security Act of 1947 ([50 U.S.C. 3033(k)][/us/usc/t50/s3033/k])” before period at end.
 
-    Subsec. (b). [Pub. L. 113–126, § 603(a)(1)][/us/pl/113/126/s603/a/1], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 113–126][/us/pl/113/126], § 603(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (h), (i). [Pub. L. 113–126, § 603(a)(2)][/us/pl/113/126/s603/a/2], (3), added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsecs. (h), (i). [Pub. L. 113–126][/us/pl/113/126], § 603(a)(2), (3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
     2010—Subsec. (a)(3). [Pub. L. 111–259][/us/pl/111/259] added par. (3).
 
     2008—Subsecs. (a)(1)(A), (g)(1). [Pub. L. 110–417][/us/pl/110/417] substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-    2002—Subsec. (f). [Pub. L. 107–306, § 825(1)][/us/pl/107/306/s825/1], substituted “subsections (a) through (e)” for “this section”.
+    2002—Subsec. (f). [Pub. L. 107–306][/us/pl/107/306], § 825(1), substituted “subsections (a) through (e)” for “this section”.
 
-    Subsecs. (g), (h). [Pub. L. 107–306, § 825(2)][/us/pl/107/306/s825/2], (3), added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 107–306][/us/pl/107/306], § 825(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-    2001—Subsec. (b). [Pub. L. 107–108, § 309(b)(1)][/us/pl/107/108/s309/b/1], substituted “Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the head of the establishment.”
+    2001—Subsec. (b). [Pub. L. 107–108][/us/pl/107/108], § 309(b)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the head of the establishment.”
 
-    Subsec. (d)(1). [Pub. L. 107–108, § 309(b)(2)][/us/pl/107/108/s309/b/2], substituted “does not find credible under subsection (b) a complaint or information submitted to the Inspector General under subsection (a), or does not transmit the complaint or information to the head of the establishment in accurate form under subsection (b),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subsection (b),”.
+    Subsec. (d)(1). [Pub. L. 107–108][/us/pl/107/108], § 309(b)(2), substituted “does not find credible under subsection (b) a complaint or information submitted to the Inspector General under subsection (a), or does not transmit the complaint or information to the head of the establishment in accurate form under subsection (b),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subsection (b),”.
 
  __Congressional Findings__ 
 
-[Pub. L. 105–272, title VII, § 701(b)][/us/pl/105/272/s701/b], Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413], provided that: 
+[Pub. L. 105–272, title VII][/us/pl/105/272/tVII], § 701(b), Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413], provided that: 
 
 > “The Congress finds that—
 
@@ -153,31 +153,31 @@
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/usc/t5/s2302/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FA
-[/us/pl/95/452/s8H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H
-[/us/pl/105/272/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs702%2Fb%2F1
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/105/272/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVII
 [/us/stat/112/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2415
-[/us/pl/107/108/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs309%2Fb
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1400
-[/us/pl/107/306/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs825
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2429
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
-[/us/pl/111/259/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs431%2Fb
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2731
-[/us/pl/113/126/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs310
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1398
-[/us/pl/113/126/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs310%2F1
-[/us/pl/113/126/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs310%2F1
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/usc/t50/s3033/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3033%2Fk
-[/us/pl/113/126/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fa%2F1
-[/us/pl/113/126/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fa%2F2
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/107/306/s825/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs825%2F1
-[/us/pl/107/306/s825/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs825%2F2
-[/us/pl/107/108/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs309%2Fb%2F1
-[/us/pl/107/108/s309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs309%2Fb%2F2
-[/us/pl/105/272/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs701%2Fb
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/105/272/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVII
 [/us/stat/112/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2413
 
 

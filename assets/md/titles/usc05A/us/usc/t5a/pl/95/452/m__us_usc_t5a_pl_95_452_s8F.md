@@ -31,11 +31,11 @@
 
     (d) No later than the date on which the Inspector General of the Corporation for National and Community Service reports a problem, abuse, or deficiency under section 5(d) to the Chief Executive Officer of the Corporation, the Chief Executive Officer shall report such problem, abuse, or deficiency to the Board of Directors.
 
-([Pub. L. 95–452, § 8F][/us/pl/95/452/s8F], formerly § 8E, as added [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889]; renumbered § 8F, [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; amended [Pub. L. 111–13, title IV, § 4101][/us/pl/111/13/s4101], Apr. 21, 2009, [123 Stat. 1597][/us/stat/123/1597].)
+([Pub. L. 95–452][/us/pl/95/452], § 8F, formerly § 8E, as added [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(1), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889]; renumbered § 8F, [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408]; amended [Pub. L. 111–13, title IV][/us/pl/111/13/tIV], § 4101, Apr. 21, 2009, [123 Stat. 1597][/us/stat/123/1597].)
 
  __Codification__ 
 
-    [Pub. L. 103–204, § 23(a)(4)][/us/pl/103/204/s23/a/4], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], which directed the amendment of section 8F(a)(2) by striking out “the Federal Deposit Insurance Corporation,”, could not be executed to this section because the quoted language does not appear. However, the amendment was executed to section 8G(a)(2) of the Inspector General Act of 1978 relating to requirements for Federal entities and designated Federal entities, to reflect the probable intent of Congress and the successive renumbering of that section as section 8F by [Pub. L. 103–82][/us/pl/103/82] and as section 8G by [Pub. L. 103–204][/us/pl/103/204].
+    [Pub. L. 103–204][/us/pl/103/204], § 23(a)(4), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], which directed the amendment of section 8F(a)(2) by striking out “the Federal Deposit Insurance Corporation,”, could not be executed to this section because the quoted language does not appear. However, the amendment was executed to section 8G(a)(2) of the Inspector General Act of 1978 relating to requirements for Federal entities and designated Federal entities, to reflect the probable intent of Congress and the successive renumbering of that section as section 8F by [Pub. L. 103–82][/us/pl/103/82] and as section 8G by [Pub. L. 103–204][/us/pl/103/204].
 
  __Prior Provisions__ 
 
@@ -64,14 +64,14 @@
 
 [/us/usc/t42/s12651f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651f%2Fb
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/95/452/s8F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8F
-[/us/pl/103/82/s202/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F1
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F889
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
-[/us/pl/111/13/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs4101
+[/us/pl/111/13/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtIV
 [/us/stat/123/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1597
-[/us/pl/103/204/s23/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F4
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204

@@ -83,15 +83,15 @@
 
     (d) In any case where all the functions, powers, and duties of any office or agency are transferred pursuant to this subsection, such office or agency shall lapse. Any person who, on the effective date of this Act \[Oct. 1, 1978\], held a position compensated in accordance with the General Schedule, and who, without a break in service, is appointed in an Office of Inspector General to a position having duties comparable to those performed immediately preceding such appointment shall continue to be compensated in the new position at not less than the rate provided for the previous position, for the duration of service in the new position.
 
-([Pub. L. 95–452, § 9][/us/pl/95/452/s9], Oct. 12, 1978, [92 Stat. 1107][/us/stat/92/1107]; [Pub. L. 96–88, title V, § 508(n)(2)][/us/pl/96/88/s508/n/2], Oct. 17, 1979, [93 Stat. 694][/us/stat/93/694]; [Pub. L. 97–252, title XI, § 1117(a)(2)][/us/pl/97/252/s1117/a/2], (3), Sept. 8, 1982, [96 Stat. 750][/us/stat/96/750]; [Pub. L. 100–504, title I, § 102(d)][/us/pl/100/504/s102/d], Oct. 18, 1988, [102 Stat. 2516][/us/stat/102/2516]; [Pub. L. 103–82, title II, § 202(g)(3)(A)][/us/pl/103/82/s202/g/3/A], Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890]; [Pub. L. 103–296, title I, § 108][/us/pl/103/296/s108](l)(1), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 105–206, title I, § 1103(c)(1)][/us/pl/105/206/s1103/c/1], July 22, 1998, [112 Stat. 708][/us/stat/112/708]; [Pub. L. 107–189, § 22(c)][/us/pl/107/189/s22/c], June 14, 2002, [116 Stat. 708][/us/stat/116/708]; [Pub. L. 107–296, title XI, § 1112(a)(2)][/us/pl/107/296/s1112/a/2], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
+([Pub. L. 95–452][/us/pl/95/452], § 9, Oct. 12, 1978, [92 Stat. 1107][/us/stat/92/1107]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 508(n)(2), Oct. 17, 1979, [93 Stat. 694][/us/stat/93/694]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1117(a)(2), (3), Sept. 8, 1982, [96 Stat. 750][/us/stat/96/750]; [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(d), Oct. 18, 1988, [102 Stat. 2516][/us/stat/102/2516]; [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(3)(A), Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(l)(1), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(c)(1), July 22, 1998, [112 Stat. 708][/us/stat/112/708]; [Pub. L. 107–189][/us/pl/107/189], § 22(c), June 14, 2002, [116 Stat. 708][/us/stat/116/708]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(a)(2), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
 
  __References in Text__ 
 
-    Section 208 of the Department of Energy Organization Act, referred to in subsec. (a)(1)(E), is [section 208 of Pub. L. 95–91][/us/pl/95/91/s208], title II, Aug. 4, 1977, [91 Stat. 575][/us/stat/91/575], as amended, which was classified to [section 7138 of Title 42][/us/usc/t42/s7138], The Public Health and Welfare, and was repealed by [Pub. L. 100–504, title I, § 102(e)(1)(A)][/us/pl/100/504/s102/e/1/A], Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517].
+    Section 208 of the Department of Energy Organization Act, referred to in subsec. (a)(1)(E), is [section 208 of Pub. L. 95–91][/us/pl/95/91/s208], title II, Aug. 4, 1977, [91 Stat. 575][/us/stat/91/575], as amended, which was classified to [section 7138 of Title 42][/us/usc/t42/s7138], The Public Health and Welfare, and was repealed by [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(e)(1)(A), Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517].
 
-    Title II of [Public Law 94–505][/us/pl/94/505], referred to in subsec. (a)(1)(F), is title II of [Pub. L. 94–505][/us/pl/94/505], Oct. 15, 1976, [90 Stat. 2429][/us/stat/90/2429], which was classified generally to sections 3521 to 3527 of Title 42, and was repealed by [Pub. L. 100–504, title I, § 102(e)(2)][/us/pl/100/504/s102/e/2], Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517].
+    Title II of [Public Law 94–505][/us/pl/94/505], referred to in subsec. (a)(1)(F), is title II of [Pub. L. 94–505][/us/pl/94/505], Oct. 15, 1976, [90 Stat. 2429][/us/stat/90/2429], which was classified generally to sections 3521 to 3527 of Title 42, and was repealed by [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(e)(2), Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517].
 
-    Section 23 of the Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(S), is section 23 of [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as added, which was classified to [section 231v of Title 45][/us/usc/t45/s231v], Railroads, and was repealed by [Pub. L. 100–504, title I, § 102(e)(3)][/us/pl/100/504/s102/e/3], Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517].
+    Section 23 of the Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(S), is section 23 of [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as added, which was classified to [section 231v of Title 45][/us/usc/t45/s231v], Railroads, and was repealed by [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(e)(3), Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517].
 
     The Social Security Independence and Program Improvements Act of 1994, referred to in subsec. (a)(1)(W), is [Pub. L. 103–296][/us/pl/103/296], Aug. 15, 1995, [108 Stat. 1464][/us/stat/108/1464]. Section 105(a)(2) of the Act is set out as a note under [section 901 of Title 42][/us/usc/t42/s901], The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -107,25 +107,25 @@
 
     1993—Subsec. (a)(1)(V). [Pub. L. 103–82][/us/pl/103/82] added subpar. (V).
 
-    1988—Subsec. (a)(1)(E), (F). [Pub. L. 100–504, § 102(d)(7)][/us/pl/100/504/s102/d/7], added subpars. (E) and (F). Former subpars. (E) and (F) redesignated (G) and (H), respectively.
+    1988—Subsec. (a)(1)(E), (F). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(7), added subpars. (E) and (F). Former subpars. (E) and (F) redesignated (G) and (H), respectively.
 
-    Subsec. (a)(1)(G), (H). [Pub. L. 100–504, § 102(d)(2)][/us/pl/100/504/s102/d/2], redesignated subpars. (E) and (F) as (G) and (H), respectively. Former subpars. (G) and (H) redesignated (J) and (K), respectively.
+    Subsec. (a)(1)(G), (H). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(2), redesignated subpars. (E) and (F) as (G) and (H), respectively. Former subpars. (G) and (H) redesignated (J) and (K), respectively.
 
-    Subsec. (a)(1)(I). [Pub. L. 100–504, § 102(d)(1)][/us/pl/100/504/s102/d/1], (8), added subpar. (I) and struck out former subpar. (I) which provided for transfer to Office of Inspector General of Community Services Administration, offices of that agency referred to as “Inspections Division”, “External Audit Division”, and “Internal Audit Division”.
+    Subsec. (a)(1)(I). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(1), (8), added subpar. (I) and struck out former subpar. (I) which provided for transfer to Office of Inspector General of Community Services Administration, offices of that agency referred to as “Inspections Division”, “External Audit Division”, and “Internal Audit Division”.
 
-    Subsec. (a)(1)(J), (K). [Pub. L. 100–504, § 102(d)(3)][/us/pl/100/504/s102/d/3], redesignated subpars. (G) and (H) as (J) and (K), respectively. Former subpars. (J) and (K) redesignated (M) and (O), respectively.
+    Subsec. (a)(1)(J), (K). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(3), redesignated subpars. (G) and (H) as (J) and (K), respectively. Former subpars. (J) and (K) redesignated (M) and (O), respectively.
 
-    Subsec. (a)(1)(L). [Pub. L. 100–504, § 102(d)(9)][/us/pl/100/504/s102/d/9], added subpar. (L). Former subpar. (L) redesignated (P).
+    Subsec. (a)(1)(L). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(9), added subpar. (L). Former subpar. (L) redesignated (P).
 
-    Subsec. (a)(1)(M). [Pub. L. 100–504, § 102(d)(4)][/us/pl/100/504/s102/d/4], redesignated subpar. (J) as (M). Former subpar. (M) redesignated (T).
+    Subsec. (a)(1)(M). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(4), redesignated subpar. (J) as (M). Former subpar. (M) redesignated (T).
 
-    Subsec. (a)(1)(N). [Pub. L. 100–504, § 102(d)(10)][/us/pl/100/504/s102/d/10], added subpar. (N). Former subpar. (N) redesignated (U).
+    Subsec. (a)(1)(N). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(10), added subpar. (N). Former subpar. (N) redesignated (U).
 
-    Subsec. (a)(1)(O), (P). [Pub. L. 100–504, § 102(d)(5)][/us/pl/100/504/s102/d/5], redesignated subpars. (K) and (L) as (O) and (P), respectively.
+    Subsec. (a)(1)(O), (P). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(5), redesignated subpars. (K) and (L) as (O) and (P), respectively.
 
-    Subsec. (a)(1)(Q) to (S). [Pub. L. 100–504, § 102(d)(11)][/us/pl/100/504/s102/d/11], added subpars. (Q) to (S).
+    Subsec. (a)(1)(Q) to (S). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(11), added subpars. (Q) to (S).
 
-    Subsec. (a)(1)(T), (U). [Pub. L. 100–504, § 102(d)(6)][/us/pl/100/504/s102/d/6], redesignated subpars. (M) and (N) as (T) and (U), respectively.
+    Subsec. (a)(1)(T), (U). [Pub. L. 100–504][/us/pl/100/504], § 102(d)(6), redesignated subpars. (M) and (N) as (T) and (U), respectively.
 
     1982—Subsec. (a)(1). [Pub. L. 97–252][/us/pl/97/252] added subpar. (C) and redesignated former subpars. (C) to (M) as (D) to (N), respectively.
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–82, title II, § 202(g)(3)(B)][/us/pl/103/82/s202/g/3/B], Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890], provided that: 
+[Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(3)(B), Sept. 21, 1993, [107 Stat. 890][/us/stat/107/890], provided that: 
 
 > “This paragraph \[amending this section\] shall take effect on the effective date of section 203(c)(2).”
 
@@ -179,31 +179,31 @@
 
  __Termination of Office of Chief Inspector__ 
 
-[Pub. L. 105–206, title I, § 1103(c)(2)][/us/pl/105/206/s1103/c/2], July 22, 1998, [112 Stat. 708][/us/stat/112/708], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(c)(2), July 22, 1998, [112 Stat. 708][/us/stat/112/708], provided that: 
 
 > “Effective upon the transfer of functions under the amendment made by paragraph (1) \[amending this section\], the Office of Chief Inspector of the Internal Revenue Service is terminated.”
 
  __Retention of Certain Internal Audit Personnel__ 
 
-[Pub. L. 105–206, title I, § 1103(c)(3)][/us/pl/105/206/s1103/c/3], July 22, 1998, [112 Stat. 708][/us/stat/112/708], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(c)(3), July 22, 1998, [112 Stat. 708][/us/stat/112/708], provided that: 
 
 > “In making the transfer under the amendment made by paragraph (1) \[amending this section\], the Commissioner of Internal Revenue shall designate and retain an appropriate number (not in excess of 300) of internal audit full-time equivalent employee positions necessary for management relating to the Internal Revenue Service.”
 
  __Additional Personnel Transfers__ 
 
-[Pub. L. 105–206, title I, § 1103(c)(4)][/us/pl/105/206/s1103/c/4], July 22, 1998, [112 Stat. 708][/us/stat/112/708], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1103(c)(4), July 22, 1998, [112 Stat. 708][/us/stat/112/708], provided that: 
 
 > “Effective 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall transfer 21 full-time equivalent positions from the Office of the Inspector General of the Department of the Treasury to the Office of the Treasury Inspector General for Tax Administration.”
 
  __Continuation of Service of Certain Inspectors General__ 
 
-[Pub. L. 100–504, title I, § 102(e)(4)][/us/pl/100/504/s102/e/4], Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517], provided that: 
+[Pub. L. 100–504, title I][/us/pl/100/504/tI], § 102(e)(4), Oct. 18, 1988, [102 Stat. 2517][/us/stat/102/2517], provided that: 
 
 > “Any individual who, on the date of enactment of this Act \[Oct. 18, 1988\], is serving as the Inspector General of the Department of Energy, the Department of Health and Human Services, or the Railroad Retirement Board, shall continue to serve in such position until such individual dies, resigns, or is removed from office in accordance with section 3(b) of the Inspector General Act of 1978 \[[section 3(b) of Pub. L. 95–452][/us/pl/95/452/s3/b], set out in this Appendix\].”
 
  __Transfer of Audit Personnel to Inspector General, Department of Defense__ 
 
-[Pub. L. 97–252, title XI, § 1117(e)][/us/pl/97/252/s1117/e], Sept. 8, 1982, [96 Stat. 753][/us/stat/96/753], provided that: 
+[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1117(e), Sept. 8, 1982, [96 Stat. 753][/us/stat/96/753], provided that: 
 
 > “In addition to the positions transferred to the Office of the Inspector General of the Department of Defense, pursuant to the amendments made by subsection (a) of this section \[amending sections 2(1), 9(a)(1), and 11(1) of this Act\], the Secretary of Defense shall transfer to the Office of Inspector General of the Department of Defense not less than one hundred additional audit positions. The Inspector General of the Department of Defense shall fill such positions with persons trained to perform contract audits.”
 
@@ -216,37 +216,37 @@
 
 [/us/usc/t20/s3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3441
 [/us/pl/94/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F505
-[/us/pl/95/452/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs9
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1107
-[/us/pl/96/88/s508/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fn%2F2
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F694
-[/us/pl/97/252/s1117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1117%2Fa%2F2
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F750
-[/us/pl/100/504/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2516
-[/us/pl/103/82/s202/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F3%2FA
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F890
-[/us/pl/103/296/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/105/206/s1103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fc%2F1
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F708
-[/us/pl/107/189/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189%2Fs22%2Fc
+[/us/pl/107/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F189
 [/us/stat/116/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F708
-[/us/pl/107/296/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fa%2F2
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/95/91/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs208
 [/us/stat/91/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F575
 [/us/usc/t42/s7138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7138
-[/us/pl/100/504/s102/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fe%2F1%2FA
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2517
 [/us/pl/94/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F505
 [/us/pl/94/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F505
 [/us/stat/90/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2429
-[/us/pl/100/504/s102/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fe%2F2
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2517
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/usc/t45/s231v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231v
-[/us/pl/100/504/s102/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fe%2F3
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2517
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/stat/108/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1464
@@ -257,16 +257,16 @@
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/100/504/s102/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F7
-[/us/pl/100/504/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F2
-[/us/pl/100/504/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F1
-[/us/pl/100/504/s102/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F3
-[/us/pl/100/504/s102/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F9
-[/us/pl/100/504/s102/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F4
-[/us/pl/100/504/s102/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F10
-[/us/pl/100/504/s102/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F5
-[/us/pl/100/504/s102/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F11
-[/us/pl/100/504/s102/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fd%2F6
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
+[/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/102/240/s3004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3004%2Fb
@@ -282,7 +282,7 @@
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/103/82/s202/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F3%2FB
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F890
 [/us/pl/103/82/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fc%2F2
 [/us/pl/103/82/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs203%2Fd
@@ -298,16 +298,16 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/105/206/s1103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fc%2F2
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F708
-[/us/pl/105/206/s1103/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fc%2F3
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F708
-[/us/pl/105/206/s1103/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1103%2Fc%2F4
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F708
-[/us/pl/100/504/s102/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs102%2Fe%2F4
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2517
 [/us/pl/95/452/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs3%2Fb
-[/us/pl/97/252/s1117/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1117%2Fe
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F753
 
 

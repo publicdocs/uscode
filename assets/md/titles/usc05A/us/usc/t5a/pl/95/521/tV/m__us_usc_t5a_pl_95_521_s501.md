@@ -29,7 +29,7 @@
 
     Any honorarium which, except for subsection (b), might be paid to a Member, officer or employee, but which is paid instead on behalf of such Member, officer or employee to a charitable organization, shall be deemed not to be received by such Member, officer or employee. No such payment shall exceed $2,000 or be made to a charitable organization from which such individual or a parent, sibling, spouse, child, or dependent relative of such individual derives any financial benefit.
 
-([Pub. L. 95–521, title V, § 501][/us/pl/95/521/s501], as added [Pub. L. 101–194, title VI, § 601(a)][/us/pl/101/194/s601/a], Nov. 30, 1989, [103 Stat. 1760][/us/stat/103/1760]; amended [Pub. L. 101–280, § 7(a)][/us/pl/101/280/s7/a], May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 102–378, § 4(b)(1)][/us/pl/102/378/s4/b/1], (2), Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357].)
+([Pub. L. 95–521, title V][/us/pl/95/521/tV], § 501, as added [Pub. L. 101–194, title VI][/us/pl/101/194/tVI], § 601(a), Nov. 30, 1989, [103 Stat. 1760][/us/stat/103/1760]; amended [Pub. L. 101–280][/us/pl/101/280], § 7(a), May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 102–378][/us/pl/102/378], § 4(b)(1), (2), Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357].)
 
  __References in Text__ 
 
@@ -45,15 +45,15 @@ For information regarding constitutionality of certain provisions of [section 50
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1). [Pub. L. 102–378, § 4(b)(1)][/us/pl/102/378/s4/b/1], substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule,” for “whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code,”.
+    1992—Subsec. (a)(1). [Pub. L. 102–378][/us/pl/102/378], § 4(b)(1), substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule,” for “whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code,”.
 
-    Subsec. (a)(2). [Pub. L. 102–378, § 4(b)(2)][/us/pl/102/378/s4/b/2], substituted “who during a calendar year becomes a Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule,” for “who becomes a Member or an officer or employee who is a noncareer officer or employee and whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule during a calendar year,”.
+    Subsec. (a)(2). [Pub. L. 102–378][/us/pl/102/378], § 4(b)(2), substituted “who during a calendar year becomes a Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule,” for “who becomes a Member or an officer or employee who is a noncareer officer or employee and whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule during a calendar year,”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–280, § 7(a)(1)][/us/pl/101/280/s7/a/1], substituted “a noncareer officer or employee” for “not a career civil servant”.
+    1990—Subsec. (a)(1). [Pub. L. 101–280][/us/pl/101/280], § 7(a)(1), substituted “a noncareer officer or employee” for “not a career civil servant”.
 
-    Subsec. (a)(2). [Pub. L. 101–280, § 7(a)(1)][/us/pl/101/280/s7/a/1], substituted “a noncareer officer or employee” for “not a career civil servant”.
+    Subsec. (a)(2). [Pub. L. 101–280][/us/pl/101/280], § 7(a)(1), substituted “a noncareer officer or employee” for “not a career civil servant”.
 
-    [Pub. L. 101–280, § 7(a)(2)][/us/pl/101/280/s7/a/2], substituted “Member or such an officer or employee which” for “Member, officer or employee which” and “Member or such officer or employee during” for “Member, officer or employee during”.
+    [Pub. L. 101–280][/us/pl/101/280], § 7(a)(2), substituted “Member or such an officer or employee which” for “Member, officer or employee which” and “Member or such officer or employee during” for “Member, officer or employee during”.
 
  __Effective Date__ 
 
@@ -68,12 +68,12 @@ For information regarding constitutionality of certain provisions of [section 50
 
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/95/521/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs501
-[/us/pl/101/194/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs601%2Fa
+[/us/pl/95/521/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtV
+[/us/pl/101/194/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVI
 [/us/stat/103/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1760
-[/us/pl/101/280/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fa
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F161
-[/us/pl/102/378/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fb%2F1
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1357
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/95/521/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs501
@@ -81,12 +81,12 @@ For information regarding constitutionality of certain provisions of [section 50
 [/us/pl/95/521/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs501
 [/us/stat/92/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1864
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/pl/102/378/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fb%2F1
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/102/378/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs4%2Fb%2F2
-[/us/pl/101/280/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fa%2F1
-[/us/pl/101/280/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fa%2F1
-[/us/pl/101/280/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs7%2Fa%2F2
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs703
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/101/194/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs603
