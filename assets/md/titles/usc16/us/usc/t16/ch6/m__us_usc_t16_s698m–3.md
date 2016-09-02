@@ -15,7 +15,7 @@
 
 ## § 698m–3. Status of Big Cypress National Preserve and Addition; report to Congress; plan
 
-Not later than two years after April 29, 1988, the Secretary shall submit to the Congress a detailed report on, and further plan for, the preserve and Addition including—
+    Not later than two years after April 29, 1988, the Secretary shall submit to the Congress a detailed report on, and further plan for, the preserve and Addition including—
 
     (1) the status of the existing preserve, the effectiveness of past regulation and management of the preserve, and recommendations for future management of the preserve and the Addition;
 
@@ -27,7 +27,7 @@ Not later than two years after April 29, 1988, the Secretary shall submit to the
 
     (5) a determination, made in conjunction with the State of Florida, of the adequacy of the number, location, and design of the recreational access points on I–75/Alligator Alley for access to the Big Cypress National Preserve, including the Addition.
 
-        The determination required by paragraph (5) shall incorporate the results of any related studies of the State of Florida Department of Transportation and other Florida State agencies. Any recommendation for significant changes in the approved recreational access points, including any proposed additions, shall be accompanied by an assessment of the environmental impact of such changes.
+    The determination required by paragraph (5) shall incorporate the results of any related studies of the State of Florida Department of Transportation and other Florida State agencies. Any recommendation for significant changes in the approved recreational access points, including any proposed additions, shall be accompanied by an assessment of the environmental impact of such changes.
 
 ([Pub. L. 93–440, § 11][/us/pl/93/440/s11], as added [Pub. L. 100–301, § 6][/us/pl/100/301/s6], Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
 

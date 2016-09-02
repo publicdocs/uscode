@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835a, 835b.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
+[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835–1.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
 
 ## § 835c. Duties of Secretary of the Interior
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 85–240][/us/pl/85/240], Aug. 30, 1957, [71 Stat. 524][/us/stat/71/524], provided:
 
->     “\[Sec. 1. Purpose Lands Included\]. That it is the purpose of this Act, in connection with the Columbia Basin project, to authorize the disposal of certain Federal property in the unincorporated area in the State of Washington commonly known as the town of Coulee Dam in order that the United States may withdraw from the ownership and operation of the town and that the people of that area may enjoy self-government, to facilitate the establishment by them of a municipal corporation under the laws of the State of Washington, and to authorize the disposal of certain Federal property in and in the immediate vicinity of the city of Grand Coulee, Washington, in order to reduce restrictions on the growth thereof. The area herein referred to as the town area is situated in Douglas, Grant, and Okanogan counties and comprises the following lands:
+> “\[Sec. 1. __Purpose Lands Included\]. That it is the purpose of this Act, in connection with the Columbia Basin project, to authorize the disposal of certain Federal property in the unincorporated area in the State of Washington commonly known as the town of Coulee Dam in order that the United States may withdraw from the ownership and operation of the town and that the people of that area may enjoy self-government, to facilitate the establishment by them of a municipal corporation under the laws of the State of Washington, and to authorize the disposal of certain Federal property in and in the immediate vicinity of the city of Grand Coulee, Washington, in order to reduce restrictions on the growth thereof. The area herein referred to as the town area is situated in Douglas, Grant, and Okanogan counties and comprises the following lands:__ 
 
 >     “Douglas County: Township 29 north, range 30 east, Willamette meridian, section 36, lots 2, 3, 4, east half southwest quarter and southwest quarter southwest quarter.
 
@@ -71,9 +71,7 @@
 
 >     “Township 29 north, range 31 east, Willamette meridian, section 30, all those portions of the south 300 feet of lot 4 included within the area conveyed to the United States of America by warranty deed executed by Charles E. Hopkins, and others on September 11, 1946, and recorded in book 107 of deeds at pages 175 and 176 under Okanogan County auditor’s file numbered 346972 and by warranty deed executed by Charles E. Hopkins, and others on November 7, 1945, recorded in book 102 of deeds at pages 441 and 442 under Okanogan County auditor’s file numbered 339487.
 
->     “Section 31, west half northeast quarter, southeast quarter northwest quarter, east half southwest quarter, northwest quarter northwest quarter southeast quarter, and lots 1, 2, 3, and 4.
-
->     “The area herein referred to as the Grand Coulee area is situated in Grant County and comprises the following lands:
+> “Section 31, west half northeast quarter, southeast quarter northwest quarter, east half southwest quarter, northwest quarter northwest quarter southeast quarter, and lots 1, 2, 3, and 4.    “The area herein referred to as the Grand Coulee area is situated in Grant County and comprises the following lands:
 
 >     “Township 28 north, range 30 east, Willamette meridian, section 11, south one-half north one-half north one-half southwest one-quarter, northeast one-quarter southeast one-quarter.
 
@@ -191,7 +189,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835a, 835b.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
+[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835–1.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
 
 ----------
 ----------

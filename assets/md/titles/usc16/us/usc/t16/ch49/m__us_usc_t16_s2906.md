@@ -15,7 +15,7 @@
 
 ## § 2906. Terms and conditions of reimbursement
 
-Reimbursements made to the States under [section 2905 of this title][/us/usc/t16/s2905] shall be subject to such terms and conditions as the Secretary shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States. Such terms and conditions shall include, but not be limited to, the following:
+    Reimbursements made to the States under [section 2905 of this title][/us/usc/t16/s2905] shall be subject to such terms and conditions as the Secretary shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States. Such terms and conditions shall include, but not be limited to, the following:
 
     (1) Each State and each designated State agency shall keep such records as the Secretary shall require as being necessary or appropriate for fully disclosing the amount and purposes of costs incurred by the State for which reimbursement under [section 2905 of this title][/us/usc/t16/s2905] is, or may be, sought. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for purposes of audit and examination, to such records.
 

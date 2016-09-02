@@ -15,7 +15,7 @@
 
 ## § 410bbb–4. General management plan
 
-Within three years after the date funds are made available therefor and concurrent with the national landmark study referenced in [section 410bbb–1(b)(3) of this title][/us/usc/t16/s410bbb–1/b/3], the Secretary, in consultation with the New Orleans Jazz Commission, shall prepare a general management plan for the historical park. The plan shall include, but need not be limited to—
+    Within three years after the date funds are made available therefor and concurrent with the national landmark study referenced in [section 410bbb–1(b)(3) of this title][/us/usc/t16/s410bbb–1/b/3], the Secretary, in consultation with the New Orleans Jazz Commission, shall prepare a general management plan for the historical park. The plan shall include, but need not be limited to—
 
     (1) a visitor use plan indicating programs and facilities associated with park programs that will be made available to the public;
 

@@ -77,9 +77,9 @@
 
  __Repeal of Section__ 
 
-[Pub. L. 106–562, title I, § 105(c)][/us/pl/106/562/s105/c], Dec. 23, 2000, [114 Stat. 2798][/us/stat/114/2798], provided that, effective on the date on which the Secretary of Commerce makes the certification described in [Pub. L. 106–562, § 105(b)(2)][/us/pl/106/562/s105/b/2], set out in a Termination of Responsibilities note under [section 1161 of this title][/us/usc/t16/s1161], this section is repealed.
+    [Pub. L. 106–562, title I, § 105(c)][/us/pl/106/562/s105/c], Dec. 23, 2000, [114 Stat. 2798][/us/stat/114/2798], provided that, effective on the date on which the Secretary of Commerce makes the certification described in [Pub. L. 106–562, § 105(b)(2)][/us/pl/106/562/s105/b/2], set out in a Termination of Responsibilities note under [section 1161 of this title][/us/usc/t16/s1161], this section is repealed.
 
-Substantially identical provisions repealing this section were contained in [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–247.
+    Substantially identical provisions repealing this section were contained in [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–247.
 
  __References in Text__ 
 

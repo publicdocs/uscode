@@ -15,7 +15,7 @@
 
 ## § 961. Authorization of appropriations
 
-There is hereby authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of each convention and of this chapter, including—
+    There is hereby authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of each convention and of this chapter, including—
 
     (a) contributions to each commission for the United States share of any joint expenses of the commission and the expenses of the United States Commissioners and their staff, including personal services in the District of Columbia and elsewhere;
 

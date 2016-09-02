@@ -15,7 +15,7 @@
 
 ## § 838a. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “Administrator” means the Administrator, Bonneville Power Administration.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204a, 204b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204c)
 
 ## § 204c. Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204a, 204b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204c)
 
 ----------
 ----------

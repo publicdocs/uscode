@@ -15,7 +15,7 @@
 
 ## § 931. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (a) “Convention” means the Convention on Great Lakes Fisheries between the United States of America and Canada signed at Washington, September 10, 1954;
 

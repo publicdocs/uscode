@@ -15,7 +15,7 @@
 
 ## § 502. Rental of property for Forest Service; forage, care, and housing of animals; storage of vehicles and other equipment; pack stock; loss, damage, or destruction of horses, vehicles, and other equipment
 
-The Secretary of Agriculture is authorized, under such regulations as he may prescribe:
+    The Secretary of Agriculture is authorized, under such regulations as he may prescribe:
 
     (a) To hire or rent property from employees of the Forest Service for the use of that Service whenever the public interest will be promoted thereby.
 

@@ -15,7 +15,7 @@
 
 ## § 410aaa–56. Acquisition of lands
 
-The Secretary is authorized to acquire all lands and interest in lands within the boundary of the preserve by donation, purchase, or exchange, except that—
+    The Secretary is authorized to acquire all lands and interest in lands within the boundary of the preserve by donation, purchase, or exchange, except that—
 
     (1) any lands or interests therein within the boundary of the preserve which are owned by the State of California, or any political subdivision thereof, may be acquired only by donation or exchange except for lands managed by the California State Lands Commission; and
 

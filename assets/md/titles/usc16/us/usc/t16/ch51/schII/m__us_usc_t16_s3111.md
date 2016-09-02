@@ -15,7 +15,7 @@
 
 ## § 3111. Congressional declaration of findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, on the public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence;
 

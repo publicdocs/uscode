@@ -15,7 +15,7 @@
 
 ## § 521c. Definitions
 
-For purposes of sections 521c to 521i of this title—
+    For purposes of sections 521c to 521i of this title—
 
     (1) the term “person” includes any State or any political subdivision or entity thereof;
 

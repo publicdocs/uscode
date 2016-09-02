@@ -15,7 +15,7 @@
 
 ## § 839a. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Acquire” and “acquisition” shall not be construed as authorizing the Administrator to construct, or have ownership of, under this chapter or any other law, any electric generating facility.
 

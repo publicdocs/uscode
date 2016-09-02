@@ -15,7 +15,7 @@
 
 ## § 590b. Lands on which preventive measures may be taken
 
-The acts authorized in section 590a(1) and (2) of this title may be performed—
+    The acts authorized in section 590a(1) and (2) of this title may be performed—
 
     (a) On lands owned or controlled by the United States or any of its agencies, with the cooperation of the agency having jurisdiction thereof; and
 

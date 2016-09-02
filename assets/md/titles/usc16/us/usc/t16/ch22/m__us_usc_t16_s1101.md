@@ -15,7 +15,7 @@
 
 ## § 1101. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (a) The term “Commission” means the Roosevelt Campobello International Park Commission.
 

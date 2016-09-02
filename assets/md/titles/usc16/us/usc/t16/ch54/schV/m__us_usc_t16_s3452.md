@@ -15,7 +15,7 @@
 
 ## § 3452. Resource conservation and development program
 
-The Secretary shall establish a resource conservation and development program under which the Secretary shall provide technical assistance and financial assistance to councils to develop and carry out area plans and projects in designated areas—
+    The Secretary shall establish a resource conservation and development program under which the Secretary shall provide technical assistance and financial assistance to councils to develop and carry out area plans and projects in designated areas—
 
     (1) to conserve and improve the use of land, develop natural resources, and improve and enhance the social, economic, and environmental conditions in primarily rural areas of the United States; and
 

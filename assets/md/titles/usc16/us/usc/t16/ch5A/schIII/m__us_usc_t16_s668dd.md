@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668aa to 668cc–6.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_ch5A_schIII.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
 
 ## § 668dd. National Wildlife Refuge System
 
@@ -497,13 +497,15 @@
 
 >                 The members of the Commission appointed by the Secretary of the Interior under paragraph (1)(B)—
 
->                      “(I) shall not be officers or employees of the Federal Government; and
+>                          “(I) shall not be officers or employees of the Federal Government; and
 
->                      “(II) shall, in the judgment of the Secretary—
+>                          “(II)
 
->                     “(aa) represent the diverse beneficiaries of the System; and
+>                      shall, in the judgment of the Secretary—
 
->                     “(bb) have outstanding knowledge or appreciation of wildlife, natural resource management, or wildlife-dependent recreation.
+>                         “(aa) represent the diverse beneficiaries of the System; and
+
+>                         “(bb) have outstanding knowledge or appreciation of wildlife, natural resource management, or wildlife-dependent recreation.
 
 >                 “(ii) __Representation of views.—__ 
 
@@ -1615,7 +1617,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668aa to 668cc–6.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_ch5A_schIII.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
 
 ----------
 ----------

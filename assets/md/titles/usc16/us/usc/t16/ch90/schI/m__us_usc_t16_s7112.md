@@ -41,7 +41,7 @@
 
             (A) __In general__ 
 
-                The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2012 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
+                The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2013 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
 
             (B) __Failure to transmit__ 
 
@@ -55,7 +55,7 @@
 
             (B) __Full funding amount__ 
 
-                If a county elects to receive a share of the State payment or the county payment in 2012, the election shall be effective for all subsequent fiscal years through fiscal year 2012.
+                If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2013.
 
         (3) __Source of payment amounts__ 
 
@@ -151,7 +151,7 @@
 
         The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
-([Pub. L. 106–393, title I, § 102][/us/pl/106/393/s102], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3896][/us/stat/122/3896]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], (3), July 6, 2012, [126 Stat. 905][/us/stat/126/905].)
+([Pub. L. 106–393, title I, § 102][/us/pl/106/393/s102], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3896][/us/stat/122/3896]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], (3), July 6, 2012, [126 Stat. 905][/us/stat/126/905]; [Pub. L. 113–40, § 10(a)(1)(B)][/us/pl/113/40/s10/a/1/B], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545].)
 
  __References in Text__ 
 
@@ -162,6 +162,10 @@
     A prior [section 102 of Pub. L. 106–393][/us/pl/106/393/s102] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(1)(A). [Pub. L. 113–40, § 10(a)(1)(B)(i)][/us/pl/113/40/s10/a/1/B/i], substituted “2013” for “2012”.
+
+    Subsec. (b)(2)(B). [Pub. L. 113–40, § 10(a)(1)(B)(ii)][/us/pl/113/40/s10/a/1/B/ii], substituted “2013” for “2012” in two places.
 
     2012—Subsec. (b)(1)(A). [Pub. L. 112–141, § 100101(a)(3)(A)][/us/pl/112/141/s100101/a/3/A], substituted “2012” for “2008”.
 
@@ -196,6 +200,8 @@
 [/us/stat/122/3896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3896
 [/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
 [/us/stat/126/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F905
+[/us/pl/113/40/s10/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FB
+[/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/stat/114/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1607
 [/us/usc/t16/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7101
@@ -203,6 +209,8 @@
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
+[/us/pl/113/40/s10/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FB%2Fi
+[/us/pl/113/40/s10/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FB%2Fii
 [/us/pl/112/141/s100101/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FA
 [/us/pl/112/141/s100101/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FB
 [/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2

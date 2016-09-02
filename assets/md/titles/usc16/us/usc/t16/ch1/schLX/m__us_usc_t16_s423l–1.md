@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423j to 423l.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423i.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
 
 ## § 423l–1. Short title; definitions
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423j to 423l.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423i.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
 
 ----------
 ----------

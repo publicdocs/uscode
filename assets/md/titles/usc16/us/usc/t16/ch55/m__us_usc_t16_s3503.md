@@ -545,15 +545,15 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >         “(B) all associated aquatic habitats including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters;
 
->         but only if such features and associated habitats contain few manmade structures and these structures, and man’s activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes.
+>     but only if such features and associated habitats contain few manmade structures and these structures, and man’s activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes.
 
->         “(2) the term ‘otherwise protected area’ means an undeveloped coastal barrier within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes;
+>     “(2) the term ‘otherwise protected area’ means an undeveloped coastal barrier within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes;
 
->         “(3) the term ‘qualified organization’ means such an organization under section 170(h)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 170(h)(3)][/us/usc/t26/s170/h/3]);
+>     “(3) the term ‘qualified organization’ means such an organization under section 170(h)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 170(h)(3)][/us/usc/t26/s170/h/3]);
 
->         “(4) the term ‘Secretary’ means the Secretary of the Interior; and
+>     “(4) the term ‘Secretary’ means the Secretary of the Interior; and
 
->         “(5) the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act ([16 U.S.C. 3501][/us/usc/t16/s3501] et seq.), as amended by this Act.”
+>     “(5) the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act ([16 U.S.C. 3501][/us/usc/t16/s3501] et seq.), as amended by this Act.”
 
 ----------
 

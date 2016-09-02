@@ -15,7 +15,7 @@
 
 ## § 460l–1. Powers and duties of Secretary of the Interior
 
-In order to carry out the purposes of this part, the Secretary of the Interior is authorized to perform the following functions and activities:
+    In order to carry out the purposes of this part, the Secretary of the Interior is authorized to perform the following functions and activities:
 
     (a) __Inventory and evaluation of needs and resources__ 
 

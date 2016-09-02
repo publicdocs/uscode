@@ -15,7 +15,7 @@
 
 ## § 410jj–5. Special needs of leprosy patients residing in Kalaupapa settlement; specific provisions
 
-The following provisions are made with respect to the special needs of the leprosy patients residing in the Kalaupapa settlement—
+    The following provisions are made with respect to the special needs of the leprosy patients residing in the Kalaupapa settlement—
 
     (1) So long as the patients may direct, the Secretary shall not permit public visitation to the settlement in excess of one hundred persons in any one day.
 

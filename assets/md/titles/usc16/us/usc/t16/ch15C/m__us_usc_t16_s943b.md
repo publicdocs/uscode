@@ -15,7 +15,7 @@
 
 ## § 943b. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “Secretary” means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
 

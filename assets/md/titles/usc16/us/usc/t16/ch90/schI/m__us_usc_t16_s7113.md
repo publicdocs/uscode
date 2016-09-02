@@ -65,13 +65,13 @@
 
         (1) Payments to the State of California under subsection (b).
 
-        (2) The shares of the eligible counties of the State payment for California under [section 7112 of this title][/us/usc/t16/s7112] for each of fiscal years 2011 and 2012.
+        (2) The shares of the eligible counties of the State payment for California under [section 7112 of this title][/us/usc/t16/s7112] for each of fiscal years 2011 through 2013.
 
     (e) __Treatment of payments__ 
 
         For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under [section 7112(a) of this title][/us/usc/t16/s7112/a].
 
-([Pub. L. 106–393, title I, § 103][/us/pl/106/393/s103], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3899][/us/stat/122/3899]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(4)][/us/pl/112/141/s100101/a/4], July 6, 2012, [126 Stat. 906][/us/stat/126/906].)
+([Pub. L. 106–393, title I, § 103][/us/pl/106/393/s103], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3899][/us/stat/122/3899]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(4)][/us/pl/112/141/s100101/a/4], July 6, 2012, [126 Stat. 906][/us/stat/126/906]; [Pub. L. 113–40, § 10(a)(1)(C)][/us/pl/113/40/s10/a/1/C], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545].)
 
  __References in Text__ 
 
@@ -84,6 +84,8 @@
     A prior [section 103 of Pub. L. 106–393][/us/pl/106/393/s103] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
  __Amendments__ 
+
+    2013—Subsec. (d)(2). [Pub. L. 113–40][/us/pl/113/40] substituted “through 2013” for “and 2012”.
 
     2012—Subsec. (d)(2). [Pub. L. 112–141][/us/pl/112/141] substituted “each of fiscal years 2011 and 2012” for “fiscal year 2011”.
 
@@ -108,6 +110,8 @@
 [/us/stat/122/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3899
 [/us/pl/112/141/s100101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F4
 [/us/stat/126/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F906
+[/us/pl/113/40/s10/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FC
+[/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
@@ -120,6 +124,7 @@
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 
 

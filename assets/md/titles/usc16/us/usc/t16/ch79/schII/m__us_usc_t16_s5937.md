@@ -15,7 +15,7 @@
 
 ## § 5937. Confidentiality of information
 
-Information concerning the nature and specific location of a National Park System resource which is endangered, threatened, rare, or commercially valuable, of mineral or paleontological objects within units of the National Park System, or of objects of cultural patrimony within units of the National Park System, may be withheld from the public in response to a request under [section 552 of title 5][/us/usc/t5/s552], unless the Secretary determines that—
+    Information concerning the nature and specific location of a National Park System resource which is endangered, threatened, rare, or commercially valuable, of mineral or paleontological objects within units of the National Park System, or of objects of cultural patrimony within units of the National Park System, may be withheld from the public in response to a request under [section 552 of title 5][/us/usc/t5/s552], unless the Secretary determines that—
 
     (1) disclosure of the information would further the purposes of the unit of the National Park System in which the resource or object is located and would not create an unreasonable risk of harm, theft, or destruction of the resource or object, including individual organic or inorganic specimens; and
 

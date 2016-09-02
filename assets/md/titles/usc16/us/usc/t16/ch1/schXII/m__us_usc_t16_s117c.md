@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117a, 117b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs117c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117.md) | [Next](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs117c)
 
 ## § 117c. Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117a, 117b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs117c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117.md) | [Next](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs117c)
 
 ----------
 ----------

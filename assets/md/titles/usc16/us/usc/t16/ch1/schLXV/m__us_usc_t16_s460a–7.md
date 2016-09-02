@@ -15,7 +15,7 @@
 
 ## § 460a–7. Coordination of recreational development on parkway and national forest lands; administration of forest land recreational facilities and access road development by Secretary of Agriculture; forest road and Appalachian Trail relocation and reconstruction and alternative forest road provision by Secretary of the Interior
 
-To effectuate the recommendations in the report to the Congress on the North Carolina-Georgia extension of the Blue Ridge Parkway, made pursuant to the Act of August 10, 1961 ([75 Stat. 337][/us/stat/75/337])—
+    To effectuate the recommendations in the report to the Congress on the North Carolina-Georgia extension of the Blue Ridge Parkway, made pursuant to the Act of August 10, 1961 ([75 Stat. 337][/us/stat/75/337])—
 
     (1) The Secretary of the Interior and the Secretary of Agriculture shall, insofar as practicable, coordinate and correlate recreational development on lands within the parkway and adjacent or related national forests land: Provided, That within national forest boundaries recreational developments and facilities on Federal lands other than those actually within the national parkway shall be administered by the Secretary of Agriculture;
 

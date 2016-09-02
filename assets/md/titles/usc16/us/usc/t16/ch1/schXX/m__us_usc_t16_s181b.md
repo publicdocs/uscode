@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s181, 181a.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
+[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s180.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
 
 ## § 181b. Repealed. [June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s181, 181a.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
+[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s180.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
 
 ----------
 ----------

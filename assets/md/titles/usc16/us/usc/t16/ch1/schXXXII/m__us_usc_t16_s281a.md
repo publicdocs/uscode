@@ -15,7 +15,7 @@
 
 ## § 281a. Designation
 
-To implement this purpose the Secretary of the Interior may designate as the Nez Perce National Historical Park various component sites in Federal and non-Federal ownership relating to the early Nez Perce culture, the Lewis and Clark Expedition through the area, the fur trade, missionaries, gold mining and logging, the Nez Perce war of 1877, and such other sites as he finds will depict the role of the Nez Perce country in the westward expansion of the Nation. Sites to be so designated shall include—
+    To implement this purpose the Secretary of the Interior may designate as the Nez Perce National Historical Park various component sites in Federal and non-Federal ownership relating to the early Nez Perce culture, the Lewis and Clark Expedition through the area, the fur trade, missionaries, gold mining and logging, the Nez Perce war of 1877, and such other sites as he finds will depict the role of the Nez Perce country in the westward expansion of the Nation. Sites to be so designated shall include—
 
     (1) Tolo Lake, Idaho;
 
@@ -43,7 +43,7 @@ To implement this purpose the Secretary of the Interior may designate as the Nez
 
     (13) Hasotino Village, Idaho;
 
-        each as described in the National Park Service document entitled “Nez Perce National Historical Park Additions Study”, dated 1990 and Old Chief Joseph’s Gravesite and Cemetery, Oregon, as depicted on the map entitled “Nez Perce Additions”, numbered 429–20–018, and dated September, 1991. Lands added to the Big Hole National Battlefield, Montana, pursuant to paragraph (10) shall become part of, and be placed under the administrative jurisdiction of, the Big Hole National Battlefield, but may be interpreted in accordance with the purposes of this subchapter.
+    each as described in the National Park Service document entitled “Nez Perce National Historical Park Additions Study”, dated 1990 and Old Chief Joseph’s Gravesite and Cemetery, Oregon, as depicted on the map entitled “Nez Perce Additions”, numbered 429–20–018, and dated September, 1991. Lands added to the Big Hole National Battlefield, Montana, pursuant to paragraph (10) shall become part of, and be placed under the administrative jurisdiction of, the Big Hole National Battlefield, but may be interpreted in accordance with the purposes of this subchapter.
 
 ([Pub. L. 89–19, § 2][/us/pl/89/19/s2], May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576, § 2(2)][/us/pl/102/576/s2/2], Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
 

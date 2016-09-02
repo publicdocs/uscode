@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198a, 198b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198c)
 
 ## § 198c. Prohibited acts; rules and regulations; penalties for offenses
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198a, 198b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198c)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 4702. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “aquatic nuisance species” means a nonindigenous species that threatens the diversity or abundance of native species or the ecological stability of infested waters, or commercial, agricultural, aquacultural or recreational activities dependent on such waters;
 

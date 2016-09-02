@@ -15,7 +15,7 @@
 
 ## § 410yy–1. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “Commission” means the Keweenaw Historic Preservation Advisory Commission established by [section 410yy–8 of this title][/us/usc/t16/s410yy–8].
 

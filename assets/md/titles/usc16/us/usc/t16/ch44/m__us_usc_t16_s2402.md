@@ -15,7 +15,7 @@
 
 ## § 2402. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
 

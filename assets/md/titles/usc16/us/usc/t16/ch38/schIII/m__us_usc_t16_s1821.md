@@ -245,15 +245,15 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(d), 308, Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(d), 308, Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
-(1) in subsection (a), (A) by inserting “within the special areas,” immediately before “or for anadromous species” and (B) by striking “beyond the exclusive economic zone” and inserting in lieu thereof “beyond such zone or areas”;
+    (1) in subsection (a), (A) by inserting “within the special areas,” immediately before “or for anadromous species” and (B) by striking “beyond the exclusive economic zone” and inserting in lieu thereof “beyond such zone or areas”;
 
-(2) in subsection (e)(1)(E)(IV)\[iv\], by inserting “or special areas” immediately after “exclusive economic zone”;
+    (2) in subsection (e)(1)(E)(IV)\[iv\], by inserting “or special areas” immediately after “exclusive economic zone”;
 
-(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and
+    (3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and
 
-(4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.
+    (4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.
 
  __References in Text__ 
 

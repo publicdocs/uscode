@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schIII–A/m__us_usc_t16_s19aa to 19gg.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII–B/m__us_usc_t16_s19jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschIII%E2%80%93B)
+[Previous](./../../../../..//us/usc/t16/ch1/schIII–A/m__us_usc_t16_ch1_schIII–A.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII–B/m__us_usc_t16_s19jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschIII%E2%80%93B)
 
 ### SUBCHAPTER III–B—PARK SYSTEM RESOURCE PROTECTION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schIII–A/m__us_usc_t16_s19aa to 19gg.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII–B/m__us_usc_t16_s19jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschIII%E2%80%93B)
+[Previous](./../../../../..//us/usc/t16/ch1/schIII–A/m__us_usc_t16_ch1_schIII–A.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII–B/m__us_usc_t16_s19jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschIII%E2%80%93B)
 
 ----------
 ----------

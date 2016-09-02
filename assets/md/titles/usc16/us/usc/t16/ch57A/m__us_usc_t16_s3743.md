@@ -15,7 +15,7 @@
 
 ## § 3743. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The terms “conserve” and “conservation” mean to use, and the use of, such methods and procedures which are necessary to ensure, to the maximum extent practicable, the well being and enhancement of fish and wildlife and their habitats for the educational, aesthetic, cultural, recreational, scientific, and ecological enrichment of the public. Such methods and procedures may include, but are not limited to, any activity associated with scientific resources management, such as research, census, law enforcement, habitat acquisition, maintenance, development, information, education, population manipulation, propagation, technical assistance to private landowners, live trapping, and transplantation.
 

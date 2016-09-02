@@ -15,7 +15,7 @@
 
 ## § 6401. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to preserve, sustain, and restore the condition of coral reef ecosystems;
 

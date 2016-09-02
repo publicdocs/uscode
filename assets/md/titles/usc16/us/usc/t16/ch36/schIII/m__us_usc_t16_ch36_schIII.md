@@ -17,7 +17,7 @@
 
  __Termination of Subchapter__ 
 
-For termination of subchapter by [section 8 of Pub. L. 95–306][/us/pl/95/306/s8], see Effective and Termination Dates note set out under [section 1671 of this title][/us/usc/t16/s1671].
+    For termination of subchapter by [section 8 of Pub. L. 95–306][/us/pl/95/306/s8], see Effective and Termination Dates note set out under [section 1671 of this title][/us/usc/t16/s1671].
 
 ----------
 

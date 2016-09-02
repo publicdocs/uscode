@@ -275,7 +275,7 @@
 
 >         “(C) the agency revokes the permit for non-compliance with the terms and conditions of the authorization.
 
->         In such cases, the agency may use the Recreation Fee Demonstration Program to provide for operations until a subsequent operator can be found through the offering of a new prospectus.”
+>     In such cases, the agency may use the Recreation Fee Demonstration Program to provide for operations until a subsequent operator can be found through the offering of a new prospectus.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

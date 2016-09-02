@@ -15,7 +15,7 @@
 
 ## § 4262. Purposes
 
-The purposes of this chapter are the following:
+    The purposes of this chapter are the following:
 
     (1) To perpetuate healthy populations of Asian elephants.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–11.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s591, 592.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch4)
+[Previous](./../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–11.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s593.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch4)
 
 ## CHAPTER 4—PROTECTION OF TIMBER, AND DEPREDATIONS
 
@@ -321,12 +321,18 @@
 
 </table>
 
+§§ 591, 592. __Repealed.__  __[__  __Feb. 28, 1933, ch. 131, § 1__  __][/us/act/1933-02-28/ch131/s1]__  __,__  __[__  __47 Stat. 1349__  __][/us/stat/47/1349]__ 
+
+    Sections, R.S. §§ 2458, 2459, related to lands producing live oak and red cedar timbers needed by Navy.
+
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–11.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s591, 592.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch4)
+[Previous](./../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–11.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s593.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch4)
 
 ----------
 ----------
 
+[/us/act/1933-02-28/ch131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-28%2Fch131%2Fs1
+[/us/stat/47/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1349
 
 

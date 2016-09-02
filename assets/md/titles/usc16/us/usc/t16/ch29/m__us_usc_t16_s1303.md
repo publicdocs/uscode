@@ -15,7 +15,7 @@
 
 ## § 1303. Terms of agreement; required provisions
 
-In the agreement between the Secretary and an owner or operator, the owner or operator shall agree—
+    In the agreement between the Secretary and an owner or operator, the owner or operator shall agree—
 
     (1) to place in the program for the period of the agreement eligible wetland areas he designates, which areas may include wetlands covered by a Federal or State government easement which permits agricultural use, together with such adjacent areas as determined desirable by the Secretary;
 

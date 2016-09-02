@@ -15,7 +15,7 @@
 
 ## § 5302. Purposes
 
-The purposes of this chapter are the following:
+    The purposes of this chapter are the following:
 
     (1) To assist in the conservation of rhinoceros and tigers by supporting the conservation programs of nations whose activities directly or indirectly affect rhinoceros and tiger populations, and the CITES Secretariat.
 

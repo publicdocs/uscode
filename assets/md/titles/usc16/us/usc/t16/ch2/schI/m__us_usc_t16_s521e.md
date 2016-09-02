@@ -15,7 +15,7 @@
 
 ## § 521e. Small parcels and road rights-of-way
 
-The National Forest System lands which may be sold, exchanged, or interchanged under sections 521c to 521i of this title are those the sale or exchange of which is not practicable under any other authority of the Secretary, which have a value as determined by the Secretary of not more than $150,000, and which are—
+    The National Forest System lands which may be sold, exchanged, or interchanged under sections 521c to 521i of this title are those the sale or exchange of which is not practicable under any other authority of the Secretary, which have a value as determined by the Secretary of not more than $150,000, and which are—
 
     (1) parcels of forty acres or less which are interspersed with or adjacent to lands which have been transferred out of Federal ownership under the mining laws and which are determined by the Secretary, because of location or size, not to be subject to efficient administration;
 

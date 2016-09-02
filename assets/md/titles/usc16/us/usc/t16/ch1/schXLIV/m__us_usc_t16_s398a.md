@@ -15,7 +15,7 @@
 
 ## § 398a. Conditions and limitations
 
-The Secretary of the Interior is authorized subject to the following conditions and limitations, to proceed in such manner as he shall find to be necessary in the public interest to consummate the establishment of the Virgin Islands National Park:
+    The Secretary of the Interior is authorized subject to the following conditions and limitations, to proceed in such manner as he shall find to be necessary in the public interest to consummate the establishment of the Virgin Islands National Park:
 
     (a) The acreage of the national park shall be limited to a total of not more than nine thousand five hundred acres of land area, such total to be comprised of not more than fifteen acres on the island of Saint Thomas, and not more than nine thousand four hundred and eighty-five additional acres to be comprised of portions of the island of Saint John and such small islands, rocks, and cays not in excess of five hundred acres in the general vicinity thereof as may be desirable for inclusion within the park;
 

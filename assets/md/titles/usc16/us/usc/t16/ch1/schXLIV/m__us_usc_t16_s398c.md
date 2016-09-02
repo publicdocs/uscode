@@ -17,7 +17,7 @@
 
     In furtherance of the purposes of sections 398 and 398a of this title, providing for the establishment of the Virgin Islands National Park, and in order to preserve for the benefit of the public significant coral gardens, marine life, and seascapes in the vicinity thereof, the boundaries of such park, subject to valid existing rights, are revised to include the adjoining lands, submerged lands, and waters, and Hassel Island located in Saint Thomas Harbor and adjoining lands, submerged lands, and waters, described as follows:
 
-    North Offshore Area
+North Offshore Area
 
     Beginning at the hereinafter lettered point A on the shore of Cruz Bay, a corner in the Virgin Islands National Park boundary, being also a corner of lot F, Cruz Bay, added to the park by order of designation signed June 29, 1960, by the Assistant Secretary of the Interior pursuant to sections 398 and 398a of this title, and published in the Federal Register of July 7, 1960, the said corner being the terminus of the course recited therein as “north 58 degrees 50 minutes west a distance of 20.0 feet, more or less, along Government land to a point;” for the third call in the metes and bounds description lot F, Cruz Bay.
 
@@ -43,7 +43,7 @@
 
     The area described contains approximately 4,100 acres.
 
-    South Offshore Area
+South Offshore Area
 
     Beginning at the hereinafter lettered point L, a concrete bound post on the short of Drunk Bay marking a northeasterly corner in the Virgin Islands National Park boundary as shown on the said drawing numbered NP–VI–7000, being also the northeasterly corner of parcel numbered 1, estate Concordia (A), as delineated on the Leo R. Sibilly, civil engineer, drawing file numbered C9–13–T55.
 
@@ -67,7 +67,7 @@
 
     The area described contains approximately 1,550 acres.
 
-    Hassel Island
+Hassel Island
 
     The area known as Hassel Island in Saint Thomas Harbor consisting of approximately 135 acres, together with such adjoining lands, submerged lands, and waters as the Secretary of the Interior deems appropriate, but the boundaries shall not, in any event, extend beyond 100 yards from the mean high water mark of the island.
 

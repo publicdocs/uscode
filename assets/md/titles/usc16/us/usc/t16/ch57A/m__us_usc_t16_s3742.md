@@ -15,7 +15,7 @@
 
 ## § 3742. Purposes
 
-The purposes of this chapter are to establish a partnership among the United States Fish and Wildlife Service, designated State agencies, and private organizations and individuals—
+    The purposes of this chapter are to establish a partnership among the United States Fish and Wildlife Service, designated State agencies, and private organizations and individuals—
 
     (1) to carry out wildlife conservation and appreciation projects to conserve the entire array of diverse fish and wildlife species in the United States and to provide opportunities for the public to use and enjoy these fish and wildlife species through nonconsumptive activities;
 

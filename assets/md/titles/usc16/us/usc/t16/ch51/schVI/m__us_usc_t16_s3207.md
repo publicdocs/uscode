@@ -15,7 +15,7 @@
 
 ## § 3207. Effect on existing rights; water resources
 
-Nothing in this Act shall be construed as limiting or restricting the power and authority of the United States or—
+    Nothing in this Act shall be construed as limiting or restricting the power and authority of the United States or—
 
     (1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on lands within the State of Alaska;
 

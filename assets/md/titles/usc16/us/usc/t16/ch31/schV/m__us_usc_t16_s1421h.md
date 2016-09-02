@@ -15,7 +15,7 @@
 
 ## § 1421h. Definitions
 
-In this subchapter, the following definitions apply:
+    In this subchapter, the following definitions apply:
 
     (1) The term “Fund” means the Marine Mammal Unusual Mortality Event Fund established by [section 1421d(a) of this title][/us/usc/t16/s1421d/a].
 

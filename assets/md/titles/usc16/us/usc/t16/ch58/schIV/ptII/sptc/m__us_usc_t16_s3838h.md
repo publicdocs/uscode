@@ -15,7 +15,7 @@
 
 ## § 3838h. Definitions
 
-In this subpart:
+    In this subpart:
 
     (1) __Eligible entity__ 
 

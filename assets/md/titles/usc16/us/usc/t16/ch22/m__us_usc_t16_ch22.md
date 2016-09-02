@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch21C/m__us_usc_t16_s1100b to 1100b–10.md) | [Next](./../../../..//us/usc/t16/ch22/m__us_usc_t16_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch22)
+[Previous](./../../../..//us/usc/t16/ch21C/m__us_usc_t16_ch21C.md) | [Next](./../../../..//us/usc/t16/ch22/m__us_usc_t16_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch22)
 
 ## CHAPTER 22—INTERNATIONAL PARKS
 
@@ -131,7 +131,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch21C/m__us_usc_t16_s1100b to 1100b–10.md) | [Next](./../../../..//us/usc/t16/ch22/m__us_usc_t16_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch22)
+[Previous](./../../../..//us/usc/t16/ch21C/m__us_usc_t16_ch21C.md) | [Next](./../../../..//us/usc/t16/ch22/m__us_usc_t16_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch22)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117e to 117j.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
+[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
 
 ## § 118. Appropriations; availability for operation of Aileen Nusbaum Hospital
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117e to 117j.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
+[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
 
 ----------
 ----------

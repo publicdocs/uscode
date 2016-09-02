@@ -15,7 +15,7 @@
 
 ## § 6204. Administration of recreation residence program
 
-The Secretary shall ensure, to the maximum extent practicable, that the basis and procedure for calculating cabin user fees results in a fee for an authorization that reflects, in accordance with this chapter—
+    The Secretary shall ensure, to the maximum extent practicable, that the basis and procedure for calculating cabin user fees results in a fee for an authorization that reflects, in accordance with this chapter—
 
     (1) the market value of a lot; and
 

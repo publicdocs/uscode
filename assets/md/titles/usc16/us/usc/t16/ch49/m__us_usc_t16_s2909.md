@@ -15,7 +15,7 @@
 
 ## § 2909. Disclaimers
 
-Nothing in this chapter shall be construed as affecting—
+    Nothing in this chapter shall be construed as affecting—
 
     (1) the authority, jurisdiction, or responsibility of the States to manage, control, or regulate fish and resident wildlife under State law;
 

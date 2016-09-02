@@ -179,7 +179,7 @@
 
  __Amendment of Subsection (b)(2)__ 
 
-[Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(i), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.
+    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(i), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.
 
  __References in Text__ 
 

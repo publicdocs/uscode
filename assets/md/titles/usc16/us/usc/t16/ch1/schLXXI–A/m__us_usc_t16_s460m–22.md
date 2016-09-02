@@ -15,7 +15,7 @@
 
 ## § 460m–22. General management plan; submission to Congressional committees
 
-Within three years from November 10, 1978, the Secretary shall develop and transmit to the Senate Committee on Energy and Natural Resources and the House Committee on Interior and Insular Affairs, a general management plan for the protection and development of the national river consistent with the purposes of this subchapter, indicating—
+    Within three years from November 10, 1978, the Secretary shall develop and transmit to the Senate Committee on Energy and Natural Resources and the House Committee on Interior and Insular Affairs, a general management plan for the protection and development of the national river consistent with the purposes of this subchapter, indicating—
 
     (1) measures for the preservation of the area’s resources;
 

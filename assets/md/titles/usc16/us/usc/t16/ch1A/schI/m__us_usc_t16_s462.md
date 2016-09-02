@@ -15,7 +15,7 @@
 
 ## § 462. Administration by Secretary of the Interior; powers and duties enumerated
 
-The Secretary of the Interior (hereinafter in sections 461 to 467 of this title referred to as the Secretary), through the National Park Service, for the purpose of effectuating the policy expressed in [section 461 of this title][/us/usc/t16/s461], shall have the following powers and perform the following duties and functions:
+    The Secretary of the Interior (hereinafter in sections 461 to 467 of this title referred to as the Secretary), through the National Park Service, for the purpose of effectuating the policy expressed in [section 461 of this title][/us/usc/t16/s461], shall have the following powers and perform the following duties and functions:
 
     (a) Secure, collate, and preserve drawings, plans, photographs, and other data of historic and archaeologic sites, buildings, and objects.
 
@@ -53,7 +53,9 @@ The Secretary of the Interior (hereinafter in sections 461 to 467 of this title 
 
 [Pub. L. 96–344, § 1][/us/pl/96/344/s1], Sept. 8, 1980, [94 Stat. 1133][/us/stat/94/1133], provided: 
 
-> “That (a) in furtherance of the purposes of sub[section 2(e) of the Act of August 21, 1935][/us/act/1935-08-21/s2/e] ([49 Stat. 666][/us/stat/49/666]) \[subsec. (e) of this section\], the Secretary of the Interior may provide financial assistance for the maintenance and protection of the Folger Library and the Corcoran Gallery of Art.
+>     “That 
+
+>     (a) in furtherance of the purposes of sub[section 2(e) of the Act of August 21, 1935][/us/act/1935-08-21/s2/e] ([49 Stat. 666][/us/stat/49/666]) \[subsec. (e) of this section\], the Secretary of the Interior may provide financial assistance for the maintenance and protection of the Folger Library and the Corcoran Gallery of Art.
 
 >     “(b) Authority to enter into contracts or cooperative agreements, to incur obligations, or to make payments under this Act \[[Pub. L. 96–344][/us/pl/96/344], Sept. 8, 1980, [94 Stat. 1133][/us/stat/94/1133]\] shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
 

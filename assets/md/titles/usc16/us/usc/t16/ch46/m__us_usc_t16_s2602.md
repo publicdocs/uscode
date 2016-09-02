@@ -15,7 +15,7 @@
 
 ## § 2602. Definitions
 
-As used in this Act, except as otherwise specifically provided—
+    As used in this Act, except as otherwise specifically provided—
 
     (1) The term “antitrust laws” includes the Sherman Antitrust Act ([15 U.S.C. 1][/us/usc/t15/s1] and following), the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12] and following), the Federal Trade Commission Act ([15 U.S.C. 14][/us/usc/t15/s14]\[41\] and following), the Wilson Tariff Act ([15 U.S.C. 8][/us/usc/t15/s8] and 9), and the Act of June 19, 1936, chapter 592 ([15 U.S.C. 13][/us/usc/t15/s13], 13a, 13b, and 21A).
 

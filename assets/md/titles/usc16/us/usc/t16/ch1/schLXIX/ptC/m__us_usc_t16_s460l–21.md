@@ -15,7 +15,7 @@
 
 ## § 460l–21. Definitions
 
-As used in this part:
+    As used in this part:
 
     (a) The term “project” shall mean a project or any appropriate unit thereof.
 

@@ -15,7 +15,7 @@
 
 ## § 410aaa. Findings
 
-The Congress hereby finds that—
+    The Congress hereby finds that—
 
     (1) proclamations by Presidents Herbert Hoover in 1933 and Franklin Roosevelt in 1937 established and expanded the Death Valley National Monument for the preservation of the unusual features of scenic, scientific, and educational interest therein contained;
 
@@ -147,11 +147,19 @@ The Congress hereby finds that—
 
 >             Recognizing the mutual interests and responsibilities of the Tribe and the National Park Service in and for the conservation and protection of the resources in the area described in paragraph (1), development in the area shall be limited to—
 
->                 “(i) for purposes of community and residential development—         “(I) a maximum of 50 single-family residences; and
+>                 “(i)
+
+>                  for purposes of community and residential development—
+
+>                          “(I) a maximum of 50 single-family residences; and
 
 >                          “(II) a tribal community center with space for tribal offices, recreation facilities, a multipurpose room and kitchen, and senior and youth facilities;
 
->                 “(ii) for purposes of economic development—         “(I) a small-to-moderate desert inn; and
+>                 “(ii)
+
+>                  for purposes of economic development—
+
+>                          “(I) a small-to-moderate desert inn; and
 
 >                          “(II) a tribal museum and cultural center with a gift shop; and
 

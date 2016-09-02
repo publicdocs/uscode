@@ -15,7 +15,7 @@
 
 ## § 450bb–2. Maintenance of museum; acceptance of museum articles; construction of roads, etc.
 
-The Secretary is authorized to—
+    The Secretary is authorized to—
 
     (1) Maintain, either in an existing structure acquired under the provisions of [section 450bb of this title][/us/usc/t16/s450bb] or in a building constructed by him for the purpose, a museum for relics and records pertaining to historic events that took place at Harpers Ferry, and for other relics of national and patriotic interest, and to accept on behalf of the United States, for installation in such museum, articles which may be offered as additions to the museum;
 

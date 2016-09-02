@@ -15,7 +15,7 @@
 
 ## § 3146. Transportation alternatives portion of study
 
-In studying oil and gas alternative transportation systems, the Secretary shall consult with the Secretary of Transportation and shall consider—
+    In studying oil and gas alternative transportation systems, the Secretary shall consult with the Secretary of Transportation and shall consider—
 
     (1) the extent to which environmentally and economically feasible alternative routes could be established;
 

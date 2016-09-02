@@ -15,7 +15,7 @@
 
 ## § 698u–1. Definitions
 
-In sections 698u to 698u–7 of this title:
+    In sections 698u to 698u–7 of this title:
 
     (1) __Advisory Committee__ 
 

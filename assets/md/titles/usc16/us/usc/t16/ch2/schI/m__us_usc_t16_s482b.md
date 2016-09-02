@@ -23,33 +23,43 @@
 
 [Pub. L. 95–200][/us/pl/95/200], Nov. 23, 1977, [91 Stat. 1425][/us/stat/91/1425], as amended by [Pub. L. 104–208, div. B, title VI][/us/pl/104/208], §§ 601 to 604, Sept. 30, 1996, [110 Stat. 3009–541][/us/stat/110/3009-541]; [Pub. L. 104–333, div. I, title X, § 1026(a)][/us/pl/104/333/s1026/a], Nov. 12, 1996, [110 Stat. 4228][/us/stat/110/4228]; [Pub. L. 107–30][/us/pl/107/30], §§ 1, 2(a), (c), Aug. 20, 2001, [115 Stat. 210][/us/stat/115/210], 211, provided that:
 
- __“preamble__ 
+>  __“preamble__ 
 
-    “The Congress finds that an area of land in the State of Oregon known variously as the Bull Run National Forest and the Bull Run Forest Reserve is presently the source of the sole domestic water supply for the city of Portland, Oregon (hereinafter called the ‘city’) and other local governmental units and persons in the Portland metropolitan area, reserved for the city by a Presidential proclamation issued in 1892 and furnishing an extremely valuable resource of pure clear raw potable water, the continued production of which should be the principal management objective in the area hereinafter referred to as ‘the unit’; that the said area is now managed under terms of a Federal court decree issued pursuant to turn of the century law which does not appropriately address present and future needs and opportunities for the protection, management, and utilization of the resources contained therein.
+>     “The Congress finds that an area of land in the State of Oregon known variously as the Bull Run National Forest and the Bull Run Forest Reserve is presently the source of the sole domestic water supply for the city of Portland, Oregon (hereinafter called the ‘city’) and other local governmental units and persons in the Portland metropolitan area, reserved for the city by a Presidential proclamation issued in 1892 and furnishing an extremely valuable resource of pure clear raw potable water, the continued production of which should be the principal management objective in the area hereinafter referred to as ‘the unit’; that the said area is now managed under terms of a Federal court decree issued pursuant to turn of the century law which does not appropriately address present and future needs and opportunities for the protection, management, and utilization of the resources contained therein.
 
- __“section 1. establishment of special resources management unit; definition of secretary__ 
+>  __“section 1. establishment of special resources management unit; definition of secretary__ 
 
-    “(a) Definition of Secretary.—In this Act, the term ‘Secretary’ means—
+>     “(a) __Definition of Secretary.—__ 
 
-    “(1) with respect to land administered by the Secretary of Agriculture, the Secretary of Agriculture; and
+>     In this Act, the term ‘Secretary’ means—
 
-    “(2) with respect to land administered by the Secretary of the Interior, the Secretary of the Interior.
+>         “(1) with respect to land administered by the Secretary of Agriculture, the Secretary of Agriculture; and
 
-    “(b) Establishment.—
+>         “(2) with respect to land administered by the Secretary of the Interior, the Secretary of the Interior.
 
-    “(1) In general.—There is established, subject to valid existing rights, a special resources management unit in the State of Oregon, comprising approximately 98,272 acres, as depicted on a map dated May 2000 and entitled ‘Bull Run Watershed Management Unit’.
+>     “(b) __Establishment.—__ 
 
-    “(2) Map.—The map described in paragraph (1) shall be on file and available for public inspection in the offices of—
+>         “(1) __In general.—__ 
 
-    “(A) the Regional Forester-Pacific Northwest Region of the Forest Service; and
+>         There is established, subject to valid existing rights, a special resources management unit in the State of Oregon, comprising approximately 98,272 acres, as depicted on a map dated May 2000 and entitled ‘Bull Run Watershed Management Unit’.
 
-    “(B) the Oregon State Director of the Bureau of Land Management.
+>         “(2) __Map.—__ 
 
-    “(3) Boundary adjustments.—The Secretary may periodically make such minor adjustments in the boundaries of the unit as are necessary, after consulting with the city and providing for appropriate public notice and hearings.
+>         The map described in paragraph (1) shall be on file and available for public inspection in the offices of—
 
- __“management__ 
+>             “(A) the Regional Forester-Pacific Northwest Region of the Forest Service; and
 
-“Sec. 2. (a) The unit and the renewable resources therein, shall be administered as a watershed by the Secretary in accordance with the laws, rules, and regulations applicable to land under the administrative jurisdiction of the Forest Service (in the case of land administered by the Secretary of Agriculture) or applicable to land under the administrative jurisdiction of the Bureau of Land Management (in the case of land administered by the Secretary of the Interior) except to the extent that any management plan or practice is found by the Secretary to have a significant adverse effect on compliance with the water quality standards referred to in section 2(c) hereof or on the quantity of the water produced thereon for the use of the city, and other local government units and persons using such water under agreements with the city (and the Secretary shall take into consideration the cumulative effect of individually insignificant degradations), in which case, and notwithstanding any other provision of law, the management plan and all relevant leases, permits, contracts, rights-of-way, or other rights or authorizations issued pursuant thereto shall forthwith be altered by the Secretary to eliminate such adverse effect by application of different techniques or prohibitions of one or more such practices or uses: Provided, however, That use of such water for the production of energy and the transmission of such energy through and over the unit are deemed consistent with the purposes of this Act and the rights-of-way heretofore granted to Bonneville Power Administration by the Forest Service through and over the unit are validated and confirmed and deemed consistent with the purposes of this Act.
+>             “(B) the Oregon State Director of the Bureau of Land Management.
+
+>         “(3) __Boundary adjustments.—__ 
+
+>         The Secretary may periodically make such minor adjustments in the boundaries of the unit as are necessary, after consulting with the city and providing for appropriate public notice and hearings.
+
+>  __“management__ 
+
+> “Sec. 2.
+
+>      (a) The unit and the renewable resources therein, shall be administered as a watershed by the Secretary in accordance with the laws, rules, and regulations applicable to land under the administrative jurisdiction of the Forest Service (in the case of land administered by the Secretary of Agriculture) or applicable to land under the administrative jurisdiction of the Bureau of Land Management (in the case of land administered by the Secretary of the Interior) except to the extent that any management plan or practice is found by the Secretary to have a significant adverse effect on compliance with the water quality standards referred to in section 2(c) hereof or on the quantity of the water produced thereon for the use of the city, and other local government units and persons using such water under agreements with the city (and the Secretary shall take into consideration the cumulative effect of individually insignificant degradations), in which case, and notwithstanding any other provision of law, the management plan and all relevant leases, permits, contracts, rights-of-way, or other rights or authorizations issued pursuant thereto shall forthwith be altered by the Secretary to eliminate such adverse effect by application of different techniques or prohibitions of one or more such practices or uses: Provided, however, That use of such water for the production of energy and the transmission of such energy through and over the unit are deemed consistent with the purposes of this Act and the rights-of-way heretofore granted to Bonneville Power Administration by the Forest Service through and over the unit are validated and confirmed and deemed consistent with the purposes of this Act.
 
 >     “(b) __Timber Cutting.—__ 
 
@@ -101,17 +111,19 @@
 
 >         Provided, That no regulation promulgated pursuant to this subsection shall prohibit ingress or egress to non-Federal lands or to authorized occupancies on, or uses of, Federal lands: Provided further, That the Secretary may independently and directly prohibit or restrict all entry into the unit during fire or other emergencies as he may determine.
 
- __“effect on other laws__ 
+>  __“effect on other laws__ 
 
-    “Sec. 3. (a) Nothing in this Act shall terminate or affect any lease, permit, contract, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act \[Nov. 23, 1977\] and otherwise valid except for the provisions of [section 1862 of title 18][/us/usc/t18/s1862] of the United States Code.
+> “Sec. 3.
 
-    “(b) Nothing in this Act shall in any way affect any law governing appropriation or use of, or Federal right to, water on National Forest System lands; or as expanding or diminishing Federal, State, or local jurisdiction, responsibility, interests, or rights in water resources development or control.
+>      (a) Nothing in this Act shall terminate or affect any lease, permit, contract, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act \[Nov. 23, 1977\] and otherwise valid except for the provisions of [section 1862 of title 18][/us/usc/t18/s1862] of the United States Code.
 
-    “(c) [Section 1862 of title 18][/us/usc/t18/s1862] of the United States Code is hereby repealed.
+>     “(b) Nothing in this Act shall in any way affect any law governing appropriation or use of, or Federal right to, water on National Forest System lands; or as expanding or diminishing Federal, State, or local jurisdiction, responsibility, interests, or rights in water resources development or control.
 
-    “(d) Except as otherwise provided for herein, this Act shall take precedence over and supersede all State and local laws dealing with or affecting the subject matter of this Act.
+>     “(c) [Section 1862 of title 18][/us/usc/t18/s1862] of the United States Code is hereby repealed.
 
-    “(e) Challenge to actions taken by any governmental unit or official under the provisions of this Act shall not be sustained by any court except upon a showing or arbitrary, unreasonable, capricious, or illegal action or an absence of substantial good faith compliance with the procedural provisions hereof substantially prejudicing the rights of an interested party.”
+>     “(d) Except as otherwise provided for herein, this Act shall take precedence over and supersede all State and local laws dealing with or affecting the subject matter of this Act.
+
+>     “(e) Challenge to actions taken by any governmental unit or official under the provisions of this Act shall not be sustained by any court except upon a showing or arbitrary, unreasonable, capricious, or illegal action or an absence of substantial good faith compliance with the procedural provisions hereof substantially prejudicing the rights of an interested party.”
 
 ----------
 

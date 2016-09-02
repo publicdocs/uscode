@@ -15,7 +15,7 @@
 
 ## § 460ss–6. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) The term “program” means the Klamath River Basin Conservation Area Restoration Program established under [section 460ss–1(b) of this title][/us/usc/t16/s460ss–1/b].
 

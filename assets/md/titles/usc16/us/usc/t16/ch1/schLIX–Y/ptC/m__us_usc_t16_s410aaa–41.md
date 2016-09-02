@@ -15,7 +15,7 @@
 
 ## § 410aaa–41. Findings
 
-The Congress hereby finds that—
+    The Congress hereby finds that—
 
     (1) Death Valley and Joshua Tree National Parks, as established by this Act, protect unique and superlative desert resources, but do not embrace the particular ecosystems and transitional desert type found in the Mojave Desert area lying between them on public lands now afforded only impermanent administrative designation as a national scenic area;
 

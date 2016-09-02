@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s564, 565.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s563.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
 
 ## § 565a. Cooperation by Secretary of Agriculture with Territories
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s564, 565.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s563.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
 
 ----------
 ----------

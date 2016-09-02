@@ -173,7 +173,7 @@
 
 >     “(3) 2 shall be appointed to a term of 6 years;
 
->         as specified by the Secretary of the Interior at the time of appointment.”
+>     as specified by the Secretary of the Interior at the time of appointment.”
 
  __Completion of Appointments__ 
 

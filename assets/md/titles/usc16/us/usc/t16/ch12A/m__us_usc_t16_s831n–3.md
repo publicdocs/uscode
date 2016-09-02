@@ -15,7 +15,7 @@
 
 ## § 831n–3. Use of funds; limitation of issuance
 
-With the approval of the Secretary of the Treasury the Corporation is authorized, after the date of enactment of this section, to issue bonds not to exceed in the aggregate $61,500,000. Such bonds may be sold by the Corporation to obtain funds which may be used for the following purposes only:
+    With the approval of the Secretary of the Treasury the Corporation is authorized, after the date of enactment of this section, to issue bonds not to exceed in the aggregate $61,500,000. Such bonds may be sold by the Corporation to obtain funds which may be used for the following purposes only:
 
     (1) Not to exceed $46,000,000 may be used for the purchase of electric utility properties of the Tennessee Electric Power Company and Southern Tennessee Power Company, as contemplated in the contract between the Corporation and the Commonwealth and Southern Corporation and others, dated as of May 12, 1939.
 

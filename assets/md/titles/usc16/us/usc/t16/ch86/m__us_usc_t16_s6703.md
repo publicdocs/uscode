@@ -15,7 +15,7 @@
 
 ## § 6703. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Adaptive ecosystem management__ 
 

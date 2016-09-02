@@ -15,7 +15,7 @@
 
 ## § 3638. General standard
 
-All actions taken under sections 3632(g), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  3633, 3635, and 3636 of this title shall—
+    All actions taken under sections 3632(g), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  3633, 3635, and 3636 of this title shall—
 
     (a) take into account the best scientific information available;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204e to 204j.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204k)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204k)
 
 ## § 204k. Addition of lands
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204e to 204j.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204k)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXII/m__us_usc_t16_s204l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs204k)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 469c–2. Costs for identification, surveys, evaluation and data recovery with respect to historic properties
 
-Notwithstanding [section 469c(a) of this title][/us/usc/t16/s469c/a], or any other provision of law to the contrary—
+    Notwithstanding [section 469c(a) of this title][/us/usc/t16/s469c/a], or any other provision of law to the contrary—
 
     (1) identification, surveys, and evaluation carried out with respect to historic properties within project areas may be treated for purposes of any law or rule of law as planning costs of the project and not as costs of mitigation;
 

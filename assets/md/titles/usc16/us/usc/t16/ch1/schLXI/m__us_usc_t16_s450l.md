@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450f to 450k.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450l)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450e–1.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450l)
 
 ## § 450l. Fort Stanwix National Monument; establishment
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450f to 450k.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450l)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450e–1.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450l)
 
 ----------
 ----------

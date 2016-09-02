@@ -15,7 +15,7 @@
 
 ## § 5002. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Anadromous stocks” means stocks of species listed in the Annex to the Convention that migrate into the Convention area.
 

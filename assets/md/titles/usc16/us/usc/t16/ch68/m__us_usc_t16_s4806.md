@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4801 to 4805.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4807.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4806)
+[Previous](./../../../..//us/usc/t16/ch68/m__us_usc_t16_ch68.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4807.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4806)
 
 ## § 4806. Repealed. [Pub. L. 105–362, title IX, § 901(a)(1)][/us/pl/105/362/s901/a/1], Nov. 10, 1998, [112 Stat. 3289][/us/stat/112/3289]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4801 to 4805.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4807.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4806)
+[Previous](./../../../..//us/usc/t16/ch68/m__us_usc_t16_ch68.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4807.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4806)
 
 ----------
 ----------

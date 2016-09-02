@@ -15,7 +15,7 @@
 
 ## § 1251. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “high potential historic sites” means those historic sites related to the route, or sites in close proximity thereto, which provide opportunity to interpret the historic significance of the trail during the period of its major use. Criteria for consideration as high potential sites include historic significance, presence of visible historic remnants, scenic quality, and relative freedom from intrusion.
 

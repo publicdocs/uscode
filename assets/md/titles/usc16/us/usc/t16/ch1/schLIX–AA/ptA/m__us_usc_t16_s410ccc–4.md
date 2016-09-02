@@ -15,7 +15,7 @@
 
 ## § 410ccc–4. General management plan
 
-Within 3 years after the date funds are made available therefor and in consultation with the Cane River Heritage Area Commission, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Cane River National Heritage Area Commission,”. </sup></sup>  the National Park Service shall prepare a general management plan for the historical park. The plan shall include, but need not be limited to—
+    Within 3 years after the date funds are made available therefor and in consultation with the Cane River Heritage Area Commission, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Cane River National Heritage Area Commission,”. </sup></sup>  the National Park Service shall prepare a general management plan for the historical park. The plan shall include, but need not be limited to—
 
     (1) a visitor use plan indicating programs and facilities that will be provided for public use, including the location and cost of an interpretive center;
 

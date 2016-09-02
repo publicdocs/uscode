@@ -15,7 +15,7 @@
 
 ## § 951. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (a) “convention” includes (1) the Convention for the Establishment of an International Commission for the Scientific Investigation of Tuna, signed at Mexico City, January 25, 1949, by the United States of America and the United Mexican States, (2) the Convention for the Establishment of an Inter-American Tropical Tuna Commission, signed at Washington, May 31, 1949, by the United States of America and the Republic of Costa Rica, or both such conventions, as the context requires;
 

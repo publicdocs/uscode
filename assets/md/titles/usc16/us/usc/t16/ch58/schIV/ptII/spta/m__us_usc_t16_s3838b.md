@@ -15,7 +15,7 @@
 
 ## § 3838b. Duties of producers
 
-Under a conservation security contract, a producer shall agree, during the term of the conservation security contract—
+    Under a conservation security contract, a producer shall agree, during the term of the conservation security contract—
 
     (1) to implement the applicable conservation security plan approved by the Secretary;
 

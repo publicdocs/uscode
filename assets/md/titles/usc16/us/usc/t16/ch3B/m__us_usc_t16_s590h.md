@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g–1, 590g–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–1, 590h–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
 
 ## § 590h. Payments and grants of aid
 
@@ -81,17 +81,27 @@
 
                     (III) __Nominations__ 
 
-                        (aa) Eligibility    To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the area under the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
+                        (aa) __Eligibility__ 
 
-                        (bb) Outreach    In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2003(e)(1)][/us/usc/t7/s2003/e/1]). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be preceded by an additional closing parenthesis. </sup></sup> 
+                            To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the area under the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
+
+                        (bb) __Outreach__ 
+
+                            In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2003(e)(1)][/us/usc/t7/s2003/e/1]). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be preceded by an additional closing parenthesis. </sup></sup> 
 
                     (IV) __Opening of ballots__ 
 
-                        (aa) Public notice    At least 10 days before the date on which ballots are to be opened and counted, a county, area, or local committee shall announce the date, time, and place at which election ballots will be opened and counted.
+                        (aa) __Public notice__ 
 
-                        (bb) Opening of ballots    Election ballots shall not be opened until the date and time announced under item (aa).
+                            At least 10 days before the date on which ballots are to be opened and counted, a county, area, or local committee shall announce the date, time, and place at which election ballots will be opened and counted.
 
-                        (cc) Observation    Any person may observe the opening and counting of the election ballots.
+                        (bb) __Opening of ballots__ 
+
+                            Election ballots shall not be opened until the date and time announced under item (aa).
+
+                        (cc) __Observation__ 
+
+                            Any person may observe the opening and counting of the election ballots.
 
                     (V) __Report of election__ 
 
@@ -117,11 +127,17 @@
 
                     (VII) __Election reform__ 
 
-                        (aa) Analysis    If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
+                        (aa) __Analysis__ 
 
-                        (bb) Inclusion    The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+                            If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
 
-                        (cc) Methods of inclusion    Notwithstanding clause (ii), the Secretary may ensure inclusion of socially disadvantaged farmers and ranchers through provisions allowing for appointment of 1 additional voting member to a county, area, or local committee or through other methods.
+                        (bb) __Inclusion__ 
+
+                            The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+
+                        (cc) __Methods of inclusion__ 
+
+                            Notwithstanding clause (ii), the Secretary may ensure inclusion of socially disadvantaged farmers and ranchers through provisions allowing for appointment of 1 additional voting member to a county, area, or local committee or through other methods.
 
                 (iv) __Term of office__ 
 
@@ -435,9 +451,17 @@
 
 > “That, notwithstanding the provisions of subsection (b) of section 8 of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\], two county committees shall be elected annually under such subsection for the counties of Otter Tail, Polk, and Saint Louis, in the State of Minnesota, and for the county of Pottawattamie, in the State of Iowa, and that the actions heretofore or hereafter taken by each of such committees shall be given the same effect in the area served by it as is given to the actions of the county committee in a county served by a single county committee.”
 
+§§ 590h–1, 590h–2. __Omitted__ 
+
+ __Codification__ 
+
+    Section 590h–1, [act June 16, 1938, ch. 464][/us/act/1938-06-16/ch464], title I, [52 Stat. 746][/us/stat/52/746] (the Department of Agriculture Appropriation Act, 1939), which authorized the utilization of certain agencies in administering the naval stores conservation programs and in making payments to gum naval stores producers, was not repeated in subsequent appropriation acts.
+
+    Section 590h–2, [act July 2, 1940, ch. 521, § 9][/us/act/1940-07-02/ch521/s9], [54 Stat. 729][/us/stat/54/729], which related to correction of certain inequities in agricultural adjustment or conservation payments, was omitted as executed.
+
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g–1, 590g–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–1, 590h–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
 
 ----------
 ----------
@@ -643,5 +667,9 @@
 [/us/pl/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568
 [/us/pl/85/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F278
 [/us/stat/71/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F601
+[/us/act/1938-06-16/ch464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch464
+[/us/stat/52/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F746
+[/us/act/1940-07-02/ch521/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs9
+[/us/stat/54/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F729
 
 

@@ -15,7 +15,7 @@
 
 ## § 1406. Administration
 
-The Commission, in carrying out its responsibilities under this subchapter, may—
+    The Commission, in carrying out its responsibilities under this subchapter, may—
 
     (1) employ and fix the compensation of such personnel;
 

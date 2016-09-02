@@ -15,7 +15,7 @@
 
 ## § 460rrr–6. Effect
 
-Nothing in this subchapter—
+    Nothing in this subchapter—
 
     (1) amends, modifies, or is in conflict with the Rio Grande Compact, consented to by Congress in the Act of May 31, 1939 ([53 Stat. 785][/us/stat/53/785], ch. 155);
 

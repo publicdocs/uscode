@@ -15,7 +15,7 @@
 
 ## § 1451. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (a) There is a national interest in the effective management, beneficial use, protection, and development of the coastal zone.
 

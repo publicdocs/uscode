@@ -15,7 +15,7 @@
 
 ## § 470aaa. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Casual collecting__ 
 

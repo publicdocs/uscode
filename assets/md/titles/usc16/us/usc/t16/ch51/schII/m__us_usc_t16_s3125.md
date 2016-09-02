@@ -15,7 +15,7 @@
 
 ## § 3125. Limitations and savings clauses
 
-Nothing in this subchapter shall be construed as—
+    Nothing in this subchapter shall be construed as—
 
     (1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthy populations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
 

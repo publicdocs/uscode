@@ -15,7 +15,7 @@
 
 ## § 2435. Unlawful activities
 
-It is unlawful for any person—
+    It is unlawful for any person—
 
     (1) to engage in harvesting or other associated activities in violation of the provisions of the Convention or in violation of a conservation measure in force with respect to the United States pursuant to article IX of the Convention;
 

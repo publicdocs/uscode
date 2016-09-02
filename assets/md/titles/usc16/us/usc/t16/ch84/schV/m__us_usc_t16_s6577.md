@@ -15,7 +15,7 @@
 
 ## § 6577. Involvement by other agencies and organizations
 
-In carrying out this subchapter, the Secretary of Agriculture may consult with—
+    In carrying out this subchapter, the Secretary of Agriculture may consult with—
 
     (1) nonindustrial private forest landowners;
 

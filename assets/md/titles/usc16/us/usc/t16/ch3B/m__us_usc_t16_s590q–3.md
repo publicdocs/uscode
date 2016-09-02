@@ -15,7 +15,7 @@
 
 ## § 590q–3. Critical lands resource conservation program in Great Plains area
 
-Notwithstanding any other provision of law—
+    Notwithstanding any other provision of law—
 
     (a) __Authorization for program__ 
 

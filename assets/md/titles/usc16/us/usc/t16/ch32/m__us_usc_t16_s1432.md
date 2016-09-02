@@ -15,7 +15,7 @@
 
 ## § 1432. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “draft management plan” means the plan described in section 1434(a)(1)(C)(v)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
 

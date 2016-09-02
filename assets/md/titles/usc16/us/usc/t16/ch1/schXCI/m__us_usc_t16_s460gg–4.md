@@ -15,7 +15,7 @@
 
 ## § 460gg–4. Administration, protection, and development
 
-Except as otherwise provided in [section 460gg–1 of this title][/us/usc/t16/s460gg–1] and section 3 of this Act, and subject to the provisions of [section 460gg–7 of this title][/us/usc/t16/s460gg–7], the Secretary shall administer the recreation area in accordance with the laws, rules, and regulations applicable to the national forests for public outdoor recreation in a manner compatible with the following objectives:
+    Except as otherwise provided in [section 460gg–1 of this title][/us/usc/t16/s460gg–1] and section 3 of this Act, and subject to the provisions of [section 460gg–7 of this title][/us/usc/t16/s460gg–7], the Secretary shall administer the recreation area in accordance with the laws, rules, and regulations applicable to the national forests for public outdoor recreation in a manner compatible with the following objectives:
 
     (1) the maintenance and protection of the freeflowing nature of the rivers within the recreation area;
 

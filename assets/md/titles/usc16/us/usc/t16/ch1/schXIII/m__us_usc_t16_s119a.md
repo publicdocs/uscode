@@ -17,7 +17,7 @@
 
     The Petrified Forest National Park, authorized to be established pursuant to [section 119 of this title][/us/usc/t16/s119], shall comprise the following described lands:
 
-    gila and salt river meridian
+gila and salt river meridian
 
     Township 20 north, range 23 east: Sections 1, 2, 3, 10, 11, 12, 13, 14, 15, 22, 23, 24, 25, 26, 27, 34, 35, 36, all.
 

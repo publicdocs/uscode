@@ -15,7 +15,7 @@
 
 ## § 1a–2. Secretary of the Interior’s authorization of activities
 
-In order to facilitate the administration of the national park system, the Secretary of the Interior is authorized, under such terms and conditions as he may deem advisable, to carry out the following activities:
+    In order to facilitate the administration of the national park system, the Secretary of the Interior is authorized, under such terms and conditions as he may deem advisable, to carry out the following activities:
 
     (a) __Transportation__ 
 

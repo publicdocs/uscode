@@ -483,7 +483,7 @@
 
 >     “(3) was in force and effect on January 1, 1990,
 
->         shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
+>     shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 1a–13. Proposals for boundary changes
 
-In proposing any boundary change after November 28, 1990, the Secretary shall—
+    In proposing any boundary change after November 28, 1990, the Secretary shall—
 
     (a) consult with affected agencies of State and local governments  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  surrounding communities, affected landowners and private national, regional, and local organizations;
 

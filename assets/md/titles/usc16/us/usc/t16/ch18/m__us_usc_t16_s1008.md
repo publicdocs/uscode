@@ -15,7 +15,7 @@
 
 ## § 1008. Notification of Secretary of the Interior of approval of assistance; surveys and investigations; report and recommendations; consideration; cost of surveys, investigations and reports
 
-When the Secretary approves the furnishing of assistance to a local organization in preparing a plan for works of improvement as provided for in [section 1003 of this title][/us/usc/t16/s1003]:
+    When the Secretary approves the furnishing of assistance to a local organization in preparing a plan for works of improvement as provided for in [section 1003 of this title][/us/usc/t16/s1003]:
 
     (1) The Secretary shall so notify the Secretary of the Interior in order that the latter, as he desires, may make surveys and investigations and prepare a report with recommendations concerning the conservation and development of wildlife resources and participate, under arrangements satisfactory to the Secretary of Agriculture, in the preparation of a plan for works of improvement that is acceptable to the local organization and the Secretary of Agriculture.
 

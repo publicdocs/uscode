@@ -15,7 +15,7 @@
 
 ## § 410oo. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) preserve and interpret the history of Natchez, Mississippi, as a significant city in the history of the American South;
 

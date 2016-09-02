@@ -15,7 +15,7 @@
 
 ## § 2001. Congressional findings
 
-The Congress finds that:
+    The Congress finds that:
 
     (1) There is a growing demand on the soil, water, and related resources of the Nation to meet present and future needs.
 

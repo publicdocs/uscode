@@ -15,7 +15,7 @@
 
 ## § 1444. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary—
+    There are authorized to be appropriated to the Secretary—
 
     (1)
 

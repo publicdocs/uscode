@@ -15,7 +15,7 @@
 
 ## § 941d. Goals of United States Fish and Wildlife Service programs related to Great Lakes fish and wildlife resources
 
-In administering programs of the United States Fish and Wildlife Service related to the Great Lakes Basin, the Director shall seek to achieve the following goals:
+    In administering programs of the United States Fish and Wildlife Service related to the Great Lakes Basin, the Director shall seek to achieve the following goals:
 
     (1) Restoring and maintaining self-sustaining fish and wildlife resources.
 

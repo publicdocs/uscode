@@ -15,7 +15,7 @@
 
 ## § 698v–1. Definitions
 
-In sections 698v to 698v–10 of this title:
+    In sections 698v to 698v–10 of this title:
 
     (1) __Baca ranch__ 
 

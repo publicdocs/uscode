@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ss–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ss–6, 450ss–7.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ss%E2%80%935)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ss–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXII/m__us_usc_t16_ch1_schLXII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ss%E2%80%935)
 
 ## § 450ss–5. Limitations on funding
 
-Authorization of Appropriations:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. “Appropriations” probably should not be capitalized. </sup></sup> 
+    Authorization of Appropriations:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. “Appropriations” probably should not be capitalized. </sup></sup> 
 
     (1) __In general__ 
 
@@ -33,9 +33,15 @@ Authorization of Appropriations:  <sup>\[1\]</sup>  <sup><sup> 1 So in origi
 
     Par. (2). [Pub. L. 108–199, § 544(f)(2)][/us/pl/108/199/s544/f/2], struck out “Trust or to the Oklahoma City Memorial” after “each non-Federal dollar donated to the” and substituted “operation, or endowment” for “or operation”.
 
+§§ 450ss–6, 450ss–7. __Repealed.__  __[__  __Pub. L. 108–199, div. F, title V, § 544(h)__  __][/us/pl/108/199/s544/h]__  __, (i),__  __Jan. 23, 2004__  __,__  __[__  __118 Stat. 349__  __][/us/stat/118/349]__ 
+
+    Section 450ss–6, [Pub. L. 105–58, § 8][/us/pl/105/58/s8], Oct. 9, 1997, [111 Stat. 1266][/us/stat/111/1266], provided for disposal of site of Alfred P. Murrah Federal Building to the Trust.
+
+    Section 450ss–7, [Pub. L. 105–58, § 9][/us/pl/105/58/s9], Oct. 9, 1997, [111 Stat. 1266][/us/stat/111/1266], provided for General Accounting Office study.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ss–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ss–6, 450ss–7.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ss%E2%80%935)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ss–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXII/m__us_usc_t16_ch1_schLXII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ss%E2%80%935)
 
 ----------
 ----------
@@ -46,5 +52,11 @@ Authorization of Appropriations:  <sup>\[1\]</sup>  <sup><sup> 1 So in origi
 [/us/stat/118/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F348
 [/us/pl/108/199/s544/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Ff%2F1
 [/us/pl/108/199/s544/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Ff%2F2
+[/us/pl/108/199/s544/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Fh
+[/us/stat/118/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F349
+[/us/pl/105/58/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58%2Fs8
+[/us/stat/111/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1266
+[/us/pl/105/58/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58%2Fs9
+[/us/stat/111/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1266
 
 

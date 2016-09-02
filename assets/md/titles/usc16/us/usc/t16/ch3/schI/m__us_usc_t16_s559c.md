@@ -15,7 +15,7 @@
 
 ## § 559c. Powers of officers and employees of Forest Service
 
-For the purposes of sections 559b to 559f of this title, if specifically designated by the Secretary and specially trained, not to exceed 1,000 special agents and law enforcement officers of the Forest Service when in the performance of their duties shall have authority to—
+    For the purposes of sections 559b to 559f of this title, if specifically designated by the Secretary and specially trained, not to exceed 1,000 special agents and law enforcement officers of the Forest Service when in the performance of their duties shall have authority to—
 
     (1) carry firearms;
 

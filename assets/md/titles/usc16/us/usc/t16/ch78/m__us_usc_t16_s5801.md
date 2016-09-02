@@ -15,7 +15,7 @@
 
 ## § 5801. Definitions
 
-In this chapter (unless the context otherwise requires):
+    In this chapter (unless the context otherwise requires):
 
     (1) __Board__ 
 

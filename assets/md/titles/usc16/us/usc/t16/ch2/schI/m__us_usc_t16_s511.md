@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s510, 510a.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs511)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s509.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs511)
 
 ## § 511. Reinstatement of entries canceled or relinquished
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s510, 510a.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs511)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s509.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs511)
 
 ----------
 ----------

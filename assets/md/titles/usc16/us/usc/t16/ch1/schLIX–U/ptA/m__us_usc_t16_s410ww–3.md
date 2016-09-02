@@ -15,7 +15,7 @@
 
 ## § 410ww–3. Studies
 
-The Secretary shall study the following properties to determine the feasibility and suitability of including them within the park:
+    The Secretary shall study the following properties to determine the feasibility and suitability of including them within the park:
 
     (1) Properties within the Wright-Dunbar Historic District.
 

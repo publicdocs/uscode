@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715d–1, 715d–2.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715d%E2%80%933)
+[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715d.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715d%E2%80%933)
 
 ## § 715d–3. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715d–1, 715d–2.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715d%E2%80%933)
+[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715d.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715d%E2%80%933)
 
 ----------
 ----------

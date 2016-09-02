@@ -15,7 +15,7 @@
 
 ## § 1532. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “alternative courses of action” means all alternatives and thus is not limited to original project objectives and agency jurisdiction.
 

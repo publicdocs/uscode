@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch13/m__us_usc_t16_s851 to 856.md) | [Next](./../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14)
+[Previous](./../../../..//us/usc/t16/ch13/m__us_usc_t16_ch13.md) | [Next](./../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14)
 
 ## CHAPTER 14—REGULATION OF WHALING
 
@@ -155,7 +155,7 @@ SUBCHAPTER II—WHALING CONVENTION ACT  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch13/m__us_usc_t16_s851 to 856.md) | [Next](./../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14)
+[Previous](./../../../..//us/usc/t16/ch13/m__us_usc_t16_ch13.md) | [Next](./../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14)
 
 ----------
 ----------

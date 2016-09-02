@@ -15,7 +15,7 @@
 
 ## § 460m–18. Zoning laws and ordinances; establishment; assistance; restrictions; variances
 
-The Secretary shall on his own initiative, or at the request of any local government having jurisdiction over land located in or adjacent to the Gorge area, assist and consult with the appropriate officials and employees of such local government in establishing zoning laws or ordinances which will assist in achieving the purposes of this subchapter. In providing assistance pursuant to this section, the Secretary shall endeavor to obtain provisions in such zoning laws or ordinances which—
+    The Secretary shall on his own initiative, or at the request of any local government having jurisdiction over land located in or adjacent to the Gorge area, assist and consult with the appropriate officials and employees of such local government in establishing zoning laws or ordinances which will assist in achieving the purposes of this subchapter. In providing assistance pursuant to this section, the Secretary shall endeavor to obtain provisions in such zoning laws or ordinances which—
 
     (1) have the effect of restricting incompatible commercial and industrial use of all real property in or adjacent to the Gorge area;
 

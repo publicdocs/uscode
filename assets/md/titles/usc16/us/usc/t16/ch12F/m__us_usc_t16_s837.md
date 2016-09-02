@@ -15,7 +15,7 @@
 
 ## § 837. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) “Secretary” means the Secretary of Energy.
 

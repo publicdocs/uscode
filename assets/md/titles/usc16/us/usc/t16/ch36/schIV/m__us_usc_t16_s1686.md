@@ -15,7 +15,7 @@
 
 ## § 1686. Definitions
 
-For purposes of this subchapter, the term:
+    For purposes of this subchapter, the term:
 
     (1) “Anticipated cost of removal” means the projected cost of removal of wood residues from timber sales areas to points of prospective use, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
 

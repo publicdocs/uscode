@@ -15,7 +15,7 @@
 
 ## § 698k. Contracts for providing visitor services in Big Cypress Preserve and Addition; right of first refusal to Miccosukee and Seminole Tribes
 
-Notwithstanding any other provision of law, before entering into any contract for the provision of revenue producing visitor services,
+    Notwithstanding any other provision of law, before entering into any contract for the provision of revenue producing visitor services,
 
     (i) the Secretary shall offer those members of the Miccosukee and Seminole Indian Tribes who, on January 1, 1972 (January 1, 1985, in the case of the Addition), were engaged in the provision of similar services, a right of first refusal to continue providing such services within the preserve and the Addition subject to such terms and conditions as he may deem appropriate, and
 

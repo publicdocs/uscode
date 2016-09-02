@@ -415,7 +415,11 @@
 
 >                 “(i) proposes specific criteria and commitment of resources in the geographic region designated in the plan; and
 
->                 “(ii) describes how the linkage of Federal, State, and local resources will improve—         “(I) the economic viability of agriculture; and
+>                 “(ii)
+
+>                  describes how the linkage of Federal, State, and local resources will improve—
+
+>                          “(I) the economic viability of agriculture; and
 
 >                          “(II) the environmental integrity of the watersheds in the Delmarva Peninsula; and
 

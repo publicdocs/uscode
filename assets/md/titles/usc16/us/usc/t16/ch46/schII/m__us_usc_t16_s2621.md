@@ -311,7 +311,7 @@
 
 >     “(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
 
->         The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
+>     The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
 
     \[For provisions relating to further requirements as to subject matter contained in report under [section 111(e) of Pub. L. 102–486][/us/pl/102/486/s111/e], set out above, see [section 115(e) of Pub. L. 102–486][/us/pl/102/486/s115/e], set out as a note under [section 3203 of Title 15][/us/usc/t15/s3203], Commerce and Trade.\]
 

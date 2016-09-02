@@ -15,7 +15,7 @@
 
 ## § 3112. Congressional statement of policy
 
-It is hereby declared to be the policy of Congress that—
+    It is hereby declared to be the policy of Congress that—
 
     (1) consistent with sound management principles, and the conservation of healthy populations of fish and wildlife, the utilization of the public lands in Alaska is to cause the least adverse impact possible on rural residents who depend upon subsistence uses of the resources of such lands; consistent with management of fish and wildlife in accordance with recognized scientific principles and the purposes for each unit established, designated, or expanded by or pursuant to titles II through VII of this Act, the purpose of this subchapter is to provide the opportunity for rural residents engaged in a subsistence way of life to do so;
 

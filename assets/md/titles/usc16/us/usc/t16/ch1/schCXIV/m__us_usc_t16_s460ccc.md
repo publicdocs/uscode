@@ -15,7 +15,7 @@
 
 ## § 460ccc. Definitions
 
-For the purposes of this subchapter, the term—
+    For the purposes of this subchapter, the term—
 
     (a) “conservation area” means the Red Rock Canyon National Conservation Area established pursuant to [section 460ccc–1 of this title][/us/usc/t16/s460ccc–1];
 

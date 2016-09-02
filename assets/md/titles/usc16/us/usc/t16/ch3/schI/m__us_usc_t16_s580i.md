@@ -15,7 +15,7 @@
 
 ## § 580i. Acquisition of winter range, land, and helicopter landing site
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (a) such sums as may be necessary for the acquisition of parcels of land and interests in land in Sanders County, Montana, needed by the Forest Service to provide winter range for its saddle, pack, and draft animals;
 
@@ -23,7 +23,7 @@ There are authorized to be appropriated—
 
     (c) not to exceed $25,000 for the acquisition of one helicopter landing site in southern California.
 
-        Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.
+    Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.
 
 ([Apr. 24, 1950, ch. 97, § 14][/us/act/1950-04-24/ch97/s14], [64 Stat. 86][/us/stat/64/86].)
 

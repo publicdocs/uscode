@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s568f, 568g.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s570.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs569)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s568b.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s570.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs569)
 
 ## § 569. Donations to United States of lands for timber purposes
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s568f, 568g.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s570.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs569)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s568b.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s570.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs569)
 
 ----------
 ----------

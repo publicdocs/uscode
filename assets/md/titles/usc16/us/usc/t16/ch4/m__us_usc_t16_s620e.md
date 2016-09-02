@@ -15,7 +15,7 @@
 
 ## § 620e. Definitions
 
-For purposes of sections 620 to 620j of this title:
+    For purposes of sections 620 to 620j of this title:
 
     (1) The term “acquire” means to come into possession of, whether directly or indirectly, through a sale, trade, exchange, or other transaction, and the term “acquisition” means the act of acquiring.
 

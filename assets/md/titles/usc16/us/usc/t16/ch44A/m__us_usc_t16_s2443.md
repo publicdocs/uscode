@@ -15,7 +15,7 @@
 
 ## § 2443. Authorization of appropriations
 
-There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary for carrying out the provisions of this chapter, including, but not limited to—
+    There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary for carrying out the provisions of this chapter, including, but not limited to—
 
     (1) necessary travel expenses of the United States representatives referred to in [section 2433 of this title][/us/usc/t16/s2433], alternate United States representatives, and authorized advisers and experts, in accordance with sections 5701 through 5708, 5731, and 5733 of title 5 and the regulations issued under those sections;
 

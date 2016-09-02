@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch10/schIII/m__us_usc_t16_s772 to 772j.md) | [Next](./../../../../..//us/usc/t16/ch10/schIV/m__us_usc_t16_s773.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschIV)
+[Previous](./../../../../..//us/usc/t16/ch10/schIII/m__us_usc_t16_ch10_schIII.md) | [Next](./../../../../..//us/usc/t16/ch10/schIV/m__us_usc_t16_s773.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschIV)
 
 ### SUBCHAPTER IV—NORTHERN PACIFIC HALIBUT ACT OF 1982
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch10/schIII/m__us_usc_t16_s772 to 772j.md) | [Next](./../../../../..//us/usc/t16/ch10/schIV/m__us_usc_t16_s773.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschIV)
+[Previous](./../../../../..//us/usc/t16/ch10/schIII/m__us_usc_t16_ch10_schIII.md) | [Next](./../../../../..//us/usc/t16/ch10/schIV/m__us_usc_t16_s773.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschIV)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 460iii. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The public lands managed by the Bureau of Land Management in the State of Idaho within the Snake River Birds of Prey Area contain one of the densest known nesting populations of eagles, falcons, owls, hawks, and other birds of prey (raptors) in North America.
 

@@ -15,7 +15,7 @@
 
 ## § 831c. Corporate powers generally; eminent domain; construction of dams, transmission lines, etc.
 
-Except as otherwise specifically provided in this chapter, the Corporation—
+    Except as otherwise specifically provided in this chapter, the Corporation—
 
     (a) Shall have succession in its corporate name.
 
@@ -39,9 +39,7 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 
     (k)
 
-     Shall have power in the name of the United States—
-
-        (a) to convey by deed, lease, or otherwise, any real property in the possession of or under the control of the Corporation to any person or persons, for the purpose of recreation or use as a summer residence, or for the operation on such premises of pleasure resorts for boating, fishing, bathing, or any similar purpose;
+     Shall have power in the name of the United States—    (a) to convey by deed, lease, or otherwise, any real property in the possession of or under the control of the Corporation to any person or persons, for the purpose of recreation or use as a summer residence, or for the operation on such premises of pleasure resorts for boating, fishing, bathing, or any similar purpose;
 
         (b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: Provided, That no transfer authorized herein in (b) shall be made without the approval of Congress: And provided further, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
 

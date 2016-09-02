@@ -15,7 +15,7 @@
 
 ## § 2501. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (a) the quality of life in urban areas is closely related to the availability of fully functional park and recreation systems including land, facilities, and service programs;
 

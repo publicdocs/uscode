@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668kk to 668ss.md) | [Next](./../../../..//us/usc/t16/ch5B/m__us_usc_t16_s669.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch5B)
+[Previous](./../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Next](./../../../..//us/usc/t16/ch5B/m__us_usc_t16_s669.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch5B)
 
 ## CHAPTER 5B—WILDLIFE RESTORATION
 
@@ -155,7 +155,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668kk to 668ss.md) | [Next](./../../../..//us/usc/t16/ch5B/m__us_usc_t16_s669.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch5B)
+[Previous](./../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Next](./../../../..//us/usc/t16/ch5B/m__us_usc_t16_s669.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch5B)
 
 ----------
 ----------

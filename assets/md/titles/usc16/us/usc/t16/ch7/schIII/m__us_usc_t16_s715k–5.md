@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715k–4.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715l, 715m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715k%E2%80%935)
+[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715k–4.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715k%E2%80%935)
 
 ## § 715k–5. Acquisition of lands
 
@@ -35,9 +35,13 @@
 
     1967—[Pub. L. 90–205][/us/pl/90/205] made minor structural changes and substituted “1977” for “1969” and “fifteen-year period” for “seven-year period”.
 
+§§ 715l, 715m. __Repealed.__  __[__  __Pub. L. 89–669, § 7(d)__  __][/us/pl/89/669/s7/d]__  __,__  __Oct. 15, 1966__  __,__  __[__  __80 Stat. 930__  __][/us/stat/80/930]__ 
+
+Sections, [act Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], §§ 13, 14, [45 Stat. 1225][/us/stat/45/1225], related to: execution of provisions, powers and duties of United States judges, commissioners and employees of Department of the Interior; and penalty for violation of provisions. See section 668dd(f) and (e) of this title, respectively.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715k–4.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715l, 715m.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715k%E2%80%935)
+[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715k–4.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715k%E2%80%935)
 
 ----------
 ----------
@@ -60,5 +64,9 @@
 [/us/pl/98/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F200
 [/us/pl/94/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215
 [/us/pl/90/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F205
+[/us/pl/89/669/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs7%2Fd
+[/us/stat/80/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F930
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
+[/us/stat/45/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1225
 
 

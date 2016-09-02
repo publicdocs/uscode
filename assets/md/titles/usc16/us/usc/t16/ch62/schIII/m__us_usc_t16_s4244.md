@@ -15,7 +15,7 @@
 
 ## § 4244. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) the term “African elephant” means any animal of the species loxodonta africana;
 

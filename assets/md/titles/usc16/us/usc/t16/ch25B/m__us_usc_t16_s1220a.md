@@ -15,7 +15,7 @@
 
 ## § 1220a. Transfer of title; terms and conditions
 
-If, after consideration of such comments and views as are received pursuant to [section 1220(c) of this title][/us/usc/t16/s1220/c], the Secretary finds that the use of obsolete ships proposed by a State will not violate any Federal law, contribute to degradation of the marine environment, create undue interference with commercial fishing or navigation, and is not frivolous, he may transfer without consideration to the State all right, title, and interest of the United States in and to any obsolete ships which are available for transfer under this chapter if—
+    If, after consideration of such comments and views as are received pursuant to [section 1220(c) of this title][/us/usc/t16/s1220/c], the Secretary finds that the use of obsolete ships proposed by a State will not violate any Federal law, contribute to degradation of the marine environment, create undue interference with commercial fishing or navigation, and is not frivolous, he may transfer without consideration to the State all right, title, and interest of the United States in and to any obsolete ships which are available for transfer under this chapter if—
 
     (1) the State gives to the Secretary such assurances as he deems necessary that such ships will be utilized and maintained only for the purposes stated in the application and, when sunk, will be charted and marked as a hazard to navigation;
 

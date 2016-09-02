@@ -15,7 +15,7 @@
 
 ## § 1452. Congressional declaration of policy
 
-The Congress finds and declares that it is the national policy—
+    The Congress finds and declares that it is the national policy—
 
     (1) to preserve, protect, develop, and where possible, to restore or enhance, the resources of the Nation’s coastal zone for this and succeeding generations;
 

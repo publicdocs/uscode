@@ -15,7 +15,7 @@
 
 ## § 3502. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1)
 

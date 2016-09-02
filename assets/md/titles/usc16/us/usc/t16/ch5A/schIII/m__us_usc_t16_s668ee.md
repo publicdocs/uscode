@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ff to 668jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5B/m__us_usc_t16_ch5B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
 
 ## § 668ee. Definitions
 
-For purposes of this Act:
+    For purposes of this Act:
 
     (1) The term “compatible use” means a wildlife-dependent recreational use or any other use of a refuge that, in the sound professional judgment of the Director, will not materially interfere with or detract from the fulfillment of the mission of the System or the purposes of the refuge.
 
@@ -71,9 +71,17 @@ For purposes of this Act:
 
     “(c) The terms ‘State’ and the ‘United States’ as used in this Act mean the several States of the United States, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, and Guam.”
 
+§§ 668ff to 668jj. __Omitted__ 
+
+    Sections, [Pub. L. 92–330][/us/pl/92/330], June 30, 1972, [86 Stat. 399][/us/stat/86/399], which established San Francisco Bay National Wildlife Refuge to be administered by Secretary of the Interior in accordance with the National Wildlife Refuge System Administration Act, have been omitted because of the limited scope of the subject matter. The San Francisco Bay National Wildlife Refuge \[now Don Edwards San Francisco Bay National Wildlife Refuge\] has been set out in the table of National Wildlife Refuges under [section 668dd of this title][/us/usc/t16/s668dd].
+
+§§ 668kk to 668ss. __Omitted__ 
+
+    Sections, [Pub. L. 94–466][/us/pl/94/466], Oct. 8, 1976, [90 Stat. 1992][/us/stat/90/1992], which established Minnesota Valley National Wildlife Refuge to be administered by Secretary of the Interior in accordance with the National Wildlife Refuge System Administration Act, have been omitted because of the limited scope of the subject matter. The Minnesota National Wildlife Refuge has been set out in the table of National Wildlife Refuges under [section 668dd of this title][/us/usc/t16/s668dd].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ff to 668jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5B/m__us_usc_t16_ch5B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
 
 ----------
 ----------
@@ -92,5 +100,11 @@ For purposes of this Act:
 [/us/stat/50/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F522
 [/us/usc/t7/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1000
 [/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/92/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F330
+[/us/stat/86/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F399
+[/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
+[/us/pl/94/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F466
+[/us/stat/90/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1992
+[/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 
 

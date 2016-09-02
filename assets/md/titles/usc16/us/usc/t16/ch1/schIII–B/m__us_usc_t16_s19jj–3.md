@@ -15,7 +15,7 @@
 
 ## § 19jj–3. Use of recovered amounts
 
-Response costs and damages recovered by the Secretary under the provisions of this subchapter or amounts recovered by the Federal Government under any Federal, State, or local law or regulation or otherwise as a result of damage to any living or nonliving resource located within a unit of the National Park System, except for damage to resources owned by a non-Federal entity, shall be available to the Secretary and without further congressional action may be used only as follows:
+    Response costs and damages recovered by the Secretary under the provisions of this subchapter or amounts recovered by the Federal Government under any Federal, State, or local law or regulation or otherwise as a result of damage to any living or nonliving resource located within a unit of the National Park System, except for damage to resources owned by a non-Federal entity, shall be available to the Secretary and without further congressional action may be used only as follows:
 
     (a) __Response costs and damage assessments__ 
 

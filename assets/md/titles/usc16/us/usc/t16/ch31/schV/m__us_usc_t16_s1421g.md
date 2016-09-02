@@ -15,7 +15,7 @@
 
 ## § 1421g. Authorization of appropriations
 
-There is authorized to be appropriated—
+    There is authorized to be appropriated—
 
     (1) to the Secretary for carrying out this subchapter (other than sections 1421d and 1421f of this title) $250,000 for each of fiscal years 1993 and 1994;
 

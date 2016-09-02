@@ -15,7 +15,7 @@
 
 ## § 460hhh–1. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) preserve scenic, scientific, historic, cultural, natural, wilderness, watershed, riparian, wildlife, threatened and endangered species, and other values contributing to public enjoyment and biological diversity in the Spring Mountains of Nevada;
 

@@ -15,7 +15,7 @@
 
 ## § 941. Findings
 
-The Congress finds and declares the following:
+    The Congress finds and declares the following:
 
     (1) As the human population of the Great Lakes Basin has expanded to over 35,000,000 people, great demands have been placed on the lakes for use for boating and other recreation, navigation, municipal and industrial water supply, waste disposal, power production, and other purposes. These growing and often conflicting demands exert pressure on the fish and wildlife resources of the Great Lakes Basin, including in the form of contaminants, invasion by nonindigenous species, habitat degradation and destruction, legal and illegal fishery resource harvest levels, and sea lamprey predation.
 

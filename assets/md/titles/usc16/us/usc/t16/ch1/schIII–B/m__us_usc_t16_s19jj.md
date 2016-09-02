@@ -15,7 +15,7 @@
 
 ## § 19jj. Definitions
 
-As used in this subchapter the term:
+    As used in this subchapter the term:
 
     (a) “Attorney General” means the Attorney General of the United States.
 

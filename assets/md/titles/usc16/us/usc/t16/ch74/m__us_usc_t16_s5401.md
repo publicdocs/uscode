@@ -15,7 +15,7 @@
 
 ## § 5401. Findings
 
-The Congress finds and declares the following:
+    The Congress finds and declares the following:
 
     (1) The United States is a nation with a rich maritime history, and it is desirable to foster in the American public a greater awareness and appreciation of the role of maritime endeavors in our Nation’s history and culture.
 

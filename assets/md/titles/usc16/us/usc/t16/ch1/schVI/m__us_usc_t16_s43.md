@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s42.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s44, 45.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs43)
+[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s42.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs43)
 
 ## § 43. Sequoia National Park; rules and regulations; leases; fish and game; trespassers
 
@@ -25,9 +25,17 @@
 
     As originally enacted, this section contained a further provision that “all of the proceeds of said leases and other revenues that may be derived from any source connected with said park to be expended under his \[Secretary of the Interior\] direction in the management of the same and the construction of roads and paths therein”. This provision was superseded by [section 452 of this title][/us/usc/t16/s452] providing for the disposition of all revenues from the national parks.
 
+§§ 44, 45. __Transferred__ 
+
+ __Codification__ 
+
+    Section 44, [act Oct. 1, 1890, ch. 1263, § 1][/us/act/1890-10-01/ch1263/s1], [26 Stat. 650][/us/stat/26/650], which related to lands in California set aside as reserved forest lands, was transferred to [section 471c of this title][/us/usc/t16/s471c].
+
+    Section 45, [act Oct. 1, 1890, ch. 1263, § 3][/us/act/1890-10-01/ch1263/s3], [26 Stat. 651][/us/stat/26/651], which related to additional forest reserves in California, was transferred to [section 471d of this title][/us/usc/t16/s471d].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s42.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s44, 45.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs43)
+[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s42.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs43)
 
 ----------
 ----------
@@ -41,5 +49,11 @@
 [/us/stat/72/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F152
 [/us/usc/t16/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3
 [/us/usc/t16/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs452
+[/us/act/1890-10-01/ch1263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1263%2Fs1
+[/us/stat/26/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F650
+[/us/usc/t16/s471c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs471c
+[/us/act/1890-10-01/ch1263/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1263%2Fs3
+[/us/stat/26/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F651
+[/us/usc/t16/s471d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs471d
 
 

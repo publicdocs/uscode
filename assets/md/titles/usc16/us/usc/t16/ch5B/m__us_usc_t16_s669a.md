@@ -15,7 +15,7 @@
 
 ## § 669a. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “conservation” means the use of methods and procedures necessary or desirable to sustain healthy populations of wildlife, including all activities associated with scientific resources management such as research, census, monitoring of populations, acquisition, improvement and management of habitat, live trapping and transplantation, wildlife damage management, and periodic or total protection of a species or population, as well as the taking of individuals within wildlife stock or population if permitted by applicable State and Federal law;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s197.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198a, 198b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s197.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198)
 
 ## § 198. Exclusive jurisdiction; assumption by United States; saving provisions
 
@@ -19,14 +19,28 @@
 
 ([Mar. 2, 1929, ch. 583, § 1][/us/act/1929-03-02/ch583/s1], [45 Stat. 1536][/us/stat/45/1536].)
 
+§§ 198a, 198b. __Repealed.__  __[__  __June 25, 1948, ch. 646, § 39__  __][/us/act/1948-06-25/ch646/s39]__  __,__  __[__  __62 Stat. 992__  __][/us/stat/62/992]__  __, eff.__  __Sept. 1, 1948__ 
+
+    Section 198a, [act Mar. 2, 1929, ch. 583, § 2][/us/act/1929-03-02/ch583/s2], [45 Stat. 1537][/us/stat/45/1537], related to inclusion of park in a judicial district. See [section 85 of Title 28][/us/usc/t28/s85], Judiciary and Judicial Procedure.
+
+    Section 198b, [act Mar. 2, 1929, ch. 583, § 3][/us/act/1929-03-02/ch583/s3], [45 Stat. 1537][/us/stat/45/1537], related to punishment for offenses. See [section 18 of Title 18][/us/usc/t18/s18], Crimes and Criminal Procedure.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s197.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198a, 198b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s197.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_s198c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs198)
 
 ----------
 ----------
 
 [/us/act/1929-03-02/ch583/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch583%2Fs1
 [/us/stat/45/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1536
+[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
+[/us/act/1929-03-02/ch583/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch583%2Fs2
+[/us/stat/45/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1537
+[/us/usc/t28/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs85
+[/us/act/1929-03-02/ch583/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch583%2Fs3
+[/us/stat/45/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1537
+[/us/usc/t18/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs18
 
 

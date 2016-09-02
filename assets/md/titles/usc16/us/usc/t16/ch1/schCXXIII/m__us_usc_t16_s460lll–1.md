@@ -15,7 +15,7 @@
 
 ## § 460lll–1. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to transfer without consideration administrative jurisdiction over the Recreation Area from the Tennessee Valley Authority to the Secretary so that the Recreation Area may be managed as a unit of the National Forest System;
 

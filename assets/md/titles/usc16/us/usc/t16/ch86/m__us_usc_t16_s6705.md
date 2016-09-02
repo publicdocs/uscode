@@ -15,7 +15,7 @@
 
 ## § 6705. Cooperation between Institutes and Federal agencies
 
-In carrying out this chapter, the Secretary, in consultation with the Secretary of the Interior—
+    In carrying out this chapter, the Secretary, in consultation with the Secretary of the Interior—
 
     (1) to the extent that funds are appropriated for the purpose, shall provide financial and technical assistance to the Institutes to carry out the duties of the Institutes under [section 6704 of this title][/us/usc/t16/s6704];
 

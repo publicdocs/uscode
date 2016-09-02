@@ -15,7 +15,7 @@
 
 ## § 3839aa–6. Duties of the Secretary
 
-To the extent appropriate, the Secretary shall assist a producer in achieving the conservation and environmental goals of a program plan by—
+    To the extent appropriate, the Secretary shall assist a producer in achieving the conservation and environmental goals of a program plan by—
 
     (1) providing payments for developing and implementing 1 or more practices, as appropriate; and
 

@@ -15,7 +15,7 @@
 
 ## § 4502. Tropical deforestation assessment and assistance
 
-In support of the Tropical Forestry Action Plan and to specifically address tropical deforestation and degradation, the Secretary may—
+    In support of the Tropical Forestry Action Plan and to specifically address tropical deforestation and degradation, the Secretary may—
 
     (1) support and actively participate in global and regional meetings that seek to reform such Plan;
 

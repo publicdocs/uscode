@@ -15,7 +15,7 @@
 
 ## § 430v. Monuments and memorials; regulations; historical markers
 
-Upon creation of the national battlefield park the Secretary of the Interior shall—
+    Upon creation of the national battlefield park the Secretary of the Interior shall—
 
     (a) Allow monuments and memorials to be erected in the park by and to the various organizations and individuals of either the Union or Confederate Armies, subject to the written approval of said Secretary as to the location and character of such monuments and memorials.
 

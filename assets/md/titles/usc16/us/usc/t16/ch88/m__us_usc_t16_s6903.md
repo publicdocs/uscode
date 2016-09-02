@@ -15,7 +15,7 @@
 
 ## § 6903. Authority and responsibility of the Secretary of State
 
-The Secretary of State may—
+    The Secretary of State may—
 
     (1) receive and transmit, on behalf of the United States, reports, requests, recommendations, proposals, decisions, and other communications of and to the Commission;
 

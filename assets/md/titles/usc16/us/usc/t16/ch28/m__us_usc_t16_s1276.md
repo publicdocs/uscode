@@ -205,9 +205,13 @@
 
         (93) Great Egg Harbor River, New Jersey: The entire river.
 
-        (94) __Klickitat, Washington: The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 (__  __[__  __12 Stat. 951__  __][/us/stat/12/951]__  __), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington:__  __Provided__  __, That said study shall be carried on in consultation with the Yakima Indian Nation and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.__ 
+        (94) __Klickitat, Washington:__ 
 
-        (95) __White Salmon, Washington: The segment from its confluence with Trout Lake Creek, Washington, to its confluence with Gilmer Creek, Washington, near the town of B Z Corner, Washington.__ 
+         The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 ([12 Stat. 951][/us/stat/12/951]), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: Provided, That said study shall be carried on in consultation with the Yakima Indian Nation and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
+
+        (95) __White Salmon, Washington:__ 
+
+         The segment from its confluence with Trout Lake Creek, Washington, to its confluence with Gilmer Creek, Washington, near the town of B Z Corner, Washington.
 
         (96) __Maurice, New Jersey.—__ 
 
@@ -257,9 +261,9 @@
 
         The segments from Profile Lake downstream to the southern boundary of the Franconia Notch State Park and from the northern Thornton town-line downstream to the backwater of the Ayers Island Dam; by the Secretary of the Interior.
 
-        (108) __St. Marys River, Florida and Georgia.—__ 
+        (108) __St.__ 
 
-        The segment from its headwaters to its confluence with the Bells River.
+         Marys River, Florida and Georgia.—The segment from its headwaters to its confluence with the Bells River.
 
         (109) __Mills River, North Carolina.—__ 
 

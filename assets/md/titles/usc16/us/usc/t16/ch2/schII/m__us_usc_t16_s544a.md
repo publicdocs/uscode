@@ -15,7 +15,7 @@
 
 ## § 544a. Purposes
 
-The purposes of sections 544 to 544p of this title are—
+    The purposes of sections 544 to 544p of this title are—
 
     (1) to establish a national scenic area to protect and provide for the enhancement of the scenic, cultural, recreational, and natural resources of the Columbia River Gorge; and
 

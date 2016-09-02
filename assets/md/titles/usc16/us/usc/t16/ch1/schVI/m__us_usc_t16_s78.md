@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s66 to 77.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs78)
+[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s65.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs78)
 
 ## § 78. Detail of troops to Sequoia and Yosemite Parks
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s66 to 77.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs78)
+[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s65.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs78)
 
 ----------
 ----------

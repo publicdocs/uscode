@@ -15,7 +15,7 @@
 
 ## § 5203. Other relief
 
-Injunctive relief against a violation of [section 5201 of this title][/us/usc/t16/s5201] may be sought by—
+    Injunctive relief against a violation of [section 5201 of this title][/us/usc/t16/s5201] may be sought by—
 
     (1) the head of a State agency with jurisdiction over fish or wildlife management;
 

@@ -15,7 +15,7 @@
 
 ## § 430h–3. Consolidation of lands and installation of park tour road
 
-In order to preserve and protect the essential historical features of Vicksburg National Military Park in the State of Mississippi and to enhance visitor enjoyment and safety by means of a park tour road and through the consolidation of park lands, the Secretary of the Interior is authorized, in his discretion, and under such terms and conditions as he determines are in the public interest—
+    In order to preserve and protect the essential historical features of Vicksburg National Military Park in the State of Mississippi and to enhance visitor enjoyment and safety by means of a park tour road and through the consolidation of park lands, the Secretary of the Interior is authorized, in his discretion, and under such terms and conditions as he determines are in the public interest—
 
     (a) __Disposition of lands and roads; incorporation into municipal road system; reversion on failure of conditions; reservation of title to monuments and easements__ 
 
@@ -29,7 +29,7 @@ In order to preserve and protect the essential historical features of Vicksburg 
 
         to enter into agreements with duly authorized officials of the City of Vicksburg and Warren County relative to the effect which the installation of a one-way park tour road with controlled access will have upon the existing local road systems; subject to the availability of funds, to obligate the United States to make provisions for such alterations, relocations and construction of local roads, including procurement of rights-of-way therefor and the subsequent transfer thereof to the State or its appropriate political subdivisions which shall thereupon assume jurisdiction and maintenance, as the Secretary and said officials agree are directly attributable to the installation of the park tour road; and to transfer to the city or county jurisdiction and maintenance of service roads which the Secretary constructs on park lands to properties that otherwise would be denied access because of the installation of the park tour road.
 
-        The Secretary of the Interior shall not, without first obtaining the consent of the city and county officials referred to in subsection (c), convert the portion of the existing road known as Confederate Avenue lying between Graveyard Road and Fort Garrott into a one-way park tour road with controlled access, or otherwise limit the use of such portion by local traffic, until the United States has provided for such alterations, relocations, and construction of local roads (including procurement of rights-of-way) as the Secretary and said officials agree are directly attributable to the installation of such park tour road.
+    The Secretary of the Interior shall not, without first obtaining the consent of the city and county officials referred to in subsection (c), convert the portion of the existing road known as Confederate Avenue lying between Graveyard Road and Fort Garrott into a one-way park tour road with controlled access, or otherwise limit the use of such portion by local traffic, until the United States has provided for such alterations, relocations, and construction of local roads (including procurement of rights-of-way) as the Secretary and said officials agree are directly attributable to the installation of such park tour road.
 
 ([Pub. L. 88–37, § 1][/us/pl/88/37/s1], June 4, 1963, [77 Stat. 55][/us/stat/77/55].)
 

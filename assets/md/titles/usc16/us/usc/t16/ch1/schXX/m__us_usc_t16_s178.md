@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s172 to 177.md) | [Next](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s179.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs178)
+[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s171.md) | [Next](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s179.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs178)
 
 ## § 178. Hotel regulations
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s172 to 177.md) | [Next](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s179.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs178)
+[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s171.md) | [Next](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s179.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs178)
 
 ----------
 ----------

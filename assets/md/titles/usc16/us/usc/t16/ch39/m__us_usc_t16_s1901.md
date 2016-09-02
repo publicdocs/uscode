@@ -15,7 +15,7 @@
 
 ## § 1901. Congressional findings and declaration of policy
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (a) the level of technology of mineral exploration and development has changed radically in recent years and continued application of the mining laws of the United States to those areas of the National Park System to which it applies, conflicts with the purposes for which they were established; and
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXVII/m__us_usc_t16_s256d to 256h.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXVIII/m__us_usc_t16_ch1_schXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs256i)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXVII/m__us_usc_t16_s256c.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXVIII/m__us_usc_t16_ch1_schXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs256i)
 
 ## § 256i. Notice to Governor of Washington; application of laws to subsequently accepted lands
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXXVII/m__us_usc_t16_s256d to 256h.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXVIII/m__us_usc_t16_ch1_schXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs256i)
+[Previous](./../../../../..//us/usc/t16/ch1/schXXVII/m__us_usc_t16_s256c.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXVIII/m__us_usc_t16_ch1_schXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs256i)
 
 ----------
 ----------

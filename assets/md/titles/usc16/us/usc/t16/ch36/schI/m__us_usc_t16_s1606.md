@@ -71,41 +71,41 @@
 
 > “The Statement of Policy transmitted by the President to the Speaker of the House of Representatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this section\], is revised and modified to read as follows:
 
- __“Statement of Policy__ 
+>  __“Statement of Policy__ 
 
- __“basic principles__ 
+>  __“basic principles__ 
 
-    “It is the policy of the United States—
+> “It is the policy of the United States—
 
-    “(1) forests and rangeland, in all ownerships, should be managed to maximize their net social and economic contributions to the Nation’s well being, in an environmentally sound manner.
+>     “(1) forests and rangeland, in all ownerships, should be managed to maximize their net social and economic contributions to the Nation’s well being, in an environmentally sound manner.
 
-    “(2) the Nation’s forested land, except such public land that is determined by law or policy to be maintained in its existing or natural state, should be managed at levels that realize its capabilities to satisfy the Nation’s need for food, fiber, energy, water, soil stability, wildlife and fish, recreation, and esthetic values.
+>     “(2) the Nation’s forested land, except such public land that is determined by law or policy to be maintained in its existing or natural state, should be managed at levels that realize its capabilities to satisfy the Nation’s need for food, fiber, energy, water, soil stability, wildlife and fish, recreation, and esthetic values.
 
-    “(3) the productivity of suitable forested land, in all ownerships, should be maintained and enhanced to minimize the inflationary impacts of wood product prices on the domestic economy and permit a net export of forest products by the year 2030.
+>     “(3) the productivity of suitable forested land, in all ownerships, should be maintained and enhanced to minimize the inflationary impacts of wood product prices on the domestic economy and permit a net export of forest products by the year 2030.
 
-    “(4) in order to achieve this goal, it is recognized that in the major timber growing regions most of the commercial timber lands will have to be brought to and maintained, where possible, at 90 percent of their potential level of growth, consistent with the provisions of the National Forest Management Act of 1976 \[see Short Title of 1976 Amendment note set out under [section 1600 of this title][/us/usc/t16/s1600]\] on Federal lands, so that all resources are utilized in the combination that will best meet the needs of the American people.
+>     “(4) in order to achieve this goal, it is recognized that in the major timber growing regions most of the commercial timber lands will have to be brought to and maintained, where possible, at 90 percent of their potential level of growth, consistent with the provisions of the National Forest Management Act of 1976 \[see Short Title of 1976 Amendment note set out under [section 1600 of this title][/us/usc/t16/s1600]\] on Federal lands, so that all resources are utilized in the combination that will best meet the needs of the American people.
 
-    “(5) forest and rangeland protection programs should be improved to more adequately protect forest and rangeland resources from fire, erosion, insects, disease, and the introduction or spread of noxious weeds, insects, and animals.
+>     “(5) forest and rangeland protection programs should be improved to more adequately protect forest and rangeland resources from fire, erosion, insects, disease, and the introduction or spread of noxious weeds, insects, and animals.
 
-    “(6) the Federal agencies carrying out the policies contained in this Statement will cooperate and coordinate their efforts to accomplish the goals contained in this Statement and will consult, coordinate, and cooperate with the planning efforts of the States.
+>     “(6) the Federal agencies carrying out the policies contained in this Statement will cooperate and coordinate their efforts to accomplish the goals contained in this Statement and will consult, coordinate, and cooperate with the planning efforts of the States.
 
-    “(7) in carrying out the Assessment and the Program under the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this subchapter\] and the Appraisal and the Program under the Soil and Water Resources Conservation Act of 1977 \[section 2001 et seq. of this title\], the Secretary of Agriculture shall assure that resources and economic information and evaluation data will be continually improved so that the best possible information is always available for use by Federal agencies and the public.
+>     “(7) in carrying out the Assessment and the Program under the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this subchapter\] and the Appraisal and the Program under the Soil and Water Resources Conservation Act of 1977 \[section 2001 et seq. of this title\], the Secretary of Agriculture shall assure that resources and economic information and evaluation data will be continually improved so that the best possible information is always available for use by Federal agencies and the public.
 
- __“range land data base and its improvement__ 
+>  __“range land data base and its improvement__ 
 
-    “The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
+>     “The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
 
- __“general acceptance of high bound program__ 
+>  __“general acceptance of high bound program__ 
 
-    “Congress generally accepts the ‘high-bound’ program described on pages 7 through 18 of the 1980 Report to Congress on the Nation’s Renewable Resources prepared by the Secretary of Agriculture. However, Congress finds that the ‘high-bound’ program may not be sufficient to accomplish the goals contained in this statement, particularly in the area of range and watershed resources, State and private forest cooperation and timber management.
+>     “Congress generally accepts the ‘high-bound’ program described on pages 7 through 18 of the 1980 Report to Congress on the Nation’s Renewable Resources prepared by the Secretary of Agriculture. However, Congress finds that the ‘high-bound’ program may not be sufficient to accomplish the goals contained in this statement, particularly in the area of range and watershed resources, State and private forest cooperation and timber management.
 
- __“state and private lands__ 
+>  __“state and private lands__ 
 
-    “States and owners of private forest and rangelands will be encouraged, consistent with their individual objectives, to manage their land in support of this Statement of Policy. The State and private forestry and range programs of the Forest Service will be essential to the furtherance of this Statement of Policy.
+>     “States and owners of private forest and rangelands will be encouraged, consistent with their individual objectives, to manage their land in support of this Statement of Policy. The State and private forestry and range programs of the Forest Service will be essential to the furtherance of this Statement of Policy.
 
- __“funding the goals__ 
+>  __“funding the goals__ 
 
-    “In order to accomplish the policy goals contained in this statement by the year 2030, the Federal Government should adequately fund programs of research (including cooperative research), extension, cooperative forestry assistance and protection, and improved management of the forest and rangelands. The Secretary of Agriculture shall continue his efforts to evaluate the cost-effectiveness of the renewable resource programs.”
+>     “In order to accomplish the policy goals contained in this statement by the year 2030, the Federal Government should adequately fund programs of research (including cooperative research), extension, cooperative forestry assistance and protection, and improved management of the forest and rangelands. The Secretary of Agriculture shall continue his efforts to evaluate the cost-effectiveness of the renewable resource programs.”
 
  __Statement of Purposes of Amendment by Cooperative Forestry Assistance Act of 1978__ 
 

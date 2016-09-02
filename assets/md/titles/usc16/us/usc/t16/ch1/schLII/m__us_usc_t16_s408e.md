@@ -15,7 +15,7 @@
 
 ## § 408e. Addition of lands; Passage Island
 
-Subject to valid existing rights the following-described lands, in addition to the lands established as the Isle Royale National Park pursuant to sections 408 to 408b of this title, are made a part of the park:
+    Subject to valid existing rights the following-described lands, in addition to the lands established as the Isle Royale National Park pursuant to sections 408 to 408b of this title, are made a part of the park:
 
     (a)
 

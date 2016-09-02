@@ -15,7 +15,7 @@
 
 ## § 531. Definitions
 
-As used in sections 528 to 531 of this title the following terms shall have the following meanings:
+    As used in sections 528 to 531 of this title the following terms shall have the following meanings:
 
     (a) “Multiple use” means: The management of all the various renewable surface resources of the national forests so that they are utilized in the combination that will best meet the needs of the American people; making the most judicious use of the land for some or all of these resources or related services over areas large enough to provide sufficient latitude for periodic adjustments in use to conform to changing needs and conditions; that some land will be used for less than all of the resources; and harmonious and coordinated management of the various resources, each with the other, without impairment of the productivity of the land, with consideration being given to the relative values of the various resources, and not necessarily the combination of uses that will give the greatest dollar return or the greatest unit output.
 

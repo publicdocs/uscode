@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395a, 395b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395c)
 
 ## § 395c. Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395a, 395b.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395c)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395c)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 941g. Authorization of appropriations
 
-There are authorized to be appropriated to the Director for each of fiscal years 2007 through 2012—
+    There are authorized to be appropriated to the Director for each of fiscal years 2007 through 2012—
 
     (1)
 

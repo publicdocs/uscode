@@ -15,7 +15,7 @@
 
 ## § 971. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) The term “Convention” means the International Convention for the Conservation of Atlantic Tunas, signed at Rio de Janeiro May 14, 1966, including any amendments or protocols which are or become effective for the United States.
 

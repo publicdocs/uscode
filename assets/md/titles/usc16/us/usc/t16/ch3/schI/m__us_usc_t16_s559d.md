@@ -15,7 +15,7 @@
 
 ## § 559d. Cooperation with other Federal, State, and local law enforcement agencies
 
-For the purposes of sections 559b to 559f of this title, in exercising the authority provided by [section 559c of this title][/us/usc/t16/s559c]—
+    For the purposes of sections 559b to 559f of this title, in exercising the authority provided by [section 559c of this title][/us/usc/t16/s559c]—
 
     (1) the Forest Service shall cooperate with any other Federal law enforcement agency having primary investigative jurisdiction over the offense committed;
 

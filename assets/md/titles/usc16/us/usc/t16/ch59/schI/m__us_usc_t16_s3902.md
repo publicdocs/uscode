@@ -15,7 +15,7 @@
 
 ## § 3902. Definitions
 
-For the purpose of this chapter:
+    For the purpose of this chapter:
 
     (1) The term “Committees” means the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate.
 

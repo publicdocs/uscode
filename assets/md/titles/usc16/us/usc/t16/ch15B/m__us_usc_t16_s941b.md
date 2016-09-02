@@ -15,7 +15,7 @@
 
 ## § 941b. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) the term “Committee” means the Great Lakes Fish and Wildlife Restoration Proposal Review Committee established by [section 941c(c) of this title][/us/usc/t16/s941c/c];
 

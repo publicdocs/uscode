@@ -15,7 +15,7 @@
 
 ## § 410y. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) “Park” means the Chesapeake and Ohio Canal National Historical Park, as herein established.
 

@@ -15,7 +15,7 @@
 
 ## § 4003. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “consumer education” means actions undertaken to inform consumers on matters related to the consumption of fish and fish products;
 

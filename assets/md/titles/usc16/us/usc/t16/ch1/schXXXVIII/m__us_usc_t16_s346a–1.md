@@ -17,7 +17,7 @@
 
     The boundaries of the Zion National Park are revised to include the following described lands:
 
-    Salt Lake Meridian
+Salt Lake Meridian
 
     Township 39 south, range 10 west: Section 30, those portions of lots 1 to 7, inclusive, lying south of Kolob Creek and lots 8 to 32, inclusive; section 31, lots 1, 2, 3, 15, 16, 17, 18, 31 and 32.
 

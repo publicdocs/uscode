@@ -15,7 +15,7 @@
 
 ## § 4202. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) Elephant populations in Africa have declined at an alarming rate since the mid-1970’s.
 

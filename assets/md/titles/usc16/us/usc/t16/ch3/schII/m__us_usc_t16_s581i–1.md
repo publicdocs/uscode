@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581b to 581i.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581i%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581a–2.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581i%E2%80%931)
 
 ## § 581i–1. Advance of funds for cooperative research
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581b to 581i.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581i%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581a–2.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581i%E2%80%931)
 
 ----------
 ----------

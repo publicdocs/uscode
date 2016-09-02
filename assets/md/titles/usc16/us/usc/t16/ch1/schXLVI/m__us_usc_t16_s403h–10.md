@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–5 to 403h–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
 
 ## § 403h–10. Notice to Governors of North Carolina and Tennessee; application of sections 403h–3 and 403h–4 to subsequent lands accepted
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–5 to 403h–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
 
 ----------
 ----------

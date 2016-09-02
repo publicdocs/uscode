@@ -33,9 +33,9 @@
 
         (C) that additional commercial establishments shall be permitted only with the express prior approval of the Secretary or his designee.
 
-    (2) If a valid, enforceable agreement is executed pursuant to paragraph (1) of this subsection, the authority of the Secretary to acquire any interest in the property subject to the agreement, except for the beach property, shall be suspended.
+        (2) If a valid, enforceable agreement is executed pursuant to paragraph (1) of this subsection, the authority of the Secretary to acquire any interest in the property subject to the agreement, except for the beach property, shall be suspended.
 
-    (3) The Secretary is authorized to accept by donation from the city of New York any right, title, or interest which it holds in the parking lot at Rockaway which is part of the Marine Bridge project at Riis Park. Nothing herein shall be deemed to authorize the United States to extinguish any present or future encumbrance or to authorize the State of New York or any political subdivision or agency thereof to further encumber any interest in the property so conveyed.
+        (3) The Secretary is authorized to accept by donation from the city of New York any right, title, or interest which it holds in the parking lot at Rockaway which is part of the Marine Bridge project at Riis Park. Nothing herein shall be deemed to authorize the United States to extinguish any present or future encumbrance or to authorize the State of New York or any political subdivision or agency thereof to further encumber any interest in the property so conveyed.
 
     (d) __Jamaica Bay Unit; Broad Channel Community; title acceptance conditions__ 
 

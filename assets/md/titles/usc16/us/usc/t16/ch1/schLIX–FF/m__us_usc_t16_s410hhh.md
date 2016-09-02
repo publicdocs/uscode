@@ -15,7 +15,7 @@
 
 ## § 410hhh. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) the Great Sand Dunes National Monument in the State of Colorado was established by Presidential proclamation in 1932 to preserve Federal land containing spectacular and unique sand dunes and additional features of scenic, scientific, and educational interest for the benefit and enjoyment of future generations;
 

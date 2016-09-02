@@ -15,7 +15,7 @@
 
 ## § 18f. Management of museum properties
 
-The purpose of this section and sections 18f–2 and 18f–3 of this title shall be to increase the public benefits from museums established within the individual areas administered by the Secretary of the Interior through the National Park Service as a means of informing the public concerning the areas and preserving valuable objects and relics relating thereto. The Secretary of the Interior, notwithstanding other provisions or limitations of law, may perform the following functions in such manner as he shall consider to be in the public interest:
+    The purpose of this section and sections 18f–2 and 18f–3 of this title shall be to increase the public benefits from museums established within the individual areas administered by the Secretary of the Interior through the National Park Service as a means of informing the public concerning the areas and preserving valuable objects and relics relating thereto. The Secretary of the Interior, notwithstanding other provisions or limitations of law, may perform the following functions in such manner as he shall consider to be in the public interest:
 
     (a) __Donations and bequests__ 
 

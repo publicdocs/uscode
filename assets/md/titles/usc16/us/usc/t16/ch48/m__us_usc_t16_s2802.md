@@ -15,7 +15,7 @@
 
 ## § 2802. Definitions
 
-As used in this chapter, unless the context otherwise requires—
+    As used in this chapter, unless the context otherwise requires—
 
     (1) The term “aquaculture” means the propagation and rearing of aquatic species in controlled or selected environments, including, but not limited to, ocean ranching (except private ocean ranching of Pacific salmon for profit in those States where such ranching is prohibited by law).
 

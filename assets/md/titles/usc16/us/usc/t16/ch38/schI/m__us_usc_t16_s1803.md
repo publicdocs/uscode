@@ -15,7 +15,7 @@
 
 ## § 1803. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out the provisions of this chapter—
+    There are authorized to be appropriated to the Secretary to carry out the provisions of this chapter—
 
     (1) $337,844,000 for fiscal year 2007;
 

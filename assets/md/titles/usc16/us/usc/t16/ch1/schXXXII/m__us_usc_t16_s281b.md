@@ -15,7 +15,7 @@
 
 ## § 281b. Acquisition of lands; restrictions; tribal-owned lands
 
-The Secretary of the Interior may acquire by donation or with donated funds such lands, or interests therein, and other property which in his judgment will further the purpose of this subchapter and he may purchase with appropriated funds land, or interests therein, required for the administration of the Nez Perce National Historical Park. Lands or interests therein owned by a State or political subdivision of a State may be acquired under this section only by donation or exchange. In the case of sites designated as components of the Nez Perce National Historical Park after November 1, 1991, the Secretary may not acquire privately owned land or interests in land without the consent of the owner unless the Secretary finds that—
+    The Secretary of the Interior may acquire by donation or with donated funds such lands, or interests therein, and other property which in his judgment will further the purpose of this subchapter and he may purchase with appropriated funds land, or interests therein, required for the administration of the Nez Perce National Historical Park. Lands or interests therein owned by a State or political subdivision of a State may be acquired under this section only by donation or exchange. In the case of sites designated as components of the Nez Perce National Historical Park after November 1, 1991, the Secretary may not acquire privately owned land or interests in land without the consent of the owner unless the Secretary finds that—
 
     (1) the nature of land use has changed significantly or that the landowner has demonstrated intent to change the land use significantly from the condition which existed on October 30, 1992;
 
@@ -29,7 +29,7 @@ The Secretary of the Interior may acquire by donation or with donated funds such
 
         (B) within the 8-acre parcel of Old Chief Joseph’s Gravesite and Cemetery, Oregon, depicted as “Parcel A” on Sheet 2 of such map.
 
-        The Nez Perce Tribe’s governing body, if it so desires, with the approval of the Secretary of the Interior, is authorized to sell, donate, or exchange tribal-owned lands held in trust needed to further the purpose of this subchapter.
+    The Nez Perce Tribe’s governing body, if it so desires, with the approval of the Secretary of the Interior, is authorized to sell, donate, or exchange tribal-owned lands held in trust needed to further the purpose of this subchapter.
 
 ([Pub. L. 89–19, § 3][/us/pl/89/19/s3], May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576, § 2(3)][/us/pl/102/576/s2/3], Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
 

@@ -15,7 +15,7 @@
 
 ## § 3102. Definitions
 
-As used in this Act (except that in titles IX and XIV the following terms shall have the same meaning as they have in the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], and the Alaska Statehood Act)—
+    As used in this Act (except that in titles IX and XIV the following terms shall have the same meaning as they have in the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], and the Alaska Statehood Act)—
 
     (1) The term “land” means lands, waters, and interests therein.
 

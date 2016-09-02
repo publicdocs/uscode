@@ -15,7 +15,7 @@
 
 ## § 4908. Call for information
 
-Within one month after October 23, 1992, the Secretary shall issue a call for information on the wild bird conservation program of each country that exports exotic birds, by—
+    Within one month after October 23, 1992, the Secretary shall issue a call for information on the wild bird conservation program of each country that exports exotic birds, by—
 
     (1) publishing a notice in the Federal Register requesting submission of such information to the Secretary by all interested persons; and
 

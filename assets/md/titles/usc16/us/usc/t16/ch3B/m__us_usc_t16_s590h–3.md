@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–1, 590h–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%933)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%933)
 
 ## § 590h–3. Repealed. [Pub. L. 88–534, § 2][/us/pl/88/534/s2], Aug. 31, 1964, [78 Stat. 743][/us/stat/78/743]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–1, 590h–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%933)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%933)
 
 ----------
 ----------

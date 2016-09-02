@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s27 to 29.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s30a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs30)
+[Previous](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s26.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s30a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs30)
 
 ## § 30. Jail building; office of magistrate judge
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s27 to 29.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s30a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs30)
+[Previous](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s26.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s30a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs30)
 
 ----------
 ----------

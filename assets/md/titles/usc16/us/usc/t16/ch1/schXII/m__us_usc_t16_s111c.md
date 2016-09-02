@@ -17,9 +17,9 @@
 
     The boundaries of Mesa Verde National Park are hereby revised to include the following described lands, which, subject to valid existing rights, shall be administered as a part of the park in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented:
 
-    new mexico principal meridian, colorado
+new mexico principal meridian, colorado
 
-    Township 36 North, Range 14 West
+Township 36 North, Range 14 West
 
     Section 29: All portions of the south half and the southeast quarter northwest quarter lying south and west of the right-of-way of United States Highway 160.
 

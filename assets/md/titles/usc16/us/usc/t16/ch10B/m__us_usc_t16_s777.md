@@ -305,7 +305,9 @@
 
 >                 “(ii) __Federal and state shares.—__ 
 
->                 To the maximum extent practicable, of the amounts made available for administrative expenses under clause (i)—         “(I) 50 percent shall be provided to the State agencies provided assistance under the Program; and
+>                 To the maximum extent practicable, of the amounts made available for administrative expenses under clause (i)—
+
+>                          “(I) 50 percent shall be provided to the State agencies provided assistance under the Program; and
 
 >                          “(II) an amount equal to the cost of 1 full-time equivalent Federal employee, as determined by the Secretary, shall be provided to the Federal agency carrying out the Program.
 
@@ -313,15 +315,17 @@
 
 >                 Amounts made available to States for administrative expenses under clause (i)—
 
->                      “(I) shall be divided evenly among all States provided assistance under the Program; and
+>                          “(I) shall be divided evenly among all States provided assistance under the Program; and
 
->                      “(II) may be used by a State to provide technical assistance relating to the program, including any staffing expenditures (including staff travel expenses) associated with—
+>                          “(II)
 
->                     “(aa) arranging meetings to promote the Program to potential applicants;
+>                      may be used by a State to provide technical assistance relating to the program, including any staffing expenditures (including staff travel expenses) associated with—
 
->                     “(bb) assisting applicants with the preparation of applications for funding under the Program; and
+>                         “(aa) arranging meetings to promote the Program to potential applicants;
 
->                     “(cc) visiting construction sites to provide technical assistance, if requested by the applicant.”
+>                         “(bb) assisting applicants with the preparation of applications for funding under the Program; and
+
+>                         “(cc) visiting construction sites to provide technical assistance, if requested by the applicant.”
 
 ----------
 

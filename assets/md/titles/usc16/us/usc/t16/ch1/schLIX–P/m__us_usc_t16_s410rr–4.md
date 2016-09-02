@@ -15,7 +15,7 @@
 
 ## § 410rr–4. Management plan
 
-Within 3 full fiscal years from the date funding is made available for the purposes of preparing a general management plan, the Secretary shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, a general management plan for the park consistent with the purposes of this subchapter, including (but not limited to)—
+    Within 3 full fiscal years from the date funding is made available for the purposes of preparing a general management plan, the Secretary shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, a general management plan for the park consistent with the purposes of this subchapter, including (but not limited to)—
 
     (1) a general visitor use and interpretive program that fully considers the prehistoric and historic aspects of the national historical park including the “gateway theme” and early Spanish settlement of New Mexico;
 

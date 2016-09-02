@@ -15,7 +15,7 @@
 
 ## § 460n–2. Hualapai Indian lands; inclusion within area; mineral rights; leases and permits; hunting and fishing rights
 
-The authorities granted by this subchapter shall be subject to the following exceptions and qualifications when exercised with respect to any tribal or allotted lands of the Hualapai Indians that may be included within the exterior boundaries of the Lake Mead National Recreation Area:
+    The authorities granted by this subchapter shall be subject to the following exceptions and qualifications when exercised with respect to any tribal or allotted lands of the Hualapai Indians that may be included within the exterior boundaries of the Lake Mead National Recreation Area:
 
     (a) The inclusion of Indian lands within the exterior boundaries of the area shall not be effective until approved by the Hualapai Tribal Council.
 

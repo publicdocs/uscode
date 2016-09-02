@@ -15,7 +15,7 @@
 
 ## § 7301. Purpose
 
-The purpose of this chapter is to encourage the collaborative, science-based ecosystem restoration of priority forest landscapes through a process that—
+    The purpose of this chapter is to encourage the collaborative, science-based ecosystem restoration of priority forest landscapes through a process that—
 
     (1) encourages ecological, economic, and social sustainability;
 

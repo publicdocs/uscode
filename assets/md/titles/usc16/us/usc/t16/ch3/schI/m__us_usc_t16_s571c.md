@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s571a, 571b.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s572.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs571c)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s571.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s572.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs571c)
 
 ## § 571c. Erection of permanent facilities on land not owned by United States; long term leases
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s571a, 571b.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s572.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs571c)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s571.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s572.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs571c)
 
 ----------
 ----------

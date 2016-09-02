@@ -15,7 +15,7 @@
 
 ## § 3371. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (a) The term “fish or wildlife” means any wild animal, whether alive or dead, including without limitation any wild mammal, bird, reptile, amphibian, fish, mollusk, crustacean, arthropod, coelenterate, or other invertebrate, whether or not bred, hatched, or born in captivity, and includes any part, product, egg, or offspring thereof.
 

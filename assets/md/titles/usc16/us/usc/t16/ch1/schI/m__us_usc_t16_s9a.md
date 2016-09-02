@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s9.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s10, 10a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs9a)
+[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s9.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs9a)
 
 ## § 9a. Government of parks, etc.; violation of regulations as misdemeanor
 
@@ -33,9 +33,15 @@
 
     Cemeteries and parks transferred, and postponement of transfer of national cemeteries other than those named by Ex. Ord. No. 6166, § 2, as amended by Ex. Ord. No. 6228, §§ 1, 2, July 28, 1933, set out as notes under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees.
 
+§§ 10, 10a. __Repealed.__  __[__  __Pub. L. 91–383, § 10(a)(2)__  __][/us/pl/91/383/s10/a/2]__  __, (3), as added__  __[__  __Pub. L. 94–458, § 2__  __][/us/pl/94/458/s2]__  __,__  __Oct. 7, 1976__  __,__  __[__  __90 Stat. 1941__  __][/us/stat/90/1941]__ 
+
+    Section 10, [act Mar. 3, 1905, ch. 1405][/us/act/1905-03-03/ch1405], [33 Stat. 873][/us/stat/33/873], authorized National Park Service employees to arrest and prosecute persons violating the laws and regulations relating to the national forests and national parks. Act Mar. 3, 1905, insofar as it relates to the Forest Service, is classified to [section 559 of this title][/us/usc/t16/s559]. [Pub. L. 91–383, § 10(a)][/us/pl/91/383/s10/a], as amended, amended act Mar. 3, 1905, to delete references to the National Park Service and the national parks. Authority to maintain law and order within areas of the National Park System is now covered by [section 1a–6 of this title][/us/usc/t16/s1a–6].
+
+    Section 10a, [act Mar. 2, 1933, ch. 180, § 2][/us/act/1933-03-02/ch180/s2], [47 Stat. 1420][/us/stat/47/1420], related to the authorization of commissioners, superintendents, caretakers, officers, or guards of national military parks, national parks, battlefield sites, national monuments, and miscellaneous memorials, to arrest and prosecute persons for violations of any of the regulations prescribed pursuant to [section 9a of this title][/us/usc/t16/s9a].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s9.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s10, 10a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs9a)
+[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s9.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs9a)
 
 ----------
 ----------
@@ -52,5 +58,16 @@
 [/us/act/1934-03-02/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38%2Fs1
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
+[/us/pl/91/383/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs10%2Fa%2F2
+[/us/pl/94/458/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F458%2Fs2
+[/us/stat/90/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1941
+[/us/act/1905-03-03/ch1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1405
+[/us/stat/33/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F873
+[/us/usc/t16/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs559
+[/us/pl/91/383/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs10%2Fa
+[/us/usc/t16/s1a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%936
+[/us/act/1933-03-02/ch180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-02%2Fch180%2Fs2
+[/us/stat/47/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1420
+[/us/usc/t16/s9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs9a
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–5 to 404c–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
 
 ## § 404c–10. Notice of assumption of police jurisdiction by United States; acceptance by Secretary of further cessions
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–5 to 404c–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
 
 ----------
 ----------

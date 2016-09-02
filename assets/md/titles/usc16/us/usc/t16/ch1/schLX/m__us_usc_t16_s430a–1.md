@@ -15,7 +15,7 @@
 
 ## § 430a–1. Revision of boundaries
 
-In order to consolidate the Federal ownership of lands in, and to facilitate protection and preservation of, Kings Mountain National Military Park, South Carolina, the boundaries are revised as follows:
+    In order to consolidate the Federal ownership of lands in, and to facilitate protection and preservation of, Kings Mountain National Military Park, South Carolina, the boundaries are revised as follows:
 
     (1) Federally owned lands lying west of the easterly right-of-way line of State Route P–11–123, containing approximately two hundred acres, are excluded from the park;
 

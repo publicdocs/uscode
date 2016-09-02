@@ -15,7 +15,7 @@
 
 ## § 803. Conditions of license generally
 
-All licenses issued under this subchapter shall be on the following conditions:
+    All licenses issued under this subchapter shall be on the following conditions:
 
     (a) __Modification of plans; factors considered to secure adaptability of project; recommendations for proposed terms and conditions__ 
 

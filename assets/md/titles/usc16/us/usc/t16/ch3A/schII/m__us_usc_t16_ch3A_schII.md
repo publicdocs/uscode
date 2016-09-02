@@ -11,16 +11,24 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3A/schI/m__us_usc_t16_s584 to 584q.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s585, 586.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3A%2FschII)
+[Previous](./../../../../..//us/usc/t16/ch3A/schI/m__us_usc_t16_ch3A_schI.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3A%2FschII)
 
 ### SUBCHAPTER II—EMERGENCY CONSERVATION WORK
 
+§§ 585, 586. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 648__  __][/us/stat/80/648]__ 
+
+    Sections, [act Mar. 31, 1933, ch. 17][/us/act/1933-03-31/ch17], §§ 1, 2, [46 Stat. 22][/us/stat/46/22], 23, provided for employment, in the nature of work relief, in forestation.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3A/schI/m__us_usc_t16_s584 to 584q.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s585, 586.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3A%2FschII)
+[Previous](./../../../../..//us/usc/t16/ch3A/schI/m__us_usc_t16_ch3A_schI.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3A%2FschII)
 
 ----------
 ----------
 
+[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/stat/80/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F648
+[/us/act/1933-03-31/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-31%2Fch17
+[/us/stat/46/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F22
 
 

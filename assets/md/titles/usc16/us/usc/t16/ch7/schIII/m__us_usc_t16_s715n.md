@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715l, 715m.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715n)
+[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715k–5.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715n)
 
 ## § 715n. “Take” defined
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715l, 715m.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715n)
+[Previous](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715k–5.md) | [Next](./../../../../..//us/usc/t16/ch7/schIII/m__us_usc_t16_s715o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715n)
 
 ----------
 ----------

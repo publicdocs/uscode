@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s614, 615.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s613.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
 
 ## § 615a. Sale of timber in Alaska; appraisal; local consumption; accounting; deposit in Treasury
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s614, 615.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s613.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
 
 ----------
 ----------

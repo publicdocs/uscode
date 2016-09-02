@@ -15,7 +15,7 @@
 
 ## § 1010. Data
 
-The Secretary shall collect and maintain data on a national and State by State basis concerning—
+    The Secretary shall collect and maintain data on a national and State by State basis concerning—
 
     (1) expenditures for the individual flood control and conservation measures for which assistance is provided under this chapter; and
 

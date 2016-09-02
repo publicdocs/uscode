@@ -15,7 +15,7 @@
 
 ## § 4223. Prohibited acts
 
-Except as provided in [section 4222(e) of this title][/us/usc/t16/s4222/e], it is unlawful for any person—
+    Except as provided in [section 4222(e) of this title][/us/usc/t16/s4222/e], it is unlawful for any person—
 
     (1) to import raw ivory from any country other than an ivory producing country;
 

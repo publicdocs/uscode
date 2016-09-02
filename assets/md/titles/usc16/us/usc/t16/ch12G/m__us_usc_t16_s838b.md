@@ -15,7 +15,7 @@
 
 ## § 838b. Operation and maintenance of Federal transmission system; construction of improvements, betterments, additions and replacements; criteria
 
-The Secretary of Energy, acting by and through the Administrator, shall operate and maintain the Federal transmission system within the Pacific Northwest and shall construct improvements, betterments, and additions to and replacements of such system within the Pacific Northwest as he determines are appropriate and required to:
+    The Secretary of Energy, acting by and through the Administrator, shall operate and maintain the Federal transmission system within the Pacific Northwest and shall construct improvements, betterments, and additions to and replacements of such system within the Pacific Northwest as he determines are appropriate and required to:
 
     (a) integrate and transmit the electric power from existing or additional Federal or non-Federal generating units;
 

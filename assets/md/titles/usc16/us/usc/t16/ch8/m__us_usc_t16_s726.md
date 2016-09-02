@@ -15,7 +15,7 @@
 
 ## § 726. Acts prohibited in refuge; commercial fishing
 
-No person shall, except in accordance with regulations prescribed by the Secretary of the Interior in respect of wild birds, game animals, fur-bearing animals, wild flowers, and aquatic plants, or in respect of fish and other aquatic-animal life—
+    No person shall, except in accordance with regulations prescribed by the Secretary of the Interior in respect of wild birds, game animals, fur-bearing animals, wild flowers, and aquatic plants, or in respect of fish and other aquatic-animal life—
 
     (a) Enter the refuge for any purpose; or
 

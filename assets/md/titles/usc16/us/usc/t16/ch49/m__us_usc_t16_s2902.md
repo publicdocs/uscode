@@ -15,7 +15,7 @@
 
 ## § 2902. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “approved conservation plan” means the conservation plan of a State approved by the Secretary pursuant to [section 2904(a) of this title][/us/usc/t16/s2904/a].
 

@@ -15,7 +15,7 @@
 
 ## § 1453. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “coastal zone” means the coastal waters (including the lands therein and thereunder) and the adjacent shorelands (including the waters therein and thereunder), strongly influenced by each other and in proximity to the shorelines of the several coastal states, and includes islands, transitional and intertidal areas, salt marshes, wetlands, and beaches. The zone extends, in Great Lakes waters, to the international boundary between the United States and Canada and, in other areas, seaward to the outer limit of State title and ownership under the Submerged Lands Act ([43 U.S.C. 1301][/us/usc/t43/s1301] et seq.), the Act of March 2, 1917 ([48 U.S.C. 749][/us/usc/t48/s749]) \[[48 U.S.C. 731][/us/usc/t48/s731] et seq.\], the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 \[[48 U.S.C. 1801][/us/usc/t48/s1801] et seq.\], or [section 1 of the Act of November 20, 1963][/us/act/1963-11-20/s1] ([48 U.S.C. 1705][/us/usc/t48/s1705]), as applicable. The zone extends inland from the shorelines only to the extent necessary to control shorelands, the uses of which have a direct and significant impact on the coastal waters, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise. Excluded from the coastal zone are lands the use of which is by law subject solely to the discretion of or which is held in trust by the Federal Government, its officers or agents.
 
@@ -47,7 +47,7 @@ For purposes of this chapter—
 
         The term includes, but is not limited to (i) electric generating plants; (ii) petroleum refineries and associated facilities; (iii) gasification plants; (iv) facilities used for the transportation, conversion, treatment, transfer, or storage of liquefied natural gas; (v) uranium enrichment or nuclear fuel processing facilities; (vi) oil and gas facilities, including platforms, assembly plants, storage depots, tank farms, crew and supply bases, and refining complexes; (vii) facilities including deepwater ports, for the transfer of petroleum; (viii) pipelines and transmission facilities; and (ix) terminals which are associated with any of the foregoing.
 
-    (6a) The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
+        (6a) The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
 
     (7) The term “estuary” means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
 

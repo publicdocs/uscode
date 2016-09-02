@@ -15,7 +15,7 @@
 
 ## § 2305. Report to Congress; contents
 
-The Secretary shall submit a report to the Congress within three years of August 15, 1978. The report shall include, but not be limited to, his findings and recommendations regarding—
+    The Secretary shall submit a report to the Congress within three years of August 15, 1978. The report shall include, but not be limited to, his findings and recommendations regarding—
 
     (a) preservation of natural resource values within units of the National Park System through access alternatives;
 

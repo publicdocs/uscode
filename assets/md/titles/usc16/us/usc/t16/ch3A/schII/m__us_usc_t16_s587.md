@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s585, 586.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs587)
+[Previous](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_ch3A_schII.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs587)
 
 ## § 587. Repealed. [June 19, 1934, ch. 648][/us/act/1934-06-19/ch648], title II, § 1, [48 Stat. 1056][/us/stat/48/1056]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s585, 586.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs587)
+[Previous](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_ch3A_schII.md) | [Next](./../../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs587)
 
 ----------
 ----------

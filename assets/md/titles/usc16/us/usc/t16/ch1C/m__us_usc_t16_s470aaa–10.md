@@ -15,7 +15,7 @@
 
 ## § 470aaa–10. Savings provisions
 
-Nothing in this chapter shall be construed to—
+    Nothing in this chapter shall be construed to—
 
     (1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act ([43 U.S.C. 1701–178][/us/usc/t43/s1701–178]4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  [Public Law 94–429][/us/pl/94/429] (commonly known as the “Mining in the Parks Act”) ([16 U.S.C. 1901][/us/usc/t16/s1901] et seq.), the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1201–135][/us/usc/t30/s1201–135]8) \[[30 U.S.C. 1201][/us/usc/t30/s1201] et seq.\], and the Organic Administration Act ([16 U.S.C. 478][/us/usc/t16/s478], 482, 551);
 

@@ -15,7 +15,7 @@
 
 ## § 1447. Purposes
 
-The purpose of this chapter is to establish regional research programs, under effective Federal oversight, to—
+    The purpose of this chapter is to establish regional research programs, under effective Federal oversight, to—
 
     (1) set priorities for regional marine and coastal research in support of efforts to safeguard the water quality and ecosystem health of each region; and
 

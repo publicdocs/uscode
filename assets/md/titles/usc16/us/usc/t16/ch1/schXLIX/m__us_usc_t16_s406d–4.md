@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept the donation of the following-described lands, which lands, upon acceptance by the United States, shall become a part of the national park:
 
-    sixth principal meridian
+sixth principal meridian
 
     Township 41 north, range 116 west: Section 3, lots 1 and 2.
 

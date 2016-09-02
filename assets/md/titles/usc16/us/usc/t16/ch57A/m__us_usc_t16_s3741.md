@@ -15,7 +15,7 @@
 
 ## § 3741. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) Three-fourths of all American children and adults participate in wildlife-related recreational activities other than hunting, fishing and trapping.
 

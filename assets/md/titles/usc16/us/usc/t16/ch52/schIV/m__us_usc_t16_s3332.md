@@ -15,7 +15,7 @@
 
 ## § 3332. State program for reduction of overall fishing capacity
 
-The State shall submit to the Secretary a program within three months of December 22, 1980, designed to—
+    The State shall submit to the Secretary a program within three months of December 22, 1980, designed to—
 
     (1) provide incentives for early retirement of licenses, or early sale of vessels;
 

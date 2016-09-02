@@ -15,7 +15,7 @@
 
 ## § 4102. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) The term “Federal fishery management plan” means a plan developed under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.).
 

@@ -15,7 +15,7 @@
 
 ## § 406d–2. Rights-of-way; continuation of leases, permits, and licenses; renewal; grazing privileges
 
-With respect to those lands that are included by this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title within the Grand Teton National Park—
+    With respect to those lands that are included by this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title within the Grand Teton National Park—
 
     (a) the Secretary of the Interior shall designate and open rights-of-way, including stock driveways, over and across Federal lands within the exterior boundary of the park for the movement of persons and property to or from State and private lands within the exterior boundary of the park and to or from national forest, State, and private lands adjacent to the park. The location and use of such rights-of-way shall be subject to such regulations as may be prescribed by the Secretary of the Interior;
 

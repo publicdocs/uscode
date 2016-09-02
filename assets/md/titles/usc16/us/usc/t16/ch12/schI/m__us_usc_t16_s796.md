@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s794, 795.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
+[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s793a.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
 
 ## § 796. Definitions
 
-The words defined in this section shall have the following meanings for purposes of this chapter, to wit:
+    The words defined in this section shall have the following meanings for purposes of this chapter, to wit:
 
     (1) “public lands” means such lands and interest in lands owned by the United States as are subject to private appropriation and disposal under public land laws. It shall not include “reservations”, as hereinafter defined;
 
@@ -227,7 +227,7 @@ The words defined in this section shall have the following meanings for purposes
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s794, 795.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
+[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s793a.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
 
 ----------
 ----------

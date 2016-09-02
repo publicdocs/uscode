@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486a to 486w.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
 
 ## § 487. Cutting timber on land added to Siskiyou National Forest
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486a to 486w.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
 
 ----------
 ----------

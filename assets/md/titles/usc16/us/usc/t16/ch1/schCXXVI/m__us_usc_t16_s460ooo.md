@@ -15,7 +15,7 @@
 
 ## § 460ooo. Definitions
 
-For the purposes of this subchapter, the following definitions apply:
+    For the purposes of this subchapter, the following definitions apply:
 
     (1) __Conservation Area__ 
 

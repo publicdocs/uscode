@@ -15,7 +15,7 @@
 
 ## § 6501. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to reduce wildfire risk to communities, municipal water supplies, and other at-risk Federal land through a collaborative process of planning, prioritizing, and implementing hazardous fuel reduction projects;
 

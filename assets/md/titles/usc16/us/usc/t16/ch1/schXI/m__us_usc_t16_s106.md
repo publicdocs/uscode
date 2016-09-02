@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s100 to 105.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs106)
+[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s99.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs106)
 
 ## § 106. Repealed. [Dec. 16, 1930, ch. 14, § 1][/us/act/1930-12-16/ch14/s1], [46 Stat. 1028][/us/stat/46/1028]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s100 to 105.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs106)
+[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s99.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s107.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs106)
 
 ----------
 ----------

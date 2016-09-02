@@ -15,7 +15,7 @@
 
 ## § 1423. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Agreement__ 
 

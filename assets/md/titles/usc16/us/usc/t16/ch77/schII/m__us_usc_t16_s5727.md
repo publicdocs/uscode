@@ -15,7 +15,7 @@
 
 ## § 5727. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of the Interior to carry out this subchapter $4,000,000 for each of fiscal years 2007 through 2011 of which—
+    There are authorized to be appropriated to the Secretary of the Interior to carry out this subchapter $4,000,000 for each of fiscal years 2007 through 2011 of which—
 
     (1) such sums as are necessary shall be available each fiscal year for travel expenses of Panel members, alternate Panel members, United States members of the Joint Technical Committee established by paragraph C.2 of the memorandum of understanding concerning the Pacific Salmon Treaty between the Government of the United States and the Government of Canada (recorded January 28, 1985), and members of an advisory committee established and appointed under [section 5722 of this title][/us/usc/t16/s5722], in accordance with Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
 

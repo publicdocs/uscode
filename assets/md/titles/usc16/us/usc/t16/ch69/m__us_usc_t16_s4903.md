@@ -15,7 +15,7 @@
 
 ## § 4903. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) The term “Convention” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, as amended, signed in Washington on March 3, 1973, and the Appendices thereto.
 

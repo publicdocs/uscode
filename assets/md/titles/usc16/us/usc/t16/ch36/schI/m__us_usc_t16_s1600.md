@@ -15,7 +15,7 @@
 
 ## § 1600. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the management of the Nation’s renewable resources is highly complex and the uses, demand for, and supply of the various resources are subject to change over time;
 

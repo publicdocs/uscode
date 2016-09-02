@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19 to 19c.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19d)
+[Previous](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_ch1_schIII.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19d)
 
 ## § 19d. Repealed. [Aug. 30, 1954, ch. 1076, § 1(25)][/us/act/1954-08-30/ch1076/s1/25], [68 Stat. 968][/us/stat/68/968]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19 to 19c.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19d)
+[Previous](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_ch1_schIII.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19d)
 
 ----------
 ----------

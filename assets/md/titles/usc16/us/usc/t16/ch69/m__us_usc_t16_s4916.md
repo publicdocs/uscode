@@ -15,7 +15,7 @@
 
 ## § 4916. Relationship to State law
 
-Nothing in this chapter may be construed as precluding the regulation under State law of the sale, transfer, or possession of exotic birds if such regulation—
+    Nothing in this chapter may be construed as precluding the regulation under State law of the sale, transfer, or possession of exotic birds if such regulation—
 
     (1) does not authorize any sale, transfer, or possession of exotic birds that is prohibited under this chapter; and
 

@@ -23,7 +23,9 @@
 
 [Pub. L. 98–422][/us/pl/98/422] provided:
 
->     “That (a) in recognition of its historic significance to the United States and Canada, the Saint Croix Island National Monument in the State of Maine is hereby redesignated as the ‘Saint Croix Island International Historic Site’.
+>     “That 
+
+>     (a) in recognition of its historic significance to the United States and Canada, the Saint Croix Island National Monument in the State of Maine is hereby redesignated as the ‘Saint Croix Island International Historic Site’.
 
 >     “(b) Any reference in a law, map, regulation, document, record, or other paper of the United States to such monument shall be deemed to be a reference to the ‘Saint Croix Island International Historic Site’.
 

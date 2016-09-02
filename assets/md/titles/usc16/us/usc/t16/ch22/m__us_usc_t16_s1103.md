@@ -15,7 +15,7 @@
 
 ## § 1103. Powers of Commission
 
-The Commission shall have juridical personality and all powers and capacity necessary or appropriate for the purpose of performing its functions pursuant to the agreement between the Governments of the United States and Canada signed January 22, 1964, which shall include but not be limited to the power and capacity—
+    The Commission shall have juridical personality and all powers and capacity necessary or appropriate for the purpose of performing its functions pursuant to the agreement between the Governments of the United States and Canada signed January 22, 1964, which shall include but not be limited to the power and capacity—
 
     (a) to acquire property, both real and personal, or interests therein, by gift, including conditional gifts whether conditioned on the expenditure of funds to be met therefrom or not, by purchase, by lease or otherwise, and to hold or dispose of the same under such terms and conditions as it sees fit, excepting the power to dispose of the Roosevelt home and the tract of land on which it is located;
 

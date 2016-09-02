@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s597 to 600.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s602.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs601)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s594a.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s602.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs601)
 
 ## § 601. Disposition of moneys collected for depredations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s597 to 600.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s602.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs601)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s594a.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s602.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs601)
 
 ----------
 ----------

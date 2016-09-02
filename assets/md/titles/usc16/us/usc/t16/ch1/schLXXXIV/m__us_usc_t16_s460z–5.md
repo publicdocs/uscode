@@ -15,7 +15,7 @@
 
 ## § 460z–5. Land acquisition in inland sector
 
-Within the inland sector established by [section 460z–2 of this title][/us/usc/t16/s460z–2] the Secretary may acquire the following classes of property only with the consent of the owner:
+    Within the inland sector established by [section 460z–2 of this title][/us/usc/t16/s460z–2] the Secretary may acquire the following classes of property only with the consent of the owner:
 
     (a) improved property as hereinafter defined;
 

@@ -15,7 +15,7 @@
 
 ## § 941a. Purpose
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to develop and implement proposals for the restoration of fish and wildlife resources in the Great Lakes Basin; and
 

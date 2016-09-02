@@ -15,7 +15,7 @@
 
 ## § 831d. Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power
 
-The Board is authorized—
+    The Board is authorized—
 
     (a) To contract with commercial producers for the production of such fertilizers or fertilizer materials as may be needed in the Government’s program of development and introduction in excess of that produced by Government plants. Such contracts may provide either for outright purchase of materials by the Board or only for the payment of carrying charges on special materials manufactured at the board’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Board’s”. </sup></sup>  request for its program.
 

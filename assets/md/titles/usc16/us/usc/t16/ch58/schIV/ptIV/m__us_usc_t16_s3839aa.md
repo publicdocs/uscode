@@ -15,7 +15,7 @@
 
 ## § 3839aa. Purposes
 
-The purposes of the environmental quality incentives program established by this part are to promote agricultural production, forest management, and environmental quality as compatible goals, and to optimize environmental benefits, by—
+    The purposes of the environmental quality incentives program established by this part are to promote agricultural production, forest management, and environmental quality as compatible goals, and to optimize environmental benefits, by—
 
     (1)
 

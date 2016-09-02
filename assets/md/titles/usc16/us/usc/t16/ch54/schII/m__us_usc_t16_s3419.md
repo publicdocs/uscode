@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3416 to 3418.md) | [Next](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3419)
+[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3415.md) | [Next](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3419)
 
 ## § 3419. Repealed. [Pub. L. 104–66, title I, § 1011(q)][/us/pl/104/66/s1011/q], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3416 to 3418.md) | [Next](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3419)
+[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3415.md) | [Next](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3419)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 698o. Protection of significant historic assets
 
-The Secretary, with the consent of the owners thereof, may acquire by donation or purchase with donated funds the following properties or sites of significant historic interest in Duval County, Florida:
+    The Secretary, with the consent of the owners thereof, may acquire by donation or purchase with donated funds the following properties or sites of significant historic interest in Duval County, Florida:
 
     (1) Spanish sixteenth century forts San Gabriel and San Estaban.
 

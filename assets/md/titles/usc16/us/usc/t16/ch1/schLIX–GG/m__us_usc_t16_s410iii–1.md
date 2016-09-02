@@ -15,7 +15,7 @@
 
 ## § 410iii–1. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) The Battle of Cedar Creek, also known as the battle of Belle Grove, was a major event of the Civil War and the history of this country. It represented the end of the Civil War’s Shenandoah Valley campaign of 1864 and contributed to the reelection of President Abraham Lincoln and the eventual outcome of the war.
 

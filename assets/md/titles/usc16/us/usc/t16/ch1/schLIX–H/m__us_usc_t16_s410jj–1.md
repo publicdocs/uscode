@@ -15,7 +15,7 @@
 
 ## § 410jj–1. Purposes
 
-The Congress declares the following to constitute the principal purposes of the park:
+    The Congress declares the following to constitute the principal purposes of the park:
 
     (1) to preserve and interpret the Kalaupapa settlement for the education and inspiration of present and future generations;
 

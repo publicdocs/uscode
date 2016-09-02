@@ -15,7 +15,7 @@
 
 ## § 936. Secretary of the Interior; authority to transfer lamprey control projects and act on behalf of United States Section
 
-The Secretary of the Interior is authorized, upon the request of the United States Section—
+    The Secretary of the Interior is authorized, upon the request of the United States Section—
 
     (a) to transfer to the United States Section any lamprey control project or works under his jurisdiction now existing or now under construction; and
 

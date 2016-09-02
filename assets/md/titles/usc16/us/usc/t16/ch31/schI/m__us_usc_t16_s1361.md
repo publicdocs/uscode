@@ -15,7 +15,7 @@
 
 ## § 1361. Congressional findings and declaration of policy
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man’s activities;
 

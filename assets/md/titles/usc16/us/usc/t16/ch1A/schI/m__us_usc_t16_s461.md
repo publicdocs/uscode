@@ -1437,7 +1437,9 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
 [Pub. L. 97–184][/us/pl/97/184], May 24, 1982, [96 Stat. 99][/us/stat/96/99], provided: 
 
-> “That (a) in order to assist in the preservation of the nationally significant historic resources associated with the town of Camden, South Carolina, a key location in the development of South Carolina and in military operations in the South during the American Revolution, the Secretary of the Interior is authorized, in accordance with sub[section 2(e) of the Act of August 21, 1935][/us/act/1935-08-21/s2/e] ([49 Stat. 666][/us/stat/49/666]) \[[section 462(e) of this title][/us/usc/t16/s462/e]\], to enter into a cooperative agreement or agreements with the Camden Historical Commission, the Camden District Heritage Foundation, or other appropriate public, governmental, or private nonprofit entities pursuant to which the Secretary may assist in the protection, restoration, and interpretation of such resources for the benefit of the public.
+>     “That 
+
+>     (a) in order to assist in the preservation of the nationally significant historic resources associated with the town of Camden, South Carolina, a key location in the development of South Carolina and in military operations in the South during the American Revolution, the Secretary of the Interior is authorized, in accordance with sub[section 2(e) of the Act of August 21, 1935][/us/act/1935-08-21/s2/e] ([49 Stat. 666][/us/stat/49/666]) \[[section 462(e) of this title][/us/usc/t16/s462/e]\], to enter into a cooperative agreement or agreements with the Camden Historical Commission, the Camden District Heritage Foundation, or other appropriate public, governmental, or private nonprofit entities pursuant to which the Secretary may assist in the protection, restoration, and interpretation of such resources for the benefit of the public.
 
 >     “(b) Beginning October 1, 1982, there are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[this note\], but not to exceed $250,000.”
 
@@ -1469,7 +1471,7 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
 >         “(C) private use subject to appropriate local zoning ordinances designed to protect the historical rural setting.
 
->     “(2) Within eighteen months following the date of enactment of this section \[Nov. 10, 1978\], the Secretary shall transmit the plan to the President of the Senate and the Speaker of the House of Representatives.
+>         “(2) Within eighteen months following the date of enactment of this section \[Nov. 10, 1978\], the Secretary shall transmit the plan to the President of the Senate and the Speaker of the House of Representatives.
 
 >     “(c)
 

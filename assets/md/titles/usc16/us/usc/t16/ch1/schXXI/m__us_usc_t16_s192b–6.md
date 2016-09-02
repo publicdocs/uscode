@@ -15,7 +15,7 @@
 
 ## § 192b–6. Exchange of lands
 
-The Secretary of the Interior is authorized to exchange in the manner and to the extent hereinafter provided land, interests in land, and improvements in Rocky Mountain National Park:
+    The Secretary of the Interior is authorized to exchange in the manner and to the extent hereinafter provided land, interests in land, and improvements in Rocky Mountain National Park:
 
     (1) The Secretary may convey to the Colorado Transportation Company the possessory interest which the United States has in the Fall River Pass Building, but not the land upon which the building is situated, adjacent to the Trail Ridge Road in section 36, township 6 north, range 75 west: Provided, The United States shall reserve for a period of two years the right to use without charge the alpine exhibit room; and he may also convey to said company all right, title, and interest of the United States in and to the property known as Grand Lake Lodge, described in [section 192b–8 of this title][/us/usc/t16/s192b–8] as parcel A, including the land and any improvements thereon owned by the United States;
 

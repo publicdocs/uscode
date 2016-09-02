@@ -15,7 +15,7 @@
 
 ## § 5603. Authorities of Secretary of State with respect to Convention
 
-The Secretary of State may, on behalf of the Government of the United States—
+    The Secretary of State may, on behalf of the Government of the United States—
 
     (1) receive and transmit reports, requests, recommendations, proposals, and other communications of and to the Organization and its subsidiary organs;
 

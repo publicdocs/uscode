@@ -135,11 +135,11 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(e)(1), (2), 308, Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(e)(1), (2), 308, Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
-(1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and
+    (1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and
 
-(2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.
+    (2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.
 
  __References in Text__ 
 

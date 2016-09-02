@@ -15,7 +15,7 @@
 
 ## § 5152. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Magnuson Act” means the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.).
 

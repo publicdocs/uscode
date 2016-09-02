@@ -15,7 +15,7 @@
 
 ## § 450rr–1. Definitions
 
-For the purposes of sections 450rr to 450rr–6 of this title, the term—
+    For the purposes of sections 450rr to 450rr–6 of this title, the term—
 
     (a) “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration (NOAA);
 

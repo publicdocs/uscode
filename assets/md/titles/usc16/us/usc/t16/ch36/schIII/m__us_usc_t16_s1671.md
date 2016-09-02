@@ -15,7 +15,7 @@
 
 ## § 1671. Congressional statement of findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) the extension program of the Department of Agriculture and the extension activities of each State provide useful and productive educational programs for private forest and range landowners and processors and consumptive and nonconsumptive users of forest and rangeland renewable resources, and these educational programs complement research and assistance programs conducted by the Department of Agriculture;
 

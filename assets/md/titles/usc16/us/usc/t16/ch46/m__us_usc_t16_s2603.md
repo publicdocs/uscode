@@ -15,7 +15,7 @@
 
 ## § 2603. Relationship to antitrust laws
 
-Nothing in this Act or in any amendment made by this Act affects—
+    Nothing in this Act or in any amendment made by this Act affects—
 
     (1) the applicability of the antitrust laws to any electric utility or gas utility (as defined in [section 3202 of title 15][/us/usc/t15/s3202]), or
 

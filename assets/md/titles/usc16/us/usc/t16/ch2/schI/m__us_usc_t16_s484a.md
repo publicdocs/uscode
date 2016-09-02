@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s483, 484.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s482q.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
 
 ## § 484a. Exchange of lands in national forests; public schools; deposit of funds by school authority with insufficient exchange land; limitations on use
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s483, 484.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s482q.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
 
 ----------
 ----------

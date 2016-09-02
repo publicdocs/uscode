@@ -15,7 +15,7 @@
 
 ## § 521d. Sale, exchange, or interchange of National Forest System land
 
-The Secretary is authorized, when the Secretary determines it to be in the public interest—
+    The Secretary is authorized, when the Secretary determines it to be in the public interest—
 
     (1) to sell, exchange, or interchange by quitclaim deed, all right, title, and interest, including the mineral estate, of the United States in and to National Forest System lands described in [section 521e of this title][/us/usc/t16/s521e]; and
 

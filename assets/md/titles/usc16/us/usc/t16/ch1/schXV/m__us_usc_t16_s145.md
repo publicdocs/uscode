@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s143, 144.md) | [Next](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs145)
+[Previous](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s142.md) | [Next](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs145)
 
 ## § 145. Exchange of lands
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s143, 144.md) | [Next](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs145)
+[Previous](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s142.md) | [Next](./../../../../..//us/usc/t16/ch1/schXV/m__us_usc_t16_s146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs145)
 
 ----------
 ----------

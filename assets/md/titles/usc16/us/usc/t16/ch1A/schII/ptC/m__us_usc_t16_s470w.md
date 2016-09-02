@@ -15,7 +15,7 @@
 
 ## § 470w. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “Agency” means agency as such term is defined in [section 551 of title 5][/us/usc/t5/s551].
 

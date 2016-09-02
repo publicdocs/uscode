@@ -15,7 +15,7 @@
 
 ## § 6202. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to ensure, to the maximum extent practicable, that the National Forest System recreation residence program is managed to preserve the opportunity for individual and family-oriented recreation; and
 

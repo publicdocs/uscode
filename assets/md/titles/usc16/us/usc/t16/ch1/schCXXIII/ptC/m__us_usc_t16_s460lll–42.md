@@ -15,7 +15,7 @@
 
 ## § 460lll–42. Statement of policy
 
-It is the policy of the United States that, to the maximum extent practicable—
+    It is the policy of the United States that, to the maximum extent practicable—
 
     (1) the transfer of jurisdiction over the Recreation Area from the Tennessee Valley Authority to the Secretary should be effected in an efficient and cost-effective manner; and
 

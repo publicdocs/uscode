@@ -109,7 +109,9 @@
 
 >     No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission \[Federal Energy Regulatory Commission\] before the date of the enactment of this Act \[Nov. 9, 1978\].
 
->     “(b) __Other Authorities.—No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall limit, impair or otherwise affect any authority of the Commission or any other agency or instrumentality of the United States under any other provision of law except as specifically provided in this title.”__ 
+>     “(b) __Other Authorities.—__ 
+
+>     No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall limit, impair or otherwise affect any authority of the Commission or any other agency or instrumentality of the United States under any other provision of law except as specifically provided in this title.”
 
 ----------
 

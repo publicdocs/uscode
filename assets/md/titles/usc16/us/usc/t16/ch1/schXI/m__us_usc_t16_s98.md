@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s96, 97.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs98)
+[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s95.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs98)
 
 ## § 98. Protection of game and fish; forfeitures and punishments
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s96, 97.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs98)
+[Previous](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s95.md) | [Next](./../../../../..//us/usc/t16/ch1/schXI/m__us_usc_t16_s99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs98)
 
 ----------
 ----------

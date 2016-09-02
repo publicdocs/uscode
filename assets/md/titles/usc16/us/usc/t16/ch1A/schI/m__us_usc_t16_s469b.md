@@ -15,7 +15,7 @@
 
 ## § 469b. Administration; contracts or agreements; services of experts, consultants, or organizations; acceptance of funds
 
-In the administration of sections 469 to 469c–1 of this title, the Secretary may—
+    In the administration of sections 469 to 469c–1 of this title, the Secretary may—
 
     (1) enter into contracts or make cooperative agreements with any Federal or State agency, any educational or scientific organization, or any institution, corporation, association, or qualified individual; and
 

@@ -15,7 +15,7 @@
 
 ## § 460y–4. Authority of Secretary
 
-The Secretary is authorized—
+    The Secretary is authorized—
 
     (1) __Conduct of public hearings__ 
 

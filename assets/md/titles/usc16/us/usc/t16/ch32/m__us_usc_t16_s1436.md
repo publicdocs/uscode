@@ -15,7 +15,7 @@
 
 ## § 1436. Prohibited activities
 
-It is unlawful for any person to—
+    It is unlawful for any person to—
 
     (1) destroy, cause the loss of, or injure any sanctuary resource managed under law or regulations for that sanctuary;
 

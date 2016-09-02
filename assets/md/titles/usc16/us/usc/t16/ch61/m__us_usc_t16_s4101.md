@@ -15,7 +15,7 @@
 
 ## § 4101. Congressional statement of purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to promote and encourage State activities in support of the management of interjurisdictional fishery resources;
 

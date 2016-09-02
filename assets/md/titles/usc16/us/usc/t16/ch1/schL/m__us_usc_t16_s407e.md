@@ -17,7 +17,7 @@
 
     Carlsbad Caverns National Park situated in the State of New Mexico shall consist of the following described lands:
 
-    new mexico principal meridian, new mexico
+new mexico principal meridian, new mexico
 
     Township 24 south, range 23 east: south half section 35; section 36.
 

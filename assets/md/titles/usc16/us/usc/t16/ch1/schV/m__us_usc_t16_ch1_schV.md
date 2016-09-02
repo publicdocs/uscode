@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schIV/m__us_usc_t16_s20 to 20g.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s21.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschV)
+[Previous](./../../../../..//us/usc/t16/ch1/schIV/m__us_usc_t16_ch1_schIV.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s21.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschV)
 
 ### SUBCHAPTER V—YELLOWSTONE NATIONAL PARK
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schIV/m__us_usc_t16_s20 to 20g.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s21.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschV)
+[Previous](./../../../../..//us/usc/t16/ch1/schIV/m__us_usc_t16_ch1_schIV.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_s21.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschV)
 
 ----------
 ----------

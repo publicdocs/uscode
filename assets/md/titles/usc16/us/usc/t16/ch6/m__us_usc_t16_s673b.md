@@ -17,7 +17,7 @@
 
     The following-described lands of the Jackson Hole National Monument are made a part of the National Elk Refuge and shall be administered hereafter in accordance with the laws applicable to said refuge:
 
-    sixth principal meridian
+sixth principal meridian
 
     Township 42 north, range 116 west: Those portions of sections 24, 25, 26, and 35 lying east of the east right-of-way line of United States Highway Numbered 187, and lying south and east of the north and west bank of the Gros Ventre River.
 

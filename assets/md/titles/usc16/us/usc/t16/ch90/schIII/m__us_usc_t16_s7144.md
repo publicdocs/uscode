@@ -17,15 +17,19 @@
 
     (a) __In general__ 
 
-        The authority to initiate projects under this subchapter terminates on September 30, 2012.
+        The authority to initiate projects under this subchapter terminates on September 30, 2013.
 
     (b) __Availability__ 
 
-        Any county funds not obligated by September 30, 2013, shall be returned to the Treasury of the United States.
+        Any county funds not obligated by September 30, 2014, shall be returned to the Treasury of the United States.
 
-([Pub. L. 106–393, title III, § 304][/us/pl/106/393/s304], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3910][/us/stat/122/3910]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], (10), July 6, 2012, [126 Stat. 905][/us/stat/126/905], 906.)
+([Pub. L. 106–393, title III, § 304][/us/pl/106/393/s304], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3910][/us/stat/122/3910]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], (10), July 6, 2012, [126 Stat. 905][/us/stat/126/905], 906; [Pub. L. 113–40, § 10(a)(3)][/us/pl/113/40/s10/a/3], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545].)
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–40, § 10(a)(3)(A)][/us/pl/113/40/s10/a/3/A], substituted “2013” for “2012”.
+
+    Subsec. (b). [Pub. L. 113–40, § 10(a)(3)(B)][/us/pl/113/40/s10/a/3/B], substituted “2014” for “2013”.
 
     2012—Subsec. (a). [Pub. L. 112–141, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], substituted “2012” for “2011”.
 
@@ -43,6 +47,10 @@
 [/us/stat/122/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3910
 [/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
 [/us/stat/126/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F905
+[/us/pl/113/40/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F3
+[/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
+[/us/pl/113/40/s10/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F3%2FA
+[/us/pl/113/40/s10/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F3%2FB
 [/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
 [/us/pl/112/141/s100101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F10
 

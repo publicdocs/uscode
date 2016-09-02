@@ -15,7 +15,7 @@
 
 ## § 545. Mount Pleasant National Scenic Area; purposes
 
-The purposes of sections 545 and 545a of this title with respect to the Mount Pleasant National Scenic Area are to—
+    The purposes of sections 545 and 545a of this title with respect to the Mount Pleasant National Scenic Area are to—
 
     (1) ensure appropriate protection and preservation of the scenic quality, water quality, natural characteristics, and water resources;
 

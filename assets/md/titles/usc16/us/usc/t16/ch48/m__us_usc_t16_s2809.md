@@ -15,7 +15,7 @@
 
 ## § 2809. Authorizations for appropriations
 
-For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
+    For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
 
     (1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2012;
 
@@ -23,7 +23,7 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 
     (3) to the Department of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of the”. </sup></sup>  Interior, $1,000,000 for each of fiscal years 1991 through 2012.
 
-        Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
+    Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
 
 ([Pub. L. 96–362, § 10][/us/pl/96/362/s10], Sept. 26, 1980, [94 Stat. 1205][/us/stat/94/1205]; [Pub. L. 98–623, title IV, § 402][/us/pl/98/623/s402], Nov. 8, 1984, [98 Stat. 3407][/us/stat/98/3407]; [Pub. L. 99–198, title XVII, § 1737][/us/pl/99/198/s1737], Dec. 23, 1985, [99 Stat. 1643][/us/stat/99/1643]; [Pub. L. 101–624, title XVI, § 1614(d)][/us/pl/101/624/s1614/d], Nov. 28, 1990, [104 Stat. 3728][/us/stat/104/3728]; [Pub. L. 105–185, title III, § 301(i)][/us/pl/105/185/s301/i], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7139][/us/pl/107/171/s7139], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7414][/us/pl/110/234/s7414], May 22, 2008, [122 Stat. 1256][/us/stat/122/1256]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7414, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2017.)
 

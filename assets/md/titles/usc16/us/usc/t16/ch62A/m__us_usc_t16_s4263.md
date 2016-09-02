@@ -15,7 +15,7 @@
 
 ## § 4263. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, signed on March 3, 1973, and its appendices.
 

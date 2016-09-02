@@ -15,7 +15,7 @@
 
 ## § 2462. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) The term “Antarctica” means the area south of the Antarctic Convergence as defined in [section 2432(1) of this title][/us/usc/t16/s2432/1].
 

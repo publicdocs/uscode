@@ -305,9 +305,9 @@ SUBCHAPTER III—MIGRATORY BIRD CONSERVATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715" data-uslm-ref="/us/usc/t16/s715">715</a>l, 715m. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715" data-uslm-ref="/us/usc/t16/s715">715</a>l, 715m.  </td>
 
-    <td>   </td>
+    <td> Repealed.  </td>
 
   </tr>
 

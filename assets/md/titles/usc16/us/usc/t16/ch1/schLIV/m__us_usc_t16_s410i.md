@@ -15,7 +15,7 @@
 
 ## § 410i. Exterior boundaries; administration
 
-Notwithstanding [section 410 of this title][/us/usc/t16/s410], or any action taken pursuant to authority contained therein, the exterior boundary of Everglades National Park, Florida, is subject to the provisions of section 410o of this title, fixed to include the following described lands:
+    Notwithstanding [section 410 of this title][/us/usc/t16/s410], or any action taken pursuant to authority contained therein, the exterior boundary of Everglades National Park, Florida, is subject to the provisions of section 410o of this title, fixed to include the following described lands:
 
     (1) Beginning at the intersection of the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, and the west line of township 54 south, range 37 east, as shown on the Everglades National Park base map numbered NP–EVE–7109, revised August 10, 1949;    thence southerly along the west line of township 54 south, range 37 east, along the west line of Government lot 6 lying between township 54 south, and township 55 south, range 37 east, and along the west line of township 55 south, range 37 east, and township 56 south, range 37 east and along the west lines of sections 6, 7, and 18, township 57 south, range 37 east, to the southwest corner of section 18, said township and range;
 
@@ -173,7 +173,7 @@ Notwithstanding [section 410 of this title][/us/usc/t16/s410], or any action tak
 
     (3) Not to exceed 35 acres, to be acquired by donation only, in or in the vicinity of Everglades City, Florida, which the Secretary of the Interior may find necessary and suitable for furthering administration and use of the park.
 
-        Land and water now in Federal ownership within said boundary shall continue to be administered as Everglades National Park; however, the land and water therein not in Federal ownership shall be administered as a part of the park only after being acquired as hereinafter provided.
+    Land and water now in Federal ownership within said boundary shall continue to be administered as Everglades National Park; however, the land and water therein not in Federal ownership shall be administered as a part of the park only after being acquired as hereinafter provided.
 
 ([Pub. L. 85–482, § 1][/us/pl/85/482/s1], July 2, 1958, [72 Stat. 280][/us/stat/72/280].)
 

@@ -15,7 +15,7 @@
 
 ## § 410vv. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to interpret the history and evolution of conservation stewardship in America;
 

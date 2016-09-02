@@ -15,7 +15,7 @@
 
 ## § 1162. Authority of Secretary to operate, maintain, and repair Government-owned property; necessary facilities, services, and equipment for Federal employees and dependents
 
-In carrying out the provisions of this subchapter, the Secretary is authorized—
+    In carrying out the provisions of this subchapter, the Secretary is authorized—
 
     (1) to operate, maintain, and repair such Government-owned property, both real and personal, and other facilities held by the Secretary on the Pribilof Islands as may be necessary; and
 

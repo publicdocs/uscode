@@ -15,7 +15,7 @@
 
 ## § 18c. Rules and regulations; employees
 
-In the performance of his functions and duties under the provisions of sections 18 to 18d of this title, the Secretary of Commerce is authorized—
+    In the performance of his functions and duties under the provisions of sections 18 to 18d of this title, the Secretary of Commerce is authorized—
 
     (a) To prescribe, amend, and repeal such rules and regulations as he may deem necessary, and to accept contributions for carrying out the purposes of said sections; and
 

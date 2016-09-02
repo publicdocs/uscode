@@ -15,7 +15,7 @@
 
 ## § 5952. Award of concessions contracts
 
-In furtherance of the findings and policy stated in [section 5951 of this title][/us/usc/t16/s5951], and except as provided by this subchapter or otherwise authorized by law, the Secretary shall utilize concessions contracts to authorize a person, corporation, or other entity to provide accommodations, facilities, and services to visitors to units of the National Park System. Such concessions contracts shall be awarded as follows:
+    In furtherance of the findings and policy stated in [section 5951 of this title][/us/usc/t16/s5951], and except as provided by this subchapter or otherwise authorized by law, the Secretary shall utilize concessions contracts to authorize a person, corporation, or other entity to provide accommodations, facilities, and services to visitors to units of the National Park System. Such concessions contracts shall be awarded as follows:
 
     (1) __Competitive selection process__ 
 

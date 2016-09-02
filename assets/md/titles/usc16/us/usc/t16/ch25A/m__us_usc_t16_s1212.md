@@ -15,7 +15,7 @@
 
 ## § 1212. Investigation and control of crown of thorns starfish
 
-In carrying out the purposes of this chapter, the Secretary of Commerce and the Secretary of the Smithsonian Institution are authorized to—
+    In carrying out the purposes of this chapter, the Secretary of Commerce and the Secretary of the Smithsonian Institution are authorized to—
 
     (1) conduct such studies, research, and investigations, as they deem desirable to determine the causes of the population increase of the “Crown of Thorns”, their effects on corals and coral reefs, and the stability and regeneration of reefs following predation;
 

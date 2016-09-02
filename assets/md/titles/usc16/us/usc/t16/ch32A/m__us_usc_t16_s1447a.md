@@ -15,7 +15,7 @@
 
 ## § 1447a. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Board” means any Regional Marine Research board  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  established pursuant to [section 1447b(a) of this title][/us/usc/t16/s1447b/a];
 

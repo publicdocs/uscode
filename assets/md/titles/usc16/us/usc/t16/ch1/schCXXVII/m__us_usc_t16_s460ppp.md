@@ -15,7 +15,7 @@
 
 ## § 460ppp. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The areas of northwestern Nevada known as the Black Rock Desert and High Rock Canyon contain and surround the last nationally significant, untouched segments of the historic California emigrant Trails, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  including wagon ruts, historic inscriptions, and a wilderness landscape largely unchanged since the days of the pioneers.
 

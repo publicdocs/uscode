@@ -15,7 +15,7 @@
 
 ## § 773j. Authorization of appropriations
 
-There is hereby authorized to be appropriated for fiscal year 1983 and beyond, such sums as may be necessary for carrying out the Convention and this subchapter, including—
+    There is hereby authorized to be appropriated for fiscal year 1983 and beyond, such sums as may be necessary for carrying out the Convention and this subchapter, including—
 
     (a) necessary travel expenses of the United States Commissioners or alternate Commissioners; and
 

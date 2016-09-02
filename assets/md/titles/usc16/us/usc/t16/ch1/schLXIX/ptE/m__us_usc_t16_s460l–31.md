@@ -15,7 +15,7 @@
 
 ## § 460l–31. Findings
 
-The Congress finds and declares the following:
+    The Congress finds and declares the following:
 
     (1) There is a Federal responsibility to provide opportunities for public recreation at Federal water projects.
 

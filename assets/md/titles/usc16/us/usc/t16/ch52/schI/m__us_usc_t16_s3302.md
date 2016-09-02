@@ -15,7 +15,7 @@
 
 ## § 3302. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “appropriate tribal coordinating body” means the Columbia River tribal coordinating body or the Washington tribal coordinating body, as the context requires.
 

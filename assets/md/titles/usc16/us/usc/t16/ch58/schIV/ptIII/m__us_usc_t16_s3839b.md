@@ -15,7 +15,7 @@
 
 ## § 3839b. Duties of Secretary
 
-In return for the granting of an easement by an owner under this part, the Secretary shall—
+    In return for the granting of an easement by an owner under this part, the Secretary shall—
 
     (1) share the cost of carrying out the establishment of conservation measures and practices set forth in the plan for which the Secretary determines that cost sharing is appropriate and in the public interest;
 

@@ -15,7 +15,7 @@
 
 ## § 797. General powers of Commission
 
-The Commission is authorized and empowered—
+    The Commission is authorized and empowered—
 
     (a) __Investigations and data__ 
 

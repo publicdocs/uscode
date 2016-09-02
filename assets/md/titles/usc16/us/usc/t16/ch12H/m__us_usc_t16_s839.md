@@ -15,7 +15,7 @@
 
 ## § 839. Congressional declaration of purpose
 
-The purposes of this chapter, together with the provisions of other laws applicable to the Federal Columbia River Power System, are all intended to be construed in a consistent manner. Such purposes are also intended to be construed in a manner consistent with applicable environmental laws. Such purposes are:
+    The purposes of this chapter, together with the provisions of other laws applicable to the Federal Columbia River Power System, are all intended to be construed in a consistent manner. Such purposes are also intended to be construed in a manner consistent with applicable environmental laws. Such purposes are:
 
     (1)
 

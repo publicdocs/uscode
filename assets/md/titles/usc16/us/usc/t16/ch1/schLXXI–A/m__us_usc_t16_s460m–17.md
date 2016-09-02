@@ -15,7 +15,7 @@
 
 ## § 460m–17. Lands and areas plan; submission to Congressional committees
 
-Within two years from November 10, 1978, the Secretary shall submit, in writing, to the House Committee on Interior and Insular Affairs, the Senate Committee on Energy and Natural Resources and the Committees on Appropriations of the United States Congress, a detailed plan which shall indicate—
+    Within two years from November 10, 1978, the Secretary shall submit, in writing, to the House Committee on Interior and Insular Affairs, the Senate Committee on Energy and Natural Resources and the Committees on Appropriations of the United States Congress, a detailed plan which shall indicate—
 
     (i) the lands and areas which he deems essential to the protection and public enjoyment of the natural, scenic, and historic values and objects of this national river;
 

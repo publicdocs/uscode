@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s44, 45.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a)
+[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s43.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a)
 
 ## § 45a. Sequoia National Park; revision of boundaries
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s44, 45.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a)
+[Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s43.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a)
 
 ----------
 ----------

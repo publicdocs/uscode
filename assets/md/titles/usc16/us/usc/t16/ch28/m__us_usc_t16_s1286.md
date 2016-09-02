@@ -15,7 +15,7 @@
 
 ## § 1286. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (a) “River” means a flowing body of water or estuary or a section, portion, or tributary thereof, including rivers, streams, creeks, runs, kills, rills, and small lakes.
 

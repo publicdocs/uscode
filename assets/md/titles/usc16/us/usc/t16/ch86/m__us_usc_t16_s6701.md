@@ -15,7 +15,7 @@
 
 ## § 6701. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) there is an increasing threat of wildfire to millions of acres of forest land and rangeland throughout the United States;
 

@@ -15,7 +15,7 @@
 
 ## § 3641. Authorization of appropriations
 
-There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
+    There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
 
     (a) necessary travel expenses of the Commissioners, Panel members, alternate Commissioners, alternate Panel members, United States members of joint technical committees established under article IV of the Treaty, and advisory committee members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
 

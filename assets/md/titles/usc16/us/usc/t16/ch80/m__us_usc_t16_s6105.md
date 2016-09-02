@@ -15,7 +15,7 @@
 
 ## § 6105. Duties of the Secretary
 
-In carrying out this chapter, the Secretary shall—
+    In carrying out this chapter, the Secretary shall—
 
     (1) develop guidelines for the solicitation of proposals for projects eligible for financial assistance under [section 6104 of this title][/us/usc/t16/s6104];
 

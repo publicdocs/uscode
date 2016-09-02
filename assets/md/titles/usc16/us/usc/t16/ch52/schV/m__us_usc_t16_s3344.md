@@ -15,7 +15,7 @@
 
 ## § 3344. Construction with other laws
 
-Nothing in this chapter shall be construed—
+    Nothing in this chapter shall be construed—
 
     (1) to diminish Federal, State, or tribal jurisdiction, responsibility, or rights in the field of resource enhancement and management, or control of water resources, submerged lands, or navigable waters; nor to limit the authority of Congress to authorize and fund projects; or
 

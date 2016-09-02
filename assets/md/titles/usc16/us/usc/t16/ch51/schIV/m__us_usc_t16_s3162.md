@@ -15,7 +15,7 @@
 
 ## § 3162. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) The term “applicable law” means any law of general applicability (other than this subchapter) under which any Federal department or agency has jurisdiction to grant any authorization (including but not limited to, any right-of-way, permit, license, lease, or certificate) without which a transportation or utility system cannot, in whole or in part, be established or operated.
 

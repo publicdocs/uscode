@@ -15,101 +15,99 @@
 
 ## § 460u–3. “Improved property” and “appropriate map” defined; terms and conditions for rights of use and occupancy
 
-As used in this subchapter, the term “improved property” means a detached, one-family dwelling which meets each of the following criteria:
+    As used in this subchapter, the term “improved property” means a detached, one-family dwelling which meets each of the following criteria:
 
     (1) The construction of the dwelling began before the date (shown in the table contained in this section) corresponding to the appropriate map.
 
     (2) The property is located within the boundaries delineated on the map described in such table which corresponds to such date.
 
-    (3)
+    (3) The property is not located within the boundaries of any other map referred to in such table which bears an earlier date.
 
-     The property is not located within the boundaries of any other map referred to in such table which bears an earlier date.
-
-        The term “appropriate map”, means a map identified as “Boundary Map—Indiana Dunes National Lakeshore” (or “A Proposed Indiana Dunes National Lakeshore” in the case of a dwelling the construction of which was begun before January 4, 1965) which is dated and numbered as provided in the following table.
+    The term “appropriate map”, means a map identified as “Boundary Map—Indiana Dunes National Lakeshore” (or “A Proposed Indiana Dunes National Lakeshore” in the case of a dwelling the construction of which was begun before January 4, 1965) which is dated and numbered as provided in the following table.
 
 <table>
 
-          <tr>
+      <tr>
 
-            <td> 
+        <td> 
 
-        Property within boundaries of map  </td>
+    Property within boundaries of map  </td>
 
-            <td> 
+        <td> 
 
-        Construction   began before  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-         Dated October 1992, No. 626–80,039–C  </td>
-
-            <td> 
-
-        October 1, 1991  </td>
+    Construction   began before  </td>
 
   </tr>
 
-          <tr>
+      <tr>
 
-            <td> 
+        <td> 
 
-         Dated October 1986, No. 626–80,033–B  </td>
+     Dated October 1992, No. 626–80,039–C  </td>
 
-            <td> 
+        <td> 
 
-        February 1, 1986  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-         Dated December 1980, No. 626–91014  </td>
-
-            <td> 
-
-        January 1, 1981  </td>
+    October 1, 1991  </td>
 
   </tr>
 
-          <tr>
+      <tr>
 
-            <td> 
+        <td> 
 
-         Dated September 1976, No. 626–91007  </td>
+     Dated October 1986, No. 626–80,033–B  </td>
 
-            <td> 
+        <td> 
 
-        February 1, 1973  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-         Dated September 1966, No. LNPNE–1008–ID  </td>
-
-            <td> 
-
-        January 4, 1965  </td>
+    February 1, 1986  </td>
 
   </tr>
 
-        </table>
+      <tr>
+
+        <td> 
+
+     Dated December 1980, No. 626–91014  </td>
+
+        <td> 
+
+    January 1, 1981  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+     Dated September 1976, No. 626–91007  </td>
+
+        <td> 
+
+    February 1, 1973  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+     Dated September 1966, No. LNPNE–1008–ID  </td>
+
+        <td> 
+
+    January 4, 1965  </td>
+
+  </tr>
+
+    </table>
 
     The term “improved property” also includes the lands on which the dwelling is situated which meets both of the following criteria:
 
-        (A) The land is in the same ownership as the dwelling.
+    (A) The land is in the same ownership as the dwelling.
 
-        (B) The Secretary has designated the lands as reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use.
+    (B) The Secretary has designated the lands as reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use.
 
-        Such term also includes any structures accessory to the dwelling which are situated on the lands so designated. The maps referred to in this section shall be on file and available for public inspection in the Office of the Director of the National Park Service, Department of the Interior. The Secretary shall designate the land referred to in subparagraph (B). The amount of land so designated shall in every case be not more than three acres in area, and in making such designation the Secretary shall take into account the manner of noncommercial residential use in which the dwelling and land have customarily been enjoyed: Provided, That the Secretary may exclude from the land so designated any beach or waters, together with so much of the land adjoining such beach or waters, as he may deem necessary for public access thereto or public use thereof. All rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of such property in accordance with the purposes of this subchapter.
+    Such term also includes any structures accessory to the dwelling which are situated on the lands so designated. The maps referred to in this section shall be on file and available for public inspection in the Office of the Director of the National Park Service, Department of the Interior. The Secretary shall designate the land referred to in subparagraph (B). The amount of land so designated shall in every case be not more than three acres in area, and in making such designation the Secretary shall take into account the manner of noncommercial residential use in which the dwelling and land have customarily been enjoyed: Provided, That the Secretary may exclude from the land so designated any beach or waters, together with so much of the land adjoining such beach or waters, as he may deem necessary for public access thereto or public use thereof. All rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of such property in accordance with the purposes of this subchapter.
 
 ([Pub. L. 89–761, § 4][/us/pl/89/761/s4], Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 94–549, § 1(3)][/us/pl/94/549/s1/3], Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529]; [Pub. L. 96–612, § 1(5)][/us/pl/96/612/s1/5], Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575]; [Pub. L. 99–583, § 1(b)][/us/pl/99/583/s1/b], Oct. 29, 1986, [100 Stat. 3318][/us/stat/100/3318]; [Pub. L. 102–430, § 4(a)][/us/pl/102/430/s4/a], Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208].)
 

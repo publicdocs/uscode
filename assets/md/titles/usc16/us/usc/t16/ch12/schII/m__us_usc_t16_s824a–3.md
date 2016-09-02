@@ -301,7 +301,7 @@
 
 >     “(2) a project described in paragraphs (2), (3), or (4) of subsection (b) \[set out as a note above\].
 
->         For purposes of this subsection, the term ‘moratorium period’ means the period beginning on the date of the enactment of this Act and ending at the expiration of the first full session of Congress after the session during which the report under subsection (d) \[set out as a note above\] has been submitted to the Congress.”
+>     For purposes of this subsection, the term ‘moratorium period’ means the period beginning on the date of the enactment of this Act and ending at the expiration of the first full session of Congress after the session during which the report under subsection (d) \[set out as a note above\] has been submitted to the Congress.”
 
  __Definitions__ 
 

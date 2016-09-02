@@ -15,7 +15,7 @@
 
 ## § 3123. Periodic reports
 
-Within four years after December 2, 1980, and within every three-year period thereafter, the Secretary, in consultation with the Secretary of Agriculture, shall prepare and submit a report to the President of the Senate and the Speaker of the House of Representatives on the implementation of this subchapter. The report shall include—
+    Within four years after December 2, 1980, and within every three-year period thereafter, the Secretary, in consultation with the Secretary of Agriculture, shall prepare and submit a report to the President of the Senate and the Speaker of the House of Representatives on the implementation of this subchapter. The report shall include—
 
     (1) an evaluation of the results of the monitoring undertaken by the Secretary as required by [section 3116 of this title][/us/usc/t16/s3116];
 
@@ -31,7 +31,7 @@ Within four years after December 2, 1980, and within every three-year period the
 
     (7) such other recommendations the Secretary deems appropriate.
 
-        A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
+    A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
 
 ([Pub. L. 96–487, title VIII, § 813][/us/pl/96/487/s813], Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
 

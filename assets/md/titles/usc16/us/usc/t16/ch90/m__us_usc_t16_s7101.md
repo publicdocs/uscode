@@ -15,7 +15,7 @@
 
 ## § 7101. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to stabilize and transition payments to counties to provide funding for schools and roads that supplements other available funds;
 

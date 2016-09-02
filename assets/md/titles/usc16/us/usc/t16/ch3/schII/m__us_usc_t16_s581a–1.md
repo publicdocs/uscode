@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581, 581a.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581a–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581a%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_ch3_schII.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581a–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581a%E2%80%931)
 
 ## § 581a–1. Repealed. [Pub. L. 95–307, § 4(d)][/us/pl/95/307/s4/d], June 30, 1978, [92 Stat. 355][/us/stat/92/355]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581, 581a.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581a–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581a%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_ch3_schII.md) | [Next](./../../../../..//us/usc/t16/ch3/schII/m__us_usc_t16_s581a–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581a%E2%80%931)
 
 ----------
 ----------

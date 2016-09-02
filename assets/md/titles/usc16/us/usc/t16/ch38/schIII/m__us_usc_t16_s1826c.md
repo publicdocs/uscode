@@ -15,7 +15,7 @@
 
 ## § 1826c. Definitions
 
-In sections 1826a to 1826c of this title, the following definitions apply:
+    In sections 1826a to 1826c of this title, the following definitions apply:
 
     (1) __Fish and fish products__ 
 

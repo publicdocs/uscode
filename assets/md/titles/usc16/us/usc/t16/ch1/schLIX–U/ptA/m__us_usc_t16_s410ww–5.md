@@ -15,7 +15,7 @@
 
 ## § 410ww–5. Cooperation of Federal agencies
 
-Any Federal entity conducting or supporting activities directly affecting the park shall—
+    Any Federal entity conducting or supporting activities directly affecting the park shall—
 
     (1) consult with, cooperate with, and to the maximum extent practicable, coordinate its activities with the Secretary; and
 

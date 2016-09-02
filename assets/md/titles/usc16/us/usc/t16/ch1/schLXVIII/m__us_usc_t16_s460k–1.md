@@ -15,7 +15,7 @@
 
 ## § 460k–1. Acquisition of lands for recreational development; funds
 
-The Secretary is authorized to acquire areas of land, or interests therein, which are suitable for—
+    The Secretary is authorized to acquire areas of land, or interests therein, which are suitable for—
 
     (1) incidental fish and wildlife-oriented recreational development,
 
@@ -25,7 +25,7 @@ The Secretary is authorized to acquire areas of land, or interests therein, whic
 
     (4) carrying out two or more of the purposes set forth in paragraphs (1) through (3) of this section, and are adjacent to, or within, the said conservation areas, except that the acquisition of any land or interest therein pursuant to this section shall be accomplished only with such funds as may be appropriated therefor by the Congress or donated for such purposes, but such property shall not be acquired with funds obtained from the sale of Federal migratory bird hunting stamps.
 
-        Lands acquired pursuant to this section shall become a part of the particular conservation area to which they are adjacent.
+    Lands acquired pursuant to this section shall become a part of the particular conservation area to which they are adjacent.
 
 ([Pub. L. 87–714, § 2][/us/pl/87/714/s2], Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653]; [Pub. L. 92–534][/us/pl/92/534], Oct. 23, 1972, [86 Stat. 1063][/us/stat/86/1063]; [Pub. L. 93–205, § 13(d)][/us/pl/93/205/s13/d], Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902].)
 

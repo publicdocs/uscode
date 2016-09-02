@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406 to 406d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_ch1_schXLIX.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
 
 ## § 406d–1. Establishment; boundaries; administration
 
@@ -205,7 +205,7 @@ The second sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406 to 406d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_ch1_schXLIX.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
 
 ----------
 ----------

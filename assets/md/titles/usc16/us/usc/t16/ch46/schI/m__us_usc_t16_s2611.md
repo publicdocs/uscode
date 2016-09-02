@@ -15,7 +15,7 @@
 
 ## § 2611. Purposes
 
-The purposes of this chapter are to encourage—
+    The purposes of this chapter are to encourage—
 
     (1) conservation of energy supplied by electric utilities;
 

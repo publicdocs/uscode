@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s588 to 590.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
+[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
 
 ## CHAPTER 3B—SOIL CONSERVATION
 
@@ -219,7 +219,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s588 to 590.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
+[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
 
 ----------
 ----------

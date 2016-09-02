@@ -15,7 +15,7 @@
 
 ## § 460l–5. Land and water conservation fund; establishment; covering certain revenues and collections into fund
 
-During the period ending September 30, 2015, there shall be covered into the land and water conservation fund in the Treasury of the United States, which fund is hereby established and is hereinafter referred to as the “fund”, the following revenues and collections:
+    During the period ending September 30, 2015, there shall be covered into the land and water conservation fund in the Treasury of the United States, which fund is hereby established and is hereinafter referred to as the “fund”, the following revenues and collections:
 
     (a) __Surplus property sales__ 
 

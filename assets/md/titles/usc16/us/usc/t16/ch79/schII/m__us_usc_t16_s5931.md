@@ -15,7 +15,7 @@
 
 ## § 5931. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to more effectively achieve the mission of the National Park Service;
 

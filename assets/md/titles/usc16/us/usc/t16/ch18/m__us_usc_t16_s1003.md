@@ -15,7 +15,7 @@
 
 ## § 1003. Assistance to local organizations
 
-In order to assist local organizations in preparing and carrying out plans for works of improvement, the Secretary is authorized, upon application of local organizations if such application has been submitted to, and not disapproved within 45 days by, the State agency having supervisory responsibility over programs provided for in this chapter, or by the Governor if there is no State agency having such responsibility—
+    In order to assist local organizations in preparing and carrying out plans for works of improvement, the Secretary is authorized, upon application of local organizations if such application has been submitted to, and not disapproved within 45 days by, the State agency having supervisory responsibility over programs provided for in this chapter, or by the Governor if there is no State agency having such responsibility—
 
     (1) to conduct such investigations and surveys as may be necessary to prepare plans for works of improvement;
 

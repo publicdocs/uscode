@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s10, 10a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s12.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs11)
+[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s9a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s12.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs11)
 
 ## § 11. Medical attention for employees
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s10, 10a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s12.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs11)
+[Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s9a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s12.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs11)
 
 ----------
 ----------

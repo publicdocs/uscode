@@ -15,7 +15,7 @@
 
 ## § 3322. Enhancement project proposals
 
-After the approval of a comprehensive enhancement plan, the State of Washington, the State of Oregon, or a treaty tribe acting through the appropriate tribal coordinating body may submit project proposals to the Secretary in such manner and form as the Secretary shall prescribe. Such application shall include, but not be limited to—
+    After the approval of a comprehensive enhancement plan, the State of Washington, the State of Oregon, or a treaty tribe acting through the appropriate tribal coordinating body may submit project proposals to the Secretary in such manner and form as the Secretary shall prescribe. Such application shall include, but not be limited to—
 
     (1) plans, specifications, and cost estimates of the proposed enhancement project, including estimates of both the capital construction costs of the project and the operation and maintenance costs after commencement of the project;
 

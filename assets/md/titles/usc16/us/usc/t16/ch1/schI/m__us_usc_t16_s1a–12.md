@@ -15,7 +15,7 @@
 
 ## § 1a–12. Evaluation of proposed boundary changes
 
-Within one year after November 28, 1990, the Secretary shall develop criteria to evaluate any proposed changes to the existing boundaries of individual park units including—
+    Within one year after November 28, 1990, the Secretary shall develop criteria to evaluate any proposed changes to the existing boundaries of individual park units including—
 
     (a) analysis of whether or not the existing boundary provides for the adequate protection and preservation of the natural, historic, cultural, scenic and recreational resources integral to the unit;
 

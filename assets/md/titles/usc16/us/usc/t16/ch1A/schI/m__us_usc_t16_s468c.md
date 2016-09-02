@@ -15,7 +15,7 @@
 
 ## § 468c. Powers and duties of National Trust
 
-To the extent necessary to enable it to carry out the functions vested in it by sections 468 to 468d of this title, the National Trust shall have the following general powers:
+    To the extent necessary to enable it to carry out the functions vested in it by sections 468 to 468d of this title, the National Trust shall have the following general powers:
 
     (a) To have succession until dissolved by Act of Congress, in which event title to the properties of the National Trust, both real and personal, shall, insofar as consistent with existing contractual obligations and subject to all other legally enforceable claims or demands by or against the National Trust, pass to and become vested in the United States of America.
 

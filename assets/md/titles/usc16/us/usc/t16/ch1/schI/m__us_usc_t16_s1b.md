@@ -15,7 +15,7 @@
 
 ## § 1b. Secretary of the Interior’s authorization of additional activities; administration of National Park System
 
-In order to facilitate the administration of the National Park System, the Secretary of the Interior is authorized to carry out the following activities, and he may use applicable appropriations for the aforesaid system for the following purposes:
+    In order to facilitate the administration of the National Park System, the Secretary of the Interior is authorized to carry out the following activities, and he may use applicable appropriations for the aforesaid system for the following purposes:
 
     (1) __Emergency assistance__ 
 

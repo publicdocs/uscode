@@ -15,7 +15,7 @@
 
 ## § 952. Commissioners; number, appointment, and qualification
 
-The United States shall be represented on the two commissions by a total of not more than four United States Commissioners, who shall be appointed by the President, serve as such during his pleasure, and receive no compensation for their services as such Commissioners. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of such Commissioners—
+    The United States shall be represented on the two commissions by a total of not more than four United States Commissioners, who shall be appointed by the President, serve as such during his pleasure, and receive no compensation for their services as such Commissioners. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of such Commissioners—
 
     (a) not more than one shall be a person residing elsewhere than in a State whose vessels maintain a substantial fishery in the areas of the conventions;
 

@@ -15,7 +15,7 @@
 
 ## § 670. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Military installation__ 
 

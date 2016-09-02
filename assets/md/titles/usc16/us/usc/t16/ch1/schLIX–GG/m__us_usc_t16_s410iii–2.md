@@ -15,7 +15,7 @@
 
 ## § 410iii–2. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Commission__ 
 

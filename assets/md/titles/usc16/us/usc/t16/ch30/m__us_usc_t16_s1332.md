@@ -15,7 +15,7 @@
 
 ## § 1332. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) “Secretary” means the Secretary of the Interior when used in connection with public lands administered by him through the Bureau of Land Management and the Secretary of Agriculture in connection with public lands administered by him through the Forest Service;
 

@@ -15,7 +15,7 @@
 
 ## § 2601. Findings
 
-The Congress finds that the protection of the public health, safety, and welfare, the preservation of national security, and the proper exercise of congressional authority under the Constitution to regulate interstate commerce require—
+    The Congress finds that the protection of the public health, safety, and welfare, the preservation of national security, and the proper exercise of congressional authority under the Constitution to regulate interstate commerce require—
 
     (1) a program providing for increased conservation of electric energy, increased efficiency in the use of facilities and resources by electric utilities, and equitable retail rates for electric consumers,
 

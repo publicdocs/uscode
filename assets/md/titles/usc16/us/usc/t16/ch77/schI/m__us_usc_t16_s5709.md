@@ -15,7 +15,7 @@
 
 ## § 5709. Authorization of appropriations
 
-There are authorized to be appropriated $4,000,000 for each fiscal year for carrying out the purposes and provisions of the Agreement and this subchapter including—
+    There are authorized to be appropriated $4,000,000 for each fiscal year for carrying out the purposes and provisions of the Agreement and this subchapter including—
 
     (1) necessary travel expenses of Panel members, alternate Panel members, United States members of the Joint Technical Committee, and members of the Advisory Committee in accordance with Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
 

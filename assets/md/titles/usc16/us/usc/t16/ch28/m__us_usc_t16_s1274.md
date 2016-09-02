@@ -169,7 +169,9 @@
 
         That portion within the Gates of the Arctic National Park; to be administered by the Secretary of the Interior.
 
-        (31) __Kobuk, Alaska—That portion within the Gates of the Arctic National Park and Preserve; to be administered by the Secretary of the Interior.__ 
+        (31) __Kobuk, Alaska—__ 
+
+        That portion within the Gates of the Arctic National Park and Preserve; to be administered by the Secretary of the Interior.
 
         (32) __Mulchatna, Alaska—__ 
 
@@ -259,9 +261,13 @@
 
         The main river from its sources on Mount Dana and Mount Lyell in Yosemite National Park to Don Pedro Reservoir consisting of approximately 83 miles as generally depicted on the proposed boundary map entitled “Alternative A” contained in the Draft Tuolumne Wild and Scenic River Study and Environmental Impact Statement published by the United States Department of the Interior and Department of Agriculture in May 1979; to be administered by the Secretary of the Interior and the Secretary of Agriculture. After consultation with State and local governments and the interested public and within two years from September 28, 1984, the Secretary shall take such action as is required under subsection (b) of this section. Nothing in this chapter shall preclude the licensing, development, operation, or maintenance of water resources facilities on those portions of the North Fork, Middle Fork or South Fork of the Tuolumne or Clavey Rivers that are outside the boundary of the wild and scenic river area as designated in this section. Nothing in this section is intended or shall be construed to affect any rights, obligations, privileges, or benefits granted under any prior authority of law including chapter 4 of the Act of December 19, 1913, commonly referred to as the Raker Act ([38 Stat. 242][/us/stat/38/242]) and including any agreement or administrative ruling entered into or made effective before September 28, 1984. For fiscal years commencing after September 30, 1985, there are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
 
-        (54) __Illinois, Oregon: The segment from the boundary of the Siskiyou National Forest downstream to its confluence with the Rogue River as generally depicted on a map entitled “Illinois River Study” and is also part of a report entitled “A Proposal: Illinois Wild and Scenic River”; to be administered by the Secretary of Agriculture. After consultation with State and local governments and the interested public, the Secretary shall take such action as is required under subsection (b) of this section within one year from__  __October 19, 1984__  __. For the purposes of this chapter with respect to the river designated by this paragraph, effective__  __October 1, 1984__  __, there are authorized to be appropriated such sums as necessary for the acquisition of lands or interests in lands, and such sums as necessary for development.__ 
+        (54) __Illinois, Oregon:__ 
 
-        (55) __Owyhee, Oregon: The South Fork from the Idaho-Oregon State line downstream to Three Forks; the Owyhee River from Three Forks downstream to China Gulch; and the Owyhee River downstream from Crooked Creek to the Owyhee Reservoir as generally depicted on a map entitled “Owyhee, Oregon” dated April 1984; all three segments to be administered as a wild river by the Secretary of the Interior. After consultation with State and local governments and the interested public, the Secretary shall take such appropriate action as is required under subsection (b) of this section within one year from__  __October 19, 1984__  __. For the purposes of this chapter with respect to the river designated by this paragraph, effective__  __October 1, 1984__  __, there are authorized to be appropriated such sums as necessary for the acquisition of lands or interests and such sums as necessary for development.__ 
+         The segment from the boundary of the Siskiyou National Forest downstream to its confluence with the Rogue River as generally depicted on a map entitled “Illinois River Study” and is also part of a report entitled “A Proposal: Illinois Wild and Scenic River”; to be administered by the Secretary of Agriculture. After consultation with State and local governments and the interested public, the Secretary shall take such action as is required under subsection (b) of this section within one year from October 19, 1984. For the purposes of this chapter with respect to the river designated by this paragraph, effective October 1, 1984, there are authorized to be appropriated such sums as necessary for the acquisition of lands or interests in lands, and such sums as necessary for development.
+
+        (55) __Owyhee, Oregon:__ 
+
+         The South Fork from the Idaho-Oregon State line downstream to Three Forks; the Owyhee River from Three Forks downstream to China Gulch; and the Owyhee River downstream from Crooked Creek to the Owyhee Reservoir as generally depicted on a map entitled “Owyhee, Oregon” dated April 1984; all three segments to be administered as a wild river by the Secretary of the Interior. After consultation with State and local governments and the interested public, the Secretary shall take such appropriate action as is required under subsection (b) of this section within one year from October 19, 1984. For the purposes of this chapter with respect to the river designated by this paragraph, effective October 1, 1984, there are authorized to be appropriated such sums as necessary for the acquisition of lands or interests and such sums as necessary for development.
 
         (56) __Horsepasture, North Carolina—__ 
 
@@ -291,9 +297,13 @@
 
         The segment from Fairley Bridge Landing upstream to Moody’s Landing as generally depicted on a map entitled “Black Creek Wild and Scenic River”, numbered FS–58 and dated March 1986, to be administered by the Secretary of Agriculture as a scenic river area under [section 1273(b)(2) of this title][/us/usc/t16/s1273/b/2]. For the purposes of the segment designated by this paragraph, there are authorized to be appropriated up to $300,000 for the acquisition of lands and interests in lands and for development.
 
-        (60) __Klickitat, Washington: The segment from its confluence with Wheeler Creek, Washington, near the town of Pitt, Washington, to its confluence with the Columbia River; to be classified as a recreation river and to be administered by the Secretary of Agriculture. The boundaries of the designated portions of the Klickitat River shall be as generally depicted on a map dated November, 1987, and entitled “Klickitat National Recreation River, River Management Area: Final Boundary”, which is on file in the office of the Chief, Forest Service, Washington, District of Columbia.__ 
+        (60) __Klickitat, Washington:__ 
 
-        (61) __White Salmon, Washington: The segment from its confluence with Gilmer Creek, Washington, near the town of B Z Corner, Washington, to its confluence with Buck Creek, Washington; to be classified as a scenic river and to be administered by the Secretary of Agriculture.__ 
+         The segment from its confluence with Wheeler Creek, Washington, near the town of Pitt, Washington, to its confluence with the Columbia River; to be classified as a recreation river and to be administered by the Secretary of Agriculture. The boundaries of the designated portions of the Klickitat River shall be as generally depicted on a map dated November, 1987, and entitled “Klickitat National Recreation River, River Management Area: Final Boundary”, which is on file in the office of the Chief, Forest Service, Washington, District of Columbia.
+
+        (61) __White Salmon, Washington:__ 
+
+         The segment from its confluence with Gilmer Creek, Washington, near the town of B Z Corner, Washington, to its confluence with Buck Creek, Washington; to be classified as a scenic river and to be administered by the Secretary of Agriculture.
 
         (62) __Merced, California.—__ 
 
@@ -333,9 +343,7 @@
 
             (A) __Sipsey Fork of the West Fork, Alabama.—__ 
 
-            Segments of the Sipsey Fork and several tributaries; to be administered by the Secretary of Agriculture in the classifications indicated, as follows:
-
-                (1) Sipsey Fork from the confluence of Sandy Creek upstream to Forest Highway 26, as a scenic river; and
+            Segments of the Sipsey Fork and several tributaries; to be administered by the Secretary of Agriculture in the classifications indicated, as follows:    (1) Sipsey Fork from the confluence of Sandy Creek upstream to Forest Highway 26, as a scenic river; and
 
                 (2) Sipsey Fork from Forest Highway 26 upstream to it  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “its”. </sup></sup>  origin at the confluence of Thompson Creek and Hubbard Creek, as a wild river; and
 
@@ -1837,57 +1845,57 @@
 
             The segment from the head of Imlay Creek to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
 
-                (AA) __Orderville canyon.—__ 
+            (AA) __Orderville canyon.—__ 
 
-                The segment from the eastern boundary of Zion National Park to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+            The segment from the eastern boundary of Zion National Park to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
 
-                (BB) __Mystery canyon.—__ 
+            (BB) __Mystery canyon.—__ 
 
-                The segment from the head of Mystery Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+            The segment from the head of Mystery Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
 
-                (CC) __Echo canyon.—__ 
+            (CC) __Echo canyon.—__ 
 
-                The segment from the eastern boundary of Zion National Park to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+            The segment from the eastern boundary of Zion National Park to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
 
-                (DD) __Behunin canyon.—__ 
+            (DD) __Behunin canyon.—__ 
 
-                The segment from the head of Behunin Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+            The segment from the head of Behunin Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
 
-                (EE) __Heaps canyon.—__ 
+            (EE) __Heaps canyon.—__ 
 
-                The segment from the head of Heaps Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
+            The segment from the head of Heaps Canyon to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a wild river.
 
-                (FF) __Birch creek.—__ 
+            (FF) __Birch creek.—__ 
 
-                The segment from the head of Birch Creek to the junction with the North Fork of the Virgin River and adjacent land ½-mile wide, as a wild river.
+            The segment from the head of Birch Creek to the junction with the North Fork of the Virgin River and adjacent land ½-mile wide, as a wild river.
 
-                (GG) __Oak creek.—__ 
+            (GG) __Oak creek.—__ 
 
-                The segment of Oak Creek from the head of Oak Creek to where the forks join and adjacent land ½-mile wide, as a wild river.
+            The segment of Oak Creek from the head of Oak Creek to where the forks join and adjacent land ½-mile wide, as a wild river.
 
-                (HH) __Oak creek.—__ 
+            (HH) __Oak creek.—__ 
 
-                The 1-mile segment of Oak Creek from the point at which the 2 forks of Oak Creek join to the junction with the North Fork of the Virgin River and adjacent land ½-mile wide, as a recreational river.
+            The 1-mile segment of Oak Creek from the point at which the 2 forks of Oak Creek join to the junction with the North Fork of the Virgin River and adjacent land ½-mile wide, as a recreational river.
 
-                (II) __Clear creek.—__ 
+            (II) __Clear creek.—__ 
 
-                The 6.4-mile segment of Clear Creek from the eastern boundary of Zion National Park to the junction with Pine Creek and adjacent land rim-to-rim, as a recreational river.
+            The 6.4-mile segment of Clear Creek from the eastern boundary of Zion National Park to the junction with Pine Creek and adjacent land rim-to-rim, as a recreational river.
 
-                (JJ) __Pine creek.—__ 
+            (JJ) __Pine creek.—__ 
 
-                The 2-mile segment of Pine Creek from the head of Pine Creek to the junction with Clear Creek and adjacent land rim-to-rim, as a wild river.
+            The 2-mile segment of Pine Creek from the head of Pine Creek to the junction with Clear Creek and adjacent land rim-to-rim, as a wild river.
 
-                (KK) __Pine creek.—__ 
+            (KK) __Pine creek.—__ 
 
-                The 3-mile segment of Pine Creek from the junction with Clear Creek to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a recreational river.
+            The 3-mile segment of Pine Creek from the junction with Clear Creek to the junction with the North Fork of the Virgin River and adjacent land rim-to-rim, as a recreational river.
 
-                (LL) __East fork of the virgin river.—__ 
+            (LL) __East fork of the virgin river.—__ 
 
-                The 8-mile segment of the East Fork of the Virgin River from the eastern boundary of Zion National Park through Parunuweap Canyon to the western boundary of Zion National Park and adjacent land ½-mile wide, as a wild river.
+            The 8-mile segment of the East Fork of the Virgin River from the eastern boundary of Zion National Park through Parunuweap Canyon to the western boundary of Zion National Park and adjacent land ½-mile wide, as a wild river.
 
-                (MM) __Shunes creek.—__ 
+            (MM) __Shunes creek.—__ 
 
-                The 3-mile segment of Shunes Creek from the dry waterfall on land administered by the Bureau of Land Management through Zion National Park to the western boundary of Zion National Park and adjacent land ½-mile wide as a wild river.
+            The 3-mile segment of Shunes Creek from the dry waterfall on land administered by the Bureau of Land Management through Zion National Park to the western boundary of Zion National Park and adjacent land ½-mile wide as a wild river.
 
         (205) __Fossil creek, arizona.—__ 
 

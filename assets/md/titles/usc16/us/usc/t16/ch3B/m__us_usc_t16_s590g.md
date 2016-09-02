@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590f.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g–1, 590g–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590f.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g)
 
 ## § 590g. Additional policies and purposes of chapter
 
@@ -47,9 +47,17 @@
 
     Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under [section 590a of this title][/us/usc/t16/s590a].
 
+§§ 590g–1, 590g–2. __Omitted__ 
+
+ __Codification__ 
+
+    Section 590g–1, acts [July 5, 1952, ch. 574][/us/act/1952-07-05/ch574], title I, [66 Stat. 347][/us/stat/66/347]; [July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I, [67 Stat. 216][/us/stat/67/216], which related to allocations to the Soil Conservation Service for services of its technicians in formulating and carrying out the agricultural conservation program in the participating counties, was apparently restricted to the appropriation acts of which in each case it was a part.
+
+    Section 590g–2, [act July 5, 1952, ch. 574][/us/act/1952-07-05/ch574], title I, [66 Stat. 347][/us/stat/66/347], which related to allocations for State agricultural conservation programs to be utilized in determining the most needed conservation practices on individual farms, was apparently restricted to the appropriation act of which it was a part.
+
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590f.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g–1, 590g–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590f.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g)
 
 ----------
 ----------
@@ -85,5 +93,11 @@
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
+[/us/act/1952-07-05/ch574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-05%2Fch574
+[/us/stat/66/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F347
+[/us/act/1953-07-28/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch251
+[/us/stat/67/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F216
+[/us/act/1952-07-05/ch574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-05%2Fch574
+[/us/stat/66/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F347
 
 

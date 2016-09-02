@@ -15,7 +15,7 @@
 
 ## § 1412. International Dolphin Conservation Program
 
-The Secretary of State, in consultation with the Secretary, shall seek to secure a binding international agreement to establish an International Dolphin Conservation Program that requires—
+    The Secretary of State, in consultation with the Secretary, shall seek to secure a binding international agreement to establish an International Dolphin Conservation Program that requires—
 
     (1) that the total annual dolphin mortality in the purse seine fishery for yellowfin tuna in the eastern tropical Pacific Ocean shall not exceed 5,000 animals with a commitment and objective to progressively reduce dolphin mortality to a level approaching zero through the setting of annual limits;
 

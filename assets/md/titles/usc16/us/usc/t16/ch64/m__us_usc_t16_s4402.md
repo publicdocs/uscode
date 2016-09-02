@@ -15,7 +15,7 @@
 
 ## § 4402. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service.
 

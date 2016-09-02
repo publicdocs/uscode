@@ -15,7 +15,7 @@
 
 ## § 426. Stones River National Battlefield; establishment; appointment of commission
 
-A commission is created, to be composed of the following members, who shall be appointed by the Secretary of the Interior:
+    A commission is created, to be composed of the following members, who shall be appointed by the Secretary of the Interior:
 
     (1) A commissioned officer of the Corps of Engineers, United States Army;
 

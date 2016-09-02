@@ -15,7 +15,7 @@
 
 ## § 470–1. Declaration of policy of the Federal Government
 
-It shall be the policy of the Federal Government, in cooperation with other nations and in partnership with the States, local governments, Indian tribes, and private organizations and individuals to—
+    It shall be the policy of the Federal Government, in cooperation with other nations and in partnership with the States, local governments, Indian tribes, and private organizations and individuals to—
 
     (1) use measures, including financial and technical assistance, to foster conditions under which our modern society and our prehistoric and historic resources can exist in productive harmony and fulfill the social, economic, and other requirements of present and future generations;
 

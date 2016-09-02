@@ -15,7 +15,7 @@
 
 ## § 470x–1. Definitions
 
-For the purposes of this part—
+    For the purposes of this part—
 
     (1) The term “Board” means the National Preservation Technology and Training Board established pursuant to [section 470x–3 of this title][/us/usc/t16/s470x–3].
 

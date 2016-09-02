@@ -15,7 +15,7 @@
 
 ## § 450ss–1. Definitions
 
-In sections 450ss to 450ss–7 of this title:
+    In sections 450ss to 450ss–7 of this title:
 
     (1) __Foundation__ 
 

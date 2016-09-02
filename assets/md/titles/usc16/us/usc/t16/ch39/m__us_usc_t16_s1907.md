@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1903 to 1906.md) | [Next](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1908.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1907)
+[Previous](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1902.md) | [Next](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1908.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1907)
 
 ## § 1907. Recordation of mining claims; publication of notice
 
@@ -25,7 +25,7 @@ Section 3 of this Act, referred to in text, is [section 3 of Pub. L. 94–429][/
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1903 to 1906.md) | [Next](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1908.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1907)
+[Previous](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1902.md) | [Next](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1908.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1907)
 
 ----------
 ----------

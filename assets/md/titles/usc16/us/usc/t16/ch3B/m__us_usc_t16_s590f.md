@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e–1, 590e–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
 
 ## § 590f. Authorization of appropriation
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e–1, 590e–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
 
 ----------
 ----------

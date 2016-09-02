@@ -15,7 +15,7 @@
 
 ## § 521h. Regulations; contents
 
-The Secretary shall issue regulations to carry out the provisions of sections 521c to 521i of this title, including specification of—
+    The Secretary shall issue regulations to carry out the provisions of sections 521c to 521i of this title, including specification of—
 
     (1) criteria which shall be used in making the determination as to what constitutes the public interest;
 

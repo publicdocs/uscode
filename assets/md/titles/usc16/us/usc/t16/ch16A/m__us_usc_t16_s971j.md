@@ -15,7 +15,7 @@
 
 ## § 971j. Annual report
 
-Not later than April 1, 1996, and annually thereafter, the Secretary shall prepare and transmit to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, that—
+    Not later than April 1, 1996, and annually thereafter, the Secretary shall prepare and transmit to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, that—
 
     (1) details for the previous 10-year period the catches and exports to the United States of highly migratory species (including tunas, swordfish, marlin and sharks) from Nations fishing on Atlantic stocks of such species that are subject to management by the Commission;
 

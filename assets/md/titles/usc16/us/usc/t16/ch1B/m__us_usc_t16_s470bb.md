@@ -15,7 +15,7 @@
 
 ## § 470bb. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “archaeological resource” means any material remains of past human life or activities which are of archaeological interest, as determined under uniform regulations promulgated pursuant to this chapter. Such regulations containing such determi­nation shall include, but not be limited to: pottery, basketry, bottles, weapons, weapon projectiles, tools, structures or portions of structures, pit houses, rock paintings, rock carvings, intaglios, graves, human skeletal materials, or any portion or piece of any of the foregoing items. Nonfossilized and fossilized paleontological specimens, or any portion or piece thereof, shall not be considered archaeological resources, under the regulations under this paragraph, unless found in archaeological context. No item shall be treated as an archaeological resource under regulations under this paragraph unless such item is at least 100 years of age.
 

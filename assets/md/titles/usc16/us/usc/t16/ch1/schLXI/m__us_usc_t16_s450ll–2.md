@@ -15,7 +15,7 @@
 
 ## § 450ll–2. Maintenance of museum; provision for parks, construction of roads and use of markers
 
-The Secretary of the Interior is authorized to—
+    The Secretary of the Interior is authorized to—
 
     (1) maintain, either in an existing structure acquired under section 450ll of this title or in a building constructed by him for the purpose, a museum for relics and records pertaining to Booker T. Washington, and for other articles of national and patriotic interest, and to accept, on behalf of the United States, for installation in such museum, articles which may be offered as additions to the museum; and
 

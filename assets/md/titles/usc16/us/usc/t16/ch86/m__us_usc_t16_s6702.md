@@ -15,7 +15,7 @@
 
 ## § 6702. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to enhance the capacity to develop, transfer, apply, monitor, and regularly update practical science-based forest restoration treatments that will reduce the risk of severe wildfires, and improve the health of dry forest and woodland ecosystems in the interior West;
 

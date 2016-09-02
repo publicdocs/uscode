@@ -493,9 +493,13 @@
 
 >                 “(ii) __Vacancies.—__ 
 
->                          “(I) In general.—A vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
+>                          “(I) __In general.—__ 
 
->                          “(II) Partial term.—A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the predecessor of the member was appointed.
+>                     A vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
+
+>                          “(II) __Partial term.—__ 
+
+>                     A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the predecessor of the member was appointed.
 
 >                 “(iii) __Continuation of membership.—__ 
 

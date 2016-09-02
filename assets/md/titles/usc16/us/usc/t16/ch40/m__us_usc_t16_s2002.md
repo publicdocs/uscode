@@ -15,7 +15,7 @@
 
 ## § 2002. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “Secretary” means the Secretary of Agriculture.
 

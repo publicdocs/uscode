@@ -15,7 +15,7 @@
 
 ## § 460gg–7. Rules and regulations
 
-The Secretary shall promulgate, and may amend, such rules and regulations as he deems necessary to accomplish the purposes of this subchapter. Such rules and regulations shall include, but are not limited to—
+    The Secretary shall promulgate, and may amend, such rules and regulations as he deems necessary to accomplish the purposes of this subchapter. Such rules and regulations shall include, but are not limited to—
 
     (a) standards for the use and development of privately owned property within the recreation area, which rules or regulations the Secretary may, to the extent he deems advisable, implement with the authorities delegated to him in [section 460gg–6 of this title][/us/usc/t16/s460gg–6], and which may differ among the various parcels of land within the recreation area;
 

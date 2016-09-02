@@ -15,7 +15,7 @@
 
 ## § 4002. Congressional statement of purpose
 
-The purpose of this chapter is to—
+    The purpose of this chapter is to—
 
     (1) strengthen the competitive position of the United States commercial fishing industry in the domestic and international marketplace;
 

@@ -15,7 +15,7 @@
 
 ## § 6801. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Standard amenity recreation fee__ 
 

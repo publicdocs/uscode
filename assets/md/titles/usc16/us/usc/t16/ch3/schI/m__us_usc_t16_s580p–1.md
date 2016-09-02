@@ -15,7 +15,7 @@
 
 ## § 580p–1. Property of the United States
 
-The following are hereby declared the property of the United States:
+    The following are hereby declared the property of the United States:
 
     (1) The name and character “Smokey Bear”.
 

@@ -15,7 +15,7 @@
 
 ## § 916. Definitions
 
-When used in this subchapter—
+    When used in this subchapter—
 
     (a) Convention: The word “convention” means the International Convention for the Regulation of Whaling signed at Washington under date of December 2, 1946, by the United States of America and certain other governments.
 

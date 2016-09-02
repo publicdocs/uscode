@@ -15,7 +15,7 @@
 
 ## § 410cc–24. Withholding of funds; criteria
 
-The Secretary may refuse to obligate or expend any money appropriated for the purposes described in section 410cc–13(a)(1) or [section 410cc–13(a)(2) of this title][/us/usc/t16/s410cc–13/a/2] if the Secretary determines that—
+    The Secretary may refuse to obligate or expend any money appropriated for the purposes described in section 410cc–13(a)(1) or [section 410cc–13(a)(2) of this title][/us/usc/t16/s410cc–13/a/2] if the Secretary determines that—
 
     (a) the city of Lowell has failed to establish regulations or laws consistent with the standards and criteria established pursuant to [section 410cc–32(e) of this title][/us/usc/t16/s410cc–32/e] within one year after the date such standards and criteria have been established, except that the Secretary may extend such one-year period for not more than six months if the Secretary determines that the city has made a good faith effort to establish such regulations or laws;
 

@@ -11,16 +11,50 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch67/schV/m__us_usc_t16_s4751.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4801 to 4805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch68)
+[Previous](./../../../..//us/usc/t16/ch67/schV/m__us_usc_t16_s4751.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4806.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch68)
 
 ## CHAPTER 68—PACIFIC YEW CONSERVATION AND MANAGEMENT
 
+§§ 4801 to 4805. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 4801 to 4805 were omitted as expired pursuant to [section 4807 of this title][/us/usc/t16/s4807].
+
+    Section 4801, [Pub. L. 102–335, § 2][/us/pl/102/335/s2], Aug. 7, 1992, [106 Stat. 859][/us/stat/106/859], related to findings, purposes, and definitions.
+
+    Section 4802, [Pub. L. 102–335, § 3][/us/pl/102/335/s3], Aug. 7, 1992, [106 Stat. 860][/us/stat/106/860], related to Pacific yew conservation and management.
+
+    Section 4803, [Pub. L. 102–335, § 4][/us/pl/102/335/s4], Aug. 7, 1992, [106 Stat. 861][/us/stat/106/861], related to research regarding ecology of Pacific yew, development of alternative methods of procuring taxol, and propagation of species.
+
+    Section 4804, [Pub. L. 102–335, § 5][/us/pl/102/335/s5], Aug. 7, 1992, [106 Stat. 861][/us/stat/106/861], related to collection and sale of Pacific yew resources.
+
+    Section 4805, [Pub. L. 102–335, § 6][/us/pl/102/335/s6], Aug. 7, 1992, [106 Stat. 862][/us/stat/106/862], related to construction of chapter with other laws.
+
+ __Short Title__ 
+
+    [Pub. L. 102–335, § 1(a)][/us/pl/102/335/s1/a], Aug. 7, 1992, [106 Stat. 859][/us/stat/106/859], provided that [Pub. L. 102–335][/us/pl/102/335] (this chapter) could be cited as the “Pacific Yew Act”.
+
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch67/schV/m__us_usc_t16_s4751.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4801 to 4805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch68)
+[Previous](./../../../..//us/usc/t16/ch67/schV/m__us_usc_t16_s4751.md) | [Next](./../../../..//us/usc/t16/ch68/m__us_usc_t16_s4806.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch68)
 
 ----------
 ----------
 
+[/us/usc/t16/s4807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4807
+[/us/pl/102/335/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335%2Fs2
+[/us/stat/106/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F859
+[/us/pl/102/335/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335%2Fs3
+[/us/stat/106/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F860
+[/us/pl/102/335/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335%2Fs4
+[/us/stat/106/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F861
+[/us/pl/102/335/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335%2Fs5
+[/us/stat/106/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F861
+[/us/pl/102/335/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335%2Fs6
+[/us/stat/106/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F862
+[/us/pl/102/335/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335%2Fs1%2Fa
+[/us/stat/106/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F859
+[/us/pl/102/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F335
 
 

@@ -15,7 +15,7 @@
 
 ## § 773e. Prohibited acts
 
-It is unlawful—
+    It is unlawful—
 
     (a)
 
@@ -39,7 +39,7 @@ It is unlawful—
 
  __Amendment of Subsection (b)__ 
 
-[Pub. L. 102–251, title III][/us/pl/102/251], §§ 302(b), 308, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.
+    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 302(b), 308, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.
 
  __Effective Date of 1992 Amendment__ 
 

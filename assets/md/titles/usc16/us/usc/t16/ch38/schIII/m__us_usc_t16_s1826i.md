@@ -15,7 +15,7 @@
 
 ## § 1826i. Action to strengthen international fishery management organizations
 
-The Secretary, in consultation with the Secretary of State, and in cooperation with relevant fishery management councils and any relevant advisory committees, shall take actions to improve the effectiveness of international fishery management organizations in conserving and managing fish stocks under their jurisdiction. These actions shall include—
+    The Secretary, in consultation with the Secretary of State, and in cooperation with relevant fishery management councils and any relevant advisory committees, shall take actions to improve the effectiveness of international fishery management organizations in conserving and managing fish stocks under their jurisdiction. These actions shall include—
 
     (1)
 

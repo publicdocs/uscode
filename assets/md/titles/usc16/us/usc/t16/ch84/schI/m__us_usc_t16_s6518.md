@@ -15,7 +15,7 @@
 
 ## § 6518. Authorization of appropriations
 
-There is authorized to be appropriated $760,000,000 for each fiscal year to carry out—
+    There is authorized to be appropriated $760,000,000 for each fiscal year to carry out—
 
     (1) activities authorized by this subchapter; and
 

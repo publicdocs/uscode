@@ -15,7 +15,7 @@
 
 ## § 777n. Expenditure of remaining balance in Boat Safety Account
 
-Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under [section 9602(b) of title 26][/us/usc/t26/s9602/b], shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of this section and shall be distributed as follows:
+    Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under [section 9602(b) of title 26][/us/usc/t26/s9602/b], shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of this section and shall be distributed as follows:
 
     (1)
 

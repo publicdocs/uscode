@@ -15,7 +15,7 @@
 
 ## § 1857. Prohibited acts
 
-It is unlawful—
+    It is unlawful—
 
     (1)
 
@@ -117,15 +117,15 @@ It is unlawful—
 
  __Amendment of Section__ 
 
-[Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(h), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, as amended by [Pub. L. 104–297, title IV, § 405(b)(1)][/us/pl/104/297/s405/b/1], Oct. 11, 1996, [110 Stat. 3621][/us/stat/110/3621], provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(h), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, as amended by [Pub. L. 104–297, title IV, § 405(b)(1)][/us/pl/104/297/s405/b/1], Oct. 11, 1996, [110 Stat. 3621][/us/stat/110/3621], provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
-(1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;
+    (1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;
 
-(2) in paragraph (2)(B), by inserting “or areas” immediately after “such zone”;
+    (2) in paragraph (2)(B), by inserting “or areas” immediately after “such zone”;
 
-(3) in paragraph (3), by inserting “or special areas” immediately after “exclusive economic zone”; and
+    (3) in paragraph (3), by inserting “or special areas” immediately after “exclusive economic zone”; and
 
-(4) in paragraph (4), by inserting “or special areas” immediately after “exclusive economic zone”.
+    (4) in paragraph (4), by inserting “or special areas” immediately after “exclusive economic zone”.
 
  __References in Text__ 
 

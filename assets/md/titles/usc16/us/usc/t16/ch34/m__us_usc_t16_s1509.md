@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch34/m__us_usc_t16_s1501 to 1508.md) | [Next](./../../../..//us/usc/t16/ch34/m__us_usc_t16_s1510.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1509)
+[Previous](./../../../..//us/usc/t16/ch34/m__us_usc_t16_ch34.md) | [Next](./../../../..//us/usc/t16/ch34/m__us_usc_t16_s1510.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1509)
 
 ## § 1509. Repealed. [Pub. L. 95–313, § 16(a)(7)][/us/pl/95/313/s16/a/7], formerly § 13(a)(7), July 1, 1978, [92 Stat. 374][/us/stat/92/374]; renumbered § 16(a)(7), [Pub. L. 101–624, title XII, § 1215(1)][/us/pl/101/624/s1215/1], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch34/m__us_usc_t16_s1501 to 1508.md) | [Next](./../../../..//us/usc/t16/ch34/m__us_usc_t16_s1510.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1509)
+[Previous](./../../../..//us/usc/t16/ch34/m__us_usc_t16_ch34.md) | [Next](./../../../..//us/usc/t16/ch34/m__us_usc_t16_s1510.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1509)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 973. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “Administrator” means the individual or organization designated by the Pacific Island Parties to act on their behalf under the Treaty and notified to the United States Government.
 

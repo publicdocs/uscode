@@ -15,7 +15,7 @@
 
 ## § 410nnn–5. Management plan
 
-Within 3 years after June 23, 1992, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the Senate, a general management plan for the historical park. The plan shall be consistent with [section 1a–7 of this title][/us/usc/t16/s1a–7] and with the purposes of this subchapter and shall include (but not be limited to) each of the following:
+    Within 3 years after June 23, 1992, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the Senate, a general management plan for the historical park. The plan shall be consistent with [section 1a–7 of this title][/us/usc/t16/s1a–7] and with the purposes of this subchapter and shall include (but not be limited to) each of the following:
 
     (1) A resource protection program including land acquisition needs.
 

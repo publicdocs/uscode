@@ -15,7 +15,7 @@
 
 ## § 460l–32. Definitions
 
-For the purposes of this part:
+    For the purposes of this part:
 
     (1) The term “Reclamation lands” means real property administered by the Secretary, acting through the Commissioner of Reclamation, and includes all acquired and withdrawn lands and water areas under jurisdiction of the Bureau.
 

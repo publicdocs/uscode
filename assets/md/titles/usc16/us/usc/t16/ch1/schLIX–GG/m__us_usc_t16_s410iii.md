@@ -15,7 +15,7 @@
 
 ## § 410iii. Purpose
 
-The purpose of this subchapter is to establish the Cedar Creek and Belle Grove National Historical Park in order to—
+    The purpose of this subchapter is to establish the Cedar Creek and Belle Grove National Historical Park in order to—
 
     (1) help preserve, protect, and interpret a nationally significant Civil War landscape and antebellum plantation for the education, inspiration, and benefit of present and future generations;
 
