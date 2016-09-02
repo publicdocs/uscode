@@ -83,7 +83,7 @@
 
     (d) __Treatment of Johnny Micheal Spann Patriot Trusts__ 
 
-        Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activities described in clauses (i) and (ii) of [section 431(20)(A) of title 2][/us/usc/t2/s431/20/A] so that a general solicitation of funds by an individual described in paragraph (1) of [section 441i(e) of title 2][/us/usc/t2/s441i/e] will be permissible if such solicitation meets the requirements of paragraph (4)(A) of such section.
+        Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activities described in clauses (i) and (ii) of [section 30101(20)(A) of title 52][/us/usc/t52/s30101/20/A] so that a general solicitation of funds by an individual described in paragraph (1) of [section 30125(e) of title 52][/us/usc/t52/s30125/e] will be permissible if such solicitation meets the requirements of paragraph (4)(A) of such section.
 
     (e) __Notification of Trust beneficiaries__ 
 
@@ -113,8 +113,8 @@
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/stat/115/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F224
-[/us/usc/t2/s431/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F20%2FA
-[/us/usc/t2/s441i/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441i%2Fe
+[/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
+[/us/usc/t52/s30125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30125%2Fe
 [/us/pl/107/296/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs601
 [/us/stat/116/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2215
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40

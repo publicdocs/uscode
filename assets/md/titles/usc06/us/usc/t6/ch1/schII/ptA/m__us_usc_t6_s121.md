@@ -273,11 +273,11 @@
 
  __Regulations__ 
 
-[Pub. L. 109–295, title V, § 550][/us/pl/109/295/s550], Oct. 4, 2006, [120 Stat. 1388][/us/stat/120/1388], as amended by [Pub. L. 110–161, div. E, title V, § 534][/us/pl/110/161/s534], Dec. 26, 2007, [121 Stat. 2075][/us/stat/121/2075]; [Pub. L. 111–83, title V, § 550][/us/pl/111/83/s550], Oct. 28, 2009, [123 Stat. 2177][/us/stat/123/2177]; [Pub. L. 112–10, div. B, title VI, § 1650][/us/pl/112/10/s1650], Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V, § 540][/us/pl/112/74/s540], Dec. 23, 2011, [125 Stat. 976][/us/stat/125/976]; [Pub. L. 113–6, div. D, title V, § 537][/us/pl/113/6/s537], Mar. 26, 2013, [127 Stat. 373][/us/stat/127/373], provided that:
+[Pub. L. 109–295, title V, § 550][/us/pl/109/295/s550], Oct. 4, 2006, [120 Stat. 1388][/us/stat/120/1388], as amended by [Pub. L. 110–161, div. E, title V, § 534][/us/pl/110/161/s534], Dec. 26, 2007, [121 Stat. 2075][/us/stat/121/2075]; [Pub. L. 111–83, title V, § 550][/us/pl/111/83/s550], Oct. 28, 2009, [123 Stat. 2177][/us/stat/123/2177]; [Pub. L. 112–10, div. B, title VI, § 1650][/us/pl/112/10/s1650], Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V, § 540][/us/pl/112/74/s540], Dec. 23, 2011, [125 Stat. 976][/us/stat/125/976]; [Pub. L. 113–6, div. D, title V, § 537][/us/pl/113/6/s537], Mar. 26, 2013, [127 Stat. 373][/us/stat/127/373]; [Pub. L. 113–76, div. F, title V, § 536][/us/pl/113/76/s536], Jan. 17, 2014, [128 Stat. 275][/us/stat/128/275], provided that:
 
 >     “(a) No later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall issue interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities: Provided, That such regulations shall apply to chemical facilities that, in the discretion of the Secretary, present high levels of security risk: Provided further, That such regulations shall permit each such facility, in developing and implementing site security plans, to select layered security measures that, in combination, appropriately address the vulnerability assessment and the risk-based performance standards for security for the facility: Provided further, That the Secretary may not disapprove a site security plan submitted under this section based on the presence or absence of a particular security measure, but the Secretary may disapprove a site security plan if the plan fails to satisfy the risk-based performance standards established by this section: Provided further, That the Secretary may approve alternative security programs established by private sector entities, Federal, State, or local authorities, or other applicable laws if the Secretary determines that the requirements of such programs meet the requirements of this section and the interim regulations: Provided further, That the Secretary shall review and approve each vulnerability assessment and site security plan required under this section: Provided further, That the Secretary shall not apply regulations issued pursuant to this section to facilities regulated pursuant to the Maritime Transportation Security Act of 2002, [Public Law 107–295][/us/pl/107/295], as amended \[see Tables for classification\]; Public Water Systems, as defined by section 1401 of the Safe Drinking Water Act, [Public Law 93–523][/us/pl/93/523], as amended \[[42 U.S.C. 300f][/us/usc/t42/s300f]\]; Treatment Works as defined in section 212 of the Federal Water Pollution Control Act, [Public Law 92–500][/us/pl/92/500], as amended \[[33 U.S.C. 1292][/us/usc/t33/s1292]\]; any facility owned or operated by the Department of Defense or the Department of Energy, or any facility subject to regulation by the Nuclear Regulatory Commission.
 
->     “(b) Interim regulations issued under this section shall apply until the effective date of interim or final regulations promulgated under other laws that establish requirements and standards referred to in subsection (a) and expressly supersede this section: Provided, That the authority provided by this section shall terminate on October 4, 2013.
+>     “(b) Interim regulations issued under this section shall apply until the effective date of interim or final regulations promulgated under other laws that establish requirements and standards referred to in subsection (a) and expressly supersede this section: Provided, That the authority provided by this section shall terminate on October 4, 2014.
 
 >     “(c) Notwithstanding any other provision of law and subsection (b), information developed under this section, including vulnerability assessments, site security plans, and other security related information, records, and documents shall be given protections from public disclosure consistent with similar information developed by chemical facilities subject to regulation under [section 70103 of title 46][/us/usc/t46/s70103], United States Code: Provided, That this subsection does not prohibit the sharing of such information, as the Secretary deems appropriate, with State and local government officials possessing the necessary security clearances, including law enforcement officials and first responders, for the purpose of carrying out this section, provided that such information may not be disclosed pursuant to any State or local law: Provided further, That in any proceeding to enforce this section, vulnerability assessments, site security plans, and other information submitted to or obtained by the Secretary under this section, and related vulnerability or security information, shall be treated as if the information were classified material.
 
@@ -673,7 +673,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     (d) ensure all clearance and access determinations for those in the private sector with whom employees of the Department of Homeland Security may seek to interact in the discharge of their homeland security-related responsibilities are made in accordance with Executive Order 12829 of January 6, 1993 \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\].
 
-    Sec. 20. Pursuant to the provisions of section 1.4 of \[former\] Executive Order 12958 of April 17, 1995 (“Classified National Security Information”) \[[50 U.S.C. 435][/us/usc/t50/s435] note\], I hereby authorize the Secretary of Homeland Security to classify information originally as “Top Secret.” Any delegation of this authority shall be in accordance with section 1.4 of that order or any successor Executive Orders.
+    Sec. 20. Pursuant to the provisions of section 1.4 of \[former\] Executive Order 12958 of April 17, 1995 (“Classified National Security Information”), I hereby authorize the Secretary of Homeland Security to classify information originally as “Top Secret.” Any delegation of this authority shall be in accordance with section 1.4 of that order or any successor Executive Orders.
 
     Sec. 21. This order shall become effective on January 24, 2003.
 
@@ -774,6 +774,8 @@ By the authority vested in me as President by the Constitution and the laws of t
     (e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
                               Barack Obama.
+
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
 
  __Ex. Ord. No. 13650. Improving Chemical Facility Safety and Security__ 
 
@@ -879,6 +881,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_ch1_schII_ptA.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s121a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121)
@@ -952,6 +956,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/125/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F976
 [/us/pl/113/6/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs537
 [/us/stat/127/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F373
+[/us/pl/113/76/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs536
+[/us/stat/128/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F275
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
@@ -1009,7 +1015,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t6/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs143
 [/us/usc/t6/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs133
 [/us/usc/t15/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs271
@@ -1018,5 +1023,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t44/s3502/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F5
 [/us/usc/t6/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs451
 [/us/usc/t44/s3502/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F5
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 
 
