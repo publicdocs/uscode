@@ -163,6 +163,102 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
     Except as otherwise specifically provided, amendment by [Pub. L. 104–264][/us/pl/104/264] applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see [section 3 of Pub. L. 104–264][/us/pl/104/264/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
+ __Tower Marking__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2110, July 15, 2016, [130 Stat. 623][/us/stat/130/623], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall issue regulations to require the marking of covered towers.
+
+>     “(b)  __Marking Required__  __.—__ 
+
+>     The regulations under subsection (a) shall require that a covered tower be clearly marked in a manner that is consistent with applicable guidance under the Federal Aviation Administration Advisory Circular issued December 4, 2015 (AC 70/7460–1L), or other relevant safety guidance, as determined by the Administrator.
+
+>     “(c)  __Application__  __.—__ 
+
+>     The regulations issued under subsection (a) shall ensure that—
+
+>         “(1) all covered towers constructed on or after the date on which such regulations take effect are marked in accordance with subsection (b); and
+
+>         “(2) a covered tower constructed before the date on which such regulations take effect is marked in accordance with subsection (b) not later than 1 year after such effective date.
+
+>     “(d) __Definitions.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In this section, the following definitions apply:
+
+>             “(A) __Covered tower.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 The term ‘covered tower’ means a structure that—
+
+>                          “(I) is self-standing or supported by guy wires and ground anchors;
+
+>                          “(II) is 10 feet or less in diameter at the above-ground base, excluding concrete footing;
+
+>                          “(III) at the highest point of the structure is at least 50 feet above ground level;
+
+>                          “(IV) at the highest point of the structure is not more than 200 feet above ground level;
+
+>                          “(V) has accessory facilities on which an antenna, sensor, camera, meteorological instrument, or other equipment is mounted; and
+
+>                          “(VI)
+
+>                      is located—
+
+>                         “(aa) outside the boundaries of an incorporated city or town; or
+
+>                         “(bb)
+
+>                          on land that is—
+
+>                             “(AA) undeveloped; or
+
+>                             “(BB) used for agricultural purposes.
+
+>                 “(ii)  __Exclusions__  __.—__ 
+
+>                 The term ‘covered tower’ does not include any structure that—
+
+>                          “(I) is adjacent to a house, barn, electric utility station, or other building;
+
+>                          “(II) is within the curtilage of a farmstead;
+
+>                          “(III) supports electric utility transmission or distribution lines;
+
+>                          “(IV) is a wind-powered electrical generator with a rotor blade radius that exceeds 6 feet; or
+
+>                          “(V) is a street light erected or maintained by a Federal, State, local, or tribal entity.
+
+>             “(B)  __Undeveloped__  __.—__ 
+
+>             The term ‘undeveloped’ means a defined geographic area where the Administrator determines low-flying aircraft are operated on a routine basis, such as low-lying forested areas with predominant tree cover under 200 feet and pasture and range land.
+
+>         “(2)  __Other definitions__  __.—__ 
+
+>         The Administrator shall define such other terms as may be necessary to carry out this section.
+
+>     “(e)  __Database__  __.—__ 
+
+>     The Administrator shall—
+
+>         “(1) develop a database that contains the location and height of each covered tower;
+
+>         “(2) keep the database current to the extent practicable;
+
+>         “(3) ensure that any proprietary information in the database is protected from disclosure in accordance with law; and
+
+>         “(4)
+
+>          ensure that, by virtue of accessing the database, users agree and acknowledge that information in the database—
+
+>             “(A) may only be used for aviation safety purposes; and
+
+>             “(B) may not be disclosed for purposes other than aviation safety, regardless of whether or not the information is marked or labeled as proprietary or with a similar designation.”
+
  __Study of Effects of New Construction of Obstructions on Military Installations and Operations__ 
 
 [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 358, Jan. 7, 2011, [124 Stat. 4198][/us/stat/124/4198], as amended by [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 331, Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(b)(1), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 314, Nov. 25, 2015, [129 Stat. 790][/us/stat/129/790], provided that:
@@ -360,6 +456,8 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F623
 [/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4198
 [/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII

@@ -247,7 +247,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
  __Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies__ 
 
-[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 409, Dec. 12, 2003, [117 Stat. 2547][/us/stat/117/2547], as amended by [Pub. L. 110–190][/us/pl/110/190], § 4(d)(1), Feb. 28, 2008, [122 Stat. 644][/us/stat/122/644]; [Pub. L. 110–330][/us/pl/110/330], § 5(k), Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–69][/us/pl/111/69], § 5(k), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249][/us/pl/111/249], § 5(k), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(k), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(k), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 431, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(g), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(f), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323], provided that:
+[Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 409, Dec. 12, 2003, [117 Stat. 2547][/us/stat/117/2547], as amended by [Pub. L. 110–190][/us/pl/110/190], § 4(d)(1), Feb. 28, 2008, [122 Stat. 644][/us/stat/122/644]; [Pub. L. 110–330][/us/pl/110/330], § 5(k), Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–69][/us/pl/111/69], § 5(k), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249][/us/pl/111/249], § 5(k), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(k), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(k), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 431, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(g), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(f), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323]; [Pub. L. 114–190, title I][/us/pl/114/190/tI], § 1102(g), July 15, 2016, [130 Stat. 617][/us/stat/130/617], provided that:
 
 >     “(a)  __Request for Secretarial Review__  __.—__ 
 
@@ -271,7 +271,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 >     “(d)  __Limitation on Period of Final Order__  __.—__ 
 
->     A final order issued under subsection (c) shall terminate on July 15, 2016.”
+>     A final order issued under subsection (c) shall terminate on September 30, 2017.”
 
 \[[Pub. L. 110–190][/us/pl/110/190], § 4(d)(2), Feb. 28, 2008, [122 Stat. 644][/us/stat/122/644], provided that: 
 
@@ -390,6 +390,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 [/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
 [/us/stat/130/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F323
+[/us/pl/114/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtI
+[/us/stat/130/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F617
 [/us/usc/t49/s41731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41731
 [/us/pl/106/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69
 [/us/usc/t49/s41731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41731

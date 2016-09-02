@@ -55,7 +55,15 @@
 
             (C)
 
-             Notwithstanding the requirements described in subparagraphs (A) and (B), a passenger shall not have an option to deplane an aircraft and return to the airport terminal in the case of an excessive tarmac delay if—
+             In providing the option described in subparagraph (A), the air carrier shall begin to return the aircraft to a suitable disembarkation point—
+
+                (i) in the case of a flight in interstate air transportation, not later than 3 hours after the main aircraft door is closed in preparation for departure; and
+
+                (ii) in the case of a flight in foreign air transportation, not later than 4 hours after the main aircraft door is closed in preparation for departure.
+
+            (D)
+
+             Notwithstanding the requirements described in subparagraphs (A), (B), and (C), a passenger shall not have an option to deplane an aircraft and return to the airport terminal in the case of an excessive tarmac delay if—
 
                 (i) an air traffic controller with authority over the aircraft advises the pilot in command that permitting a passenger to deplane would significantly disrupt airport operations; or
 
@@ -129,19 +137,39 @@
 
         (4)  __Excessive tarmac delay__  __.—__ 
 
-        The term “excessive tarmac delay” means a tarmac delay that lasts for a length of time, as determined by the Secretary.
+        The term “excessive tarmac delay” means a tarmac delay of more than—
 
-(Added [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(a), Feb. 14, 2012, [126 Stat. 93][/us/stat/126/93].)
+            (A) 3 hours for a flight in interstate air transportation; or
+
+            (B) 4 hours for a flight in foreign air transportation.
+
+(Added [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(a), Feb. 14, 2012, [126 Stat. 93][/us/stat/126/93]; amended [Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2308(a), (b), July 15, 2016, [130 Stat. 648][/us/stat/130/648].)
 
  __References in Text__ 
 
     The date of enactment of this section, referred to in subsec. (a), is the date of enactment of [Pub. L. 112–95][/us/pl/112/95], which was approved Feb. 14, 2012.
+
+ __Amendments__ 
+
+    2016—Subsec. (b)(3)(C). [Pub. L. 114–190][/us/pl/114/190], § 2308(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+
+    Subsec. (b)(3)(D). [Pub. L. 114–190][/us/pl/114/190], § 2308(a)(3), substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)” in introductory provisions.
+
+    [Pub. L. 114–190][/us/pl/114/190], § 2308(a)(1), redesignated subpar. (C) as (D).
+
+    Subsec. (i)(4). [Pub. L. 114–190][/us/pl/114/190], § 2308(b), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘excessive tarmac delay’ means a tarmac delay that lasts for a length of time, as determined by the Secretary.”
 
  __Effective Date__ 
 
 [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(c), Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], provided that: 
 
 > “Except as otherwise provided, the requirements of chapter 423 of title 49, United States Code, as added by this section, shall begin to apply 60 days after the date of enactment of this Act \[Feb. 14, 2012\].”
+
+ __Regulations__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2308(c), July 15, 2016, [130 Stat. 648][/us/stat/130/648], provided that: 
+
+> “Not later than 90 days after the date of enactment of this section \[July 15, 2016\], the Secretary of Transportation shall issue regulations and take other actions necessary to carry out the amendments made by this section \[amending this section\].”
 
 ----------
 
@@ -152,8 +180,16 @@
 
 [/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F93
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F648
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F96
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F648
 
 

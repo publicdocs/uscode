@@ -165,6 +165,12 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
     Amendment by [Pub. L. 106–181][/us/pl/106/181] applicable only to fiscal years beginning after Sept. 30, 1999, see [section 3 of Pub. L. 106–181][/us/pl/106/181/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
+ __Crash-Resistant Fuel Systems__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2105, July 15, 2016, [130 Stat. 620][/us/stat/130/620], provided that: 
+
+> “Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall evaluate and update, as necessary, standards for crash-resistant fuel systems for civilian rotorcraft.”
+
  __Aviation Fuel Research and Development Program__ 
 
 [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 910, Feb. 14, 2012, [126 Stat. 141][/us/stat/126/141], provided that:
@@ -347,6 +353,8 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F620
 [/us/pl/112/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIX
 [/us/stat/126/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F141
 [/us/usc/t49/s48102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48102%2Fa

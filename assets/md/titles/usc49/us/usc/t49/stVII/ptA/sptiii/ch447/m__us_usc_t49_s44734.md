@@ -21,9 +21,11 @@
 
         (1) serving alcohol to passengers;
 
-        (2) recognizing intoxicated passengers; and
+        (2) recognizing intoxicated passengers;
 
-        (3) dealing with disruptive passengers.
+        (3) dealing with disruptive passengers; and
+
+        (4) recognizing and responding to potential human trafficking victims.
 
     (b)  __Situational Training__  __.—__ 
 
@@ -41,7 +43,11 @@
 
         The term “flight attendant” has the meaning given that term in section 44728(g).
 
-(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 309(a), Feb. 14, 2012, [126 Stat. 64][/us/stat/126/64].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 309(a), Feb. 14, 2012, [126 Stat. 64][/us/stat/126/64]; amended [Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2113, July 15, 2016, [130 Stat. 628][/us/stat/130/628].)
+
+ __Amendments__ 
+
+    2016—Subsec. (a)(4). [Pub. L. 114–190][/us/pl/114/190] added par. (4).
 
 ----------
 
@@ -52,5 +58,8 @@
 
 [/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F64
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F628
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 
 

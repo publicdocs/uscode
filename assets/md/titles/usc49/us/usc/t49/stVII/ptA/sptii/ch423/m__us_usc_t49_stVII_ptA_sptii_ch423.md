@@ -49,9 +49,25 @@
 
 </table>
 
+ __Family Seating__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2309, July 15, 2016, [130 Stat. 648][/us/stat/130/648], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Secretary of Transportation shall review and, if appropriate, establish a policy directing all air carriers providing scheduled passenger interstate or intrastate air transportation to establish policies that enable a child, who is age 13 or under on the date an applicable flight is scheduled to occur, to be seated in a seat adjacent to the seat of an accompanying family member over the age of 13, to the maximum extent practicable and at no additional cost, except when assignment to an adjacent seat would require an upgrade to another cabin class or a seat with extra legroom or seat pitch for which additional payment is normally required.
+
+>     “(b)  __Effect on Airline Boarding and Seating Policies__  __.—__ 
+
+>     When considering any new policy under this section, the Secretary shall consider the traditional seating and boarding policies of air carriers providing scheduled passenger interstate or intrastate air transportation and whether those policies generally allow families to sit together.
+
+>     “(c)  __Statutory Construction__  __.—__ 
+
+>     Notwithstanding the requirement in subsection (a), nothing in this section may be construed to allow the Secretary to impose a significant change in the overall seating or boarding policy of an air carrier providing scheduled passenger interstate or intrastate air transportation that has an open or flexible seating policy in place that generally allows adjacent family seating as described in subsection (a).”
+
  __Establishment of Advisory Committee for Aviation Consumer Protection__ 
 
-[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 411, Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], as amended by [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(i), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(g), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323], provided that:
+[Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 411, Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], as amended by [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(i), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(g), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323]; [Pub. L. 114–190, title I][/us/pl/114/190/tI], § 1102(j), July 15, 2016, [130 Stat. 618][/us/stat/130/618], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -99,7 +115,7 @@
 
 >     “(h)  __Termination__  __.—__ 
 
->     The advisory committee established under this section shall terminate on July 15, 2016.”
+>     The advisory committee established under this section shall terminate on September 30, 2017.”
 
  __Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft__ 
 
@@ -114,12 +130,16 @@
 ----------
 ----------
 
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F648
 [/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F88
 [/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
 [/us/stat/130/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F323
+[/us/pl/114/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtI
+[/us/stat/130/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F618
 [/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F89
 

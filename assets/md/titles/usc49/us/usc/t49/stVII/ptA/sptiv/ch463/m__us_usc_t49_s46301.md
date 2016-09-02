@@ -107,7 +107,7 @@
 
             (D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-        (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title][/us/usc/t49/s46303] or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+        (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title][/us/usc/t49/s46303] or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
         (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -227,7 +227,7 @@
 
     In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1231][/us/stat/108/1231]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 112(c), title II, § 207(c), Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575], 1588; [Pub. L. 103–429][/us/pl/103/429], § 6(60), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title V][/us/pl/104/264/tV], § 502(c), title VIII, § 804(b), title XII, § 1220(b), Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], 3271, 3286; [Pub. L. 104–287][/us/pl/104/287], § 5(77), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102][/us/pl/105/102], § 3(c)(4), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 222, title V, §§ 503(c), 504(b), 519(c), title VII, §§ 707(b), 720, Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102], 133, 134, 149, 158, 163; [Pub. L. 106–424][/us/pl/106/424], § 15, Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(1)–(4), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1602, Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 503(a)–(c), Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557], 2558; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4027(a), Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1302(b), Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 542, Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 564(a), Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(b), title VIII, § 803, Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], 119; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(b)(2)(B), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1231][/us/stat/108/1231]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 112(c), title II, § 207(c), Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575], 1588; [Pub. L. 103–429][/us/pl/103/429], § 6(60), Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title V][/us/pl/104/264/tV], § 502(c), title VIII, § 804(b), title XII, § 1220(b), Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], 3271, 3286; [Pub. L. 104–287][/us/pl/104/287], § 5(77), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102][/us/pl/105/102], § 3(c)(4), Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 222, title V, §§ 503(c), 504(b), 519(c), title VII, §§ 707(b), 720, Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102], 133, 134, 149, 158, 163; [Pub. L. 106–424][/us/pl/106/424], § 15, Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 140(d)(1)–(4), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1602, Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 108–176, title V][/us/pl/108/176/tV], § 503(a)–(c), Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557], 2558; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4027(a), Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1302(b), Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 542, Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 564(a), Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 415(b), title VIII, § 803, Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], 119; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(b)(2)(B), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024]; [Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2205(b), July 15, 2016, [130 Stat. 631][/us/stat/130/631].)
 
 <table>
 
@@ -681,6 +681,8 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
  __Amendments__ 
 
+    2016—Subsec. (d)(2). [Pub. L. 114–190][/us/pl/114/190] inserted “section 46320,” after “section 46319,”.
+
     2014—Subsec. (d)(2). [Pub. L. 113–188][/us/pl/113/188] substituted “section 47107(k)” for “section 47107(l)”.
 
     2012—Subsec. (a)(1)(A). [Pub. L. 112–95][/us/pl/112/95], § 803(1), inserted “chapter 451,” before “section 47107(b)”.
@@ -885,6 +887,26 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
     For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Laser Pointer Incidents__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2104, July 15, 2016, [130 Stat. 620][/us/stat/130/620], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Beginning 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide quarterly updates to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] regarding—
+
+>         “(1) the number of incidents involving the beam from a laser pointer (as defined in [section 39A of title 18][/us/usc/t18/s39A], United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States;
+
+>         “(2) the number of civil or criminal enforcement actions taken by the Federal Aviation Administration, the Department of Transportation, or another Federal agency with regard to the incidents described in paragraph (1), including the amount of the civil or criminal penalties imposed on violators;
+
+>         “(3) the resolution of any incidents described in paragraph (1) that did not result in a civil or criminal enforcement action; and
+
+>         “(4) any actions the Department of Transportation or another Federal agency has taken on its own, or in conjunction with other Federal agencies or local law enforcement agencies, to deter the type of activity described in paragraph (1).
+
+>     “(b)  __Civil Penalties__  __.—__ 
+
+>     The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t49/stVII/ptA/sptiv/ch463/m__us_usc_t49_stVII_ptA_sptiv_ch463.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/sptiv/ch463/m__us_usc_t49_s46302.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46301)
@@ -937,6 +959,8 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/stat/126/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F96
 [/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F631
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
@@ -959,6 +983,7 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
@@ -1077,5 +1102,8 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 [/us/stat/106/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F925
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F620
+[/us/usc/t18/s39A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs39A
 
 

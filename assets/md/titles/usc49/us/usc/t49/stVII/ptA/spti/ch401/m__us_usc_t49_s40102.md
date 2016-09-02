@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s40101.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s40103.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102)
+[Previous](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s336.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s40103.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102)
 
 ## § 40102. Definitions
 
@@ -971,7 +971,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s40101.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s40103.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102)
+[Previous](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s336.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/spti/ch401/m__us_usc_t49_s40103.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102)
 
 ----------
 ----------

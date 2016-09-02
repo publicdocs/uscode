@@ -175,9 +175,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs46320" data-uslm-ref="/us/usc/t49/s46320">46320.</a>  </td>
+
+    <td> Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2205(c), July 15, 2016, [130 Stat. 631][/us/stat/130/631], added item 46320.
 
     2003—[Pub. L. 108–176, title I][/us/pl/108/176/tI], § 185(b), Dec. 12, 2003, [117 Stat. 2518][/us/stat/117/2518], added item 46319.
 
@@ -190,6 +200,8 @@
 ----------
 ----------
 
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F631
 [/us/pl/108/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtI
 [/us/stat/117/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2518
 [/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV

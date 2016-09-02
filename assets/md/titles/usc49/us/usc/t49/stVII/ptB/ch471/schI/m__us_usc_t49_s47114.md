@@ -69,9 +69,15 @@
 
                 (iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
 
-            (F)  __Special rule for fiscal years 2012 and 2013__  __.—__ 
+            (F)  __Special rule for fiscal year 2017__  __.—__ 
 
-            Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.
+            Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for fiscal year 2017 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+
+                (i) had 10,000 or more passenger boardings during calendar year 2012;
+
+                (ii) had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A); and
+
+                (iii) had scheduled air service at any point during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A).
 
         (2) __Cargo airports.—__ 
 
@@ -245,7 +251,7 @@
 
     The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1268][/us/stat/108/1268]; [Pub. L. 103–429][/us/pl/103/429], § 6(66), Oct. 31, 1994, [108 Stat. 4386][/us/stat/108/4386]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 121, Oct. 9, 1996, [110 Stat. 3217][/us/stat/110/3217]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 104(a)–(d), 105(c), Apr. 5, 2000, [114 Stat. 67–71][/us/stat/114/67-71]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 146, 147, Dec. 12, 2003, [117 Stat. 2504][/us/stat/117/2504]; [Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 109, Nov. 30, 2005, [119 Stat. 2402][/us/stat/119/2402]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 28, 29.)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1268][/us/stat/108/1268]; [Pub. L. 103–429][/us/pl/103/429], § 6(66), Oct. 31, 1994, [108 Stat. 4386][/us/stat/108/4386]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 121, Oct. 9, 1996, [110 Stat. 3217][/us/stat/110/3217]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], §§ 104(a)–(d), 105(c), Apr. 5, 2000, [114 Stat. 67–71][/us/stat/114/67-71]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 146, 147, Dec. 12, 2003, [117 Stat. 2504][/us/stat/117/2504]; [Pub. L. 109–115, div. A, title I][/us/pl/109/115/dA/tI], § 109, Nov. 30, 2005, [119 Stat. 2402][/us/stat/119/2402]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, [126 Stat. 18][/us/stat/126/18], 28, 29; [Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2301, July 15, 2016, [130 Stat. 638][/us/stat/130/638].)
 
 <table>
 
@@ -537,6 +543,8 @@ Sept. 3, 1982, Pub. L. 97–248, § 507(b)(3), as amended May 26, 1994, Pub. L
 
  __Amendments__ 
 
+    2016—Subsec. (c)(1)(F). [Pub. L. 114–190][/us/pl/114/190] amended subpar. (F) generally. Prior to amendment, text read as follows: “Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.”
+
     2012—Subsec. (c)(1)(F), (G). [Pub. L. 112–95][/us/pl/112/95], § 141(b), added subpar. (F) and struck out former subpars. (F) and (G) which related, respectively, to special rules for fiscal years 2004 and 2005 and to special rule for fiscal year 2006.
 
     Subsec. (d)(7). [Pub. L. 112–95][/us/pl/112/95], § 141(a), added par. (7).
@@ -669,6 +677,8 @@ Sept. 3, 1982, Pub. L. 97–248, § 507(b)(3), as amended May 26, 1994, Pub. L
 [/us/stat/119/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2402
 [/us/pl/112/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtI
 [/us/stat/126/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F18
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F638
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
@@ -676,6 +686,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 507(b)(3), as amended May 26, 1994, Pub. L
 [/us/pl/91/258/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs15%2Fa
 [/us/pl/97/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtV
 [/us/stat/96/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F695
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

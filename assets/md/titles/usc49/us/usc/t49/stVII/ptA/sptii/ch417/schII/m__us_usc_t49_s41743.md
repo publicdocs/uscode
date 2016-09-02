@@ -85,7 +85,7 @@
 
         (2)  __Authorization of appropriations__  __.—__ 
 
-        There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2015 to carry out this section. Such sums shall remain available until expended.
+        There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 to carry out this section. Such sums shall remain available until expended.
 
     (f)  __Additional Action__  __.—__ 
 
@@ -109,9 +109,11 @@
 
     The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 203(a), Apr. 5, 2000, [114 Stat. 92][/us/stat/114/92]; amended [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2708, Apr. 16, 2003, [117 Stat. 601][/us/stat/117/601]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(b)(3), title IV, § 412, Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529], 2551; [Pub. L. 110–330][/us/pl/110/330], § 5(b), Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–69][/us/pl/111/69], § 5(b), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249][/us/pl/111/249], § 5(b), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(b), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(b), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 429, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100].)
+(Added [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 203(a), Apr. 5, 2000, [114 Stat. 92][/us/stat/114/92]; amended [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2708, Apr. 16, 2003, [117 Stat. 601][/us/stat/117/601]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(b)(3), title IV, § 412, Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529], 2551; [Pub. L. 110–330][/us/pl/110/330], § 5(b), Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–69][/us/pl/111/69], § 5(b), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249][/us/pl/111/249], § 5(b), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(b), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(b), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 429, Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100]; [Pub. L. 114–190, title I][/us/pl/114/190/tI], § 1102(e), July 15, 2016, [130 Stat. 617][/us/stat/130/617].)
 
  __Amendments__ 
+
+    2016—Subsec. (e)(2). [Pub. L. 114–190][/us/pl/114/190] substituted “2017” for “2015”.
 
     2012—Subsec. (c)(5)(F). [Pub. L. 112–95][/us/pl/112/95], § 429(a), added subpar. (F).
 
@@ -184,6 +186,9 @@
 [/us/stat/126/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F4
 [/us/pl/112/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIV
 [/us/stat/126/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F100
+[/us/pl/114/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtI
+[/us/stat/130/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F617
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91

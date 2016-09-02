@@ -97,7 +97,73 @@
 
         (3) a detailed plan for employing the controllers, including projected budget requests.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1178][/us/stat/108/1178]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 112–95, title VI][/us/pl/112/95/tVI], § 607, Feb. 14, 2012, [126 Stat. 114][/us/stat/126/114].)
+    (f) __Hiring of Certain Air Traffic Control Specialists.—__ 
+
+        (1) __Consideration of applicants.—__ 
+
+            (A)  __Ensuring selection of most qualified applicants__  __.—__ 
+
+            In appointing individuals to the position of air traffic controller, the Administrator shall give preferential consideration to qualified individuals maintaining 52 consecutive weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating within 5 years of application while serving at—
+
+                (i) a Federal Aviation Administration air traffic control facility;
+
+                (ii) a civilian or military air traffic control facility of the Department of Defense; or
+
+                (iii) a tower operating under contract with the Federal Aviation Administration under section 47124.
+
+            (B) __Consideration of additional applicants.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                After giving preferential consideration to applicants under subparagraph (A), the Administrator shall consider additional applicants for the position of air traffic controller by referring an approximately equal number of individuals for appointment among the 2 applicant pools described in this subparagraph. The number of individuals referred for consideration from each group shall not differ by more than 10 percent.
+
+                (ii)  __Pool 1__  __.—__ 
+
+                Pool 1 applicants are individuals who—
+
+                    (I)
+
+                     have successfully completed air traffic controller training and graduated from an institution participating in the Collegiate Training Initiative program maintained under subsection (c)(1) and who have received from the institution—
+
+                        (aa) an appropriate recommendation; or
+
+                        (bb) an endorsement certifying that the individual would have met the requirements in effect as of December 31, 2013, for an appropriate recommendation;
+
+                    (II) are eligible for a veterans recruitment appointment pursuant to [section 4214 of title 38][/us/usc/t38/s4214] and provide a Certificate of Release or Discharge from Active Duty within 120 days of the announcement closing;
+
+                    (III) are eligible veterans (as defined in [section 4211 of title 38][/us/usc/t38/s4211]) maintaining aviation experience obtained in the course of the individual’s military experience; or
+
+                    (IV) are preference eligible veterans (as defined in [section 2108 of title 5][/us/usc/t5/s2108]).
+
+                (iii)  __Pool 2__  __.—__ 
+
+                Pool 2 applicants are individuals who apply under a vacancy announcement recruiting from all United States citizens.
+
+        (2) __Use of biographical assessments.—__ 
+
+            (A)  __Biographical assessments__  __.—__ 
+
+            The Administrator shall not use any biographical assessment when hiring under paragraph (1)(A) or paragraph (1)(B)(ii).
+
+            (B) __Reconsideration of applicants disqualified on basis of biographical assessments.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                If an individual described in paragraph (1)(A) or paragraph (1)(B)(ii), who applied for the position of air traffic controller with the Administration in response to Vacancy Announcement FAA–AMC–14–ALLSRCE–33537 (issued on February 10, 2014), was disqualified from the position as the result of a biographical assessment, the Administrator shall provide the applicant an opportunity to reapply for the position as soon as practicable under the revised hiring practices.
+
+                (ii)  __Waiver of age restriction__  __.—__ 
+
+                The Administrator shall waive any maximum age restriction for the position of air traffic controller with the Administration that would otherwise disqualify an individual from the position if the individual—
+
+                    (I) is reapplying for the position pursuant to clause (i) on or before December 31, 2017; and
+
+                    (II) met the maximum age requirement on the date of the individual’s previous application for the position during the interim hiring process.
+
+        (3)  __Maximum entry age for experienced controllers__  __.—__ 
+
+        Notwithstanding [section 3307 of title 5][/us/usc/t5/s3307], the maximum limit of age for an original appointment to a position as an air traffic controller shall be 35 years of age for those maintaining 52 weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating in a civilian or military air traffic control facility.
+
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1178][/us/stat/108/1178]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 112–95, title VI][/us/pl/112/95/tVI], § 607, Feb. 14, 2012, [126 Stat. 114][/us/stat/126/114]; [Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2106(a), July 15, 2016, [130 Stat. 620][/us/stat/130/620].)
 
 <table>
 
@@ -187,9 +253,17 @@ Oct. 31, 1992, Pub. L. 102–581, § 120, 106 Stat. 4884.  </td>
 
  __Amendments__ 
 
+    2016—Subsec. (f). [Pub. L. 114–190][/us/pl/114/190] added subsec. (f).
+
     2012—Subsecs. (d), (e). [Pub. L. 112–95][/us/pl/112/95] added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+ __Notification of Vacancies__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2106(b), July 15, 2016, [130 Stat. 622][/us/stat/130/622], provided that: 
+
+> “The Administrator of the Federal Aviation Administration shall consider directly notifying secondary schools and institutions of higher learning, including Historically Black Colleges and Universities, Hispanic-serving institutions, Minority Institutions, and Tribal Colleges and Universities, of a vacancy announcement under [section 44506(f)(1)(B)(iii) of title 49][/us/usc/t49/s44506/f/1/B/iii], United States Code.”
 
  __Air Traffic Controller Staffing Initiatives and Analysis__ 
 
@@ -285,19 +359,29 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t5/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
+[/us/usc/t38/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4214
+[/us/usc/t38/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4211
+[/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108
+[/us/usc/t5/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3307
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1178
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
 [/us/pl/112/95/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtVI
 [/us/stat/126/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F114
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F620
 [/us/pl/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F581
 [/us/stat/102/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3015
 [/us/pl/100/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685
 [/us/stat/102/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4102
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F622
+[/us/usc/t49/s44506/f/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44506%2Ff%2F1%2FB%2Fiii
 [/us/pl/112/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtII
 [/us/stat/126/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F55
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111

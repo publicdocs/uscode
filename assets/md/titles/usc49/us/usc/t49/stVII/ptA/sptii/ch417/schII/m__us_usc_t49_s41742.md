@@ -23,7 +23,7 @@
 
         (2)  __Additional funds__  __.—__ 
 
-        In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, and $122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+        In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, and $175,000,000 for each of fiscal years 2016 and 2017 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
         (3)  __Authorization for additional employees__  __.—__ 
 
@@ -37,7 +37,7 @@
 
     The funds made available under this section shall remain available until expended.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 278(c), Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 209(a), Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 404, Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 209, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 9, Jan. 31, 2012, [126 Stat. 5][/us/stat/126/5]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 428, Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 107, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 107, Mar. 30, 2016, [130 Stat. 324][/us/stat/130/324].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 104–264, title II][/us/pl/104/264/tII], § 278(c), Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249]; [Pub. L. 106–181, title II][/us/pl/106/181/tII], § 209(a), Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 108–176, title IV][/us/pl/108/176/tIV], § 404, Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 209, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 9, Jan. 31, 2012, [126 Stat. 5][/us/stat/126/5]; [Pub. L. 112–95, title IV][/us/pl/112/95/tIV], § 428, Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 107, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 107, Mar. 30, 2016, [130 Stat. 324][/us/stat/130/324]; [Pub. L. 114–190, title I][/us/pl/114/190/tI], § 1107, July 15, 2016, [130 Stat. 618][/us/stat/130/618].)
 
 <table>
 
@@ -91,7 +91,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 
  __Amendments__ 
 
-    2016—Subsec. (a)(2). [Pub. L. 114–141][/us/pl/114/141] substituted “$122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016,” for “$77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,”.
+    2016—Subsec. (a)(2). [Pub. L. 114–190][/us/pl/114/190] substituted “fiscal year 2014, $93,000,000 for fiscal year 2015, and $175,000,000 for each of fiscal years 2016 and 2017” for “fiscal year 2014, $93,000,000 for fiscal year 2015, and $122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016,”.
+
+    [Pub. L. 114–141][/us/pl/114/141] substituted “$122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016,” for “$77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,”.
 
     2015—Subsec. (a)(2). [Pub. L. 114–55][/us/pl/114/55] substituted “$93,000,000 for fiscal year 2015, and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” for “and $93,000,000 for fiscal year 2015”.
 
@@ -191,7 +193,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
 [/us/stat/130/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F324
+[/us/pl/114/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtI
+[/us/stat/130/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F618
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

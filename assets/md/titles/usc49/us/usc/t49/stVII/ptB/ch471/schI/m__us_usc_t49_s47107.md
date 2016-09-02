@@ -447,7 +447,7 @@
 
         (3)  __Sunset provision__  __.—__ 
 
-        This subsection shall cease to be effective beginning July 16, 2016.
+        This subsection shall cease to be effective beginning October 1, 2017.
 
     (s) __Agreements Granting Through-The-Fence Access to General Aviation Airports.—__ 
 
@@ -479,7 +479,7 @@
 
                 (v) to prohibit any aircraft refueling from occurring on the property.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1256][/us/stat/108/1256]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], §§ 111(a), (c), 112(a), Aug. 23, 1994, [108 Stat. 1573][/us/stat/108/1573], 1574; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 143, title VIII, § 805(a), (b)(2), Oct. 9, 1996, [110 Stat. 3221][/us/stat/110/3221], 3271, 3274; [Pub. L. 104–287][/us/pl/104/287], § 5(9), (80), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3397; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(h)(1), Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 125(a), Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(7), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 321(a), Feb. 20, 2003, [117 Stat. 411][/us/stat/117/411]; [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2702, Apr. 16, 2003, [117 Stat. 600][/us/stat/117/600]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 144, 164, 165, title IV, § 424, Dec. 12, 2003, [117 Stat. 2503][/us/stat/117/2503], 2513, 2514, 2554; [Pub. L. 110–330][/us/pl/110/330], § 5(e), Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–12][/us/pl/111/12], § 5(d), Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69][/us/pl/111/69], § 5(e), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116][/us/pl/111/116], § 5(d), Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–153][/us/pl/111/153], § 5(d), Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161][/us/pl/111/161], § 5(d), Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197][/us/pl/111/197], § 5(d), July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 104(d), Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249][/us/pl/111/249], § 5(e), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 111–329][/us/pl/111/329], § 5(d), Dec. 22, 2010, [124 Stat. 3567][/us/stat/124/3567]; [Pub. L. 112–7][/us/pl/112/7], § 5(d), Mar. 31, 2011, [125 Stat. 32][/us/stat/125/32]; [Pub. L. 112–16][/us/pl/112/16], § 5(d), May 31, 2011, [125 Stat. 219][/us/stat/125/219]; [Pub. L. 112–21][/us/pl/112/21], § 5(d), June 29, 2011, [125 Stat. 234][/us/stat/125/234]; [Pub. L. 112–27][/us/pl/112/27], § 5(d), Aug. 5, 2011, [125 Stat. 271][/us/stat/125/271]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(e), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(e), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 135, 136(a), title IV, § 404, Feb. 14, 2012, [126 Stat. 22][/us/stat/126/22], 23, 85; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(b)(1), (2)(A), Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023], 2024; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(a), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(a), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1256][/us/stat/108/1256]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], §§ 111(a), (c), 112(a), Aug. 23, 1994, [108 Stat. 1573][/us/stat/108/1573], 1574; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 143, title VIII, § 805(a), (b)(2), Oct. 9, 1996, [110 Stat. 3221][/us/stat/110/3221], 3271, 3274; [Pub. L. 104–287][/us/pl/104/287], § 5(9), (80), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3397; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(h)(1), Dec. 2, 1997, [111 Stat. 2634][/us/stat/111/2634]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 125(a), Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75]; [Pub. L. 107–217][/us/pl/107/217], § 3(n)(7), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 321(a), Feb. 20, 2003, [117 Stat. 411][/us/stat/117/411]; [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2702, Apr. 16, 2003, [117 Stat. 600][/us/stat/117/600]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], §§ 144, 164, 165, title IV, § 424, Dec. 12, 2003, [117 Stat. 2503][/us/stat/117/2503], 2513, 2514, 2554; [Pub. L. 110–330][/us/pl/110/330], § 5(e), Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–12][/us/pl/111/12], § 5(d), Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69][/us/pl/111/69], § 5(e), Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116][/us/pl/111/116], § 5(d), Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–153][/us/pl/111/153], § 5(d), Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161][/us/pl/111/161], § 5(d), Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197][/us/pl/111/197], § 5(d), July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 104(d), Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249][/us/pl/111/249], § 5(e), Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 111–329][/us/pl/111/329], § 5(d), Dec. 22, 2010, [124 Stat. 3567][/us/stat/124/3567]; [Pub. L. 112–7][/us/pl/112/7], § 5(d), Mar. 31, 2011, [125 Stat. 32][/us/stat/125/32]; [Pub. L. 112–16][/us/pl/112/16], § 5(d), May 31, 2011, [125 Stat. 219][/us/stat/125/219]; [Pub. L. 112–21][/us/pl/112/21], § 5(d), June 29, 2011, [125 Stat. 234][/us/stat/125/234]; [Pub. L. 112–27][/us/pl/112/27], § 5(d), Aug. 5, 2011, [125 Stat. 271][/us/stat/125/271]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 205(e), Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91][/us/pl/112/91], § 5(e), Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], §§ 135, 136(a), title IV, § 404, Feb. 14, 2012, [126 Stat. 22][/us/stat/126/22], 23, 85; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(b)(1), (2)(A), Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023], 2024; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(a), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(a), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323]; [Pub. L. 114–190, title I][/us/pl/114/190/tI], § 1102(a), July 15, 2016, [130 Stat. 617][/us/stat/130/617].)
 
 <table>
 
@@ -1123,7 +1123,9 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
  __Amendments__ 
 
-    2016—Subsec. (r)(3). [Pub. L. 114–141][/us/pl/114/141] substituted “July 16, 2016” for “April 1, 2016”.
+    2016—Subsec. (r)(3). [Pub. L. 114–190][/us/pl/114/190] substituted “October 1, 2017” for “July 16, 2016”.
+
+    [Pub. L. 114–141][/us/pl/114/141] substituted “July 16, 2016” for “April 1, 2016”.
 
     2015—Subsec. (r)(3). [Pub. L. 114–55][/us/pl/114/55] substituted “April 1, 2016” for “October 1, 2015”.
 
@@ -1506,6 +1508,8 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 [/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
 [/us/stat/130/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F323
+[/us/pl/114/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtI
+[/us/stat/130/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F617
 [/us/usc/t49/s2204/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs2204%2Fd%2F2%2FB
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
 [/us/stat/101/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1502
@@ -1525,6 +1529,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
 [/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188

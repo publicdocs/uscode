@@ -119,6 +119,24 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 
     Amendment by [Pub. L. 106–181][/us/pl/106/181] applicable only to fiscal years beginning after Sept. 30, 1999, see [section 3 of Pub. L. 106–181][/us/pl/106/181/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
+ __Training Policies Regarding Assistance for Persons With Disabilities__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2107, July 15, 2016, [130 Stat. 622][/us/stat/130/622], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 270 days after the date of enactment of this Act \[July 15, 2016\], the Comptroller General of the United States shall submit to Congress a report assessing required air carrier personnel and contractor training programs regarding the assistance of persons with disabilities, including—
+
+>         “(1) variations in training programs between air carriers;
+
+>         “(2) instances since 2005 where the Department of Transportation has requested that an air carrier take corrective action following a review of the air carrier’s training programs; and
+
+>         “(3) actions taken by air carriers following requests described in paragraph (2).
+
+>     “(b)  __Best Practices__  __.—__ 
+
+>     After the date the report is submitted under subsection (a), the Secretary of Transportation, based on the findings of the report, shall develop, make publicly available, and appropriately disseminate to air carriers such best practices as the Secretary considers necessary to improve the reviewed training programs.”
+
  __Establishment of Higher International Standards__ 
 
 [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 707(c), Apr. 5, 2000, [114 Stat. 158][/us/stat/114/158], provided that: 
@@ -161,6 +179,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(c); added Oct. 2, 1986, 
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F622
 [/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F158
 [/us/pl/106/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2FtIII

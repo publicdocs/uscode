@@ -321,6 +321,78 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
     Amendment by [Pub. L. 103–429][/us/pl/103/429] effective July 5, 1994, see [section 9 of Pub. L. 103–429][/us/pl/103/429/s9], set out as a note under [section 321 of this title][/us/usc/t49/s321].
 
+ __Cockpit Automation Management__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2102, July 15, 2016, [130 Stat. 619][/us/stat/130/619], provided that: 
+
+> “Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall—
+
+>     “(1)
+
+>      develop a process to verify that air carrier training programs incorporate measures to train pilots on—
+
+>         “(A) monitoring automation systems; and
+
+>         “(B) controlling the flightpath of aircraft without autopilot or autoflight systems engaged;
+
+>     “(2) develop metrics or measurable tasks that air carriers can use to evaluate pilot monitoring proficiency;
+
+>     “(3) issue guidance to aviation safety inspectors responsible for oversight of the operations of air carriers on tracking and assessing pilots’ proficiency in manual flight; and
+
+>     “(4) issue guidance to air carriers and inspectors regarding standards for compliance with the requirements for enhanced pilot training contained in the final rule published in the Federal Register on November 12, 2013 (78 Fed. Reg. 67800).”
+
+ __Additional Certification Resources__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2109, July 15, 2016, [130 Stat. 623][/us/stat/130/623], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Notwithstanding any other provision of law, and subject to the requirements of subsection (b), the Administrator of the FAA may enter into a reimbursable agreement with an applicant or certificate-holder for the reasonable travel and per diem expenses of the FAA associated with official travel to expedite the acceptance or validation by a foreign authority of an FAA certificate or design approval or the acceptance or validation by the FAA of a foreign authority certificate or design approval.
+
+>     “(b)  __Conditions__  __.—__ 
+
+>     The Administrator may enter into an agreement under subsection (a) only if—
+
+>         “(1) the travel covered under the agreement is deemed necessary, by both the Administrator and the applicant or certificate-holder, to expedite the acceptance or validation of the relevant certificate or approval;
+
+>         “(2) the travel is conducted at the request of the applicant or certificate-holder;
+
+>         “(3) travel plans and expenses are approved by the applicant or certificate-holder prior to travel; and
+
+>         “(4) the agreement requires payment in advance of FAA services and is consistent with the processes under section 106(l)(6) of title 49, United States Code.
+
+>     “(c)  __Report__  __.—__ 
+
+>     Not later than 2 years after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on—
+
+>         “(1) the number of occasions on which the Administrator entered into reimbursable agreements under this section;
+
+>         “(2) the number of occasions on which the Administrator declined a request by an applicant or certificate-holder to enter into a reimbursable agreement under this section;
+
+>         “(3) the amount of reimbursements collected in accordance with agreements under this section; and
+
+>         “(4) the extent to which reimbursable agreements under this section assisted in reducing the amount of time necessary for validations of certificates and design approvals.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section, the following definitions apply:
+
+>         “(1)  __Applicant__  __.—__ 
+
+>         The term ‘applicant’ means a person that has—
+
+>             “(A) applied to a foreign authority for the acceptance or validation of an FAA certificate or design approval; or
+
+>             “(B) applied to the FAA for the acceptance or validation of a foreign authority certificate or design approval.
+
+>         “(2)  __Certificate-holder__  __.—__ 
+
+>         The term ‘certificate-holder’ means a person that holds a certificate issued by the Administrator under part 21 of title 14, Code of Federal Regulations.
+
+>         “(3)  __FAA__  __.—__ 
+
+>         The term ‘FAA’ means the Federal Aviation Administration.”
+
  __Notices to Airmen__ 
 
 [Pub. L. 112–153][/us/pl/112/153], § 3, Aug. 3, 2012, [126 Stat. 1162][/us/stat/126/1162], provided that:
@@ -1365,6 +1437,10 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F619
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F623
 [/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1162
 [/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII

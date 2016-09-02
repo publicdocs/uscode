@@ -689,6 +689,100 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
     For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Aviation Cybersecurity__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2111, July 15, 2016, [130 Stat. 625][/us/stat/130/625], provided that:
+
+>     “(a) __Comprehensive and Strategic Aviation Framework.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 240 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall facilitate and support the development of a comprehensive and strategic framework of principles and policies to reduce cybersecurity risks to the national airspace system, civil aviation, and agency information systems using a total systems approach that takes into consideration the interactions and interdependence of different components of aircraft systems and the national airspace system.
+
+>         “(2)  __Scope__  __.—__ 
+
+>         In carrying out paragraph (1), the Administrator shall—
+
+>             “(A)
+
+>              identify and address the cybersecurity risks associated with—
+
+>                 “(i) the modernization of the national airspace system;
+
+>                 “(ii) the automation of aircraft, equipment, and technology; and
+
+>                 “(iii)
+
+>                  aircraft systems, including by—
+
+>                          “(I)
+
+>                      directing the Aircraft Systems Information Security Protection Working Group—
+
+>                         “(aa) to assess cybersecurity risks to aircraft systems;
+
+>                         “(bb) to review the extent to which existing rulemaking, policy, and guidance to promote safety also promote aircraft systems information security protection; and
+
+>                         “(cc) to provide appropriate recommendations to the Administrator if separate or additional rulemaking, policy, or guidance is needed to address cybersecurity risks to aircraft systems; and
+
+>                          “(II)
+
+>                      identifying and addressing—
+
+>                         “(aa) cybersecurity risks associated with in-flight entertainment systems; and
+
+>                         “(bb) whether in-flight entertainment systems can and should be isolated and separate, such as through an air gap, under existing rulemaking, policy, and guidance;
+
+>             “(B) clarify cybersecurity roles and responsibilities of offices and employees of the Federal Aviation Administration, as the roles and responsibilities relate to cybersecurity at the Federal Aviation Administration;
+
+>             “(C) identify and implement objectives and actions to reduce cybersecurity risks to air traffic control information systems, including actions to improve implementation of information security standards, such as those of the National Institute of Standards and Technology;
+
+>             “(D) support voluntary efforts by industry, RTCA, Inc., and other standards-setting organizations to develop and identify consensus standards and best practices relating to guidance on aviation systems information security protection, consistent, to the extent appropriate, with the cybersecurity risk management activities described in section 2(e) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(e)][/us/usc/t15/s272/e]);
+
+>             “(E) establish guidelines for the voluntary exchange of information between and among aviation stakeholders pertaining to aviation-related cybersecurity incidents, threats, and vulnerabilities;
+
+>             “(F) identify short- and long-term objectives and actions that can be taken in response to cybersecurity risks to the national airspace system; and
+
+>             “(G) identify research and development activities to inform actions in response to cybersecurity risks.
+
+>         “(3)  __Implementation requirements__  __.—__ 
+
+>         In carrying out the activities under this subsection, the Administrator shall—
+
+>             “(A) coordinate with aviation stakeholders, including, at a minimum, representatives of industry, airlines, manufacturers, airports, RTCA, Inc., and unions;
+
+>             “(B) consult with the heads of relevant agencies and with international regulatory authorities;
+
+>             “(C) if determined appropriate, convene an expert panel or working group to identify and address cybersecurity risks; and
+
+>             “(D) evaluate, on a periodic basis, the effectiveness of the principles established under this subsection.
+
+>     “(b)  __Update on Cybersecurity Implementation Progress__  __.—__ 
+
+>     Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] an update on progress made toward the implementation of this section.
+
+>     “(c)  __Cybersecurity Threat Model__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with the Director of the National Institute of Standards and Technology, shall implement the open recommendation issued in 2015 by the Government Accountability Office to assess and research the potential cost and timetable of developing and maintaining an agencywide threat model, which shall be updated regularly, to strengthen the cybersecurity of agency systems across the Federal Aviation Administration. The Administrator shall brief the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status, results, and composition of the threat model.
+
+>     “(d)  __National Institute of Standards and Technology Information Security Standards__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration, after consultation with the Director of the National Institute of Standards and Technology, shall transmit to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—
+
+>         “(1) a cybersecurity standards plan to improve implementation of the National Institute of Standards and Technology’s latest revisions to information security guidance for Federal Aviation Administration information and Federal Aviation Administration information systems within set timeframes; and
+
+>         “(2) an explanation of why any such revisions are not incorporated in the plan or are not incorporated within set timeframes.
+
+>     “(e)  __Cybersecurity Research and Development__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with other agencies as appropriate, shall establish a cybersecurity research and development plan for the national airspace system, including—
+
+>         “(1) any proposal for research and development cooperation with international partners;
+
+>         “(2) an evaluation and determination of research and development needs to determine any cybersecurity risks of cabin communications and cabin information technology systems on board in the passenger domain; and
+
+>         “(3) objectives, proposed tasks, milestones, and a 5-year budgetary profile.”
+
  __Airport Security__ 
 
 [Pub. L. 114–50][/us/pl/114/50], Sept. 24, 2015, [129 Stat. 490][/us/stat/129/490], provided that:
@@ -1263,6 +1357,9 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F625
+[/us/usc/t15/s272/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272%2Fe
 [/us/pl/114/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F50
 [/us/stat/129/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F490
 [/us/pl/113/6/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtII

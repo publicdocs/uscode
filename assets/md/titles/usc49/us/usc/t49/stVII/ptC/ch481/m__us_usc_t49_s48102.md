@@ -141,7 +141,7 @@
 
         (8) $168,000,000 for each of fiscal years 2012 through 2015; and
 
-        (9) $124,093,750 for the period beginning on October 1, 2015, and ending on July 15, 2016.
+        (9) $166,000,000 for each of fiscal years 2016 and 2017.
 
     (b)  __Research Priorities__  __.—__ 
 
@@ -257,7 +257,7 @@
 
         Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1294][/us/stat/108/1294]; [Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 302, Aug. 23, 1994, [108 Stat. 1589][/us/stat/108/1589]; [Pub. L. 104–264, title XI][/us/pl/104/264/tXI], §§ 1102, 1103, Oct. 9, 1996, [110 Stat. 3278][/us/stat/110/3278]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), (74), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3396; [Pub. L. 105–155][/us/pl/105/155], §§ 2, 3, Feb. 11, 1998, [112 Stat. 5][/us/stat/112/5]; [Pub. L. 106–181, title IX][/us/pl/106/181/tIX], § 901, Apr. 5, 2000, [114 Stat. 194][/us/stat/114/194]; [Pub. L. 108–176, title VII][/us/pl/108/176/tVII], §§ 701, 707, Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], 2582; [Pub. L. 110–330][/us/pl/110/330], § 8, Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12][/us/pl/111/12], § 8, Mar. 30, 2009, [123 Stat. 1459][/us/stat/123/1459]; [Pub. L. 111–69][/us/pl/111/69], § 8, Oct. 1, 2009, [123 Stat. 2056][/us/stat/123/2056]; [Pub. L. 111–116][/us/pl/111/116], § 8, Dec. 16, 2009, [123 Stat. 3033][/us/stat/123/3033]; [Pub. L. 111–153][/us/pl/111/153], § 8, Mar. 31, 2010, [124 Stat. 1086][/us/stat/124/1086]; [Pub. L. 111–161][/us/pl/111/161], § 8, Apr. 30, 2010, [124 Stat. 1128][/us/stat/124/1128]; [Pub. L. 111–197][/us/pl/111/197], § 8, July 2, 2010, [124 Stat. 1355][/us/stat/124/1355]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 107, Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 208, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 8, Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 901(a), (b), Feb. 14, 2012, [126 Stat. 137][/us/stat/126/137]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 105, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 105, Mar. 30, 2016, [130 Stat. 324][/us/stat/130/324].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1294][/us/stat/108/1294]; [Pub. L. 103–305, title III][/us/pl/103/305/tIII], § 302, Aug. 23, 1994, [108 Stat. 1589][/us/stat/108/1589]; [Pub. L. 104–264, title XI][/us/pl/104/264/tXI], §§ 1102, 1103, Oct. 9, 1996, [110 Stat. 3278][/us/stat/110/3278]; [Pub. L. 104–287][/us/pl/104/287], § 5(9), (74), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3396; [Pub. L. 105–155][/us/pl/105/155], §§ 2, 3, Feb. 11, 1998, [112 Stat. 5][/us/stat/112/5]; [Pub. L. 106–181, title IX][/us/pl/106/181/tIX], § 901, Apr. 5, 2000, [114 Stat. 194][/us/stat/114/194]; [Pub. L. 108–176, title VII][/us/pl/108/176/tVII], §§ 701, 707, Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], 2582; [Pub. L. 110–330][/us/pl/110/330], § 8, Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12][/us/pl/111/12], § 8, Mar. 30, 2009, [123 Stat. 1459][/us/stat/123/1459]; [Pub. L. 111–69][/us/pl/111/69], § 8, Oct. 1, 2009, [123 Stat. 2056][/us/stat/123/2056]; [Pub. L. 111–116][/us/pl/111/116], § 8, Dec. 16, 2009, [123 Stat. 3033][/us/stat/123/3033]; [Pub. L. 111–153][/us/pl/111/153], § 8, Mar. 31, 2010, [124 Stat. 1086][/us/stat/124/1086]; [Pub. L. 111–161][/us/pl/111/161], § 8, Apr. 30, 2010, [124 Stat. 1128][/us/stat/124/1128]; [Pub. L. 111–197][/us/pl/111/197], § 8, July 2, 2010, [124 Stat. 1355][/us/stat/124/1355]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 107, Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 208, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 8, Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IX][/us/pl/112/95/tIX], § 901(a), (b), Feb. 14, 2012, [126 Stat. 137][/us/stat/126/137]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 105, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 105, Mar. 30, 2016, [130 Stat. 324][/us/stat/130/324]; [Pub. L. 114–190, title I][/us/pl/114/190/tI], § 1105, July 15, 2016, [130 Stat. 618][/us/stat/130/618].)
 
 <table>
 
@@ -411,7 +411,9 @@ Nov. 3, 1988, Pub. L. 100–591, § 8(d), 102 Stat. 3016; Nov. 17, 1988, Pub. 
 
  __Amendments__ 
 
-    2016—Subsec. (a)(9). [Pub. L. 114–141][/us/pl/114/141] amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
+    2016—Subsec. (a)(9). [Pub. L. 114–190][/us/pl/114/190] amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$124,093,750 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
+
+    [Pub. L. 114–141][/us/pl/114/141] amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
 
     2015—Subsec. (a)(9). [Pub. L. 114–55][/us/pl/114/55] added par. (9).
 
@@ -573,9 +575,12 @@ Nov. 3, 1988, Pub. L. 100–591, § 8(d), 102 Stat. 3016; Nov. 17, 1988, Pub. 
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
 [/us/stat/130/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F324
+[/us/pl/114/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtI
+[/us/stat/130/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F618
 [/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
 [/us/stat/106/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4896
 [/us/pl/105/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F155
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95

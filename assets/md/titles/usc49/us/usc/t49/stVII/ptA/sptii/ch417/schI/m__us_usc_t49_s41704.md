@@ -83,6 +83,32 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
     The words “as may be necessary”, “which . . . lawfully”, and “by such person” are omitted as surplus. The words “The carrier is liable to pay an amount not more than” are substituted for “shall assume liability . . . within” for clarity. The words “to such person” are omitted as surplus. The words “The carrier may impose” are added for clarity. The words “terms and” are omitted as covered by “conditions”.
 
+ __Refunds for Delayed Baggage__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2305, July 15, 2016, [130 Stat. 640][/us/stat/130/640], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Secretary of Transportation shall issue final regulations to require an air carrier or foreign air carrier to promptly provide to a passenger an automated refund for any ancillary fees paid by the passenger for checked baggage if—
+
+>         “(1)
+
+>          the air carrier or foreign air carrier fails to deliver the checked baggage to the passenger—
+
+>             “(A) not later than 12 hours after the arrival of a domestic flight; or
+
+>             “(B) not later than 15 hours after the arrival of an international flight; and
+
+>         “(2) the passenger has notified the air carrier or foreign air carrier of the lost or delayed checked baggage.
+
+>     “(b)  __Exception__  __.—__ 
+
+>     If, as part of the rulemaking, the Secretary makes a determination on the record that a requirement under subsection (a) is not feasible and would adversely affect consumers in certain cases, the Secretary may modify 1 or both of the deadlines specified in subsection (a)(1) for such cases, except that—
+
+>         “(1) the deadline relating to a domestic flight may not exceed 18 hours after the arrival of the domestic flight; and
+
+>         “(2) the deadline relating to an international flight may not exceed 30 hours after the arrival of the international flight.”
+
 ----------
 
 [Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptii/ch417/schI/m__us_usc_t49_s41703.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptii/ch417/schI/m__us_usc_t49_s41705.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41704)
@@ -92,5 +118,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1141
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F640
 
 
