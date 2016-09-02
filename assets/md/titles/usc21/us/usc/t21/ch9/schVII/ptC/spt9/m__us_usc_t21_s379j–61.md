@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt9/m__us_usc_t21_ch9_schVII_ptC_spt9.md) | [Next](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt9/m__us_usc_t21_s379j–62.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9361)
 
-## § 379j–61. Definitions
+## 379j–61. Definitions
 
     In this subpart:
 
