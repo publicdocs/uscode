@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5303 derived from [act July 2, 1864, ch. 225, § 4][/us/act/1864-07-02/ch225/s4], [13 Stat. 376][/us/stat/13/376].
+    R.S. § 5303 derived from [act July 2, 1864, ch. 225][/us/act/1864-07-02/ch225], § 4, [13 Stat. 376][/us/stat/13/376].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1864-07-02/ch225/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch225%2Fs4
+[/us/act/1864-07-02/ch225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch225
 [/us/stat/13/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F376
 
 

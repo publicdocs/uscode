@@ -75,15 +75,15 @@
 
         (3) not increase or decrease the balance in the fund.
 
-([June 7, 1939, ch. 190, § 9][/us/act/1939-06-07/ch190/s9], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 323][/us/stat/93/323]; amended [Pub. L. 97–35, title II, § 203(d)][/us/pl/97/35/s203/d], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3203(a)][/us/pl/99/661/s3203/a], Nov. 14, 1986, [100 Stat. 4067][/us/stat/100/4067]; [Pub. L. 100–180, div. C, title II, § 3204][/us/pl/100/180/s3204], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 101–189, div. C, title XXXIII, § 3312(b)][/us/pl/101/189/s3312/b], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 101–510, div. C, title XXXIII, § 3301(c)][/us/pl/101/510/s3301/c], Nov. 5, 1990, [104 Stat. 1845][/us/stat/104/1845]; [Pub. L. 102–190, div. C, title XXXIII, § 3311(a)][/us/pl/102/190/s3311/a], Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 102–484, div. C, title XXXIII, § 3313][/us/pl/102/484/s3313], Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 103–160, div. C, title XXXIII, § 3313][/us/pl/103/160/s3313], Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962]; [Pub. L. 105–261, div. C, title XXXIII, § 3304][/us/pl/105/261/s3304], Oct. 17, 1998, [112 Stat. 2264][/us/stat/112/2264]; [Pub. L. 113–66, div. A, title XIV, § 1411(b)][/us/pl/113/66/s1411/b], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 9, as added [Pub. L. 96–41][/us/pl/96/41], § 2(a), July 30, 1979, [93 Stat. 323][/us/stat/93/323]; amended [Pub. L. 97–35, title II][/us/pl/97/35/tII], § 203(d), Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II][/us/pl/99/661/dC/tII], § 3203(a), Nov. 14, 1986, [100 Stat. 4067][/us/stat/100/4067]; [Pub. L. 100–180, div. C, title II][/us/pl/100/180/dC/tII], § 3204, Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 101–189, div. C, title XXXIII][/us/pl/101/189/dC/tXXXIII], § 3312(b), Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 101–510, div. C, title XXXIII][/us/pl/101/510/dC/tXXXIII], § 3301(c), Nov. 5, 1990, [104 Stat. 1845][/us/stat/104/1845]; [Pub. L. 102–190, div. C, title XXXIII][/us/pl/102/190/dC/tXXXIII], § 3311(a), Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 102–484, div. C, title XXXIII][/us/pl/102/484/dC/tXXXIII], § 3313, Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 103–160, div. C, title XXXIII][/us/pl/103/160/dC/tXXXIII], § 3313, Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962]; [Pub. L. 105–261, div. C, title XXXIII][/us/pl/105/261/dC/tXXXIII], § 3304, Oct. 17, 1998, [112 Stat. 2264][/us/stat/112/2264]; [Pub. L. 113–66, div. A, title XIV][/us/pl/113/66/dA/tXIV], § 1411(b), Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
 
  __References in Text__ 
 
-    Paragraphs (5) and (6) of [section 98e(a) of this title][/us/usc/t50/s98e/a], referred to in subsec. (b)(1), were redesignated as paragraphs (6) and (7) of [section 98e(a) of this title][/us/usc/t50/s98e/a] by [Pub. L. 113–66, div. A, title XIV, § 1411(a)][/us/pl/113/66/s1411/a], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].
+    Paragraphs (5) and (6) of [section 98e(a) of this title][/us/usc/t50/s98e/a], referred to in subsec. (b)(1), were redesignated as paragraphs (6) and (7) of [section 98e(a) of this title][/us/usc/t50/s98e/a] by [Pub. L. 113–66, div. A, title XIV][/us/pl/113/66/dA/tXIV], § 1411(a), Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].
 
  __Prior Provisions__ 
 
-    A prior section 98h, [act June 7, 1939, ch. 190, § 9][/us/act/1939-06-07/ch190/s9], as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 600][/us/stat/60/600], related to disposition of receipts, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98h(b)(1) of this title][/us/usc/t50/s98h/b/1].
+    A prior section 98h, [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 9, as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 600][/us/stat/60/600], related to disposition of receipts, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98h(b)(1) of this title][/us/usc/t50/s98h/b/1].
 
  __Amendments__ 
 
@@ -91,17 +91,17 @@
 
     1998—Subsec. (b)(2)(J) to (L). [Pub. L. 105–261][/us/pl/105/261] added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
 
-    1993—Subsec. (b)(2)(J), (K). [Pub. L. 103–160, § 3313(a)][/us/pl/103/160/s3313/a], added subpars. (J) and (K).
+    1993—Subsec. (b)(2)(J), (K). [Pub. L. 103–160][/us/pl/103/160], § 3313(a), added subpars. (J) and (K).
 
-    Subsec. (b)(4). [Pub. L. 103–160, § 3313(b)][/us/pl/103/160/s3313/b], struck out par. (4) which read as follows: “Notwithstanding paragraph (2), moneys in the fund may not be used to pay salaries and expenses of stockpile employees.”
+    Subsec. (b)(4). [Pub. L. 103–160][/us/pl/103/160], § 3313(b), struck out par. (4) which read as follows: “Notwithstanding paragraph (2), moneys in the fund may not be used to pay salaries and expenses of stockpile employees.”
 
-    1992—Subsec. (b)(2)(A). [Pub. L. 102–484, § 3313(a)(1)][/us/pl/102/484/s3313/a/1], inserted “, maintenance, and disposal” after “acquisition” and substituted “section 98e(a)” for “section 98e(a)(1)”.
+    1992—Subsec. (b)(2)(A). [Pub. L. 102–484][/us/pl/102/484], § 3313(a)(1), inserted “, maintenance, and disposal” after “acquisition” and substituted “section 98e(a)” for “section 98e(a)(1)”.
 
-    Subsec. (b)(2)(B). [Pub. L. 102–484, § 3313(a)(2)][/us/pl/102/484/s3313/a/2], substituted “such acquisition, maintenance, and disposal” for “such acquisition”.
+    Subsec. (b)(2)(B). [Pub. L. 102–484][/us/pl/102/484], § 3313(a)(2), substituted “such acquisition, maintenance, and disposal” for “such acquisition”.
 
-    Subsec. (b)(2)(H), (I). [Pub. L. 102–484, § 3313(b)][/us/pl/102/484/s3313/b], added subpars. (H) and (I).
+    Subsec. (b)(2)(H), (I). [Pub. L. 102–484][/us/pl/102/484], § 3313(b), added subpars. (H) and (I).
 
-    Subsec. (b)(4). [Pub. L. 102–484, § 3313(c)][/us/pl/102/484/s3313/c], added par. (4).
+    Subsec. (b)(4). [Pub. L. 102–484][/us/pl/102/484], § 3313(c), added par. (4).
 
     1991—Subsec. (b)(2)(G). [Pub. L. 102–190][/us/pl/102/190] added subpar. (G).
 
@@ -111,9 +111,9 @@
 
     1987—Subsec. (b)(2)(F). [Pub. L. 100–180][/us/pl/100/180] struck out subpar. (F) which related to other reasonable requirements for management of stockpile.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–661, § 3203(a)(1)][/us/pl/99/661/s3203/a/1], struck out “Such moneys shall remain in the fund until appropriated.” after “covered into the fund.”
+    1986—Subsec. (b)(1). [Pub. L. 99–661][/us/pl/99/661], § 3203(a)(1), struck out “Such moneys shall remain in the fund until appropriated.” after “covered into the fund.”
 
-    Subsec. (b)(2), (3). [Pub. L. 99–661, § 3203(a)(2)][/us/pl/99/661/s3203/a/2], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (b)(2), (3). [Pub. L. 99–661][/us/pl/99/661], § 3203(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) Moneys covered into the fund under paragraph (1) shall be available, when appropriated therefor, only for the acquisition of strategic and critical materials under [section 98e(a)(1) of this title][/us/usc/t50/s98e/a/1] (and for transportation related to such acquisition).
 
@@ -123,15 +123,15 @@
 
  __Use of Funds From National Defense Stockpile Transaction Fund To Meet National Defense Stockpile Goals and Specifications in Effect on__  __October 1, 1984__ 
 
-[Pub. L. 100–440, title V, § 518][/us/pl/100/440/s518], Sept. 22, 1988, [102 Stat. 1748][/us/stat/102/1748], directed that, no later than Oct. 1, 1989, Administrator of General Services, or any Federal officer assuming Administrator’s responsibilities with respect to management of the stockpile, to use all funds authorized and appropriated before Jan. 1, 1985, from National Defense Stockpile Transaction Fund to evaluate, test, relocate, upgrade or purchase stockpile materials to meet National Defense Stockpile goals and specifications in effect on Oct. 1, 1984. Similar provisions were contained in the following prior appropriation acts:
+[Pub. L. 100–440, title V][/us/pl/100/440/tV], § 518, Sept. 22, 1988, [102 Stat. 1748][/us/stat/102/1748], directed that, no later than Oct. 1, 1989, Administrator of General Services, or any Federal officer assuming Administrator’s responsibilities with respect to management of the stockpile, to use all funds authorized and appropriated before Jan. 1, 1985, from National Defense Stockpile Transaction Fund to evaluate, test, relocate, upgrade or purchase stockpile materials to meet National Defense Stockpile goals and specifications in effect on Oct. 1, 1984. Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title V, § 519\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–417.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title V, § 519\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–417.
 
-    [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title V, § 520\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–326, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title V, § 520\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–326.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title V, § 520\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–326, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title V, § 520\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–326.
 
  __Deposit of Funds Accruing From Naval Petroleum Reserves__ 
 
-[Pub. L. 98–525, title IX, § 905][/us/pl/98/525/s905], Oct. 19, 1984, [98 Stat. 2574][/us/stat/98/2574], as amended by [Pub. L. 99–145, title XVI, § 1611(a)][/us/pl/99/145/s1611/a], Nov. 8, 1985, [99 Stat. 776][/us/stat/99/776], provided that: 
+[Pub. L. 98–525, title IX][/us/pl/98/525/tIX], § 905, Oct. 19, 1984, [98 Stat. 2574][/us/stat/98/2574], as amended by [Pub. L. 99–145, title XVI][/us/pl/99/145/tXVI], § 1611(a), Nov. 8, 1985, [99 Stat. 776][/us/stat/99/776], provided that: 
 
 > “There shall be deposited into the National Defense Stockpile Transaction Fund established under section 9 of the Act ([50 U.S.C. 98h][/us/usc/t50/s98h]) 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves (less amounts spent for exploration, development and operation of those reserves and related expenses during that period). Moneys deposited into the Fund under this subsection shall be deemed to have been covered into the Fund under section 9(b) of the Act.”
 
@@ -148,65 +148,65 @@
 [/us/usc/t50/s98h–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%936
 [/us/usc/t50/s98e/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa%2F4
 [/us/usc/t50/s98f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98f%2Fa
-[/us/act/1939-06-07/ch190/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs9
-[/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F323
-[/us/pl/97/35/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs203%2Fd
+[/us/pl/97/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtII
 [/us/stat/95/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F382
-[/us/pl/99/661/s3203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3203%2Fa
+[/us/pl/99/661/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdC%2FtII
 [/us/stat/100/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4067
-[/us/pl/100/180/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3204
+[/us/pl/100/180/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtII
 [/us/stat/101/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1247
-[/us/pl/101/189/s3312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3312%2Fb
+[/us/pl/101/189/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXIII
 [/us/stat/103/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1688
-[/us/pl/101/510/s3301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3301%2Fc
+[/us/pl/101/510/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXIII
 [/us/stat/104/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1845
-[/us/pl/102/190/s3311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3311%2Fa
+[/us/pl/102/190/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXIII
 [/us/stat/105/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1584
-[/us/pl/102/484/s3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3313
+[/us/pl/102/484/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXIII
 [/us/stat/106/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2653
-[/us/pl/103/160/s3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3313
+[/us/pl/103/160/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXIII
 [/us/stat/107/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1962
-[/us/pl/105/261/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3304
+[/us/pl/105/261/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXIII
 [/us/stat/112/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2264
-[/us/pl/113/66/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fb
+[/us/pl/113/66/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXIV
 [/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
 [/us/usc/t50/s98e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa
 [/us/usc/t50/s98e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa
-[/us/pl/113/66/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fa
+[/us/pl/113/66/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXIV
 [/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
-[/us/act/1939-06-07/ch190/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs9
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
 [/us/stat/60/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F600
 [/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
 [/us/usc/t50/s98h/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F1
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/103/160/s3313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3313%2Fa
-[/us/pl/103/160/s3313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3313%2Fb
-[/us/pl/102/484/s3313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3313%2Fa%2F1
-[/us/pl/102/484/s3313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3313%2Fa%2F2
-[/us/pl/102/484/s3313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3313%2Fb
-[/us/pl/102/484/s3313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3313%2Fc
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/661/s3203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3203%2Fa%2F1
-[/us/pl/99/661/s3203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3203%2Fa%2F2
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t50/s98e/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e%2Fa%2F1
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/100/440/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs518
+[/us/pl/100/440/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtV
 [/us/stat/102/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1748
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
-[/us/pl/98/525/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs905
+[/us/pl/98/525/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtIX
 [/us/stat/98/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2574
-[/us/pl/99/145/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1611%2Fa
+[/us/pl/99/145/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXVI
 [/us/stat/99/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F776
 [/us/usc/t50/s98h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h
 

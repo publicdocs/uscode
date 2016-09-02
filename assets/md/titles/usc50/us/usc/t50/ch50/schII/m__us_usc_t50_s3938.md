@@ -41,7 +41,7 @@
 
         (3) that otherwise do not permit the movement of family members to that location.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 208, as added [Pub. L. 113–291, div. A, title V, § 566(a)][/us/pl/113/291/s566/a], Dec. 19, 2014, [128 Stat. 3384][/us/stat/128/3384].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 208, as added [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 566(a), Dec. 19, 2014, [128 Stat. 3384][/us/stat/128/3384].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/113/291/s566/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs566%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3384
 
 

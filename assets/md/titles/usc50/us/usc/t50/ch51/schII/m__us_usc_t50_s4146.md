@@ -17,7 +17,7 @@
 
     The Secretary of State is authorized and directed to transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 216, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 216, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1113
 
 

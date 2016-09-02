@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t50/ch42/schIII/m__us_usc_t50_s2561.md) | [Next](./../../../../..//us/usc/t50/ch42/schIII/m__us_usc_t50_s2563.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2562)
 
-## § 2562. Repealed. [Pub. L. 113–66, div. C, title XXXI, § 3146(d)(1)(A)][/us/pl/113/66/s3146/d/1/A], Dec. 26, 2013, [127 Stat. 1075][/us/stat/127/1075]
+## § 2562. Repealed. [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(d)(1)(A), Dec. 26, 2013, [127 Stat. 1075][/us/stat/127/1075]
 
-    Section, [Pub. L. 107–314, div. D, title XLIII, § 4302][/us/pl/107/314/s4302], formerly [Pub. L. 106–65, div. C, title XXXI, § 3136][/us/pl/106/65/s3136], Oct. 5, 1999, [113 Stat. 927][/us/stat/113/927]; renumbered [Pub. L. 107–314, div. D, title XLIII, § 4302][/us/pl/107/314/s4302], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(3)][/us/pl/108/136/s3141/f/3], Nov. 24, 2003, [117 Stat. 1762][/us/stat/117/1762]; [Pub. L. 112–81, div. C, title XXXI, § 3121(b)][/us/pl/112/81/s3121/b], Dec. 31, 2011, [125 Stat. 1709][/us/stat/125/1709]; [Pub. L. 112–239, div. C, title XXXI, § 3131(bb)(1)(D)][/us/pl/112/239/s3131/bb/1/D], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185], related to nonproliferation initiatives and activities.
+    Section, [Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4302, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3136, Oct. 5, 1999, [113 Stat. 927][/us/stat/113/927]; renumbered [Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4302, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(f)(3), Nov. 24, 2003, [117 Stat. 1762][/us/stat/117/1762]; [Pub. L. 112–81, div. C, title XXXI][/us/pl/112/81/dC/tXXXI], § 3121(b), Dec. 31, 2011, [125 Stat. 1709][/us/stat/125/1709]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(bb)(1)(D), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185], related to nonproliferation initiatives and activities.
 
 ----------
 
@@ -24,17 +24,17 @@
 ----------
 ----------
 
-[/us/pl/113/66/s3146/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fd%2F1%2FA
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1075
-[/us/pl/107/314/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4302
-[/us/pl/106/65/s3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3136
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F927
-[/us/pl/107/314/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4302
-[/us/pl/108/136/s3141/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F3
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1762
-[/us/pl/112/81/s3121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3121%2Fb
+[/us/pl/112/81/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdC%2FtXXXI
 [/us/stat/125/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1709
-[/us/pl/112/239/s3131/bb/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fbb%2F1%2FD
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
 
 

@@ -57,7 +57,7 @@
 
     (6) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3281][/us/pl/106/65/s3281], Oct. 5, 1999, [113 Stat. 968][/us/stat/113/968]; [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(3)][/us/pl/112/239/s3132/a/3], (d)(3), (4), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185], 2187; [Pub. L. 113–66, div. C, title XXXI, § 3145(i)][/us/pl/113/66/s3145/i], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3281, Oct. 5, 1999, [113 Stat. 968][/us/stat/113/968]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3132(a)(3), (d)(3), (4), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185], 2187; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(i), Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    2013—Par. (2)(C). [Pub. L. 112–239, § 3132(d)(3)(A)][/us/pl/112/239/s3132/d/3/A], substituted “Y–12 National Security Complex” for “Y–12 Plant”.
+    2013—Par. (2)(C). [Pub. L. 112–239][/us/pl/112/239], § 3132(d)(3)(A), substituted “Y–12 National Security Complex” for “Y–12 Plant”.
 
-    Par. (2)(D). [Pub. L. 112–239, § 3132(d)(3)(B)][/us/pl/112/239/s3132/d/3/B], struck out “tritium operations facilities at the” before “Savannah River Site”.
+    Par. (2)(D). [Pub. L. 112–239][/us/pl/112/239], § 3132(d)(3)(B), struck out “tritium operations facilities at the” before “Savannah River Site”.
 
-    Par. (2)(E). [Pub. L. 112–239, § 3132(d)(4)][/us/pl/112/239/s3132/d/4], substituted “Nevada National Security Site” for “Nevada Test Site”.
+    Par. (2)(E). [Pub. L. 112–239][/us/pl/112/239], § 3132(d)(4), substituted “Nevada National Security Site” for “Nevada Test Site”.
 
     Par. (2)(F). [Pub. L. 113–66][/us/pl/113/66] substituted “Congress” for “the Congress”.
 
-    Par. (6). [Pub. L. 112–239, § 3132(a)(3)][/us/pl/112/239/s3132/a/3], added par. (6).
+    Par. (6). [Pub. L. 112–239][/us/pl/112/239], § 3132(a)(3), added par. (6).
 
 ----------
 
@@ -88,19 +88,19 @@
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
-[/us/pl/106/65/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3281
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F968
-[/us/pl/112/239/s3132/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F3
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
-[/us/pl/113/66/s3145/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fi
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F953
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
-[/us/pl/112/239/s3132/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F3%2FA
-[/us/pl/112/239/s3132/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F3%2FB
-[/us/pl/112/239/s3132/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F4
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s3132/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F3
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

@@ -73,7 +73,7 @@
 
         The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in [section 8301 of title 40][/us/usc/t40/s8301].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3655][/us/stat/118/3655]; amended [Pub. L. 111–259, title IV][/us/pl/111/259], §§ 403, 407(b), title VIII, § 804(3), Oct. 7, 2010, [124 Stat. 2709][/us/stat/124/2709], 2721, 2747; [Pub. L. 112–87, title IV, § 405][/us/pl/112/87/s405], Jan. 3, 2012, [125 Stat. 1888][/us/stat/125/1888].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3655][/us/stat/118/3655]; amended [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], §§ 403, 407(b), title VIII, § 804(3), Oct. 7, 2010, [124 Stat. 2709][/us/stat/124/2709], 2721, 2747; [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 405, Jan. 3, 2012, [125 Stat. 1888][/us/stat/125/1888].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 103 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, as added [Pub. L. 102–496, title VII, § 705(a)(3)][/us/pl/102/496/s705/a/3], Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190]; amended [Pub. L. 103–178, title V, § 502][/us/pl/103/178/s502], Dec. 3, 1993, [107 Stat. 2038][/us/stat/107/2038]; [Pub. L. 104–293, title VIII][/us/pl/104/293], §§ 806, 807(a), Oct. 11, 1996, [110 Stat. 3479][/us/stat/110/3479], 3480; [Pub. L. 107–56, title IX, § 901][/us/pl/107/56/s901], Oct. 26, 2001, [115 Stat. 387][/us/stat/115/387], related to responsibilities of Director of Central Intelligence, prior to repeal by [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1011(a), 1097(a), Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
+    A prior section 103 of [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], as added [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 705(a)(3), Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190]; amended [Pub. L. 103–178, title V][/us/pl/103/178/tV], § 502, Dec. 3, 1993, [107 Stat. 2038][/us/stat/107/2038]; [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], §§ 806, 807(a), Oct. 11, 1996, [110 Stat. 3479][/us/stat/110/3479], 3480; [Pub. L. 107–56, title IX][/us/pl/107/56/tIX], § 901, Oct. 26, 2001, [115 Stat. 387][/us/stat/115/387], related to responsibilities of Director of Central Intelligence, prior to repeal by [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1011(a), 1097(a), Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
 
     Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to [section 3042 of this title][/us/usc/t50/s3042].
 
@@ -97,11 +97,11 @@
 
     2012—Subsecs. (e), (f). [Pub. L. 112–87][/us/pl/112/87] added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    2010—Subsec. (b). [Pub. L. 111–259, § 804(3)][/us/pl/111/259/s804/3], struck out “, the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401] et seq.),” after “this Act”.
+    2010—Subsec. (b). [Pub. L. 111–259][/us/pl/111/259], § 804(3), struck out “, the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401] et seq.),” after “this Act”.
 
-    Subsec. (c)(9) to (14). [Pub. L. 111–259, § 407(b)][/us/pl/111/259/s407/b], added pars. (9) to (13) and redesignated former par. (9) as (14).
+    Subsec. (c)(9) to (14). [Pub. L. 111–259][/us/pl/111/259], § 407(b), added pars. (9) to (13) and redesignated former par. (9) as (14).
 
-    Subsec. (e). [Pub. L. 111–259, § 403][/us/pl/111/259/s403], amended subsec. (e) generally. Prior to amendment, text read as follows: “Commencing as of October 1, 2008, the Office of the Director of National Intelligence may not be co-located with any other element of the intelligence community.”
+    Subsec. (e). [Pub. L. 111–259][/us/pl/111/259], § 403, amended subsec. (e) generally. Prior to amendment, text read as follows: “Commencing as of October 1, 2008, the Office of the Director of National Intelligence may not be co-located with any other element of the intelligence community.”
 
  __Effective Date__ 
 
@@ -121,11 +121,11 @@
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t40/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8301
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3655
-[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2709
-[/us/pl/112/87/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs405
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1888
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/stat/118/3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3638
@@ -134,23 +134,23 @@
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/usc/t50/s403–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/102/496/s705/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs705%2Fa%2F3
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3190
-[/us/pl/103/178/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs502
+[/us/pl/103/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtV
 [/us/stat/107/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2038
-[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3479
-[/us/pl/107/56/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs901
+[/us/pl/107/56/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIX
 [/us/stat/115/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F387
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3643
 [/us/usc/t50/s3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3042
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
-[/us/pl/111/259/s804/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F3
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
-[/us/pl/111/259/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs407%2Fb
-[/us/pl/111/259/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs403
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

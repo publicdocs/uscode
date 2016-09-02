@@ -21,7 +21,7 @@
 
     (2) applies to any activity that is reportable pursuant to title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\].
 
-([Pub. L. 107–228, div. B, title XIII, § 1338][/us/pl/107/228/s1338], Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1338, Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
-[/us/pl/107/228/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1338
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1451
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

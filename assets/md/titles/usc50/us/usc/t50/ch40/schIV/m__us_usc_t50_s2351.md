@@ -33,7 +33,7 @@
 
         Of the total amount authorized to be appropriated under section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $2,000,000 is available to the Department of Defense for carrying out research referred to in subsection (b)(3) of this section.
 
-([Pub. L. 104–201, div. A, title XIV, § 1441][/us/pl/104/201/s1441], Sept. 23, 1996, [110 Stat. 2727][/us/stat/110/2727]; [Pub. L. 105–261, div. A, title X, § 1069(c)(2)][/us/pl/105/261/s1069/c/2], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1441, Sept. 23, 1996, [110 Stat. 2727][/us/stat/110/2727]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(c)(2), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Commission To Assess Organization of Federal Government To Combat Proliferation of Weapons of Mass Destruction__ 
 
-    [Pub. L. 104–293, title VII][/us/pl/104/293], subtitle A, Oct. 11, 1996, [110 Stat. 3470][/us/stat/110/3470], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 708\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–390, established the Commission to Assess the Organization of the Federal Government to Combat the Proliferation of Weapons of Mass Destruction, directed the Commission to carry out a thorough study of the organization of the Federal Government, including the elements of the intelligence community, with respect to combatting the proliferation of weapons of mass destruction and, not later than 18 months after Jan. 18, 1998, to submit to Congress a report containing a detailed statement of its findings and conclusions, and provided that the Commission terminate 60 days after the date on which it submitted such report.
+    [Pub. L. 104–293, title VII][/us/pl/104/293/tVII], subtitle A, Oct. 11, 1996, [110 Stat. 3470][/us/stat/110/3470], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VII, § 708\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–390, established the Commission to Assess the Organization of the Federal Government to Combat the Proliferation of Weapons of Mass Destruction, directed the Commission to carry out a thorough study of the organization of the Federal Government, including the elements of the intelligence community, with respect to combatting the proliferation of weapons of mass destruction and, not later than 18 months after Jan. 18, 1998, to submit to Congress a report containing a detailed statement of its findings and conclusions, and provided that the Commission terminate 60 days after the date on which it submitted such report.
 
 ----------
 
@@ -54,16 +54,16 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1441
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2727
-[/us/pl/105/261/s1069/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fc%2F2
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/104/201/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs301
 [/us/stat/110/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2475
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
+[/us/pl/104/293/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVII
 [/us/stat/110/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3470
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 
 

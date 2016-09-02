@@ -55,7 +55,7 @@
 
         The Director of National Intelligence shall, as appropriate, include in the National Intelligence Program budget a separate line item for each national intelligence center under subsection (a) of this section.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 119B, as added [Pub. L. 108–458, title I, § 1023][/us/pl/108/458/s1023], Dec. 17, 2004, [118 Stat. 3676][/us/stat/118/3676].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 119B, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1023, Dec. 17, 2004, [118 Stat. 3676][/us/stat/118/3676].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1023
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3676
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa

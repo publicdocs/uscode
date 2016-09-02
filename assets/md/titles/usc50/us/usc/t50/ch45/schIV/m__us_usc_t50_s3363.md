@@ -75,11 +75,11 @@
 
         (2) the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 107–306, title III, § 343][/us/pl/107/306/s343], Nov. 27, 2002, [116 Stat. 2399][/us/stat/116/2399]; [Pub. L. 108–177, title III, § 377(d)][/us/pl/108/177/s377/d], Dec. 13, 2003, [117 Stat. 2631][/us/stat/117/2631]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(g)(2)(A)(ii), 1072(d)(1)(A), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691], 3693; [Pub. L. 111–259, title III, § 347(f)][/us/pl/111/259/s347/f], Oct. 7, 2010, [124 Stat. 2699][/us/stat/124/2699].)
+([Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 343, Nov. 27, 2002, [116 Stat. 2399][/us/stat/116/2399]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 377(d), Dec. 13, 2003, [117 Stat. 2631][/us/stat/117/2631]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(g)(2)(A)(ii), 1072(d)(1)(A), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691], 3693; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 347(f), Oct. 7, 2010, [124 Stat. 2699][/us/stat/124/2699].)
 
  __References in Text__ 
 
-    [Section 403–3 of this title][/us/usc/t50/s403–3], referred to in subsec. (d)(2), was repealed and a new section 403–3 enacted by [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], without corresponding amendment to this section. [Section 403–3 of this title][/us/usc/t50/s403–3] was subsequently editorially reclassified as [section 3025 of this title][/us/usc/t50/s3025]. The new section 3025 contains a subsec. (c) relating to the composition of the Office of the Director of National Intelligence.
+    [Section 403–3 of this title][/us/usc/t50/s403–3], referred to in subsec. (d)(2), was repealed and a new section 403–3 enacted by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], without corresponding amendment to this section. [Section 403–3 of this title][/us/usc/t50/s403–3] was subsequently editorially reclassified as [section 3025 of this title][/us/usc/t50/s3025]. The new section 3025 contains a subsec. (c) relating to the composition of the Office of the Director of National Intelligence.
 
  __Codification__ 
 
@@ -93,11 +93,11 @@
 
     “(2) The Director shall, as a result of each review under paragraph (1), certify whether or not the elements of the intelligence community responsible for the collection of intelligence related to the list have provided information for purposes of the list that is derived from the widest possible range of intelligence available to such department and agencies.”
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(g)(2)(A)(ii)][/us/pl/108/458/s1071/g/2/A/ii], which directed amendment of par. (1) by substituting “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”, was executed by making the substitution for “Director of Central Intelligence, acting as head of the Intelligence Community,” in introductory provisions to reflect the probable intent of Congress.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(g)(2)(A)(ii), which directed amendment of par. (1) by substituting “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”, was executed by making the substitution for “Director of Central Intelligence, acting as head of the Intelligence Community,” in introductory provisions to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 108–458, § 1072(d)(1)(A)][/us/pl/108/458/s1072/d/1/A], which directed amendment of subsec. (c) by substituting “section 403–1(i)” for “section 403–3(c)(6)”, was executed by making the substitution for “section 403–3(c)(7)” to reflect the probable intent of Congress and the amendment by [Pub. L. 108–177][/us/pl/108/177]. See 2003 Amendment note below.
+    Subsec. (c). [Pub. L. 108–458][/us/pl/108/458], § 1072(d)(1)(A), which directed amendment of subsec. (c) by substituting “section 403–1(i)” for “section 403–3(c)(6)”, was executed by making the substitution for “section 403–3(c)(7)” to reflect the probable intent of Congress and the amendment by [Pub. L. 108–177][/us/pl/108/177]. See 2003 Amendment note below.
 
-    2003—Subsecs. (c), (e)(2). [Pub. L. 108–177, § 377(d)][/us/pl/108/177/s377/d], substituted “[section 403–3(c)(7) of this title][/us/usc/t50/s403–3/c/7]” for “[section 403–3(c)(6) of this title][/us/usc/t50/s403–3/c/6]”.
+    2003—Subsecs. (c), (e)(2). [Pub. L. 108–177][/us/pl/108/177], § 377(d), substituted “[section 403–3(c)(7) of this title][/us/usc/t50/s403–3/c/7]” for “[section 403–3(c)(6) of this title][/us/usc/t50/s403–3/c/6]”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -113,25 +113,25 @@
 ----------
 
 [/us/usc/t50/s3024/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fi
-[/us/pl/107/306/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs343
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2399
-[/us/pl/108/177/s377/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fd
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2631
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/111/259/s347/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Ff
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2699
 [/us/usc/t50/s403–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3643
 [/us/usc/t50/s403–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933
 [/us/usc/t50/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3025
 [/us/usc/t50/s404n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404n%E2%80%932
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/g/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FA%2Fii
-[/us/pl/108/458/s1072/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FA
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
-[/us/pl/108/177/s377/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fd
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s403–3/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F7
 [/us/usc/t50/s403–3/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F6
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

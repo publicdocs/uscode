@@ -17,7 +17,7 @@
 
     The Administrator shall establish procedures to ensure that the mission and programs of the Administration are executed in full compliance with all applicable provisions of the Federal Acquisition Regulation issued pursuant to [section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1].
 
-([Pub. L. 106–65, div. C, title XXXII, § 3262][/us/pl/106/65/s3262], Oct. 5, 1999, [113 Stat. 967][/us/stat/113/967]; [Pub. L. 113–66, div. C, title XXXI, § 3145(g)][/us/pl/113/66/s3145/g], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3262, Oct. 5, 1999, [113 Stat. 967][/us/stat/113/967]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(g), Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
-[/us/pl/106/65/s3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3262
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F967
-[/us/pl/113/66/s3145/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fg
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1

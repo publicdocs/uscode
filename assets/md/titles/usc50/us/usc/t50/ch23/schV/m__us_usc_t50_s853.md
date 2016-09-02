@@ -17,7 +17,7 @@
 
     The Attorney General shall retain in permanent form one copy of all registration statements filed under this subchapter. They shall be public records and open to public examination at such reasonable hours and under such regulations as the Attorney General prescribes, except that the Attorney General, having due regard for the national security and public interest, may withdraw any registration statement from public examination.
 
-([Aug. 1, 1956, ch. 849, § 4][/us/act/1956-08-01/ch849/s4], [70 Stat. 900][/us/stat/70/900].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 4, [70 Stat. 900][/us/stat/70/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs4
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F900
 
 

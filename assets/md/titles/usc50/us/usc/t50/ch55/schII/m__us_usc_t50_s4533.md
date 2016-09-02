@@ -147,7 +147,7 @@
 
         When, in the judgement of the President, it will aid the national defense, the President may make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other industrial resources.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 303, as added [Pub. L. 111–67, § 7][/us/pl/111/67/s7], Sept. 30, 2009, [123 Stat. 2013][/us/stat/123/2013]; amended [Pub. L. 113–172, § 4(a)][/us/pl/113/172/s4/a], Sept. 26, 2014, [128 Stat. 1897][/us/stat/128/1897].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 303, as added [Pub. L. 111–67][/us/pl/111/67], § 7, Sept. 30, 2009, [123 Stat. 2013][/us/stat/123/2013]; amended [Pub. L. 113–172][/us/pl/113/172], § 4(a), Sept. 26, 2014, [128 Stat. 1897][/us/stat/128/1897].)
 
  __Termination of Section__ 
 
@@ -157,7 +157,7 @@
 
     This chapter, referred to in subsec. (f)(1), was in the original “this Act”, meaning [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title][/us/usc/t50/s4501] and Tables.
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (f), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of this title. For complete classification of this Act to the Code, see [section 98 of this title][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (f), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of this title. For complete classification of this Act to the Code, see [section 98 of this title][/us/usc/t50/s98] and Tables.
 
  __Codification__ 
 
@@ -165,19 +165,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 303 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, [64 Stat. 801][/us/stat/64/801]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 103(a), [65 Stat. 133][/us/stat/65/133]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], §§ 5, 6, [67 Stat. 130][/us/stat/67/130]; [Aug. 9, 1955, ch. 655, § 3][/us/act/1955-08-09/ch655/s3], [69 Stat. 580][/us/stat/69/580]; [June 29, 1956, ch. 474, § 2][/us/act/1956-06-29/ch474/s2], [70 Stat. 408][/us/stat/70/408]; [Pub. L. 88–343, § 2][/us/pl/88/343/s2], June 30, 1964, [78 Stat. 235][/us/stat/78/235]; [Pub. L. 92–325, § 1][/us/pl/92/325/s1], June 30, 1972, [86 Stat. 390][/us/stat/86/390]; [Pub. L. 94–273, § 2(29)][/us/pl/94/273/s2/29], Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 96–41, § 3(c)][/us/pl/96/41/s3/c], July 30, 1979, [93 Stat. 325][/us/stat/93/325]; [Pub. L. 96–294, title I, § 104(d)][/us/pl/96/294/s104/d], June 30, 1980, [94 Stat. 618][/us/stat/94/618]; [Pub. L. 98–265][/us/pl/98/265], §§ 3(c), 4(c), Apr. 17, 1984, [98 Stat. 150][/us/stat/98/150], 151; [Pub. L. 102–558, title I, § 121(c)][/us/pl/102/558/s121/c], (d), Oct. 28, 1992, [106 Stat. 4204][/us/stat/106/4204], 4206; [Pub. L. 107–47, § 4(3)][/us/pl/107/47/s4/3], Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to purchase of raw materials and installation of equipment, prior to the general amendment of title III of this Act by [Pub. L. 111–67][/us/pl/111/67].
+    A prior section 303 of [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], [64 Stat. 801][/us/stat/64/801]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 103(a), [65 Stat. 133][/us/stat/65/133]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], §§ 5, 6, [67 Stat. 130][/us/stat/67/130]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], § 3, [69 Stat. 580][/us/stat/69/580]; [June 29, 1956, ch. 474][/us/act/1956-06-29/ch474], § 2, [70 Stat. 408][/us/stat/70/408]; [Pub. L. 88–343][/us/pl/88/343], § 2, June 30, 1964, [78 Stat. 235][/us/stat/78/235]; [Pub. L. 92–325][/us/pl/92/325], § 1, June 30, 1972, [86 Stat. 390][/us/stat/86/390]; [Pub. L. 94–273][/us/pl/94/273], § 2(29), Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 96–41][/us/pl/96/41], § 3(c), July 30, 1979, [93 Stat. 325][/us/stat/93/325]; [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(d), June 30, 1980, [94 Stat. 618][/us/stat/94/618]; [Pub. L. 98–265][/us/pl/98/265], §§ 3(c), 4(c), Apr. 17, 1984, [98 Stat. 150][/us/stat/98/150], 151; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 121(c), (d), Oct. 28, 1992, [106 Stat. 4204][/us/stat/106/4204], 4206; [Pub. L. 107–47][/us/pl/107/47], § 4(3), Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to purchase of raw materials and installation of equipment, prior to the general amendment of title III of this Act by [Pub. L. 111–67][/us/pl/111/67].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(5). [Pub. L. 113–172, § 4(a)(1)(A)][/us/pl/113/172/s4/a/1/A], substituted “, on a non-delegable basis, determines, with appropriate explanatory material and in writing,” for “determines” in introductory provisions.
+    2014—Subsec. (a)(5). [Pub. L. 113–172][/us/pl/113/172], § 4(a)(1)(A), substituted “, on a non-delegable basis, determines, with appropriate explanatory material and in writing,” for “determines” in introductory provisions.
 
-    Subsec. (a)(5)(C). [Pub. L. 113–172, § 4(a)(1)(B)][/us/pl/113/172/s4/a/1/B]–(D), added subpar. (C).
+    Subsec. (a)(5)(C). [Pub. L. 113–172][/us/pl/113/172], § 4(a)(1)(B)–(D), added subpar. (C).
 
-    Subsec. (a)(6)(C). [Pub. L. 113–172, § 4(a)(2)][/us/pl/113/172/s4/a/2], added subpar. (C).
+    Subsec. (a)(6)(C). [Pub. L. 113–172][/us/pl/113/172], § 4(a)(2), added subpar. (C).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–172, § 4(b)][/us/pl/113/172/s4/b], Sept. 26, 2014, [128 Stat. 1897][/us/stat/128/1897], provided that: 
+[Pub. L. 113–172][/us/pl/113/172], § 4(b), Sept. 26, 2014, [128 Stat. 1897][/us/stat/128/1897], provided that: 
 
 > “Section 303(a)(6)(C) of the Defense Production Act of 1950 \[[50 U.S.C. 4533(a)(6)(C)][/us/usc/t50/s4533/a/6/C]\], as added by subsection (a)(2), shall not apply to a project undertaken pursuant to a determination made before the date of the enactment of this Act \[Sept. 26, 2014\].”
 
@@ -189,13 +189,13 @@
 
  __Authorization To Take Actions To Correct the Industrial Resource Shortfall for High-Purity Beryllium Metal__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 842][/us/pl/111/84/s842], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418], provided that: 
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 842, Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418], provided that: 
 
 > “Notwithstanding any limitation in section 303 of the Defense Production Act of 1950 (50 U.S.C. App. 2093) \[now [50 U.S.C. 4533][/us/usc/t50/s4533]\], an action may be taken under such section to correct an industrial resource shortfall or domestic industrial base shortfall for high-purity beryllium metal if such action does not cause the aggregate outstanding amount of all such actions for such shortfall to exceed ‘$85,000,000’.”
 
  __Resource Shortfall for Radiation-Hardened Electronics__ 
 
-[Pub. L. 108–195, § 3][/us/pl/108/195/s3], Dec. 19, 2003, [117 Stat. 2892][/us/stat/117/2892], provided that:
+[Pub. L. 108–195][/us/pl/108/195], § 3, Dec. 19, 2003, [117 Stat. 2892][/us/stat/117/2892], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -213,7 +213,7 @@
 
 >         “(4) the plans of the Department of Defense for use of providers of radiation-hardened electronics beyond the providers with which the Department had entered into contractual arrangements under the authority of the Defense Production Act of 1950 \[[50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], as of the date of the enactment of this Act.”
 
-[Pub. L. 107–314, div. A, title VIII, § 829][/us/pl/107/314/s829], Dec. 2, 2002, [116 Stat. 2618][/us/stat/116/2618], provided that: 
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 829, Dec. 2, 2002, [116 Stat. 2618][/us/stat/116/2618], provided that: 
 
 > “Notwithstanding the limitation in \[former\] section 303(a)(6)(C) of the Defense Production Act of 1950 (\[former\] 50 U.S.C. App. 2093(a)(6)(C)), action or actions may be taken under section 303 of that Act to correct the industrial resource shortfall for radiation-hardened electronics, if such actions do not cause the aggregate outstanding amount of all such actions to exceed $106,000,000.”
 
@@ -230,60 +230,60 @@
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/111/67/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs7
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2013
-[/us/pl/113/172/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs4%2Fa
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
 [/us/stat/128/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1897
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
 [/us/stat/64/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F801
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F133
 [/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F130
-[/us/act/1955-08-09/ch655/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655%2Fs3
+[/us/act/1955-08-09/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655
 [/us/stat/69/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F580
-[/us/act/1956-06-29/ch474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch474%2Fs2
+[/us/act/1956-06-29/ch474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch474
 [/us/stat/70/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F408
-[/us/pl/88/343/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F343%2Fs2
+[/us/pl/88/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F343
 [/us/stat/78/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F235
-[/us/pl/92/325/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F325%2Fs1
+[/us/pl/92/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F325
 [/us/stat/86/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F390
-[/us/pl/94/273/s2/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F29
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F376
-[/us/pl/96/41/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs3%2Fc
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F325
-[/us/pl/96/294/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fd
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F618
 [/us/pl/98/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F265
 [/us/stat/98/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F150
-[/us/pl/102/558/s121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs121%2Fc
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4204
-[/us/pl/107/47/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47%2Fs4%2F3
+[/us/pl/107/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47
 [/us/stat/115/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F260
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
-[/us/pl/113/172/s4/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs4%2Fa%2F1%2FA
-[/us/pl/113/172/s4/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs4%2Fa%2F1%2FB
-[/us/pl/113/172/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs4%2Fa%2F2
-[/us/pl/113/172/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs4%2Fb
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
 [/us/stat/128/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1897
 [/us/usc/t50/s4533/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4533%2Fa%2F6%2FC
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
 [/us/usc/t50/s4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4553
-[/us/pl/111/84/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs842
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2418
 [/us/usc/t50/s4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4533
-[/us/pl/108/195/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs3
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
 [/us/stat/117/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2892
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
-[/us/pl/107/314/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs829
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2618
 
 

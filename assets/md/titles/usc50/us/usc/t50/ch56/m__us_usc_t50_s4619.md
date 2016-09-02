@@ -41,7 +41,7 @@
 
         Nothing in this chapter shall affect the provisions of the last sentence of section 612c–3  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 7.
 
-([Pub. L. 96–72, § 17][/us/pl/96/72/s17], Sept. 29, 1979, [93 Stat. 534][/us/stat/93/534]; [Pub. L. 99–64, title I, § 118][/us/pl/99/64/s118], July 12, 1985, [99 Stat. 154][/us/stat/99/154].)
+([Pub. L. 96–72][/us/pl/96/72], § 17, Sept. 29, 1979, [93 Stat. 534][/us/stat/93/534]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 118, July 12, 1985, [99 Stat. 154][/us/stat/99/154].)
 
  __Termination Date__ 
 
@@ -53,7 +53,7 @@
 
     The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (e), is [act Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], [65 Stat. 644][/us/stat/65/644], which was classified generally to chapter 20A (§ 1611 et seq.) of Title 22, Foreign Relations and Intercourse, prior to its supersedure by subsec. (e) of this section. For complete classification of this Act to the Code, see Tables.
 
-    [Section 612c–3 of title 7][/us/usc/t7/s612c–3], referred to in subsec. (a)(13)(A), was repealed by [Pub. L. 101–624, title XV, § 1578][/us/pl/101/624/s1578], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712].
+    [Section 612c–3 of title 7][/us/usc/t7/s612c–3], referred to in subsec. (a)(13)(A), was repealed by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712].
 
  __Codification__ 
 
@@ -61,11 +61,11 @@
 
  __Amendments__ 
 
-    1985—Subsec. (a). [Pub. L. 99–64, § 118(a)(1)][/us/pl/99/64/s118/a/1], substituted “Except as otherwise provided in this chapter, nothing” for “Nothing”.
+    1985—Subsec. (a). [Pub. L. 99–64][/us/pl/99/64], § 118(a)(1), substituted “Except as otherwise provided in this chapter, nothing” for “Nothing”.
 
-    Subsec. (c). [Pub. L. 99–64, § 118(a)(2)][/us/pl/99/64/s118/a/2], struck out sentence which provided that for purposes of this subsection “controlled country” means any country described in [section 2370(f) of title 22][/us/usc/t22/s2370/f].
+    Subsec. (c). [Pub. L. 99–64][/us/pl/99/64], § 118(a)(2), struck out sentence which provided that for purposes of this subsection “controlled country” means any country described in [section 2370(f) of title 22][/us/usc/t22/s2370/f].
 
-    Subsec. (f). [Pub. L. 99–64, § 118(b)][/us/pl/99/64/s118/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–64][/us/pl/99/64], § 118(b), added subsec. (f).
 
  __Delegation of Functions__ 
 
@@ -85,9 +85,9 @@
 [/us/usc/t50/s4609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609
 [/us/usc/t50/s4609/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609%2Fj
 [/us/usc/t22/s1611–161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1611%E2%80%93161
-[/us/pl/96/72/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs17
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F534
-[/us/pl/99/64/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs118
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F154
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
@@ -96,13 +96,13 @@
 [/us/act/1951-10-26/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch575
 [/us/stat/65/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F644
 [/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
-[/us/pl/101/624/s1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1578
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
 [/us/usc/t7/s5712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5712
-[/us/pl/99/64/s118/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs118%2Fa%2F1
-[/us/pl/99/64/s118/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs118%2Fa%2F2
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
-[/us/pl/99/64/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs118%2Fb
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
 
 

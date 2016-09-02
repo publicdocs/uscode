@@ -29,7 +29,7 @@
 
         The Attorney General shall develop procedures for the administration of this section, including the disclosure of foreign intelligence by elements of the Department of Justice, and elements of other departments and agencies of the Federal Government, under subsection (a) of this section and the provision of notice with respect to criminal investigations under subsection (b) of this section.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105B, as added [Pub. L. 107–56, title IX, § 905(a)(2)][/us/pl/107/56/s905/a/2], Oct. 26, 2001, [115 Stat. 388][/us/stat/115/388]; amended [Pub. L. 108–458, title I, § 1071(a)(1)(G)][/us/pl/108/458/s1071/a/1/G], (H), (2)(B), (C), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105B, as added [Pub. L. 107–56, title IX][/us/pl/107/56/tIX], § 905(a)(2), Oct. 26, 2001, [115 Stat. 388][/us/stat/115/388]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(G), (H), (2)(B), (C), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690.)
 
  __Codification__ 
 
@@ -37,17 +37,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 105B of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, as added [Pub. L. 106–120, title V, § 501(a)(1)][/us/pl/106/120/s501/a/1], Dec. 3, 1999, [113 Stat. 1616][/us/stat/113/1616], which related to protection of operational files of the National Imagery and Mapping Agency, was renumbered by subsequent acts and transferred. See [section 3142 of this title][/us/usc/t50/s3142].
+    A prior section 105B of [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], as added [Pub. L. 106–120, title V][/us/pl/106/120/tV], § 501(a)(1), Dec. 3, 1999, [113 Stat. 1616][/us/stat/113/1616], which related to protection of operational files of the National Imagery and Mapping Agency, was renumbered by subsequent acts and transferred. See [section 3142 of this title][/us/usc/t50/s3142].
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(a)(1)(G)][/us/pl/108/458/s1071/a/1/G], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(G), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (a)(2). [Pub. L. 108–458, § 1071(a)(2)(B)][/us/pl/108/458/s1071/a/2/B], struck out “of Central Intelligence” after “Director”.
+    Subsec. (a)(2). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(2)(B), struck out “of Central Intelligence” after “Director”.
 
-    Subsec. (b). [Pub. L. 108–458, § 1071(a)(2)(C)][/us/pl/108/458/s1071/a/2/C], struck out “of Central Intelligence” after “notice to the Director”.
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(2)(C), struck out “of Central Intelligence” after “notice to the Director”.
 
-    [Pub. L. 108–458, § 1071(a)(1)(H)][/us/pl/108/458/s1071/a/1/H], substituted “with the Director of National Intelligence” for “with the Director of Central Intelligence”.
+    [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(H), substituted “with the Director of National Intelligence” for “with the Director of Central Intelligence”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -63,19 +63,19 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/107/56/s905/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs905%2Fa%2F2
+[/us/pl/107/56/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIX
 [/us/stat/115/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F388
-[/us/pl/108/458/s1071/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FG
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/usc/t50/s403–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935b
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/106/120/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs501%2Fa%2F1
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
+[/us/pl/106/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtV
 [/us/stat/113/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1616
 [/us/usc/t50/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3142
-[/us/pl/108/458/s1071/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FG
-[/us/pl/108/458/s1071/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F2%2FB
-[/us/pl/108/458/s1071/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F2%2FC
-[/us/pl/108/458/s1071/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FH
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

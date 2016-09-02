@@ -17,7 +17,7 @@
 
     The Council of National Defense shall adopt rules and regulations for the conduct of its work, which rules and regulations shall be subject to the approval of the President, and shall provide for the work of the advisory commission to the end that the special knowledge of such commission may be developed by suitable investigation, research, and inquiry and made available in conference and report for the use of the council; and the council may organize subordinate bodies for its assistance in special investigations, either by the employment of experts or by the creation of committees of specially qualified persons to serve without compensation, but to direct the investigations of experts so employed.
 
-([Aug. 29, 1916, ch. 418, § 2][/us/act/1916-08-29/ch418/s2], [39 Stat. 650][/us/stat/39/650].)
+([Aug. 29, 1916, ch. 418][/us/act/1916-08-29/ch418], § 2, [39 Stat. 650][/us/stat/39/650].)
 
  __Termination of Advisory Commissions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1916-08-29/ch418/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418%2Fs2
+[/us/act/1916-08-29/ch418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418
 [/us/stat/39/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F650
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

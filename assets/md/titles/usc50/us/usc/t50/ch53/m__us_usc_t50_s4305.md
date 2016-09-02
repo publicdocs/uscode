@@ -35,7 +35,7 @@
 
         (4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under [section 4604 of this title][/us/usc/t50/s4604], or under [section 4605 of this title][/us/usc/t50/s4605] to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
 
-([Oct. 6, 1917, ch. 106, § 5][/us/act/1917-10-06/ch106/s5], [40 Stat. 415][/us/stat/40/415]; [Sept. 24, 1918, ch. 176, § 5][/us/act/1918-09-24/ch176/s5], [40 Stat. 966][/us/stat/40/966]; [Mar. 9, 1933, ch. 1, § 2][/us/act/1933-03-09/ch1/s2], [48 Stat. 1][/us/stat/48/1]; [May 7, 1940, ch. 185, § 1][/us/act/1940-05-07/ch185/s1], [54 Stat. 179][/us/stat/54/179]; [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 301, [55 Stat. 839][/us/stat/55/839]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Pub. L. 95–223, title I][/us/pl/95/223], §§ 101(a), 102, 103(b), Dec. 28, 1977, [91 Stat. 1625][/us/stat/91/1625], 1626; [Pub. L. 100–418, title II, § 2502(a)(1)][/us/pl/100/418/s2502/a/1], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]; [Pub. L. 103–236, title V, § 525(b)(1)][/us/pl/103/236/s525/b/1], Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 5, [40 Stat. 415][/us/stat/40/415]; [Sept. 24, 1918, ch. 176][/us/act/1918-09-24/ch176], § 5, [40 Stat. 966][/us/stat/40/966]; [Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], § 2, [48 Stat. 1][/us/stat/48/1]; [May 7, 1940, ch. 185][/us/act/1940-05-07/ch185], § 1, [54 Stat. 179][/us/stat/54/179]; [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 301, [55 Stat. 839][/us/stat/55/839]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Pub. L. 95–223, title I][/us/pl/95/223/tI], §§ 101(a), 102, 103(b), Dec. 28, 1977, [91 Stat. 1625][/us/stat/91/1625], 1626; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2502(a)(1), Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]; [Pub. L. 103–236, title V][/us/pl/103/236/tV], § 525(b)(1), Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
     1977—Subsec. (b)(1). [Pub. L. 95–223][/us/pl/95/223], §§ 101(a), 102, substituted “During the time of war, the President may, through any agency that he may designate, and under such rules and regulations” for “During the time of war or during any other period of national emergency declared by the President, the President may, through any agency, that he may designate, or otherwise, and under such rules and regulations” in provisions preceding subpar. (A), and, in provisions following subpar. (B), struck out “; and the President may, in the manner hereinabove provided, take other and further measures not inconsistent herewith for the enforcement of this subdivision” after “control of such person”.
 
-    Subsec. (b)(3). [Pub. L. 95–22, § 103(b)][/us/pl/95/22/s103/b], struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
+    Subsec. (b)(3). [Pub. L. 95–22][/us/pl/95/22], § 103(b), struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
 
     1941—Subsec. (b). Act Dec. 18, 1941, considerably broadened the powers of the President to take, administer, control, use and liquidate foreign-owned property and added a flexibility of control which enabled the President and the agencies designated by him to cope with the problems surrounding alien property, its ownership or control, on the basis of the particular facts in each case.
 
@@ -69,7 +69,7 @@
 
  __Regulations__ 
 
-[Act Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 1, [48 Stat. 1][/us/stat/48/1], provided that: 
+[Act Mar. 9, 1933, ch. 1, title I][/us/act/1933-03-09/ch1/tI], § 1, [48 Stat. 1][/us/stat/48/1], provided that: 
 
 > “The actions, regulations, rules, licenses, orders and proclamations heretofore or hereafter taken, promulgated, made, or issued by the President of the United States or the Secretary of the Treasury since March 4, 1933, pursuant to the authority conferred by subdivision (b) of [section 5 of the act of October 6, 1917][/us/act/1917-10-06/s5], as amended \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], are hereby approved and confirmed.”
 
@@ -81,17 +81,17 @@
 
  __Limitation on Exercise of Emergency Authorities__ 
 
-[Pub. L. 103–236, title V, § 525(b)(2)][/us/pl/103/236/s525/b/2], Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474], provided that: 
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 525(b)(2), Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474], provided that: 
 
 > “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Apr. 30, 1994\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as amended by paragraph (1) of this subsection, may not be regulated or prohibited.”
 
-[Pub. L. 100–418, title II, § 2502(a)(2)][/us/pl/100/418/s2502/a/2], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371], provided that: 
+[Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2502(a)(2), Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371], provided that: 
 
 > “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Aug. 23, 1988\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as added by paragraph (1) of this subsection, may not be regulated or prohibited.”
 
  __Extension and Termination of National Emergency Powers Under the Trading With the Enemy Act__ 
 
-[Pub. L. 95–223, title I, § 101(b)][/us/pl/95/223/s101/b], (c), Dec. 28, 1977, [91 Stat. 1625][/us/stat/91/1625], provided that:
+[Pub. L. 95–223, title I][/us/pl/95/223/tI], § 101(b), (c), Dec. 28, 1977, [91 Stat. 1625][/us/stat/91/1625], provided that:
 
 >     “(b) Notwithstanding the amendment made by subsection (a) \[amending this section\], the authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, may continue to be exercised with respect to such country, except that, unless extended, the exercise of such authorities shall terminate (subject to the savings provisions of the second sentence of section 101(a) of the National Emergencies Act \[[50 U.S.C. 1601(a)][/us/usc/t50/s1601/a]\]) at the end of the two-year period beginning on the date of enactment of the National Emergencies Act \[Sept. 14, 1976\]. The President may extend the exercise of such authorities for one-year periods upon a determination for each such extension that the exercise of such authorities with respect to such country for another year is in the national interest of the United States.
 
@@ -301,7 +301,7 @@ A. All of the following transactions are prohibited, except as specifically auth
 
     This Order and any regulations, rulings, licenses or instructions issued hereunder may be amended, modified or revoked at any time.
 
-    \[Ex. Ord. No. 8389 and the regulations and general rulings issued thereunder by the Secretary of the Treasury were approved and confirmed by Res. [May 7, 1940, ch. 185, § 2][/us/act/1940-05-07/ch185/s2], [54 Stat. 179][/us/stat/54/179].\]
+    \[Ex. Ord. No. 8389 and the regulations and general rulings issued thereunder by the Secretary of the Treasury were approved and confirmed by Res. [May 7, 1940, ch. 185][/us/act/1940-05-07/ch185], § 2, [54 Stat. 179][/us/stat/54/179].\]
 
     \[Ex. Ord. No. 9760, July 24, 1946, 11 F.R. 7999, [50 U.S.C. 4306][/us/usc/t50/s4306] note, relating to diplomatic property of Germany and Japan in the United States, supersedes conflicting provisions of Ex. Ord. No. 8389, set out above.\]
 
@@ -420,22 +420,22 @@ A. All of the following transactions are prohibited, except as specifically auth
 [/us/usc/t50/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4303
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
-[/us/act/1917-10-06/ch106/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs5
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
-[/us/act/1918-09-24/ch176/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-24%2Fch176%2Fs5
+[/us/act/1918-09-24/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-24%2Fch176
 [/us/stat/40/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F966
-[/us/act/1933-03-09/ch1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1%2Fs2
+[/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
 [/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
-[/us/act/1940-05-07/ch185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-07%2Fch185%2Fs1
+[/us/act/1940-05-07/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-07%2Fch185
 [/us/stat/54/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F179
 [/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
 [/us/stat/55/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F839
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
+[/us/pl/95/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtI
 [/us/stat/91/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1625
-[/us/pl/100/418/s2502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2502%2Fa%2F1
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
-[/us/pl/103/236/s525/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs525%2Fb%2F1
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F474
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
@@ -447,19 +447,19 @@ A. All of the following transactions are prohibited, except as specifically auth
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
-[/us/pl/95/22/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22%2Fs103%2Fb
-[/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
+[/us/pl/95/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F22
+[/us/act/1933-03-09/ch1/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1%2FtI
 [/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
 [/us/act/1917-10-06/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fs5
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t50/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4306
-[/us/pl/103/236/s525/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs525%2Fb%2F2
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F474
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
-[/us/pl/100/418/s2502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2502%2Fa%2F2
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
-[/us/pl/95/223/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs101%2Fb
+[/us/pl/95/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtI
 [/us/stat/91/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1625
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t50/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601%2Fa
@@ -474,7 +474,7 @@ A. All of the following transactions are prohibited, except as specifically auth
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/act/1917-10-06/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fs5%2Fb
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
-[/us/act/1940-05-07/ch185/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-07%2Fch185%2Fs2
+[/us/act/1940-05-07/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-07%2Fch185
 [/us/stat/54/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F179
 [/us/usc/t50/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4306
 [/us/pl/95/223/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs101%2Fb

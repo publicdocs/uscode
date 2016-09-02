@@ -59,7 +59,7 @@
 
         If the Secretary of Energy does not make a certification under subsection (c) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
 
-([Pub. L. 107–314, div. D, title XLII, § 4219][/us/pl/107/314/s4219], as added [Pub. L. 113–291, div. C, title XXXI, § 3112(b)(1)][/us/pl/113/291/s3112/b/1], Dec. 19, 2014, [128 Stat. 3886][/us/stat/128/3886].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4219, as added [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3112(b)(1), Dec. 19, 2014, [128 Stat. 3886][/us/stat/128/3886].)
 
 ----------
 
@@ -68,8 +68,8 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4219
-[/us/pl/113/291/s3112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3112%2Fb%2F1
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3886
 
 

@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “authorized investigative agency” means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3235][/us/pl/106/65/s3235], Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961]; [Pub. L. 113–66, div. C, title XXXI, § 3145(c)][/us/pl/113/66/s3145/c], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3235, Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(c), Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
-[/us/pl/106/65/s3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3235
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F961
-[/us/pl/113/66/s3145/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fc
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848

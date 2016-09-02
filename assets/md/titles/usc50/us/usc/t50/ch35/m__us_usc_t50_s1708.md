@@ -165,7 +165,7 @@
 
             (C) a person located in the United States.
 
-([Pub. L. 113–291, div. A, title XVI, § 1637][/us/pl/113/291/s1637], Dec. 19, 2014, [128 Stat. 3644][/us/stat/128/3644].)
+([Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1637, Dec. 19, 2014, [128 Stat. 3644][/us/stat/128/3644].)
 
  __References in Text__ 
 
@@ -189,7 +189,7 @@
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t18/s1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1839
-[/us/pl/113/291/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1637
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3644
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626

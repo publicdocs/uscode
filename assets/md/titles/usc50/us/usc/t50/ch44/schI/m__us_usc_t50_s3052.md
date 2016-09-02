@@ -43,7 +43,7 @@
 
         This section shall cease to be effective on October 1, 2000.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 115, as added [Pub. L. 106–120, title III, § 303(a)][/us/pl/106/120/s303/a], Dec. 3, 1999, [113 Stat. 1610][/us/stat/113/1610]; amended [Pub. L. 108–458, title I, § 1071(a)(1)(P)][/us/pl/108/458/s1071/a/1/P]–(R), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 115, as added [Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 303(a), Dec. 3, 1999, [113 Stat. 1610][/us/stat/113/1610]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(P)–(R), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689].)
 
  __Codification__ 
 
@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(a)(1)(P)][/us/pl/108/458/s1071/a/1/P], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(P), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (b). [Pub. L. 108–458, § 1071(a)(1)(Q)][/us/pl/108/458/s1071/a/1/Q], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(Q), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (c)(1)(B). [Pub. L. 108–458, § 1071(a)(1)(R)][/us/pl/108/458/s1071/a/1/R], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (c)(1)(B). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(R), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -73,14 +73,14 @@
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t22/s3902/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3902%2F3
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/106/120/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs303%2Fa
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1610
-[/us/pl/108/458/s1071/a/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FP
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/usc/t50/s404j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404j
-[/us/pl/108/458/s1071/a/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FP
-[/us/pl/108/458/s1071/a/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FQ
-[/us/pl/108/458/s1071/a/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FR
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

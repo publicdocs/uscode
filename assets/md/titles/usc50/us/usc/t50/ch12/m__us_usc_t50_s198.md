@@ -39,13 +39,13 @@
 
         When used in sections 196 to 198 of this title, the term “documented” means “registered”, “enrolled and licensed”, or “licensed”.
 
-([Aug. 9, 1954, ch. 659, § 3][/us/act/1954-08-09/ch659/s3], [68 Stat. 675][/us/stat/68/675]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], (2), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 97–31, § 12(152)][/us/pl/97/31/s12/152], Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167].)
+([Aug. 9, 1954, ch. 659][/us/act/1954-08-09/ch659], § 3, [68 Stat. 675][/us/stat/68/675]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), (2), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 97–31][/us/pl/97/31], § 12(152), Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167].)
 
  __Codification__ 
 
-    In subsec. (c), “[Section 57109 of title 46][/us/usc/t46/s57109]” substituted for “The second paragraph of section 9 of the Shipping Act, 1916, as amended,” and, in subsec. (d), “chapter 575 of title 46” substituted for “title VII of the Merchant Marine Act, 1936” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted section 57109 and chapter 575 of Title 46, Shipping.
+    In subsec. (c), “[Section 57109 of title 46][/us/usc/t46/s57109]” substituted for “The second paragraph of section 9 of the Shipping Act, 1916, as amended,” and, in subsec. (d), “chapter 575 of title 46” substituted for “title VII of the Merchant Marine Act, 1936” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted section 57109 and chapter 575 of Title 46, Shipping.
 
-    In subsec. (d), “provisions of [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “provisions of section 3709 of the Revised Statutes” and “said section 6101” substituted for “said section 3709” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d), “provisions of [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “provisions of section 3709 of the Revised Statutes” and “said section 6101” substituted for “said section 3709” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -71,17 +71,17 @@
 [/us/usc/t46/s57109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57109
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t50/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs196
-[/us/act/1954-08-09/ch659/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch659%2Fs3
+[/us/act/1954-08-09/ch659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch659
 [/us/stat/68/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F675
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
-[/us/pl/97/31/s12/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F152
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F167
 [/us/usc/t46/s57109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57109
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

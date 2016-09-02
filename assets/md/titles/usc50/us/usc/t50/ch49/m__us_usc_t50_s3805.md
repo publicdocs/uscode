@@ -25,7 +25,7 @@
 
         (3) no local board shall order for induction for training and service in the Armed Forces of the United States an alien unless such alien shall have resided in the United States for one year.
 
-        (2) Repealed. [Pub. L. 91–124, § 2][/us/pl/91/124/s2], Nov. 26, 1969, [83 Stat. 220][/us/stat/83/220].
+        (2) Repealed. [Pub. L. 91–124][/us/pl/91/124], § 2, Nov. 26, 1969, [83 Stat. 220][/us/stat/83/220].
 
     (b) __Basis for determination of quotas__ 
 
@@ -41,7 +41,7 @@
 
         Notwithstanding any other provision of this Act, not more than 130,000 persons may be inducted into the Armed Forces under this Act in the fiscal year ending June 30, 1972, and not more than 140,000 in the fiscal year ending June 30, 1973, unless a number greater than that authorized in this subsection for such fiscal year or years is authorized by a law enacted after September 28, 1971.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 5, [62 Stat. 608][/us/stat/62/608]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(k), [65 Stat. 83][/us/stat/65/83]; [Pub. L. 85–62][/us/pl/85/62], §§ 4, 5, June 27, 1957, [71 Stat. 207][/us/stat/71/207]; [Pub. L. 90–40, § 1(3)][/us/pl/90/40/s1/3], June 30, 1967, [81 Stat. 100][/us/stat/81/100]; [Pub. L. 91–124, § 2][/us/pl/91/124/s2], Nov. 26, 1969, [83 Stat. 220][/us/stat/83/220]; [Pub. L. 92–129, title I, § 101(a)(8)][/us/pl/92/129/s101/a/8], (9), Sept. 28, 1971, [85 Stat. 349][/us/stat/85/349].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 5, [62 Stat. 608][/us/stat/62/608]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(k), [65 Stat. 83][/us/stat/65/83]; [Pub. L. 85–62][/us/pl/85/62], §§ 4, 5, June 27, 1957, [71 Stat. 207][/us/stat/71/207]; [Pub. L. 90–40][/us/pl/90/40], § 1(3), June 30, 1967, [81 Stat. 100][/us/stat/81/100]; [Pub. L. 91–124][/us/pl/91/124], § 2, Nov. 26, 1969, [83 Stat. 220][/us/stat/83/220]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(8), (9), Sept. 28, 1971, [85 Stat. 349][/us/stat/85/349].)
 
  __Termination of Induction for Training and Service__ 
 
@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1971—Subsec. (a)(1). [Pub. L. 92–129, § 101(a)(8)][/us/pl/92/129/s101/a/8], added cl. (3) covering induction orders for aliens residing in the United States for one year, to last proviso.
+    1971—Subsec. (a)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(8), added cl. (3) covering induction orders for aliens residing in the United States for one year, to last proviso.
 
-    Subsecs. (d), (e). [Pub. L. 92–129, § 101(a)(9)][/us/pl/92/129/s101/a/9], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(9), added subsecs. (d) and (e).
 
     1969—Subsec. (a). [Pub. L. 91–124][/us/pl/91/124] repealed cl. (2) which prohibited President from effecting any change in method of determining relative order of induction.
 
@@ -109,7 +109,7 @@
 ----------
 
 [/us/usc/t50/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803
-[/us/pl/91/124/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F124%2Fs2
+[/us/pl/91/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F124
 [/us/stat/83/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F220
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F608
@@ -117,11 +117,11 @@
 [/us/stat/65/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F83
 [/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
 [/us/stat/71/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F207
-[/us/pl/90/40/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F3
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/stat/81/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F100
-[/us/pl/91/124/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F124%2Fs2
+[/us/pl/91/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F124
 [/us/stat/83/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F220
-[/us/pl/92/129/s101/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F8
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F349
 [/us/usc/t50/s3815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3815%2Fc
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
@@ -129,8 +129,8 @@
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
-[/us/pl/92/129/s101/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F8
-[/us/pl/92/129/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F9
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
 [/us/pl/91/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F124
 [/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62

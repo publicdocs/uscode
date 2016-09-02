@@ -39,7 +39,7 @@
 
         (B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 102–183, title VIII, § 808][/us/pl/102/183/s808], Dec. 4, 1991, [105 Stat. 1276][/us/stat/105/1276]; [Pub. L. 104–201, div. A, title X, § 1078(f)(1)][/us/pl/104/201/s1078/f/1], Sept. 23, 1996, [110 Stat. 2666][/us/stat/110/2666]; [Pub. L. 105–244, title I, § 102(a)(15)][/us/pl/105/244/s102/a/15], Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622]; [Pub. L. 107–306, title VIII, § 811(b)(7)(B)][/us/pl/107/306/s811/b/7/B], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 808, Dec. 4, 1991, [105 Stat. 1276][/us/stat/105/1276]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1078(f)(1), Sept. 23, 1996, [110 Stat. 2666][/us/stat/110/2666]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(15), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(7)(B), Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426].)
 
  __Amendments__ 
 
@@ -64,13 +64,13 @@
 [/us/usc/t50/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1904
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t50/s1902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fg
-[/us/pl/102/183/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs808
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1276
-[/us/pl/104/201/s1078/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Ff%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2666
-[/us/pl/105/244/s102/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F15
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1622
-[/us/pl/107/306/s811/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F7%2FB
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2426
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

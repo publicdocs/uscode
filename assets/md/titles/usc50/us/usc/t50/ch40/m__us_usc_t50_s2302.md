@@ -31,7 +31,7 @@
 
     (3) The term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235.
 
-([Pub. L. 104–201, div. A, title XIV, § 1403][/us/pl/104/201/s1403], Sept. 23, 1996, [110 Stat. 2717][/us/stat/110/2717].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1403, Sept. 23, 1996, [110 Stat. 2717][/us/stat/110/2717].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
-[/us/pl/104/201/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1403
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2717
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2714

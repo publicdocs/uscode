@@ -67,7 +67,7 @@
 
             (C) The Assistant Attorney General designated as the Assistant Attorney General for National Security under [section 507A of title 28][/us/usc/t28/s507A].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 106, as added [Pub. L. 102–496, title VII, § 706(a)][/us/pl/102/496/s706/a], Oct. 24, 1992, [106 Stat. 3195][/us/stat/106/3195]; amended [Pub. L. 103–359, title V, § 501(a)(3)][/us/pl/103/359/s501/a/3], Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428]; [Pub. L. 104–293, title VIII, § 815(a)][/us/pl/104/293/s815/a], Oct. 11, 1996, [110 Stat. 3484][/us/stat/110/3484]; [Pub. L. 107–108, title III, § 308][/us/pl/107/108/s308], Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399]; [Pub. L. 108–136, div. A, title IX, § 921(e)(5)][/us/pl/108/136/s921/e/5], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 108–177, title I, § 105(c)][/us/pl/108/177/s105/c], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; [Pub. L. 108–458, title I, § 1014][/us/pl/108/458/s1014], Dec. 17, 2004, [118 Stat. 3663][/us/stat/118/3663]; [Pub. L. 109–177, title V, § 506(a)(4)][/us/pl/109/177/s506/a/4], Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247]; [Pub. L. 110–53, title V, § 531(b)(5)][/us/pl/110/53/s531/b/5], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 106, as added [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 706(a), Oct. 24, 1992, [106 Stat. 3195][/us/stat/106/3195]; amended [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(a)(3), Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428]; [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 815(a), Oct. 11, 1996, [110 Stat. 3484][/us/stat/110/3484]; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 308, Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(e)(5), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(c), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1014, Dec. 17, 2004, [118 Stat. 3663][/us/stat/118/3663]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(4), Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(b)(5), Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
 
  __Codification__ 
 
@@ -106,23 +106,23 @@
 
 [/us/usc/t28/s507A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs507A
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/102/496/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs706%2Fa
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3195
-[/us/pl/103/359/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fa%2F3
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3428
-[/us/pl/104/293/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs815%2Fa
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3484
-[/us/pl/107/108/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs308
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1399
-[/us/pl/108/136/s921/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F5
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
-[/us/pl/108/177/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fc
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/108/458/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1014
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3663
-[/us/pl/109/177/s506/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F4
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F247
-[/us/pl/110/53/s531/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F5
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F334
 [/us/usc/t50/s403–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%936
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53

@@ -21,7 +21,7 @@
 
     (b) the total number of such orders and extensions either granted, modified, or denied.
 
-([Pub. L. 95–511, title I, § 107][/us/pl/95/511/s107], Oct. 25, 1978, [92 Stat. 1795][/us/stat/92/1795].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 107, Oct. 25, 1978, [92 Stat. 1795][/us/stat/92/1795].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/511/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs107
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1795
 
 

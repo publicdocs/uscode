@@ -59,7 +59,7 @@
 
         For the purposes of this section, the term “hazardous substance” includes radioactive waste and mixed radioactive and hazardous waste.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4641][/us/pl/107/314/s4641], formerly [Pub. L. 102–190, div. C, title XXXI, § 3131][/us/pl/102/190/s3131], Dec. 5, 1991, [105 Stat. 1571][/us/stat/105/1571]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4641][/us/pl/107/314/s4641], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(12)][/us/pl/108/136/s3141/i/12], Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(9)][/us/pl/113/66/s3146/g/9], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4641, formerly [Pub. L. 102–190, div. C, title XXXI][/us/pl/102/190/dC/tXXXI], § 3131, Dec. 5, 1991, [105 Stat. 1571][/us/stat/105/1571]; renumbered [Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4641, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(12), Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(9), Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
     2013—Subsec. (e). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (e). Text read as follows: “Of the funds authorized to be appropriated pursuant to section 3101(9)(A) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([Public Law 102–190][/us/pl/102/190]), $10,000,000 may be used for the purpose of carrying out this section.”
 
-    2003—Subsec. (e). [Pub. L. 108–136, § 3141(i)(12)(D)][/us/pl/108/136/s3141/i/12/D], inserted “of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([Public Law 102–190][/us/pl/102/190])” after “section 3101(9)(A)”.
+    2003—Subsec. (e). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(12)(D), inserted “of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([Public Law 102–190][/us/pl/102/190])” after “section 3101(9)(A)”.
 
 ----------
 
@@ -79,19 +79,19 @@
 ----------
 
 [/us/usc/t42/s9660a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660a
-[/us/pl/107/314/s4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4641
-[/us/pl/102/190/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3131
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/102/190/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXI
 [/us/stat/105/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1571
-[/us/pl/107/314/s4641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4641
-[/us/pl/108/136/s3141/i/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F12
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1779
-[/us/pl/113/66/s3146/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F9
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/usc/t42/s7274d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274d
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/108/136/s3141/i/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F12%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

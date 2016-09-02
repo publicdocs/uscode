@@ -23,7 +23,7 @@
 
         A person who has been ordered to report for induction under the Military Selective Service Act \[[50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\] is entitled to the rights and protections provided a servicemember under this subchapter and subchapters II and III during the period beginning on the date of receipt of the order for induction and ending on the date on which the person reports for induction (or, if the order to report for induction is revoked before the date on which the person reports for induction, on the date on which the order is revoked).
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 106, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2839][/us/stat/117/2839].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 106, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2839][/us/stat/117/2839].)
 
  __Termination of Induction for Training and Service__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 106 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, as added [Oct. 6, 1942, ch. 581, § 4][/us/act/1942-10-06/ch581/s4], [56 Stat. 770][/us/stat/56/770]; amended [Pub. L. 102–12, § 9(5)][/us/pl/102/12/s9/5], Mar. 18, 1991, [105 Stat. 39][/us/stat/105/39], related to extension of benefits to persons ordered to report for induction or military service, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    A prior section 106 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, as added [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 4, [56 Stat. 770][/us/stat/56/770]; amended [Pub. L. 102–12][/us/pl/102/12], § 9(5), Mar. 18, 1991, [105 Stat. 39][/us/stat/105/39], related to extension of benefits to persons ordered to report for induction or military service, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
 ----------
 
@@ -50,16 +50,16 @@
 
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2839
 [/us/usc/t50/s3815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3815%2Fc
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/act/1942-10-06/ch581/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs4
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F770
-[/us/pl/102/12/s9/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F5
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F39
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 

@@ -17,7 +17,7 @@
 
     No authority under this subchapter to enter into contracts or to make payments shall be effective in any fiscal year except to such extent and in such amounts as are provided in advance in appropriations Acts. In any fiscal year, total benefits conferred by this subchapter shall be limited to an amount not in excess of the appropriations for such fiscal year. Any provision of this subchapter which, directly or indirectly, authorizes the enactment of new budget authority shall be effective only for fiscal year 1989 and thereafter.
 
-([Pub. L. 100–383, title I, § 109][/us/pl/100/383/s109], Aug. 10, 1988, [102 Stat. 910][/us/stat/102/910].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 109, Aug. 10, 1988, [102 Stat. 910][/us/stat/102/910].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/383/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs109
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F910
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

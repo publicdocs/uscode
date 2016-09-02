@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5319 derived from [act July 12, 1861, ch. 3, § 7][/us/act/1861-07-12/ch3/s7], [12 Stat. 257][/us/stat/12/257].
+    R.S. § 5319 derived from [act July 12, 1861, ch. 3][/us/act/1861-07-12/ch3], § 7, [12 Stat. 257][/us/stat/12/257].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t50/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205
-[/us/act/1861-07-12/ch3/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-12%2Fch3%2Fs7
+[/us/act/1861-07-12/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-12%2Fch3
 [/us/stat/12/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F257
 
 

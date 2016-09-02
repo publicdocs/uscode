@@ -51,7 +51,7 @@
 
         The Secretary shall consider any applications for access to the Federal Helium Pipeline in a manner consistent with the schedule for phasing out commercial sales and disposition of assets pursuant to [section 167d of this title][/us/usc/t50/s167d].
 
-([Mar. 3, 1925, ch. 426, § 5][/us/act/1925-03-03/ch426/s5], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 920][/us/stat/74/920]; amended [Pub. L. 104–273, § 3][/us/pl/104/273/s3], Oct. 9, 1996, [110 Stat. 3317][/us/stat/110/3317]; [Pub. L. 113–40, § 4][/us/pl/113/40/s4], Oct. 2, 2013, [127 Stat. 535][/us/stat/127/535].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 5, as added [Pub. L. 86–777][/us/pl/86/777], § 2, Sept. 13, 1960, [74 Stat. 920][/us/stat/74/920]; amended [Pub. L. 104–273][/us/pl/104/273], § 3, Oct. 9, 1996, [110 Stat. 3317][/us/stat/110/3317]; [Pub. L. 113–40][/us/pl/113/40], § 4, Oct. 2, 2013, [127 Stat. 535][/us/stat/127/535].)
 
  __Prior Provisions__ 
 
@@ -76,12 +76,12 @@
 [/us/usc/t50/s167d/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fb%2F2
 [/us/usc/t50/s167d/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fb%2F2
 [/us/usc/t50/s167d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d
-[/us/act/1925-03-03/ch426/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs5
-[/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
 [/us/stat/74/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F920
-[/us/pl/104/273/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273%2Fs3
+[/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 [/us/stat/110/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3317
-[/us/pl/113/40/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs4
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F535
 [/us/usc/t50/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs166
 [/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777

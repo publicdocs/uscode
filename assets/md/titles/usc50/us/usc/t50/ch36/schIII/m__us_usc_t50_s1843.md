@@ -49,7 +49,7 @@
 
         Information collected through the use of a pen register or trap and trace device installed under this section shall be subject to the policies and procedures required under [section 1842(h) of this title][/us/usc/t50/s1842/h].
 
-([Pub. L. 95–511, title IV, § 403][/us/pl/95/511/s403], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2407][/us/stat/112/2407]; amended [Pub. L. 107–56, title II, § 214(b)][/us/pl/107/56/s214/b], Oct. 26, 2001, [115 Stat. 287][/us/stat/115/287]; [Pub. L. 110–261, title I, § 108][/us/pl/110/261/s108], July 10, 2008, [122 Stat. 2464][/us/stat/122/2464]; [Pub. L. 114–23, title II, § 202(b)][/us/pl/114/23/s202/b], June 2, 2015, [129 Stat. 278][/us/stat/129/278].)
+([Pub. L. 95–511, title IV][/us/pl/95/511/tIV], § 403, as added [Pub. L. 105–272, title VI][/us/pl/105/272/tVI], § 601(2), Oct. 20, 1998, [112 Stat. 2407][/us/stat/112/2407]; amended [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 214(b), Oct. 26, 2001, [115 Stat. 287][/us/stat/115/287]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 108, July 10, 2008, [122 Stat. 2464][/us/stat/122/2464]; [Pub. L. 114–23, title II][/us/pl/114/23/tII], § 202(b), June 2, 2015, [129 Stat. 278][/us/stat/129/278].)
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 
     2008—Subsecs. (a)(2), (c)(1)(C). [Pub. L. 110–261][/us/pl/110/261] substituted “7 days” for “48 hours”.
 
-    2001—Subsec. (a). [Pub. L. 107–56, § 214(b)(1)][/us/pl/107/56/s214/b/1], substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
+    2001—Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], § 214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 107–56, § 214(b)(2)][/us/pl/107/56/s214/b/2], substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”.
+    Subsec. (b)(1). [Pub. L. 107–56][/us/pl/107/56], § 214(b)(2), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -79,19 +79,19 @@
 [/us/usc/t50/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842
 [/us/usc/t50/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842
 [/us/usc/t50/s1842/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842%2Fh
-[/us/pl/95/511/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs403
-[/us/pl/105/272/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs601%2F2
+[/us/pl/95/511/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIV
+[/us/pl/105/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVI
 [/us/stat/112/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2407
-[/us/pl/107/56/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs214%2Fb
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F287
-[/us/pl/110/261/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs108
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2464
-[/us/pl/114/23/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs202%2Fb
+[/us/pl/114/23/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtII
 [/us/stat/129/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F278
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
-[/us/pl/107/56/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs214%2Fb%2F1
-[/us/pl/107/56/s214/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs214%2Fb%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

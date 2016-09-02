@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
 
-([Pub. L. 100–383, title II, § 206][/us/pl/100/383/s206], Aug. 10, 1988, [102 Stat. 914][/us/stat/102/914].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 206, Aug. 10, 1988, [102 Stat. 914][/us/stat/102/914].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t50/s4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4235
 [/us/usc/t31/s3803/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fc%2F2%2FC
 [/us/usc/t50/s4232/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4232%2F5
-[/us/pl/100/383/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs206
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F914
 
 

@@ -97,7 +97,7 @@
 
         Of the amounts authorized to be appropriated by section 3101(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for defense nuclear nonproliferation activities, $3,000,000 shall be available to carry out the program established under this section.
 
-([Pub. L. 110–417, div. C, title XXXI, § 3113][/us/pl/110/417/s3113], Oct. 14, 2008, [122 Stat. 4754][/us/stat/122/4754]; [Pub. L. 111–383, div. A, title X, § 1075(e)(19)][/us/pl/111/383/s1075/e/19], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375].)
+([Pub. L. 110–417, div. C, title XXXI][/us/pl/110/417/dC/tXXXI], § 3113, Oct. 14, 2008, [122 Stat. 4754][/us/stat/122/4754]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(19), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375].)
 
  __References in Text__ 
 
@@ -111,9 +111,9 @@
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2). [Pub. L. 111–383, § 1075(e)(19)(A)][/us/pl/111/383/s1075/e/19/A], inserted closing parenthesis before semicolon.
+    2011—Subsec. (b)(2). [Pub. L. 111–383][/us/pl/111/383], § 1075(e)(19)(A), inserted closing parenthesis before semicolon.
 
-    Subsec. (d)(2). [Pub. L. 111–383, § 1075(e)(19)(B)][/us/pl/111/383/s1075/e/19/B], substituted “fails to repay” for “fails repay”.
+    Subsec. (d)(2). [Pub. L. 111–383][/us/pl/111/383], § 1075(e)(19)(B), substituted “fails to repay” for “fails repay”.
 
  __“Congressional Defense Committees” Defined__ 
 
@@ -130,17 +130,17 @@
 [/us/usc/t20/s1077a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077a%2Fc
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/110/417/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3113
+[/us/pl/110/417/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXI
 [/us/stat/122/4754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4754
-[/us/pl/111/383/s1075/e/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F19
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/110/417/s3101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3101%2Fa%2F2
 [/us/stat/122/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4752
-[/us/pl/111/383/s1075/e/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F19%2FA
-[/us/pl/111/383/s1075/e/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F19%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
 [/us/pl/110/417/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3
 [/us/stat/122/4372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4372

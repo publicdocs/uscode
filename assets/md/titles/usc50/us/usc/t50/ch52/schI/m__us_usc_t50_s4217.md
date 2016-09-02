@@ -25,7 +25,7 @@
 
         (2) This subsection is enacted as an exercise of the rulemaking power of the House of Representatives, but is applicable only with respect to the availability of records to which it applies, and supersedes other rules only to the extent that the time limitation established by this section with respect to such records is specifically inconsistent with such rules, and is enacted with full recognition of the constitutional right of the House to change its rules at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
-([Pub. L. 100–383, title I, § 107][/us/pl/100/383/s107], Aug. 10, 1988, [102 Stat. 909][/us/stat/102/909].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 107, Aug. 10, 1988, [102 Stat. 909][/us/stat/102/909].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/383/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs107
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F909
 
 

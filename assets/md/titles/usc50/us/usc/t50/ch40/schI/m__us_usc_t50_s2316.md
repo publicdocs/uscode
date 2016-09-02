@@ -41,7 +41,7 @@
 
         (3) Not later than three years after September 23, 1996, a report updating the information provided in the reports submitted pursuant to paragraphs (1) and (2), including the measures taken pursuant to subsection (d) of this section.
 
-([Pub. L. 104–201, div. A, title XIV, § 1416][/us/pl/104/201/s1416], Sept. 23, 1996, [110 Stat. 2721][/us/stat/110/2721].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1416, Sept. 23, 1996, [110 Stat. 2721][/us/stat/110/2721].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1416
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2721
 [/us/pl/104/201/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1416
 [/us/usc/t10/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs382

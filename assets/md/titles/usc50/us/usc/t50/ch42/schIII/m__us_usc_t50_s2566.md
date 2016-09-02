@@ -145,7 +145,7 @@
 
             The terms “defense plutonium” and “defense plutonium materials” mean weapons-usable plutonium.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4306][/us/pl/107/314/s4306], formerly div. C, title XXXI, § 3182, Dec. 2, 2002, [116 Stat. 2747][/us/stat/116/2747]; renumbered div. D, title XLIII, § 4306, by [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(7)(A)][/us/pl/108/136/s3141/f/7/A], Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763]; amended [Pub. L. 109–103, title III, § 313][/us/pl/109/103/s313], Nov. 19, 2005, [119 Stat. 2280][/us/stat/119/2280]; [Pub. L. 112–239, div. C, title XXXI, § 3116][/us/pl/112/239/s3116], Jan. 2, 2013, [126 Stat. 2172][/us/stat/126/2172]; [Pub. L. 113–291, div. C, title XXXI, § 3142(f)][/us/pl/113/291/s3142/f], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
+([Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4306, formerly div. C, title XXXI, § 3182, Dec. 2, 2002, [116 Stat. 2747][/us/stat/116/2747]; renumbered div. D, title XLIII, § 4306, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(f)(7)(A), Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763]; amended [Pub. L. 109–103, title III][/us/pl/109/103/tIII], § 313, Nov. 19, 2005, [119 Stat. 2280][/us/stat/119/2280]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3116, Jan. 2, 2013, [126 Stat. 2172][/us/stat/126/2172]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3142(f), Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __References in Text__ 
 
@@ -153,57 +153,57 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(6)(C). [Pub. L. 113–291, § 3142(f)(1)][/us/pl/113/291/s3142/f/1], substituted “subparagraph (A)” for “paragraph (A)”.
+    2014—Subsec. (b)(6)(C). [Pub. L. 113–291][/us/pl/113/291], § 3142(f)(1), substituted “subparagraph (A)” for “paragraph (A)”.
 
-    Subsec. (c)(2). [Pub. L. 113–291, § 3142(f)(2)][/us/pl/113/291/s3142/f/2], substituted “2002,” for “2002”.
+    Subsec. (c)(2). [Pub. L. 113–291][/us/pl/113/291], § 3142(f)(2), substituted “2002,” for “2002”.
 
-    Subsec. (d)(3). [Pub. L. 113–291, § 3142(f)(3)][/us/pl/113/291/s3142/f/3], which directed amendment of par. (3) by inserting “of Energy” after “Department”, was executed by making the insertion after “Department” the first place appearing to reflect the probable intent of Congress.
+    Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291], § 3142(f)(3), which directed amendment of par. (3) by inserting “of Energy” after “Department”, was executed by making the insertion after “Department” the first place appearing to reflect the probable intent of Congress.
 
-    2013—Subsec. (a)(3)(C). [Pub. L. 112–239, § 3116(1)(A)][/us/pl/112/239/s3116/1/A], substituted “2014” for “2012” in introductory provisions.
+    2013—Subsec. (a)(3)(C). [Pub. L. 112–239][/us/pl/112/239], § 3116(1)(A), substituted “2014” for “2012” in introductory provisions.
 
-    Subsec. (a)(3)(D). [Pub. L. 112–239, § 3116(1)(B)][/us/pl/112/239/s3116/1/B], substituted “2019” for “2017” in introductory provisions.
+    Subsec. (a)(3)(D). [Pub. L. 112–239][/us/pl/112/239], § 3116(1)(B), substituted “2019” for “2017” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 112–239, § 3116(2)(A)][/us/pl/112/239/s3116/2/A], struck out “by January 1, 2012” before period at end.
+    Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 3116(2)(A), struck out “by January 1, 2012” before period at end.
 
-    Subsec. (b)(5). [Pub. L. 112–239, § 3116(2)(B)][/us/pl/112/239/s3116/2/B], substituted “2014” for “2012”.
+    Subsec. (b)(5). [Pub. L. 112–239][/us/pl/112/239], § 3116(2)(B), substituted “2014” for “2012”.
 
-    Subsec. (c). [Pub. L. 112–239, § 3116(3)(A)][/us/pl/112/239/s3116/3/A], substituted “2014” for “2012” in introductory provisions.
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 3116(3)(A), substituted “2014” for “2012” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 112–239, § 3116(3)(B)][/us/pl/112/239/s3116/3/B], substituted “2016” for “2014”.
+    Subsec. (c)(1). [Pub. L. 112–239][/us/pl/112/239], § 3116(3)(B), substituted “2016” for “2014”.
 
-    Subsec. (c)(2). [Pub. L. 112–239, § 3116(3)(C)][/us/pl/112/239/s3116/3/C], substituted “2022” for “2020” in two places.
+    Subsec. (c)(2). [Pub. L. 112–239][/us/pl/112/239], § 3116(3)(C), substituted “2022” for “2020” in two places.
 
-    Subsec. (d)(1). [Pub. L. 112–239, § 3116(4)(A)][/us/pl/112/239/s3116/4/A], substituted “2016” for “2014” and “2021” for “2019” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 112–239][/us/pl/112/239], § 3116(4)(A), substituted “2016” for “2014” and “2021” for “2019” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 112–239, § 3116(4)(B)][/us/pl/112/239/s3116/4/B], substituted “2022” for “2020” in two places.
+    Subsec. (d)(2)(A). [Pub. L. 112–239][/us/pl/112/239], § 3116(4)(B), substituted “2022” for “2020” in two places.
 
-    Subsec. (e). [Pub. L. 112–239, § 3116(5)][/us/pl/112/239/s3116/5], substituted “2025” for “2023” in introductory provisions.
+    Subsec. (e). [Pub. L. 112–239][/us/pl/112/239], § 3116(5), substituted “2025” for “2023” in introductory provisions.
 
-    2005—Subsec. (a)(2)(A). [Pub. L. 109–103, § 313(1)(A)][/us/pl/109/103/s313/1/A], substituted “2012” for “2009” in two places.
+    2005—Subsec. (a)(2)(A). [Pub. L. 109–103][/us/pl/109/103], § 313(1)(A), substituted “2012” for “2009” in two places.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 109–103, § 313(1)(B)(i)][/us/pl/109/103/s313/1/B/i], substituted “2012” for “2009”.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 109–103][/us/pl/109/103], § 313(1)(B)(i), substituted “2012” for “2009”.
 
-    Subsec. (a)(3)(C). [Pub. L. 109–103, § 313(1)(B)(ii)][/us/pl/109/103/s313/1/B/ii], substituted “2012” for “2009” in introductory provisions.
+    Subsec. (a)(3)(C). [Pub. L. 109–103][/us/pl/109/103], § 313(1)(B)(ii), substituted “2012” for “2009” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 109–103, § 313(2)(A)][/us/pl/109/103/s313/2/A], substituted “(g)” for “(a)(2)” and “2012” for “2009”.
+    Subsec. (b)(1). [Pub. L. 109–103][/us/pl/109/103], § 313(2)(A), substituted “(g)” for “(a)(2)” and “2012” for “2009”.
 
-    Subsec. (b)(4). [Pub. L. 109–103, § 313(2)(B)][/us/pl/109/103/s313/2/B], substituted “2012” for “2009” wherever appearing.
+    Subsec. (b)(4). [Pub. L. 109–103][/us/pl/109/103], § 313(2)(B), substituted “2012” for “2009” wherever appearing.
 
-    Subsec. (b)(5). [Pub. L. 109–103, § 313(2)(C)][/us/pl/109/103/s313/2/C], substituted “2012” for “2009”.
+    Subsec. (b)(5). [Pub. L. 109–103][/us/pl/109/103], § 313(2)(C), substituted “2012” for “2009”.
 
-    Subsec. (c). [Pub. L. 109–103, § 313(3)(A)][/us/pl/109/103/s313/3/A], substituted “2012” for “2009” in introductory provisions.
+    Subsec. (c). [Pub. L. 109–103][/us/pl/109/103], § 313(3)(A), substituted “2012” for “2009” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 109–103, § 313(3)(B)][/us/pl/109/103/s313/3/B], substituted “2014” for “2011”.
+    Subsec. (c)(1). [Pub. L. 109–103][/us/pl/109/103], § 313(3)(B), substituted “2014” for “2011”.
 
-    Subsec. (c)(2). [Pub. L. 109–103, § 313(3)(C)][/us/pl/109/103/s313/3/C], substituted “2020” for “2017” in two places.
+    Subsec. (c)(2). [Pub. L. 109–103][/us/pl/109/103], § 313(3)(C), substituted “2020” for “2017” in two places.
 
-    Subsec. (d)(1). [Pub. L. 109–103, § 313(4)(A)][/us/pl/109/103/s313/4/A], substituted “2014” for “2011”, “subject to the availability of appropriations” for “from funds available to the Secretary”, and “2019” for “2016”.
+    Subsec. (d)(1). [Pub. L. 109–103][/us/pl/109/103], § 313(4)(A), substituted “2014” for “2011”, “subject to the availability of appropriations” for “from funds available to the Secretary”, and “2019” for “2016”.
 
-    Subsec. (d)(2)(A). [Pub. L. 109–103, § 313(4)(B)][/us/pl/109/103/s313/4/B], substituted “2020” for “2017” in introductory and concluding provisions.
+    Subsec. (d)(2)(A). [Pub. L. 109–103][/us/pl/109/103], § 313(4)(B), substituted “2020” for “2017” in introductory and concluding provisions.
 
-    Subsec. (e). [Pub. L. 109–103, § 313(5)][/us/pl/109/103/s313/5], substituted “2023” for “2020” in introductory provisions.
+    Subsec. (e). [Pub. L. 109–103][/us/pl/109/103], § 313(5), substituted “2023” for “2020” in introductory provisions.
 
-    Subsecs. (g), (h). [Pub. L. 109–103, § 313(6)][/us/pl/109/103/s313/6], (7), added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 109–103][/us/pl/109/103], § 313(6), (7), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 ----------
 
@@ -214,44 +214,44 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/107/314/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4306
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
 [/us/stat/116/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2747
-[/us/pl/108/136/s3141/f/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F7%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1763
-[/us/pl/109/103/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313
+[/us/pl/109/103/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2FtIII
 [/us/stat/119/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2280
-[/us/pl/112/239/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2172
-[/us/pl/113/291/s3142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/113/291/s3142/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff%2F1
-[/us/pl/113/291/s3142/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff%2F2
-[/us/pl/113/291/s3142/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ff%2F3
-[/us/pl/112/239/s3116/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F1%2FA
-[/us/pl/112/239/s3116/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F1%2FB
-[/us/pl/112/239/s3116/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F2%2FA
-[/us/pl/112/239/s3116/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F2%2FB
-[/us/pl/112/239/s3116/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F3%2FA
-[/us/pl/112/239/s3116/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F3%2FB
-[/us/pl/112/239/s3116/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F3%2FC
-[/us/pl/112/239/s3116/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F4%2FA
-[/us/pl/112/239/s3116/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F4%2FB
-[/us/pl/112/239/s3116/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3116%2F5
-[/us/pl/109/103/s313/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F1%2FA
-[/us/pl/109/103/s313/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F1%2FB%2Fi
-[/us/pl/109/103/s313/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F1%2FB%2Fii
-[/us/pl/109/103/s313/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F2%2FA
-[/us/pl/109/103/s313/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F2%2FB
-[/us/pl/109/103/s313/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F2%2FC
-[/us/pl/109/103/s313/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F3%2FA
-[/us/pl/109/103/s313/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F3%2FB
-[/us/pl/109/103/s313/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F3%2FC
-[/us/pl/109/103/s313/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F4%2FA
-[/us/pl/109/103/s313/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F4%2FB
-[/us/pl/109/103/s313/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F5
-[/us/pl/109/103/s313/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs313%2F6
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
+[/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
 
 

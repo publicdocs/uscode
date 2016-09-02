@@ -41,7 +41,7 @@
 
         Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically on the status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.
 
-([Pub. L. 93–148, § 4][/us/pl/93/148/s4], Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555].)
+([Pub. L. 93–148][/us/pl/93/148], § 4, Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/93/148/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs4
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
 
 

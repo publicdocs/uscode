@@ -47,7 +47,7 @@
 
         (3) a comparison of the benefits of the program with the benefits of other nonproliferation programs.
 
-([Pub. L. 104–201, div. A, title XIV, § 1432][/us/pl/104/201/s1432], Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1432, Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1432
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2726
 
 

@@ -27,7 +27,7 @@
 
         Regulations prescribed by the Secretary of the Interior shall provide for such suspension of permits and licenses and for the remission, reduction, or refund of grazing fees during the period of such suspension.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 502, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2855][/us/stat/117/2855].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 502, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2855][/us/stat/117/2855].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t43/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2855
 [/us/act/1934-06-28/ch865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-28%2Fch865
 [/us/stat/48/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1269

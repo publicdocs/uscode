@@ -221,7 +221,7 @@
 
         In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section. Such defense shall not release the party asserting it from any obligation under applicable law to mitigate damages to the greatest extent possible.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 708, [64 Stat. 818][/us/stat/64/818]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, § 116(c), [66 Stat. 305][/us/stat/66/305]; [Aug. 9, 1955, ch. 655, § 6][/us/act/1955-08-09/ch655/s6], [69 Stat. 581][/us/stat/69/581]; [Pub. L. 87–305, § 5(b)][/us/pl/87/305/s5/b], Sept. 26, 1961, [75 Stat. 667][/us/stat/75/667]; [Pub. L. 91–151, title I, § 9][/us/pl/91/151/s9], Dec. 23, 1969, [83 Stat. 376][/us/stat/83/376]; [Pub. L. 94–152, § 3][/us/pl/94/152/s3], Dec. 16, 1975, [89 Stat. 810][/us/stat/89/810]; [Pub. L. 102–99, § 5][/us/pl/102/99/s5], Aug. 17, 1991, [105 Stat. 487][/us/stat/105/487]; [Pub. L. 111–67, § 9][/us/pl/111/67/s9], Sept. 30, 2009, [123 Stat. 2018][/us/stat/123/2018].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 708, [64 Stat. 818][/us/stat/64/818]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, § 116(c), [66 Stat. 305][/us/stat/66/305]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], § 6, [69 Stat. 581][/us/stat/69/581]; [Pub. L. 87–305][/us/pl/87/305], § 5(b), Sept. 26, 1961, [75 Stat. 667][/us/stat/75/667]; [Pub. L. 91–151, title I][/us/pl/91/151/tI], § 9, Dec. 23, 1969, [83 Stat. 376][/us/stat/83/376]; [Pub. L. 94–152][/us/pl/94/152], § 3, Dec. 16, 1975, [89 Stat. 810][/us/stat/89/810]; [Pub. L. 102–99][/us/pl/102/99], § 5, Aug. 17, 1991, [105 Stat. 487][/us/stat/105/487]; [Pub. L. 111–67][/us/pl/111/67], § 9, Sept. 30, 2009, [123 Stat. 2018][/us/stat/123/2018].)
 
  __References in Text__ 
 
@@ -235,69 +235,69 @@
 
  __Amendments__ 
 
-    2009—Subsec. (c)(1). [Pub. L. 111–67, § 9(1)(A)][/us/pl/111/67/s9/1/A], substituted “national defense.” for “defense of the United States through the development of preparedness programs and the expansion of productive capacity and supply beyond levels needed to meet essential civilian demand in the United States.”
+    2009—Subsec. (c)(1). [Pub. L. 111–67][/us/pl/111/67], § 9(1)(A), substituted “national defense.” for “defense of the United States through the development of preparedness programs and the expansion of productive capacity and supply beyond levels needed to meet essential civilian demand in the United States.”
 
-    Subsec. (c)(3). [Pub. L. 111–67, § 9(1)(B)][/us/pl/111/67/s9/1/B], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–67][/us/pl/111/67], § 9(1)(B), added par. (3).
 
-    Subsec. (f)(2). [Pub. L. 111–67, § 9(2)][/us/pl/111/67/s9/2], substituted “5 years” for “two years” in two places and substituted “5-year” for “two-year”.
+    Subsec. (f)(2). [Pub. L. 111–67][/us/pl/111/67], § 9(2), substituted “5 years” for “two years” in two places and substituted “5-year” for “two-year”.
 
-    Subsec. (n). [Pub. L. 111–67, § 9(3)][/us/pl/111/67/s9/3], added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, any activity conducted under a voluntary agreement or plan of action approved pursuant to this section, when conducted in compliance with the requirements of this section, any regulation prescribed under this subsection, and the provisions of the voluntary agreement or plan of action, shall be exempt from the Federal Advisory Committee Act and any other Federal law and any Federal regulation relating to advisory committees.”
+    Subsec. (n). [Pub. L. 111–67][/us/pl/111/67], § 9(3), added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, any activity conducted under a voluntary agreement or plan of action approved pursuant to this section, when conducted in compliance with the requirements of this section, any regulation prescribed under this subsection, and the provisions of the voluntary agreement or plan of action, shall be exempt from the Federal Advisory Committee Act and any other Federal law and any Federal regulation relating to advisory committees.”
 
-    1991—Subsec. (a). [Pub. L. 102–99, § 5(1)][/us/pl/102/99/s5/1], struck out reference to section 708A(j) of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], after reference to subsec. (j) of this section.
+    1991—Subsec. (a). [Pub. L. 102–99][/us/pl/102/99], § 5(1), struck out reference to section 708A(j) of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], after reference to subsec. (j) of this section.
 
-    Subsec. (b). [Pub. L. 102–99, § 5(2)][/us/pl/102/99/s5/2], added subsec. (b) and struck out former subsec. (b) which defined the term “antitrust laws” as used in this section and in section 708A of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932].
+    Subsec. (b). [Pub. L. 102–99][/us/pl/102/99], § 5(2), added subsec. (b) and struck out former subsec. (b) which defined the term “antitrust laws” as used in this section and in section 708A of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932].
 
-    Subsec. (c)(1). [Pub. L. 102–99, § 5(3)][/us/pl/102/99/s5/3], inserted “and plans of action” after “voluntary agreements” and struck out provisions relating to exception as provided in section 708A of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932].
+    Subsec. (c)(1). [Pub. L. 102–99][/us/pl/102/99], § 5(3), inserted “and plans of action” after “voluntary agreements” and struck out provisions relating to exception as provided in section 708A of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932].
 
-    Subsec. (c)(2). [Pub. L. 102–99, § 5(4)][/us/pl/102/99/s5/4], struck out at end “For the purpose of carrying out the objectives of subchapter I of this chapter, the authority granted in paragraph (1) of this subsection shall not be delegated to more than one individual.”
+    Subsec. (c)(2). [Pub. L. 102–99][/us/pl/102/99], § 5(4), struck out at end “For the purpose of carrying out the objectives of subchapter I of this chapter, the authority granted in paragraph (1) of this subsection shall not be delegated to more than one individual.”
 
-    Subsec. (d)(1). [Pub. L. 102–99, § 5(5)][/us/pl/102/99/s5/5], inserted “and except as provided in subsection (n)” after “specified in this section” and struck out “, and the meetings of such committees shall be open to the public” after “representatives of the public”.
+    Subsec. (d)(1). [Pub. L. 102–99][/us/pl/102/99], § 5(5), inserted “and except as provided in subsection (n)” after “specified in this section” and struck out “, and the meetings of such committees shall be open to the public” after “representatives of the public”.
 
-    Subsec. (d)(2). [Pub. L. 102–99, § 5(6)][/us/pl/102/99/s5/6], substituted “paragraphs (1), (3), and (4) of section 552(b)” for “section 552(b)(1) and (b)(3)”.
+    Subsec. (d)(2). [Pub. L. 102–99][/us/pl/102/99], § 5(6), substituted “paragraphs (1), (3), and (4) of section 552(b)” for “section 552(b)(1) and (b)(3)”.
 
-    Subsec. (e)(1). [Pub. L. 102–99, § 5(7)][/us/pl/102/99/s5/7], substituted “voluntary agreements and plans of action” for “voluntary agreements”.
+    Subsec. (e)(1). [Pub. L. 102–99][/us/pl/102/99], § 5(7), substituted “voluntary agreements and plans of action” for “voluntary agreements”.
 
-    Subsec. (e)(3)(D). [Pub. L. 102–99, § 5(8)][/us/pl/102/99/s5/8], substituted “section 552b(c)” for “subsection (b)(1) or (b)(3) of section 552”.
+    Subsec. (e)(3)(D). [Pub. L. 102–99][/us/pl/102/99], § 5(8), substituted “section 552b(c)” for “subsection (b)(1) or (b)(3) of section 552”.
 
-    Subsec. (e)(3)(F). [Pub. L. 102–99, § 5(9)][/us/pl/102/99/s5/9], inserted reference to Congress.
+    Subsec. (e)(3)(F). [Pub. L. 102–99][/us/pl/102/99], § 5(9), inserted reference to Congress.
 
-    Subsec. (e)(3)(G). [Pub. L. 102–99, § 5(10)][/us/pl/102/99/s5/10], substituted “paragraphs (1), (3), and (4) of section 552(b)” for “subsections (b)(1) and (b)(3) of section 552”.
+    Subsec. (e)(3)(G). [Pub. L. 102–99][/us/pl/102/99], § 5(10), substituted “paragraphs (1), (3), and (4) of section 552(b)” for “subsections (b)(1) and (b)(3) of section 552”.
 
-    Subsec. (f)(1). [Pub. L. 102–99, § 5(11)(A)][/us/pl/102/99/s5/11/A], inserted “or plan of action” after “voluntary agreement”.
+    Subsec. (f)(1). [Pub. L. 102–99][/us/pl/102/99], § 5(11)(A), inserted “or plan of action” after “voluntary agreement”.
 
-    Subsec. (f)(1)(A). [Pub. L. 102–99, § 5(12)][/us/pl/102/99/s5/12], inserted “and submits a copy of such agreement or plan to the Congress” after “subsection (c)(1)”.
+    Subsec. (f)(1)(A). [Pub. L. 102–99][/us/pl/102/99], § 5(12), inserted “and submits a copy of such agreement or plan to the Congress” after “subsection (c)(1)”.
 
-    [Pub. L. 102–99, § 5(11)(B)][/us/pl/102/99/s5/11/B], inserted “or plan” after “the agreement” wherever appearing.
+    [Pub. L. 102–99][/us/pl/102/99], § 5(11)(B), inserted “or plan” after “the agreement” wherever appearing.
 
-    Subsec. (f)(1)(B). [Pub. L. 102–99, § 5(13)][/us/pl/102/99/s5/13], inserted before period “and publishes such finding in the Federal Register”.
+    Subsec. (f)(1)(B). [Pub. L. 102–99][/us/pl/102/99], § 5(13), inserted before period “and publishes such finding in the Federal Register”.
 
-    [Pub. L. 102–99, § 5(11)(A)][/us/pl/102/99/s5/11/A], inserted “or plan of action” after “voluntary agreement” wherever appearing.
+    [Pub. L. 102–99][/us/pl/102/99], § 5(11)(A), inserted “or plan of action” after “voluntary agreement” wherever appearing.
 
-    Subsec. (f)(2). [Pub. L. 102–99, § 5(14)][/us/pl/102/99/s5/14], inserted “and publish such certification or finding in the Federal Register” before “, in which case”.
+    Subsec. (f)(2). [Pub. L. 102–99][/us/pl/102/99], § 5(14), inserted “and publish such certification or finding in the Federal Register” before “, in which case”.
 
-    [Pub. L. 102–99, § 5(11)][/us/pl/102/99/s5/11], inserted “or plan” after “the agreement”, and “or plan of action” after “voluntary agreement” wherever appearing.
+    [Pub. L. 102–99][/us/pl/102/99], § 5(11), inserted “or plan” after “the agreement”, and “or plan of action” after “voluntary agreement” wherever appearing.
 
-    Subsec. (g). [Pub. L. 102–99, § 5(11)(A)][/us/pl/102/99/s5/11/A], inserted “or plan of action” after “voluntary agreement”.
+    Subsec. (g). [Pub. L. 102–99][/us/pl/102/99], § 5(11)(A), inserted “or plan of action” after “voluntary agreement”.
 
-    Subsec. (g)(1) to (3). [Pub. L. 102–99, § 5(11)(B)][/us/pl/102/99/s5/11/B], inserted “or plan” after “the agreement”.
+    Subsec. (g)(1) to (3). [Pub. L. 102–99][/us/pl/102/99], § 5(11)(B), inserted “or plan” after “the agreement”.
 
-    Subsec. (h). [Pub. L. 102–99, § 5(15)(A)][/us/pl/102/99/s5/15/A], inserted “and plans of action” after “voluntary agreements”.
+    Subsec. (h). [Pub. L. 102–99][/us/pl/102/99], § 5(15)(A), inserted “and plans of action” after “voluntary agreements”.
 
-    Subsec. (h)(1), (2). [Pub. L. 102–99, § 5(15)(B)][/us/pl/102/99/s5/15/B], inserted “or plan of action” after “voluntary agreement” wherever appearing.
+    Subsec. (h)(1), (2). [Pub. L. 102–99][/us/pl/102/99], § 5(15)(B), inserted “or plan of action” after “voluntary agreement” wherever appearing.
 
-    Subsec. (h)(3). [Pub. L. 102–99, § 5(16)][/us/pl/102/99/s5/16], substituted “paragraph (1), (3), or (4) of section 552(b)” for “subsections (b)(1) and (b)(3) of section 552”.
+    Subsec. (h)(3). [Pub. L. 102–99][/us/pl/102/99], § 5(16), substituted “paragraph (1), (3), or (4) of section 552(b)” for “subsections (b)(1) and (b)(3) of section 552”.
 
-    [Pub. L. 102–99, § 5(15)(B)][/us/pl/102/99/s5/15/B], inserted “or plan of action” after “voluntary agreement”.
+    [Pub. L. 102–99][/us/pl/102/99], § 5(15)(B), inserted “or plan of action” after “voluntary agreement”.
 
-    Subsec. (h)(4) to (6). [Pub. L. 102–99, § 5(15)(B)][/us/pl/102/99/s5/15/B], inserted “or plan of action” after “voluntary agreement” wherever appearing.
+    Subsec. (h)(4) to (6). [Pub. L. 102–99][/us/pl/102/99], § 5(15)(B), inserted “or plan of action” after “voluntary agreement” wherever appearing.
 
-    Subsec. (h)(7), (8). [Pub. L. 102–99, § 5(15)(B)][/us/pl/102/99/s5/15/B], (17), inserted “or plan of action” after “voluntary agreement” wherever appearing and substituted “section 552b(c)” for “subsection (b)(1) or (b)(3) of section 552”.
+    Subsec. (h)(7), (8). [Pub. L. 102–99][/us/pl/102/99], § 5(15)(B), (17), inserted “or plan of action” after “voluntary agreement” wherever appearing and substituted “section 552b(c)” for “subsection (b)(1) or (b)(3) of section 552”.
 
-    Subsec. (h)(9), (10). [Pub. L. 102–99, § 5(15)(B)][/us/pl/102/99/s5/15/B], inserted “or plan of action” after “voluntary agreement” wherever appearing.
+    Subsec. (h)(9), (10). [Pub. L. 102–99][/us/pl/102/99], § 5(15)(B), inserted “or plan of action” after “voluntary agreement” wherever appearing.
 
-    Subsec. (h)(11). [Pub. L. 102–99, § 5(15)(C)][/us/pl/102/99/s5/15/C]–(E), added par. (11).
+    Subsec. (h)(11). [Pub. L. 102–99][/us/pl/102/99], § 5(15)(C)–(E), added par. (11).
 
-    Subsec. (j). [Pub. L. 102–99, § 5(18)][/us/pl/102/99/s5/18], added subsec. (j) and struck out former subsec. (j) which read as follows: “There shall be available as a defense for any person to any civil or criminal action brought for violation of the antitrust laws (or any similar law of any State) with respect to any act or omission to act to develop or carry out any voluntary agreement under this section that—
+    Subsec. (j). [Pub. L. 102–99][/us/pl/102/99], § 5(18), added subsec. (j) and struck out former subsec. (j) which read as follows: “There shall be available as a defense for any person to any civil or criminal action brought for violation of the antitrust laws (or any similar law of any State) with respect to any act or omission to act to develop or carry out any voluntary agreement under this section that—
 
     “(1) such act or omission to act was taken in good faith by that person—
 
@@ -307,11 +307,11 @@
 
     “(2) such person fully complied with this section and the rules promulgated hereunder, and acted in accordance with the terms of the voluntary agreement.”
 
-    Subsec. (k). [Pub. L. 102–99, § 5(19)][/us/pl/102/99/s5/19], inserted “and plans of action” after “voluntary agreements” wherever appearing.
+    Subsec. (k). [Pub. L. 102–99][/us/pl/102/99], § 5(19), inserted “and plans of action” after “voluntary agreements” wherever appearing.
 
-    Subsec. (l). [Pub. L. 102–99, § 5(20)][/us/pl/102/99/s5/20], inserted “or plan of action” after “voluntary agreement”.
+    Subsec. (l). [Pub. L. 102–99][/us/pl/102/99], § 5(20), inserted “or plan of action” after “voluntary agreement”.
 
-    Subsecs. (n), (o). [Pub. L. 102–99, § 5(21)][/us/pl/102/99/s5/21], added subsecs. (n) and (o).
+    Subsecs. (n), (o). [Pub. L. 102–99][/us/pl/102/99], § 5(21), added subsecs. (n) and (o).
 
     1975—Subsec. (a). [Pub. L. 94–152][/us/pl/94/152] substituted provisions relating to immunity from civil and criminal liability under the antitrust laws for provisions authorizing President to approve voluntary programs and agreements under this chapter.
 
@@ -325,9 +325,9 @@
 
     Subsecs. (f) to (m). [Pub. L. 94–152][/us/pl/94/152] added subsecs. (f) to (m).
 
-    1969—Subsec. (b). [Pub. L. 91–151, § 9(a)][/us/pl/91/151/s9/a], struck out provision under which exemption from prohibitions of antitrust laws and application of Federal Trade Commission Act had been limited to only those voluntary agreements covering military equipment purchased by Defense Department.
+    1969—Subsec. (b). [Pub. L. 91–151][/us/pl/91/151], § 9(a), struck out provision under which exemption from prohibitions of antitrust laws and application of Federal Trade Commission Act had been limited to only those voluntary agreements covering military equipment purchased by Defense Department.
 
-    Subsec. (f). [Pub. L. 91–151, § 9(b)][/us/pl/91/151/s9/b], struck out subsec. (f) which prohibited approval of voluntary credit control agreements under this section after June 30, 1952.
+    Subsec. (f). [Pub. L. 91–151][/us/pl/91/151], § 9(b), struck out subsec. (f) which prohibited approval of voluntary credit control agreements under this section after June 30, 1952.
 
     1961—Subsec. (e). [Pub. L. 87–305][/us/pl/87/305] struck out “, and the reports hereafter required,” after “Such surveys” and “within ninety days after the approval of this chapter, and” after “President” and substituted “studies of voluntary agreements and programs authorized by this section” for “such surveys and including such recommendations as he may deem desirable”.
 
@@ -345,7 +345,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–152, § 9][/us/pl/94/152/s9], Dec. 16, 1975, [89 Stat. 821][/us/stat/89/821], as amended by [Pub. L. 94–153][/us/pl/94/153], Dec. 16, 1975, [89 Stat. 822][/us/stat/89/822]; [Pub. L. 94–220][/us/pl/94/220], Feb. 27, 1976, [90 Stat. 195][/us/stat/90/195], provided that: 
+[Pub. L. 94–152][/us/pl/94/152], § 9, Dec. 16, 1975, [89 Stat. 821][/us/stat/89/821], as amended by [Pub. L. 94–153][/us/pl/94/153], Dec. 16, 1975, [89 Stat. 822][/us/stat/89/822]; [Pub. L. 94–220][/us/pl/94/220], Feb. 27, 1976, [90 Stat. 195][/us/stat/90/195], provided that: 
 
 > “This Act and the amendments made by it \[see Tables for classification\] shall take effect at the close of November 30, 1975, except that the amendment made by section 3 \[amending this section\] shall take effect upon the one hundred and twentieth day beginning after the date of its enactment \[Dec. 16, 1975\].”
 
@@ -363,7 +363,7 @@
 
  __Continuation in Effect of Existing Voluntary Agreements__ 
 
-[Pub. L. 94–152, § 4][/us/pl/94/152/s4], Dec. 16, 1975, [89 Stat. 820][/us/stat/89/820], provided that:
+[Pub. L. 94–152][/us/pl/94/152], § 4, Dec. 16, 1975, [89 Stat. 820][/us/stat/89/820], provided that:
 
 >     “(a)
 
@@ -377,7 +377,7 @@
 
 >     “(c) Effective on the date of enactment of this Act \[Dec. 16, 1975\], the immunity conferred by section 708 or 708A of the Defense Production Act of 1950, as amended by this Act, shall not apply to any action taken or authorized to be taken by or under the Emergency Petroleum Allocation Act of 1973 \[[15 U.S.C. 751][/us/usc/t15/s751] et seq.\].”
 
-    \[Section 708A of the Defense Production Act of 1950, referred to in [section 4 of Pub. L. 94–152][/us/pl/94/152/s4], set out above, which was classified to section 2158a of the former Appendix to this title, was repealed by [Pub. L. 102–99, § 4][/us/pl/102/99/s4], Aug. 17, 1991, [105 Stat. 487][/us/stat/105/487].\]
+    \[Section 708A of the Defense Production Act of 1950, referred to in [section 4 of Pub. L. 94–152][/us/pl/94/152/s4], set out above, which was classified to section 2158a of the former Appendix to this title, was repealed by [Pub. L. 102–99][/us/pl/102/99], § 4, Aug. 17, 1991, [105 Stat. 487][/us/stat/105/487].\]
 
  __Termination of Advisory Committees__ 
 
@@ -406,74 +406,74 @@
 [/us/stat/64/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F818
 [/us/act/1952-06-30/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530
 [/us/stat/66/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F305
-[/us/act/1955-08-09/ch655/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655%2Fs6
+[/us/act/1955-08-09/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655
 [/us/stat/69/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F581
-[/us/pl/87/305/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs5%2Fb
+[/us/pl/87/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305
 [/us/stat/75/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F667
-[/us/pl/91/151/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151%2Fs9
+[/us/pl/91/151/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151%2FtI
 [/us/stat/83/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F376
-[/us/pl/94/152/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152%2Fs3
+[/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/stat/89/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F810
-[/us/pl/102/99/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/stat/105/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F487
-[/us/pl/111/67/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs9
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2018
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/67/s9/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs9%2F1%2FA
-[/us/pl/111/67/s9/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs9%2F1%2FB
-[/us/pl/111/67/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs9%2F2
-[/us/pl/111/67/s9/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs9%2F3
-[/us/pl/102/99/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F1
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/99/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F2
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/99/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F3
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/99/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F4
-[/us/pl/102/99/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F5
-[/us/pl/102/99/s5/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F6
-[/us/pl/102/99/s5/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F7
-[/us/pl/102/99/s5/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F8
-[/us/pl/102/99/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F9
-[/us/pl/102/99/s5/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F10
-[/us/pl/102/99/s5/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F11%2FA
-[/us/pl/102/99/s5/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F12
-[/us/pl/102/99/s5/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F11%2FB
-[/us/pl/102/99/s5/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F13
-[/us/pl/102/99/s5/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F11%2FA
-[/us/pl/102/99/s5/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F14
-[/us/pl/102/99/s5/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F11
-[/us/pl/102/99/s5/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F11%2FA
-[/us/pl/102/99/s5/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F11%2FB
-[/us/pl/102/99/s5/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FA
-[/us/pl/102/99/s5/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FB
-[/us/pl/102/99/s5/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F16
-[/us/pl/102/99/s5/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FB
-[/us/pl/102/99/s5/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FB
-[/us/pl/102/99/s5/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FB
-[/us/pl/102/99/s5/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FB
-[/us/pl/102/99/s5/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F15%2FC
-[/us/pl/102/99/s5/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F18
-[/us/pl/102/99/s5/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F19
-[/us/pl/102/99/s5/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F20
-[/us/pl/102/99/s5/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs5%2F21
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
-[/us/pl/91/151/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151%2Fs9%2Fa
-[/us/pl/91/151/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151%2Fs9%2Fb
+[/us/pl/91/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151
+[/us/pl/91/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151
 [/us/pl/87/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305
 [/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/pl/102/99/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs7
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/94/152/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152%2Fs9
+[/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/stat/89/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F821
 [/us/pl/94/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F153
 [/us/stat/89/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F822
@@ -483,14 +483,14 @@
 [/us/usc/t15/s640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs640
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
 [/us/usc/t50/s4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4553
-[/us/pl/94/152/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152%2Fs4
+[/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/stat/89/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F820
 [/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
 [/us/pl/94/152/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152%2Fs4
-[/us/pl/102/99/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs4
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/stat/105/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F487
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

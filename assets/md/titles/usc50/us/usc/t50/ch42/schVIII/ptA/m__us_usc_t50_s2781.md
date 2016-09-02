@@ -59,7 +59,7 @@
 
         Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4801][/us/pl/107/314/s4801], formerly [Pub. L. 99–145, title XV, § 1534][/us/pl/99/145/s1534], Nov. 8, 1985, [99 Stat. 774][/us/stat/99/774]; [Pub. L. 100–180, div. C, title I, § 3131(a)][/us/pl/100/180/s3131/a], Dec. 4, 1987, [101 Stat. 1238][/us/stat/101/1238]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4801][/us/pl/107/314/s4801], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(2)][/us/pl/108/136/s3141/k/2], Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(1)][/us/pl/113/66/s3146/i/1], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4801, formerly [Pub. L. 99–145, title XV][/us/pl/99/145/tXV], § 1534, Nov. 8, 1985, [99 Stat. 774][/us/stat/99/774]; [Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3131(a), Dec. 4, 1987, [101 Stat. 1238][/us/stat/101/1238]; renumbered [Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4801, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(2), Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(i)(1), Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Codification__ 
 
@@ -69,15 +69,15 @@
 
     2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66] substituted “[section 1707 of title 41][/us/usc/t41/s1707]” for “section 22 of the Office of Federal Procurement Policy Act ([41 U.S.C. 418b][/us/usc/t41/s418b])”.
 
-    2003—[Pub. L. 108–136, § 3141(k)(2)(D)(i)][/us/pl/108/136/s3141/k/2/D/i], made technical amendment to section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(k)(2)(D)(i), made technical amendment to section catchline.
 
-    Subsec. (b)(1). [Pub. L. 108–136, § 3141(k)(2)(D)(ii)][/us/pl/108/136/s3141/k/2/D/ii], substituted “November 8, 1985,” for “the date of the enactment of this Act,” in the original, which for purposes of codification had been changed to “November 8, 1985,” thus requiring no change in text.
+    Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 3141(k)(2)(D)(ii), substituted “November 8, 1985,” for “the date of the enactment of this Act,” in the original, which for purposes of codification had been changed to “November 8, 1985,” thus requiring no change in text.
 
     1987—Subsec. (b). [Pub. L. 100–180][/us/pl/100/180] designated existing provisions as par. (1) and added par. (2).
 
  __Regulations__ 
 
-[Pub. L. 100–180, div. C, title I, § 3131(b)][/us/pl/100/180/s3131/b], Dec. 4, 1987, [101 Stat. 1239][/us/stat/101/1239], provided that: 
+[Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3131(b), Dec. 4, 1987, [101 Stat. 1239][/us/stat/101/1239], provided that: 
 
 > “Regulations to implement paragraph (2) of section 1534(b) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986 (as added by subsection (a)) \[[50 U.S.C. 2781(b)(2)][/us/usc/t50/s2781/b/2]\] shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]. Such regulations shall apply as if included in the original regulations prescribed under such section.”
 
@@ -89,25 +89,25 @@
 ----------
 
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
-[/us/pl/107/314/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4801
-[/us/pl/99/145/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1534
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/99/145/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXV
 [/us/stat/99/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F774
-[/us/pl/100/180/s3131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3131%2Fa
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1238
-[/us/pl/107/314/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4801
-[/us/pl/108/136/s3141/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
-[/us/pl/113/66/s3146/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F1
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/usc/t42/s7256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
 [/us/usc/t41/s418b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418b
-[/us/pl/108/136/s3141/k/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2%2FD%2Fi
-[/us/pl/108/136/s3141/k/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/100/180/s3131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3131%2Fb
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1239
 [/us/usc/t50/s2781/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2781%2Fb%2F2
 

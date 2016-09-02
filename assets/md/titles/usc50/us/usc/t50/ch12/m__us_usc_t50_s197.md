@@ -17,11 +17,11 @@
 
     During any period in which vessels may be req­uisitioned under chapter 563 of title 46, the President is authorized through the Secretary of Transportation to acquire by voluntary agreement of purchase or charter the ownership or use of any merchant vessel not owned by citizens of the United States.
 
-([Aug. 9, 1954, ch. 659, § 2][/us/act/1954-08-09/ch659/s2], [68 Stat. 675][/us/stat/68/675]; [Pub. L. 97–31, § 12(152)][/us/pl/97/31/s12/152], Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167].)
+([Aug. 9, 1954, ch. 659][/us/act/1954-08-09/ch659], § 2, [68 Stat. 675][/us/stat/68/675]; [Pub. L. 97–31][/us/pl/97/31], § 12(152), Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167].)
 
  __Codification__ 
 
-    In text, “chapter 563 of title 46” substituted for “section 902 of the Merchant Marine Act, 1936, as amended” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted chapter 563 of Title 46, Shipping.
+    In text, “chapter 563 of title 46” substituted for “section 902 of the Merchant Marine Act, 1936, as amended” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted chapter 563 of Title 46, Shipping.
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/act/1954-08-09/ch659/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch659%2Fs2
+[/us/act/1954-08-09/ch659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch659
 [/us/stat/68/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F675
-[/us/pl/97/31/s12/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F152
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F167
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 

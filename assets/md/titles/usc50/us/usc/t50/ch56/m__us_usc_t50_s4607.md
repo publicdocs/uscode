@@ -65,7 +65,7 @@
 
         The provisions of this section and the regulations issued pursuant thereto shall preempt any law, rule, or regulation of any of the several States or the District of Columbia, or any of the territories or possessions of the United States, or of any governmental subdivision thereof, which law, rule, or regulation pertains to participation in, compliance with, implementation of, or the furnishing of information regarding restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries.
 
-([Pub. L. 96–72, § 8][/us/pl/96/72/s8], Sept. 29, 1979, [93 Stat. 521][/us/stat/93/521].)
+([Pub. L. 96–72][/us/pl/96/72], § 8, Sept. 29, 1979, [93 Stat. 521][/us/stat/93/521].)
 
  __Termination Date__ 
 
@@ -75,7 +75,7 @@
 
     Section was formerly classified to section 2407 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2407 of the former Appendix to this title, [Pub. L. 91–184, § 8][/us/pl/91/184/s8], Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846]; [Pub. L. 95–52, title II, § 203(b)][/us/pl/95/52/s203/b], June 22, 1977, [91 Stat. 247][/us/stat/91/247], related to exemption from administrative procedure and judicial review provisions, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979. See [section 4615 of this title][/us/usc/t50/s4615].
+    A prior section 2407 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 8, Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846]; [Pub. L. 95–52, title II][/us/pl/95/52/tII], § 203(b), June 22, 1977, [91 Stat. 247][/us/stat/91/247], related to exemption from administrative procedure and judicial review provisions, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979. See [section 4615 of this title][/us/usc/t50/s4615].
 
  __Delegation of Functions__ 
 
@@ -93,12 +93,12 @@
 [/us/usc/t50/s4602/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F5
 [/us/usc/t50/s4602/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F5
 [/us/usc/t50/s4602/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F5
-[/us/pl/96/72/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs8
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F521
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
-[/us/pl/91/184/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs8
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F846
-[/us/pl/95/52/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2Fs203%2Fb
+[/us/pl/95/52/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtII
 [/us/stat/91/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F247
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/usc/t50/s4615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4615

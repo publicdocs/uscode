@@ -27,7 +27,7 @@
 
     (5) minor articles of personal property which have lawfully become the property of individual members of the armed forces as war trophies pursuant to public written authorization from the Department of Defense.
 
-([Pub. L. 103–236, title V, § 556][/us/pl/103/236/s556], Apr. 30, 1994, [108 Stat. 483][/us/stat/108/483].)
+([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 556, Apr. 30, 1994, [108 Stat. 483][/us/stat/108/483].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs556
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F483
 
 

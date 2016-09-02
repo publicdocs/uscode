@@ -51,7 +51,7 @@
 
         (2) the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate.
 
-([Pub. L. 111–84, div. C, title XXXI, § 3120][/us/pl/111/84/s3120], Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710].)
+([Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3120, Oct. 28, 2009, [123 Stat. 2710][/us/stat/123/2710].)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3120
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2710
 
 

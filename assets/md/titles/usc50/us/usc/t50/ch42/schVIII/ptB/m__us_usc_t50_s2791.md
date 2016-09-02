@@ -31,7 +31,7 @@
 
         For purposes of this section, the term “laboratory-directed research and development” means research and development work of a creative and innovative nature which, under the regulations prescribed pursuant to subsection (b), is selected by the director of a laboratory for the purpose of maintaining the vitality of the laboratory in defense-related scientific disciplines.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4811][/us/pl/107/314/s4811], formerly [Pub. L. 101–510, div. C, title XXXI, § 3132][/us/pl/101/510/s3132], Nov. 5, 1990, [104 Stat. 1832][/us/stat/104/1832]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4811][/us/pl/107/314/s4811], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(6)][/us/pl/108/136/s3141/k/6], Nov. 24, 2003, [117 Stat. 1784][/us/stat/117/1784]; [Pub. L. 114–92, div. C, title XXXI, § 3115(a)][/us/pl/114/92/s3115/a], Nov. 25, 2015, [129 Stat. 1193][/us/stat/129/1193].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4811, formerly [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3132, Nov. 5, 1990, [104 Stat. 1832][/us/stat/104/1832]; renumbered [Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4811, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(6), Nov. 24, 2003, [117 Stat. 1784][/us/stat/117/1784]; [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3115(a), Nov. 25, 2015, [129 Stat. 1193][/us/stat/129/1193].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–92, § 3115(a)][/us/pl/114/92/s3115/a], substituted “to a national security laboratory” for “to such laboratories”, “of not less than 5 percent and not more than 7 percent” for “not to exceed 6 percent”, and “by the laboratory” for “by such laboratories”.
+    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92], § 3115(a), substituted “to a national security laboratory” for “to such laboratories”, “of not less than 5 percent and not more than 7 percent” for “not to exceed 6 percent”, and “by the laboratory” for “by such laboratories”.
 
-    2003—[Pub. L. 108–136, § 3141(k)(6)(D)][/us/pl/108/136/s3141/k/6/D], made technical amendment to section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(k)(6)(D), made technical amendment to section catchline.
 
 ----------
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4811
-[/us/pl/101/510/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3132
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1832
-[/us/pl/107/314/s4811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4811
-[/us/pl/108/136/s3141/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F6
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1784
-[/us/pl/114/92/s3115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3115%2Fa
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1193
 [/us/usc/t42/s7257a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7257a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/114/92/s3115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3115%2Fa
-[/us/pl/108/136/s3141/k/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F6%2FD
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

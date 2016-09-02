@@ -47,11 +47,11 @@
 
             (B) an employee of an element of the Department of Energy (other than the Administration) involved in nuclear security.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3245][/us/pl/106/65/s3245], as added [Pub. L. 114–92, div. C, title XXXI, § 3111(a)(1)][/us/pl/114/92/s3111/a/1], Nov. 25, 2015, [129 Stat. 1186][/us/stat/129/1186].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3245, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3111(a)(1), Nov. 25, 2015, [129 Stat. 1186][/us/stat/129/1186].)
 
  __Prior Provisions__ 
 
-    A prior section 2443, [Pub. L. 106–65, div. C, title XXXII, § 3245][/us/pl/106/65/s3245], as added [Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title III, § 315\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–81, related to prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration, prior to repeal by [Pub. L. 107–107, div. C, title XXXI, § 3143][/us/pl/107/107/s3143], Dec. 28, 2001, [115 Stat. 1371][/us/stat/115/1371].
+    A prior section 2443, [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3245, as added [Pub. L. 106–377][/us/pl/106/377], § 1(a)(2) \[title III, § 315\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–81, related to prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration, prior to repeal by [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3143, Dec. 28, 2001, [115 Stat. 1371][/us/stat/115/1371].
 
 ----------
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/106/65/s3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3245
-[/us/pl/114/92/s3111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3111%2Fa%2F1
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1186
-[/us/pl/106/65/s3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3245
-[/us/pl/106/377/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F2
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/107/107/s3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3143
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1371
 
 

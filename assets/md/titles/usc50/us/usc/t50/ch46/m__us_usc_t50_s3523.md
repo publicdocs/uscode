@@ -229,7 +229,7 @@
 
         No law enacted after the effective date of this section shall affect the authorities and provisions of this section unless such law specifically refers to this section.
 
-([June 20, 1949, ch. 227, § 23][/us/act/1949-06-20/ch227/s23], as added [Pub. L. 108–487, title IV, § 402][/us/pl/108/487/s402], Dec. 23, 2004, [118 Stat. 3946][/us/stat/118/3946].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 23, as added [Pub. L. 108–487, title IV][/us/pl/108/487/tIV], § 402, Dec. 23, 2004, [118 Stat. 3946][/us/stat/118/3946].)
 
  __References in Text__ 
 
@@ -247,8 +247,8 @@
 ----------
 
 [/us/usc/t5/s8334/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fe
-[/us/act/1949-06-20/ch227/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs23
-[/us/pl/108/487/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs402
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/108/487/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtIV
 [/us/stat/118/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3946
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
 [/us/pl/108/487/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs801

@@ -27,7 +27,7 @@
 
         The requirement of [section 2746(b)(2) of this title][/us/usc/t50/s2746/b/2] does not apply to emergency planning, design, and construction activities conducted under this section.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4707][/us/pl/107/314/s4707], formerly div. C, title XXXVI, § 3626, Dec. 2, 2002, [116 Stat. 2759][/us/stat/116/2759]; renumbered div. D, title XLVII, § 4707, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), (D)(iii), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4707, formerly div. C, title XXXVI, § 3626, Dec. 2, 2002, [116 Stat. 2759][/us/stat/116/2759]; renumbered div. D, title XLVII, § 4707, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(j)(2)(A)–(C), (D)(iii), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2003—Subsec. (c). [Pub. L. 108–136, § 3141(j)(2)(D)(iii)][/us/pl/108/136/s3141/j/2/D/iii], made technical amendment to reference in original act which appears in text as reference to [section 2746(b)(2) of this title][/us/usc/t50/s2746/b/2].
+    2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 3141(j)(2)(D)(iii), made technical amendment to reference in original act which appears in text as reference to [section 2746(b)(2) of this title][/us/usc/t50/s2746/b/2].
 
 ----------
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/usc/t50/s2746/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2746%2Fb%2F2
-[/us/pl/107/314/s4707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4707
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
 [/us/stat/116/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2759
-[/us/pl/108/136/s3141/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
 [/us/usc/t42/s7386f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386f
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/136/s3141/j/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FD%2Fiii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2746/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2746%2Fb%2F2
 
 

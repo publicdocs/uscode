@@ -17,7 +17,7 @@
 
     No remuneration on account of services rendered on behalf of any claimant in connection with any claim filed with the Commission under this subchapter shall exceed 10 per centum (or such lesser per centum as may be fixed by the Commission with respect to any class of claims) of the total amount paid pursuant to any award certified under the provisions of this subchapter on account of such claim. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives, on account of services so rendered, any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 214, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1112][/us/stat/76/1112].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 214, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1112][/us/stat/76/1112].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1112
 
 

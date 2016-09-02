@@ -129,15 +129,15 @@
 
             If the Secretary finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Secretary determines appropriate.
 
-([Pub. L. 88–643, title II, § 231][/us/pl/88/643/s231], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3220][/us/stat/106/3220]; amended [Pub. L. 103–178, title II, § 202(a)(8)][/us/pl/103/178/s202/a/8], Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 231, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3220][/us/stat/106/3220]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(8), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
 
  __References in Text__ 
 
-    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (b)(2), was repealed by [Pub. L. 106–65, div. A, title VI, § 651(a)(1)][/us/pl/106/65/s651/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
+    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (b)(2), was repealed by [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
 
  __Prior Provisions__ 
 
-    A prior [section 231 of Pub. L. 88–643][/us/pl/88/643/s231], title II, Oct. 13, 1964, [78 Stat. 1046][/us/stat/78/1046]; Ex. Ord. No. 12326, § 2, Sept. 30, 1981, 46 F.R. 48889; [Pub. L. 94–522, title II][/us/pl/94/522], §§ 205–207, Oct. 17, 1976, [90 Stat. 2470][/us/stat/90/2470]; Ex. Ord. No. 12443, § 1, Sept. 27, 1983, 48 F.R. 44751; [Pub. L. 99–335, title V, § 501(2)][/us/pl/99/335/s501/2], June 6, 1986, [100 Stat. 622][/us/stat/100/622]; [Pub. L. 102–183, title III, § 305][/us/pl/102/183/s305], Dec. 4, 1991, [105 Stat. 1265][/us/stat/105/1265], related to retirement for disability or incapacity, medical examination, and recovery and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 231 of Pub. L. 88–643][/us/pl/88/643/s231], title II, Oct. 13, 1964, [78 Stat. 1046][/us/stat/78/1046]; Ex. Ord. No. 12326, § 2, Sept. 30, 1981, 46 F.R. 48889; [Pub. L. 94–522, title II][/us/pl/94/522/tII], §§ 205–207, Oct. 17, 1976, [90 Stat. 2470][/us/stat/90/2470]; Ex. Ord. No. 12443, § 1, Sept. 27, 1983, 48 F.R. 44751; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 501(2), June 6, 1986, [100 Stat. 622][/us/stat/100/622]; [Pub. L. 102–183, title III][/us/pl/102/183/tIII], § 305, Dec. 4, 1991, [105 Stat. 1265][/us/stat/105/1265], related to retirement for disability or incapacity, medical examination, and recovery and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -162,21 +162,21 @@
 [/us/usc/t50/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2053
 [/us/usc/t50/s2055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2055%2Fa
 [/us/usc/t5/s8135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8135
-[/us/pl/88/643/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs231
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3220
-[/us/pl/103/178/s202/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F8
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2026
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/65/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/pl/88/643/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs231
 [/us/stat/78/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1046
-[/us/pl/94/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522
+[/us/pl/94/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtII
 [/us/stat/90/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2470
-[/us/pl/99/335/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs501%2F2
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
-[/us/pl/102/183/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs305
+[/us/pl/102/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIII
 [/us/stat/105/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1265
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

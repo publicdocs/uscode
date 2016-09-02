@@ -23,7 +23,7 @@
 
     (3) materials and technologies related to use of equipment described in paragraph (1) or (2).
 
-([Pub. L. 104–201, div. A, title XIV, § 1421][/us/pl/104/201/s1421], Sept. 23, 1996, [110 Stat. 2725][/us/stat/110/2725].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1421, Sept. 23, 1996, [110 Stat. 2725][/us/stat/110/2725].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1421
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2725
 [/us/pl/104/201/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs301
 [/us/stat/110/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2475

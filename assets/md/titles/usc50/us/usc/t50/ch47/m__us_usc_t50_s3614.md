@@ -75,7 +75,7 @@
 
         The undergraduate and graduate training program established under this section shall be known as the Louis Stokes Educational Scholarship Program.
 
-([Pub. L. 86–36, § 16][/us/pl/86/36/s16], as added [Pub. L. 99–569, title V, § 505][/us/pl/99/569/s505], Oct. 27, 1986, [100 Stat. 3200][/us/stat/100/3200]; amended [Pub. L. 111–259, title III, § 312(a)][/us/pl/111/259/s312/a]–(d), Oct. 7, 2010, [124 Stat. 2663][/us/stat/124/2663], 2664.)
+([Pub. L. 86–36][/us/pl/86/36], § 16, as added [Pub. L. 99–569, title V][/us/pl/99/569/tV], § 505, Oct. 27, 1986, [100 Stat. 3200][/us/stat/100/3200]; amended [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 312(a)–(d), Oct. 7, 2010, [124 Stat. 2663][/us/stat/124/2663], 2664.)
 
  __Codification__ 
 
@@ -83,31 +83,31 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–259, § 312(a)(1)][/us/pl/111/259/s312/a/1], inserted “and graduate” after “undergraduate” and substituted “a baccalaureate or graduate” for “the baccalaureate”.
+    2010—Subsec. (a). [Pub. L. 111–259][/us/pl/111/259], § 312(a)(1), inserted “and graduate” after “undergraduate” and substituted “a baccalaureate or graduate” for “the baccalaureate”.
 
-    Subsec. (b). [Pub. L. 111–259, § 312(b)(1)][/us/pl/111/259/s312/b/1], substituted “civilians who may or may not be employees” for “civilian employees”.
+    Subsec. (b). [Pub. L. 111–259][/us/pl/111/259], § 312(b)(1), substituted “civilians who may or may not be employees” for “civilian employees”.
 
-    [Pub. L. 111–259, § 312(a)(2)][/us/pl/111/259/s312/a/2], inserted “or graduate” after “undergraduate”.
+    [Pub. L. 111–259][/us/pl/111/259], § 312(a)(2), inserted “or graduate” after “undergraduate”.
 
-    Subsec. (c). [Pub. L. 111–259, § 312(b)(2)(A)][/us/pl/111/259/s312/b/2/A], substituted “program participants” for “employees”.
+    Subsec. (c). [Pub. L. 111–259][/us/pl/111/259], § 312(b)(2)(A), substituted “program participants” for “employees”.
 
-    Subsec. (d)(1). [Pub. L. 111–259, § 312(b)(2)(B)(i)(I)][/us/pl/111/259/s312/b/2/B/i/I], which directed substitution of “a program participant,” for “an employee of the Agency,” in introductory provisions, was executed by making the substitution for “an employee of the Agency” in introductory provisions, to reflect the probable intent of Congress.
+    Subsec. (d)(1). [Pub. L. 111–259][/us/pl/111/259], § 312(b)(2)(B)(i)(I), which directed substitution of “a program participant,” for “an employee of the Agency,” in introductory provisions, was executed by making the substitution for “an employee of the Agency” in introductory provisions, to reflect the probable intent of Congress.
 
-    Subsec. (d)(1)(A). [Pub. L. 111–259, § 312(b)(2)(B)(i)(II)][/us/pl/111/259/s312/b/2/B/i/II], substituted “program participant” for “employee”.
+    Subsec. (d)(1)(A). [Pub. L. 111–259][/us/pl/111/259], § 312(b)(2)(B)(i)(II), substituted “program participant” for “employee”.
 
-    Subsec. (d)(1)(C). [Pub. L. 111–259, § 312(c)][/us/pl/111/259/s312/c], substituted “terminated—” and cls. (i) to (iii) for “terminated either by the Agency due to misconduct by the employee or by the employee voluntarily; and”.
+    Subsec. (d)(1)(C). [Pub. L. 111–259][/us/pl/111/259], § 312(c), substituted “terminated—” and cls. (i) to (iii) for “terminated either by the Agency due to misconduct by the employee or by the employee voluntarily; and”.
 
-    [Pub. L. 111–259, § 312(b)(2)(B)(i)(III)][/us/pl/111/259/s312/b/2/B/i/III], substituted “program participant” for “employee” and “program participant’s” for “employee’s” wherever appearing.
+    [Pub. L. 111–259][/us/pl/111/259], § 312(b)(2)(B)(i)(III), substituted “program participant” for “employee” and “program participant’s” for “employee’s” wherever appearing.
 
-    Subsec. (d)(1)(D). [Pub. L. 111–259, § 312(b)(2)(B)(i)(IV)][/us/pl/111/259/s312/b/2/B/i/IV], substituted “program participant” for “employee” and “program participant’s” for “employee’s” wherever appearing.
+    Subsec. (d)(1)(D). [Pub. L. 111–259][/us/pl/111/259], § 312(b)(2)(B)(i)(IV), substituted “program participant” for “employee” and “program participant’s” for “employee’s” wherever appearing.
 
-    Subsec. (d)(3)(C). [Pub. L. 111–259, § 312(b)(2)(B)(ii)][/us/pl/111/259/s312/b/2/B/ii], substituted “program participant” for “employee” in two places and “program participant’s” for “employee’s”.
+    Subsec. (d)(3)(C). [Pub. L. 111–259][/us/pl/111/259], § 312(b)(2)(B)(ii), substituted “program participant” for “employee” in two places and “program participant’s” for “employee’s”.
 
-    Subsec. (e). [Pub. L. 111–259, § 312(d)][/us/pl/111/259/s312/d], struck out par. (2) designation before “Agency efforts” and struck out par. (1) which read as follows: “When an employee is assigned under this section to an institution, the Agency shall disclose to the institution to which the employee is assigned that the Agency employs the employee and that the Agency funds the employee’s education.”
+    Subsec. (e). [Pub. L. 111–259][/us/pl/111/259], § 312(d), struck out par. (2) designation before “Agency efforts” and struck out par. (1) which read as follows: “When an employee is assigned under this section to an institution, the Agency shall disclose to the institution to which the employee is assigned that the Agency employs the employee and that the Agency funds the employee’s education.”
 
-    Subsec. (e)(2). [Pub. L. 111–259, § 312(a)(3)][/us/pl/111/259/s312/a/3], inserted “and graduate” after “undergraduate”.
+    Subsec. (e)(2). [Pub. L. 111–259][/us/pl/111/259], § 312(a)(3), inserted “and graduate” after “undergraduate”.
 
-    Subsec. (h). [Pub. L. 111–259, § 312(a)(4)][/us/pl/111/259/s312/a/4], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–259][/us/pl/111/259], § 312(a)(4), added subsec. (h).
 
 ----------
 
@@ -117,24 +117,24 @@
 ----------
 
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
-[/us/pl/86/36/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs16
-[/us/pl/99/569/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs505
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/99/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtV
 [/us/stat/100/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3200
-[/us/pl/111/259/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2663
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
-[/us/pl/111/259/s312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fa%2F1
-[/us/pl/111/259/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F1
-[/us/pl/111/259/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fa%2F2
-[/us/pl/111/259/s312/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F2%2FA
-[/us/pl/111/259/s312/b/2/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F2%2FB%2Fi%2FI
-[/us/pl/111/259/s312/b/2/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F2%2FB%2Fi%2FII
-[/us/pl/111/259/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fc
-[/us/pl/111/259/s312/b/2/B/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F2%2FB%2Fi%2FIII
-[/us/pl/111/259/s312/b/2/B/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F2%2FB%2Fi%2FIV
-[/us/pl/111/259/s312/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fb%2F2%2FB%2Fii
-[/us/pl/111/259/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fd
-[/us/pl/111/259/s312/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fa%2F3
-[/us/pl/111/259/s312/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fa%2F4
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 
 

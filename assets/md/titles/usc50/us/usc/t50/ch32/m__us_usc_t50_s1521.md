@@ -313,35 +313,35 @@
 
             (B) the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
 
-([Pub. L. 99–145, title XIV, § 1412][/us/pl/99/145/s1412], Nov. 8, 1985, [99 Stat. 747][/us/stat/99/747]; [Pub. L. 100–456, div. A, title I, § 118][/us/pl/100/456/s118], Sept. 29, 1988, [102 Stat. 1934][/us/stat/102/1934]; [Pub. L. 101–510, div. A, title I][/us/pl/101/510], §§ 171, 172, Nov. 5, 1990, [104 Stat. 1507][/us/stat/104/1507]; [Pub. L. 102–190, div. A, title I, § 151][/us/pl/102/190/s151], Dec. 5, 1991, [105 Stat. 1313][/us/stat/105/1313]; [Pub. L. 102–484, div. A, title I][/us/pl/102/484], §§ 171, 179, Oct. 23, 1992, [106 Stat. 2341][/us/stat/106/2341], 2347; [Pub. L. 103–160, div. A, title I, § 107(c)][/us/pl/103/160/s107/c], Nov. 30, 1993, [107 Stat. 1564][/us/stat/107/1564]; [Pub. L. 103–337, div. A, title I, § 142][/us/pl/103/337/s142], Oct. 5, 1994, [108 Stat. 2689][/us/stat/108/2689]; [Pub. L. 104–106, div. A, title I, § 153(b)][/us/pl/104/106/s153/b], (c), title XV, § 1502(c)(6), Feb. 10, 1996, [110 Stat. 216][/us/stat/110/216], 508; [Pub. L. 104–201, div. A, title X, § 1074(d)(2)][/us/pl/104/201/s1074/d/2], Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661]; [Pub. L. 105–85, div. A, title X, § 1041(d)][/us/pl/105/85/s1041/d], Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885]; [Pub. L. 105–261, div. A, title I, § 141][/us/pl/105/261/s141], Oct. 17, 1998, [112 Stat. 1942][/us/stat/112/1942]; [Pub. L. 106–65, div. A, title I, § 141(b)][/us/pl/106/65/s141/b], title X, § 1067(11), Oct. 5, 1999, [113 Stat. 537][/us/stat/113/537], 775; [Pub. L. 107–107, div. A, title X, § 1048(i)(4)][/us/pl/107/107/s1048/i/4], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 108–375, div. A, title IX, § 931][/us/pl/108/375/s931], Oct. 28, 2004, [118 Stat. 2031][/us/stat/118/2031]; [Pub. L. 109–163, div. A, title IX, § 921(a)][/us/pl/109/163/s921/a], Jan. 6, 2006, [119 Stat. 3410][/us/stat/119/3410]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181], §§ 923, 924, Jan. 28, 2008, [122 Stat. 284][/us/stat/122/284]; [Pub. L. 111–383, div. A, title XIV, § 1421(a)][/us/pl/111/383/s1421/a], Jan. 7, 2011, [124 Stat. 4412][/us/stat/124/4412]; [Pub. L. 112–239, div. A, title XIV, § 1421(a)][/us/pl/112/239/s1421/a], Jan. 2, 2013, [126 Stat. 2049][/us/stat/126/2049]; [Pub. L. 114–92, div. A, title XIV, § 1411][/us/pl/114/92/s1411], Nov. 25, 2015, [129 Stat. 1083][/us/stat/129/1083].)
+([Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1412, Nov. 8, 1985, [99 Stat. 747][/us/stat/99/747]; [Pub. L. 100–456, div. A, title I][/us/pl/100/456/dA/tI], § 118, Sept. 29, 1988, [102 Stat. 1934][/us/stat/102/1934]; [Pub. L. 101–510, div. A, title I][/us/pl/101/510/dA/tI], §§ 171, 172, Nov. 5, 1990, [104 Stat. 1507][/us/stat/104/1507]; [Pub. L. 102–190, div. A, title I][/us/pl/102/190/dA/tI], § 151, Dec. 5, 1991, [105 Stat. 1313][/us/stat/105/1313]; [Pub. L. 102–484, div. A, title I][/us/pl/102/484/dA/tI], §§ 171, 179, Oct. 23, 1992, [106 Stat. 2341][/us/stat/106/2341], 2347; [Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 107(c), Nov. 30, 1993, [107 Stat. 1564][/us/stat/107/1564]; [Pub. L. 103–337, div. A, title I][/us/pl/103/337/dA/tI], § 142, Oct. 5, 1994, [108 Stat. 2689][/us/stat/108/2689]; [Pub. L. 104–106, div. A, title I][/us/pl/104/106/dA/tI], § 153(b), (c), title XV, § 1502(c)(6), Feb. 10, 1996, [110 Stat. 216][/us/stat/110/216], 508; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(d)(2), Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1041(d), Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885]; [Pub. L. 105–261, div. A, title I][/us/pl/105/261/dA/tI], § 141, Oct. 17, 1998, [112 Stat. 1942][/us/stat/112/1942]; [Pub. L. 106–65, div. A, title I][/us/pl/106/65/dA/tI], § 141(b), title X, § 1067(11), Oct. 5, 1999, [113 Stat. 537][/us/stat/113/537], 775; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(i)(4), Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 931, Oct. 28, 2004, [118 Stat. 2031][/us/stat/118/2031]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 921(a), Jan. 6, 2006, [119 Stat. 3410][/us/stat/119/3410]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], §§ 923, 924, Jan. 28, 2008, [122 Stat. 284][/us/stat/122/284]; [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(a), Jan. 7, 2011, [124 Stat. 4412][/us/stat/124/4412]; [Pub. L. 112–239, div. A, title XIV][/us/pl/112/239/dA/tXIV], § 1421(a), Jan. 2, 2013, [126 Stat. 2049][/us/stat/126/2049]; [Pub. L. 114–92, div. A, title XIV][/us/pl/114/92/dA/tXIV], § 1411, Nov. 25, 2015, [129 Stat. 1083][/us/stat/129/1083].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsecs. (c)(3) and (m)(8), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (c)(3) and (m)(8), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
     The Clean Air Act, referred to in subsec. (c)(3), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
  __Codification__ 
 
-    [Pub. L. 109–163, § 921][/us/pl/109/163/s921], which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of [Pub. L. 109–163][/us/pl/109/163], to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
+    [Pub. L. 109–163][/us/pl/109/163], § 921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of [Pub. L. 109–163][/us/pl/109/163], to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
 
-    Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
  __Amendments__ 
 
     2015—Subsec. (b)(3). [Pub. L. 114–92][/us/pl/114/92] substituted “December 31, 2023” for “December 31, 2017”.
 
-    2013—Subsec. (i)(2)(E). [Pub. L. 112–239, § 1421(a)(1)][/us/pl/112/239/s1421/a/1], added subpar. (E).
+    2013—Subsec. (i)(2)(E). [Pub. L. 112–239][/us/pl/112/239], § 1421(a)(1), added subpar. (E).
 
-    Subsec. (j)(2)(E). [Pub. L. 112–239, § 1421(a)(2)][/us/pl/112/239/s1421/a/2], added subpar. (E).
+    Subsec. (j)(2)(E). [Pub. L. 112–239][/us/pl/112/239], § 1421(a)(2), added subpar. (E).
 
-    Subsecs. (o), (p). [Pub. L. 112–239, § 1421(a)(3)][/us/pl/112/239/s1421/a/3], (4), added subsec. (o) and redesignated former subsec. (o) as (p).
+    Subsecs. (o), (p). [Pub. L. 112–239][/us/pl/112/239], § 1421(a)(3), (4), added subsec. (o) and redesignated former subsec. (o) as (p).
 
-    2011—[Pub. L. 111–383, § 1421(a)][/us/pl/111/383/s1421/a], which directed the general amendment of section 1412 of the “National Defense Authorization Act, 1986 ([50 U.S.C. 1521][/us/usc/t50/s1521])”, was executed by making the amendment to this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress. Prior to amendment, section related to destruction of existing stockpile of lethal chemical agents and munitions by Dec. 31, 2004.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 1421(a), which directed the general amendment of section 1412 of the “National Defense Authorization Act, 1986 ([50 U.S.C. 1521][/us/usc/t50/s1521])”, was executed by making the amendment to this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress. Prior to amendment, section related to destruction of existing stockpile of lethal chemical agents and munitions by Dec. 31, 2004.
 
-    2008—Subsec. (c)(5)(B). [Pub. L. 110–181, § 924][/us/pl/110/181/s924], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “No assistance may be provided under this paragraph after the completion of the destruction of the United States’ stockpile of lethal chemical agents and munitions.”
+    2008—Subsec. (c)(5)(B). [Pub. L. 110–181][/us/pl/110/181], § 924, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “No assistance may be provided under this paragraph after the completion of the destruction of the United States’ stockpile of lethal chemical agents and munitions.”
 
-    Subsec. (e)(3). [Pub. L. 110–181, § 923][/us/pl/110/181/s923], inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “training in chemical warfare defense operations; and”.
+    Subsec. (e)(3). [Pub. L. 110–181][/us/pl/110/181], § 923, inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “training in chemical warfare defense operations; and”.
 
     2006—Subsec. (c)(4). [Pub. L. 109–163][/us/pl/109/163] designated first two sentences as subpar. (A) and inserted “and to tribal organizations” after “to State and local governments” and “and tribal organizations” after “assist those governments”, designated third and fourth sentences as subpar. (B) and inserted “, and with tribal organizations,” after “with State and local governments”, and added subpar. (C). See Codification note above.
 
@@ -349,103 +349,103 @@
 
     2001—Subsec. (g)(2)(C)(vii). [Pub. L. 107–107][/us/pl/107/107] substituted “(c)(4)” for “(c)(3)”.
 
-    1999—Subsec. (b)(4). [Pub. L. 106–65, § 1067(11)][/us/pl/106/65/s1067/11], substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+    1999—Subsec. (b)(4). [Pub. L. 106–65][/us/pl/106/65], § 1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    Subsec. (c)(2). [Pub. L. 106–65, § 141(b)(1)(A)][/us/pl/106/65/s141/b/1/A], added par. (2) and struck out former par. (2) which read as follows: “Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilities shall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.”
+    Subsec. (c)(2). [Pub. L. 106–65][/us/pl/106/65], § 141(b)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilities shall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.”
 
-    Subsec. (c)(3) to (5). [Pub. L. 106–65, § 141(b)(1)(B)][/us/pl/106/65/s141/b/1/B], (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (c)(3) to (5). [Pub. L. 106–65][/us/pl/106/65], § 141(b)(1)(B), (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsec. (f)(2). [Pub. L. 106–65, § 141(b)(2)][/us/pl/106/65/s141/b/2], substituted “(c)(5)” for “(c)(4)”.
+    Subsec. (f)(2). [Pub. L. 106–65][/us/pl/106/65], § 141(b)(2), substituted “(c)(5)” for “(c)(4)”.
 
-    Subsec. (g)(2)(B). [Pub. L. 106–65, § 141(b)(3)][/us/pl/106/65/s141/b/3], substituted “(c)(4)” for “(c)(3)”.
+    Subsec. (g)(2)(B). [Pub. L. 106–65][/us/pl/106/65], § 141(b)(3), substituted “(c)(4)” for “(c)(3)”.
 
-    Subsec. (k)(2). [Pub. L. 106–65, § 1067(11)][/us/pl/106/65/s1067/11], substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+    Subsec. (k)(2). [Pub. L. 106–65][/us/pl/106/65], § 1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    1998—Subsec. (c)(4). [Pub. L. 105–261, § 141(a)][/us/pl/105/261/s141/a], added par. (4).
+    1998—Subsec. (c)(4). [Pub. L. 105–261][/us/pl/105/261], § 141(a), added par. (4).
 
-    Subsec. (f). [Pub. L. 105–261, § 141(b)][/us/pl/105/261/s141/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (f). [Pub. L. 105–261][/us/pl/105/261], § 141(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g)(2)(B). [Pub. L. 105–261, § 141(c)(3)][/us/pl/105/261/s141/c/3], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (g)(2)(B). [Pub. L. 105–261][/us/pl/105/261], § 141(c)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    Subsec. (g)(2)(B)(vii). [Pub. L. 105–261, § 141(c)(1)][/us/pl/105/261/s141/c/1], added cl. (vii).
+    Subsec. (g)(2)(B)(vii). [Pub. L. 105–261][/us/pl/105/261], § 141(c)(1), added cl. (vii).
 
-    Subsec. (g)(2)(C), (D). [Pub. L. 105–261, § 141(c)(2)][/us/pl/105/261/s141/c/2], redesignated subpars. (B) and (C) as (C) and (D), respectively.
+    Subsec. (g)(2)(C), (D). [Pub. L. 105–261][/us/pl/105/261], § 141(c)(2), redesignated subpars. (B) and (C) as (C) and (D), respectively.
 
     1997—Subsec. (g)(3), (4). [Pub. L. 105–85][/us/pl/105/85] struck out “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).” at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens’ Advisory Commissioners under [section 172(g) of Public Law 102–484][/us/pl/102/484/s172/g] ([50 U.S.C. 1521][/us/usc/t50/s1521] note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report.”
 
-    1996—Subsec. (b)(4). [Pub. L. 104–106, § 1502(c)(6)][/us/pl/104/106/s1502/c/6], substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+    1996—Subsec. (b)(4). [Pub. L. 104–106][/us/pl/104/106], § 1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-    Subsec. (e)(3). [Pub. L. 104–106, § 153(c)][/us/pl/104/106/s153/c], inserted “or civilian equivalent” after “general officer” in introductory provisions.
+    Subsec. (e)(3). [Pub. L. 104–106][/us/pl/104/106], § 153(c), inserted “or civilian equivalent” after “general officer” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 104–106, § 153(b)(1)][/us/pl/104/106/s153/b/1], substituted “Periodic reports” for “Annual report” in heading.
+    Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 153(b)(1), substituted “Periodic reports” for “Annual report” in heading.
 
-    Subsec. (g)(2). [Pub. L. 104–201, § 1074(d)(2)(A)][/us/pl/104/201/s1074/d/2/A], substituted “shall include the following:” for “shall contain—” in introductory provisions.
+    Subsec. (g)(2). [Pub. L. 104–201][/us/pl/104/201], § 1074(d)(2)(A), substituted “shall include the following:” for “shall contain—” in introductory provisions.
 
-    [Pub. L. 104–106, § 153(b)(2)(A)][/us/pl/104/106/s153/b/2/A], substituted “Each annual report shall contain—” for “Each such report shall contain—” in introductory provisions.
+    [Pub. L. 104–106][/us/pl/104/106], § 153(b)(2)(A), substituted “Each annual report shall contain—” for “Each such report shall contain—” in introductory provisions.
 
-    Subsec. (g)(2)(A). [Pub. L. 104–201, § 1074(d)(2)(B)][/us/pl/104/201/s1074/d/2/B], substituted “A site-by-site” for “a site-by-site” and “and operation.” for “and operation;”.
+    Subsec. (g)(2)(A). [Pub. L. 104–201][/us/pl/104/201], § 1074(d)(2)(B), substituted “A site-by-site” for “a site-by-site” and “and operation.” for “and operation;”.
 
-    Subsec. (g)(2)(B). [Pub. L. 104–201, § 1074(d)(2)(C)][/us/pl/104/201/s1074/d/2/C], substituted “An accounting” for “an accounting” in introductory provisions.
+    Subsec. (g)(2)(B). [Pub. L. 104–201][/us/pl/104/201], § 1074(d)(2)(C), substituted “An accounting” for “an accounting” in introductory provisions.
 
-    Subsec. (g)(2)(B)(iv). [Pub. L. 104–106, § 153(b)(2)(B)(i)][/us/pl/104/106/s153/b/2/B/i], struck out “and” after “development;”.
+    Subsec. (g)(2)(B)(iv). [Pub. L. 104–106][/us/pl/104/106], § 153(b)(2)(B)(i), struck out “and” after “development;”.
 
-    Subsec. (g)(2)(B)(v). [Pub. L. 104–106, § 153(b)(2)(B)(ii)][/us/pl/104/106/s153/b/2/B/ii], which directed substitution of “; and” for period at end of cl. (v), could not be executed because cl. (v) ended with “; and” and not with a period.
+    Subsec. (g)(2)(B)(v). [Pub. L. 104–106][/us/pl/104/106], § 153(b)(2)(B)(ii), which directed substitution of “; and” for period at end of cl. (v), could not be executed because cl. (v) ended with “; and” and not with a period.
 
-    Subsec. (g)(2)(B)(vi). [Pub. L. 104–106, § 153(b)(2)(B)(iii)][/us/pl/104/106/s153/b/2/B/iii], added cl. (vi).
+    Subsec. (g)(2)(B)(vi). [Pub. L. 104–106][/us/pl/104/106], § 153(b)(2)(B)(iii), added cl. (vi).
 
-    Subsec. (g)(2)(C). [Pub. L. 104–201, § 1074(d)(2)(C)][/us/pl/104/201/s1074/d/2/C], substituted “An assessment” for “an assessment” in introductory provisions.
+    Subsec. (g)(2)(C). [Pub. L. 104–201][/us/pl/104/201], § 1074(d)(2)(C), substituted “An assessment” for “an assessment” in introductory provisions.
 
-    Subsec. (g)(3). [Pub. L. 104–106, § 153(b)(4)][/us/pl/104/106/s153/b/4], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (g)(3). [Pub. L. 104–106][/us/pl/104/106], § 153(b)(4), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (g)(4). [Pub. L. 104–106, § 153(b)(5)][/us/pl/104/106/s153/b/5], substituted “paragraph (1) not later” for “this subsection not later” and inserted at end “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).”
+    Subsec. (g)(4). [Pub. L. 104–106][/us/pl/104/106], § 153(b)(5), substituted “paragraph (1) not later” for “this subsection not later” and inserted at end “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).”
 
-    [Pub. L. 104–106, § 153(b)(3)][/us/pl/104/106/s153/b/3], redesignated par. (3) as (4).
+    [Pub. L. 104–106][/us/pl/104/106], § 153(b)(3), redesignated par. (3) as (4).
 
-    Subsec. (k)(2). [Pub. L. 104–106, § 1502(c)(6)][/us/pl/104/106/s1502/c/6], substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+    Subsec. (k)(2). [Pub. L. 104–106][/us/pl/104/106], § 1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
     1994—Subsec. (f). [Pub. L. 103–337][/us/pl/103/337] inserted “, including funds for military construction projects necessary to carry out this section,” after “carrying out this section” and struck out at end “Funds for military construction projects necessary to carry out this section may be set out in the annual military construction budget separately from other funds for such project.”
 
     1993—Subsec. (c)(3). [Pub. L. 103–160][/us/pl/103/160] substituted “processing, approving, and overseeing” for “processing and approving”.
 
-    1992—Subsec. (a). [Pub. L. 102–484, § 179(1)][/us/pl/102/484/s179/1], struck out par. (1) designation before “Notwithstanding” and struck out par. (2) which read as follows: “Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces.”
+    1992—Subsec. (a). [Pub. L. 102–484][/us/pl/102/484], § 179(1), struck out par. (1) designation before “Notwithstanding” and struck out par. (2) which read as follows: “Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces.”
 
-    Subsec. (b)(5). [Pub. L. 102–484, § 171][/us/pl/102/484/s171], substituted “December 31, 2004” for “July 31, 1999”.
+    Subsec. (b)(5). [Pub. L. 102–484][/us/pl/102/484], § 171, substituted “December 31, 2004” for “July 31, 1999”.
 
-    Subsec. (c)(1). [Pub. L. 102–484, § 179(2)][/us/pl/102/484/s179/2], substituted “subsection (a)” for “subsection (a)(1)” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 102–484][/us/pl/102/484], § 179(2), substituted “subsection (a)” for “subsection (a)(1)” in introductory provisions.
 
-    Subsec. (g)(1). [Pub. L. 102–484, § 179(3)(A)][/us/pl/102/484/s179/3/A], substituted “paragraph (3)” for “paragraph (4)”.
+    Subsec. (g)(1). [Pub. L. 102–484][/us/pl/102/484], § 179(3)(A), substituted “paragraph (3)” for “paragraph (4)”.
 
-    Subsec. (g)(2). [Pub. L. 102–484, § 179(3)(B)][/us/pl/102/484/s179/3/B], (C), redesignated par. (3) as (2), substituted “such report” for “report other than the first one” in introductory provisions, and struck out former par. (2) which read as follows: “The first such report shall be transmitted by December 15, 1985, and shall contain—
+    Subsec. (g)(2). [Pub. L. 102–484][/us/pl/102/484], § 179(3)(B), (C), redesignated par. (3) as (2), substituted “such report” for “report other than the first one” in introductory provisions, and struck out former par. (2) which read as follows: “The first such report shall be transmitted by December 15, 1985, and shall contain—
 
     “(A) an accounting of the United States’ stockpile of lethal chemical agents and munitions on November 8, 1985; and
 
     “(B) a schedule of the activities planned to be carried out under this section during fiscal year 1986.”
 
-    Subsec. (g)(3), (4). [Pub. L. 102–484, § 179(3)(D)][/us/pl/102/484/s179/3/D], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    Subsec. (g)(3), (4). [Pub. L. 102–484][/us/pl/102/484], § 179(3)(D), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    1991—Subsec. (b)(5). [Pub. L. 102–190, § 151(a)][/us/pl/102/190/s151/a], substituted “July 31, 1999” for “April 30, 1997”.
+    1991—Subsec. (b)(5). [Pub. L. 102–190][/us/pl/102/190], § 151(a), substituted “July 31, 1999” for “April 30, 1997”.
 
-    Subsec. (c)(3). [Pub. L. 102–190, § 151(b)][/us/pl/102/190/s151/b], inserted at end “Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.”
+    Subsec. (c)(3). [Pub. L. 102–190][/us/pl/102/190], § 151(b), inserted at end “Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–510, § 171(b)][/us/pl/101/510/s171/b], substituted “November 8, 1985” for “the date of the enactment of this Act”.
+    1990—Subsec. (a)(1). [Pub. L. 101–510][/us/pl/101/510], § 171(b), substituted “November 8, 1985” for “the date of the enactment of this Act”.
 
-    Subsec. (c)(3). [Pub. L. 101–510, § 172][/us/pl/101/510/s172], added par. (3).
+    Subsec. (c)(3). [Pub. L. 101–510][/us/pl/101/510], § 172, added par. (3).
 
-    Subsec. (g)(3)(C). [Pub. L. 101–510, § 171(a)][/us/pl/101/510/s171/a], added subpar. (C).
+    Subsec. (g)(3)(C). [Pub. L. 101–510][/us/pl/101/510], § 171(a), added subpar. (C).
 
-    Subsec. (h)(1). [Pub. L. 101–510, § 171(b)][/us/pl/101/510/s171/b], substituted “November 8, 1985” for “the date of the enactment of this Act”.
+    Subsec. (h)(1). [Pub. L. 101–510][/us/pl/101/510], § 171(b), substituted “November 8, 1985” for “the date of the enactment of this Act”.
 
-    1988—Subsec. (b)(1), (3)(A). [Pub. L. 100–456, § 118(a)(1)][/us/pl/100/456/s118/a/1], substituted “the stockpile elimination deadline” for “September 30, 1994”.
+    1988—Subsec. (b)(1), (3)(A). [Pub. L. 100–456][/us/pl/100/456], § 118(a)(1), substituted “the stockpile elimination deadline” for “September 30, 1994”.
 
-    Subsec. (b)(3)(B). [Pub. L. 100–456, § 118(a)(2)][/us/pl/100/456/s118/a/2], substituted “not later than the earlier of (A) 30 days after the date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline” for “within 30 days after the date on which the determination to defer is made or by August 31, 1994, whichever is earlier”.
+    Subsec. (b)(3)(B). [Pub. L. 100–456][/us/pl/100/456], § 118(a)(2), substituted “not later than the earlier of (A) 30 days after the date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline” for “within 30 days after the date on which the determination to defer is made or by August 31, 1994, whichever is earlier”.
 
-    Subsec. (b)(4), (5). [Pub. L. 100–456, § 118(a)(3)][/us/pl/100/456/s118/a/3], added pars. (4) and (5).
+    Subsec. (b)(4), (5). [Pub. L. 100–456][/us/pl/100/456], § 118(a)(3), added pars. (4) and (5).
 
-    Subsec. (k). [Pub. L. 100–456, § 118(b)][/us/pl/100/456/s118/b], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
+    Subsec. (k). [Pub. L. 100–456][/us/pl/100/456], § 118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title IX, § 921(b)][/us/pl/109/163/s921/b], Jan. 6, 2006, [119 Stat. 3410][/us/stat/119/3410], provided that: 
+[Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 921(b), Jan. 6, 2006, [119 Stat. 3410][/us/stat/119/3410], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\]—
 
@@ -455,7 +455,7 @@
 
  __Sense of Congress on Completion of Destruction of United States Chemical Weapons Stockpile__ 
 
-[Pub. L. 110–181, div. A, title IX, § 922][/us/pl/110/181/s922], Jan. 28, 2008, [122 Stat. 282][/us/stat/122/282], as amended by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(10)][/us/pl/111/383/s1421/b/10], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420], provided that:
+[Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 922, Jan. 28, 2008, [122 Stat. 282][/us/stat/122/282], as amended by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(10), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -485,55 +485,55 @@
 
 >         “(2) the Secretary of Defense should make every effort to plan for, and to request in the annual budget of the President submitted to Congress adequate funding to complete, the elimination of the United States chemical weapons stockpile in accordance with United States obligations under the Chemical Weapons Convention and in a manner that will protect public health, safety, and the environment, as required by law.
 
->     “\[(c) Repealed. [Pub. L. 111–383, div. A, title XIV, § 1421(b)(10)][/us/pl/111/383/s1421/b/10], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].\]”
+>     “\[(c) Repealed. [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(10), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].\]”
 
  __Deadline for Destruction of Stockpile of Lethal Chemical Agents and Munitions__ 
 
-    [Pub. L. 110–116, div. A, title VIII, § 8119][/us/pl/110/116/s8119], Nov. 13, 2007, [121 Stat. 1340][/us/stat/121/1340], which directed the Department of Defense to complete work on the destruction of the stockpile of lethal chemical agents and munitions no later than Dec. 31, 2017, and to report to congressional leaders and defense committees on progress toward compliance not later than Dec. 31, 2007, and every 180 days thereafter, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(9)][/us/pl/111/383/s1421/b/9], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 110–116, div. A, title VIII][/us/pl/110/116/dA/tVIII], § 8119, Nov. 13, 2007, [121 Stat. 1340][/us/stat/121/1340], which directed the Department of Defense to complete work on the destruction of the stockpile of lethal chemical agents and munitions no later than Dec. 31, 2017, and to report to congressional leaders and defense committees on progress toward compliance not later than Dec. 31, 2007, and every 180 days thereafter, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(9), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Incentives Clauses in Chemical Demilitarization Contracts__ 
 
-    [Pub. L. 109–364, div. A, title IX, § 923][/us/pl/109/364/s923], Oct. 17, 2006, [120 Stat. 2360][/us/stat/120/2360], which authorized use of incentives clauses in chemical demilitarization contracts, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(8)][/us/pl/111/383/s1421/b/8], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 923, Oct. 17, 2006, [120 Stat. 2360][/us/stat/120/2360], which authorized use of incentives clauses in chemical demilitarization contracts, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(8), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Management of Chemical Demilitarization Activities at Bluegrass Army Depot, Kentucky and Pueblo Army Depot, Colorado__ 
 
-    [Pub. L. 107–248, title VIII, § 8122][/us/pl/107/248/s8122], Oct. 23, 2002, [116 Stat. 1566][/us/stat/116/1566], which related to management of chemical demilitarization activities at Bluegrass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, if, pursuant to [Pub. L. 105–261, § 142][/us/pl/105/261/s142], formerly set out as a note below, an alternative technology was selected for the destruction of lethal chemical munitions, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(7)][/us/pl/111/383/s1421/b/7], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8122, Oct. 23, 2002, [116 Stat. 1566][/us/stat/116/1566], which related to management of chemical demilitarization activities at Bluegrass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, if, pursuant to [Pub. L. 105–261][/us/pl/105/261], § 142, formerly set out as a note below, an alternative technology was selected for the destruction of lethal chemical munitions, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(7), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Alternative Technologies for Destruction of Assembled Chemical Weapons__ 
 
-    [Pub. L. 105–261, div. A, title I, § 142][/us/pl/105/261/s142], Oct. 17, 1998, [112 Stat. 1943][/us/stat/112/1943], as amended by [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(d)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, which directed the program manager of the pilot program carried out under [Pub. L. 104–208, § 101(b)][/us/pl/104/208/s101/b], formerly set out as a note below, to continue to manage the development and testing of alternative technologies for the destruction of lethal chemical munitions and authorized the Under Secretary of Defense for Acquisition, Technology, and Logistics to award a contract for the design, construction, and operation of a pilot facility for a technology if an independent evaluation and certain determinations and certifications had been made, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(5)][/us/pl/111/383/s1421/b/5], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 105–261, div. A, title I][/us/pl/105/261/dA/tI], § 142, Oct. 17, 1998, [112 Stat. 1943][/us/stat/112/1943], as amended by [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(d)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, which directed the program manager of the pilot program carried out under [Pub. L. 104–208][/us/pl/104/208], § 101(b), formerly set out as a note below, to continue to manage the development and testing of alternative technologies for the destruction of lethal chemical munitions and authorized the Under Secretary of Defense for Acquisition, Technology, and Logistics to award a contract for the design, construction, and operation of a pilot facility for a technology if an independent evaluation and certain determinations and certifications had been made, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(5), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Pilot Program for Demilitarization of Assembled Chemical Munitions__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8065\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–101, as amended by [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], which related to pilot program to identify and demonstrate not less than two alternatives to the baseline incineration process for the demilitarization of assembled chemical munitions and required the Under Secretary of Defense for Acquisition, Technology, and Logistics to report annually to congressional defense committees on activities carried out under the program, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(4)][/us/pl/111/383/s1421/b/4], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(b) \[title VIII, § 8065\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–101, as amended by [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], which related to pilot program to identify and demonstrate not less than two alternatives to the baseline incineration process for the demilitarization of assembled chemical munitions and required the Under Secretary of Defense for Acquisition, Technology, and Logistics to report annually to congressional defense committees on activities carried out under the program, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(4), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Destruction of Existing Stockpile of Lethal Chemical Agents and Munitions__ 
 
-    [Pub. L. 106–65, div. A, title I, § 141][/us/pl/106/65/s141], Oct. 5, 1999, [113 Stat. 537][/us/stat/113/537], which directed the Secretary of Defense to assess the stockpile destruction program for the purpose of reducing costs and ensuring completion in accordance with the Chemical Weapons Convention and report to Congress on actions to be taken and recommendations for legislation, and required the Comptroller General to review the program and report results to congressional defense committees, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(6)][/us/pl/111/383/s1421/b/6], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 106–65, div. A, title I][/us/pl/106/65/dA/tI], § 141, Oct. 5, 1999, [113 Stat. 537][/us/stat/113/537], which directed the Secretary of Defense to assess the stockpile destruction program for the purpose of reducing costs and ensuring completion in accordance with the Chemical Weapons Convention and report to Congress on actions to be taken and recommendations for legislation, and required the Comptroller General to review the program and report results to congressional defense committees, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(6), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
-    [Pub. L. 104–106, div. A, title I, § 152][/us/pl/104/106/s152], Feb. 10, 1996, [110 Stat. 214][/us/stat/110/214], as amended by [Pub. L. 104–201, div. A, title I, § 142][/us/pl/104/201/s142], Sept. 23, 1996, [110 Stat. 2448][/us/stat/110/2448]; [Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8065\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–102, which directed the Secretary of Defense to proceed with the program for destruction of the chemical munitions stockpile while ensuring maximum protection of the environment, the general public, and the personnel involved in the program, and required the Secretary to report to the congressional defense committees on the status of the program and recommend revisions, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(3)][/us/pl/111/383/s1421/b/3], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 104–106, div. A, title I][/us/pl/104/106/dA/tI], § 152, Feb. 10, 1996, [110 Stat. 214][/us/stat/110/214], as amended by [Pub. L. 104–201, div. A, title I][/us/pl/104/201/dA/tI], § 142, Sept. 23, 1996, [110 Stat. 2448][/us/stat/110/2448]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(b) \[title VIII, § 8065\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–102, which directed the Secretary of Defense to proceed with the program for destruction of the chemical munitions stockpile while ensuring maximum protection of the environment, the general public, and the personnel involved in the program, and required the Secretary to report to the congressional defense committees on the status of the program and recommend revisions, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(3), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Chemical Demilitarization Citizens Advisory Commissions__ 
 
-    [Pub. L. 102–484, div. A, title I, § 172][/us/pl/102/484/s172], Oct. 23, 1992, [106 Stat. 2341][/us/stat/106/2341], as amended by [Pub. L. 104–106, div. A, title I, § 153(a)][/us/pl/104/106/s153/a], Feb. 10, 1996, [110 Stat. 215][/us/stat/110/215]; [Pub. L. 104–201, div. A, title X, § 1073(d)][/us/pl/104/201/s1073/d], Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658]; [Pub. L. 110–181, div. A, title IX, § 921][/us/pl/110/181/s921], Jan. 28, 2008, [122 Stat. 282][/us/stat/122/282]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 921, Oct. 14, 2008, [122 Stat. 4573][/us/stat/122/4573]; [Pub. L. 111–84, div. A, title X, § 1073(c)(8)][/us/pl/111/84/s1073/c/8], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], which directed the Secretary of the Army to establish a Chemical Demilitarization Citizens’ Advisory Commission in each State in which there existed a low-volume chemical weapons storage site in order to receive citizen and State concerns regarding the program for the disposal of lethal chemical agents and munitions, and provided for termination of each such commission after completion of closure activities or upon request of the State’s Governor, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(2)][/us/pl/111/383/s1421/b/2], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 102–484, div. A, title I][/us/pl/102/484/dA/tI], § 172, Oct. 23, 1992, [106 Stat. 2341][/us/stat/106/2341], as amended by [Pub. L. 104–106, div. A, title I][/us/pl/104/106/dA/tI], § 153(a), Feb. 10, 1996, [110 Stat. 215][/us/stat/110/215]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1073(d), Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 921, Jan. 28, 2008, [122 Stat. 282][/us/stat/122/282]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 921, Oct. 14, 2008, [122 Stat. 4573][/us/stat/122/4573]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(8), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], which directed the Secretary of the Army to establish a Chemical Demilitarization Citizens’ Advisory Commission in each State in which there existed a low-volume chemical weapons storage site in order to receive citizen and State concerns regarding the program for the disposal of lethal chemical agents and munitions, and provided for termination of each such commission after completion of closure activities or upon request of the State’s Governor, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(2), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Alternative Disposal Process for Low-Volume Sites; Revised Disposal Concept Plan__ 
 
-    [Pub. L. 102–484, div. A, title I][/us/pl/102/484], §§ 174, 175, Oct. 23, 1992, [106 Stat. 2344][/us/stat/106/2344], as amended by [Pub. L. 103–160, div. A, title I, § 155(b)][/us/pl/103/160/s155/b], Nov. 30, 1993, [107 Stat. 1579][/us/stat/107/1579], which related to use of an alternative technology process for the destruction of chemical weapons at low-volume sites and required a revised chemical weapons disposal concept plan incorporating such process if employed, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(2)][/us/pl/111/383/s1421/b/2], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 102–484, div. A, title I][/us/pl/102/484/dA/tI], §§ 174, 175, Oct. 23, 1992, [106 Stat. 2344][/us/stat/106/2344], as amended by [Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 155(b), Nov. 30, 1993, [107 Stat. 1579][/us/stat/107/1579], which related to use of an alternative technology process for the destruction of chemical weapons at low-volume sites and required a revised chemical weapons disposal concept plan incorporating such process if employed, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(2), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Sense of Congress Concerning International Consultation and Exchange Program__ 
 
-[Pub. L. 102–484, div. A, title I, § 178][/us/pl/102/484/s178], Oct. 23, 1992, [106 Stat. 2346][/us/stat/106/2346], provided that: 
+[Pub. L. 102–484, div. A, title I][/us/pl/102/484/dA/tI], § 178, Oct. 23, 1992, [106 Stat. 2346][/us/stat/106/2346], provided that: 
 
 > “It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons.”
 
 “Low-Volume Site” Defined
 
-    [Pub. L. 102–484, div. A, title I, § 180][/us/pl/102/484/s180], Oct. 23, 1992, [106 Stat. 2347][/us/stat/106/2347], which defined “low-volume site” for purposes of subtitle G (§§ 171–180) of title I of div. A of [Pub. L. 102–484][/us/pl/102/484], was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(2)][/us/pl/111/383/s1421/b/2], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 102–484, div. A, title I][/us/pl/102/484/dA/tI], § 180, Oct. 23, 1992, [106 Stat. 2347][/us/stat/106/2347], which defined “low-volume site” for purposes of subtitle G (§§ 171–180) of title I of div. A of [Pub. L. 102–484][/us/pl/102/484], was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(2), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
  __Revision of Chemical Demilitarization Program__ 
 
-    [Pub. L. 100–180, div. A, title I, § 125][/us/pl/100/180/s125], Dec. 4, 1987, [101 Stat. 1043][/us/stat/101/1043], which directed the Secretary of Defense to issue an environmental impact statement, submit to congressional committees an alternative concept plan for the chemical stockpile demilitarization program, and conduct ongoing surveillance and assessment of the stockpile, was repealed by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(1)][/us/pl/111/383/s1421/b/1], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
+    [Pub. L. 100–180, div. A, title I][/us/pl/100/180/dA/tI], § 125, Dec. 4, 1987, [101 Stat. 1043][/us/stat/101/1043], which directed the Secretary of Defense to issue an environmental impact statement, submit to congressional committees an alternative concept plan for the chemical stockpile demilitarization program, and conduct ongoing surveillance and assessment of the stockpile, was repealed by [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1421(b)(1), Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420].
 
 ----------
 
@@ -546,194 +546,194 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t25/s450b/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fl
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/99/145/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1412
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F747
-[/us/pl/100/456/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs118
+[/us/pl/100/456/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtI
 [/us/stat/102/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1934
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtI
 [/us/stat/104/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1507
-[/us/pl/102/190/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs151
+[/us/pl/102/190/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtI
 [/us/stat/105/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1313
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtI
 [/us/stat/106/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2341
-[/us/pl/103/160/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs107%2Fc
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1564
-[/us/pl/103/337/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs142
+[/us/pl/103/337/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtI
 [/us/stat/108/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2689
-[/us/pl/104/106/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb
+[/us/pl/104/106/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtI
 [/us/stat/110/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F216
-[/us/pl/104/201/s1074/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fd%2F2
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2661
-[/us/pl/105/85/s1041/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1041%2Fd
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1885
-[/us/pl/105/261/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs141
+[/us/pl/105/261/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtI
 [/us/stat/112/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1942
-[/us/pl/106/65/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs141%2Fb
+[/us/pl/106/65/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtI
 [/us/stat/113/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F537
-[/us/pl/107/107/s1048/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fi%2F4
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1229
-[/us/pl/108/375/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs931
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2031
-[/us/pl/109/163/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs921%2Fa
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3410
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F284
-[/us/pl/111/383/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fa
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4412
-[/us/pl/112/239/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa
+[/us/pl/112/239/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXIV
 [/us/stat/126/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2049
-[/us/pl/114/92/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1411
+[/us/pl/114/92/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXIV
 [/us/stat/129/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1083
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/109/163/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs921
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/112/239/s1421/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa%2F1
-[/us/pl/112/239/s1421/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa%2F2
-[/us/pl/112/239/s1421/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa%2F3
-[/us/pl/111/383/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t50/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1521
-[/us/pl/110/181/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs924
-[/us/pl/110/181/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs923
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/65/s1067/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F11
-[/us/pl/106/65/s141/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs141%2Fb%2F1%2FA
-[/us/pl/106/65/s141/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs141%2Fb%2F1%2FB
-[/us/pl/106/65/s141/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs141%2Fb%2F2
-[/us/pl/106/65/s141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs141%2Fb%2F3
-[/us/pl/106/65/s1067/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F11
-[/us/pl/105/261/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs141%2Fa
-[/us/pl/105/261/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs141%2Fb
-[/us/pl/105/261/s141/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs141%2Fc%2F3
-[/us/pl/105/261/s141/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs141%2Fc%2F1
-[/us/pl/105/261/s141/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs141%2Fc%2F2
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/102/484/s172/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs172%2Fg
 [/us/usc/t50/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1521
-[/us/pl/104/106/s1502/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fc%2F6
-[/us/pl/104/106/s153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fc
-[/us/pl/104/106/s153/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F1
-[/us/pl/104/201/s1074/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fd%2F2%2FA
-[/us/pl/104/106/s153/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F2%2FA
-[/us/pl/104/201/s1074/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fd%2F2%2FB
-[/us/pl/104/201/s1074/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fd%2F2%2FC
-[/us/pl/104/106/s153/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F2%2FB%2Fi
-[/us/pl/104/106/s153/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F2%2FB%2Fii
-[/us/pl/104/106/s153/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F2%2FB%2Fiii
-[/us/pl/104/201/s1074/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fd%2F2%2FC
-[/us/pl/104/106/s153/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F4
-[/us/pl/104/106/s153/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F5
-[/us/pl/104/106/s153/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fb%2F3
-[/us/pl/104/106/s1502/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fc%2F6
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/102/484/s179/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs179%2F1
-[/us/pl/102/484/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs171
-[/us/pl/102/484/s179/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs179%2F2
-[/us/pl/102/484/s179/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs179%2F3%2FA
-[/us/pl/102/484/s179/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs179%2F3%2FB
-[/us/pl/102/484/s179/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs179%2F3%2FD
-[/us/pl/102/190/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs151%2Fa
-[/us/pl/102/190/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs151%2Fb
-[/us/pl/101/510/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs171%2Fb
-[/us/pl/101/510/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs172
-[/us/pl/101/510/s171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs171%2Fa
-[/us/pl/101/510/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs171%2Fb
-[/us/pl/100/456/s118/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs118%2Fa%2F1
-[/us/pl/100/456/s118/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs118%2Fa%2F2
-[/us/pl/100/456/s118/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs118%2Fa%2F3
-[/us/pl/100/456/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs118%2Fb
-[/us/pl/109/163/s921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs921%2Fb
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3410
-[/us/pl/110/181/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs922
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F282
-[/us/pl/111/383/s1421/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F10
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/stat/120/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2359
-[/us/pl/111/383/s1421/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F10
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/110/116/s8119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2Fs8119
+[/us/pl/110/116/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2FdA%2FtVIII
 [/us/stat/121/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1340
-[/us/pl/111/383/s1421/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F9
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/109/364/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs923
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2360
-[/us/pl/111/383/s1421/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F8
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/107/248/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8122
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1566
-[/us/pl/105/261/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs142
-[/us/pl/111/383/s1421/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F7
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/105/261/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs142
+[/us/pl/105/261/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtI
 [/us/stat/112/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1943
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
-[/us/pl/111/383/s1421/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F5
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-71
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
-[/us/pl/111/383/s1421/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F4
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/106/65/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs141
+[/us/pl/106/65/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtI
 [/us/stat/113/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F537
-[/us/pl/111/383/s1421/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F6
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/104/106/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs152
+[/us/pl/104/106/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtI
 [/us/stat/110/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F214
-[/us/pl/104/201/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs142
+[/us/pl/104/201/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtI
 [/us/stat/110/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2448
-[/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-71
-[/us/pl/111/383/s1421/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F3
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/102/484/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs172
+[/us/pl/102/484/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtI
 [/us/stat/106/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2341
-[/us/pl/104/106/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs153%2Fa
+[/us/pl/104/106/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtI
 [/us/stat/110/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F215
-[/us/pl/104/201/s1073/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1073%2Fd
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2658
-[/us/pl/110/181/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs921
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F282
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4573
-[/us/pl/111/84/s1073/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F8
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/pl/111/383/s1421/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F2
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtI
 [/us/stat/106/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2344
-[/us/pl/103/160/s155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs155%2Fb
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1579
-[/us/pl/111/383/s1421/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F2
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/102/484/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs178
+[/us/pl/102/484/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtI
 [/us/stat/106/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2346
-[/us/pl/102/484/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs180
+[/us/pl/102/484/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtI
 [/us/stat/106/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2347
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/111/383/s1421/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F2
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
-[/us/pl/100/180/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs125
+[/us/pl/100/180/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtI
 [/us/stat/101/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1043
-[/us/pl/111/383/s1421/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1421%2Fb%2F1
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4420
 
 

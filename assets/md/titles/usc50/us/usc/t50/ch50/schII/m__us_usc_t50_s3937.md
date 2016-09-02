@@ -63,7 +63,7 @@
 
         Whoever knowingly violates subsection (a) shall be fined as provided in title 18, imprisoned for not more than one year, or both.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 207, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2844][/us/stat/117/2844]; amended [Pub. L. 110–289, div. B, title II, § 2203(b)][/us/pl/110/289/s2203/b], July 30, 2008, [122 Stat. 2849][/us/stat/122/2849]; [Pub. L. 110–389, title VIII, § 807][/us/pl/110/389/s807], Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–275, title III, § 303(b)(1)][/us/pl/111/275/s303/b/1], Oct. 13, 2010, [124 Stat. 2877][/us/stat/124/2877].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 207, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2844][/us/stat/117/2844]; amended [Pub. L. 110–289, div. B, title II][/us/pl/110/289/dB/tII], § 2203(b), July 30, 2008, [122 Stat. 2849][/us/stat/122/2849]; [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 807, Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(b)(1), Oct. 13, 2010, [124 Stat. 2877][/us/stat/124/2877].)
 
  __Codification__ 
 
@@ -77,9 +77,9 @@
 
     2010—Subsec. (f). [Pub. L. 111–275][/us/pl/111/275] struck out subsec. (f). Text read as follows: “The penalties provided under subsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages.”
 
-    2008—Subsec. (a)(1). [Pub. L. 110–289, § 2203(b)(1)][/us/pl/110/289/s2203/b/1], substituted “in excess of 6 percent—” for “in excess of 6 percent per year during the period of military service.” and added subpars. (A) and (B).
+    2008—Subsec. (a)(1). [Pub. L. 110–289][/us/pl/110/289], § 2203(b)(1), substituted “in excess of 6 percent—” for “in excess of 6 percent per year during the period of military service.” and added subpars. (A) and (B).
 
-    Subsec. (d). [Pub. L. 110–289, § 2203(b)(2)][/us/pl/110/289/s2203/b/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “As used in this section, the term ‘interest’ includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability.”
+    Subsec. (d). [Pub. L. 110–289][/us/pl/110/289], § 2203(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “As used in this section, the term ‘interest’ includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability.”
 
     Subsecs. (e), (f). [Pub. L. 110–389][/us/pl/110/389] added subsecs. (e) and (f).
 
@@ -91,13 +91,13 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2844
-[/us/pl/110/289/s2203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2203%2Fb
+[/us/pl/110/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtII
 [/us/stat/122/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2849
-[/us/pl/110/389/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs807
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4189
-[/us/pl/111/275/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fb%2F1
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2877
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
@@ -105,8 +105,8 @@
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s3936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3936
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/110/289/s2203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2203%2Fb%2F1
-[/us/pl/110/289/s2203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2203%2Fb%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 
 

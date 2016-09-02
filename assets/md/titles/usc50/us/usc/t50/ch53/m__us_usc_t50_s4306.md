@@ -17,7 +17,7 @@
 
     The President is authorized to appoint, prescribe the duties of, and fix the salary of an official to be known as the alien property custodian, who shall be empowered to receive all money and property in the United States due or belonging to an enemy, or ally of enemy, which may be paid, conveyed, transferred, assigned, or delivered to said custodian under the provisions of this chapter; and to hold, administer, and account for the same under the general direction of the President and as provided in this chapter. The President may further employ in the District of Columbia and elsewhere and fix the compensation of such clerks, attorneys, investigators, accountants, and other employees as he may find necessary for the due administration of the provisions of this chapter; Provided, That such clerks, investigators, accountants, and other employees shall be appointed from lists of eligibles to be supplied by the Civil Service Commission  <sup>\[1\]</sup>  <sup><sup> 1 See Transfer of Functions note below. </sup></sup>  and in accordance with the civil-service law.
 
-([Oct. 6, 1917, ch. 106, § 6][/us/act/1917-10-06/ch106/s6], [40 Stat. 415][/us/stat/40/415]; [Pub. L. 92–310, title II, § 235][/us/pl/92/310/s235], June 6, 1972, [86 Stat. 214][/us/stat/86/214]; [Pub. L. 94–273, § 11(5)][/us/pl/94/273/s11/5], Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 100–418, title II, § 2501(b)][/us/pl/100/418/s2501/b], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 6, [40 Stat. 415][/us/stat/40/415]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 235, June 6, 1972, [86 Stat. 214][/us/stat/86/214]; [Pub. L. 94–273][/us/pl/94/273], § 11(5), Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2501(b), Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371].)
 
  __References in Text__ 
 
@@ -122,13 +122,13 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs6
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
-[/us/pl/92/310/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs235
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F214
-[/us/pl/94/273/s11/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs11%2F5
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/100/418/s2501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2501%2Fb
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

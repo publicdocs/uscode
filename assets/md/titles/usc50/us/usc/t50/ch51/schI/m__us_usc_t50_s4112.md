@@ -35,7 +35,7 @@
 
         Any claim allowed under the provisions of this section shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established by [section 4110 of this title][/us/usc/t50/s4110].
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 15, as added [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 103, [68 Stat. 1034][/us/stat/68/1034]; amended [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 15, as added [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 103, [68 Stat. 1034][/us/stat/68/1034]; amended [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/act/1954-08-31/ch1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1162
 [/us/stat/68/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1034
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/usc/t50/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4105

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law or of this chapter, nothing in this chapter shall be construed as recognition of any claim of Mexico or any other country or any Indian tribe (except as expressly provided in this chapter with respect to the Aleut tribe of Alaska) to any territory or other property of the United States, nor shall this chapter be construed as providing any basis for compensation in connection with any such claim.
 
-([Pub. L. 100–383, title III, § 301][/us/pl/100/383/s301], Aug. 10, 1988, [102 Stat. 916][/us/stat/102/916].)
+([Pub. L. 100–383, title III][/us/pl/100/383/tIII], § 301, Aug. 10, 1988, [102 Stat. 916][/us/stat/102/916].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/383/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs301
+[/us/pl/100/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtIII
 [/us/stat/102/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F916
 
 

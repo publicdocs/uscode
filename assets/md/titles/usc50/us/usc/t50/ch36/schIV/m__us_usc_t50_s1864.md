@@ -37,7 +37,7 @@
 
             The term “electronic communication service provider” has the meaning given that term in [section 1881(b)(4) of this title][/us/usc/t50/s1881/b/4].
 
-([Pub. L. 114–113, div. M, title III, § 307][/us/pl/114/113/s307], Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916].)
+([Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 307, Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Definitions__ 
 
-    For definition of “congressional intelligence committees” as used in this section, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].
+    For definition of “congressional intelligence committees” as used in this section, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].
 
 ----------
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t50/s1861/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1861%2Fk
 [/us/usc/t50/s1881/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881%2Fb%2F4
-[/us/pl/114/113/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs307
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2916
-[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/pl/114/113/dM/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 
 

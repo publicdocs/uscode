@@ -17,7 +17,7 @@
 
     The President in every possible instance shall consult with Congress before introducing United States Armed Forces into hostilities or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and after every such introduction shall consult regularly with the Congress until United States Armed Forces are no longer engaged in hostilities or have been removed from such situations.
 
-([Pub. L. 93–148, § 3][/us/pl/93/148/s3], Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555].)
+([Pub. L. 93–148][/us/pl/93/148], § 3, Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/148/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs3
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
 
 

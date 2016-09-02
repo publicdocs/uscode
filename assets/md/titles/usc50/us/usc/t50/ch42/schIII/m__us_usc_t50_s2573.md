@@ -27,7 +27,7 @@
 
         (B) the interdiction or discovery of a nuclear device or weapon or nuclear material.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4308][/us/pl/107/314/s4308], as added [Pub. L. 110–181, div. C, title XXXI, § 3129(a)(1)][/us/pl/110/181/s3129/a/1], Jan. 28, 2008, [122 Stat. 584][/us/stat/122/584].)
+([Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4308, as added [Pub. L. 110–181, div. C, title XXXI][/us/pl/110/181/dC/tXXXI], § 3129(a)(1), Jan. 28, 2008, [122 Stat. 584][/us/stat/122/584].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4308
-[/us/pl/110/181/s3129/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3129%2Fa%2F1
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/110/181/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXI
 [/us/stat/122/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F584
 
 

@@ -17,7 +17,7 @@
 
     In any case in which any money is payable as a result of the enactment of this subchapter to any person who is prevented from accepting such money by the rules, regulations, or customs of the church or the religious order or organization of which he is a member, such money shall be paid, upon the request of such person, to such church or to such religious order or organization.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 14, [62 Stat. 1247][/us/stat/62/1247]; [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 14, [62 Stat. 1247][/us/stat/62/1247]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1247
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240

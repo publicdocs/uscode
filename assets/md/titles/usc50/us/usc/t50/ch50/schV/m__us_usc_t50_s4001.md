@@ -75,7 +75,7 @@
 
             The term “tax jurisdiction” means a State or a political subdivision of a State.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 511, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2858][/us/stat/117/2858]; amended [Pub. L. 111–97, § 3(a)][/us/pl/111/97/s3/a], Nov. 11, 2009, [123 Stat. 3008][/us/stat/123/3008].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 511, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2858][/us/stat/117/2858]; amended [Pub. L. 111–97][/us/pl/111/97], § 3(a), Nov. 11, 2009, [123 Stat. 3008][/us/stat/123/3008].)
 
  __Codification__ 
 
@@ -87,29 +87,29 @@
 
     Prior sections 512 to 514 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], were omitted in the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
-    Section 512, [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1190][/us/stat/54/1190]; [Oct. 6, 1942, ch. 581, § 16][/us/act/1942-10-06/ch581/s16], [56 Stat. 776][/us/stat/56/776], related to extension of benefits to persons serving with war allies of the United States. See [section 3914 of this title][/us/usc/t50/s3914].
+    Section 512, [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1190][/us/stat/54/1190]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 16, [56 Stat. 776][/us/stat/56/776], related to extension of benefits to persons serving with war allies of the United States. See [section 3914 of this title][/us/usc/t50/s3914].
 
     Section 513, [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1190][/us/stat/54/1190], related to deferral of income tax collection and the statute of limitations. See [section 4000 of this title][/us/usc/t50/s4000].
 
-    Section 514, [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, as added [Oct. 6, 1942, ch. 581, § 17][/us/act/1942-10-06/ch581/s17], [56 Stat. 777][/us/stat/56/777]; amended [July 3, 1944, ch. 397, § 1][/us/act/1944-07-03/ch397/s1], [58 Stat. 722][/us/stat/58/722]; [Pub. L. 87–771][/us/pl/87/771], Oct. 9, 1962, [76 Stat. 768][/us/stat/76/768]; [Pub. L. 102–12, § 9(24)][/us/pl/102/12/s9/24], Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to residence for tax purposes. See [section 4001 of this title][/us/usc/t50/s4001].
+    Section 514, [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, as added [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 17, [56 Stat. 777][/us/stat/56/777]; amended [July 3, 1944, ch. 397][/us/act/1944-07-03/ch397], § 1, [58 Stat. 722][/us/stat/58/722]; [Pub. L. 87–771][/us/pl/87/771], Oct. 9, 1962, [76 Stat. 768][/us/stat/76/768]; [Pub. L. 102–12][/us/pl/102/12], § 9(24), Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to residence for tax purposes. See [section 4001 of this title][/us/usc/t50/s4001].
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–97, § 3(a)(1)][/us/pl/111/97/s3/a/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2009—Subsec. (a). [Pub. L. 111–97][/us/pl/111/97], § 3(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (c). [Pub. L. 111–97, § 3(a)(3)][/us/pl/111/97/s3/a/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 111–97][/us/pl/111/97], § 3(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 111–97, § 3(a)(2)][/us/pl/111/97/s3/a/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 111–97][/us/pl/111/97], § 3(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 111–97, § 3(a)(4)(A)][/us/pl/111/97/s3/a/4/A], inserted “or the spouse of a servicemember” after “The personal property of a servicemember”.
+    Subsec. (d)(1). [Pub. L. 111–97][/us/pl/111/97], § 3(a)(4)(A), inserted “or the spouse of a servicemember” after “The personal property of a servicemember”.
 
-    Subsec. (d)(2). [Pub. L. 111–97, § 3(a)(4)(B)][/us/pl/111/97/s3/a/4/B], inserted “or the spouse’s” after “servicemember’s”.
+    Subsec. (d)(2). [Pub. L. 111–97][/us/pl/111/97], § 3(a)(4)(B), inserted “or the spouse’s” after “servicemember’s”.
 
-    Subsecs. (e) to (g). [Pub. L. 111–97, § 3(a)(2)][/us/pl/111/97/s3/a/2], redesignated subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 111–97][/us/pl/111/97], § 3(a)(2), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–97, § 3(b)][/us/pl/111/97/s3/b], Nov. 11, 2009, [123 Stat. 3008][/us/stat/123/3008], provided that: 
+[Pub. L. 111–97][/us/pl/111/97], § 3(b), Nov. 11, 2009, [123 Stat. 3008][/us/stat/123/3008], provided that: 
 
 > “Subsections (a)(2) and (c) of section 511 of such Act \[Servicemembers Civil Relief Act\] (50 U.S.C. App. 571) \[now [50 U.S.C. 4001][/us/usc/t50/s4001]\], as added by subsection (a) of this section, and the amendments made to such section 511 by subsection (a)(4) of this section \[amending this section\], shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act \[Nov. 11, 2009\].”
 
@@ -121,9 +121,9 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2858
-[/us/pl/111/97/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
 [/us/stat/123/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3008
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1189
@@ -132,29 +132,29 @@
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1190
-[/us/act/1942-10-06/ch581/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs16
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F776
 [/us/usc/t50/s3914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3914
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1190
 [/us/usc/t50/s4000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4000
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/act/1942-10-06/ch581/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs17
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F777
-[/us/act/1944-07-03/ch397/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-03%2Fch397%2Fs1
+[/us/act/1944-07-03/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-03%2Fch397
 [/us/stat/58/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F722
 [/us/pl/87/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F771
 [/us/stat/76/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F768
-[/us/pl/102/12/s9/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F24
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F41
 [/us/usc/t50/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4001
-[/us/pl/111/97/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa%2F1
-[/us/pl/111/97/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa%2F3
-[/us/pl/111/97/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa%2F2
-[/us/pl/111/97/s3/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa%2F4%2FA
-[/us/pl/111/97/s3/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa%2F4%2FB
-[/us/pl/111/97/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fa%2F2
-[/us/pl/111/97/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97%2Fs3%2Fb
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
+[/us/pl/111/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F97
 [/us/stat/123/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3008
 [/us/usc/t50/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4001
 

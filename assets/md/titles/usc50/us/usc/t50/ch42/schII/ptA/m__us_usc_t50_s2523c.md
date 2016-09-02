@@ -29,7 +29,7 @@
 
     (6) a life-cycle cost estimate for the alternative selected that details the overall cost, scope, and schedule planning assumptions.
 
-([Pub. L. 113–235, div. D, title III, § 308][/us/pl/113/235/s308], Dec. 16, 2014, [128 Stat. 2324][/us/stat/128/2324].)
+([Pub. L. 113–235, div. D, title III][/us/pl/113/235/dD/tIII], § 308, Dec. 16, 2014, [128 Stat. 2324][/us/stat/128/2324].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
-[/us/pl/113/235/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs308
+[/us/pl/113/235/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtIII
 [/us/stat/128/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2324
 
 

@@ -139,7 +139,7 @@
 
         (6) The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
-([Pub. L. 108–375, div. C, title XXXI, § 3132][/us/pl/108/375/s3132], Oct. 28, 2004, [118 Stat. 2166][/us/stat/118/2166]; [Pub. L. 109–364, div. C, title XXXI, § 3113][/us/pl/109/364/s3113], Oct. 17, 2006, [120 Stat. 2504][/us/stat/120/2504]; [Pub. L. 112–239, div. C, title XXXI, § 3118][/us/pl/112/239/s3118], Jan. 2, 2013, [126 Stat. 2173][/us/stat/126/2173].)
+([Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3132, Oct. 28, 2004, [118 Stat. 2166][/us/stat/118/2166]; [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3113, Oct. 17, 2006, [120 Stat. 2504][/us/stat/120/2504]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3118, Jan. 2, 2013, [126 Stat. 2173][/us/stat/126/2173].)
 
  __Codification__ 
 
@@ -147,9 +147,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (f)(2). [Pub. L. 112–239, § 3118(a)][/us/pl/112/239/s3118/a], amended par. (2) generally. Prior to amendment, par. (2) related to programs covered and listed certain international programs within the Global Threat Reduction Initiative.
+    2013—Subsec. (f)(2). [Pub. L. 112–239][/us/pl/112/239], § 3118(a), amended par. (2) generally. Prior to amendment, par. (2) related to programs covered and listed certain international programs within the Global Threat Reduction Initiative.
 
-    Subsec. (f)(7). [Pub. L. 112–239, § 3118(b)][/us/pl/112/239/s3118/b], substituted “December 31, 2018” for “December 31, 2013”.
+    Subsec. (f)(7). [Pub. L. 112–239][/us/pl/112/239], § 3118(b), substituted “December 31, 2018” for “December 31, 2013”.
 
     2006—Subsecs. (f), (g). [Pub. L. 109–364][/us/pl/109/364] added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -165,14 +165,14 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/108/375/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3132
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2166
-[/us/pl/109/364/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3113
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2504
-[/us/pl/112/239/s3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3118
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2173
-[/us/pl/112/239/s3118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3118%2Fa
-[/us/pl/112/239/s3118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3118%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
 [/us/pl/108/375/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3

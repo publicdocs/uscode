@@ -17,7 +17,7 @@
 
     Whoever willfully violates, attempts to violate, or conspires to violate, any provision of this chapter or any regulation or order issued or any terms of a license granted thereunder shall, upon conviction thereof, be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both, except that whoever commits such an offense with intent to injure the United States or with intent to secure an advantage to any foreign nation, shall upon conviction thereof, be punished by a fine of not more than $20,000 or by imprisonment for not more than twenty years, or both.
 
-([Mar. 3, 1925, ch. 426, § 13][/us/act/1925-03-03/ch426/s13], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 923][/us/stat/74/923].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 13, as added [Pub. L. 86–777][/us/pl/86/777], § 2, Sept. 13, 1960, [74 Stat. 923][/us/stat/74/923].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch426/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs13
-[/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
 [/us/stat/74/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F923
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Defense may participate in a training program carried out jointly by the Secretary of Defense and the Director of the Federal Bureau of Investigation in order to expand and improve United States efforts to deter the possible proliferation and acquisition of weapons of mass destruction by organized crime organizations in Eastern Europe, the Baltic countries, states of the former Soviet Union, and in other countries in which, as determined by the Secretary of Defense, there exists a significant threat of such proliferation and acquisition.
 
-([Pub. L. 103–337, div. A, title XV, § 1504(e)(3)(A)][/us/pl/103/337/s1504/e/3/A], Oct. 5, 1994, [108 Stat. 2918][/us/stat/108/2918]; [Pub. L. 108–375, div. A, title XII, § 1211(b)][/us/pl/108/375/s1211/b], Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087].)
+([Pub. L. 103–337, div. A, title XV][/us/pl/103/337/dA/tXV], § 1504(e)(3)(A), Oct. 5, 1994, [108 Stat. 2918][/us/stat/108/2918]; [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1211(b), Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1504/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1504%2Fe%2F3%2FA
+[/us/pl/103/337/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXV
 [/us/stat/108/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2918
-[/us/pl/108/375/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1211%2Fb
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2087
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

@@ -127,7 +127,7 @@
 
             The term “professional” includes occupational.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 703, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2862][/us/stat/117/2862].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 703, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2862][/us/stat/117/2862].)
 
  __Codification__ 
 
@@ -135,7 +135,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 703 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 102–12, § 5(b)][/us/pl/102/12/s5/b], Mar. 18, 1991, [105 Stat. 37][/us/stat/105/37], related to reinstatement of health coverage upon release from service, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4024 of this title][/us/usc/t50/s4024].
+    A prior section 703 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 102–12][/us/pl/102/12], § 5(b), Mar. 18, 1991, [105 Stat. 37][/us/stat/105/37], related to reinstatement of health coverage upon release from service, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4024 of this title][/us/usc/t50/s4024].
 
 ----------
 
@@ -146,10 +146,10 @@
 
 [/us/usc/t10/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd%2F1
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2862
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/102/12/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs5%2Fb
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F37
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4024

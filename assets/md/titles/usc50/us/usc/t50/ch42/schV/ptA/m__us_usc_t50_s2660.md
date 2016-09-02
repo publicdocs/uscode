@@ -59,17 +59,17 @@
 
         In carrying out this section, the Secretary may not conduct any experiments that produce a nuclear yield.
 
-([Pub. L. 107–314, div. D, title XLV, § 4509][/us/pl/107/314/s4509], as added [Pub. L. 112–239, div. C, title XXXI, § 3115(a)][/us/pl/112/239/s3115/a], Jan. 2, 2013, [126 Stat. 2172][/us/stat/126/2172]; amended [Pub. L. 113–291, div. C, title XXXI, § 3111][/us/pl/113/291/s3111], Dec. 19, 2014, [128 Stat. 3884][/us/stat/128/3884].)
+([Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4509, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3115(a), Jan. 2, 2013, [126 Stat. 2172][/us/stat/126/2172]; amended [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3111, Dec. 19, 2014, [128 Stat. 3884][/us/stat/128/3884].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 3111(a)][/us/pl/113/291/s3111/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator shall develop and carry out a plan for the national security laboratories and nuclear weapons production facilities to design and build prototypes of nuclear weapons to further intelligence estimates with respect to foreign nuclear weapons activities.”
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 3111(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator shall develop and carry out a plan for the national security laboratories and nuclear weapons production facilities to design and build prototypes of nuclear weapons to further intelligence estimates with respect to foreign nuclear weapons activities.”
 
-    Subsec. (b). [Pub. L. 113–291, § 3111(b)(2)][/us/pl/113/291/s3111/b/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 3111(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 113–291, § 3111(c)][/us/pl/113/291/s3111/c], substituted “this section, the Secretary” for “subsection (a), the Administrator”.
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 3111(c), substituted “this section, the Secretary” for “subsection (a), the Administrator”.
 
-    [Pub. L. 113–291, § 3111(b)(1)][/us/pl/113/291/s3111/b/1], redesignated subsec. (b) as (c).
+    [Pub. L. 113–291][/us/pl/113/291], § 3111(b)(1), redesignated subsec. (b) as (c).
 
 ----------
 
@@ -80,14 +80,14 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/107/314/s4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4509
-[/us/pl/112/239/s3115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3115%2Fa
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2172
-[/us/pl/113/291/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3111
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3884
-[/us/pl/113/291/s3111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3111%2Fa
-[/us/pl/113/291/s3111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3111%2Fb%2F2
-[/us/pl/113/291/s3111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3111%2Fc
-[/us/pl/113/291/s3111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3111%2Fb%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

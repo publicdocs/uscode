@@ -23,15 +23,15 @@
 
         Information acquired from an acquisition conducted under [section 1881b of this title][/us/usc/t50/s1881b] shall be deemed to be information acquired from an electronic surveillance pursuant to subchapter I for purposes of [section 1806 of this title][/us/usc/t50/s1806].
 
-([Pub. L. 95–511, title VII, § 706][/us/pl/95/511/s706], as added [Pub. L. 110–261, title I, § 101(a)(2)][/us/pl/110/261/s101/a/2], July 10, 2008, [122 Stat. 2457][/us/stat/122/2457].)
+([Pub. L. 95–511, title VII][/us/pl/95/511/tVII], § 706, as added [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 101(a)(2), July 10, 2008, [122 Stat. 2457][/us/stat/122/2457].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 110–261, title IV, § 403(b)(1)][/us/pl/110/261/s403/b/1], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(1)][/us/pl/112/238/s2/a/1], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of this title][/us/usc/t50/s1801], effective Dec. 31, 2017, this section is repealed.
+    [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(b)(1), July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(a)(1), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of this title][/us/usc/t50/s1801], effective Dec. 31, 2017, this section is repealed.
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 110–261, title IV, § 403(b)(1)][/us/pl/110/261/s403/b/1], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(1)][/us/pl/112/238/s2/a/1], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of this title][/us/usc/t50/s1801], the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+    [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(b)(1), July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(a)(1), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of this title][/us/usc/t50/s1801], the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
 
 ----------
 
@@ -44,18 +44,18 @@
 [/us/usc/t50/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806
 [/us/usc/t50/s1881b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881b
 [/us/usc/t50/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806
-[/us/pl/95/511/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs706
-[/us/pl/110/261/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fa%2F2
+[/us/pl/95/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVII
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2457
-[/us/pl/110/261/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F1
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F1
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/110/261/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F1
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F1
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

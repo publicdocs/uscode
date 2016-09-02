@@ -53,7 +53,7 @@
 
         The Alien Property Custodian is authorized and directed (after the payment of debts under [section 4309 of this title][/us/usc/t50/s4309]) to transfer to the Secretary of the Treasury, for deposit in the special deposit account (Austrian or Hungarian, as the case may be), created by section 7 of the Settlement of War Claims Act of 1928, all money and the proceeds of all property, including all income, dividends, interest, annuities, and earnings accumulated in respect thereof, owned by the Austrian Government or any corporation all the stock of which was owned by or on behalf of the Austrian Government (including the property of the Imperial Royal Tobacco Monopoly, also known under the name of K. K. Oesterreichische Tabak Regie), or owned by the Hungarian Government or by any corporation all the stock of which was owned by or on behalf of the Hungarian Government.
 
-([Oct. 6, 1917, ch. 106, § 25][/us/act/1917-10-06/ch106/s25], as added [Mar. 10, 1928, ch. 167, § 10][/us/act/1928-03-10/ch167/s10], [45 Stat. 268][/us/stat/45/268]; amended [Feb. 21, 1929, ch. 291][/us/act/1929-02-21/ch291], [45 Stat. 1255][/us/stat/45/1255]; [Mar. 10, 1930, ch. 75, § 2][/us/act/1930-03-10/ch75/s2], [46 Stat. 84][/us/stat/46/84].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 25, as added [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 10, [45 Stat. 268][/us/stat/45/268]; amended [Feb. 21, 1929, ch. 291][/us/act/1929-02-21/ch291], [45 Stat. 1255][/us/stat/45/1255]; [Mar. 10, 1930, ch. 75][/us/act/1930-03-10/ch75], § 2, [46 Stat. 84][/us/stat/46/84].)
 
  __References in Text__ 
 
@@ -91,12 +91,12 @@
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
-[/us/act/1917-10-06/ch106/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs25
-[/us/act/1928-03-10/ch167/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs10
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F268
 [/us/act/1929-02-21/ch291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-21%2Fch291
 [/us/stat/45/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1255
-[/us/act/1930-03-10/ch75/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-03-10%2Fch75%2Fs2
+[/us/act/1930-03-10/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-03-10%2Fch75
 [/us/stat/46/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F84
 [/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F260

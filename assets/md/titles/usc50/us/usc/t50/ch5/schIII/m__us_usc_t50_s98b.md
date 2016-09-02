@@ -29,11 +29,11 @@
 
         (2) The President shall notify Congress in writing of any change proposed to be made in the quantity of any material to be stockpiled. The President may make the change after the end of the 45-day period beginning on the date of the notification. The President shall include a full explanation and justification for the proposed change with the notification.
 
-([June 7, 1939, ch. 190, § 3][/us/act/1939-06-07/ch190/s3], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 319][/us/stat/93/319]; amended [Pub. L. 100–180, div. C, title II, § 3202(a)][/us/pl/100/180/s3202/a], Dec. 4, 1987, [101 Stat. 1245][/us/stat/101/1245]; [Pub. L. 100–456, div. A, title XII, § 1233(b)(2)][/us/pl/100/456/s1233/b/2], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 102–484, div. C, title XXXIII, § 3311][/us/pl/102/484/s3311], Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 104–201, div. C, title XXXIII, § 3312(a)][/us/pl/104/201/s3312/a], Sept. 23, 1996, [110 Stat. 2857][/us/stat/110/2857].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 3, as added [Pub. L. 96–41][/us/pl/96/41], § 2(a), July 30, 1979, [93 Stat. 319][/us/stat/93/319]; amended [Pub. L. 100–180, div. C, title II][/us/pl/100/180/dC/tII], § 3202(a), Dec. 4, 1987, [101 Stat. 1245][/us/stat/101/1245]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(b)(2), Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 102–484, div. C, title XXXIII][/us/pl/102/484/dC/tXXXIII], § 3311, Oct. 23, 1992, [106 Stat. 2653][/us/stat/106/2653]; [Pub. L. 104–201, div. C, title XXXIII][/us/pl/104/201/dC/tXXXIII], § 3312(a), Sept. 23, 1996, [110 Stat. 2857][/us/stat/110/2857].)
 
  __Prior Provisions__ 
 
-    A prior section 98b, acts [June 7, 1939, ch. 190, § 3][/us/act/1939-06-07/ch190/s3], [53 Stat. 811][/us/stat/53/811]; [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 597][/us/stat/60/597]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, §§ 102, 121, [60 Stat. 815][/us/stat/60/815], 822; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 102(a), [63 Stat. 380][/us/stat/63/380]; 1953 Reorg. Plan No. 3, § 2(b), eff. June 12, 1953, 18 F.R. 3375, [67 Stat. 634][/us/stat/67/634]; 1958 Reorg. Plan No. 1, § 2, eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799]; Oct. 21, 1968, [Pub. L. 90–608, § 402][/us/pl/90/608/s402], [82 Stat. 1194][/us/stat/82/1194]; Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98e of this title][/us/usc/t50/s98e].
+    A prior section 98b, acts [June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 3, [53 Stat. 811][/us/stat/53/811]; [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 597][/us/stat/60/597]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, §§ 102, 121, [60 Stat. 815][/us/stat/60/815], 822; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 102(a), [63 Stat. 380][/us/stat/63/380]; 1953 Reorg. Plan No. 3, § 2(b), eff. June 12, 1953, 18 F.R. 3375, [67 Stat. 634][/us/stat/67/634]; 1958 Reorg. Plan No. 1, § 2, eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799]; Oct. 21, 1968, [Pub. L. 90–608][/us/pl/90/608], § 402, [82 Stat. 1194][/us/stat/82/1194]; Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98e of this title][/us/usc/t50/s98e].
 
     Provisions similar to those in this section were contained in former [section 98a of this title][/us/usc/t50/s98a] prior to repeal by [Pub. L. 96–41][/us/pl/96/41].
 
@@ -53,11 +53,11 @@
 
     1988—Subsec. (c)(1). [Pub. L. 100–456][/us/pl/100/456] substituted “December 4, 1987” for “the date of the enactment of the National Defense Stockpile Amendments of 1987”, which for purposes of codification had been translated as “December 4, 1987”, thus requiring no change in text.
 
-    1987—Subsec. (a). [Pub. L. 100–180, § 3202(a)(1)][/us/pl/100/180/s3202/a/1], substituted “Subject to subsection (c) of this section, the” for “The”.
+    1987—Subsec. (a). [Pub. L. 100–180][/us/pl/100/180], § 3202(a)(1), substituted “Subject to subsection (c) of this section, the” for “The”.
 
-    Subsec. (b). [Pub. L. 100–180, § 3202(a)(2)][/us/pl/100/180/s3202/a/2], substituted “the principles stated in [section 98a(c) of this title][/us/usc/t50/s98a/c].” for “the following principles:” and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
+    Subsec. (b). [Pub. L. 100–180][/us/pl/100/180], § 3202(a)(2), substituted “the principles stated in [section 98a(c) of this title][/us/usc/t50/s98a/c].” for “the following principles:” and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
 
-    Subsec. (c). [Pub. L. 100–180, § 3202(a)(3)][/us/pl/100/180/s3202/a/3], added subsec. (c) and struck out former subsec. (c) which read as follows: “The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a) of this section, may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision.”
+    Subsec. (c). [Pub. L. 100–180][/us/pl/100/180], § 3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a) of this section, may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision.”
 
  __Delegation of Functions__ 
 
@@ -72,18 +72,18 @@
 
 [/us/usc/t50/s98c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98c
 [/us/usc/t50/s98a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98a%2Fc
-[/us/act/1939-06-07/ch190/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs3
-[/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
-[/us/pl/100/180/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3202%2Fa
+[/us/pl/100/180/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtII
 [/us/stat/101/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1245
-[/us/pl/100/456/s1233/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Fb%2F2
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2057
-[/us/pl/102/484/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3311
+[/us/pl/102/484/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXIII
 [/us/stat/106/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2653
-[/us/pl/104/201/s3312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3312%2Fa
+[/us/pl/104/201/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXIII
 [/us/stat/110/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2857
-[/us/act/1939-06-07/ch190/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs3
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/stat/53/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F811
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
 [/us/stat/60/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F597
@@ -93,7 +93,7 @@
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
 [/us/stat/67/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F634
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
-[/us/pl/90/608/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608%2Fs402
+[/us/pl/90/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608
 [/us/stat/82/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1194
 [/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
 [/us/usc/t50/s98e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98e
@@ -103,10 +103,10 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t50/s98h–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%932%2Fb
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/100/180/s3202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3202%2Fa%2F1
-[/us/pl/100/180/s3202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3202%2Fa%2F2
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t50/s98a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98a%2Fc
-[/us/pl/100/180/s3202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3202%2Fa%2F3
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 
 

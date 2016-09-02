@@ -107,7 +107,7 @@
 
         In this section, the terms “cost estimate”, “critical cost growth threshold”, “current Baseline Estimate”, “major system”, and “total acquisition cost” have the meaning given those terms in [section 3101(a) of this title][/us/usc/t50/s3101/a].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506F, as added [Pub. L. 111–259, title III, § 324(a)][/us/pl/111/259/s324/a], Oct. 7, 2010, [124 Stat. 2679][/us/stat/124/2679].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506F, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 324(a), Oct. 7, 2010, [124 Stat. 2679][/us/stat/124/2679].)
 
  __Codification__ 
 
@@ -128,7 +128,7 @@
 [/us/usc/t50/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3101
 [/us/usc/t50/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3101%2Fa
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs324%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2679
 [/us/usc/t50/s415a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%938
 

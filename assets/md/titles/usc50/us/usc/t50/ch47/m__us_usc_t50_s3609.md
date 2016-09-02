@@ -59,7 +59,7 @@
 
         (3) In this subsection, the term “crime of violence” has the meaning given that term in [section 16 of title 18][/us/usc/t18/s16].
 
-([Pub. L. 86–36, § 11][/us/pl/86/36/s11], as added [Pub. L. 96–450, title IV, § 402(a)(1)][/us/pl/96/450/s402/a/1], Oct. 14, 1980, [94 Stat. 1978][/us/stat/94/1978]; amended [Pub. L. 107–108, title V, § 506][/us/pl/107/108/s506], Dec. 28, 2001, [115 Stat. 1406][/us/stat/115/1406]; [Pub. L. 107–306, title VIII, § 841(f)][/us/pl/107/306/s841/f], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–177, title III, § 377(c)][/us/pl/108/177/s377/c], title V, § 501, Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630], 2633; [Pub. L. 112–87, title IV, § 421][/us/pl/112/87/s421], Jan. 3, 2012, [125 Stat. 1893][/us/stat/125/1893].)
+([Pub. L. 86–36][/us/pl/86/36], § 11, as added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 402(a)(1), Oct. 14, 1980, [94 Stat. 1978][/us/stat/94/1978]; amended [Pub. L. 107–108, title V][/us/pl/107/108/tV], § 506, Dec. 28, 2001, [115 Stat. 1406][/us/stat/115/1406]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 841(f), Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 377(c), title V, § 501, Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630], 2633; [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 421, Jan. 3, 2012, [125 Stat. 1893][/us/stat/125/1893].)
 
  __Codification__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(5). [Pub. L. 112–87, § 421(a)][/us/pl/112/87/s421/a], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Not later than July 1 each year through 2004, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.”
+    2012—Subsec. (a)(5). [Pub. L. 112–87][/us/pl/112/87], § 421(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Not later than July 1 each year through 2004, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.”
 
-    Subsec. (d)(1)(D). [Pub. L. 112–87, § 421(b)][/us/pl/112/87/s421/b], added subpar. (D).
+    Subsec. (d)(1)(D). [Pub. L. 112–87][/us/pl/112/87], § 421(b), added subpar. (D).
 
-    2003—Subsec. (a)(1). [Pub. L. 108–177, § 377(c)(1)][/us/pl/108/177/s377/c/1], substituted “officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40][/us/usc/t40/s1315/b/2]” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ ([40 U.S.C. 318][/us/usc/t40/s318])”.
+    2003—Subsec. (a)(1). [Pub. L. 108–177][/us/pl/108/177], § 377(c)(1), substituted “officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40][/us/usc/t40/s1315/b/2]” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ ([40 U.S.C. 318][/us/usc/t40/s318])”.
 
-    Subsec. (b). [Pub. L. 108–177, § 377(c)(2)][/us/pl/108/177/s377/c/2], substituted “[section 1315(c)(2) of title 40][/us/usc/t40/s1315/c/2]” for “the fourth section of the Act referred to in subsection (a) ([40 U.S.C. 318c][/us/usc/t40/s318c])”.
+    Subsec. (b). [Pub. L. 108–177][/us/pl/108/177], § 377(c)(2), substituted “[section 1315(c)(2) of title 40][/us/usc/t40/s1315/c/2]” for “the fourth section of the Act referred to in subsection (a) ([40 U.S.C. 318c][/us/usc/t40/s318c])”.
 
-    Subsec. (d). [Pub. L. 108–177, § 501][/us/pl/108/177/s501], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–177][/us/pl/108/177], § 501, added subsec. (d).
 
     2002—Subsec. (a)(5). [Pub. L. 107–306][/us/pl/107/306] inserted “through 2004” after “Not later than July 1 each year”.
 
@@ -92,27 +92,27 @@
 [/us/usc/t40/s1315/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315%2Fc%2F2
 [/us/usc/t28/s2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2679
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
-[/us/pl/86/36/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs11
-[/us/pl/96/450/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs402%2Fa%2F1
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1978
-[/us/pl/107/108/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs506
+[/us/pl/107/108/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtV
 [/us/stat/115/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1406
-[/us/pl/107/306/s841/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs841%2Ff
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2432
-[/us/pl/108/177/s377/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fc
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2630
-[/us/pl/112/87/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs421
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1893
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
-[/us/pl/112/87/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs421%2Fa
-[/us/pl/112/87/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs421%2Fb
-[/us/pl/108/177/s377/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fc%2F1
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t40/s1315/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315%2Fb%2F2
 [/us/usc/t40/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs318
-[/us/pl/108/177/s377/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fc%2F2
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t40/s1315/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315%2Fc%2F2
 [/us/usc/t40/s318c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs318c
-[/us/pl/108/177/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs501
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/usc/t40/s318b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs318b

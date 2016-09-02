@@ -105,7 +105,7 @@
 
             The term “national security letter” has the meaning given that term under [section 1873 of this title][/us/usc/t50/s1873].
 
-([Pub. L. 95–511, title VI, § 604][/us/pl/95/511/s604], as added [Pub. L. 114–23, title VI, § 603(a)][/us/pl/114/23/s603/a], June 2, 2015, [129 Stat. 295][/us/stat/129/295].)
+([Pub. L. 95–511, title VI][/us/pl/95/511/tVI], § 604, as added [Pub. L. 114–23, title VI][/us/pl/114/23/tVI], § 603(a), June 2, 2015, [129 Stat. 295][/us/stat/129/295].)
 
  __References in Text__ 
 
@@ -122,8 +122,8 @@
 [/us/usc/t50/s1861/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1861%2Fb%2F2%2FC
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
 [/us/usc/t50/s1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1873
-[/us/pl/95/511/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs604
-[/us/pl/114/23/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs603%2Fa
+[/us/pl/95/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVI
+[/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F295
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783

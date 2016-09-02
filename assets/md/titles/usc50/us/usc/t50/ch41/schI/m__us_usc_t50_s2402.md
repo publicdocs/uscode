@@ -83,7 +83,7 @@
 
         (2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3212][/us/pl/106/65/s3212], Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, §§ 3152(b), 3159(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464, 1654A–469; [Pub. L. 107–107, div. A, title X, § 1048(i)(12)][/us/pl/107/107/s1048/i/12], Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230]; [Pub. L. 108–375, div. A, title IX, § 902(e)][/us/pl/108/375/s902/e], Oct. 28, 2004, [118 Stat. 2025][/us/stat/118/2025]; [Pub. L. 110–417, div. C, title XXXI, § 3111][/us/pl/110/417/s3111], Oct. 14, 2008, [122 Stat. 4753][/us/stat/122/4753]; [Pub. L. 112–239, div. C, title XXXI, § 3132(d)(1)][/us/pl/112/239/s3132/d/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI, § 3145(a)][/us/pl/113/66/s3145/a], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3212, Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, §§ 3152(b), 3159(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464, 1654A–469; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(i)(12), Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230]; [Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 902(e), Oct. 28, 2004, [118 Stat. 2025][/us/stat/118/2025]; [Pub. L. 110–417, div. C, title XXXI][/us/pl/110/417/dC/tXXXI], § 3111, Oct. 14, 2008, [122 Stat. 4753][/us/stat/122/4753]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3132(d)(1), Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(a), Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __Amendments__ 
 
@@ -97,13 +97,13 @@
 
     2001—Subsecs. (e), (f). [Pub. L. 107–107][/us/pl/107/107] redesignated subsec. (e), relating to reorganization authority, as (f).
 
-    2000—Subsec. (e). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3159(a)\], added subsec. (e) relating to reorganization authority.
+    2000—Subsec. (e). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3159(a)\], added subsec. (e) relating to reorganization authority.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
 
  __Technology Infrastructure Pilot Program__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3161\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–470, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3161\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–470, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -242,19 +242,19 @@
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t50/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481
-[/us/pl/106/65/s3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3212
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F957
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/i/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fi%2F12
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1230
-[/us/pl/108/375/s902/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs902%2Fe
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2025
-[/us/pl/110/417/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3111
+[/us/pl/110/417/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXI
 [/us/stat/122/4753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4753
-[/us/pl/112/239/s3132/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2187
-[/us/pl/113/66/s3145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fa
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132
@@ -264,9 +264,9 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

@@ -87,7 +87,7 @@
 
         The Director of the National Security Agency, on behalf of the Secretary of Defense, may, without regard to [section 4109(a)(2)(B) of title 5][/us/usc/t5/s4109/a/2/B], pay travel, transportation, storage, and subsistence expenses under chapter 57 of such title to civilian and military personnel of the Department of Defense who are assigned to duty outside the United States for a period of one year or longer which involves cryptologic training, language training, or related disciplines.
 
-([Pub. L. 86–36, § 10][/us/pl/86/36/s10], as added [Pub. L. 96–450, title IV, § 402(a)(1)][/us/pl/96/450/s402/a/1], Oct. 14, 1980, [94 Stat. 1978][/us/stat/94/1978]; amended [Pub. L. 97–89, title VI, § 602][/us/pl/97/89/s602], Dec. 4, 1981, [95 Stat. 1154][/us/stat/95/1154].)
+([Pub. L. 86–36][/us/pl/86/36], § 10, as added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 402(a)(1), Oct. 14, 1980, [94 Stat. 1978][/us/stat/94/1978]; amended [Pub. L. 97–89, title VI][/us/pl/97/89/tVI], § 602, Dec. 4, 1981, [95 Stat. 1154][/us/stat/95/1154].)
 
  __Codification__ 
 
@@ -111,10 +111,10 @@
 [/us/usc/t5/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4108
 [/us/usc/t5/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4108
 [/us/usc/t5/s4109/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4109%2Fa%2F2%2FB
-[/us/pl/86/36/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs10
-[/us/pl/96/450/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs402%2Fa%2F1
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1978
-[/us/pl/97/89/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs602
+[/us/pl/97/89/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVI
 [/us/stat/95/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1154
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89

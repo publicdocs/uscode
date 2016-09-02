@@ -35,7 +35,7 @@
 
         The plant or plants provided for under this section shall be constructed and operated solely by the Government and not in conjunction with any other industry or enterprise carried on by private capital.
 
-([Aug. 10, 1956, ch. 1041, § 37][/us/act/1956-08-10/ch1041/s37], [70A Stat. 634][/us/stat/70A/634].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 37, [70A Stat. 634][/us/stat/70A/634].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs37
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F634
 
 

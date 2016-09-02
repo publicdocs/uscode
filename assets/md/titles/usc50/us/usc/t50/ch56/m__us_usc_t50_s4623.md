@@ -23,7 +23,7 @@
 
         This chapter shall not apply to any administrative proceedings commenced or any application for a license made, under the Export Administration Act of 1969, which is pending at the time this chapter takes effect.
 
-([Pub. L. 96–72, § 21][/us/pl/96/72/s21], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535].)
+([Pub. L. 96–72][/us/pl/96/72], § 21, Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535].)
 
  __Termination Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/96/72/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs21
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F535
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/act/1949-02-26/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-02-26%2Fch11

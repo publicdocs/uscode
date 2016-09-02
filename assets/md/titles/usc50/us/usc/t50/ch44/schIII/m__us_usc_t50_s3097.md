@@ -89,7 +89,7 @@
 
         (3) The term “major system” means any significant program of an element of the intelligence community with projected total development and procurement costs exceeding $500,000,000 (based on fiscal year 2010 constant dollars), which costs shall include all end-to-end program costs, including costs associated with the development and procurement of the program and any other costs associated with the development and procurement of systems required to support or utilize the program.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506A, as added [Pub. L. 108–177, title III, § 312(b)(1)][/us/pl/108/177/s312/b/1], Dec. 13, 2003, [117 Stat. 2607][/us/stat/117/2607]; amended [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3692; [Pub. L. 111–259, title III, § 321(b)][/us/pl/111/259/s321/b], Oct. 7, 2010, [124 Stat. 2669][/us/stat/124/2669]; [Pub. L. 112–87, title III, § 306(a)][/us/pl/112/87/s306/a], title V, § 505(3), Jan. 3, 2012, [125 Stat. 1881][/us/stat/125/1881], 1897.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506A, as added [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 312(b)(1), Dec. 13, 2003, [117 Stat. 2607][/us/stat/117/2607]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3692; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 321(b), Oct. 7, 2010, [124 Stat. 2669][/us/stat/124/2669]; [Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 306(a), title V, § 505(3), Jan. 3, 2012, [125 Stat. 1881][/us/stat/125/1881], 1897.)
 
  __Codification__ 
 
@@ -97,21 +97,21 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(2). [Pub. L. 112–87, § 306(a)(1)][/us/pl/112/87/s306/a/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    2012—Subsec. (a)(2). [Pub. L. 112–87][/us/pl/112/87], § 306(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c)(2)(C). [Pub. L. 112–87, § 505(3)][/us/pl/112/87/s505/3], substituted “National Intelligence Program” for “National Foreign Intelligence Program” in two places.
+    Subsec. (c)(2)(C). [Pub. L. 112–87][/us/pl/112/87], § 505(3), substituted “National Intelligence Program” for “National Foreign Intelligence Program” in two places.
 
-    Subsec. (e)(2). [Pub. L. 112–87, § 306(a)(2)][/us/pl/112/87/s306/a/2], designated existing provisions as subpar. (A), substituted “associated with the development, acquisition, procurement, operation, and sustainment of a major system across its proposed life cycle,” for “associated with the acquisition of a major system,”, and added subpar. (B).
+    Subsec. (e)(2). [Pub. L. 112–87][/us/pl/112/87], § 306(a)(2), designated existing provisions as subpar. (A), substituted “associated with the development, acquisition, procurement, operation, and sustainment of a major system across its proposed life cycle,” for “associated with the acquisition of a major system,”, and added subpar. (B).
 
     2010—Subsec. (e)(3). [Pub. L. 111–259][/us/pl/111/259] substituted “(based on fiscal year 2010 constant dollars)” for “(in current fiscal year dollars)”.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(a)(1)(BB)][/us/pl/108/458/s1071/a/1/BB], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(BB), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (b)(1). [Pub. L. 108–458, § 1072(a)(6)][/us/pl/108/458/s1072/a/6], substituted “Office of the Director of National Intelligence” for “Office of the Deputy Director of Central Intelligence”.
+    Subsec. (b)(1). [Pub. L. 108–458][/us/pl/108/458], § 1072(a)(6), substituted “Office of the Director of National Intelligence” for “Office of the Deputy Director of Central Intelligence”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–87, title III, § 306(b)][/us/pl/112/87/s306/b], Jan. 3, 2012, [125 Stat. 1882][/us/stat/125/1882], provided that: 
+[Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 306(b), Jan. 3, 2012, [125 Stat. 1882][/us/stat/125/1882], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 3, 2012\].”
 
@@ -123,13 +123,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–177, title III, § 312(c)][/us/pl/108/177/s312/c], Dec. 13, 2003, [117 Stat. 2609][/us/stat/117/2609], provided that: 
+[Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 312(c), Dec. 13, 2003, [117 Stat. 2609][/us/stat/117/2609], provided that: 
 
 > “The amendments made by subsection (b) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Dec. 13, 2003\].”
 
  __Congressional Findings__ 
 
-[Pub. L. 108–177, title III, § 312(a)][/us/pl/108/177/s312/a], Dec. 13, 2003, [117 Stat. 2606][/us/stat/117/2606], provided that: 
+[Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 312(a), Dec. 13, 2003, [117 Stat. 2606][/us/stat/117/2606], provided that: 
 
 > “Congress makes the following findings:
 
@@ -147,7 +147,7 @@
 
  __Limitations on Major System Procurement, Acquisition, and Development__ 
 
-[Pub. L. 108–177, title III, § 312(d)][/us/pl/108/177/s312/d], Dec. 13, 2003, [117 Stat. 2609][/us/stat/117/2609], provided that:
+[Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 312(d), Dec. 13, 2003, [117 Stat. 2609][/us/stat/117/2609], provided that:
 
 >     “(1)
 
@@ -169,34 +169,34 @@
 [/us/usc/t10/s2434/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2434%2Fb%2F1%2FA
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/177/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs312%2Fb%2F1
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2607
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/111/259/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs321%2Fb
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2669
-[/us/pl/112/87/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fa
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1881
 [/us/usc/t50/s415a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%931
-[/us/pl/112/87/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fa%2F1
-[/us/pl/112/87/s505/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs505%2F3
-[/us/pl/112/87/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fa%2F2
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/a/1/BB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FBB
-[/us/pl/108/458/s1072/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fa%2F6
-[/us/pl/112/87/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fb
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1882
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/108/177/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs312%2Fc
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2609
-[/us/pl/108/177/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs312%2Fa
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2606
 [/us/usc/t10/s2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2434
-[/us/pl/108/177/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs312%2Fd
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2609
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa

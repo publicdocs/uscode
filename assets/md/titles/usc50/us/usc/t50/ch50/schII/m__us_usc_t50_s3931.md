@@ -79,7 +79,7 @@
 
         If a court vacates, sets aside, or reverses a default judgment against a servicemember and the vacating, setting aside, or reversing is because of a provision of this chapter, that action shall not impair a right or title acquired by a bona fide purchaser for value under the default judgment.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 201, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2840][/us/stat/117/2840]; amended [Pub. L. 110–181, div. A, title V, § 584(a)][/us/pl/110/181/s584/a], Jan. 28, 2008, [122 Stat. 128][/us/stat/122/128].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 201, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2840][/us/stat/117/2840]; amended [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 584(a), Jan. 28, 2008, [122 Stat. 128][/us/stat/122/128].)
 
  __Codification__ 
 
@@ -105,9 +105,9 @@
 [/us/usc/t50/s3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3932
 [/us/usc/t50/s3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3932
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2840
-[/us/pl/110/181/s584/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs584%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F128
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1181

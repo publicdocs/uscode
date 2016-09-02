@@ -19,7 +19,7 @@
 
     (b) Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms, referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
 
-([Pub. L. 94–412, title II, § 201][/us/pl/94/412/s201], Sept. 14, 1976, [90 Stat. 1255][/us/stat/90/1255].)
+([Pub. L. 94–412, title II][/us/pl/94/412/tII], § 201, Sept. 14, 1976, [90 Stat. 1255][/us/stat/90/1255].)
 
  __Proc. No. 7463. Declaration of National Emergency by Reason of Certain Terrorist Attacks__ 
 
@@ -84,7 +84,7 @@ NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by
 ----------
 ----------
 
-[/us/pl/94/412/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs201
+[/us/pl/94/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtII
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t50/s1622/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1622%2Fd

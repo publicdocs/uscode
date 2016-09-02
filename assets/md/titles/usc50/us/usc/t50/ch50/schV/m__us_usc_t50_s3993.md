@@ -35,7 +35,7 @@
 
         In order to obtain the protection of this section, the entryman or claimant shall, within 180 days after entry into military service, cause to be filed in the land office of the district where the claim is situated a notice communicating the fact of military service and the desire to hold the claim under this section.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 503, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2856][/us/stat/117/2856].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 503, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2856][/us/stat/117/2856].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2856
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1187

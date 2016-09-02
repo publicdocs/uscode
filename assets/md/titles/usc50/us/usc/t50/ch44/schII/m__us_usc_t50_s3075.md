@@ -19,11 +19,11 @@
 
     (b) As used in this Act, the term “Department of Defense” shall be deemed to include the military departments of the Army, the Navy, and the Air Force, and all agencies created under title II of this Act.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title III, § 308, [61 Stat. 509][/us/stat/61/509]; [Aug. 10, 1949, ch. 412, § 12(e)][/us/act/1949-08-10/ch412/s12/e], [63 Stat. 591][/us/stat/63/591].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title III, § 308, [61 Stat. 509][/us/stat/61/509]; [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 12(e), [63 Stat. 591][/us/stat/63/591].)
 
  __Partial Repeal__ 
 
-    [Pub. L. 87–651, title III, § 307][/us/pl/87/651/s307], Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526], repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
+    [Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 307, Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526], repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 410 of this title][/us/usc/t50/s410] prior to editorial reclassification and renumbering as this section, and to [section 171n of Title 5][/us/usc/t5/s171n] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 410 of this title][/us/usc/t50/s410] prior to editorial reclassification and renumbering as this section, and to [section 171n of Title 5][/us/usc/t5/s171n] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F509
-[/us/act/1949-08-10/ch412/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs12%2Fe
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
-[/us/pl/87/651/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs307
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F526
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -62,7 +62,7 @@
 [/us/usc/t50/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3004
 [/us/usc/t50/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs410
 [/us/usc/t5/s171n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171n
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

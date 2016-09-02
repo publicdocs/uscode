@@ -17,11 +17,11 @@
 
     Not later than six months after its organization, and every six months thereafter, the Commission shall make a report to the Congress concerning its operations under this subchapter.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 9, [62 Stat. 1246][/us/stat/62/1246]; [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 9, [62 Stat. 1246][/us/stat/62/1246]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
- __Annual Submission of Report__ 
+ __Annual Submission of Reports__ 
 
-    [Pub. L. 89–348, § 2(6)][/us/pl/89/348/s2/6], Nov. 8, 1965, [79 Stat. 1312][/us/stat/79/1312], modified the reporting requirement of this section beginning Jan. 1, 1967, to require annual instead of semiannual report.
+    [Pub. L. 89–348][/us/pl/89/348], § 2(6), Nov. 8, 1965, [79 Stat. 1312][/us/stat/79/1312], modified the provisions of this section, beginning Jan. 1, 1967, to require annual instead of semiannual submission to Congress by Foreign Claims Settlement Commission of report concerning its operations under War Claims Act of 1948.
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1246
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
-[/us/pl/89/348/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs2%2F6
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1312
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240

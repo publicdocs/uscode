@@ -25,7 +25,7 @@
 
     (4) the Secretary has provided notification that the transportation, testing, or disposal will take place, except where a Presidential determination has been made: (A) to the President of the Senate and the Speaker of the House of Representatives at least 10 days before any such transportation will be commenced and at least 30 days before any such testing or disposal will be commenced; (B) to the Governor of any State through which such agents will be transported, such notification to be provided appropriately in advance of any such transportation.
 
-([Pub. L. 91–121, title IV, § 409(b)][/us/pl/91/121/s409/b], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209]; [Pub. L. 91–441, title V, § 506(b)(1)][/us/pl/91/441/s506/b/1], Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409(b), Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209]; [Pub. L. 91–441, title V][/us/pl/91/441/tV], § 506(b)(1), Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Riot Control Agents__ 
 
-[Pub. L. 109–163, div. A, title XII, § 1232][/us/pl/109/163/s1232], Jan. 6, 2006, [119 Stat. 3468][/us/stat/119/3468], provided that:
+[Pub. L. 109–163, div. A, title XII][/us/pl/109/163/dA/tXII], § 1232, Jan. 6, 2006, [119 Stat. 3468][/us/stat/119/3468], provided that:
 
 >     “(a)  __Restatement of Policy__  __.—__ 
 
@@ -87,7 +87,7 @@
 
  __Chemical Munitions Transportation From Okinawa to the United States__ 
 
-[Pub. L. 91–672, § 13][/us/pl/91/672/s13], Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055], provided that: 
+[Pub. L. 91–672][/us/pl/91/672], § 13, Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055], provided that: 
 
 > “No funds authorized or appropriated pursuant to this or any other law may be used to transport chemical munitions from the Island of Okinawa to the United States. Such funds as are necessary for the detoxification or destruction of the above described chemical munitions are hereby authorized and shall be used for the detoxification or destruction of chemical munitions only outside the United States. For purposes of this section, the term ‘United States’ means the several States and the District of Columbia.”
 
@@ -122,20 +122,20 @@
 ----------
 ----------
 
-[/us/pl/91/121/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409%2Fb
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
-[/us/pl/91/441/s506/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fb%2F1
+[/us/pl/91/441/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtV
 [/us/stat/84/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F912
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121
 [/us/stat/83/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F204
 [/us/pl/91/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/109/163/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1232
+[/us/pl/109/163/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXII
 [/us/stat/119/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3468
-[/us/pl/91/672/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs13
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2055
 
 

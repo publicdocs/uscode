@@ -27,7 +27,7 @@
 
         In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of [section 1902(a)(1) of this title][/us/usc/t50/s1902/a/1].
 
-([Pub. L. 102–183, title VIII, § 810][/us/pl/102/183/s810], as added [Pub. L. 103–178, title III, § 311(c)][/us/pl/103/178/s311/c], Dec. 3, 1993, [107 Stat. 2037][/us/stat/107/2037]; amended [Pub. L. 108–487, title VI, § 601(a)][/us/pl/108/487/s601/a], Dec. 23, 2004, [118 Stat. 3951][/us/stat/118/3951].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 810, as added [Pub. L. 103–178, title III][/us/pl/103/178/tIII], § 311(c), Dec. 3, 1993, [107 Stat. 2037][/us/stat/107/2037]; amended [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 601(a), Dec. 23, 2004, [118 Stat. 3951][/us/stat/118/3951].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 
 [/us/usc/t50/s1904/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1904%2Fe
 [/us/usc/t50/s1902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1
-[/us/pl/102/183/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs810
-[/us/pl/103/178/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs311%2Fc
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
+[/us/pl/103/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtIII
 [/us/stat/107/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2037
-[/us/pl/108/487/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs601%2Fa
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3951
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
 

@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Section 14(a) of the Federal Employees Pay Act of 1946 ([5 U.S.C. 947(g)][/us/usc/t5/s947/g]), referred to in text, was repealed by [act Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(85), [64 Stat. 843][/us/stat/64/843].
+    Section 14(a) of the Federal Employees Pay Act of 1946 ([5 U.S.C. 947(g)][/us/usc/t5/s947/g]), referred to in text, was repealed by [act Sept. 12, 1950, ch. 946, title III][/us/act/1950-09-12/ch946/tIII], § 301(85), [64 Stat. 843][/us/stat/64/843].
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/act/1949-10-27/ch766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch766
 [/us/stat/63/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F937
 [/us/usc/t5/s947/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs947%2Fg
-[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
+[/us/act/1950-09-12/ch946/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2FtIII
 [/us/stat/64/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F843
 
 

@@ -27,7 +27,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Panel.
 
-([Pub. L. 86–36, § 19][/us/pl/86/36/s19], as added [Pub. L. 108–487, title V, § 501][/us/pl/108/487/s501], Dec. 23, 2004, [118 Stat. 3950][/us/stat/118/3950].)
+([Pub. L. 86–36][/us/pl/86/36], § 19, as added [Pub. L. 108–487, title V][/us/pl/108/487/tV], § 501, Dec. 23, 2004, [118 Stat. 3950][/us/stat/118/3950].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/86/36/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs19
-[/us/pl/108/487/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs501
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/108/487/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtV
 [/us/stat/118/3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3950
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 

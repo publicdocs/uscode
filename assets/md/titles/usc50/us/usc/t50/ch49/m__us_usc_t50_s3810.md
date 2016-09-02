@@ -17,7 +17,7 @@
 
     Under such rules and regulations as may be prescribed by the President, funds available to carry out the provisions of this chapter shall also be available for the payment of actual and reasonable expenses of emergency medical care, including hospitalization, of registrants who suffer illness or injury, and the transportation and burial of the remains of registrants who suffer death, while acting under orders issued under the provisions of this chapter, but such burial expenses shall not exceed the maximum that the Secretary of Veterans Affairs may pay under the provisions of [section 2302(a) of title 38][/us/usc/t38/s2302/a] in any one case.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 11, [62 Stat. 621][/us/stat/62/621]; [Pub. L. 92–129, title I, § 101(a)(30)][/us/pl/92/129/s101/a/30], Sept. 28, 1971, [85 Stat. 352][/us/stat/85/352]; [Pub. L. 102–54, § 13(t)][/us/pl/102/54/s13/t], June 13, 1991, [105 Stat. 282][/us/stat/105/282]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 11, [62 Stat. 621][/us/stat/62/621]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(30), Sept. 28, 1971, [85 Stat. 352][/us/stat/85/352]; [Pub. L. 102–54][/us/pl/102/54], § 13(t), June 13, 1991, [105 Stat. 282][/us/stat/105/282]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 [/us/usc/t38/s2302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2302%2Fa
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F621
-[/us/pl/92/129/s101/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F30
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F352
-[/us/pl/102/54/s13/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Ft
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F282
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

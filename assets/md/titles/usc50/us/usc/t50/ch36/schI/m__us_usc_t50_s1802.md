@@ -57,7 +57,7 @@
 
     (b) Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under [section 1803 of this title][/us/usc/t50/s1803], and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with [section 1805 of this title][/us/usc/t50/s1805], approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) of this section unless such surveillance may involve the acquisition of communications of any United States person.
 
-([Pub. L. 95–511, title I, § 102][/us/pl/95/511/s102], Oct. 25, 1978, [92 Stat. 1786][/us/stat/92/1786]; [Pub. L. 108–458, title I, § 1071(e)][/us/pl/108/458/s1071/e], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 111–259, title VIII, § 806(a)(2)][/us/pl/111/259/s806/a/2], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 102, Oct. 25, 1978, [92 Stat. 1786][/us/stat/92/1786]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(e), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(a)(2), Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
 
  __Amendments__ 
 
@@ -118,11 +118,11 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 [/us/usc/t50/s1806/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806%2Ff
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
-[/us/pl/95/511/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs102
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1786
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/111/259/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F2
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

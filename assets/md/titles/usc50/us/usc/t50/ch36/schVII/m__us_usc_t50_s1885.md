@@ -85,11 +85,11 @@
 
         The term “State” means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.
 
-([Pub. L. 95–511, title VIII, § 801][/us/pl/95/511/s801], as added [Pub. L. 110–261, title II, § 201][/us/pl/110/261/s201], July 10, 2008, [122 Stat. 2467][/us/stat/122/2467].)
+([Pub. L. 95–511, title VIII][/us/pl/95/511/tVIII], § 801, as added [Pub. L. 110–261, title II][/us/pl/110/261/tII], § 201, July 10, 2008, [122 Stat. 2467][/us/stat/122/2467].)
 
  __References in Text__ 
 
-    [Section 1805b of this title][/us/usc/t50/s1805b], referred to in par. (8)(B)(iii), was repealed by [Pub. L. 110–261, title IV, § 403(a)(1)(A)][/us/pl/110/261/s403/a/1/A], July 10, 2008, [122 Stat. 2473][/us/stat/122/2473].
+    [Section 1805b of this title][/us/usc/t50/s1805b], referred to in par. (8)(B)(iii), was repealed by [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(a)(1)(A), July 10, 2008, [122 Stat. 2473][/us/stat/122/2473].
 
 ----------
 
@@ -105,11 +105,11 @@
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t50/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fa
 [/us/pl/110/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55
-[/us/pl/95/511/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs801
-[/us/pl/110/261/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs201
+[/us/pl/95/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVIII
+[/us/pl/110/261/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtII
 [/us/stat/122/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2467
 [/us/usc/t50/s1805b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805b
-[/us/pl/110/261/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fa%2F1%2FA
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2473
 
 

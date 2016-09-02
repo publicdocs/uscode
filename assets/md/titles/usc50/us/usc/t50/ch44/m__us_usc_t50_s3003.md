@@ -77,7 +77,7 @@
 
         (B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([July 26, 1947, ch. 343, § 3][/us/act/1947-07-26/ch343/s3], as added [Pub. L. 102–496, title VII, § 702][/us/pl/102/496/s702], Oct. 24, 1992, [106 Stat. 3188][/us/stat/106/3188]; amended [Pub. L. 103–359, title V, § 501(a)(1)][/us/pl/103/359/s501/a/1], Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428]; [Pub. L. 104–201, div. A, title XI, § 1122(b)(1)][/us/pl/104/201/s1122/b/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 107–56, title IX, § 902][/us/pl/107/56/s902], Oct. 26, 2001, [115 Stat. 387][/us/stat/115/387]; [Pub. L. 107–108, title I, § 105][/us/pl/107/108/s105], Dec. 28, 2001, [115 Stat. 1397][/us/stat/115/1397]; [Pub. L. 107–296, title II, § 201(h)][/us/pl/107/296/s201/h], Nov. 25, 2002, [116 Stat. 2149][/us/stat/116/2149]; [Pub. L. 107–306, title III, § 353(a)][/us/pl/107/306/s353/a], Nov. 27, 2002, [116 Stat. 2401][/us/stat/116/2401]; [Pub. L. 108–136, div. A, title IX, § 921(e)(1)][/us/pl/108/136/s921/e/1], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 108–177, title I, § 105(d)(1)][/us/pl/108/177/s105/d/1], Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1012, 1073, 1074(a), Dec. 17, 2004, [118 Stat. 3662][/us/stat/118/3662], 3693, 3694; [Pub. L. 111–259, title IV, § 441][/us/pl/111/259/s441], title VIII, § 804(1), Oct. 7, 2010, [124 Stat. 2732][/us/stat/124/2732], 2747; [Pub. L. 112–87, title IV, § 431][/us/pl/112/87/s431], title V, § 505(1), Jan. 3, 2012, [125 Stat. 1894][/us/stat/125/1894], 1897.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], § 3, as added [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 702, Oct. 24, 1992, [106 Stat. 3188][/us/stat/106/3188]; amended [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(a)(1), Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(b)(1), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 107–56, title IX][/us/pl/107/56/tIX], § 902, Oct. 26, 2001, [115 Stat. 387][/us/stat/115/387]; [Pub. L. 107–108, title I][/us/pl/107/108/tI], § 105, Dec. 28, 2001, [115 Stat. 1397][/us/stat/115/1397]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 201(h), Nov. 25, 2002, [116 Stat. 2149][/us/stat/116/2149]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(a), Nov. 27, 2002, [116 Stat. 2401][/us/stat/116/2401]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(e)(1), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 105(d)(1), Dec. 13, 2003, [117 Stat. 2603][/us/stat/117/2603]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1012, 1073, 1074(a), Dec. 17, 2004, [118 Stat. 3662][/us/stat/118/3662], 3693, 3694; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 441, title VIII, § 804(1), Oct. 7, 2010, [124 Stat. 2732][/us/stat/124/2732], 2747; [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 431, title V, § 505(1), Jan. 3, 2012, [125 Stat. 1894][/us/stat/125/1894], 1897.)
 
  __References in Text__ 
 
@@ -89,39 +89,39 @@
 
  __Amendments__ 
 
-    2012—Par. (4)(K). [Pub. L. 112–87, § 431][/us/pl/112/87/s431], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “The elements of the Department of Homeland Security concerned with the analysis of intelligence information.”
+    2012—Par. (4)(K). [Pub. L. 112–87][/us/pl/112/87], § 431, amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “The elements of the Department of Homeland Security concerned with the analysis of intelligence information.”
 
-    Par. (6). [Pub. L. 112–87, § 505(1)][/us/pl/112/87/s505/1], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Par. (6). [Pub. L. 112–87][/us/pl/112/87], § 505(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    2010—Par. (4)(H). [Pub. L. 111–259, § 441(1)][/us/pl/111/259/s441/1], inserted “the Coast Guard,” after “the Marine Corps,” and “the Drug Enforcement Administration,” after “the Federal Bureau of Investigation,”.
+    2010—Par. (4)(H). [Pub. L. 111–259][/us/pl/111/259], § 441(1), inserted “the Coast Guard,” after “the Marine Corps,” and “the Drug Enforcement Administration,” after “the Federal Bureau of Investigation,”.
 
-    Par. (4)(K). [Pub. L. 111–259, § 441(2)][/us/pl/111/259/s441/2], struck out “, including the Office of Intelligence of the Coast Guard” after “information”.
+    Par. (4)(K). [Pub. L. 111–259][/us/pl/111/259], § 441(2), struck out “, including the Office of Intelligence of the Coast Guard” after “information”.
 
-    Par. (4)(L). [Pub. L. 111–259, § 804(1)][/us/pl/111/259/s804/1], struck out “other” after “elements of any”.
+    Par. (4)(L). [Pub. L. 111–259][/us/pl/111/259], § 804(1), struck out “other” after “elements of any”.
 
-    2004—Par. (4). [Pub. L. 108–458, § 1073][/us/pl/108/458/s1073], amended par. (4) generally, substituting provisions defining “intelligence community” as including the Office of the Director of National Intelligence and other entities for provisions defining “intelligence community” as including the Office of the Director of Central Intelligence and other entities.
+    2004—Par. (4). [Pub. L. 108–458][/us/pl/108/458], § 1073, amended par. (4) generally, substituting provisions defining “intelligence community” as including the Office of the Director of National Intelligence and other entities for provisions defining “intelligence community” as including the Office of the Director of Central Intelligence and other entities.
 
-    Par. (5). [Pub. L. 108–458, § 1012][/us/pl/108/458/s1012], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The terms ‘national intelligence’ and ‘intelligence related to the national security’—
+    Par. (5). [Pub. L. 108–458][/us/pl/108/458], § 1012, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The terms ‘national intelligence’ and ‘intelligence related to the national security’—
 
     “(A) each refer to intelligence which pertains to the interests of more than one department or agency of the Government; and
 
     “(B) do not refer to counterintelligence or law enforcement activities conducted by the Federal Bureau of Investigation except to the extent provided for in procedures agreed to by the Director of Central Intelligence and the Attorney General, or otherwise as expressly provided for in this title.”
 
-    Par. (6). [Pub. L. 108–458, § 1074(a)][/us/pl/108/458/s1074/a], struck out “Foreign” before “Intelligence Program”.
+    Par. (6). [Pub. L. 108–458][/us/pl/108/458], § 1074(a), struck out “Foreign” before “Intelligence Program”.
 
     2003—Par. (4)(E). [Pub. L. 108–136][/us/pl/108/136] substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-    Par. (4)(H). [Pub. L. 108–177, § 105(d)(1)(A)][/us/pl/108/177/s105/d/1/A], struck out “the Department of the Treasury,” after “the Federal Bureau of Investigation,”.
+    Par. (4)(H). [Pub. L. 108–177][/us/pl/108/177], § 105(d)(1)(A), struck out “the Department of the Treasury,” after “the Federal Bureau of Investigation,”.
 
-    Par. (4)(J) to (L). [Pub. L. 108–177, § 105(d)(1)(B)][/us/pl/108/177/s105/d/1/B], (C), added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
+    Par. (4)(J) to (L). [Pub. L. 108–177][/us/pl/108/177], § 105(d)(1)(B), (C), added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
 
     2002—Par. (4)(J), (K). [Pub. L. 107–296][/us/pl/107/296] added subpar. (J) and redesignated former subpar. (J) as (K).
 
     Par. (7). [Pub. L. 107–306][/us/pl/107/306] added par. (7).
 
-    2001—Par. (2). [Pub. L. 107–56, § 902(1)][/us/pl/107/56/s902/1], inserted “, or international terrorist activities” before period at end.
+    2001—Par. (2). [Pub. L. 107–56][/us/pl/107/56], § 902(1), inserted “, or international terrorist activities” before period at end.
 
-    Par. (3). [Pub. L. 107–56, § 902(2)][/us/pl/107/56/s902/2], substituted “, and activities conducted,” for “and activities conducted”.
+    Par. (3). [Pub. L. 107–56][/us/pl/107/56], § 902(2), substituted “, and activities conducted,” for “and activities conducted”.
 
     Par. (4)(H). [Pub. L. 107–108][/us/pl/107/108] struck out “and” before “the Department of Energy” and inserted “, and the Coast Guard” before semicolon.
 
@@ -153,7 +153,7 @@
 
  __Definitions Applicable to Specific Acts__ 
 
-[Pub. L. 114–113, div. M, § 2][/us/pl/114/113/s2], Dec. 18, 2015, [129 Stat. 2910][/us/stat/129/2910], provided that: 
+[Pub. L. 114–113, div. M][/us/pl/114/113/dM], § 2, Dec. 18, 2015, [129 Stat. 2910][/us/stat/129/2910], provided that: 
 
 > “In this division \[see Tables for classification\]:
 
@@ -169,7 +169,7 @@
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).”
 
-[Pub. L. 113–293, § 2][/us/pl/113/293/s2], Dec. 19, 2014, [128 Stat. 3991][/us/stat/128/3991], provided that: 
+[Pub. L. 113–293][/us/pl/113/293], § 2, Dec. 19, 2014, [128 Stat. 3991][/us/stat/128/3991], provided that: 
 
 > “In this Act \[see Tables for classification\]:
 
@@ -185,7 +185,7 @@
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).”
 
-[Pub. L. 113–126, § 2][/us/pl/113/126/s2], July 7, 2014, [128 Stat. 1391][/us/stat/128/1391], provided that: 
+[Pub. L. 113–126][/us/pl/113/126], § 2, July 7, 2014, [128 Stat. 1391][/us/stat/128/1391], provided that: 
 
 > “In this Act \[see Tables for classification\]:
 
@@ -201,7 +201,7 @@
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).”
 
-[Pub. L. 112–87, § 2][/us/pl/112/87/s2], Jan. 3, 2012, [125 Stat. 1877][/us/stat/125/1877], provided that: 
+[Pub. L. 112–87][/us/pl/112/87], § 2, Jan. 3, 2012, [125 Stat. 1877][/us/stat/125/1877], provided that: 
 
 > “In this Act \[see Tables for classification\]:
 
@@ -217,7 +217,7 @@
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].”
 
-[Pub. L. 111–259, § 2][/us/pl/111/259/s2], Oct. 7, 2010, [124 Stat. 2656][/us/stat/124/2656], provided that: 
+[Pub. L. 111–259][/us/pl/111/259], § 2, Oct. 7, 2010, [124 Stat. 2656][/us/stat/124/2656], provided that: 
 
 > “In this Act \[see Tables for classification\]:
 
@@ -240,49 +240,49 @@
 ----------
 ----------
 
-[/us/act/1947-07-26/ch343/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs3
-[/us/pl/102/496/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs702
+[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3188
-[/us/pl/103/359/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fa%2F1
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3428
-[/us/pl/104/201/s1122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fb%2F1
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/107/56/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs902
+[/us/pl/107/56/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIX
 [/us/stat/115/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F387
-[/us/pl/107/108/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs105
+[/us/pl/107/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtI
 [/us/stat/115/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1397
-[/us/pl/107/296/s201/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs201%2Fh
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2149
-[/us/pl/107/306/s353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fa
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2401
-[/us/pl/108/136/s921/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F1
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
-[/us/pl/108/177/s105/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fd%2F1
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2603
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3662
-[/us/pl/111/259/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs441
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2732
-[/us/pl/112/87/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs431
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1894
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
-[/us/pl/112/87/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs431
-[/us/pl/112/87/s505/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs505%2F1
-[/us/pl/111/259/s441/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs441%2F1
-[/us/pl/111/259/s441/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs441%2F2
-[/us/pl/111/259/s804/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F1
-[/us/pl/108/458/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1073
-[/us/pl/108/458/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1012
-[/us/pl/108/458/s1074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fa
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/177/s105/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fd%2F1%2FA
-[/us/pl/108/177/s105/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs105%2Fd%2F1%2FB
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
-[/us/pl/107/56/s902/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs902%2F1
-[/us/pl/107/56/s902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs902%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
@@ -301,20 +301,20 @@
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
-[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/pl/114/113/dM]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM
 [/us/stat/129/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2910
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/113/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs2
+[/us/pl/113/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293
 [/us/stat/128/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3991
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/113/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs2
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/stat/128/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1391
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/112/87/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs2
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/stat/125/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1877
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/111/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs2
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/stat/124/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2656
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4

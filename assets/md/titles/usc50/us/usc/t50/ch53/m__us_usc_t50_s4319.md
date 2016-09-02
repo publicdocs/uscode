@@ -17,7 +17,7 @@
 
     No person shall be entitled to the return of any property or money under any provision of this chapter, or any amendment of this chapter, who is a fugitive from justice of the United States or any State or Territory thereof, or the District of Columbia.
 
-([Oct. 6, 1917, ch. 106, § 22][/us/act/1917-10-06/ch106/s22], as added [Mar. 4, 1923, ch. 285, § 2][/us/act/1923-03-04/ch285/s2], [42 Stat. 1516][/us/stat/42/1516]; amended [Mar. 10, 1928, ch. 167, § 16][/us/act/1928-03-10/ch167/s16], [45 Stat. 275][/us/stat/45/275].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 22, as added [Mar. 4, 1923, ch. 285][/us/act/1923-03-04/ch285], § 2, [42 Stat. 1516][/us/stat/42/1516]; amended [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 16, [45 Stat. 275][/us/stat/45/275].)
 
  __References in Text__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs22
-[/us/act/1923-03-04/ch285/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch285%2Fs2
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1923-03-04/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch285
 [/us/stat/42/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1516
-[/us/act/1928-03-10/ch167/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs16
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F275
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

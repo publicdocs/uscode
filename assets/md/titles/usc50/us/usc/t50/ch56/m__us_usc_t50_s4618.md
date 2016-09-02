@@ -41,7 +41,7 @@
 
     (8) the term “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 96–72, § 16][/us/pl/96/72/s16], Sept. 29, 1979, [93 Stat. 533][/us/stat/93/533]; [Pub. L. 99–64, title I, § 117][/us/pl/99/64/s117], July 12, 1985, [99 Stat. 153][/us/stat/99/153].)
+([Pub. L. 96–72][/us/pl/96/72], § 16, Sept. 29, 1979, [93 Stat. 533][/us/stat/93/533]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 117, July 12, 1985, [99 Stat. 153][/us/stat/99/153].)
 
  __Termination Date__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1985—Par. (3). [Pub. L. 99–64, § 117(1)][/us/pl/99/64/s117/1], inserted “natural or manmade substance,”.
+    1985—Par. (3). [Pub. L. 99–64][/us/pl/99/64], § 117(1), inserted “natural or manmade substance,”.
 
-    Par. (4). [Pub. L. 99–64, § 117(2)][/us/pl/99/64/s117/2], amended par. (4) generally, substituting “the term ‘technology’ means the information and know-how (whether in tangible form, such as models, prototypes, drawings, sketches, diagrams, blueprints, or manuals, or in intangible form, such as training or technical services) that can be used to design, produce, manufacture, utilize, or reconstruct goods, including computer software and technical data, but not the goods themselves;” for “the information and knowhow that can be used to design, produce, manufacture, utilize, or reconstruct goods, including computer software and technical data, but not the goods themselves; and”.
+    Par. (4). [Pub. L. 99–64][/us/pl/99/64], § 117(2), amended par. (4) generally, substituting “the term ‘technology’ means the information and know-how (whether in tangible form, such as models, prototypes, drawings, sketches, diagrams, blueprints, or manuals, or in intangible form, such as training or technical services) that can be used to design, produce, manufacture, utilize, or reconstruct goods, including computer software and technical data, but not the goods themselves;” for “the information and knowhow that can be used to design, produce, manufacture, utilize, or reconstruct goods, including computer software and technical data, but not the goods themselves; and”.
 
-    Pars. (5) to (8). [Pub. L. 99–64, § 117(3)][/us/pl/99/64/s117/3], (4), added pars. (5) to (7) and redesignated former par. (5) as (8).
+    Pars. (5) to (8). [Pub. L. 99–64][/us/pl/99/64], § 117(3), (4), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
  __Delegation of Functions__ 
 
@@ -76,17 +76,17 @@
 
 [/us/usc/t50/s4604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fb%2F1
 [/us/usc/t43/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331%2Fa
-[/us/pl/96/72/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs16
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F533
-[/us/pl/99/64/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs117
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F153
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/99/64/s117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs117%2F1
-[/us/pl/99/64/s117/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs117%2F2
-[/us/pl/99/64/s117/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs117%2F3
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
 
 

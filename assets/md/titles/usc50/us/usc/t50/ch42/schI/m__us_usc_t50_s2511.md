@@ -17,7 +17,7 @@
 
     The provisions of Executive Order Numbered 12344, dated February 1, 1982, pertaining to the Naval Nuclear Propulsion Program, shall remain in force until changed by law.
 
-([Pub. L. 107–314, div. D, title XLI, § 4101][/us/pl/107/314/s4101], formerly [Pub. L. 98–525, title XVI, § 1634][/us/pl/98/525/s1634], Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649]; renumbered [Pub. L. 107–314, div. D, title XLI, § 4101][/us/pl/107/314/s4101], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(d)(2)][/us/pl/108/136/s3141/d/2], Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757].)
+([Pub. L. 107–314, div. D, title XLI][/us/pl/107/314/dD/tXLI], § 4101, formerly [Pub. L. 98–525, title XVI][/us/pl/98/525/tXVI], § 1634, Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649]; renumbered [Pub. L. 107–314, div. D, title XLI][/us/pl/107/314/dD/tXLI], § 4101, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(d)(2), Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757].)
 
  __References in Text__ 
 
@@ -88,11 +88,11 @@ Sec. 5. Within the Department of Energy, the Secretary of Energy shall assign to
 ----------
 ----------
 
-[/us/pl/107/314/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4101
-[/us/pl/98/525/s1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1634
+[/us/pl/107/314/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLI
+[/us/pl/98/525/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVI
 [/us/stat/98/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2649
-[/us/pl/107/314/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4101
-[/us/pl/108/136/s3141/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fd%2F2
+[/us/pl/107/314/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1757
 [/us/usc/t42/s7158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7158
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

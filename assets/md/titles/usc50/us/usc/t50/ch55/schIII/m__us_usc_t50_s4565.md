@@ -521,7 +521,7 @@
 
         (2) the notice or information is accurate and complete in all material respects.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 721, as added [Pub. L. 100–418, title V, § 5021][/us/pl/100/418/s5021], Aug. 23, 1988, [102 Stat. 1425][/us/stat/102/1425]; amended [Pub. L. 102–484, div. A, title VIII, § 837(a)][/us/pl/102/484/s837/a]–(c), (e), Oct. 23, 1992, [106 Stat. 2463–2465][/us/stat/106/2463-2465]; [Pub. L. 102–558, title I, § 163][/us/pl/102/558/s163], Oct. 28, 1992, [106 Stat. 4219][/us/stat/106/4219]; [Pub. L. 103–359, title VIII, § 809(d)][/us/pl/103/359/s809/d], Oct. 14, 1994, [108 Stat. 3454][/us/stat/108/3454]; [Pub. L. 110–49][/us/pl/110/49], §§ 2–7(b), 8–10, July 26, 2007, [121 Stat. 246][/us/stat/121/246], 252–257, 259.)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 721, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5021, Aug. 23, 1988, [102 Stat. 1425][/us/stat/102/1425]; amended [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 837(a)–(c), (e), Oct. 23, 1992, [106 Stat. 2463–2465][/us/stat/106/2463-2465]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 163, Oct. 28, 1992, [106 Stat. 4219][/us/stat/106/4219]; [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 809(d), Oct. 14, 1994, [108 Stat. 3454][/us/stat/108/3454]; [Pub. L. 110–49][/us/pl/110/49], §§ 2–7(b), 8–10, July 26, 2007, [121 Stat. 246][/us/stat/121/246], 252–257, 259.)
 
  __References in Text__ 
 
@@ -541,17 +541,17 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–49, § 2][/us/pl/110/49/s2], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The President or the President’s designee may make an investigation to determine the effects on national security of mergers, acquisitions, and takeovers proposed or pending on or after August 23, 1988, by or with foreign persons which could result in foreign control of persons engaged in interstate commerce in the United States. If it is determined that an investigation should be undertaken, it shall commence no later than 30 days after receipt by the President or the President’s designee of written notification of the proposed or pending merger, acquisition, or takeover as prescribed by regulations promulgated pursuant to this section. Such investigation shall be completed no later than 45 days after such determination.”
+    2007—Subsec. (a). [Pub. L. 110–49][/us/pl/110/49], § 2, added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The President or the President’s designee may make an investigation to determine the effects on national security of mergers, acquisitions, and takeovers proposed or pending on or after August 23, 1988, by or with foreign persons which could result in foreign control of persons engaged in interstate commerce in the United States. If it is determined that an investigation should be undertaken, it shall commence no later than 30 days after receipt by the President or the President’s designee of written notification of the proposed or pending merger, acquisition, or takeover as prescribed by regulations promulgated pursuant to this section. Such investigation shall be completed no later than 45 days after such determination.”
 
-    Subsec. (b). [Pub. L. 110–49, § 2][/us/pl/110/49/s2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The President or the President’s designee shall make an investigation, as described in subsection (a), in any instance in which an entity controlled by or acting on behalf of a foreign government seeks to engage in any merger, acquisition, or takeover which could result in control of a person engaged in interstate commerce in the United States that could affect the national security of the United States. Such investigation shall—
+    Subsec. (b). [Pub. L. 110–49][/us/pl/110/49], § 2, added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The President or the President’s designee shall make an investigation, as described in subsection (a), in any instance in which an entity controlled by or acting on behalf of a foreign government seeks to engage in any merger, acquisition, or takeover which could result in control of a person engaged in interstate commerce in the United States that could affect the national security of the United States. Such investigation shall—
 
     “(1) commence not later than 30 days after receipt by the President or the President’s designee of written notification of the proposed or pending merger, acquisition, or takeover, as prescribed by regulations promulgated pursuant to this section; and
 
     “(2) shall be completed not later than 45 days after its commencement.”
 
-    Subsec. (d). [Pub. L. 110–49, § 6][/us/pl/110/49/s6], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Subject to subsection (d), the President may take such action for such time as the President considers appropriate to suspend or prohibit any acquisition, merger, or takeover, of a person engaged in interstate commerce in the United States proposed or pending on or after August 23, 1988, by or with foreign persons so that such control will not threaten to impair the national security. The President shall announce the decision to take action pursuant to this subsection not later than 15 days after the investigation described in subsection (a) is completed. The President may direct the Attorney General to seek appropriate relief, including divestment relief, in the district courts of the United States in order to implement and enforce this section.”
+    Subsec. (d). [Pub. L. 110–49][/us/pl/110/49], § 6, added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Subject to subsection (d), the President may take such action for such time as the President considers appropriate to suspend or prohibit any acquisition, merger, or takeover, of a person engaged in interstate commerce in the United States proposed or pending on or after August 23, 1988, by or with foreign persons so that such control will not threaten to impair the national security. The President shall announce the decision to take action pursuant to this subsection not later than 15 days after the investigation described in subsection (a) is completed. The President may direct the Attorney General to seek appropriate relief, including divestment relief, in the district courts of the United States in order to implement and enforce this section.”
 
-    Subsec. (e). [Pub. L. 110–49, § 6][/us/pl/110/49/s6], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The President may exercise the authority conferred by subsection (c) only if the President finds that—
+    Subsec. (e). [Pub. L. 110–49][/us/pl/110/49], § 6, added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The President may exercise the authority conferred by subsection (c) only if the President finds that—
 
     “(1) there is credible evidence that leads the President to believe that the foreign interest exercising control might take action that threatens to impair the national security, and
 
@@ -559,39 +559,39 @@
 
     “The provisions of subsection (d) of this section shall not be subject to judicial review.”
 
-    Subsec. (f). [Pub. L. 110–49, § 4(1)][/us/pl/110/49/s4/1], struck out “among other factors” after “consider” in introductory provisions.
+    Subsec. (f). [Pub. L. 110–49][/us/pl/110/49], § 4(1), struck out “among other factors” after “consider” in introductory provisions.
 
-    Subsec. (f)(4)(B), (C). [Pub. L. 110–49, § 4(2)(A)][/us/pl/110/49/s4/2/A]–(C), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (f)(4)(B), (C). [Pub. L. 110–49][/us/pl/110/49], § 4(2)(A)–(C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (f)(6) to (11). [Pub. L. 110–49, § 4(2)(D)][/us/pl/110/49/s4/2/D]–(4), added pars. (6) to (11).
+    Subsec. (f)(6) to (11). [Pub. L. 110–49][/us/pl/110/49], § 4(2)(D)–(4), added pars. (6) to (11).
 
-    Subsec. (g). [Pub. L. 110–49, § 7(a)][/us/pl/110/49/s7/a], amended subsec. (g) generally. Prior to amendment, text read as follows: “The President shall immediately transmit to the Secretary of the Senate and the Clerk of the House of Representatives a written report of the President’s determination of whether or not to take action under subsection (d), including a detailed explanation of the findings made under subsection (e) and the factors considered under subsection (f). Such report shall be consistent with the requirements of subsection (c) of this Act.”
+    Subsec. (g). [Pub. L. 110–49][/us/pl/110/49], § 7(a), amended subsec. (g) generally. Prior to amendment, text read as follows: “The President shall immediately transmit to the Secretary of the Senate and the Clerk of the House of Representatives a written report of the President’s determination of whether or not to take action under subsection (d), including a detailed explanation of the findings made under subsection (e) and the factors considered under subsection (f). Such report shall be consistent with the requirements of subsection (c) of this Act.”
 
-    Subsec. (h). [Pub. L. 110–49, § 9][/us/pl/110/49/s9], amended subsec. (h) generally. Prior to amendment, text read as follows: “The President shall direct the issuance of regulations to carry out this section. Such regulations shall, to the extent possible, minimize paperwork burdens and shall to the extent possible coordinate reporting requirements under this section with reporting requirements under any other provision of Federal law.”
+    Subsec. (h). [Pub. L. 110–49][/us/pl/110/49], § 9, amended subsec. (h) generally. Prior to amendment, text read as follows: “The President shall direct the issuance of regulations to carry out this section. Such regulations shall, to the extent possible, minimize paperwork burdens and shall to the extent possible coordinate reporting requirements under this section with reporting requirements under any other provision of Federal law.”
 
-    Subsec. (i). [Pub. L. 110–49, § 10][/us/pl/110/49/s10], amended subsec. (i) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to alter or affect any existing power, process, regulation, investigation, enforcement measure, or review provided by any other provision of law.”
+    Subsec. (i). [Pub. L. 110–49][/us/pl/110/49], § 10, amended subsec. (i) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to alter or affect any existing power, process, regulation, investigation, enforcement measure, or review provided by any other provision of law.”
 
-    Subsec. (k). [Pub. L. 110–49, § 3][/us/pl/110/49/s3], added subsec. (k) and struck out former subsec. (k) which defined “critical technologies” and required the President and such agencies as the President shall designate to submit quadrennial reports, which could be classified, to Congress concerning credible evidence of a coordinated strategy by 1 or more countries or companies to acquire U.S. companies involved in critical technologies or foreign industrial espionage activities directed at obtaining commercial secrets related to critical technologies.
+    Subsec. (k). [Pub. L. 110–49][/us/pl/110/49], § 3, added subsec. (k) and struck out former subsec. (k) which defined “critical technologies” and required the President and such agencies as the President shall designate to submit quadrennial reports, which could be classified, to Congress concerning credible evidence of a coordinated strategy by 1 or more countries or companies to acquire U.S. companies involved in critical technologies or foreign industrial espionage activities directed at obtaining commercial secrets related to critical technologies.
 
-    Subsec. (l). [Pub. L. 110–49, § 5][/us/pl/110/49/s5], added subsec. (l).
+    Subsec. (l). [Pub. L. 110–49][/us/pl/110/49], § 5, added subsec. (l).
 
-    Subsec. (m). [Pub. L. 110–49, § 7(b)][/us/pl/110/49/s7/b], added subsec. (m).
+    Subsec. (m). [Pub. L. 110–49][/us/pl/110/49], § 7(b), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 110–49, § 8][/us/pl/110/49/s8], added subsec. (n).
+    Subsec. (n). [Pub. L. 110–49][/us/pl/110/49], § 8, added subsec. (n).
 
     1994—Subsec. (k)(1)(B). [Pub. L. 103–359][/us/pl/103/359] inserted “or directly assisted” after “directed”.
 
-    1992—Subsecs. (b) to (e). [Pub. L. 102–484, § 837(a)][/us/pl/102/484/s837/a], added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
+    1992—Subsecs. (b) to (e). [Pub. L. 102–484][/us/pl/102/484], § 837(a), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 102–484, § 837(a)(1)][/us/pl/102/484/s837/a/1], (b), redesignated subsec. (e) as (f) and added pars. (4) and (5). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 102–484][/us/pl/102/484], § 837(a)(1), (b), redesignated subsec. (e) as (f) and added pars. (4) and (5). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 102–484, § 837(c)][/us/pl/102/484/s837/c], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If the President determines to take action under subsection (c), the President shall immediately transmit to the Secretary of the Senate and the Clerk of the House of Representatives a written report of the action which the President intends to take, including a detailed explanation of the findings made under subsection (d).”
+    Subsec. (g). [Pub. L. 102–484][/us/pl/102/484], § 837(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If the President determines to take action under subsection (c), the President shall immediately transmit to the Secretary of the Senate and the Clerk of the House of Representatives a written report of the action which the President intends to take, including a detailed explanation of the findings made under subsection (d).”
 
-    [Pub. L. 102–484, § 837(a)(1)][/us/pl/102/484/s837/a/1], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 102–484][/us/pl/102/484], § 837(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsecs. (h), (i). [Pub. L. 102–484, § 837(a)(1)][/us/pl/102/484/s837/a/1], redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+    Subsecs. (h), (i). [Pub. L. 102–484][/us/pl/102/484], § 837(a)(1), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 
-    Subsec. (j). [Pub. L. 102–484, § 837(e)][/us/pl/102/484/s837/e], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–484][/us/pl/102/484], § 837(e), added subsec. (j).
 
     Subsec. (k). [Pub. L. 102–558][/us/pl/102/558] added subsec. (k).
 
@@ -609,7 +609,7 @@
 
  __Study and Report on Foreign Direct Investments in United States__ 
 
-[Pub. L. 110–49, § 7(c)][/us/pl/110/49/s7/c], July 26, 2007, [121 Stat. 258][/us/stat/121/258], provided that:
+[Pub. L. 110–49][/us/pl/110/49], § 7(c), July 26, 2007, [121 Stat. 258][/us/stat/121/258], provided that:
 
 >     “(1)  __Study required__  __.—__ 
 
@@ -778,13 +778,13 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/100/418/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5021
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1425
-[/us/pl/102/484/s837/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fa
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2463-2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2463-2465
-[/us/pl/102/558/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs163
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4219
-[/us/pl/103/359/s809/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs809%2Fd
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3454
 [/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/stat/121/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F246
@@ -797,28 +797,28 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 [/us/stat/118/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3803
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/pl/110/49/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs2
-[/us/pl/110/49/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs2
-[/us/pl/110/49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs6
-[/us/pl/110/49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs6
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/usc/t50/s1701–170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701%E2%80%93170
-[/us/pl/110/49/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs4%2F1
-[/us/pl/110/49/s4/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs4%2F2%2FA
-[/us/pl/110/49/s4/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs4%2F2%2FD
-[/us/pl/110/49/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs7%2Fa
-[/us/pl/110/49/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs9
-[/us/pl/110/49/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs10
-[/us/pl/110/49/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs3
-[/us/pl/110/49/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs5
-[/us/pl/110/49/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs7%2Fb
-[/us/pl/110/49/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs8
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
-[/us/pl/102/484/s837/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fa
-[/us/pl/102/484/s837/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fa%2F1
-[/us/pl/102/484/s837/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fc
-[/us/pl/102/484/s837/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fa%2F1
-[/us/pl/102/484/s837/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fa%2F1
-[/us/pl/102/484/s837/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs837%2Fe
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/pl/110/49/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs12
@@ -826,7 +826,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
-[/us/pl/110/49/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs7%2Fc
+[/us/pl/110/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49
 [/us/stat/121/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F258
 [/us/usc/t50/s4565/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565%2Fm
 [/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565

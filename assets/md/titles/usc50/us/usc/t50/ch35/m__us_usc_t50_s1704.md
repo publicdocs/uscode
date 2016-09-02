@@ -17,7 +17,7 @@
 
     The President may issue such regulations, including regulations prescribing definitions, as may be necessary for the exercise of the authorities granted by this chapter.
 
-([Pub. L. 95–223, title II, § 205][/us/pl/95/223/s205], Dec. 28, 1977, [91 Stat. 1628][/us/stat/91/1628].)
+([Pub. L. 95–223, title II][/us/pl/95/223/tII], § 205, Dec. 28, 1977, [91 Stat. 1628][/us/stat/91/1628].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/223/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs205
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1628
 
 

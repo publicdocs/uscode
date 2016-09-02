@@ -51,11 +51,11 @@
 
         A participant retired under this section shall receive retirement benefits in accordance with [section 2031 of this title][/us/usc/t50/s2031].
 
-([Pub. L. 88–643, title II, § 235][/us/pl/88/643/s235], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3225][/us/stat/106/3225]; amended [Pub. L. 111–259, title II, § 201][/us/pl/111/259/s201], Oct. 7, 2010, [124 Stat. 2657][/us/stat/124/2657].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 235, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3225][/us/stat/106/3225]; amended [Pub. L. 111–259, title II][/us/pl/111/259/tII], § 201, Oct. 7, 2010, [124 Stat. 2657][/us/stat/124/2657].)
 
  __Prior Provisions__ 
 
-    A prior [section 235 of Pub. L. 88–643][/us/pl/88/643/s235], title II, Oct. 13, 1964, [78 Stat. 1049][/us/stat/78/1049]; Ex. Ord. No. 12443, § 13, Sept. 27, 1983, 48 F.R. 44754; [Pub. L. 99–335, title V, § 501(2)][/us/pl/99/335/s501/2], June 6, 1986, [100 Stat. 622][/us/stat/100/622]; [Pub. L. 102–183, title III, § 307][/us/pl/102/183/s307], Dec. 4, 1991, [105 Stat. 1265][/us/stat/105/1265], related to mandatory retirement and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 235 of Pub. L. 88–643][/us/pl/88/643/s235], title II, Oct. 13, 1964, [78 Stat. 1049][/us/stat/78/1049]; Ex. Ord. No. 12443, § 13, Sept. 27, 1983, 48 F.R. 44754; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 501(2), June 6, 1986, [100 Stat. 622][/us/stat/100/622]; [Pub. L. 102–183, title III][/us/pl/102/183/tIII], § 307, Dec. 4, 1991, [105 Stat. 1265][/us/stat/105/1265], related to mandatory retirement and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -69,16 +69,16 @@
 ----------
 
 [/us/usc/t50/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031
-[/us/pl/88/643/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs235
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3225
-[/us/pl/111/259/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs201
+[/us/pl/111/259/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtII
 [/us/stat/124/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2657
 [/us/pl/88/643/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs235
 [/us/stat/78/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1049
-[/us/pl/99/335/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs501%2F2
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
-[/us/pl/102/183/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs307
+[/us/pl/102/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIII
 [/us/stat/105/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1265
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

@@ -41,7 +41,7 @@
 
         The Secretary may impose fees, in amounts up to full-cost recovery, for language services and technical assistance rendered by members of the Corps. Amounts of fees received under this section shall be credited to the account of the Department providing funds for any costs incurred by the Department in connection with the Corps. Amounts so credited to such account shall be merged with amounts in such account, and shall be available to the same extent, and subject to the same conditions and limitations, as amounts in such account. Any amounts so credited shall remain available until expended.
 
-([Pub. L. 102–183, title VIII, § 813][/us/pl/102/183/s813], as added [Pub. L. 112–239, div. A, title IX, § 954(a)][/us/pl/112/239/s954/a], Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 813, as added [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 954(a), Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895].)
 
 ----------
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t50/s1903/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1903%2Fd
-[/us/pl/102/183/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs813
-[/us/pl/112/239/s954/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs954%2Fa
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1895
 
 

@@ -25,7 +25,7 @@
 
     (d) Whenever, during the present war, the President shall deem that the public safety demands it, he may cause to be censored under such rules and regulations as he may from time to time establish, communications by mail, cable, radio, or other means of transmission passing between the United States and any foreign country he may from time to time specify, or which may be carried by any vessel or other means of transportation touching at any port, place, or territory of the United States and bound to or from any foreign country. Any person who willfully evades or attempts to evade the submission of any such communication to such censorship or willfully uses or attempts to use any code or other device for the purpose of concealing from such censorship the intended meaning of such communication shall be punished as provided in [section 4315 of this title][/us/usc/t50/s4315].
 
-([Oct. 6, 1917, ch. 106, § 3][/us/act/1917-10-06/ch106/s3], [40 Stat. 412][/us/stat/40/412].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 3, [40 Stat. 412][/us/stat/40/412].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
-[/us/act/1917-10-06/ch106/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs3
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F412
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

@@ -31,7 +31,7 @@
 
         The Secretary of Energy shall submit the supplement required under subsection (a) to the recipients of the plan referred to in subsection (d) of [section 2672 of this title][/us/usc/t50/s2672].
 
-([Pub. L. 107–314, div. D, title XLV, § 4523][/us/pl/107/314/s4523], formerly [Pub. L. 106–65, div. C, title XXXI, § 3149][/us/pl/106/65/s3149], Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4523][/us/pl/107/314/s4523], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(13)][/us/pl/108/136/s3141/h/13], Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775].)
+([Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4523, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3149, Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938]; renumbered [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4523, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(13), Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775].)
 
  __References in Text__ 
 
@@ -43,13 +43,13 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 3141(h)(13)(D)(i)][/us/pl/108/136/s3141/h/13/D/i], substituted “subsection (a) of [section 2672 of this title][/us/usc/t50/s2672]” for “subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2260][/us/stat/112/2260]; [50 U.S.C. 435][/us/usc/t50/s435] note)”.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 3141(h)(13)(D)(i), substituted “subsection (a) of [section 2672 of this title][/us/usc/t50/s2672]” for “subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2260][/us/stat/112/2260]; [50 U.S.C. 435][/us/usc/t50/s435] note)”.
 
-    Subsec. (b). [Pub. L. 108–136, § 3141(h)(13)(D)(ii)][/us/pl/108/136/s3141/h/13/D/ii], substituted “subsection (b)(1) of [section 2672 of this title][/us/usc/t50/s2672]” for “section 3161(b)(1) of that Act” and “October 17, 1998,” for “the date of the enactment of that Act”.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 3141(h)(13)(D)(ii), substituted “subsection (b)(1) of [section 2672 of this title][/us/usc/t50/s2672]” for “section 3161(b)(1) of that Act” and “October 17, 1998,” for “the date of the enactment of that Act”.
 
-    Subsec. (c). [Pub. L. 108–136, § 3141(h)(13)(D)(iii)][/us/pl/108/136/s3141/h/13/D/iii], substituted “subsection (c) of [section 2672 of this title][/us/usc/t50/s2672]” for “section 3161(c) of that Act” and “subsection (a) of such section” for “section 3161(a) of that Act”.
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 3141(h)(13)(D)(iii), substituted “subsection (c) of [section 2672 of this title][/us/usc/t50/s2672]” for “section 3161(c) of that Act” and “subsection (a) of such section” for “section 3161(a) of that Act”.
 
-    Subsec. (d). [Pub. L. 108–136, § 3141(h)(13)(D)(iv)][/us/pl/108/136/s3141/h/13/D/iv], substituted “subsection (d) of [section 2672 of this title][/us/usc/t50/s2672]” for “section 3161(d) of that Act”.
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 3141(h)(13)(D)(iv), substituted “subsection (d) of [section 2672 of this title][/us/usc/t50/s2672]” for “section 3161(d) of that Act”.
 
 ----------
 
@@ -62,24 +62,24 @@
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
-[/us/pl/107/314/s4523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4523
-[/us/pl/106/65/s3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3149
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F938
-[/us/pl/107/314/s4523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4523
-[/us/pl/108/136/s3141/h/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F13
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1775
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/136/s3141/h/13/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F13%2FD%2Fi
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/112/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2260
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/pl/108/136/s3141/h/13/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F13%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
-[/us/pl/108/136/s3141/h/13/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F13%2FD%2Fiii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
-[/us/pl/108/136/s3141/h/13/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F13%2FD%2Fiv
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
 
 

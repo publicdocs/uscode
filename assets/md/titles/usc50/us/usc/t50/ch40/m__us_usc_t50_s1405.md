@@ -85,7 +85,7 @@
 
 >     In this section, the term ‘weapon of mass destruction’ has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 ([50 U.S.C. 2302(1)][/us/usc/t50/s2302/1]).”
 
-\[[Pub. L. 107–107, div. A, title XV, § 1514(b)(2)][/us/pl/107/107/s1514/b/2], Dec. 28, 2001, [115 Stat. 1274][/us/stat/115/1274], provided that: 
+\[[Pub. L. 107–107, div. A, title XV][/us/pl/107/107/dA/tXV], § 1514(b)(2), Dec. 28, 2001, [115 Stat. 1274][/us/stat/115/1274], provided that: 
 
 > “The amendment made by paragraph (1) \[amending [section 1405(k) of Pub. L. 105–261][/us/pl/105/261/s1405/k], set out above\] shall apply with respect to periods of service on the advisory panel under section 1405 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[[Pub. L. 105–261][/us/pl/105/261]\] on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
@@ -109,7 +109,7 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-212
 [/us/usc/t50/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302%2F1
-[/us/pl/107/107/s1514/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1514%2Fb%2F2
+[/us/pl/107/107/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXV
 [/us/stat/115/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1274
 [/us/pl/105/261/s1405/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1405%2Fk
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261

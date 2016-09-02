@@ -89,11 +89,11 @@
 
         This section shall apply to a civil action pending on or filed after July 10, 2008.
 
-([Pub. L. 95–511, title VIII, § 802][/us/pl/95/511/s802], as added [Pub. L. 110–261, title II, § 201][/us/pl/110/261/s201], July 10, 2008, [122 Stat. 2468][/us/stat/122/2468].)
+([Pub. L. 95–511, title VIII][/us/pl/95/511/tVIII], § 802, as added [Pub. L. 110–261, title II][/us/pl/110/261/tII], § 201, July 10, 2008, [122 Stat. 2468][/us/stat/122/2468].)
 
  __References in Text__ 
 
-    [Section 1805b of this title][/us/usc/t50/s1805b], referred to in subsec. (a)(3), was repealed by [Pub. L. 110–261, title IV, § 403(a)(1)(A)][/us/pl/110/261/s403/a/1/A], July 10, 2008, [122 Stat. 2473][/us/stat/122/2473].
+    [Section 1805b of this title][/us/usc/t50/s1805b], referred to in subsec. (a)(3), was repealed by [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(a)(1)(A), July 10, 2008, [122 Stat. 2473][/us/stat/122/2473].
 
 ----------
 
@@ -106,11 +106,11 @@
 [/us/pl/110/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
 [/us/usc/t28/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1441
-[/us/pl/95/511/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs802
-[/us/pl/110/261/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs201
+[/us/pl/95/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVIII
+[/us/pl/110/261/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtII
 [/us/stat/122/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2468
 [/us/usc/t50/s1805b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805b
-[/us/pl/110/261/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fa%2F1%2FA
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2473
 
 

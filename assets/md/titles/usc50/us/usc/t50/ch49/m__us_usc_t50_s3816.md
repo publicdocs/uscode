@@ -65,7 +65,7 @@
 
         The President is empowered, through the Secretary of Defense, to require all producers of steel in the United States to make available, to individuals, firms, associations, companies, corporations, or organized manufacturing industries having orders for steel products or steel materials required by the armed forces, such percentages of the steel production of such producers, in equal proportion deemed necessary for the expeditious execution of orders for such products or materials. Compliance with such requirement shall be obligatory on all such producers of steel and such requirement shall take precedence over all orders and contracts theretofore placed with such producers. If any such producer of steel or the responsible head or heads thereof refuses to comply with such requirement, the President, through the Secretary of Defense, is authorized to take immediate possession of the plant or plants of such producer and, through the appropriate branch, bureau, or department of the armed forces, to insure compliance with such requirement. Any such producer of steel or the responsible head or heads thereof refusing to comply with such requirement shall be deemed guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than three years and a fine not exceeding $50,000.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 18, [62 Stat. 625][/us/stat/62/625]; [Pub. L. 93–155, title VIII, § 807(d)][/us/pl/93/155/s807/d], Nov. 16, 1973, [87 Stat. 616][/us/stat/87/616]; [Pub. L. 101–510, div. A, title XIII, § 1303(c)][/us/pl/101/510/s1303/c], Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 18, [62 Stat. 625][/us/stat/62/625]; [Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 807(d), Nov. 16, 1973, [87 Stat. 616][/us/stat/87/616]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1303(c), Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669].)
 
  __Codification__ 
 
@@ -96,9 +96,9 @@
 
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F625
-[/us/pl/93/155/s807/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs807%2Fd
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F616
-[/us/pl/101/510/s1303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1303%2Fc
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1669
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155

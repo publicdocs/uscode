@@ -17,7 +17,7 @@
 
     The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than four years following the enactment of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 211, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1111][/us/stat/76/1111].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 211, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1111][/us/stat/76/1111].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1111
 [/us/usc/t50/s4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4140
 [/us/usc/t50/s4143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4143

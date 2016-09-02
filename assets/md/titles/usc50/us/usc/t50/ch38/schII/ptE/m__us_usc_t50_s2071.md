@@ -103,17 +103,17 @@
 
         (2) If there is no executor or administrator, to such next of kin of the survivor annuitant as the Director determines to be legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 days from the date of death of the survivor annuitant.
 
-([Pub. L. 88–643, title II, § 241][/us/pl/88/643/s241], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3226][/us/stat/106/3226]; amended [Pub. L. 103–178, title II, § 202(a)(11)][/us/pl/103/178/s202/a/11], Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 241, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3226][/us/stat/106/3226]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(11), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
 
  __Prior Provisions__ 
 
-    A prior [section 241 of Pub. L. 88–643][/us/pl/88/643/s241], title II, Oct. 13, 1964, [78 Stat. 1049][/us/stat/78/1049]; [Pub. L. 94–522, title II, § 209][/us/pl/94/522/s209], Oct. 17, 1976, [90 Stat. 2471][/us/stat/90/2471]; Ex. Ord. No. 12443, § 5, Sept. 27, 1983, 48 F.R. 44752; [Pub. L. 99–335, title V, § 501(2)][/us/pl/99/335/s501/2], June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to disposition of contributions and interest in excess of benefits received and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 241 of Pub. L. 88–643][/us/pl/88/643/s241], title II, Oct. 13, 1964, [78 Stat. 1049][/us/stat/78/1049]; [Pub. L. 94–522, title II][/us/pl/94/522/tII], § 209, Oct. 17, 1976, [90 Stat. 2471][/us/stat/90/2471]; Ex. Ord. No. 12443, § 5, Sept. 27, 1983, 48 F.R. 44752; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 501(2), June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to disposition of contributions and interest in excess of benefits received and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
-    1993—Subsec. (c). [Pub. L. 103–178, § 202(a)(11)(A)][/us/pl/103/178/s202/a/11/A], substituted “A lump-sum payment authorized by subsection (d) or (e) of this [section 2121(d) of this title][/us/usc/t50/s2121/d] and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section” for “A lump-sum benefit that would have been payable to a participant, former participant, or annuitant, or to a survivor annuitant, authorized by subsection (d) or (e) of this section or by section 2054(b) or 2121(d) of this title”.
+    1993—Subsec. (c). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(11)(A), substituted “A lump-sum payment authorized by subsection (d) or (e) of this [section 2121(d) of this title][/us/usc/t50/s2121/d] and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section” for “A lump-sum benefit that would have been payable to a participant, former participant, or annuitant, or to a survivor annuitant, authorized by subsection (d) or (e) of this section or by section 2054(b) or 2121(d) of this title”.
 
-    Subsecs. (f), (g). [Pub. L. 103–178, § 202(a)(11)(B)][/us/pl/103/178/s202/a/11/B], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(11)(B), added subsec. (f) and redesignated former subsec. (f) as (g).
 
  __Effective Date of 1993 Amendment__ 
 
@@ -133,23 +133,23 @@
 [/us/usc/t50/s2094/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2094%2Fc
 [/us/usc/t50/s2031/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031%2Fb%2F1%2FD
 [/us/usc/t50/s2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2054
-[/us/pl/88/643/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs241
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3226
-[/us/pl/103/178/s202/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F11
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2026
 [/us/pl/88/643/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs241
 [/us/stat/78/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1049
-[/us/pl/94/522/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2Fs209
+[/us/pl/94/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtII
 [/us/stat/90/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2471
-[/us/pl/99/335/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs501%2F2
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
-[/us/pl/103/178/s202/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F11%2FA
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2121%2Fd
-[/us/pl/103/178/s202/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F11%2FB
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fb
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001

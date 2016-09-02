@@ -17,7 +17,7 @@
 
     The President may not prohibit or regulate the importation into the United States of any material determined to be strategic and critical pursuant to the provisions of this subchapter, if such material is the product of any foreign country or area not listed in general note 3(b) of the Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202][/us/usc/t19/s1202]), for so long as the importation into the United States of material of that kind which is the product of a country or area listed in such general note is not prohibited by any provision of law.
 
-([June 7, 1939, ch. 190, § 13][/us/act/1939-06-07/ch190/s13], formerly § 10, as added [Pub. L. 92–156, title V, § 503(2)][/us/pl/92/156/s503/2], Nov. 17, 1971, [85 Stat. 427][/us/stat/85/427]; renumbered § 13, [Pub. L. 96–41, § 2(b)(1)][/us/pl/96/41/s2/b/1], July 30, 1979, [93 Stat. 324][/us/stat/93/324]; amended [Pub. L. 100–180, div. C, title II, § 3206(b)][/us/pl/100/180/s3206/b], (c), Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 100–418, title I, § 1214][/us/pl/100/418/s1214](o), Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159]; [Pub. L. 104–201, div. C, title XXXIII, § 3313][/us/pl/104/201/s3313], Sept. 23, 1996, [110 Stat. 2857][/us/stat/110/2857].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 13, formerly § 10, as added [Pub. L. 92–156, title V][/us/pl/92/156/tV], § 503(2), Nov. 17, 1971, [85 Stat. 427][/us/stat/85/427]; renumbered § 13, [Pub. L. 96–41][/us/pl/96/41], § 2(b)(1), July 30, 1979, [93 Stat. 324][/us/stat/93/324]; amended [Pub. L. 100–180, div. C, title II][/us/pl/100/180/dC/tII], § 3206(b), (c), Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(o), Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159]; [Pub. L. 104–201, div. C, title XXXIII][/us/pl/104/201/dC/tXXXIII], § 3313, Sept. 23, 1996, [110 Stat. 2857][/us/stat/110/2857].)
 
  __References in Text__ 
 
@@ -47,16 +47,16 @@
 ----------
 
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/act/1939-06-07/ch190/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs13
-[/us/pl/92/156/s503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2Fs503%2F2
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/92/156/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2FtV
 [/us/stat/85/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F427
-[/us/pl/96/41/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fb%2F1
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F324
-[/us/pl/100/180/s3206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3206%2Fb
+[/us/pl/100/180/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtII
 [/us/stat/101/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1247
-[/us/pl/100/418/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1159
-[/us/pl/104/201/s3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3313
+[/us/pl/104/201/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXIII
 [/us/stat/110/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2857
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t50/s98h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%931

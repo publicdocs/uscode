@@ -17,7 +17,7 @@
 
     Whenever the Director, the Attorney General, and the Commissioner of Immigration and Naturalization shall determine that the admission of a particular alien into the United States for permanent residence is in the interest of national security or essential to the furtherance of the national intelligence mission, such alien and his immediate family shall be admitted to the United States for permanent residence without regard to their inadmissibility under the immigration or any other laws and regulations, or to the failure to comply with such laws and regulations pertaining to admissibility: Provided, That the number of aliens and members of their immediate families admitted to the United States under the authority of this section shall in no case exceed one hundred persons in any one fiscal year.
 
-([June 20, 1949, ch. 227, § 7][/us/act/1949-06-20/ch227/s7], formerly § 8, [63 Stat. 212][/us/stat/63/212]; renumbered § 7, [Pub. L. 85–507, § 21(b)(2)][/us/pl/85/507/s21/b/2], July 7, 1958, [72 Stat. 337][/us/stat/72/337]; [Pub. L. 104–208, div. C, title III, § 308(f)(6)][/us/pl/104/208/s308/f/6], Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 7, formerly § 8, [63 Stat. 212][/us/stat/63/212]; renumbered § 7, [Pub. L. 85–507][/us/pl/85/507], § 21(b)(2), July 7, 1958, [72 Stat. 337][/us/stat/72/337]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(f)(6), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Transfer of Functions__ 
 
-    Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, were transferred to Attorney General, with power vested in the Attorney General to authorize their performance or performance of any of the Attorney General’s functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, [64 Stat. 1261][/us/stat/64/1261], formerly set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 662][/us/stat/80/662]. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
+    Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, were transferred to Attorney General, with power vested in the Attorney General to authorize their performance or performance of any of the Attorney General’s functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, [64 Stat. 1261][/us/stat/64/1261], formerly set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 662][/us/stat/80/662]. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/act/1949-06-20/ch227/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs7
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/stat/63/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F212
-[/us/pl/85/507/s21/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507%2Fs21%2Fb%2F2
+[/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/stat/72/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F337
-[/us/pl/104/208/s308/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F6
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-622
 [/us/usc/t50/s403h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403h
 [/us/usc/t50/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3507
@@ -69,7 +69,7 @@
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/stat/64/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1261
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F662
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

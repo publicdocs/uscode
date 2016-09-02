@@ -53,7 +53,7 @@
 
         (14) An individual who at such time was a citizen or subject of Germany or who, at the time of the return of any money or other property, is a citizen or subject of Germany or is not a citizen or subject of any nation, State, or free city, and that the written consent provided for in subsection (m) of this section has been filed; or
 
-        (15) Repealed. [Aug. 6, 1956, ch. 1016, § 3][/us/act/1956-08-06/ch1016/s3], [70 Stat. 1073][/us/stat/70/1073].
+        (15) Repealed. [Aug. 6, 1956, ch. 1016][/us/act/1956-08-06/ch1016], § 3, [70 Stat. 1073][/us/stat/70/1073].
 
         (16) An individual, partnership, association, or other unincorporated body of individuals, or a corporation, and that the written consent provided for in subsection (m) has been filed, and that no suit or proceeding against the United States or any agency thereof is pending in respect of such return, and that such individual has filed a written waiver renouncing on behalf of himself, his heirs, successors, and assigns any claim based upon the fact that at the time of such return he was in fact entitled to such return under any other provision of this chapter; or
 
@@ -129,7 +129,7 @@
 
         The return of money or other property under paragraph (15), (17), (18), (19), (20), (21), or (22) of subsection (b) (relating to the return of Austrian and Hungarian nationals) shall be subject to the limitations imposed by subsections (d) and (e) of section 7 of the Settlement of War Claims Act of 1928.
 
-([Oct. 6, 1917, ch. 106, § 9][/us/act/1917-10-06/ch106/s9], [40 Stat. 419][/us/stat/40/419]; [July 11, 1919, ch. 6, § 1][/us/act/1919-07-11/ch6/s1], [41 Stat. 35][/us/stat/41/35]; [June 5, 1920, ch. 241][/us/act/1920-06-05/ch241], [41 Stat. 977][/us/stat/41/977]; [Feb. 27, 1921, ch. 76][/us/act/1921-02-27/ch76], [41 Stat. 1147][/us/stat/41/1147]; [Dec. 21, 1921, ch. 13][/us/act/1921-12-21/ch13], [42 Stat. 351][/us/stat/42/351]; [Dec. 27, 1922, ch. 13][/us/act/1922-12-27/ch13], [42 Stat. 1065][/us/stat/42/1065]; [Mar. 4, 1923, ch. 285, § 1][/us/act/1923-03-04/ch285/s1], [42 Stat. 1511][/us/stat/42/1511]; [May 7, 1926, ch. 252][/us/act/1926-05-07/ch252], [44 Stat. 406][/us/stat/44/406]; [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], §§ 11–14, 20, [45 Stat. 270–273][/us/stat/45/270-273], 277; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Aug. 24, 1937, ch. 745][/us/act/1937-08-24/ch745], [50 Stat. 748][/us/stat/50/748]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Aug. 6, 1956, ch. 1016, § 3][/us/act/1956-08-06/ch1016/s3], [70 Stat. 1073][/us/stat/70/1073]; [Pub. L. 87–846, title II, § 203][/us/pl/87/846/s203], Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 9, [40 Stat. 419][/us/stat/40/419]; [July 11, 1919, ch. 6][/us/act/1919-07-11/ch6], § 1, [41 Stat. 35][/us/stat/41/35]; [June 5, 1920, ch. 241][/us/act/1920-06-05/ch241], [41 Stat. 977][/us/stat/41/977]; [Feb. 27, 1921, ch. 76][/us/act/1921-02-27/ch76], [41 Stat. 1147][/us/stat/41/1147]; [Dec. 21, 1921, ch. 13][/us/act/1921-12-21/ch13], [42 Stat. 351][/us/stat/42/351]; [Dec. 27, 1922, ch. 13][/us/act/1922-12-27/ch13], [42 Stat. 1065][/us/stat/42/1065]; [Mar. 4, 1923, ch. 285][/us/act/1923-03-04/ch285], § 1, [42 Stat. 1511][/us/stat/42/1511]; [May 7, 1926, ch. 252][/us/act/1926-05-07/ch252], [44 Stat. 406][/us/stat/44/406]; [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], §§ 11–14, 20, [45 Stat. 270–273][/us/stat/45/270-273], 277; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Aug. 24, 1937, ch. 745][/us/act/1937-08-24/ch745], [50 Stat. 748][/us/stat/50/748]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Aug. 6, 1956, ch. 1016][/us/act/1956-08-06/ch1016], § 3, [70 Stat. 1073][/us/stat/70/1073]; [Pub. L. 87–846, title II][/us/pl/87/846/tII], § 203, Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113].)
 
  __References in Text__ 
 
@@ -189,7 +189,7 @@
 ----------
 
 [/us/usc/t28/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346
-[/us/act/1956-08-06/ch1016/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1016%2Fs3
+[/us/act/1956-08-06/ch1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1016
 [/us/stat/70/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1073
 [/us/usc/t50/s4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4324
 [/us/usc/t50/s4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4310
@@ -197,9 +197,9 @@
 [/us/usc/t50/s4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4322
 [/us/usc/t50/s4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4322
 [/us/usc/t50/s4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4312
-[/us/act/1917-10-06/ch106/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs9
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F419
-[/us/act/1919-07-11/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-11%2Fch6%2Fs1
+[/us/act/1919-07-11/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-11%2Fch6
 [/us/stat/41/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F35
 [/us/act/1920-06-05/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch241
 [/us/stat/41/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F977
@@ -209,7 +209,7 @@
 [/us/stat/42/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F351
 [/us/act/1922-12-27/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-12-27%2Fch13
 [/us/stat/42/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1065
-[/us/act/1923-03-04/ch285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch285%2Fs1
+[/us/act/1923-03-04/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch285
 [/us/stat/42/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1511
 [/us/act/1926-05-07/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch252
 [/us/stat/44/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F406
@@ -219,13 +219,13 @@
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
 [/us/act/1937-08-24/ch745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch745
 [/us/stat/50/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F748
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/act/1956-08-06/ch1016/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1016%2Fs3
+[/us/act/1956-08-06/ch1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch1016
 [/us/stat/70/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1073
-[/us/pl/87/846/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs203
+[/us/pl/87/846/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtII
 [/us/stat/76/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1113
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

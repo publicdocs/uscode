@@ -35,7 +35,7 @@
 
         (C) that the head of such element will submit such information as soon as possible after the submission of such statement.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 508, as added [Pub. L. 111–259, title III, § 332(a)][/us/pl/111/259/s332/a], Oct. 7, 2010, [124 Stat. 2686][/us/stat/124/2686].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 508, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 332(a), Oct. 7, 2010, [124 Stat. 2686][/us/stat/124/2686].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Applicability Date__ 
 
-[Pub. L. 111–259, title III, § 332(b)][/us/pl/111/259/s332/b], Oct. 7, 2010, [124 Stat. 2687][/us/stat/124/2687], provided that: 
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 332(b), Oct. 7, 2010, [124 Stat. 2687][/us/stat/124/2687], provided that: 
 
 > “The first certification or statement required to be submitted by the head of each element of the intelligence community under section 508 of the National Security Act of 1947 \[[50 U.S.C. 3107][/us/usc/t50/s3107]\], as added by subsection (a), shall be submitted not later than 90 days after the date of the enactment of this Act \[Oct. 7, 2010\].”
 
@@ -61,12 +61,12 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs332%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2686
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s415d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415d
-[/us/pl/111/259/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs332%2Fb
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2687
 [/us/usc/t50/s3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3107
 [/us/pl/111/259/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs332%2Fb

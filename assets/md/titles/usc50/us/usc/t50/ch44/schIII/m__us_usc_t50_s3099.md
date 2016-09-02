@@ -83,7 +83,7 @@
 
         (5) The term “vulnerability assessment” means the process of identifying and quantifying vulnerabilities in a major system and its significant items of supply.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506C, as added [Pub. L. 111–259, title III, § 321(a)(1)][/us/pl/111/259/s321/a/1], Oct. 7, 2010, [124 Stat. 2667][/us/stat/124/2667].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506C, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 321(a)(1), Oct. 7, 2010, [124 Stat. 2667][/us/stat/124/2667].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t41/s403/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F10
 [/us/usc/t50/s3097/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3097%2Fe
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs321%2Fa%2F1
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2667
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677

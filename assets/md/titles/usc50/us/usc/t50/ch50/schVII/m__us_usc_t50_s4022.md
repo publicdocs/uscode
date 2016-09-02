@@ -41,7 +41,7 @@
 
         A power of attorney executed by a servicemember may not be extended under subsection (a) if the document by its terms clearly indicates that the power granted expires on the date specified even though the servicemember, after the date of execution of the document, enters a missing status.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 702, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2861][/us/stat/117/2861].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 702, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2861][/us/stat/117/2861].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 702 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 102–12, § 4][/us/pl/102/12/s4], Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34]; amended [Pub. L. 104–106, div. A, title XV, § 1501(e)(3)][/us/pl/104/106/s1501/e/3], Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501], related to professional liability protection for certain persons ordered to active duty in armed forces, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4023 of this title][/us/usc/t50/s4023].
+    A prior section 702 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 102–12][/us/pl/102/12], § 4, Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(e)(3), Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501], related to professional liability protection for certain persons ordered to active duty in armed forces, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4023 of this title][/us/usc/t50/s4023].
 
 ----------
 
@@ -60,12 +60,12 @@
 
 [/us/usc/t37/s551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs551%2F2
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2861
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/102/12/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs4
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F34
-[/us/pl/104/106/s1501/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fe%2F3
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F501
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4023

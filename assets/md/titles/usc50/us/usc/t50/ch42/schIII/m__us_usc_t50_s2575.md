@@ -93,7 +93,7 @@
 
         The plan required by subsection (a) shall be submitted to the congressional defense committees in unclassified form, but may include a classified annex if necessary.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4309][/us/pl/107/314/s4309], as added [Pub. L. 114–92, div. C, title XXXI, § 3132(a)(1)][/us/pl/114/92/s3132/a/1], Nov. 25, 2015, [129 Stat. 1202][/us/stat/129/1202].)
+([Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4309, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3132(a)(1), Nov. 25, 2015, [129 Stat. 1202][/us/stat/129/1202].)
 
 ----------
 
@@ -106,8 +106,8 @@
 [/us/usc/t50/s2569/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2569%2Ff
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t50/s2569/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2569%2Ff
-[/us/pl/107/314/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4309
-[/us/pl/114/92/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3132%2Fa%2F1
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1202
 
 

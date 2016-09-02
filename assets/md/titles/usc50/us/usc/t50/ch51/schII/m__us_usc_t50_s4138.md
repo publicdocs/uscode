@@ -17,7 +17,7 @@
 
     No award shall be made under this subchapter to or for the benefit of (1) any person who has been convicted of a violation of any provision of chapter 115, title 18, or of any other crime involving disloyalty to the United States, or (2) any claimant whose claim under this subchapter is within the scope of title III of the International Claims Settlement Act of 1949, as amended ([69 Stat. 570][/us/stat/69/570]) \[[22 U.S.C. 1641][/us/usc/t22/s1641] et seq.\], except any claimant whose award under section 303(1) of title III of the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1641b(1)][/us/usc/t22/s1641b/1]\], is recertified pursuant to subsection (b) of [section 4139 of this title][/us/usc/t50/s4139].
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 208, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1110][/us/stat/76/1110].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 208, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1110][/us/stat/76/1110].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t22/s1641b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641b%2F1
 [/us/usc/t50/s4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4139
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1110
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F12

@@ -37,7 +37,7 @@
 
         The building constructed under subsection (a) shall commence operations by not later than December 31, 2026.
 
-([Pub. L. 107–314, div. D, title XLII, § 4215][/us/pl/107/314/s4215], as added [Pub. L. 112–239, div. C, title XXXI, § 3114(a)(1)][/us/pl/112/239/s3114/a/1], Jan. 2, 2013, [126 Stat. 2170][/us/stat/126/2170]; amended [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(9)][/us/pl/113/66/s3146/c/9], Dec. 26, 2013, [127 Stat. 1075][/us/stat/127/1075].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4215, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3114(a)(1), Jan. 2, 2013, [126 Stat. 2170][/us/stat/126/2170]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(c)(9), Dec. 26, 2013, [127 Stat. 1075][/us/stat/127/1075].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Alternative Plutonium Strategy; Full Operational Capability of Replacement Project__ 
 
-[Pub. L. 112–239, div. C, title XXXI, § 3114(c)][/us/pl/112/239/s3114/c]–(e), Jan. 2, 2013, [126 Stat. 2171][/us/stat/126/2171], 2172, as amended by [Pub. L. 113–66, div. C, title XXXI, § 3117][/us/pl/113/66/s3117], Dec. 26, 2013, [127 Stat. 1058][/us/stat/127/1058], provided that:
+[Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3114(c)–(e), Jan. 2, 2013, [126 Stat. 2171][/us/stat/126/2171], 2172, as amended by [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3117, Dec. 26, 2013, [127 Stat. 1058][/us/stat/127/1058], provided that:
 
 >     “(c) __Limitation on Alternative Plutonium Strategy.—__ 
 
@@ -104,15 +104,15 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4215
-[/us/pl/112/239/s3114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3114%2Fa%2F1
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2170
-[/us/pl/113/66/s3146/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F9
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1075
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s3114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3114%2Fc
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2171
-[/us/pl/113/66/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3117
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1058
 [/us/usc/t50/s2535/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2535%2Fe
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179

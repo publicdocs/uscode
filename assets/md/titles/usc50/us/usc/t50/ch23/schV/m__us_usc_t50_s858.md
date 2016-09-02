@@ -17,7 +17,7 @@
 
     This subchapter applies to and within the Canal Zone.
 
-([Aug. 1, 1956, ch. 849, § 10][/us/act/1956-08-01/ch849/s10], as added [Pub. L. 87–845, § 13][/us/pl/87/845/s13], Oct. 18, 1962, [76A Stat. 700][/us/stat/76A/700].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 10, as added [Pub. L. 87–845][/us/pl/87/845], § 13, Oct. 18, 1962, [76A Stat. 700][/us/stat/76A/700].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch849/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs10
-[/us/pl/87/845/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs13
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F700
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/87/845/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs25

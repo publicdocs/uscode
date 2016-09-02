@@ -17,7 +17,7 @@
 
     The Secretary of Energy may conduct programs designed to improve the protection, control, and accountability of fissile materials in Russia.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4305][/us/pl/107/314/s4305], formerly [Pub. L. 104–106, div. C, title XXXI, § 3131][/us/pl/104/106/s3131], Feb. 10, 1996, [110 Stat. 617][/us/stat/110/617]; [Pub. L. 107–314, div. C, title XXXI, § 3152][/us/pl/107/314/s3152], Dec. 2, 2002, [116 Stat. 2738][/us/stat/116/2738]; renumbered [Pub. L. 107–314, div. D, title XLIII, § 4305][/us/pl/107/314/s4305], by [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(6)][/us/pl/108/136/s3141/f/6], Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763].)
+([Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4305, formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3131, Feb. 10, 1996, [110 Stat. 617][/us/stat/110/617]; [Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3152, Dec. 2, 2002, [116 Stat. 2738][/us/stat/116/2738]; renumbered [Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4305, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(f)(6), Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763].)
 
  __Codification__ 
 
@@ -25,11 +25,11 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–314, § 3152][/us/pl/107/314/s3152], struck out subsec. (a) designation and heading “Authority” and subsec. (b) heading and text. Prior to amendment, subsec. (b) related to semi-annual reports on obligations of funds.
+    2002—[Pub. L. 107–314][/us/pl/107/314], § 3152, struck out subsec. (a) designation and heading “Authority” and subsec. (b) heading and text. Prior to amendment, subsec. (b) related to semi-annual reports on obligations of funds.
 
  __Completion of Material Protection, Control, and Accounting Activities in the Russian Federation__ 
 
-[Pub. L. 113–291, div. C, title XXXI, § 3122(b)][/us/pl/113/291/s3122/b], Dec. 19, 2014, [128 Stat. 3894][/us/stat/128/3894], provided that:
+[Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3122(b), Dec. 19, 2014, [128 Stat. 3894][/us/stat/128/3894], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4305
-[/us/pl/104/106/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3131
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F617
-[/us/pl/107/314/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3152
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2738
-[/us/pl/107/314/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4305
-[/us/pl/108/136/s3141/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F6
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1763
 [/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/107/314/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3152
-[/us/pl/113/291/s3122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3122%2Fb
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3894
 
 

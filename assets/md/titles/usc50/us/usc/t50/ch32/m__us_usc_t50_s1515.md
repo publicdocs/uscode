@@ -17,7 +17,7 @@
 
     After November 19, 1969, the operation of this chapter, or any portion thereof, may be suspended by the President during the period of any war declared by Congress and during the period of any national emergency declared by Congress or by the President.
 
-([Pub. L. 91–121, title IV, § 409(e)][/us/pl/91/121/s409/e], Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210].)
+([Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409(e), Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/121/s409/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409%2Fe
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F210
 
 

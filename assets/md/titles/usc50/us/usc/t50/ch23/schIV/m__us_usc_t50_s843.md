@@ -19,7 +19,7 @@
 
     (b) For the purposes of this section, the term “Communist Party” means the organization now known as the Communist Party of the United States of America, the Communist Party of any State or subdivision thereof, and any unit or subdivision of any such organization, whether or not any change is hereafter made in the name thereof.
 
-([Aug. 24, 1954, ch. 886, § 4][/us/act/1954-08-24/ch886/s4], [68 Stat. 776][/us/stat/68/776].)
+([Aug. 24, 1954, ch. 886][/us/act/1954-08-24/ch886], § 4, [68 Stat. 776][/us/stat/68/776].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t50/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs781
-[/us/act/1954-08-24/ch886/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886%2Fs4
+[/us/act/1954-08-24/ch886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886
 [/us/stat/68/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F776
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F987

@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “sections 7512 and 7532 of title 5” substituted for “[section 14 of the Act of June 27, 1944][/us/act/1944-06-27/s14], chapter 287, as amended ([5 U.S.C. 863][/us/usc/t5/s863]), [section 1 of the Act of August 26, 1950][/us/act/1950-08-26/s1], chapter 803, as amended ([5 U.S.C. 22–1][/us/usc/t5/s22–1])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. Sections 7511 and 7512 (which related to adverse actions against preference eligible employees and comprised subchapter II of chapter 75) were repealed by [Pub. L. 95–454][/us/pl/95/454] and replaced by a new subchapter II (§§ 7511–7514) of chapter 75 (relating to removal, suspension for more than 14 days, reduction in grade or pay, or furlough for 30 days or less).
+    In subsec. (b), “sections 7512 and 7532 of title 5” substituted for “[section 14 of the Act of June 27, 1944][/us/act/1944-06-27/s14], chapter 287, as amended ([5 U.S.C. 863][/us/usc/t5/s863]), [section 1 of the Act of August 26, 1950][/us/act/1950-08-26/s1], chapter 803, as amended ([5 U.S.C. 22–1][/us/usc/t5/s22–1])” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. Sections 7511 and 7512 (which related to adverse actions against preference eligible employees and comprised subchapter II of chapter 75) were repealed by [Pub. L. 95–454][/us/pl/95/454] and replaced by a new subchapter II (§§ 7511–7514) of chapter 75 (relating to removal, suspension for more than 14 days, reduction in grade or pay, or furlough for 30 days or less).
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t5/s863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs863
 [/us/act/1950-08-26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-26%2Fs1
 [/us/usc/t5/s22–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs22%E2%80%931
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 

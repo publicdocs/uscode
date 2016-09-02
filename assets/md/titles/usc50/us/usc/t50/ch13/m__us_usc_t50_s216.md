@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5312 derived from [act May 20, 1862, ch. 81, § 3][/us/act/1862-05-20/ch81/s3], [12 Stat. 404][/us/stat/12/404].
+    R.S. § 5312 derived from [act May 20, 1862, ch. 81][/us/act/1862-05-20/ch81], § 3, [12 Stat. 404][/us/stat/12/404].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1862-05-20/ch81/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-20%2Fch81%2Fs3
+[/us/act/1862-05-20/ch81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-20%2Fch81
 [/us/stat/12/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F404
 
 

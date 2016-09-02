@@ -23,7 +23,7 @@
 
         Any procurement regulation, procedure, or form issued pursuant to subsection (a) shall be issued pursuant to section 25 of the Office of Federal Procurement Policy Act \[now [41 U.S.C. 1302][/us/usc/t41/s1302], 1303\], and shall conform to any governmentwide procurement policy or regulation issued pursuant to section 6 or 25 of that Act \[see [41 U.S.C. 1121][/us/usc/t41/s1121] et seq., 1302, 1303\].
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 704, [64 Stat. 816][/us/stat/64/816]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(c), [65 Stat. 139][/us/stat/65/139]; [Pub. L. 102–558, title I, § 134][/us/pl/102/558/s134], Oct. 28, 1992, [106 Stat. 4212][/us/stat/106/4212].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 704, [64 Stat. 816][/us/stat/64/816]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(c), [65 Stat. 139][/us/stat/65/139]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 134, Oct. 28, 1992, [106 Stat. 4212][/us/stat/106/4212].)
 
  __Termination of Section__ 
 
@@ -67,7 +67,7 @@
 [/us/stat/64/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F816
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F139
-[/us/pl/102/558/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs134
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4212
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932

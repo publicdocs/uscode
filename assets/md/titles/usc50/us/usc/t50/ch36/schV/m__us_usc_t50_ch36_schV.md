@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–23, title IV, § 402(a)(1)][/us/pl/114/23/s402/a/1], June 2, 2015, [129 Stat. 281][/us/stat/129/281], substituted “OVERSIGHT” for “REPORTING REQUIREMENT” in heading.
+    2015—[Pub. L. 114–23, title IV][/us/pl/114/23/tIV], § 402(a)(1), June 2, 2015, [129 Stat. 281][/us/stat/129/281], substituted “OVERSIGHT” for “REPORTING REQUIREMENT” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/114/23/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs402%2Fa%2F1
+[/us/pl/114/23/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtIV
 [/us/stat/129/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F281
 
 

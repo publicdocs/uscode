@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptA/m__us_usc_t50_s2583.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptA/m__us_usc_t50_s2585.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2584)
 
-## § 2584. Repealed. [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(5)][/us/pl/113/66/s3146/e/5], Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076]
+## § 2584. Repealed. [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(5), Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076]
 
-    Section, [Pub. L. 107–314, div. D, title XLIV, § 4404][/us/pl/107/314/s4404], formerly [Pub. L. 103–160, div. C, title XXXI, § 3153][/us/pl/103/160/s3153], Nov. 30, 1993, [107 Stat. 1950][/us/stat/107/1950]; [Pub. L. 103–337, div. C, title XXXI, § 3160(b)][/us/pl/103/337/s3160/b]–(d), Oct. 5, 1994, [108 Stat. 3094][/us/stat/108/3094]; [Pub. L. 104–201, div. C, title XXXI, § 3152][/us/pl/104/201/s3152], Sept. 23, 1996, [110 Stat. 2839][/us/stat/110/2839]; [Pub. L. 105–85, div. C, title XXXI, § 3160][/us/pl/105/85/s3160], Nov. 18, 1997, [111 Stat. 2048][/us/stat/111/2048]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4404][/us/pl/107/314/s4404], by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(5)][/us/pl/108/136/s3141/g/5], Nov. 24, 2003, [117 Stat. 1765][/us/stat/117/1765], related to baseline environmental management reports.
+    Section, [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4404, formerly [Pub. L. 103–160, div. C, title XXXI][/us/pl/103/160/dC/tXXXI], § 3153, Nov. 30, 1993, [107 Stat. 1950][/us/stat/107/1950]; [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3160(b)–(d), Oct. 5, 1994, [108 Stat. 3094][/us/stat/108/3094]; [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3152, Sept. 23, 1996, [110 Stat. 2839][/us/stat/110/2839]; [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3160, Nov. 18, 1997, [111 Stat. 2048][/us/stat/111/2048]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4404, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(5), Nov. 24, 2003, [117 Stat. 1765][/us/stat/117/1765], related to baseline environmental management reports.
 
 ----------
 
@@ -24,19 +24,19 @@
 ----------
 ----------
 
-[/us/pl/113/66/s3146/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F5
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1076
-[/us/pl/107/314/s4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4404
-[/us/pl/103/160/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3153
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/103/160/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXI
 [/us/stat/107/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1950
-[/us/pl/103/337/s3160/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3160%2Fb
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3094
-[/us/pl/104/201/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3152
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2839
-[/us/pl/105/85/s3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3160
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2048
-[/us/pl/107/314/s4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4404
-[/us/pl/108/136/s3141/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F5
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1765
 
 

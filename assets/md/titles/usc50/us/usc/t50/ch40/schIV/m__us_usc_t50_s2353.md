@@ -63,7 +63,7 @@
 
         (3) The report shall be in an unclassified form. If there is a classified version of the report, the President shall submit the classified version at the same time.
 
-([Pub. L. 104–201, div. A, title XIV, § 1443][/us/pl/104/201/s1443], Sept. 23, 1996, [110 Stat. 2728][/us/stat/110/2728].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1443, Sept. 23, 1996, [110 Stat. 2728][/us/stat/110/2728].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 
 [/us/usc/t50/s2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2352
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/104/201/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1443
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2728
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2714

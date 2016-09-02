@@ -53,7 +53,7 @@
 
         (2) the person shows by a preponderance of the evidence that the failure of the person to register was not a knowing and willful failure to register.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 12, [62 Stat. 622][/us/stat/62/622]; [Pub. L. 89–152][/us/pl/89/152], Aug. 30, 1965, [79 Stat. 586][/us/stat/79/586]; [Pub. L. 90–40, § 1(11)][/us/pl/90/40/s1/11], June 30, 1967, [81 Stat. 105][/us/stat/81/105]; [Pub. L. 92–129, title I, § 101(a)(31)][/us/pl/92/129/s101/a/31], Sept. 28, 1971, [85 Stat. 352][/us/stat/85/352]; [Pub. L. 97–86, title IX, § 916(b)][/us/pl/97/86/s916/b], Dec. 1, 1981, [95 Stat. 1129][/us/stat/95/1129]; [Pub. L. 97–252, title XI, § 1113(a)][/us/pl/97/252/s1113/a], Sept. 8, 1982, [96 Stat. 748][/us/stat/96/748]; [Pub. L. 98–620, title IV, § 402(54)][/us/pl/98/620/s402/54], Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 99–661, div. A, title XIII, § 1366][/us/pl/99/661/s1366], Nov. 14, 1986, [100 Stat. 4002][/us/stat/100/4002].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 12, [62 Stat. 622][/us/stat/62/622]; [Pub. L. 89–152][/us/pl/89/152], Aug. 30, 1965, [79 Stat. 586][/us/stat/79/586]; [Pub. L. 90–40][/us/pl/90/40], § 1(11), June 30, 1967, [81 Stat. 105][/us/stat/81/105]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(31), Sept. 28, 1971, [85 Stat. 352][/us/stat/85/352]; [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 916(b), Dec. 1, 1981, [95 Stat. 1129][/us/stat/95/1129]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1113(a), Sept. 8, 1982, [96 Stat. 748][/us/stat/96/748]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(54), Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1366, Nov. 14, 1986, [100 Stat. 4002][/us/stat/100/4002].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1986—Subsec. (f)(1). [Pub. L. 99–661, § 1366(1)][/us/pl/99/661/s1366/1], substituted “Except as provided in subsection (g), any person” for “Any person”.
+    1986—Subsec. (f)(1). [Pub. L. 99–661][/us/pl/99/661], § 1366(1), substituted “Except as provided in subsection (g), any person” for “Any person”.
 
-    Subsec. (g). [Pub. L. 99–661, § 1366(2)][/us/pl/99/661/s1366/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–661][/us/pl/99/661], § 1366(2), added subsec. (g).
 
     1984—Subsec. (a). [Pub. L. 98–620][/us/pl/98/620] struck out sentence at end requiring that precedence be given by courts to the trial of cases arising under this chapter, and that such cases had to be advanced on the docket for immediate hearing, and that an appeal from the decision or decree of any United States district court or United States court of appeals would take precedence over all other cases pending before the court to which the case had been referred.
 
@@ -81,9 +81,9 @@
 
     1971—Subsec. (d). [Pub. L. 92–129][/us/pl/92/129] added subsec. (d).
 
-    1967—Subsec. (a). [Pub. L. 90–40, § 1(11)(a)][/us/pl/90/40/s1/11/a], struck out requirement that a request of the Attorney General precede the granting of precedence to the trial of cases arising under this chapter and inserted provision that appeals from a decision or decree of any United States District Court or United States Court of Appeals take precedence over all other cases pending before the court to which the case has been referred.
+    1967—Subsec. (a). [Pub. L. 90–40][/us/pl/90/40], § 1(11)(a), struck out requirement that a request of the Attorney General precede the granting of precedence to the trial of cases arising under this chapter and inserted provision that appeals from a decision or decree of any United States District Court or United States Court of Appeals take precedence over all other cases pending before the court to which the case has been referred.
 
-    Subsec. (c). [Pub. L. 90–40, § 1(11)(b)][/us/pl/90/40/s1/11/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 90–40][/us/pl/90/40], § 1(11)(b), added subsec. (c).
 
     1965—Subsec. (b)(3). [Pub. L. 89–152][/us/pl/89/152] prohibited a person from knowingly destroying or knowingly mutilating any registration certificate or other prescribed certificate.
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–252, title XI, § 1113(b)][/us/pl/97/252/s1113/b], Sept. 8, 1982, [96 Stat. 748][/us/stat/96/748], provided that: 
+[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1113(b), Sept. 8, 1982, [96 Stat. 748][/us/stat/96/748], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to loans, grants, or work assistance under title IV of the Higher Education Act \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq.; [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] for periods of instruction beginning after June 30, 1983.”
 
@@ -274,17 +274,17 @@ The following actions shall be taken to facilitate Presidential Proclamation of 
 [/us/stat/62/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F622
 [/us/pl/89/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F152
 [/us/stat/79/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F586
-[/us/pl/90/40/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F11
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/stat/81/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F105
-[/us/pl/92/129/s101/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F31
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F352
-[/us/pl/97/86/s916/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs916%2Fb
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1129
-[/us/pl/97/252/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1113%2Fa
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F748
-[/us/pl/98/620/s402/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F54
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3361
-[/us/pl/99/661/s1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1366
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4002
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
@@ -294,19 +294,19 @@ The following actions shall be taken to facilitate Presidential Proclamation of 
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/661/s1366/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1366%2F1
-[/us/pl/99/661/s1366/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1366%2F2
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
 [/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
-[/us/pl/90/40/s1/11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F11%2Fa
-[/us/pl/90/40/s1/11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F11%2Fb
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/pl/89/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F152
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657
-[/us/pl/97/252/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1113%2Fb
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F748
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751

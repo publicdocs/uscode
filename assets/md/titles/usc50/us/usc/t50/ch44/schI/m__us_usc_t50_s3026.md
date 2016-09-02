@@ -69,7 +69,7 @@
 
         (6) A commissioned officer of the Armed Forces on active duty who is appointed to a position specified in paragraph (2), while serving in such position and while remaining on active duty, shall continue to receive military pay and allowances and shall not receive the pay prescribed for such position. Funds from which such pay and allowances are paid shall be reimbursed from funds available to the Director of National Intelligence.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103A, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3656][/us/stat/118/3656].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103A, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3656][/us/stat/118/3656].)
 
  __Codification__ 
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3656
 [/us/usc/t50/s403–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933a
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

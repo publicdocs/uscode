@@ -35,7 +35,7 @@
 
         The individual serving in the position of Director of National Intelligence shall not, while so serving, also serve as the Director of the Central Intelligence Agency or as the head of any other element of the intelligence community.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3644][/us/stat/118/3644].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3644][/us/stat/118/3644].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 102 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, as added and amended [Pub. L. 104–293, title VIII][/us/pl/104/293], §§ 805(a), 809(a), 810, 811, Oct. 11, 1996, [110 Stat. 3477][/us/stat/110/3477], 3481, 3482; [Pub. L. 105–107, title IV, § 405][/us/pl/105/107/s405], Nov. 20, 1997, [111 Stat. 2261][/us/stat/111/2261]; [Pub. L. 105–272, title III, § 306][/us/pl/105/272/s306], Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401], related to Office of the Director of Central Intelligence prior to repeal by [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1011(a), 1097(a), Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See [section 3036 of this title][/us/usc/t50/s3036].
+    A prior section 102 of [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], as added and amended [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], §§ 805(a), 809(a), 810, 811, Oct. 11, 1996, [110 Stat. 3477][/us/stat/110/3477], 3481, 3482; [Pub. L. 105–107, title IV][/us/pl/105/107/tIV], § 405, Nov. 20, 1997, [111 Stat. 2261][/us/stat/111/2261]; [Pub. L. 105–272, title III][/us/pl/105/272/tIII], § 306, Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401], related to Office of the Director of Central Intelligence prior to repeal by [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1011(a), 1097(a), Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See [section 3036 of this title][/us/usc/t50/s3036].
 
-    Another prior section 102 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, [61 Stat. 497][/us/stat/61/497]; [act Apr. 4, 1953, ch. 16][/us/act/1953-04-04/ch16], [67 Stat. 19][/us/stat/67/19]; [Pub. L. 102–496, title VII, § 704][/us/pl/102/496/s704], Oct. 24, 1992, [106 Stat. 3189][/us/stat/106/3189]; [Pub. L. 104–93, title VII, § 701][/us/pl/104/93/s701], Jan. 6, 1996, [109 Stat. 977][/us/stat/109/977]; [Pub. L. 104–106, div. A, title V, § 570][/us/pl/104/106/s570], Feb. 10, 1996, [110 Stat. 353][/us/stat/110/353], related to establishment of Central Intelligence Agency and appointment and functions of its Director and Deputy Director prior to repeal by [Pub. L. 104–293, title VIII, § 805(a)][/us/pl/104/293/s805/a], Oct. 11, 1996, [110 Stat. 3477][/us/stat/110/3477].
+    Another prior section 102 of [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], [61 Stat. 497][/us/stat/61/497]; [act Apr. 4, 1953, ch. 16][/us/act/1953-04-04/ch16], [67 Stat. 19][/us/stat/67/19]; [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 704, Oct. 24, 1992, [106 Stat. 3189][/us/stat/106/3189]; [Pub. L. 104–93, title VII][/us/pl/104/93/tVII], § 701, Jan. 6, 1996, [109 Stat. 977][/us/stat/109/977]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 570, Feb. 10, 1996, [110 Stat. 353][/us/stat/110/353], related to establishment of Central Intelligence Agency and appointment and functions of its Director and Deputy Director prior to repeal by [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 805(a), Oct. 11, 1996, [110 Stat. 3477][/us/stat/110/3477].
 
  __Effective Date__ 
 
@@ -59,7 +59,7 @@
 
  __Merger of the Foreign Counterintelligence Program and the General Defense Intelligence Program__ 
 
-[Pub. L. 113–126, title III, § 314][/us/pl/113/126/s314], July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that: 
+[Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 314, July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that: 
 
 > “Notwithstanding any other provision of law, the Director of National Intelligence shall carry out the merger of the Foreign Counterintelligence Program into the General Defense Intelligence Program as directed in the classified annex to this Act \[see Tables for classification\]. The merger shall go into effect no earlier than 30 days after written notification of the merger is provided to the congressional intelligence committees.”
 
@@ -67,7 +67,7 @@
 
  __Presidential Guidelines on Implementation and Preservation of Authorities__ 
 
-[Pub. L. 108–458, title I, § 1018][/us/pl/108/458/s1018], Dec. 17, 2004, [118 Stat. 3670][/us/stat/118/3670], provided that: 
+[Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1018, Dec. 17, 2004, [118 Stat. 3670][/us/stat/118/3670], provided that: 
 
 > “The President shall issue guidelines to ensure the effective implementation and execution within the executive branch of the authorities granted to the Director of National Intelligence by this title \[see Tables for classification\] and the amendments made by this title, in a manner that respects and does not abrogate the statutory responsibilities of the heads of the departments of the United States Government concerning such departments, including, but not limited to:
 
@@ -89,7 +89,7 @@
 
  __Findings Regarding Improvement of Equality of Employment Opportunities in the Intelligence Community__ 
 
-[Pub. L. 108–177, title III, § 319][/us/pl/108/177/s319], Dec. 13, 2003, [117 Stat. 2614][/us/stat/117/2614], as amended by [Pub. L. 108–458, title I, § 1071(g)(3)(A)(iv)][/us/pl/108/458/s1071/g/3/A/iv], (B), Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692]; [Pub. L. 111–259, title III, § 313(b)(1)(A)][/us/pl/111/259/s313/b/1/A], (3), Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666], provided that: 
+[Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 319, Dec. 13, 2003, [117 Stat. 2614][/us/stat/117/2614], as amended by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(3)(A)(iv), (B), Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 313(b)(1)(A), (3), Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666], provided that: 
 
 > “Congress makes the following findings:
 
@@ -103,11 +103,11 @@
 
  __Report on Lessons Learned From Military Operations in Iraq__ 
 
-    [Pub. L. 108–177, title III, § 357][/us/pl/108/177/s357], Dec. 13, 2003, [117 Stat. 2621][/us/stat/117/2621], as amended by [Pub. L. 108–458, title I, § 1071(g)(3)(A)(vi)][/us/pl/108/458/s1071/g/3/A/vi], Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692], required Director of National Intelligence to submit report to Congress, not later than one year after Dec. 13, 2003, on intelligence lessons learned as a result of Operation Iraqi Freedom.
+    [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 357, Dec. 13, 2003, [117 Stat. 2621][/us/stat/117/2621], as amended by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(3)(A)(vi), Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692], required Director of National Intelligence to submit report to Congress, not later than one year after Dec. 13, 2003, on intelligence lessons learned as a result of Operation Iraqi Freedom.
 
  __Central Intelligence Agency Retirement and Disability System__ 
 
-    [Pub. L. 88–643][/us/pl/88/643], Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043], as amended by [Pub. L. 90–539][/us/pl/90/539], Sept. 30, 1968, [82 Stat. 902][/us/stat/82/902]; [Pub. L. 91–185][/us/pl/91/185], Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 91–626][/us/pl/91/626], §§ 1–6, Dec. 31, 1970, [84 Stat. 1872–1874][/us/stat/84/1872-1874]; [Pub. L. 93–31][/us/pl/93/31], May 8, 1973, [87 Stat. 65][/us/stat/87/65]; [Pub. L. 93–210, § 1(a)][/us/pl/93/210/s1/a], Dec. 28, 1973, [87 Stat. 908][/us/stat/87/908]; [Pub. L. 94–361, title VIII, § 801(b)][/us/pl/94/361/s801/b], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–522, title I][/us/pl/94/522], §§ 101, 102, title II, §§ 201–213, Oct. 17, 1976, [90 Stat. 2467–2471][/us/stat/90/2467-2471]; Ex. Ord. No. 12273, Jan. 16, 1981, 46 F.R. 5854; Ex. Ord. No. 12326, Sept. 30, 1981, 46 F.R. 48889; [Pub. L. 97–269, title VI][/us/pl/97/269], §§ 602–611, Sept. 27, 1982, [96 Stat. 1145–1148][/us/stat/96/1145-1148], 1152–1153; Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; [Pub. L. 98–618, title III, § 302][/us/pl/98/618/s302], Nov. 8, 1984, [98 Stat. 3300][/us/stat/98/3300]; [Pub. L. 99–169, title VII, § 702][/us/pl/99/169/s702], Dec. 4, 1985, [99 Stat. 1008][/us/stat/99/1008]; [Pub. L. 99–335, title V][/us/pl/99/335], §§ 501–506, June 6, 1986, [100 Stat. 622–624][/us/stat/100/622-624]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–569, title III, § 302(a)][/us/pl/99/569/s302/a], Oct. 27, 1986, [100 Stat. 3192][/us/stat/100/3192]; [Pub. L. 100–178, title IV][/us/pl/100/178], §§ 401(a), 402(a), (b)(1), (2), Dec. 2, 1987, [101 Stat. 1012–1014][/us/stat/101/1012-1014]; [Pub. L. 100–453, title III, § 302(a)][/us/pl/100/453/s302/a], (b)(1), (c)(1), (d)(1), (2), title V, § 502, Sept. 29, 1988, [102 Stat. 1906][/us/stat/102/1906], 1907, 1909; [Pub. L. 101–193, title III][/us/pl/101/193], §§ 302–304(a), 307(b), Nov. 30, 1989, [103 Stat. 1703][/us/stat/103/1703], 1707; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–88, title III][/us/pl/102/88], §§ 302–305(a), 306–307(b), Aug. 14, 1991, [105 Stat. 431–433][/us/stat/105/431-433]; [Pub. L. 102–183, title III][/us/pl/102/183], §§ 302(a)–(c), 303(a), 304–306(b), 307, 309(a), 310(a), Dec. 4, 1991, [105 Stat. 1262–1266][/us/stat/105/1262-1266]; [Pub. L. 102–496, title III, § 304(b)][/us/pl/102/496/s304/b], Oct. 24, 1992, [106 Stat. 3183][/us/stat/106/3183], known as the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, was revised generally by [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. As so revised, [Pub. L. 88–643][/us/pl/88/643], now known as the Central Intelligence Agency Retirement Act, has been transferred to chapter 38 (§ 2001 et seq.) of this title. All notes, Executive orders, and other provisions relating to this Act have been transferred to [section 2001 of this title][/us/usc/t50/s2001].
+    [Pub. L. 88–643][/us/pl/88/643], Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043], as amended by [Pub. L. 90–539][/us/pl/90/539], Sept. 30, 1968, [82 Stat. 902][/us/stat/82/902]; [Pub. L. 91–185][/us/pl/91/185], Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 91–626][/us/pl/91/626], §§ 1–6, Dec. 31, 1970, [84 Stat. 1872–1874][/us/stat/84/1872-1874]; [Pub. L. 93–31][/us/pl/93/31], May 8, 1973, [87 Stat. 65][/us/stat/87/65]; [Pub. L. 93–210][/us/pl/93/210], § 1(a), Dec. 28, 1973, [87 Stat. 908][/us/stat/87/908]; [Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 801(b), July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–522, title I][/us/pl/94/522/tI], §§ 101, 102, title II, §§ 201–213, Oct. 17, 1976, [90 Stat. 2467–2471][/us/stat/90/2467-2471]; Ex. Ord. No. 12273, Jan. 16, 1981, 46 F.R. 5854; Ex. Ord. No. 12326, Sept. 30, 1981, 46 F.R. 48889; [Pub. L. 97–269, title VI][/us/pl/97/269/tVI], §§ 602–611, Sept. 27, 1982, [96 Stat. 1145–1148][/us/stat/96/1145-1148], 1152–1153; Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; [Pub. L. 98–618, title III][/us/pl/98/618/tIII], § 302, Nov. 8, 1984, [98 Stat. 3300][/us/stat/98/3300]; [Pub. L. 99–169, title VII][/us/pl/99/169/tVII], § 702, Dec. 4, 1985, [99 Stat. 1008][/us/stat/99/1008]; [Pub. L. 99–335, title V][/us/pl/99/335/tV], §§ 501–506, June 6, 1986, [100 Stat. 622–624][/us/stat/100/622-624]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–569, title III][/us/pl/99/569/tIII], § 302(a), Oct. 27, 1986, [100 Stat. 3192][/us/stat/100/3192]; [Pub. L. 100–178, title IV][/us/pl/100/178/tIV], §§ 401(a), 402(a), (b)(1), (2), Dec. 2, 1987, [101 Stat. 1012–1014][/us/stat/101/1012-1014]; [Pub. L. 100–453, title III][/us/pl/100/453/tIII], § 302(a), (b)(1), (c)(1), (d)(1), (2), title V, § 502, Sept. 29, 1988, [102 Stat. 1906][/us/stat/102/1906], 1907, 1909; [Pub. L. 101–193, title III][/us/pl/101/193/tIII], §§ 302–304(a), 307(b), Nov. 30, 1989, [103 Stat. 1703][/us/stat/103/1703], 1707; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–88, title III][/us/pl/102/88/tIII], §§ 302–305(a), 306–307(b), Aug. 14, 1991, [105 Stat. 431–433][/us/stat/105/431-433]; [Pub. L. 102–183, title III][/us/pl/102/183/tIII], §§ 302(a)–(c), 303(a), 304–306(b), 307, 309(a), 310(a), Dec. 4, 1991, [105 Stat. 1262–1266][/us/stat/105/1262-1266]; [Pub. L. 102–496, title III][/us/pl/102/496/tIII], § 304(b), Oct. 24, 1992, [106 Stat. 3183][/us/stat/106/3183], known as the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, was revised generally by [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. As so revised, [Pub. L. 88–643][/us/pl/88/643], now known as the Central Intelligence Agency Retirement Act, has been transferred to chapter 38 (§ 2001 et seq.) of this title. All notes, Executive orders, and other provisions relating to this Act have been transferred to [section 2001 of this title][/us/usc/t50/s2001].
 
  __Executive Order No. 10656__ 
 
@@ -145,55 +145,55 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3644
 [/us/pl/108/458/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1018
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3477
-[/us/pl/105/107/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs405
+[/us/pl/105/107/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIV
 [/us/stat/111/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2261
-[/us/pl/105/272/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs306
+[/us/pl/105/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtIII
 [/us/stat/112/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2401
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3643
 [/us/usc/t50/s3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3036
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
 [/us/stat/61/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F497
 [/us/act/1953-04-04/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-04-04%2Fch16
 [/us/stat/67/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F19
-[/us/pl/102/496/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs704
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3189
-[/us/pl/104/93/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs701
+[/us/pl/104/93/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtVII
 [/us/stat/109/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F977
-[/us/pl/104/106/s570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs570
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F353
-[/us/pl/104/293/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs805%2Fa
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3477
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/113/126/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs314
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1399
 [/us/pl/113/126/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs314
 [/us/pl/113/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/108/458/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1018
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3670
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/usc/t42/s7131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7131
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/usc/t6/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs112%2Fa
-[/us/pl/108/177/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs319
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2614
-[/us/pl/108/458/s1071/g/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F3%2FA%2Fiv
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3692
-[/us/pl/111/259/s313/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs313%2Fb%2F1%2FA
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2666
-[/us/pl/108/177/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs357
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2621
-[/us/pl/108/458/s1071/g/3/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F3%2FA%2Fvi
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3692
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/stat/78/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1043
@@ -205,39 +205,39 @@
 [/us/stat/84/1872-1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1872-1874
 [/us/pl/93/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F31
 [/us/stat/87/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F65
-[/us/pl/93/210/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F210%2Fs1%2Fa
+[/us/pl/93/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F210
 [/us/stat/87/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F908
-[/us/pl/94/361/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs801%2Fb
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F929
-[/us/pl/94/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522
+[/us/pl/94/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtI
 [/us/stat/90/2467-2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2467-2471
-[/us/pl/97/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269
+[/us/pl/97/269/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtVI
 [/us/stat/96/1145-1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1145-1148
-[/us/pl/98/618/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2Fs302
+[/us/pl/98/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2FtIII
 [/us/stat/98/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3300
-[/us/pl/99/169/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2Fs702
+[/us/pl/99/169/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2FtVII
 [/us/stat/99/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1008
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622-624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622-624
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/569/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs302%2Fa
+[/us/pl/99/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIII
 [/us/stat/100/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3192
-[/us/pl/100/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178
+[/us/pl/100/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2FtIV
 [/us/stat/101/1012-1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1012-1014
-[/us/pl/100/453/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2Fs302%2Fa
+[/us/pl/100/453/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2FtIII
 [/us/stat/102/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1906
-[/us/pl/101/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193
+[/us/pl/101/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtIII
 [/us/stat/103/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1703
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
+[/us/pl/102/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIII
 [/us/stat/105/431-433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F431-433
-[/us/pl/102/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183
+[/us/pl/102/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIII
 [/us/stat/105/1262-1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1262-1266
-[/us/pl/102/496/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs304%2Fb
+[/us/pl/102/496/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIII
 [/us/stat/106/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3183
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001

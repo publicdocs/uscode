@@ -27,7 +27,7 @@
 
     (5) achieve a more effective balance within the Agency with respect to unilateral operations and liaison operations.
 
-([Pub. L. 108–458, title I, § 1011(c)][/us/pl/108/458/s1011/c], Dec. 17, 2004, [118 Stat. 3661][/us/stat/118/3661].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(c), Dec. 17, 2004, [118 Stat. 3661][/us/stat/118/3661].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Sense of Congress__ 
 
-[Pub. L. 108–458, title I, § 1011(b)][/us/pl/108/458/s1011/b], Dec. 17, 2004, [118 Stat. 3661][/us/stat/118/3661], provided that: 
+[Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(b), Dec. 17, 2004, [118 Stat. 3661][/us/stat/118/3661], provided that: 
 
 > “It is the sense of Congress that—
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/108/458/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fc
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3661
 [/us/usc/t50/s403–4b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934b
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/108/458/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fb
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3661
 
 

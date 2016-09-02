@@ -75,7 +75,7 @@
 
             (D) Enforcement of the prohibition provided in paragraph (1) on the disclosure of information described in that paragraph.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4644][/us/pl/107/314/s4644], formerly [Pub. L. 101–510, div. C, title XXXI, § 3138][/us/pl/101/510/s3138], Nov. 5, 1990, [104 Stat. 1834][/us/stat/104/1834]; [Pub. L. 103–337, div. C, title XXXI, § 3138(b)][/us/pl/103/337/s3138/b], Oct. 5, 1994, [108 Stat. 3087][/us/stat/108/3087]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4644][/us/pl/107/314/s4644], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(15)][/us/pl/108/136/s3141/i/15], Nov. 24, 2003, [117 Stat. 1780][/us/stat/117/1780]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(12)][/us/pl/113/66/s3146/g/12], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4644, formerly [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3138, Nov. 5, 1990, [104 Stat. 1834][/us/stat/104/1834]; [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3138(b), Oct. 5, 1994, [108 Stat. 3087][/us/stat/108/3087]; renumbered [Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4644, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(15), Nov. 24, 2003, [117 Stat. 1780][/us/stat/117/1780]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(12), Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __References in Text__ 
 
@@ -83,17 +83,17 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2), (3). [Pub. L. 113–66, § 3146(g)(12)(A)][/us/pl/113/66/s3146/g/12/A], substituted “Congress” for “the Congress”.
+    2013—Subsec. (c)(2), (3). [Pub. L. 113–66][/us/pl/113/66], § 3146(g)(12)(A), substituted “Congress” for “the Congress”.
 
-    Subsec. (c)(4). [Pub. L. 113–66, § 3146(g)(12)(B)][/us/pl/113/66/s3146/g/12/B], inserted “and Prevention” after “Disease Control”.
+    Subsec. (c)(4). [Pub. L. 113–66][/us/pl/113/66], § 3146(g)(12)(B), inserted “and Prevention” after “Disease Control”.
 
-    2003—[Pub. L. 108–136, § 3141(i)(15)(D)(i)][/us/pl/108/136/s3141/i/15/D/i], made technical amendment to section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(i)(15)(D)(i), made technical amendment to section catchline.
 
-    Subsec. (a). [Pub. L. 108–136, § 3141(i)(15)(D)(ii)][/us/pl/108/136/s3141/i/15/D/ii], substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510])” for “this title”.
+    Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(15)(D)(ii), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510])” for “this title”.
 
-    Subsec. (c)(2). [Pub. L. 108–136, § 3141(i)(15)(D)(iii)(I)][/us/pl/108/136/s3141/i/15/D/iii/I], substituted “May 5, 1991,” for “six months after the date of the enactment of this Act,”.
+    Subsec. (c)(2). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(15)(D)(iii)(I), substituted “May 5, 1991,” for “six months after the date of the enactment of this Act,”.
 
-    Subsec. (c)(3). [Pub. L. 108–136, § 3141(i)(15)(D)(iii)(II)][/us/pl/108/136/s3141/i/15/D/iii/II], substituted “May 5, 1992,” for “18 months after the date of the enactment of this Act,”.
+    Subsec. (c)(3). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(15)(D)(iii)(II), substituted “May 5, 1992,” for “18 months after the date of the enactment of this Act,”.
 
     1994—Subsec. (d). [Pub. L. 103–337][/us/pl/103/337] added subsec. (d).
 
@@ -105,25 +105,25 @@
 ----------
 
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/107/314/s4644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4644
-[/us/pl/101/510/s3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3138
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1834
-[/us/pl/103/337/s3138/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3138%2Fb
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3087
-[/us/pl/107/314/s4644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4644
-[/us/pl/108/136/s3141/i/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F15
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1780
-[/us/pl/113/66/s3146/g/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F12
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1824
-[/us/pl/113/66/s3146/g/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F12%2FA
-[/us/pl/113/66/s3146/g/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F12%2FB
-[/us/pl/108/136/s3141/i/15/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F15%2FD%2Fi
-[/us/pl/108/136/s3141/i/15/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F15%2FD%2Fii
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/108/136/s3141/i/15/D/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F15%2FD%2Fiii%2FI
-[/us/pl/108/136/s3141/i/15/D/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F15%2FD%2Fiii%2FII
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

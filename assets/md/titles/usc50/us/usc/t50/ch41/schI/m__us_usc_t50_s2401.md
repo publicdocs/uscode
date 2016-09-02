@@ -45,7 +45,7 @@
 
         (3) ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3211][/us/pl/106/65/s3211], Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 113–66, div. C, title XXXI, § 3111][/us/pl/113/66/s3111], Dec. 26, 2013, [127 Stat. 1049][/us/stat/127/1049].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3211, Oct. 5, 1999, [113 Stat. 957][/us/stat/113/957]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3111, Dec. 26, 2013, [127 Stat. 1049][/us/stat/127/1049].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. C, title XXXII, § 3299][/us/pl/106/65/s3299], Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], provided that:
+[Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3299, Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -71,13 +71,13 @@
 
  __Short Title__ 
 
-[Pub. L. 106–65, div. C, title XXXII, § 3201][/us/pl/106/65/s3201], Oct. 5, 1999, [113 Stat. 953][/us/stat/113/953], provided that: 
+[Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3201, Oct. 5, 1999, [113 Stat. 953][/us/stat/113/953], provided that: 
 
 > “This title \[enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 435 of this title][/us/usc/t50/s435]\] may be cited as the ‘National Nuclear Security Administration Act’.”
 
  __Preparation of Infrastructure Plan for the Nuclear Weapons Complex__ 
 
-[Pub. L. 107–107, div. B, title XXX, § 3008][/us/pl/107/107/s3008], Dec. 28, 2001, [115 Stat. 1352][/us/stat/115/1352], provided that:
+[Pub. L. 107–107, div. B, title XXX][/us/pl/107/107/dB/tXXX], § 3008, Dec. 28, 2001, [115 Stat. 1352][/us/stat/115/1352], provided that:
 
 >     “(a) __Infrastructure Plan for Nuclear Weapons Complex.—__ 
 
@@ -109,7 +109,7 @@
 
  __Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3163\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–473, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3163\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–473, provided that:
 
 >     “(a)  __Study and Report Required__  __.—__ 
 
@@ -147,17 +147,17 @@
 
  __Definitions for Purposes of__  __[__  __Pub. L. 106–398__  __][/us/pl/106/398]__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3165\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–475, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3165\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–475, provided that: 
 
 > “For purposes of this subtitle \[subtitle E (§§ 3161–3165) of title XXXI of div. C of H.R. 5408, as enacted by [section 1 of Pub. L. 106–398][/us/pl/106/398/s1], enacting provisions set out as notes under this section and [section 2402 of this title][/us/usc/t50/s2402]\], the terms ‘national security laboratory’ and ‘nuclear weapons production facility’ have the meanings given such terms in section 3281 of the National Nuclear Security Administration Act (title XXXII of [Public Law 106–65][/us/pl/106/65]; [113 Stat. 968][/us/stat/113/968]; [50 U.S.C. 2471][/us/usc/t50/s2471]).”
 
  __Report Containing Implementation Plan of Secretary of Energy__ 
 
-    [Pub. L. 106–65, div. C, title XXXII, § 3297][/us/pl/106/65/s3297], Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], which provided that not later than January 1, 2000, the Secretary of Energy was to submit to the Armed Services committees a report containing the Secretary’s plan for the implementation of the provisions of this title, was repealed by [Pub. L. 112–239, div. C, title XXXI, § 3132(c)(1)(D)][/us/pl/112/239/s3132/c/1/D], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187].
+    [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3297, Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], which provided that not later than January 1, 2000, the Secretary of Energy was to submit to the Armed Services committees a report containing the Secretary’s plan for the implementation of the provisions of this title, was repealed by [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3132(c)(1)(D), Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187].
 
  __Classification in United States Code__ 
 
-[Pub. L. 106–65, div. C, title XXXII, § 3298][/us/pl/106/65/s3298], Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], provided that: 
+[Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3298, Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], provided that: 
 
 > “Subtitles A through F of this title \[§§ 3211–3281, enacting this chapter and amending sections 5595 and 8905a of Title 5, Government Organization and Employees\] (other than provisions of those subtitles amending existing provisions of law) shall be classified to the United States Code as a new chapter of title 50, United States Code.”
 
@@ -168,42 +168,42 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3211
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F957
-[/us/pl/113/66/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3111
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1049
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F953
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F971
 [/us/usc/t50/s2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2483
 [/us/usc/t42/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132
-[/us/pl/106/65/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3201
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F953
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/pl/107/107/s3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3008
+[/us/pl/107/107/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdB%2FtXXX
 [/us/stat/115/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1352
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
 [/us/usc/t50/s2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2406
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/usc/t50/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2402
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F968
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
-[/us/pl/106/65/s3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3297
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F971
-[/us/pl/112/239/s3132/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fc%2F1%2FD
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2187
-[/us/pl/106/65/s3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3298
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F971
 
 

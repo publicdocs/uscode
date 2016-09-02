@@ -351,7 +351,7 @@
 
         (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103H, as added [Pub. L. 111–259, title IV, § 405(a)(1)][/us/pl/111/259/s405/a/1], Oct. 7, 2010, [124 Stat. 2709][/us/stat/124/2709]; amended [Pub. L. 112–87, title IV, § 403][/us/pl/112/87/s403], Jan. 3, 2012, [125 Stat. 1888][/us/stat/125/1888]; [Pub. L. 112–277, title III, § 309(a)][/us/pl/112/277/s309/a], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title III, § 304][/us/pl/113/126/s304], title VI, § 603(c), July 7, 2014, [128 Stat. 1395][/us/stat/128/1395], 1421; [Pub. L. 114–113, div. M, title III, § 303][/us/pl/114/113/s303], Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103H, as added [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 405(a)(1), Oct. 7, 2010, [124 Stat. 2709][/us/stat/124/2709]; amended [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 403, Jan. 3, 2012, [125 Stat. 1888][/us/stat/125/1888]; [Pub. L. 112–277, title III][/us/pl/112/277/tIII], § 309(a), Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 304, title VI, § 603(c), July 7, 2014, [128 Stat. 1395][/us/stat/128/1395], 1421; [Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 303, Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
 
  __References in Text__ 
 
@@ -363,13 +363,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (j)(4)(A). [Pub. L. 114–113, § 303(1)][/us/pl/114/113/s303/1], substituted “any Federal, State (as defined in [section 3164 of this title][/us/usc/t50/s3164]), or local governmental agency or unit thereof” for “any department, agency, or other element of the United States Government”.
+    2015—Subsec. (j)(4)(A). [Pub. L. 114–113][/us/pl/114/113], § 303(1), substituted “any Federal, State (as defined in [section 3164 of this title][/us/usc/t50/s3164]), or local governmental agency or unit thereof” for “any department, agency, or other element of the United States Government”.
 
-    Subsec. (j)(4)(B). [Pub. L. 114–113, § 303(2)][/us/pl/114/113/s303/2], inserted “from a department, agency, or element of the Federal Government” before “under subparagraph (A)”.
+    Subsec. (j)(4)(B). [Pub. L. 114–113][/us/pl/114/113], § 303(2), inserted “from a department, agency, or element of the Federal Government” before “under subparagraph (A)”.
 
-    2014—Subsec. (g)(3)(A). [Pub. L. 113–126, § 304][/us/pl/113/126/s304], substituted “undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of [section 552 of title 5][/us/usc/t5/s552] (commonly known as the ‘Freedom of Information Act’);” for “undertaken;”.
+    2014—Subsec. (g)(3)(A). [Pub. L. 113–126][/us/pl/113/126], § 304, substituted “undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of [section 552 of title 5][/us/usc/t5/s552] (commonly known as the ‘Freedom of Information Act’);” for “undertaken;”.
 
-    Subsec. (k)(5)(I). [Pub. L. 113–126, § 603(c)][/us/pl/113/126/s603/c], added subpar. (I).
+    Subsec. (k)(5)(I). [Pub. L. 113–126][/us/pl/113/126], § 603(c), added subpar. (I).
 
     2013—Subsec. (k)(1)(A). [Pub. L. 112–277][/us/pl/112/277] substituted “October 31 and April 30” for “January 31 and July 31” and “September 30 and March 31,” for “December 31 (of the preceding year) and June 30,”.
 
@@ -377,7 +377,7 @@
 
  __Construction__ 
 
-[Pub. L. 111–259, title IV, § 405(c)][/us/pl/111/259/s405/c], Oct. 7, 2010, [124 Stat. 2719][/us/stat/124/2719], provided that: 
+[Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 405(c), Oct. 7, 2010, [124 Stat. 2719][/us/stat/124/2719], provided that: 
 
 > “Nothing in the amendment made by subsection (a)(1) \[enacting this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Office of the Director of National Intelligence.”
 
@@ -397,27 +397,27 @@
 [/us/usc/t50/s3517/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3517%2Fd
 [/us/usc/t28/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs535
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs405%2Fa%2F1
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2709
-[/us/pl/112/87/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs403
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1888
-[/us/pl/112/277/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs309%2Fa
+[/us/pl/112/277/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtIII
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
-[/us/pl/113/126/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs304
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1395
-[/us/pl/114/113/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2913
 [/us/pl/95/452/s8H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H
 [/us/usc/t50/s403–3h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933h
-[/us/pl/114/113/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2F1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t50/s3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3164
-[/us/pl/114/113/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2F2
-[/us/pl/113/126/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs304
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/113/126/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fc
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
-[/us/pl/111/259/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs405%2Fc
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2719
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to authorize the President to institute, without the approval of the Congress, a program for the rationing of gasoline among classes of end-users.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 105, as added [Pub. L. 96–294, title I, § 103][/us/pl/96/294/s103], June 30, 1980, [94 Stat. 617][/us/stat/94/617].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 105, as added [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 103, June 30, 1980, [94 Stat. 617][/us/stat/94/617].)
 
  __Termination of Section__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/96/294/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs103
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F617
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932

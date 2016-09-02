@@ -17,7 +17,7 @@
 
     This chapter shall become effective immediately; except that unless the President, or the Congress by concurrent resolution, declares a national emergency after June 24, 1948, no person shall be inducted or ordered into active service without his consent under this chapter within ninety days after June 24, 1948.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 20, [62 Stat. 627][/us/stat/62/627]; [Sept. 27, 1950, ch. 1059, § 1(14)][/us/act/1950-09-27/ch1059/s1/14], [64 Stat. 1074][/us/stat/64/1074]; [Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 20, [62 Stat. 627][/us/stat/62/627]; [Sept. 27, 1950, ch. 1059][/us/act/1950-09-27/ch1059], § 1(14), [64 Stat. 1074][/us/stat/64/1074]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F627
-[/us/act/1950-09-27/ch1059/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059%2Fs1%2F14
+[/us/act/1950-09-27/ch1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059
 [/us/stat/64/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1074
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

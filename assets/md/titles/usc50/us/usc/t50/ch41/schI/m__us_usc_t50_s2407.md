@@ -17,7 +17,7 @@
 
     There is a General Counsel of the Administration. The General Counsel is the chief legal officer of the Administration.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3217][/us/pl/106/65/s3217], Oct. 5, 1999, [113 Stat. 960][/us/stat/113/960].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3217, Oct. 5, 1999, [113 Stat. 960][/us/stat/113/960].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3217
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F960
 
 

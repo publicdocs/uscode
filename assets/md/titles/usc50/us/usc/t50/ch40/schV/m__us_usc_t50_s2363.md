@@ -21,7 +21,7 @@
 
     (2) the President should offer assistance to additional independent states of the former Soviet Union in each case in which the participation of such states would benefit national security interests of the United States by improving border controls and safeguards over materials and technology associated with weapons of mass destruction.
 
-([Pub. L. 104–201, div. A, title XIV, § 1453][/us/pl/104/201/s1453], Sept. 23, 1996, [110 Stat. 2730][/us/stat/110/2730]; [Pub. L. 105–261, div. A, title X, § 1069(c)(4)][/us/pl/105/261/s1069/c/4], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1453, Sept. 23, 1996, [110 Stat. 2730][/us/stat/110/2730]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(c)(4), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t22/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5901
-[/us/pl/104/201/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1453
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2730
-[/us/pl/105/261/s1069/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fc%2F4
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2563

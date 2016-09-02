@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated to the Fund $1,650,000,000, of which not more than $500,000,000 may be appropriated for any fiscal year. Any amounts appropriated pursuant to this section are authorized to remain available until expended.
 
-([Pub. L. 100–383, title I, § 104][/us/pl/100/383/s104], Aug. 10, 1988, [102 Stat. 905][/us/stat/102/905]; [Pub. L. 102–371, § 2][/us/pl/102/371/s2], Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 104, Aug. 10, 1988, [102 Stat. 905][/us/stat/102/905]; [Pub. L. 102–371][/us/pl/102/371], § 2, Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Maximum Amount Authorized for Fund__ 
 
-[Pub. L. 101–162, title II][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 996][/us/stat/103/996], provided that: 
+[Pub. L. 101–162, title II][/us/pl/101/162/tII], Nov. 21, 1989, [103 Stat. 996][/us/stat/103/996], provided that: 
 
 > “Subject to the provisions of section 104(e) of the Civil Liberties Act of 1988 ([Public Law 100–383][/us/pl/100/383]; 50 U.S.C. App. 1989(b-3(e)) \[now [50 U.S.C. 4214(e)][/us/usc/t50/s4214/e]\], the maximum amount authorized under such section for any fiscal year is appropriated, from money in the Treasury not otherwise appropriated, for each fiscal year beginning on or after October 1, 1990, to the Civil Liberties Public Education Fund established by section 104(a) of the Civil Liberties Act of 1988 \[[50 U.S.C. 4214(a)][/us/usc/t50/s4214/a]\], for payments to eligible individuals under section 105 of that Act \[[50 U.S.C. 4215][/us/usc/t50/s4215]\].”
 
@@ -61,12 +61,12 @@
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
 [/us/usc/t50/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4215
 [/us/usc/t50/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4216
-[/us/pl/100/383/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs104
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F905
-[/us/pl/102/371/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs2
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/stat/106/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1167
 [/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtII
 [/us/stat/103/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F996
 [/us/pl/100/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383
 [/us/usc/t50/s4214/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4214%2Fe

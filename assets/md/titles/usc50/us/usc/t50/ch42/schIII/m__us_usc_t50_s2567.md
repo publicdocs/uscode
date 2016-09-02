@@ -63,7 +63,7 @@
 
         The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a]) a report setting forth the extent to which amounts requested for the Department for such fiscal year for fissile materials disposition activities will enable the Department to meet commitments for the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, and for any other fissile materials disposition activities, in such fiscal year.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4306A][/us/pl/107/314/s4306A], formerly [Pub. L. 107–107, div. C, title XXXI, § 3155][/us/pl/107/107/s3155], Dec. 28, 2001, [115 Stat. 1378][/us/stat/115/1378]; renumbered [Pub. L. 107–314, div. D, title XLIII, § 4306A][/us/pl/107/314/s4306A], by [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(7)(B)][/us/pl/108/136/s3141/f/7/B], Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763].)
+([Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4306A, formerly [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3155, Dec. 28, 2001, [115 Stat. 1378][/us/stat/115/1378]; renumbered [Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4306A, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(f)(7)(B), Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763].)
 
 ----------
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/107/314/s4306A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4306A
-[/us/pl/107/107/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3155
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1378
-[/us/pl/107/314/s4306A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4306A
-[/us/pl/108/136/s3141/f/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F7%2FB
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1763
 
 

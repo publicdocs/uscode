@@ -69,7 +69,7 @@
 
             (B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 507, as added [Pub. L. 107–306, title VIII, § 811(a)(1)][/us/pl/107/306/s811/a/1], Nov. 27, 2002, [116 Stat. 2418][/us/stat/116/2418]; amended [Pub. L. 108–177, title III, § 361][/us/pl/108/177/s361](l), Dec. 13, 2003, [117 Stat. 2626][/us/stat/117/2626]; [Pub. L. 111–259, title III, § 349][/us/pl/111/259/s349], title V, § 501(b)(3), Oct. 7, 2010, [124 Stat. 2700][/us/stat/124/2700], 2739; [Pub. L. 112–277, title III][/us/pl/112/277], §§ 309(b)(2), 310(b)(1), Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474], 2475; [Pub. L. 113–126, title III, § 329(c)(3)][/us/pl/113/126/s329/c/3], July 7, 2014, [128 Stat. 1407][/us/stat/128/1407]; [Pub. L. 114–113, div. M, title VII, § 701(c)(2)][/us/pl/114/113/s701/c/2], (3), Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 507, as added [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(a)(1), Nov. 27, 2002, [116 Stat. 2418][/us/stat/116/2418]; amended [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(l), Dec. 13, 2003, [117 Stat. 2626][/us/stat/117/2626]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 349, title V, § 501(b)(3), Oct. 7, 2010, [124 Stat. 2700][/us/stat/124/2700], 2739; [Pub. L. 112–277, title III][/us/pl/112/277/tIII], §§ 309(b)(2), 310(b)(1), Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474], 2475; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 329(c)(3), July 7, 2014, [128 Stat. 1407][/us/stat/128/1407]; [Pub. L. 114–113, div. M, title VII][/us/pl/114/113/dM/tVII], § 701(c)(2), (3), Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
     The Classified Information Procedures Act, referred to in subsec. (b)(1), is [Pub. L. 96–456][/us/pl/96/456], Oct. 15, 1980, [94 Stat. 2025][/us/stat/94/2025], which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-    [Section 1681u(h)(2) of title 15][/us/usc/t15/s1681u/h/2], referred to in subsec. (b)(2), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 626(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 626 by [section 358(g)(1)(A) of Pub. L. 107–56][/us/pl/107/56/s358/g/1/A] and [section 214(a)(1) of Pub. L. 108–159][/us/pl/108/159/s214/a/1]. [Section 1681u(h) of title 15][/us/usc/t15/s1681u/h] was subsequently redesignated [section 1681u(i) of title 15][/us/usc/t15/s1681u/i] by [Pub. L. 114–23, title V, § 503(c)(1)][/us/pl/114/23/s503/c/1], June 2, 2015, [129 Stat. 290][/us/stat/129/290].
+    [Section 1681u(h)(2) of title 15][/us/usc/t15/s1681u/h/2], referred to in subsec. (b)(2), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 626(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 626 by [section 358(g)(1)(A) of Pub. L. 107–56][/us/pl/107/56/s358/g/1/A] and [section 214(a)(1) of Pub. L. 108–159][/us/pl/108/159/s214/a/1]. [Section 1681u(h) of title 15][/us/usc/t15/s1681u/h] was subsequently redesignated [section 1681u(i) of title 15][/us/usc/t15/s1681u/i] by [Pub. L. 114–23, title V][/us/pl/114/23/tV], § 503(c)(1), June 2, 2015, [129 Stat. 290][/us/stat/129/290].
 
  __Codification__ 
 
@@ -87,17 +87,17 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(5), (6). [Pub. L. 114–113, § 701(c)(2)][/us/pl/114/113/s701/c/2], redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The annual report on outside employment of employees of elements of the intelligence community required by [section 3024(u)(2) of this title][/us/usc/t50/s3024/u/2].”
+    2015—Subsec. (a)(5), (6). [Pub. L. 114–113][/us/pl/114/113], § 701(c)(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The annual report on outside employment of employees of elements of the intelligence community required by [section 3024(u)(2) of this title][/us/usc/t50/s3024/u/2].”
 
-    Subsec. (c)(1). [Pub. L. 114–113, § 701(c)(3)][/us/pl/114/113/s701/c/3], substituted “subsection (a)” for “subsection (a)(1)”.
+    Subsec. (c)(1). [Pub. L. 114–113][/us/pl/114/113], § 701(c)(3), substituted “subsection (a)” for “subsection (a)(1)”.
 
-    2014—Subsec. (a). [Pub. L. 113–126, § 329(c)(3)(A)][/us/pl/113/126/s329/c/3/A], in introductory provisions, struck out par. (1) designation before “The date” and substituted “subsection (c)(1)” for “subsection (c)(1)(A)”, redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: “The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by [section 3050(b) of this title][/us/usc/t50/s3050/b] shall be the date each year provided in subsection (c)(1)(B).”
+    2014—Subsec. (a). [Pub. L. 113–126][/us/pl/113/126], § 329(c)(3)(A), in introductory provisions, struck out par. (1) designation before “The date” and substituted “subsection (c)(1)” for “subsection (c)(1)(A)”, redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: “The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by [section 3050(b) of this title][/us/usc/t50/s3050/b] shall be the date each year provided in subsection (c)(1)(B).”
 
-    Subsec. (c)(1). [Pub. L. 113–126, § 329(c)(3)(B)][/us/pl/113/126/s329/c/3/B], struck out subpar. (A) designation before “Except” and struck out subpar. (B) which read as follows: “Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1.”
+    Subsec. (c)(1). [Pub. L. 113–126][/us/pl/113/126], § 329(c)(3)(B), struck out subpar. (A) designation before “Except” and struck out subpar. (B) which read as follows: “Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1.”
 
-    Subsec. (d)(1). [Pub. L. 113–126, § 329(c)(3)(C)][/us/pl/113/126/s329/c/3/C], in subpar. (A), substituted “subsection (a)” for “subsection (a)(1)” and inserted “and” after “March 1;”, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and”.
+    Subsec. (d)(1). [Pub. L. 113–126][/us/pl/113/126], § 329(c)(3)(C), in subpar. (A), substituted “subsection (a)” for “subsection (a)(1)” and inserted “and” after “March 1;”, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and”.
 
-    2013—Subsec. (a)(1). [Pub. L. 112–277, § 310(b)(1)(A)(i)(I)][/us/pl/112/277/s310/b/1/A/i/I], (II), redesignated subpars. (B), (E), (F), (G), (H), and (I) as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
+    2013—Subsec. (a)(1). [Pub. L. 112–277][/us/pl/112/277], § 310(b)(1)(A)(i)(I), (II), redesignated subpars. (B), (E), (F), (G), (H), and (I) as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
 
     “(A) The annual report on the protection of the identities of covert agents required by [section 423 of this title][/us/usc/t50/s423].
 
@@ -105,21 +105,21 @@
 
     “(D) The annual report on commercial activities as security for intelligence collection required by [section 437(c) of title 10][/us/usc/t10/s437/c].”
 
-    Subsec. (a)(1)(D). [Pub. L. 112–277, § 310(b)(1)(A)(i)(III)][/us/pl/112/277/s310/b/1/A/i/III], substituted “section 404i(a)” for “section 404i(c)”.
+    Subsec. (a)(1)(D). [Pub. L. 112–277][/us/pl/112/277], § 310(b)(1)(A)(i)(III), substituted “section 404i(a)” for “section 404i(c)”.
 
-    Subsec. (a)(2). [Pub. L. 112–277, § 310(b)(1)(A)(ii)][/us/pl/112/277/s310/b/1/A/ii], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B) of this section:
+    Subsec. (a)(2). [Pub. L. 112–277][/us/pl/112/277], § 310(b)(1)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B) of this section:
 
     “(A) The annual report on the safety and security of Russian nuclear facilities and nuclear military forces required by [section 404i(a) of this title][/us/usc/t50/s404i/a].
 
     “(B) The annual report on the threat of attack on the United States from weapons of mass destruction required by [section 404i(c) of this title][/us/usc/t50/s404i/c].”
 
-    Subsec. (b). [Pub. L. 112–277, § 309(b)(2)][/us/pl/112/277/s309/b/2], redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “The semiannual reports on the Office of the Inspector General of the Central Intelligence Agency required by [section 403q(d)(1) of this title][/us/usc/t50/s403q/d/1].”
+    Subsec. (b). [Pub. L. 112–277][/us/pl/112/277], § 309(b)(2), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “The semiannual reports on the Office of the Inspector General of the Central Intelligence Agency required by [section 403q(d)(1) of this title][/us/usc/t50/s403q/d/1].”
 
-    Subsec. (c)(1)(B). [Pub. L. 112–277, § 310(b)(1)(B)][/us/pl/112/277/s310/b/1/B], substituted “the annual report” for “each annual report”.
+    Subsec. (c)(1)(B). [Pub. L. 112–277][/us/pl/112/277], § 310(b)(1)(B), substituted “the annual report” for “each annual report”.
 
-    Subsec. (d)(1)(B). [Pub. L. 112–277, § 310(b)(1)(C)][/us/pl/112/277/s310/b/1/C], substituted “the annual report” for “an annual report”.
+    Subsec. (d)(1)(B). [Pub. L. 112–277][/us/pl/112/277], § 310(b)(1)(C), substituted “the annual report” for “an annual report”.
 
-    2010—Subsec. (a)(1). [Pub. L. 111–259, § 349(1)(A)][/us/pl/111/259/s349/1/A], added subpars. (H) and (I), redesignated former subpars. (C) to (F), (H), (I), and (N) as (A) to (G), respectively, and struck out former subpars. (A), (B), and (G) which read as follows:
+    2010—Subsec. (a)(1). [Pub. L. 111–259][/us/pl/111/259], § 349(1)(A), added subpars. (H) and (I), redesignated former subpars. (C) to (F), (H), (I), and (N) as (A) to (G), respectively, and struck out former subpars. (A), (B), and (G) which read as follows:
 
     “(A) The annual report on intelligence required by [section 404d of this title][/us/usc/t50/s404d].
 
@@ -127,47 +127,47 @@
 
     “(G) The annual update on foreign industrial espionage required by section 2170b(b) of the Appendix to this title.”
 
-    Subsec. (a)(2)(C), (D). [Pub. L. 111–259, § 349(1)(B)][/us/pl/111/259/s349/1/B], struck out subpars. (C) and (D) which read as follows:
+    Subsec. (a)(2)(C), (D). [Pub. L. 111–259][/us/pl/111/259], § 349(1)(B), struck out subpars. (C) and (D) which read as follows:
 
     “(C) The annual report on improvements of the financial statements of the intelligence community for auditing purposes required by [section 404i–1 of this title][/us/usc/t50/s404i–1].
 
     “(D) The annual report on counterdrug intelligence matters required by section 826 of the Intelligence Authorization Act for Fiscal Year 2003.”
 
-    Subsec. (b)(3) to (5). [Pub. L. 111–259, § 501(b)(3)][/us/pl/111/259/s501/b/3], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows:
+    Subsec. (b)(3) to (5). [Pub. L. 111–259][/us/pl/111/259], § 501(b)(3), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows:
 
     “(3) The semiannual reports on the activities of the Diplomatic Telecommunications Service Program Office (DTS–PO) required by [section 7302(a)(6)(D)(ii) of title 22][/us/usc/t22/s7302/a/6/D/ii].”
 
-    Subsec. (b)(6). [Pub. L. 111–259, § 349(2)][/us/pl/111/259/s349/2], struck out par. (6) which read as follows:
+    Subsec. (b)(6). [Pub. L. 111–259][/us/pl/111/259], § 349(2), struck out par. (6) which read as follows:
 
     “(6) The semiannual report on financial intelligence on terrorist assets required by [section 404m of this title][/us/usc/t50/s404m].”
 
-    2003—Subsec. (a)(1)(A). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by [section 403–5(d) of this title][/us/usc/t50/s403–5/d].”
+    2003—Subsec. (a)(1)(A). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by [section 403–5(d) of this title][/us/usc/t50/s403–5/d].”
 
-    Subsec. (a)(1)(B). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(iii), added subpar. (B). Former subpar. (B) redesignated (A).
+    Subsec. (a)(1)(B). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(iii), added subpar. (B). Former subpar. (B) redesignated (A).
 
-    Subsec. (a)(1)(C). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The annual report on intelligence community cooperation with Federal law enforcement agencies required by [section 404i(a)(2) of this title][/us/usc/t50/s404i/a/2].”
+    Subsec. (a)(1)(C). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The annual report on intelligence community cooperation with Federal law enforcement agencies required by [section 404i(a)(2) of this title][/us/usc/t50/s404i/a/2].”
 
-    Subsec. (a)(1)(D). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(ii), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+    Subsec. (a)(1)(D). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(ii), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-    Subsec. (a)(1)(E). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(iv), added subpar. (E). Former subpar. (E) redesignated (D).
+    Subsec. (a)(1)(E). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(iv), added subpar. (E). Former subpar. (E) redesignated (D).
 
-    Subsec. (a)(1)(G). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(i), (ii), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “The annual report on expenditures for postemployment assistance for terminated intelligence employees required by [section 1611(e)(2) of title 10][/us/usc/t10/s1611/e/2].”
+    Subsec. (a)(1)(G). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(i), (ii), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “The annual report on expenditures for postemployment assistance for terminated intelligence employees required by [section 1611(e)(2) of title 10][/us/usc/t10/s1611/e/2].”
 
-    Subsec. (a)(1)(H). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(ii), redesignated subpar. (K) as (H). Former subpar. (H) redesignated (G).
+    Subsec. (a)(1)(H). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(ii), redesignated subpar. (K) as (H). Former subpar. (H) redesignated (G).
 
-    Subsec. (a)(1)(I). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(i), (ii), redesignated subpar. (M) as (I) and struck out former subpar. (I) which read as follows: “The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by [section 402a(c)(6) of this title][/us/usc/t50/s402a/c/6].”
+    Subsec. (a)(1)(I). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(i), (ii), redesignated subpar. (M) as (I) and struck out former subpar. (I) which read as follows: “The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by [section 402a(c)(6) of this title][/us/usc/t50/s402a/c/6].”
 
-    Subsec. (a)(1)(J). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(i), struck out subpar. (J) which read as follows: “The annual report on foreign companies involved in the proliferation of weapons of mass destruction that raise funds in the United States capital markets required by [section 404n–3 of this title][/us/usc/t50/s404n–3].”
+    Subsec. (a)(1)(J). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(i), struck out subpar. (J) which read as follows: “The annual report on foreign companies involved in the proliferation of weapons of mass destruction that raise funds in the United States capital markets required by [section 404n–3 of this title][/us/usc/t50/s404n–3].”
 
-    Subsec. (a)(1)(K). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(ii), redesignated subpar. (K) as (H).
+    Subsec. (a)(1)(K). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(ii), redesignated subpar. (K) as (H).
 
-    Subsec. (a)(1)(L). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(i), struck out subpar. (L) which read as follows: “The annual report on exceptions to consumer disclosure requirements for national security investigations under [section 1681b(b)(4)(E) of title 15][/us/usc/t15/s1681b/b/4/E].”
+    Subsec. (a)(1)(L). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(i), struck out subpar. (L) which read as follows: “The annual report on exceptions to consumer disclosure requirements for national security investigations under [section 1681b(b)(4)(E) of title 15][/us/usc/t15/s1681b/b/4/E].”
 
-    Subsec. (a)(1)(M). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(ii), redesignated subpar. (M) as (I).
+    Subsec. (a)(1)(M). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(ii), redesignated subpar. (M) as (I).
 
-    Subsec. (a)(1)(N). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(A)(ii), which directed that subpar. (N) be redesignated, could not be executed because there was no corresponding subpar. provided for such redesignation.
+    Subsec. (a)(1)(N). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(A)(ii), which directed that subpar. (N) be redesignated, could not be executed because there was no corresponding subpar. provided for such redesignation.
 
-    Subsec. (a)(2). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(B)(iii), (iv), redesignated subpars. (D) and (G) as (C) and (D), respectively, and struck out subpars. (C), (E), and (F) which read as follows:
+    Subsec. (a)(2). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(B)(iii), (iv), redesignated subpars. (D) and (G) as (C) and (D), respectively, and struck out subpars. (C), (E), and (F) which read as follows:
 
     “(C) The annual report on covert leases required by [section 404i(e) of this title][/us/usc/t50/s404i/e].
 
@@ -175,11 +175,11 @@
 
     “(F) The annual report on intelligence activities of the People’s Republic of China required by section 308(c) of the Intelligence Authorization Act for Fiscal Year 1998 ([Public Law 105–107][/us/pl/105/107]; [50 U.S.C. 402a][/us/usc/t50/s402a] note).”
 
-    Subsec. (a)(2)(A). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(B)(i), substituted “section 404i(a)” for “section 404i(b)”.
+    Subsec. (a)(2)(A). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(B)(i), substituted “section 404i(a)” for “section 404i(b)”.
 
-    Subsec. (a)(2)(B). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(1)(B)(ii), substituted “section 404i(c)” for “section 404i(d)”.
+    Subsec. (a)(2)(B). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(1)(B)(ii), substituted “section 404i(c)” for “section 404i(d)”.
 
-    Subsec. (b). [Pub. L. 108–177, § 361][/us/pl/108/177/s361](l)(2), redesignated pars. (2), (3), (5), (6), (7), and (8) as (1), (2), (3), (4), (5), and (6), respectively, and struck out former pars. (1) and (4) which read as follows:
+    Subsec. (b). [Pub. L. 108–177][/us/pl/108/177], § 361(l)(2), redesignated pars. (2), (3), (5), (6), (7), and (8) as (1), (2), (3), (4), (5), and (6), respectively, and struck out former pars. (1) and (4) which read as follows:
 
     “(1) The periodic reports on intelligence provided to the United Nations required by [section 404g(b) of this title][/us/usc/t50/s404g/b].
 
@@ -191,7 +191,7 @@
 
  __Preparation and Submittal of Reports, Reviews, Studies, and Plans Relating to Intelligence Activities of Department of Defense or Department of Energy__ 
 
-[Pub. L. 108–487, title I, § 107][/us/pl/108/487/s107], Dec. 23, 2004, [118 Stat. 3943][/us/stat/118/3943], provided that:
+[Pub. L. 108–487, title I][/us/pl/108/487/tI], § 107, Dec. 23, 2004, [118 Stat. 3943][/us/stat/118/3943], provided that:
 
 >     “(a)  __Consultation in Preparation__  __.—__ 
 
@@ -209,15 +209,15 @@
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 108–177, title I, § 107][/us/pl/108/177/s107], Dec. 13, 2003, [117 Stat. 2604][/us/stat/117/2604].
+    [Pub. L. 108–177, title I][/us/pl/108/177/tI], § 107, Dec. 13, 2003, [117 Stat. 2604][/us/stat/117/2604].
 
-    [Pub. L. 107–306, title I, § 109][/us/pl/107/306/s109], Nov. 27, 2002, [116 Stat. 2389][/us/stat/116/2389].
+    [Pub. L. 107–306, title I][/us/pl/107/306/tI], § 109, Nov. 27, 2002, [116 Stat. 2389][/us/stat/116/2389].
 
-    [Pub. L. 107–108, title V, § 505][/us/pl/107/108/s505], Dec. 28, 2001, [115 Stat. 1406][/us/stat/115/1406].
+    [Pub. L. 107–108, title V][/us/pl/107/108/tV], § 505, Dec. 28, 2001, [115 Stat. 1406][/us/stat/115/1406].
 
  __Deadline for Submittal of Various Overdue Reports__ 
 
-    [Pub. L. 107–306, title VIII, § 801][/us/pl/107/306/s801], Nov. 27, 2002, [116 Stat. 2418][/us/stat/116/2418], provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director’s Office would be reduced by ⅓.
+    [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 801, Nov. 27, 2002, [116 Stat. 2418][/us/stat/116/2418], provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director’s Office would be reduced by ⅓.
 
 ----------
 
@@ -235,17 +235,17 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t15/s1681u/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fh%2F2
 [/us/usc/t12/s3414/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414%2Fa%2F5%2FC
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/107/306/s811/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fa%2F1
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2418
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2626
-[/us/pl/111/259/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs349
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2700
-[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
+[/us/pl/112/277/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtIII
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
-[/us/pl/113/126/s329/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1407
-[/us/pl/114/113/s701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fc%2F2
+[/us/pl/114/113/dM/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtVII
 [/us/stat/129/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2929
 [/us/pl/95/452/s8H/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H%2Fg
 [/us/pl/102/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183
@@ -258,79 +258,79 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/108/159/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F1
 [/us/usc/t15/s1681u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fh
 [/us/usc/t15/s1681u/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fi
-[/us/pl/114/23/s503/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs503%2Fc%2F1
+[/us/pl/114/23/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtV
 [/us/stat/129/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F290
 [/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b
-[/us/pl/114/113/s701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fc%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t50/s3024/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fu%2F2
-[/us/pl/114/113/s701/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fc%2F3
-[/us/pl/113/126/s329/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FA
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/usc/t50/s3050/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3050%2Fb
-[/us/pl/113/126/s329/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FB
-[/us/pl/113/126/s329/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FC
-[/us/pl/112/277/s310/b/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FA%2Fi%2FI
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/usc/t50/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs423
 [/us/usc/t50/s2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2366
 [/us/usc/t10/s437/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs437%2Fc
-[/us/pl/112/277/s310/b/1/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FA%2Fi%2FIII
-[/us/pl/112/277/s310/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FA%2Fii
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/usc/t50/s404i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%2Fa
 [/us/usc/t50/s404i/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%2Fc
-[/us/pl/112/277/s309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs309%2Fb%2F2
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/usc/t50/s403q/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403q%2Fd%2F1
-[/us/pl/112/277/s310/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FB
-[/us/pl/112/277/s310/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FC
-[/us/pl/111/259/s349/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs349%2F1%2FA
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s404d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404d
 [/us/usc/t50/s404g/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404g%2Fb%2F1
-[/us/pl/111/259/s349/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs349%2F1%2FB
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s404i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%E2%80%931
-[/us/pl/111/259/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs501%2Fb%2F3
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t22/s7302/a/6/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7302%2Fa%2F6%2FD%2Fii
-[/us/pl/111/259/s349/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs349%2F2
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s404m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404m
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s403–5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935%2Fd
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s404i/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%2Fa%2F2
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t10/s1611/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1611%2Fe%2F2
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s402a/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402a%2Fc%2F6
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s404n–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404n%E2%80%933
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t15/s1681b/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fb%2F4%2FE
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s404i/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%2Fe
 [/us/usc/t28/s540C/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs540C%2Fc%2F2
 [/us/pl/105/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107
 [/us/usc/t50/s402a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402a
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
-[/us/pl/108/177/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s404g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404g%2Fb
 [/us/usc/t50/s2366/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2366%2Fb
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/108/177/s361/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fn
 [/us/usc/t10/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1611
-[/us/pl/108/487/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs107
+[/us/pl/108/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtI
 [/us/stat/118/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3943
 [/us/stat/118/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3940
-[/us/pl/108/177/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs107
+[/us/pl/108/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtI
 [/us/stat/117/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2604
-[/us/pl/107/306/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs109
+[/us/pl/107/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtI
 [/us/stat/116/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2389
-[/us/pl/107/108/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs505
+[/us/pl/107/108/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtV
 [/us/stat/115/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1406
-[/us/pl/107/306/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs801
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2418
 
 

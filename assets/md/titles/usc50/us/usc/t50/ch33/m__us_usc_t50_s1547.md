@@ -39,7 +39,7 @@
 
         (2) shall be construed as granting any authority to the President with respect to the introduction of United States Armed Forces into hostilities or into situations wherein involvement in hostilities is clearly indicated by the circumstances which authority he would not have had in the absence of this chapter.
 
-([Pub. L. 93–148, § 8][/us/pl/93/148/s8], Nov. 7, 1973, [87 Stat. 558][/us/stat/87/558].)
+([Pub. L. 93–148][/us/pl/93/148], § 8, Nov. 7, 1973, [87 Stat. 558][/us/stat/87/558].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/93/148/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs8
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F558
 
 

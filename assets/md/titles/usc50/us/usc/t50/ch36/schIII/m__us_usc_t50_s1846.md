@@ -31,15 +31,15 @@
 
         (5) for each department or agency described in paragraph (4), each number described in paragraphs (1), (2), and (3).
 
-([Pub. L. 95–511, title IV, § 406][/us/pl/95/511/s406], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2410][/us/stat/112/2410]; amended [Pub. L. 109–177, title I][/us/pl/109/177], §§ 109(b), 128(b), Mar. 9, 2006, [120 Stat. 204][/us/stat/120/204], 229; [Pub. L. 114–23, title VI, § 605(c)][/us/pl/114/23/s605/c], June 2, 2015, [129 Stat. 298][/us/stat/129/298].)
+([Pub. L. 95–511, title IV][/us/pl/95/511/tIV], § 406, as added [Pub. L. 105–272, title VI][/us/pl/105/272/tVI], § 601(2), Oct. 20, 1998, [112 Stat. 2410][/us/stat/112/2410]; amended [Pub. L. 109–177, title I][/us/pl/109/177/tI], §§ 109(b), 128(b), Mar. 9, 2006, [120 Stat. 204][/us/stat/120/204], 229; [Pub. L. 114–23, title VI][/us/pl/114/23/tVI], § 605(c), June 2, 2015, [129 Stat. 298][/us/stat/129/298].)
 
  __Amendments__ 
 
     2015—Subsec. (b)(4), (5). [Pub. L. 114–23][/us/pl/114/23] added pars. (4) and (5).
 
-    2006—Subsec. (a). [Pub. L. 109–177, § 128(b)][/us/pl/109/177/s128/b], inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
+    2006—Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 128(b), inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
 
-    Subsec. (b)(3). [Pub. L. 109–177, § 109(b)][/us/pl/109/177/s109/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 109–177][/us/pl/109/177], § 109(b), added par. (3).
 
 ----------
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/usc/t50/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1843
-[/us/pl/95/511/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs406
-[/us/pl/105/272/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs601%2F2
+[/us/pl/95/511/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIV
+[/us/pl/105/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVI
 [/us/stat/112/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2410
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F204
-[/us/pl/114/23/s605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs605%2Fc
+[/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F298
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/pl/109/177/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs128%2Fb
-[/us/pl/109/177/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs109%2Fb
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 
 

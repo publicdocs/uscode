@@ -35,7 +35,7 @@
 
         The United States should expand, improve, increase resources for, and otherwise fully support the Cooperative Threat Reduction program.
 
-([Pub. L. 110–53, title XVIII, § 1801][/us/pl/110/53/s1801], Aug. 3, 2007, [121 Stat. 491][/us/stat/121/491].)
+([Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1801, Aug. 3, 2007, [121 Stat. 491][/us/stat/121/491].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1801
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F491
 
 

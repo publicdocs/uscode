@@ -77,7 +77,7 @@
 
         In this section, the terms “hazardous substance”, “release”, and “pollutant or contaminant” have the meanings provided by [section 9601 of title 42][/us/usc/t42/s9601].
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4831][/us/pl/107/314/s4831], formerly [Pub. L. 105–85, div. C, title XXXI, § 3158][/us/pl/105/85/s3158], Nov. 18, 1997, [111 Stat. 2046][/us/stat/111/2046]; [Pub. L. 108–7, div. D, title V, § 506][/us/pl/108/7/s506], Feb. 20, 2003, [117 Stat. 158][/us/stat/117/158]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4831][/us/pl/107/314/s4831], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(11)][/us/pl/108/136/s3141/k/11], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 108–137, title V, § 504(a)][/us/pl/108/137/s504/a], Dec. 1, 2003, [117 Stat. 1868][/us/stat/117/1868]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(K)][/us/pl/113/66/s3146/a/2/K], (i)(6), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073], 1082.)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4831, formerly [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3158, Nov. 18, 1997, [111 Stat. 2046][/us/stat/111/2046]; [Pub. L. 108–7, div. D, title V][/us/pl/108/7/dD/tV], § 506, Feb. 20, 2003, [117 Stat. 158][/us/stat/117/158]; renumbered [Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4831, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(11), Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 108–137, title V][/us/pl/108/137/tV], § 504(a), Dec. 1, 2003, [117 Stat. 1868][/us/stat/117/1868]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(a)(2)(K), (i)(6), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073], 1082.)
 
  __Codification__ 
 
@@ -85,23 +85,23 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary” for “Secretary of Energy” in introductory provisions.
+    2013—Subsec. (a)(2). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(6)(A), substituted “Secretary” for “Secretary of Energy” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary may hold” for “Secretary of Energy may hold”.
+    Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(6)(A), substituted “Secretary may hold” for “Secretary of Energy may hold”.
 
-    Subsec. (c)(1)(A). [Pub. L. 113–66, § 3146(i)(6)(A)][/us/pl/113/66/s3146/i/6/A], substituted “Secretary” for “Secretary of Energy”.
+    Subsec. (c)(1)(A). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(6)(A), substituted “Secretary” for “Secretary of Energy”.
 
-    Subsec. (d). [Pub. L. 113–66, § 3146(i)(6)][/us/pl/113/66/s3146/i/6], substituted “Secretary” for “Secretary of Energy” in heading and “Secretary determines” for “Secretary of Energy determines” in par. (1).
+    Subsec. (d). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(6), substituted “Secretary” for “Secretary of Energy” in heading and “Secretary determines” for “Secretary of Energy determines” in par. (1).
 
-    Subsec. (f). [Pub. L. 113–66, § 3146(a)(2)(K)][/us/pl/113/66/s3146/a/2/K], substituted “section, the terms” for “section:”, struck out par. (1) which defined “defense nuclear facility”, and struck out par. (2) designation and “The terms” before “ ‘hazardous substance’ ”.
+    Subsec. (f). [Pub. L. 113–66][/us/pl/113/66], § 3146(a)(2)(K), substituted “section, the terms” for “section:”, struck out par. (1) which defined “defense nuclear facility”, and struck out par. (2) designation and “The terms” before “ ‘hazardous substance’ ”.
 
-    2003—Subsec. (b)(2)(D). [Pub. L. 108–137, § 504(a)][/us/pl/108/137/s504/a], which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 ([42 U.S.C. 7274q(b)(2)][/us/usc/t42/s7274q/b/2]) be amended by adding a subpar. (D), was executed to that section as renumbered by [Pub. L. 108–136][/us/pl/108/136] to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
+    2003—Subsec. (b)(2)(D). [Pub. L. 108–137][/us/pl/108/137], § 504(a), which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 ([42 U.S.C. 7274q(b)(2)][/us/usc/t42/s7274q/b/2]) be amended by adding a subpar. (D), was executed to that section as renumbered by [Pub. L. 108–136][/us/pl/108/136] to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
 
     [Pub. L. 108–7][/us/pl/108/7], which directed the amendment of “Title [42 U.S.C. 7274g][/us/usc/t42/s7274g]” by adding subpar. (D) to subsec. (b)(2), was probably intended to amend [section 3158 of Pub. L. 105–85][/us/pl/105/85/s3158], which was formerly classified to [section 7274q of title 42][/us/usc/t42/s7274q] prior to renumbering and transfer to this section by [Pub. L. 108–136][/us/pl/108/136]. However, the amendment was not executed in view of the enactment of [section 504 of Pub. L. 108–137][/us/pl/108/137/s504] which added a substantially identical subpar. (D). See Amendment note above and Effective Date of 2003 Amendment note below.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–137, title V, § 504(b)][/us/pl/108/137/s504/b], Dec. 1, 2003, [117 Stat. 1868][/us/stat/117/1868], provided that: 
+[Pub. L. 108–137, title V][/us/pl/108/137/tV], § 504(b), Dec. 1, 2003, [117 Stat. 1868][/us/stat/117/1868], provided that: 
 
 > “The amendment made by section 506 \[probably means [section 506 of Pub. L. 108–7][/us/pl/108/7/s506], see 2003 Amendment note above\], as amended by this section \[[section 504 of Pub. L. 108–137][/us/pl/108/137/s504] did not amend [section 506 of Pub. L. 108–7][/us/pl/108/7/s506], see 2003 Amendment note above\], is effective as of the date of enactment of the National Defense Authorization Act for Fiscal Year 1998 \[Nov. 18, 1997\].”
 
@@ -114,26 +114,26 @@
 
 [/us/usc/t42/s9620/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620%2Fh
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/107/314/s4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4831
-[/us/pl/105/85/s3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3158
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2046
-[/us/pl/108/7/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs506
+[/us/pl/108/7/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdD%2FtV
 [/us/stat/117/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F158
-[/us/pl/107/314/s4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4831
-[/us/pl/108/136/s3141/k/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F11
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1785
-[/us/pl/108/137/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs504%2Fa
+[/us/pl/108/137/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2FtV
 [/us/stat/117/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1868
-[/us/pl/113/66/s3146/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FK
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t42/s7274q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274q
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/113/66/s3146/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FA
-[/us/pl/113/66/s3146/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FA
-[/us/pl/113/66/s3146/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6%2FA
-[/us/pl/113/66/s3146/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F6
-[/us/pl/113/66/s3146/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FK
-[/us/pl/108/137/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs504%2Fa
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/108/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137
 [/us/usc/t42/s7274q/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274q%2Fb%2F2
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -142,7 +142,7 @@
 [/us/usc/t42/s7274q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274q
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/137/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs504
-[/us/pl/108/137/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs504%2Fb
+[/us/pl/108/137/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2FtV
 [/us/stat/117/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1868
 [/us/pl/108/7/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs506
 [/us/pl/108/137/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2Fs504

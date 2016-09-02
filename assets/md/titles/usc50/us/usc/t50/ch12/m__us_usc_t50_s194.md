@@ -17,7 +17,7 @@
 
     The President may employ such departments, agencies, officers, or instrumentalities of the United States as he may deem necessary to carry out the purpose of this title. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 4, [40 Stat. 220][/us/stat/40/220]; [Aug. 9, 1950, ch. 656, § 2][/us/act/1950-08-09/ch656/s2], [64 Stat. 428][/us/stat/64/428].)
+([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 4, [40 Stat. 220][/us/stat/40/220]; [Aug. 9, 1950, ch. 656][/us/act/1950-08-09/ch656], § 2, [64 Stat. 428][/us/stat/64/428].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
-[/us/act/1950-08-09/ch656/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656%2Fs2
+[/us/act/1950-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656
 [/us/stat/64/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F428
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220

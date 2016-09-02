@@ -17,11 +17,11 @@
 
     There are authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated such sums as may be necessary (but not to exceed the total covered into the Treasury to the credit of miscellaneous receipts under section 4336(d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) to enable the Commission and the Treasury Department to pay their administrative expenses in carrying out their respective functions under this subchapter.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 217, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 217, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113].)
 
  __References in Text__ 
 
-    [Section 4336(d) of this title][/us/usc/t50/s4336/d], referred to in text, authorized Attorney General to cover into the Treasury certain sums for deposit into War Claims Fund, prior to repeal by [Pub. L. 100–418, title II, § 2501(a)(1)][/us/pl/100/418/s2501/a/1], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]. See [section 4336(b) of this title][/us/usc/t50/s4336/b].
+    [Section 4336(d) of this title][/us/usc/t50/s4336/d], referred to in text, authorized Attorney General to cover into the Treasury certain sums for deposit into War Claims Fund, prior to repeal by [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2501(a)(1), Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]. See [section 4336(b) of this title][/us/usc/t50/s4336/b].
 
  __Codification__ 
 
@@ -35,10 +35,10 @@
 ----------
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1113
 [/us/usc/t50/s4336/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4336%2Fd
-[/us/pl/100/418/s2501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2501%2Fa%2F1
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
 [/us/usc/t50/s4336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4336%2Fb
 

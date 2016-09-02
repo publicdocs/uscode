@@ -65,7 +65,7 @@
 
         There are authorized to be appropriated $15,000,000 to the Secretary to carry out this section.
 
-([Pub. L. 100–383, title II, § 207][/us/pl/100/383/s207], Aug. 10, 1988, [102 Stat. 914][/us/stat/102/914].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 207, Aug. 10, 1988, [102 Stat. 914][/us/stat/102/914].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 [/us/stat/94/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2417
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t43/s1613/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1613%2Fh%2F1
-[/us/pl/100/383/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs207
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F914
 [/us/usc/t16/s1132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132%2Fc
 [/us/stat/78/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F892

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section 403–5e, comprising section 105D of the National Security Act of 1947, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], was renumbered section 703 of act July 26, 1947, by [Pub. L. 108–136, div. A, title IX, § 922(c)][/us/pl/108/136/s922/c], Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], and transferred to [section 432a of this title][/us/usc/t50/s432a], which was editorially reclassified as [section 3143 of this title][/us/usc/t50/s3143].
+    Section 403–5e, comprising section 105D of the National Security Act of 1947, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], was renumbered section 703 of act July 26, 1947, by [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 922(c), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], and transferred to [section 432a of this title][/us/usc/t50/s432a], which was editorially reclassified as [section 3143 of this title][/us/usc/t50/s3143].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/136/s922/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fc
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1573
 [/us/usc/t50/s432a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432a
 [/us/usc/t50/s3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3143

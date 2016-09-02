@@ -79,7 +79,7 @@
 
                 (vii) Reducing proliferation of weapons of mass destruction and related materials and technologies.
 
-([Pub. L. 104–201, div. A, title XIV, § 1442][/us/pl/104/201/s1442], Sept. 23, 1996, [110 Stat. 2727][/us/stat/110/2727].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1442, Sept. 23, 1996, [110 Stat. 2727][/us/stat/110/2727].)
 
  __Change of Name__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1442
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2727
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

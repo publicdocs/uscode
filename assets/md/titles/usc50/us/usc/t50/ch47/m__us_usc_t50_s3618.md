@@ -35,7 +35,7 @@
 
         Amounts collected under this section shall be credited to the account or accounts from which costs associated with such amounts have been or will be incurred, to reimburse or offset the direct costs of the program referred to in subsection (a).
 
-([Pub. L. 86–36, § 20][/us/pl/86/36/s20], as added [Pub. L. 109–364, div. A, title IX, § 933][/us/pl/109/364/s933], Oct. 17, 2006, [120 Stat. 2363][/us/stat/120/2363].)
+([Pub. L. 86–36][/us/pl/86/36], § 20, as added [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 933, Oct. 17, 2006, [120 Stat. 2363][/us/stat/120/2363].)
 
  __Codification__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/86/36/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs20
-[/us/pl/109/364/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs933
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2363
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 

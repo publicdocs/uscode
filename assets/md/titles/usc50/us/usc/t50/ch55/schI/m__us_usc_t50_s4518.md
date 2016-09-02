@@ -35,7 +35,7 @@
 
             (C) meets the requirements of section 4531, 4532, or 4533 of this title.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 108, as added [Pub. L. 102–558, title I, § 111][/us/pl/102/558/s111], Oct. 28, 1992, [106 Stat. 4202][/us/stat/106/4202].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 108, as added [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 111, Oct. 28, 1992, [106 Stat. 4202][/us/stat/106/4202].)
 
  __Termination of Section__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/558/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs111
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4202
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932

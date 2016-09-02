@@ -23,7 +23,7 @@
 
     (3) Whether the actions needed to ensure security at the facility, including the secure transportation of any materials, substances, or weapons to, from, or within the facility, have been taken.
 
-([Pub. L. 113–291, div. A, title XIII, § 1341][/us/pl/113/291/s1341], Dec. 19, 2014, [128 Stat. 3604][/us/stat/128/3604].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1341, Dec. 19, 2014, [128 Stat. 3604][/us/stat/128/3604].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1341
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3604
 
 

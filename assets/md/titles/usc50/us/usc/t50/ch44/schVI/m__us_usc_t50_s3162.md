@@ -131,13 +131,13 @@
 
         Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act ([12 U.S.C. 3401][/us/usc/t12/s3401] et seq.) or the Fair Credit Reporting Act ([15 U.S.C. 1681][/us/usc/t15/s1681] et seq.).
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VIII, § 802, as added [Pub. L. 103–359, title VIII, § 802(a)][/us/pl/103/359/s802/a], Oct. 14, 1994, [108 Stat. 3436][/us/stat/108/3436]; amended [Pub. L. 109–177, title I, § 116(f)][/us/pl/109/177/s116/f], Mar. 9, 2006, [120 Stat. 216][/us/stat/120/216]; [Pub. L. 109–178, § 4(e)][/us/pl/109/178/s4/e], Mar. 9, 2006, [120 Stat. 281][/us/stat/120/281]; [Pub. L. 114–23, title V][/us/pl/114/23], §§ 502(e), 503(e), June 2, 2015, [129 Stat. 287][/us/stat/129/287], 290.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VIII, § 802, as added [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 802(a), Oct. 14, 1994, [108 Stat. 3436][/us/stat/108/3436]; amended [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 116(f), Mar. 9, 2006, [120 Stat. 216][/us/stat/120/216]; [Pub. L. 109–178][/us/pl/109/178], § 4(e), Mar. 9, 2006, [120 Stat. 281][/us/stat/120/281]; [Pub. L. 114–23, title V][/us/pl/114/23/tV], §§ 502(e), 503(e), June 2, 2015, [129 Stat. 287][/us/stat/129/287], 290.)
 
  __References in Text__ 
 
     The Right to Financial Privacy Act, referred to in subsec. (g), probably means the Right to Financial Privacy Act of 1978, which is title XI of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], as amended, and is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
 
-    The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
  __Codification__ 
 
@@ -145,9 +145,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–23, § 502(e)][/us/pl/114/23/s502/e], added subsec. (b) and struck out former subsec. (b) which related to prohibition of certain disclosure.
+    2015—Subsec. (b). [Pub. L. 114–23][/us/pl/114/23], § 502(e), added subsec. (b) and struck out former subsec. (b) which related to prohibition of certain disclosure.
 
-    Subsecs. (c) to (g). [Pub. L. 114–23, § 503(e)][/us/pl/114/23/s503/e], added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+    Subsecs. (c) to (g). [Pub. L. 114–23][/us/pl/114/23], § 503(e), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
     2006—Subsec. (b). [Pub. L. 109–177][/us/pl/109/177] amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.”
 
@@ -165,24 +165,24 @@
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/103/359/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs802%2Fa
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3436
-[/us/pl/109/177/s116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs116%2Ff
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F216
-[/us/pl/109/178/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178%2Fs4%2Fe
+[/us/pl/109/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178
 [/us/stat/120/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F281
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtV
 [/us/stat/129/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F287
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t50/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs436
-[/us/pl/114/23/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Fe
-[/us/pl/114/23/s503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs503%2Fe
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/109/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178
 

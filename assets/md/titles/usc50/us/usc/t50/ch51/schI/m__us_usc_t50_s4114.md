@@ -63,7 +63,7 @@
 
         (2) In the case of each claim allowed in an amount greater than $500, such claim shall be paid in two installments. The first installment shall be paid in an amount equal to $500 plus 66⅔ per centum of the amount of such claim allowed in excess of $500. The last installment shall be computed as of September 1, 1956, under the next sentence of this paragraph, and, as so computed, shall be paid from the sums remaining in the War Claims Fund on that date. If the sums remaining in the War Claims Fund on September 1, 1956, are sufficient to satisfy all claims allowed under this section and not paid in full, the unpaid portion of each such claim shall be paid in full; if the sums remaining in the War Claims Fund on September 1, 1956, are not sufficient to satisfy all claims allowed under this section and not paid in full, the last installment payable on each such claim shall be reduced ratably, and, as so reduced, shall be paid from the War Claims Fund.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 17, as added [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 103, [68 Stat. 1035][/us/stat/68/1035]; amended [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 17, as added [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 103, [68 Stat. 1035][/us/stat/68/1035]; amended [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __Codification__ 
 
@@ -90,7 +90,7 @@
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/act/1954-08-31/ch1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1162
 [/us/stat/68/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1035
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/usc/t50/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4104

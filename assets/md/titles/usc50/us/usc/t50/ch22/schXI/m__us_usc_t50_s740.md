@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_ch22_schXI.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
+[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s731...739.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
 
 ## § 740. Omitted
 
  __Codification__ 
 
-    Section, [act May 5, 1950, ch. 169, § 12][/us/act/1950-05-05/ch169/s12], [64 Stat. 147][/us/stat/64/147], which authorized the Judge Advocate General of any of the armed forces to grant a new trial, vacate a sentence, restore rights and property, and substitute an administrative discharge for a dismissal or for a dishonorable or bad-conduct discharge in any court-martial case for offenses committed during World War II upon application made within one year after termination of the war or after final disposition upon initial appellate review, whichever was the later, limited new trial applications to one as to any one case, and provided that World War II was deemed to have ended as of May 31, 1951.
+    Section, [act May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], § 12, [64 Stat. 147][/us/stat/64/147], which authorized the Judge Advocate General of any of the armed forces to grant a new trial, vacate a sentence, restore rights and property, and substitute an administrative discharge for a dismissal or for a dishonorable or bad-conduct discharge in any court-martial case for offenses committed during World War II upon application made within one year after termination of the war or after final disposition upon initial appellate review, whichever was the later, limited new trial applications to one as to any one case, and provided that World War II was deemed to have ended as of May 31, 1951.
 
  __Executive Order No. 10190__ 
 
@@ -25,12 +25,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_ch22_schXI.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
+[Previous](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s731...739.md) | [Next](./../../../../..//us/usc/t50/ch22/schXI/m__us_usc_t50_s741.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs740)
 
 ----------
 ----------
 
-[/us/act/1950-05-05/ch169/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs12
+[/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F147
 
 

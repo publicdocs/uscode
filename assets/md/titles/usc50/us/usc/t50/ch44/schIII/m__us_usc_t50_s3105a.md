@@ -49,7 +49,7 @@
 
         (2) The term “Functional Manager” means the manager of an intelligence function established under [section 3034a of this title][/us/usc/t50/s3034a].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506J, as added [Pub. L. 113–126, title III, § 306(a)][/us/pl/113/126/s306/a], July 7, 2014, [128 Stat. 1395][/us/stat/128/1395].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506J, as added [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 306(a), July 7, 2014, [128 Stat. 1395][/us/stat/128/1395].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t50/s3034a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3034a
 [/us/usc/t50/s3034a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3034a
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/126/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs306%2Fa
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1395
 
 

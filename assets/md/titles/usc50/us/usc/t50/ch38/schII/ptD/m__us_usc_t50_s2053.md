@@ -19,7 +19,7 @@
 
     (b) A participant who has at least 25 years of service, ten years of which are with the Agency, may retire, with the consent of the Director, at any age and receive benefits in accordance with the provisions of [section 2031 of this title][/us/usc/t50/s2031] if the Office of Personnel Management has authorized separation from service voluntarily for Agency employees under [section 8336(d)(2) of title 5][/us/usc/t5/s8336/d/2] with respect to the Civil Service Retirement System or section 8414(b)(1)(B) of such title with respect to the Federal Employees’ Retirement System.
 
-([Pub. L. 88–643, title II, § 233][/us/pl/88/643/s233], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3225][/us/stat/106/3225]; amended [Pub. L. 103–36, § 3][/us/pl/103/36/s3], June 8, 1993, [107 Stat. 106][/us/stat/107/106].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 233, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3225][/us/stat/106/3225]; amended [Pub. L. 103–36][/us/pl/103/36], § 3, June 8, 1993, [107 Stat. 106][/us/stat/107/106].)
 
  __Prior Provisions__ 
 
@@ -39,10 +39,10 @@
 [/us/usc/t50/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031
 [/us/usc/t50/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031
 [/us/usc/t5/s8336/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8336%2Fd%2F2
-[/us/pl/88/643/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs233
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3225
-[/us/pl/103/36/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F36%2Fs3
+[/us/pl/103/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F36
 [/us/stat/107/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F106
 [/us/pl/88/643/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs233
 [/us/stat/78/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1048

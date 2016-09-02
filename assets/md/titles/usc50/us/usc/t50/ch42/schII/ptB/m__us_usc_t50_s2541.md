@@ -27,13 +27,13 @@
 
         The Secretary may perform in-reactor tests of tritium target rods as part of the activities carried out under the commercial light water reactor program.
 
-([Pub. L. 107–314, div. D, title XLII, § 4231][/us/pl/107/314/s4231], formerly [Pub. L. 104–106, div. C, title XXXI, § 3133][/us/pl/104/106/s3133], Feb. 10, 1996, [110 Stat. 618][/us/stat/110/618]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4231][/us/pl/107/314/s4231], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(16)][/us/pl/108/136/s3141/e/16], Nov. 24, 2003, [117 Stat. 1761][/us/stat/117/1761]; [Pub. L. 112–239, div. C, title XXXI, § 3131(h)][/us/pl/112/239/s3131/h], Jan. 2, 2013, [126 Stat. 2182][/us/stat/126/2182]; [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(11)(A)][/us/pl/113/66/s3146/c/11/A], Dec. 26, 2013, [127 Stat. 1075][/us/stat/127/1075].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4231, formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3133, Feb. 10, 1996, [110 Stat. 618][/us/stat/110/618]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4231, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(16), Nov. 24, 2003, [117 Stat. 1761][/us/stat/117/1761]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(h), Jan. 2, 2013, [126 Stat. 2182][/us/stat/126/2182]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(c)(11)(A), Dec. 26, 2013, [127 Stat. 1075][/us/stat/127/1075].)
 
  __Codification__ 
 
     Section was formerly set out as a note under [section 2121 of Title 42][/us/usc/t42/s2121], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
-    Subsec. (b) of [section 2543 of this title][/us/usc/t50/s2543], which was transferred to the end of this section and redesignated subsec. (c) by [Pub. L. 113–66, § 3146(c)(11)(A)][/us/pl/113/66/s3146/c/11/A], was based on [Pub. L. 107–314, div. D, title XLII, § 4233][/us/pl/107/314/s4233], formerly [Pub. L. 104–201, div. C, title XXXI, § 3133(c)][/us/pl/104/201/s3133/c], (d), Sept. 23, 1996, [110 Stat. 2830][/us/stat/110/2830]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4233][/us/pl/107/314/s4233], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(18)][/us/pl/108/136/s3141/e/18], Nov. 24, 2003, [117 Stat. 1761][/us/stat/117/1761].
+    Subsec. (b) of [section 2543 of this title][/us/usc/t50/s2543], which was transferred to the end of this section and redesignated subsec. (c) by [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(11)(A), was based on [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4233, formerly [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3133(c), (d), Sept. 23, 1996, [110 Stat. 2830][/us/stat/110/2830]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4233, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(18), Nov. 24, 2003, [117 Stat. 1761][/us/stat/117/1761].
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 
     Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] transferred subsec. (b) of [section 2543 of this title][/us/usc/t50/s2543] to the end of this section and redesignated it subsec. (c). See Codification note above.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–136, § 3141(e)(16)(D)(i)][/us/pl/108/136/s3141/e/16/D/i], substituted “February 10, 1996” for “the date of the enactment of this Act”.
+    2003—Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136], § 3141(e)(16)(D)(i), substituted “February 10, 1996” for “the date of the enactment of this Act”.
 
-    Subsec. (b). [Pub. L. 108–136, § 3141(e)(16)(D)(ii)][/us/pl/108/136/s3141/e/16/D/ii], inserted “of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106])” after “section 3101”.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 3141(e)(16)(D)(ii), inserted “of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106])” after “section 3101”.
 
-    Subsecs. (d)(2)(B), (e). [Pub. L. 108–136, § 3141(e)(16)(D)(i)][/us/pl/108/136/s3141/e/16/D/i], substituted “February 10, 1996” for “the date of the enactment of this Act”.
+    Subsecs. (d)(2)(B), (e). [Pub. L. 108–136][/us/pl/108/136], § 3141(e)(16)(D)(i), substituted “February 10, 1996” for “the date of the enactment of this Act”.
 
 ----------
 
@@ -54,32 +54,32 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4231
-[/us/pl/104/106/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3133
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F618
-[/us/pl/107/314/s4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4231
-[/us/pl/108/136/s3141/e/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F16
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1761
-[/us/pl/112/239/s3131/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fh
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2182
-[/us/pl/113/66/s3146/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F11%2FA
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1075
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2543
-[/us/pl/113/66/s3146/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F11%2FA
-[/us/pl/107/314/s4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4233
-[/us/pl/104/201/s3133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3133%2Fc
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2830
-[/us/pl/107/314/s4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4233
-[/us/pl/108/136/s3141/e/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F18
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1761
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t50/s2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2543
-[/us/pl/108/136/s3141/e/16/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F16%2FD%2Fi
-[/us/pl/108/136/s3141/e/16/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F16%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/108/136/s3141/e/16/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F16%2FD%2Fi
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

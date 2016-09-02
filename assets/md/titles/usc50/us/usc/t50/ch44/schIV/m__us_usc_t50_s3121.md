@@ -31,7 +31,7 @@
 
         A term of imprisonment imposed under this section shall be consecutive to any other sentence of imprisonment.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VI, § 601, as added [Pub. L. 97–200, § 2(a)][/us/pl/97/200/s2/a], June 23, 1982, [96 Stat. 122][/us/stat/96/122]; amended [Pub. L. 106–120, title III, § 304(b)][/us/pl/106/120/s304/b], Dec. 3, 1999, [113 Stat. 1611][/us/stat/113/1611]; [Pub. L. 111–259, title III, § 363(a)][/us/pl/111/259/s363/a], Oct. 7, 2010, [124 Stat. 2701][/us/stat/124/2701].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VI, § 601, as added [Pub. L. 97–200][/us/pl/97/200], § 2(a), June 23, 1982, [96 Stat. 122][/us/stat/96/122]; amended [Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 304(b), Dec. 3, 1999, [113 Stat. 1611][/us/stat/113/1611]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 363(a), Oct. 7, 2010, [124 Stat. 2701][/us/stat/124/2701].)
 
  __Codification__ 
 
@@ -39,17 +39,17 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–259, § 363(a)(1)][/us/pl/111/259/s363/a/1], substituted “15 years” for “ten years”.
+    2010—Subsec. (a). [Pub. L. 111–259][/us/pl/111/259], § 363(a)(1), substituted “15 years” for “ten years”.
 
-    Subsec. (b). [Pub. L. 111–259, § 363(a)(2)][/us/pl/111/259/s363/a/2], substituted “10 years” for “five years”.
+    Subsec. (b). [Pub. L. 111–259][/us/pl/111/259], § 363(a)(2), substituted “10 years” for “five years”.
 
-    1999—Subsec. (a). [Pub. L. 106–120, § 304(b)(2)(A)][/us/pl/106/120/s304/b/2/A], substituted “shall be fined under title 18” for “shall be fined not more than $50,000”.
+    1999—Subsec. (a). [Pub. L. 106–120][/us/pl/106/120], § 304(b)(2)(A), substituted “shall be fined under title 18” for “shall be fined not more than $50,000”.
 
-    Subsec. (b). [Pub. L. 106–120, § 304(b)(2)(B)][/us/pl/106/120/s304/b/2/B], substituted “shall be fined under title 18” for “shall be fined not more than $25,000”.
+    Subsec. (b). [Pub. L. 106–120][/us/pl/106/120], § 304(b)(2)(B), substituted “shall be fined under title 18” for “shall be fined not more than $25,000”.
 
-    Subsec. (c). [Pub. L. 106–120, § 304(b)(2)(C)][/us/pl/106/120/s304/b/2/C], substituted “shall be fined under title 18” for “shall be fined not more than $15,000”.
+    Subsec. (c). [Pub. L. 106–120][/us/pl/106/120], § 304(b)(2)(C), substituted “shall be fined under title 18” for “shall be fined not more than $15,000”.
 
-    Subsec. (d). [Pub. L. 106–120, § 304(b)(1)][/us/pl/106/120/s304/b/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–120][/us/pl/106/120], § 304(b)(1), added subsec. (d).
 
 ----------
 
@@ -59,18 +59,18 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/97/200/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F200%2Fs2%2Fa
+[/us/pl/97/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F200
 [/us/stat/96/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F122
-[/us/pl/106/120/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs304%2Fb
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1611
-[/us/pl/111/259/s363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs363%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2701
 [/us/usc/t50/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs421
-[/us/pl/111/259/s363/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs363%2Fa%2F1
-[/us/pl/111/259/s363/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs363%2Fa%2F2
-[/us/pl/106/120/s304/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs304%2Fb%2F2%2FA
-[/us/pl/106/120/s304/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs304%2Fb%2F2%2FB
-[/us/pl/106/120/s304/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs304%2Fb%2F2%2FC
-[/us/pl/106/120/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs304%2Fb%2F1
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
+[/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
+[/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
+[/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
 
 

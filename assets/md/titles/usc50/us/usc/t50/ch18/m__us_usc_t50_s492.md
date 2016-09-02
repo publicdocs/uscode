@@ -17,7 +17,7 @@
 
     In furtherance of [section 491 of this title][/us/usc/t50/s491], the Secretary of the Air Force is authorized to make surveys and to acquire lands and rights pertaining thereto or other interests therein, including the temporary use thereof, by donation, purchase, exchange of Government-owned lands, or otherwise, and to place permanent and temporary improvements thereon whether such lands are held in fee or under lease, or under other temporary tenure.
 
-([Mar. 30, 1949, ch. 41, § 2][/us/act/1949-03-30/ch41/s2], [63 Stat. 17][/us/stat/63/17].)
+([Mar. 30, 1949, ch. 41][/us/act/1949-03-30/ch41], § 2, [63 Stat. 17][/us/stat/63/17].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t50/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs491
-[/us/act/1949-03-30/ch41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-03-30%2Fch41%2Fs2
+[/us/act/1949-03-30/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-03-30%2Fch41
 [/us/stat/63/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F17
 
 

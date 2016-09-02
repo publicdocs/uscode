@@ -27,7 +27,7 @@
 
         (2) Procedures and requirements relating to the installation of equipment under [section 3203(f) of this title][/us/usc/t50/s3203/f].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1014, as added [Pub. L. 108–487, title VI, § 612(a)(2)][/us/pl/108/487/s612/a/2], Dec. 23, 2004, [118 Stat. 3958][/us/stat/118/3958].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1014, as added [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 612(a)(2), Dec. 23, 2004, [118 Stat. 3958][/us/stat/118/3958].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t50/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3203
 [/us/usc/t50/s3203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3203%2Ff
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/487/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs612%2Fa%2F2
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3958
 [/us/usc/t50/s441j–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441j%E2%80%933
 

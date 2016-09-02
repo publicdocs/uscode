@@ -39,7 +39,7 @@
 
         A person who knowingly takes an action contrary to this section, or attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 307, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2851][/us/stat/117/2851]; amended [Pub. L. 111–275, title III, § 303(b)(7)][/us/pl/111/275/s303/b/7], Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 307, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2851][/us/stat/117/2851]; amended [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(b)(7), Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
 
  __Codification__ 
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t50/s3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3953
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2851
-[/us/pl/111/275/s303/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fb%2F7
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2878
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 

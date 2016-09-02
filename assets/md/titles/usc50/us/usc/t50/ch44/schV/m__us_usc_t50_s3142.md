@@ -101,7 +101,7 @@
 
             (B) Whether NGA, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 702, formerly title I, § 105B, as added [Pub. L. 106–120, title V, § 501(a)(1)][/us/pl/106/120/s501/a/1], Dec. 3, 1999, [113 Stat. 1616][/us/stat/113/1616]; renumbered § 105C, [Pub. L. 107–56, title IX, § 905(a)(1)][/us/pl/107/56/s905/a/1], Oct. 26, 2001, [115 Stat. 388][/us/stat/115/388]; amended [Pub. L. 107–306, title III, § 353(b)(5)][/us/pl/107/306/s353/b/5], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; renumbered title VII, § 702, and amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136], §§ 921(e)(4), 922(c), (d)(1)(C), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569], 1573, 1574; [Pub. L. 108–375, div. A, title X, § 1084(j)][/us/pl/108/375/s1084/j], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 108–458, title I, § 1071(a)(1)(DD)][/us/pl/108/458/s1071/a/1/DD]–(FF), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 109–163, div. A, title IX, § 933(b)(1)][/us/pl/109/163/s933/b/1], Jan. 6, 2006, [119 Stat. 3416][/us/stat/119/3416].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 702, formerly title I, § 105B, as added [Pub. L. 106–120, title V][/us/pl/106/120/tV], § 501(a)(1), Dec. 3, 1999, [113 Stat. 1616][/us/stat/113/1616]; renumbered § 105C, [Pub. L. 107–56, title IX][/us/pl/107/56/tIX], § 905(a)(1), Oct. 26, 2001, [115 Stat. 388][/us/stat/115/388]; amended [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(5), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; renumbered title VII, § 702, and amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], §§ 921(e)(4), 922(c), (d)(1)(C), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569], 1573, 1574; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(j), Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(DD)–(FF), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 933(b)(1), Jan. 6, 2006, [119 Stat. 3416][/us/stat/119/3416].)
 
  __References in Text__ 
 
@@ -113,35 +113,35 @@
 
  __Prior Provisions__ 
 
-    A prior section 702 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, as added [Pub. L. 98–477, § 2(a)][/us/pl/98/477/s2/a], Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211]; amended [Pub. L. 108–136, div. A, title IX, § 922(b)(2)(A)][/us/pl/108/136/s922/b/2/A], Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], was transferred to [section 431 of this title][/us/usc/t50/s431] and redesignated as subsec. (g) by [Pub. L. 108–136, div. A, title IX, § 922(b)(2)(B)][/us/pl/108/136/s922/b/2/B], Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573]. [Section 431 of this title][/us/usc/t50/s431] was editorially reclassified and renumbered as [section 3141 of this title][/us/usc/t50/s3141].
+    A prior section 702 of [act July 26, 1947, ch. 343, title VII][/us/act/1947-07-26/ch343/tVII], as added [Pub. L. 98–477][/us/pl/98/477], § 2(a), Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 922(b)(2)(A), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], was transferred to [section 431 of this title][/us/usc/t50/s431] and redesignated as subsec. (g) by [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 922(b)(2)(B), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573]. [Section 431 of this title][/us/usc/t50/s431] was editorially reclassified and renumbered as [section 3141 of this title][/us/usc/t50/s3141].
 
  __Amendments__ 
 
     2006—Subsec. (a)(3)(C)(vi). [Pub. L. 109–163][/us/pl/109/163] added cl. (vi).
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(a)(1)(DD)][/us/pl/108/458/s1071/a/1/DD], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(DD), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
     Subsec. (a)(6)(B)(iv)(I). [Pub. L. 108–375][/us/pl/108/375] substituted “responsive records” for “responsible records”.
 
-    Subsec. (a)(6)(B)(viii). [Pub. L. 108–458, § 1071(a)(1)(EE)][/us/pl/108/458/s1071/a/1/EE], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (a)(6)(B)(viii). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(EE), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (b)(1). [Pub. L. 108–458, § 1071(a)(1)(FF)][/us/pl/108/458/s1071/a/1/FF], substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
+    Subsec. (b)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(FF), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
-    2003—[Pub. L. 108–136, § 922(d)(1)(C)][/us/pl/108/136/s922/d/1/C], amended section catchline generally, substituting “Operational files of the National Geospatial-Intelligence Agency” for “Protection of operational files of the National Imagery and Mapping Agency”.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 922(d)(1)(C), amended section catchline generally, substituting “Operational files of the National Geospatial-Intelligence Agency” for “Protection of operational files of the National Imagery and Mapping Agency”.
 
-    Subsec. (a)(1). [Pub. L. 108–136, § 921(e)(4)(A)][/us/pl/108/136/s921/e/4/A], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+    Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
-    Subsec. (a)(2)(A). [Pub. L. 108–136, § 921(e)(4)(A)][/us/pl/108/136/s921/e/4/A], (B), substituted “NGA” for “NIMA” wherever appearing and substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+    Subsec. (a)(2)(A). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(A), (B), substituted “NGA” for “NIMA” wherever appearing and substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-    Subsec. (a)(3)(C)(iv), (v), (6)(A), (B)(i), (iv)(I). [Pub. L. 108–136, § 921(e)(4)(B)][/us/pl/108/136/s921/e/4/B], substituted “NGA” for “NIMA”.
+    Subsec. (a)(3)(C)(iv), (v), (6)(A), (B)(i), (iv)(I). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(B), substituted “NGA” for “NIMA”.
 
-    Subsec. (a)(6)(B)(iv)(II). [Pub. L. 108–136, § 921(e)(4)(B)][/us/pl/108/136/s921/e/4/B], (C), substituted “NGA” for “NIMA” and “NGA’s” for “NIMA’s”.
+    Subsec. (a)(6)(B)(iv)(II). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(B), (C), substituted “NGA” for “NIMA” and “NGA’s” for “NIMA’s”.
 
-    Subsec. (a)(6)(B)(vi), (vii). [Pub. L. 108–136, § 921(e)(4)(B)][/us/pl/108/136/s921/e/4/B], substituted “NGA” for “NIMA” wherever appearing.
+    Subsec. (a)(6)(B)(vi), (vii). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(B), substituted “NGA” for “NIMA” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 108–136, § 921(e)(4)(A)][/us/pl/108/136/s921/e/4/A], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+    Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-    Subsec. (b)(3). [Pub. L. 108–136, § 921(e)(4)(B)][/us/pl/108/136/s921/e/4/B], substituted “NGA” for “NIMA” wherever appearing.
+    Subsec. (b)(3). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(4)(B), substituted “NGA” for “NIMA” wherever appearing.
 
     2002—Subsec. (a)(3)(C). [Pub. L. 107–306][/us/pl/107/306] added cl. (i), redesignated cls. (iii) to (vi) as (ii) to (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
 
@@ -157,7 +157,7 @@
 
  __Treatment of Certain Transferred Records__ 
 
-[Pub. L. 106–120, title V, § 501(b)][/us/pl/106/120/s501/b], Dec. 3, 1999, [113 Stat. 1619][/us/stat/113/1619], as amended by [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], provided that: 
+[Pub. L. 106–120, title V][/us/pl/106/120/tV], § 501(b), Dec. 3, 1999, [113 Stat. 1619][/us/stat/113/1619], as amended by [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(g), Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], provided that: 
 
 > “Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 ([50 U.S.C. 431(a)][/us/usc/t50/s431/a]) \[now [50 U.S.C. 3141(a)][/us/usc/t50/s3141/a]\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] of the National Security Act of 1947 \[[50 U.S.C. 3142][/us/usc/t50/s3142]\], as added by subsection (a).”
 
@@ -175,57 +175,57 @@
 [/us/usc/t5/s552/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FB
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/106/120/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs501%2Fa%2F1
+[/us/pl/106/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtV
 [/us/stat/113/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1616
-[/us/pl/107/56/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs905%2Fa%2F1
+[/us/pl/107/56/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIX
 [/us/stat/115/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F388
-[/us/pl/107/306/s353/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F5
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
-[/us/pl/108/375/s1084/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fj
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2064
-[/us/pl/108/458/s1071/a/1/DD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FDD
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/109/163/s933/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs933%2Fb%2F1
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3416
 [/us/usc/t50/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432
 [/us/usc/t50/s403–5c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935c
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s403–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935b
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/98/477/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477%2Fs2%2Fa
+[/us/act/1947-07-26/ch343/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtVII
+[/us/pl/98/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477
 [/us/stat/98/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2211
-[/us/pl/108/136/s922/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FA
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1573
 [/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
-[/us/pl/108/136/s922/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FB
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1573
 [/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
 [/us/usc/t50/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3141
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/458/s1071/a/1/DD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FDD
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/458/s1071/a/1/EE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FEE
-[/us/pl/108/458/s1071/a/1/FF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FFF
-[/us/pl/108/136/s922/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fd%2F1%2FC
-[/us/pl/108/136/s921/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FA
-[/us/pl/108/136/s921/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FA
-[/us/pl/108/136/s921/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FB
-[/us/pl/108/136/s921/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FB
-[/us/pl/108/136/s921/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FB
-[/us/pl/108/136/s921/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FA
-[/us/pl/108/136/s921/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F4%2FB
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/106/120/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs501%2Fb
+[/us/pl/106/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtV
 [/us/stat/113/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1619
-[/us/pl/108/136/s921/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fg
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1570
 [/us/usc/t50/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431%2Fa
 [/us/usc/t50/s3141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3141%2Fa

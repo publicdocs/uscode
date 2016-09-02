@@ -17,11 +17,11 @@
 
     The amount of the increase in any annuity that results from the application of [section 3518 of this title][/us/usc/t50/s3518], if and when such increase is based on an individual’s overseas service as an employee of the Central Intelligence Agency, shall be paid from the fund.
 
-([Pub. L. 88–643, title II, § 295][/us/pl/88/643/s295], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3242][/us/stat/106/3242].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 295, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3242][/us/stat/106/3242].)
 
  __Prior Provisions__ 
 
-    A prior [section 295 of Pub. L. 88–643][/us/pl/88/643/s295], as added [Pub. L. 101–193, title III, § 307(b)][/us/pl/101/193/s307/b], Nov. 30, 1989, [103 Stat. 1707][/us/stat/103/1707], related to payments from CIARDS fund for portions of certain Civil Service Retirement System annuities and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 295 of Pub. L. 88–643][/us/pl/88/643/s295], as added [Pub. L. 101–193, title III][/us/pl/101/193/tIII], § 307(b), Nov. 30, 1989, [103 Stat. 1707][/us/stat/103/1707], related to payments from CIARDS fund for portions of certain Civil Service Retirement System annuities and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
 ----------
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/usc/t50/s3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3518
-[/us/pl/88/643/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs295
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3242
 [/us/pl/88/643/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs295
-[/us/pl/101/193/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs307%2Fb
+[/us/pl/101/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtIII
 [/us/stat/103/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1707
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

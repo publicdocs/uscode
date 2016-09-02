@@ -329,21 +329,21 @@
 
         (2) to the maximum extent practicable, inform spouses and former spouses of participants, former participants, and retired participants of their rights under this chapter.
 
-([Pub. L. 88–643, title II, § 221][/us/pl/88/643/s221], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3204][/us/stat/106/3204]; amended [Pub. L. 103–178, title II, § 202(a)(4)][/us/pl/103/178/s202/a/4], Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 221, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3204][/us/stat/106/3204]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(4), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
 
  __Prior Provisions__ 
 
-    A prior [section 221 of Pub. L. 88–643][/us/pl/88/643/s221], title II, Oct. 13, 1964, [78 Stat. 1045][/us/stat/78/1045]; [Pub. L. 91–185, § 2][/us/pl/91/185/s2], Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 91–626][/us/pl/91/626], §§ 2, 3, Dec. 31, 1970, [84 Stat. 1872][/us/stat/84/1872]; [Pub. L. 94–522, title II][/us/pl/94/522], §§ 202–204, Oct. 17, 1976, [90 Stat. 2468][/us/stat/90/2468], 2469; Ex. Ord. No. 12326, §§ 1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; [Pub. L. 97–269, title VI][/us/pl/97/269], §§ 603–605, 610, Sept. 27, 1982, [96 Stat. 1146][/us/stat/96/1146], 1147, 1153; Ex. Ord. No. 12443, §§ 4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; [Pub. L. 99–335, title V][/us/pl/99/335], §§ 501(2), (3), 503, June 6, 1986, [100 Stat. 622][/us/stat/100/622], 623; [Pub. L. 100–178, title IV, § 402(b)(1)][/us/pl/100/178/s402/b/1], Dec. 2, 1987, [101 Stat. 1014][/us/stat/101/1014]; [Pub. L. 100–453, title III, § 302(d)(1)][/us/pl/100/453/s302/d/1], (2), Sept. 29, 1988, [102 Stat. 1907][/us/stat/102/1907]; [Pub. L. 102–88, title III][/us/pl/102/88], §§ 304(a), 305(a)(1), 306, Aug. 14, 1991, [105 Stat. 431][/us/stat/105/431], 432; [Pub. L. 102–183, title III][/us/pl/102/183], §§ 302(a), 303(a), Dec. 4, 1991, [105 Stat. 1262][/us/stat/105/1262], 1263, related to computation of annuities for other than former spouses and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 221 of Pub. L. 88–643][/us/pl/88/643/s221], title II, Oct. 13, 1964, [78 Stat. 1045][/us/stat/78/1045]; [Pub. L. 91–185][/us/pl/91/185], § 2, Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 91–626][/us/pl/91/626], §§ 2, 3, Dec. 31, 1970, [84 Stat. 1872][/us/stat/84/1872]; [Pub. L. 94–522, title II][/us/pl/94/522/tII], §§ 202–204, Oct. 17, 1976, [90 Stat. 2468][/us/stat/90/2468], 2469; Ex. Ord. No. 12326, §§ 1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; [Pub. L. 97–269, title VI][/us/pl/97/269/tVI], §§ 603–605, 610, Sept. 27, 1982, [96 Stat. 1146][/us/stat/96/1146], 1147, 1153; Ex. Ord. No. 12443, §§ 4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; [Pub. L. 99–335, title V][/us/pl/99/335/tV], §§ 501(2), (3), 503, June 6, 1986, [100 Stat. 622][/us/stat/100/622], 623; [Pub. L. 100–178, title IV][/us/pl/100/178/tIV], § 402(b)(1), Dec. 2, 1987, [101 Stat. 1014][/us/stat/101/1014]; [Pub. L. 100–453, title III][/us/pl/100/453/tIII], § 302(d)(1), (2), Sept. 29, 1988, [102 Stat. 1907][/us/stat/102/1907]; [Pub. L. 102–88, title III][/us/pl/102/88/tIII], §§ 304(a), 305(a)(1), 306, Aug. 14, 1991, [105 Stat. 431][/us/stat/105/431], 432; [Pub. L. 102–183, title III][/us/pl/102/183/tIII], §§ 302(a), 303(a), Dec. 4, 1991, [105 Stat. 1262][/us/stat/105/1262], 1263, related to computation of annuities for other than former spouses and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
-    1993—Subsec. (a)(4). [Pub. L. 103–178, § 202(a)(4)(A)][/us/pl/103/178/s202/a/4/A], struck out “(or, in the case of an annuity computed under [section 2052 of this title][/us/usc/t50/s2052] and based on less than 3 years, over the total service)” after “years of the participant’s service”.
+    1993—Subsec. (a)(4). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(4)(A), struck out “(or, in the case of an annuity computed under [section 2052 of this title][/us/usc/t50/s2052] and based on less than 3 years, over the total service)” after “years of the participant’s service”.
 
-    Subsec. (f)(1)(A). [Pub. L. 103–178, § 202(a)(4)(B)][/us/pl/103/178/s202/a/4/B], inserted “after the participant’s death” after “under the system” and struck out “after the participant’s death” after “participant’s reduced annuity”.
+    Subsec. (f)(1)(A). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(4)(B), inserted “after the participant’s death” after “under the system” and struck out “after the participant’s death” after “participant’s reduced annuity”.
 
-    Subsec. (g)(1). [Pub. L. 103–178, § 202(a)(4)(C)][/us/pl/103/178/s202/a/4/C], substituted “(or is remarried, if” for “(or is remarried if”.
+    Subsec. (g)(1). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(4)(C), substituted “(or is remarried, if” for “(or is remarried if”.
 
-    Subsec. (j). [Pub. L. 103–178, § 202(a)(4)(D)][/us/pl/103/178/s202/a/4/D], struck out “(except as provided in paragraph (2))” after “individual shall be reduced”.
+    Subsec. (j). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(4)(D), struck out “(except as provided in paragraph (2))” after “individual shall be reduced”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -384,39 +384,39 @@
 [/us/usc/t50/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2111
 [/us/usc/t50/s2032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2032%2Fb
 [/us/usc/t5/s8349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8349
-[/us/pl/88/643/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs221
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3204
-[/us/pl/103/178/s202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F4
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2026
 [/us/pl/88/643/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs221
 [/us/stat/78/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1045
-[/us/pl/91/185/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F185%2Fs2
+[/us/pl/91/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F185
 [/us/stat/83/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F847
 [/us/pl/91/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F626
 [/us/stat/84/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1872
-[/us/pl/94/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522
+[/us/pl/94/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtII
 [/us/stat/90/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2468
-[/us/pl/97/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269
+[/us/pl/97/269/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtVI
 [/us/stat/96/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1146
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
-[/us/pl/100/178/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2Fs402%2Fb%2F1
+[/us/pl/100/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2FtIV
 [/us/stat/101/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1014
-[/us/pl/100/453/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2Fs302%2Fd%2F1
+[/us/pl/100/453/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2FtIII
 [/us/stat/102/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1907
-[/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
+[/us/pl/102/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIII
 [/us/stat/105/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F431
-[/us/pl/102/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183
+[/us/pl/102/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIII
 [/us/stat/105/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1262
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
-[/us/pl/103/178/s202/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F4%2FA
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2052
-[/us/pl/103/178/s202/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F4%2FB
-[/us/pl/103/178/s202/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F4%2FC
-[/us/pl/103/178/s202/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F4%2FD
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fb
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001

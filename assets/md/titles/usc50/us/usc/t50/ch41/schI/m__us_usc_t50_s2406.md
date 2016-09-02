@@ -33,13 +33,13 @@
 
         As used in this section, the Naval Nuclear Propulsion Executive Order is Executive Order No. 12344, dated February 1, 1982 ([42 U.S.C. 7158][/us/usc/t42/s7158] note)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 ([Public Law 98–525][/us/pl/98/525]; [42 U.S.C. 7158][/us/usc/t42/s7158] note)). <sup>\[1\]</sup> 
 
-([Pub. L. 106–65, div. C, title XXXII, § 3216][/us/pl/106/65/s3216], Oct. 5, 1999, [113 Stat. 959][/us/stat/113/959].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3216, Oct. 5, 1999, [113 Stat. 959][/us/stat/113/959].)
 
  __References in Text__ 
 
     Executive Order No. 12344, referred to in subsec. (d), is set out as a note under [section 2511 of this title][/us/usc/t50/s2511].
 
-    Section 1634 of the Department of Defense Authorization Act, 1985 ([Public Law 98–525][/us/pl/98/525]), referred to in subsec. (d), was formerly set out as a note under [section 7158 of Title 42][/us/usc/t42/s7158], The Public Health and Welfare, and was renumbered [section 4101 of Pub. L. 107–314][/us/pl/107/314/s4101], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(d)(2)][/us/pl/108/136/s3141/d/2], Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757]. [Section 4101 of Pub. L. 107–314][/us/pl/107/314/s4101] is classified to [section 2511 of this title][/us/usc/t50/s2511].
+    Section 1634 of the Department of Defense Authorization Act, 1985 ([Public Law 98–525][/us/pl/98/525]), referred to in subsec. (d), was formerly set out as a note under [section 7158 of Title 42][/us/usc/t42/s7158], The Public Health and Welfare, and was renumbered [section 4101 of Pub. L. 107–314][/us/pl/107/314/s4101], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(d)(2), Nov. 24, 2003, [117 Stat. 1757][/us/stat/117/1757]. [Section 4101 of Pub. L. 107–314][/us/pl/107/314/s4101] is classified to [section 2511 of this title][/us/usc/t50/s2511].
 
 ----------
 
@@ -51,13 +51,13 @@
 [/us/usc/t42/s7158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7158
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t42/s7158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7158
-[/us/pl/106/65/s3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3216
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F959
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t42/s7158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7158
 [/us/pl/107/314/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4101
-[/us/pl/108/136/s3141/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fd%2F2
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1757
 [/us/pl/107/314/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4101
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511

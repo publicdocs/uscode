@@ -19,7 +19,7 @@
 
     The collector of customs shall, during the present war, in each case report to the President the amount of gold or silver coin or bullion or other moneys of the United States contained in any cargo intended for export. Such report shall include the names and addresses of the consignors and consignees, together with any facts known to the collector with reference to such shipment and particularly those which may indicate that such gold or silver coin or bullion or moneys of the United States may be intended for delivery or may be delivered, directly or indirectly, to an enemy or an ally of enemy.
 
-([Oct. 6, 1917, ch. 106, § 14][/us/act/1917-10-06/ch106/s14], [40 Stat. 424][/us/stat/40/424].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 14, [40 Stat. 424][/us/stat/40/424].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t50/s4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4313
-[/us/act/1917-10-06/ch106/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs14
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F424
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 

@@ -45,7 +45,7 @@
 
                 (ii) the plan of the Administrator for meeting or, if necessary, adjusting that goal.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3252][/us/pl/106/65/s3252], Oct. 5, 1999, [113 Stat. 966][/us/stat/113/966]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3158(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–469.)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3252, Oct. 5, 1999, [113 Stat. 966][/us/stat/113/966]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3158(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–469.)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __First Report on Assessment of Prior Plans; GAO Report__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3158(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–469, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3158(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–469, provided that:
 
 >     “(b)  __Effective Date of Requirement to Assess Prior Plan__  __.—__ 
 
@@ -72,12 +72,12 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/106/65/s3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3252
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F966
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

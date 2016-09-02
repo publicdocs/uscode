@@ -37,7 +37,7 @@
 
     (6) A change in the terms offered or conditions required for the issuance of insurance.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 108, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2840][/us/stat/117/2840].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 108, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2840][/us/stat/117/2840].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 108 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, as added [Pub. L. 102–12, § 7][/us/pl/102/12/s7], Mar. 18, 1991, [105 Stat. 38][/us/stat/105/38], related to the effect of certain future financial transactions on the exercise of rights, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    A prior section 108 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, as added [Pub. L. 102–12][/us/pl/102/12], § 7, Mar. 18, 1991, [105 Stat. 38][/us/stat/105/38], related to the effect of certain future financial transactions on the exercise of rights, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
 ----------
 
@@ -55,10 +55,10 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2840
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/102/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs7
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F38
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 

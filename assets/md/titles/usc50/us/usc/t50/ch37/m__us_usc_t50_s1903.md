@@ -89,51 +89,51 @@
 
             (D) overseeing the Corps efforts to work with Executive agencies and State and Local  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
 
-([Pub. L. 102–183, title VIII, § 803][/us/pl/102/183/s803], Dec. 4, 1991, [105 Stat. 1273][/us/stat/105/1273]; [Pub. L. 102–496, title IV, § 404(d)][/us/pl/102/496/s404/d], Oct. 24, 1992, [106 Stat. 3186][/us/stat/106/3186]; [Pub. L. 104–201, div. A, title X, § 1078(e)][/us/pl/104/201/s1078/e], Sept. 23, 1996, [110 Stat. 2666][/us/stat/110/2666]; [Pub. L. 105–272, title III, § 305(a)(3)][/us/pl/105/272/s305/a/3], (b), Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401]; [Pub. L. 105–277, div. G, title XIII, § 1335(g)][/us/pl/105/277/s1335/g], Oct. 21, 1998, [112 Stat. 2681–788][/us/stat/112/2681-788]; [Pub. L. 107–306, title III, § 333(a)(4)][/us/pl/107/306/s333/a/4], Nov. 27, 2002, [116 Stat. 2396][/us/stat/116/2396]; [Pub. L. 108–487, title VI, § 603(a)(3)][/us/pl/108/487/s603/a/3], Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954]; [Pub. L. 112–81, div. A, title X, § 1087][/us/pl/112/81/s1087], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 112–166, § 2(c)(2)][/us/pl/112/166/s2/c/2], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284]; [Pub. L. 112–239, div. A, title IX, § 954(b)][/us/pl/112/239/s954/b], Jan. 2, 2013, [126 Stat. 1896][/us/stat/126/1896].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 803, Dec. 4, 1991, [105 Stat. 1273][/us/stat/105/1273]; [Pub. L. 102–496, title IV][/us/pl/102/496/tIV], § 404(d), Oct. 24, 1992, [106 Stat. 3186][/us/stat/106/3186]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1078(e), Sept. 23, 1996, [110 Stat. 2666][/us/stat/110/2666]; [Pub. L. 105–272, title III][/us/pl/105/272/tIII], § 305(a)(3), (b), Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401]; [Pub. L. 105–277, div. G, title XIII][/us/pl/105/277/dG/tXIII], § 1335(g), Oct. 21, 1998, [112 Stat. 2681–788][/us/stat/112/2681-788]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 333(a)(4), Nov. 27, 2002, [116 Stat. 2396][/us/stat/116/2396]; [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 603(a)(3), Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1087, Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 112–166][/us/pl/112/166], § 2(c)(2), Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 954(b), Jan. 2, 2013, [126 Stat. 1896][/us/stat/126/1896].)
 
  __Amendments__ 
 
-    2013—Subsec. (b)(5) to (9). [Pub. L. 112–239, § 954(b)(1)][/us/pl/112/239/s954/b/1], added pars. (5) to (7), redesignated former pars. (6) and (7) as (8) and (9), respectively, and struck out former par. (5) which read as follows: “The Director of Central Intelligence.”
+    2013—Subsec. (b)(5) to (9). [Pub. L. 112–239][/us/pl/112/239], § 954(b)(1), added pars. (5) to (7), redesignated former pars. (6) and (7) as (8) and (9), respectively, and struck out former par. (5) which read as follows: “The Director of Central Intelligence.”
 
-    Subsec. (d)(9). [Pub. L. 112–239, § 954(b)(2)][/us/pl/112/239/s954/b/2], added par. (9).
+    Subsec. (d)(9). [Pub. L. 112–239][/us/pl/112/239], § 954(b)(2), added par. (9).
 
-    2012—Subsec. (b)(7). [Pub. L. 112–166][/us/pl/112/166], which directed striking the phrase “by and with the advice and consent of the Senate,”, could not be executed because the phrase did not appear after execution of amendment by [Pub. L. 112–81, § 1087(a)][/us/pl/112/81/s1087/a]. See 2011 Amendment note below.
+    2012—Subsec. (b)(7). [Pub. L. 112–166][/us/pl/112/166], which directed striking the phrase “by and with the advice and consent of the Senate,”, could not be executed because the phrase did not appear after execution of amendment by [Pub. L. 112–81][/us/pl/112/81], § 1087(a). See 2011 Amendment note below.
 
-    2011—Subsec. (b)(7). [Pub. L. 112–81, § 1087(a)][/us/pl/112/81/s1087/a], struck out “by and with the advice and consent of the Senate,” after “President,”.
+    2011—Subsec. (b)(7). [Pub. L. 112–81][/us/pl/112/81], § 1087(a), struck out “by and with the advice and consent of the Senate,” after “President,”.
 
-    Subsec. (c). [Pub. L. 112–81, § 1087(b)][/us/pl/112/81/s1087/b], substituted “subsection (b)(7)” for “subsection (b)(6)”.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 1087(b), substituted “subsection (b)(7)” for “subsection (b)(6)”.
 
     2004–Subsec. (d)(4)(E). [Pub. L. 108–487][/us/pl/108/487] inserted “and [section 1902(a)(1)(E) of this title][/us/usc/t50/s1902/a/1/E] (relating to the scholarship program for advanced English language studies by heritage community citizens)” before period.
 
     2002—Subsec. (d)(4)(E). [Pub. L. 107–306][/us/pl/107/306] added subpar. (E).
 
-    1998—Subsec. (b)(6). [Pub. L. 105–277, § 1335(g)(1)][/us/pl/105/277/s1335/g/1], redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary of Energy.”
+    1998—Subsec. (b)(6). [Pub. L. 105–277][/us/pl/105/277], § 1335(g)(1), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary of Energy.”
 
-    [Pub. L. 105–272, § 305(b)][/us/pl/105/272/s305/b], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the United States Information Agency.”
+    [Pub. L. 105–272][/us/pl/105/272], § 305(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the United States Information Agency.”
 
-    Subsec. (b)(7). [Pub. L. 105–277, § 1335(g)(1)(B)][/us/pl/105/277/s1335/g/1/B], redesignated par. (8) as (7). Former par. (7) redesignated (6).
+    Subsec. (b)(7). [Pub. L. 105–277][/us/pl/105/277], § 1335(g)(1)(B), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-    Subsec. (b)(8). [Pub. L. 105–277, § 1335(g)(1)(B)][/us/pl/105/277/s1335/g/1/B], redesignated par. (8) as (7).
+    Subsec. (b)(8). [Pub. L. 105–277][/us/pl/105/277], § 1335(g)(1)(B), redesignated par. (8) as (7).
 
-    [Pub. L. 105–272, § 305(a)(3)][/us/pl/105/272/s305/a/3], substituted “area, and counterproliferation” for “and area”.
+    [Pub. L. 105–272][/us/pl/105/272], § 305(a)(3), substituted “area, and counterproliferation” for “and area”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1335(g)(2)][/us/pl/105/277/s1335/g/2], substituted “subsection (b)(6)” for “subsection (b)(7)”.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1335(g)(2), substituted “subsection (b)(6)” for “subsection (b)(7)”.
 
-    Subsec. (d)(4). [Pub. L. 105–272, § 305(a)(3)][/us/pl/105/272/s305/a/3], substituted “area, and counterproliferation” for “and area” in introductory provisions.
+    Subsec. (d)(4). [Pub. L. 105–272][/us/pl/105/272], § 305(a)(3), substituted “area, and counterproliferation” for “and area” in introductory provisions.
 
-    1996—Subsec. (d)(1). [Pub. L. 104–201, § 1078(e)(1)][/us/pl/104/201/s1078/e/1], inserted before period at end “, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position”.
+    1996—Subsec. (d)(1). [Pub. L. 104–201][/us/pl/104/201], § 1078(e)(1), inserted before period at end “, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position”.
 
-    Subsec. (d)(4). [Pub. L. 104–201, § 1078(e)(2)(A)][/us/pl/104/201/s1078/e/2/A], in introductory provisions, substituted “After taking into account the annual analyses of trends in language, international, and area studies under [section 1906(b)(1) of this title][/us/usc/t50/s1906/b/1], make recommendations” for “Make recommendations”.
+    Subsec. (d)(4). [Pub. L. 104–201][/us/pl/104/201], § 1078(e)(2)(A), in introductory provisions, substituted “After taking into account the annual analyses of trends in language, international, and area studies under [section 1906(b)(1) of this title][/us/usc/t50/s1906/b/1], make recommendations” for “Make recommendations”.
 
-    Subsec. (d)(4)(A). [Pub. L. 104–201, § 1078(e)(2)(B)][/us/pl/104/201/s1078/e/2/B], substituted “and countries which are of importance to the national security interests of the United States” after “are studying”.
+    Subsec. (d)(4)(A). [Pub. L. 104–201][/us/pl/104/201], § 1078(e)(2)(B), substituted “and countries which are of importance to the national security interests of the United States” after “are studying”.
 
-    Subsec. (d)(4)(B). [Pub. L. 104–201, § 1078(e)(2)(C)][/us/pl/104/201/s1078/e/2/C], substituted “relating to the national security interests of the United States” after “[section 1902(a)(1)(B) of this title][/us/usc/t50/s1902/a/1/B]”.
+    Subsec. (d)(4)(B). [Pub. L. 104–201][/us/pl/104/201], § 1078(e)(2)(C), substituted “relating to the national security interests of the United States” after “[section 1902(a)(1)(B) of this title][/us/usc/t50/s1902/a/1/B]”.
 
-    Subsec. (d)(5) to (8). [Pub. L. 104–201, § 1078(e)(3)][/us/pl/104/201/s1078/e/3], (4), added pars. (5) to (7) and redesignated former par. (5) as (8).
+    Subsec. (d)(5) to (8). [Pub. L. 104–201][/us/pl/104/201], § 1078(e)(3), (4), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
-    1992—Subsec. (b)(7). [Pub. L. 102–496, § 404(d)(2)][/us/pl/102/496/s404/d/2], added par. (7). Former par. (7) redesignated (8).
+    1992—Subsec. (b)(7). [Pub. L. 102–496][/us/pl/102/496], § 404(d)(2), added par. (7). Former par. (7) redesignated (8).
 
-    Subsec. (b)(8). [Pub. L. 102–496, § 404(d)(1)][/us/pl/102/496/s404/d/1], (3), redesignated par. (7) as (8), substituted “Six individuals” for “Four individuals”, and inserted before period at end “and who may not be officers or employees of the Federal Government”.
+    Subsec. (b)(8). [Pub. L. 102–496][/us/pl/102/496], § 404(d)(1), (3), redesignated par. (7) as (8), substituted “Six individuals” for “Four individuals”, and inserted before period at end “and who may not be officers or employees of the Federal Government”.
 
  __Change of Name__ 
 
@@ -165,51 +165,51 @@
 [/us/usc/t50/s1902/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FD
 [/us/usc/t50/s1902/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FE
 [/us/usc/t50/s1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1913
-[/us/pl/102/183/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs803
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1273
-[/us/pl/102/496/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs404%2Fd
+[/us/pl/102/496/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIV
 [/us/stat/106/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3186
-[/us/pl/104/201/s1078/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Fe
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2666
-[/us/pl/105/272/s305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs305%2Fa%2F3
+[/us/pl/105/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtIII
 [/us/stat/112/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2401
-[/us/pl/105/277/s1335/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fg
+[/us/pl/105/277/dG/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXIII
 [/us/stat/112/2681-788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-788
-[/us/pl/107/306/s333/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs333%2Fa%2F4
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2396
-[/us/pl/108/487/s603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs603%2Fa%2F3
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3954
-[/us/pl/112/81/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1087
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
-[/us/pl/112/166/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fc%2F2
-[/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
-[/us/pl/112/239/s954/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs954%2Fb
-[/us/stat/126/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1896
-[/us/pl/112/239/s954/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs954%2Fb%2F1
-[/us/pl/112/239/s954/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs954%2Fb%2F2
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/112/81/s1087/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1087%2Fa
-[/us/pl/112/81/s1087/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1087%2Fa
-[/us/pl/112/81/s1087/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1087%2Fb
+[/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
+[/us/stat/126/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1896
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
 [/us/usc/t50/s1902/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FE
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
-[/us/pl/105/277/s1335/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fg%2F1
-[/us/pl/105/272/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs305%2Fb
-[/us/pl/105/277/s1335/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fg%2F1%2FB
-[/us/pl/105/277/s1335/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fg%2F1%2FB
-[/us/pl/105/272/s305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs305%2Fa%2F3
-[/us/pl/105/277/s1335/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fg%2F2
-[/us/pl/105/272/s305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs305%2Fa%2F3
-[/us/pl/104/201/s1078/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Fe%2F1
-[/us/pl/104/201/s1078/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Fe%2F2%2FA
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t50/s1906/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1906%2Fb%2F1
-[/us/pl/104/201/s1078/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Fe%2F2%2FB
-[/us/pl/104/201/s1078/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Fe%2F2%2FC
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t50/s1902/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FB
-[/us/pl/104/201/s1078/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Fe%2F3
-[/us/pl/102/496/s404/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs404%2Fd%2F2
-[/us/pl/102/496/s404/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs404%2Fd%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
+[/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166

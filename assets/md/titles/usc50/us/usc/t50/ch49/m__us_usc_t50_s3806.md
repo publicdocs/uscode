@@ -141,7 +141,7 @@
 
         As used in this subsection, the term “brother” or “sister” means a brother of the whole blood or a sister of the whole blood, as the case may be.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 6, [62 Stat. 609][/us/stat/62/609]; [Sept. 27, 1950, ch. 1059, § 1(6)][/us/act/1950-09-27/ch1059/s1/6], [64 Stat. 1074][/us/stat/64/1074]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(l)–(q), [65 Stat. 83][/us/stat/65/83]; [June 30, 1955, ch. 250][/us/act/1955-06-30/ch250], title I, § 101, [69 Stat. 223][/us/stat/69/223]; [Aug. 9, 1955, ch. 665, § 3(b)][/us/act/1955-08-09/ch665/s3/b]–(d), [69 Stat. 603][/us/stat/69/603], 604; [Pub. L. 85–62][/us/pl/85/62], §§ 6, 7, June 27, 1957, [71 Stat. 208][/us/stat/71/208]; [Pub. L. 85–722][/us/pl/85/722], Aug. 21, 1958, [72 Stat. 711][/us/stat/72/711]; [Pub. L. 87–378, § 1][/us/pl/87/378/s1], Oct. 4, 1961, [75 Stat. 807][/us/stat/75/807]; [Pub. L. 87–536][/us/pl/87/536], July 18, 1962, [76 Stat. 167][/us/stat/76/167]; [Pub. L. 88–110, § 2][/us/pl/88/110/s2], Sept. 3, 1963, [77 Stat. 134][/us/stat/77/134]; [Pub. L. 88–360][/us/pl/88/360], July 7, 1964, [78 Stat. 296][/us/stat/78/296]; [Pub. L. 90–40, § 1(4)][/us/pl/90/40/s1/4]–(7), June 30, 1967, [81 Stat. 100–102][/us/stat/81/100-102], 104; [Pub. L. 91–604, § 15(b)(8)(B)][/us/pl/91/604/s15/b/8/B], Dec. 31, 1970, [84 Stat. 1712][/us/stat/84/1712]; [Pub. L. 92–129, title I, § 101(a)(10)][/us/pl/92/129/s101/a/10]–(22), Sept. 28, 1971, [85 Stat. 349–351][/us/stat/85/349-351]; [Pub. L. 93–638, title I, § 104(c)][/us/pl/93/638/s104/c], formerly § 105(c), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208], renumbered § 104(c), [Pub. L. 100–472, title II, § 203(a)][/us/pl/100/472/s203/a], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 94–106, title VIII, § 802(d)][/us/pl/94/106/s802/d], Oct. 7, 1975, [89 Stat. 537][/us/stat/89/537]; [Pub. L. 96–584, § 3(a)][/us/pl/96/584/s3/a], Dec. 23, 1980, [94 Stat. 3377][/us/stat/94/3377]; [Pub. L. 98–525, title XV, § 1531][/us/pl/98/525/s1531], Oct. 19, 1984, [98 Stat. 2631][/us/stat/98/2631]; [Pub. L. 103–337, div. A, title XVI, § 1677(f)][/us/pl/103/337/s1677/f], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 107–296, title XVII, § 1704(e)(11)(C)][/us/pl/107/296/s1704/e/11/C], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 109–163, div. A, title V, § 515(g)(3)(A)][/us/pl/109/163/s515/g/3/A], (h), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236], 3237.)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 6, [62 Stat. 609][/us/stat/62/609]; [Sept. 27, 1950, ch. 1059][/us/act/1950-09-27/ch1059], § 1(6), [64 Stat. 1074][/us/stat/64/1074]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(l)–(q), [65 Stat. 83][/us/stat/65/83]; [June 30, 1955, ch. 250][/us/act/1955-06-30/ch250], title I, § 101, [69 Stat. 223][/us/stat/69/223]; [Aug. 9, 1955, ch. 665][/us/act/1955-08-09/ch665], § 3(b)–(d), [69 Stat. 603][/us/stat/69/603], 604; [Pub. L. 85–62][/us/pl/85/62], §§ 6, 7, June 27, 1957, [71 Stat. 208][/us/stat/71/208]; [Pub. L. 85–722][/us/pl/85/722], Aug. 21, 1958, [72 Stat. 711][/us/stat/72/711]; [Pub. L. 87–378][/us/pl/87/378], § 1, Oct. 4, 1961, [75 Stat. 807][/us/stat/75/807]; [Pub. L. 87–536][/us/pl/87/536], July 18, 1962, [76 Stat. 167][/us/stat/76/167]; [Pub. L. 88–110][/us/pl/88/110], § 2, Sept. 3, 1963, [77 Stat. 134][/us/stat/77/134]; [Pub. L. 88–360][/us/pl/88/360], July 7, 1964, [78 Stat. 296][/us/stat/78/296]; [Pub. L. 90–40][/us/pl/90/40], § 1(4)–(7), June 30, 1967, [81 Stat. 100–102][/us/stat/81/100-102], 104; [Pub. L. 91–604][/us/pl/91/604], § 15(b)(8)(B), Dec. 31, 1970, [84 Stat. 1712][/us/stat/84/1712]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(10)–(22), Sept. 28, 1971, [85 Stat. 349–351][/us/stat/85/349-351]; [Pub. L. 93–638, title I][/us/pl/93/638/tI], § 104(c), formerly § 105(c), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208], renumbered § 104(c), [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 203(a), Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 802(d), Oct. 7, 1975, [89 Stat. 537][/us/stat/89/537]; [Pub. L. 96–584][/us/pl/96/584], § 3(a), Dec. 23, 1980, [94 Stat. 3377][/us/stat/94/3377]; [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1531, Oct. 19, 1984, [98 Stat. 2631][/us/stat/98/2631]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(f), Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(11)(C), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(g)(3)(A), (h), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236], 3237.)
 
  __Termination of Induction for Training and Service__ 
 
@@ -155,9 +155,9 @@
 
     This Act, referred to in subsecs. (a)(3), (b)(3), (c)(2)(A) to (D), (d)(1), (2), (g)(2), and (h), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], known as the Military Selective Service Act. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of this title][/us/usc/t50/s3801] and Tables.
 
-    [Section 1013 of this title][/us/usc/t50/s1013], referred to in subsec. (c)(2)(D), was repealed by [Pub. L. 88–110, § 1][/us/pl/88/110/s1], Sept. 3, 1963, [77 Stat. 134][/us/stat/77/134].
+    [Section 1013 of this title][/us/usc/t50/s1013], referred to in subsec. (c)(2)(D), was repealed by [Pub. L. 88–110][/us/pl/88/110], § 1, Sept. 3, 1963, [77 Stat. 134][/us/stat/77/134].
 
-    Act of August 13, 1946 ([60 Stat. 1057][/us/stat/60/1057]), referred to in subsec. (d)(1), is [act Aug. 13, 1946, ch. 962][/us/act/1946-08-13/ch962], [60 Stat. 1057][/us/stat/60/1057], which was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641], section 1 of which enacted Title 10, Armed Forces. Provisions of the 1946 Act relating to the naval and Marine Corps officer candidate training program were reenacted in sections 6903 to 6908 of Title 10, which were repealed by [Pub. L. 88–647, § 301(17)][/us/pl/88/647/s301/17], Oct. 13, 1964, [78 Stat. 1072][/us/stat/78/1072], and replaced by chapters 102 and 103 of Title 10.
+    Act of August 13, 1946 ([60 Stat. 1057][/us/stat/60/1057]), referred to in subsec. (d)(1), is [act Aug. 13, 1946, ch. 962][/us/act/1946-08-13/ch962], [60 Stat. 1057][/us/stat/60/1057], which was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641], section 1 of which enacted Title 10, Armed Forces. Provisions of the 1946 Act relating to the naval and Marine Corps officer candidate training program were reenacted in sections 6903 to 6908 of Title 10, which were repealed by [Pub. L. 88–647][/us/pl/88/647], § 301(17), Oct. 13, 1964, [78 Stat. 1072][/us/stat/78/1072], and replaced by chapters 102 and 103 of Title 10.
 
  __Codification__ 
 
@@ -165,19 +165,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–163, § 515(g)(3)(A)][/us/pl/109/163/s515/g/3/A], substituted “members of the United States Navy Reserve” for “United States Naval Reserves”.
+    2006—Subsec. (a)(1). [Pub. L. 109–163][/us/pl/109/163], § 515(g)(3)(A), substituted “members of the United States Navy Reserve” for “United States Naval Reserves”.
 
-    Subsec. (d)(1)(A). [Pub. L. 109–163, § 515(h)][/us/pl/109/163/s515/h], substituted “United States Navy Reserve” for “United States Naval Reserve”.
+    Subsec. (d)(1)(A). [Pub. L. 109–163][/us/pl/109/163], § 515(h), substituted “United States Navy Reserve” for “United States Naval Reserve”.
 
-    Subsec. (d)(2). [Pub. L. 109–163, § 515(h)][/us/pl/109/163/s515/h], substituted “Navy Reserve” for “Naval Reserve”.
+    Subsec. (d)(2). [Pub. L. 109–163][/us/pl/109/163], § 515(h), substituted “Navy Reserve” for “Naval Reserve”.
 
     2002—Subsec. (d)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation” in two places.
 
-    1994—Subsec. (c)(2)(A). [Pub. L. 103–337, § 1677(f)(1)][/us/pl/103/337/s1677/f/1], substituted “[section 10147 of title 10][/us/usc/t10/s10147]” for “[section 270 of title 10][/us/usc/t10/s270]” in concluding provisions.
+    1994—Subsec. (c)(2)(A). [Pub. L. 103–337][/us/pl/103/337], § 1677(f)(1), substituted “[section 10147 of title 10][/us/usc/t10/s10147]” for “[section 270 of title 10][/us/usc/t10/s270]” in concluding provisions.
 
-    Subsec. (c)(2)(D). [Pub. L. 103–337, § 1677(f)(2)][/us/pl/103/337/s1677/f/2], substituted “[section 12103 of title 10][/us/usc/t10/s12103]” for “[section 511(b) of title 10][/us/usc/t10/s511/b]”.
+    Subsec. (c)(2)(D). [Pub. L. 103–337][/us/pl/103/337], § 1677(f)(2), substituted “[section 12103 of title 10][/us/usc/t10/s12103]” for “[section 511(b) of title 10][/us/usc/t10/s511/b]”.
 
-    Subsec. (d)(1). [Pub. L. 103–337, § 1677(f)(3)][/us/pl/103/337/s1677/f/3], substituted “[section 10147 of title 10][/us/usc/t10/s10147]” for “[section 270(a) of title 10][/us/usc/t10/s270/a]”.
+    Subsec. (d)(1). [Pub. L. 103–337][/us/pl/103/337], § 1677(f)(3), substituted “[section 10147 of title 10][/us/usc/t10/s10147]” for “[section 270(a) of title 10][/us/usc/t10/s270/a]”.
 
     1984—Subsec. (o). [Pub. L. 98–525][/us/pl/98/525] inserted reference to mother in cls. (1) and (2), exempting from induction any person whose mother was killed in line of duty.
 
@@ -187,37 +187,37 @@
 
     Subsec. (c)(2)(A). [Pub. L. 94–106][/us/pl/94/106], in provisions relating to deferment of certain persons from induction who completed six years of active service as members of the Ready Reserve or National Guard, substituted requirement of performance of active duty for training with an armed force for not less than twelve consecutive weeks during such service for requirement of performance of such active duty for not less than four consecutive months.
 
-    1971—Subsec. (a)(1). [Pub. L. 92–129, § 101(a)(10)][/us/pl/92/129/s101/a/10], (11), inserted proviso making subject to registration an alien lawfully admitted for permanent residence who by reason of occupational status is subject to adjustment to non-immigrant status but who executes a waiver of all rights, privileges, exemptions, and immunities which would otherwise accrue to him as a result of that occupational status, and granting a deferment from induction to such alien for so long as such occupational status continues, and substituted “twelve months” for “eighteen months” as the period of requisite service in the armed forces of a nation with which the United States is associated in mutual defense activities in order to gain an exemption from training and service.
+    1971—Subsec. (a)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(10), (11), inserted proviso making subject to registration an alien lawfully admitted for permanent residence who by reason of occupational status is subject to adjustment to non-immigrant status but who executes a waiver of all rights, privileges, exemptions, and immunities which would otherwise accrue to him as a result of that occupational status, and granting a deferment from induction to such alien for so long as such occupational status continues, and substituted “twelve months” for “eighteen months” as the period of requisite service in the armed forces of a nation with which the United States is associated in mutual defense activities in order to gain an exemption from training and service.
 
-    Subsec. (b)(3). [Pub. L. 92–129, § 101(a)(12)][/us/pl/92/129/s101/a/12], substituted “[section 3805(a) of this title][/us/usc/t50/s3805/a]” for “[section 3803(i) of this title][/us/usc/t50/s3803/i]”.
+    Subsec. (b)(3). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(12), substituted “[section 3805(a) of this title][/us/usc/t50/s3805/a]” for “[section 3803(i) of this title][/us/usc/t50/s3803/i]”.
 
-    Subsec. (b)(4). [Pub. L. 92–129, § 101(a)(13)][/us/pl/92/129/s101/a/13], struck out reference to [section 3803(g) of this title][/us/usc/t50/s3803/g].
+    Subsec. (b)(4). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(13), struck out reference to [section 3803(g) of this title][/us/usc/t50/s3803/g].
 
-    Subsec. (d)(1). [Pub. L. 92–129, § 101(a)(14)][/us/pl/92/129/s101/a/14], substituted “Secretary of Transportation” for “Secretary of the Treasury” and “[section 651 of Title 10][/us/usc/t10/s651]” for “[section 3803(d)(3) of this title][/us/usc/t50/s3803/d/3]”, respectively.
+    Subsec. (d)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(14), substituted “Secretary of Transportation” for “Secretary of the Treasury” and “[section 651 of Title 10][/us/usc/t10/s651]” for “[section 3803(d)(3) of this title][/us/usc/t50/s3803/d/3]”, respectively.
 
-    Subsec. (d)(5). [Pub. L. 92–129, § 101(a)(15)][/us/pl/92/129/s101/a/15], reflected creation of National Oceanic and Atmospheric Administration and transfer to such newly created Administration of former Coast and Geodetic Survey.
+    Subsec. (d)(5). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(15), reflected creation of National Oceanic and Atmospheric Administration and transfer to such newly created Administration of former Coast and Geodetic Survey.
 
-    Subsec. (g). [Pub. L. 92–129, § 101(a)(16)][/us/pl/92/129/s101/a/16], changed from an exemption to a deferment the status to be accorded divinity students, with such students to remain liable for training and service until their 35th birthday.
+    Subsec. (g). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(16), changed from an exemption to a deferment the status to be accorded divinity students, with such students to remain liable for training and service until their 35th birthday.
 
-    Subsec. (h). [Pub. L. 92–129, § 101(a)(17)][/us/pl/92/129/s101/a/17], (18), struck out provisions formerly designated as par. (1) which had covered college student deferments, struck the designation “(2)” preceding the remaining provisions which had theretofore been designated par. (2), and, in such provisions, struck out reference to deferments for persons engaged in graduate study.
+    Subsec. (h). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(17), (18), struck out provisions formerly designated as par. (1) which had covered college student deferments, struck the designation “(2)” preceding the remaining provisions which had theretofore been designated par. (2), and, in such provisions, struck out reference to deferments for persons engaged in graduate study.
 
-    Subsec. (i)(1). [Pub. L. 92–129, § 101(a)(19)][/us/pl/92/129/s101/a/19], substituted provisions allowing a postponement of induction for high school students for provisions creating a deferment for such students and inserted provisions allowing an additional postponement of induction until the end of the academic year for high school students who turn 20 during their last year of high school provided that they continue to pursue satisfactorily a full-time course of instruction.
+    Subsec. (i)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(19), substituted provisions allowing a postponement of induction for high school students for provisions creating a deferment for such students and inserted provisions allowing an additional postponement of induction until the end of the academic year for high school students who turn 20 during their last year of high school provided that they continue to pursue satisfactorily a full-time course of instruction.
 
-    Subsec. (i)(2). [Pub. L. 91–129, § 101(a)(20)][/us/pl/91/129/s101/a/20], substituted provisions allowing a postponement of induction for college students for provisions creating a deferment for such students and struck out references to previous deferments and postponements and to the President’s former authority to allow for student deferments.
+    Subsec. (i)(2). [Pub. L. 91–129][/us/pl/91/129], § 101(a)(20), substituted provisions allowing a postponement of induction for college students for provisions creating a deferment for such students and struck out references to previous deferments and postponements and to the President’s former authority to allow for student deferments.
 
-    Subsec. (j). [Pub. L. 92–129, § 101(a)(21)][/us/pl/92/129/s101/a/21], substituted “Director” for “local board pursuant to Presidential regulations” and inserted sentence charging the Director with the responsibility for finding civilian work for persons exempted from training and service and for their placement in appropriate civilian work.
+    Subsec. (j). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(21), substituted “Director” for “local board pursuant to Presidential regulations” and inserted sentence charging the Director with the responsibility for finding civilian work for persons exempted from training and service and for their placement in appropriate civilian work.
 
-    Subsec. (o). [Pub. L. 92–129, § 101(a)(22)][/us/pl/92/129/s101/a/22], inserted provisions for an exemption from training and service during a period of time in which the father or a brother or sister of a person is in a captured or missing status and struck out provisions limiting the exemption from service provided under this subsection to the sole surviving son of the family.
+    Subsec. (o). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(22), inserted provisions for an exemption from training and service during a period of time in which the father or a brother or sister of a person is in a captured or missing status and struck out provisions limiting the exemption from service provided under this subsection to the sole surviving son of the family.
 
     1970—Subsec. (b)(2). [Pub. L. 91–604][/us/pl/91/604] inserted “the Environmental Protection Agency,” after “Department of Justice,”.
 
-    1967—Subsec. (a). [Pub. L. 90–40, § 1(5)][/us/pl/90/40/s1/5], designated existing provisions as par. (1), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”, removed commissioned officers, warrant officers, pay clerks, enlisted men, aviation cadets, and, while on active duty, members of the reserve component, of the Public Health Service from the list of enumerated personnel relieved from the registration requirement of [section 3802 of this title][/us/usc/t50/s3802] and the training and service requirement of [section 3803 of this title][/us/usc/t50/s3803], added cadets, United States Air Force Academy, to such lists, and inserted proviso that a person in a medical, dental, or allied specialist category not otherwise deferred or exempted under subsec. (a) be liable for registration, training, and service until the thirty-fifth anniversary of the date of his birth, and added par. (2).
+    1967—Subsec. (a). [Pub. L. 90–40][/us/pl/90/40], § 1(5), designated existing provisions as par. (1), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”, removed commissioned officers, warrant officers, pay clerks, enlisted men, aviation cadets, and, while on active duty, members of the reserve component, of the Public Health Service from the list of enumerated personnel relieved from the registration requirement of [section 3802 of this title][/us/usc/t50/s3802] and the training and service requirement of [section 3803 of this title][/us/usc/t50/s3803], added cadets, United States Air Force Academy, to such lists, and inserted proviso that a person in a medical, dental, or allied specialist category not otherwise deferred or exempted under subsec. (a) be liable for registration, training, and service until the thirty-fifth anniversary of the date of his birth, and added par. (2).
 
-    Subsec. (c)(2)(A). [Pub. L. 90–40, § 1(4)][/us/pl/90/40/s1/4], gave standby authority to both the Governors of the individual States, in the case of the National Guard, and to the President, in the case of the other reserve components, to permit the voluntary enlistment of registrants into these components during the period following their receipt of an induction notice and the date required for their actual induction, provided that there had previously issued a proclamation that the Governor or the President is not otherwise able to maintain the personnel strengths of the respective components.
+    Subsec. (c)(2)(A). [Pub. L. 90–40][/us/pl/90/40], § 1(4), gave standby authority to both the Governors of the individual States, in the case of the National Guard, and to the President, in the case of the other reserve components, to permit the voluntary enlistment of registrants into these components during the period following their receipt of an induction notice and the date required for their actual induction, provided that there had previously issued a proclamation that the Governor or the President is not otherwise able to maintain the personnel strengths of the respective components.
 
-    Subsec. (h). [Pub. L. 90–40, § 1(6)][/us/pl/90/40/s1/6], established uniform criteria for all undergraduate deferments to continue only until a registrant receives a baccalaureate degree, fails to pursue a full-time course of instruction satisfactorily, or reaches the age of 24, whichever occurs first, at which point students are required to be exposed to the hazards of induction in the prime age group in the same manner as their contemporaries who had not been provided student deferments, continued the President’s wide latitude in providing deferments for graduate students in medicine, dentistry, or other subjects deemed essential to the national health, safety, or interest, continued the President’s authority to prescribe areas of deferment based upon occupations or professions essential to the national interest, and called for greater uniformity in the administration of classification criteria for persons subject to induction.
+    Subsec. (h). [Pub. L. 90–40][/us/pl/90/40], § 1(6), established uniform criteria for all undergraduate deferments to continue only until a registrant receives a baccalaureate degree, fails to pursue a full-time course of instruction satisfactorily, or reaches the age of 24, whichever occurs first, at which point students are required to be exposed to the hazards of induction in the prime age group in the same manner as their contemporaries who had not been provided student deferments, continued the President’s wide latitude in providing deferments for graduate students in medicine, dentistry, or other subjects deemed essential to the national health, safety, or interest, continued the President’s authority to prescribe areas of deferment based upon occupations or professions essential to the national interest, and called for greater uniformity in the administration of classification criteria for persons subject to induction.
 
-    Subsec. (j). [Pub. L. 90–40, § 1(7)][/us/pl/90/40/s1/7], struck out provision that religious training and belief stem from the individual’s belief in a relation to a Supreme Being involving duties superior to those arising from any human relationship, and struck out requirement for a hearing by the Department of Justice when there is an appeal from a local board decision denying conscientious objector status.
+    Subsec. (j). [Pub. L. 90–40][/us/pl/90/40], § 1(7), struck out provision that religious training and belief stem from the individual’s belief in a relation to a Supreme Being involving duties superior to those arising from any human relationship, and struck out requirement for a hearing by the Department of Justice when there is an appeal from a local board decision denying conscientious objector status.
 
     1964—Subsec. (o). [Pub. L. 88–360][/us/pl/88/360] exempted sole surviving sons from induction in cases where the father was killed in action or in line of duty, permitted the sole surviving son to volunteer for induction, and terminated the exemption during time of war or national emergency thereafter declared by Congress.
 
@@ -225,9 +225,9 @@
 
     1962—Subsec. (d). [Pub. L. 87–536][/us/pl/87/536] inserted “Except as provided in paragraph (5),” before “upon the successful completion by any person” and added par. (5).
 
-    1961—Subsec. (c)(2). [Pub. L. 87–378, § 1(1)][/us/pl/87/378/s1/1], included members of the National Guard deferred by clause (A) of this paragraph, or any person enlisted or appointed in the Ready Reserve of any reserve component other than under [section 511(b) of Title 10][/us/usc/t10/s511/b], Armed Forces, the Army National Guard or the Air National Guard after Oct. 4, 1961, but prior to attaining age 26, who fail to serve satisfactorily as a member of their components within clause (E) of this paragraph, and struck out “or appointed” after “may provide that any person enlisted”.
+    1961—Subsec. (c)(2). [Pub. L. 87–378][/us/pl/87/378], § 1(1), included members of the National Guard deferred by clause (A) of this paragraph, or any person enlisted or appointed in the Ready Reserve of any reserve component other than under [section 511(b) of Title 10][/us/usc/t10/s511/b], Armed Forces, the Army National Guard or the Air National Guard after Oct. 4, 1961, but prior to attaining age 26, who fail to serve satisfactorily as a member of their components within clause (E) of this paragraph, and struck out “or appointed” after “may provide that any person enlisted”.
 
-    Subsec. (d)(1). [Pub. L. 87–378, § 1(2)][/us/pl/87/378/s1/2], substituted “If, at the time of, or subsequent to, such appointment” for “If, at the time of such appointment”, changed the period of active duty for training in grade, where the armed force in which such person is commissioned does not require his service on active duty, from 6 months to a period of not less than 3 months or more than 6 months, not including duty performed under [section 270(a) of Title 10][/us/usc/t10/s270/a], Armed Forces, as is determined to qualify such person for a mobilization assignment, and substituted the requirement that upon being commissioned and assigned to a reserve component, such person must serve therein, or in a reserve component of any other armed force in which he is later appointed, for provisions which required such person to be returned to inactive duty and assigned to an appropriate reserve unit upon completion of the required period of active duty for training.
+    Subsec. (d)(1). [Pub. L. 87–378][/us/pl/87/378], § 1(2), substituted “If, at the time of, or subsequent to, such appointment” for “If, at the time of such appointment”, changed the period of active duty for training in grade, where the armed force in which such person is commissioned does not require his service on active duty, from 6 months to a period of not less than 3 months or more than 6 months, not including duty performed under [section 270(a) of Title 10][/us/usc/t10/s270/a], Armed Forces, as is determined to qualify such person for a mobilization assignment, and substituted the requirement that upon being commissioned and assigned to a reserve component, such person must serve therein, or in a reserve component of any other armed force in which he is later appointed, for provisions which required such person to be returned to inactive duty and assigned to an appropriate reserve unit upon completion of the required period of active duty for training.
 
     1958—Subsec. (c)(2)(F). [Pub. L. 85–722][/us/pl/85/722] added subpar. (F).
 
@@ -277,7 +277,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–584, § 3(b)][/us/pl/96/584/s3/b], Dec. 23, 1980, [94 Stat. 3377][/us/stat/94/3377], provided that: 
+[Pub. L. 96–584][/us/pl/96/584], § 3(b), Dec. 23, 1980, [94 Stat. 3377][/us/stat/94/3377], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only to persons ordered to active duty for training after the effective date of this Act \[Dec. 23, 1980\].”
 
@@ -287,7 +287,7 @@
 
  __Savings Provision; Repeal of College Student Deferment__ 
 
-[Pub. L. 92–129, title I, § 101(b)][/us/pl/92/129/s101/b], Sept. 28, 1971, [85 Stat. 354][/us/stat/85/354], provided that: 
+[Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(b), Sept. 28, 1971, [85 Stat. 354][/us/stat/85/354], provided that: 
 
 > “Notwithstanding the repeal of section 6(h)(1) of the Military Selective Service Act of 1967 \[[50 U.S.C. 3806(h)(1)][/us/usc/t50/s3806/h/1]\] made by subsection (a)(17) of this section, any person (1) who is satisfactorily pursuing a full-time course of instruction at a college, university, or similar institution of higher learning, (2) who met the academic requirements of a student deferment prescribed in such section 6(h)(1), and (3) who was satisfactorily pursuing such a full-time course prior to the date of enactment of this Act \[Sept. 28, 1971\] and during the 1970–1971 regular academic school year shall be deferred from induction for training and service in the Armed Forces under the same terms and conditions such person would have been deferred under the provisions of such section 6(h)(1) had such provision not been repealed.”
 
@@ -295,7 +295,7 @@
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
-    Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard.
+    Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard.
 
     For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, [64 Stat. 1280][/us/stat/64/1280], 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 
@@ -313,7 +313,7 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 
  __Discharge of Surviving Sons__ 
 
-[Pub. L. 92–129, title I, § 101(d)][/us/pl/92/129/s101/d], Sept. 28, 1971, [85 Stat. 354][/us/stat/85/354], provided that:
+[Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(d), Sept. 28, 1971, [85 Stat. 354][/us/stat/85/354], provided that:
 
 >     “(1) Subject to the provisions of paragraph (2) of this subsection any surviving son or sons of a family who (A) were inducted into the Armed Forces under the Military Selective Service Act of 1967 \[now the Military Selective Service Act, see References in Text note set out under [section 3801 of this title][/us/usc/t50/s3801]\], (B) have not reenlisted or otherwise voluntarily extended their period of active duty in the Armed Forces, and (C) are serving on active duty with the Armed Forces on or after the date of enactment of this subsection \[Sept. 28, 1971\], and such son or sons could not, if they were not in the Armed Forces, be involuntarily inducted into military service under the Military Selective Service Act as a result of the amendment made by paragraph (22) of subsection (a) of this section \[amending this section\], such surviving son or sons shall, upon application, be promptly discharged from the Armed Forces.
 
@@ -323,7 +323,7 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 
  __Prior Obligated Service__ 
 
-[Pub. L. 88–110, § 5][/us/pl/88/110/s5], Sept. 3, 1963, [77 Stat. 136][/us/stat/77/136], provided that: 
+[Pub. L. 88–110][/us/pl/88/110], § 5, Sept. 3, 1963, [77 Stat. 136][/us/stat/77/136], provided that: 
 
 > “This Act \[amending this section, [section 3812 of this title][/us/usc/t50/s3812] and sections 270 and 12103 of Title 10, Armed Forces, and repealing [section 1013 of this title][/us/usc/t50/s1013]\] shall not affect any term of obligated service incurred before the effective date of this Act \[Sept. 3, 1963\]. In addition, the enactment of this Act \[Sept. 3, 1963\] shall not increase the minimum period of active duty or active duty for training that is required on the day before the effective date of this Act to earn an exemption from training and service under the Universal Military Training and Service Act, as amended (50 U.S.C. App. 451 et seq.) \[now [50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\], in the case of persons who entered the Armed Forces before the effective date of this Act.”
 
@@ -382,47 +382,47 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 [/us/usc/t50/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F609
-[/us/act/1950-09-27/ch1059/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059%2Fs1%2F6
+[/us/act/1950-09-27/ch1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059
 [/us/stat/64/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1074
 [/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
 [/us/stat/65/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F83
 [/us/act/1955-06-30/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch250
 [/us/stat/69/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F223
-[/us/act/1955-08-09/ch665/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch665%2Fs3%2Fb
+[/us/act/1955-08-09/ch665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch665
 [/us/stat/69/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F603
 [/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
 [/us/stat/71/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F208
 [/us/pl/85/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F722
 [/us/stat/72/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F711
-[/us/pl/87/378/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378%2Fs1
+[/us/pl/87/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378
 [/us/stat/75/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F807
 [/us/pl/87/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F536
 [/us/stat/76/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F167
-[/us/pl/88/110/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110%2Fs2
+[/us/pl/88/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110
 [/us/stat/77/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F134
 [/us/pl/88/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F360
 [/us/stat/78/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F296
-[/us/pl/90/40/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F4
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/stat/81/100-102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F100-102
-[/us/pl/91/604/s15/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fb%2F8%2FB
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1712
-[/us/pl/92/129/s101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F10
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/349-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F349-351
-[/us/pl/93/638/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104%2Fc
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
 [/us/stat/88/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2208
-[/us/pl/100/472/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Fa
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2290
-[/us/pl/94/106/s802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs802%2Fd
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F537
-[/us/pl/96/584/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584%2Fs3%2Fa
+[/us/pl/96/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584
 [/us/stat/94/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3377
-[/us/pl/98/525/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1531
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2631
-[/us/pl/103/337/s1677/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Ff
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3020
-[/us/pl/107/296/s1704/e/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F11%2FC
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/109/163/s515/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F3%2FA
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
 [/us/usc/t50/s3815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3815%2Fc
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
@@ -434,62 +434,62 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t50/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013
-[/us/pl/88/110/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110%2Fs1
+[/us/pl/88/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110
 [/us/stat/77/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F134
 [/us/stat/60/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1057
 [/us/act/1946-08-13/ch962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch962
 [/us/stat/60/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1057
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/88/647/s301/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F17
+[/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
 [/us/stat/78/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1072
-[/us/pl/109/163/s515/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F3%2FA
-[/us/pl/109/163/s515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fh
-[/us/pl/109/163/s515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fh
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/337/s1677/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Ff%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10147
 [/us/usc/t10/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270
-[/us/pl/103/337/s1677/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Ff%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12103
 [/us/usc/t10/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs511%2Fb
-[/us/pl/103/337/s1677/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Ff%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10147
 [/us/usc/t10/s270/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fa
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/96/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106
-[/us/pl/92/129/s101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F10
-[/us/pl/92/129/s101/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F12
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
 [/us/usc/t50/s3805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3805%2Fa
 [/us/usc/t50/s3803/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fi
-[/us/pl/92/129/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F13
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
 [/us/usc/t50/s3803/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fg
-[/us/pl/92/129/s101/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F14
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
 [/us/usc/t10/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs651
 [/us/usc/t50/s3803/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fd%2F3
-[/us/pl/92/129/s101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F15
-[/us/pl/92/129/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F16
-[/us/pl/92/129/s101/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F17
-[/us/pl/92/129/s101/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F19
-[/us/pl/91/129/s101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F129%2Fs101%2Fa%2F20
-[/us/pl/92/129/s101/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F21
-[/us/pl/92/129/s101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F22
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/91/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
-[/us/pl/90/40/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F5
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
 [/us/usc/t50/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803
-[/us/pl/90/40/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F4
-[/us/pl/90/40/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F6
-[/us/pl/90/40/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F7
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/pl/88/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F360
 [/us/pl/88/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110
 [/us/usc/t50/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013
 [/us/pl/87/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F536
-[/us/pl/87/378/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378%2Fs1%2F1
+[/us/pl/87/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378
 [/us/usc/t10/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs511%2Fb
-[/us/pl/87/378/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378%2Fs1%2F2
+[/us/pl/87/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378
 [/us/usc/t10/s270/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fa
 [/us/pl/85/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F722
 [/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
@@ -506,16 +506,16 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/96/584/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584%2Fs3%2Fb
+[/us/pl/96/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584
 [/us/stat/94/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3377
 [/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
 [/us/pl/85/62/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62%2Fs9
 [/us/usc/t50/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803
-[/us/pl/92/129/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fb
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F354
 [/us/usc/t50/s3806/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fh%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
@@ -528,11 +528,11 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t50/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811
-[/us/pl/92/129/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fd
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F354
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
-[/us/pl/88/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110%2Fs5
+[/us/pl/88/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110
 [/us/stat/77/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F136
 [/us/usc/t50/s3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3812
 [/us/usc/t50/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013

@@ -75,7 +75,7 @@
 
         In this section, the term “initial activities” means activities necessary to start the operations of the Waste Treatment and Immobilization Plant at the Hanford Tank Farms of the Hanford Nuclear Reservation, Richland, Washington, with respect to the design, construction, and operating of the Waste Treatment and Immobilization Plant and any related, required infrastructure facilities.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4445][/us/pl/107/314/s4445], as added [Pub. L. 113–66, div. C, title XXXI, § 3127(a)][/us/pl/113/66/s3127/a], Dec. 26, 2013, [127 Stat. 1064][/us/stat/127/1064].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4445, as added [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3127(a), Dec. 26, 2013, [127 Stat. 1064][/us/stat/127/1064].)
 
 ----------
 
@@ -84,8 +84,8 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4445
-[/us/pl/113/66/s3127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3127%2Fa
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1064
 
 

@@ -37,7 +37,7 @@
 
     (j) who is a person designated by a foreign government to serve as its representative in or to an international organization in which the United States participates or is an officer or employee of such an organization or who is a member of the immediate family of, and resides with, such a representative, officer, or employee.
 
-([Aug. 1, 1956, ch. 849, § 3][/us/act/1956-08-01/ch849/s3], [70 Stat. 899][/us/stat/70/899].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 3, [70 Stat. 899][/us/stat/70/899].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t50/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs851
-[/us/act/1956-08-01/ch849/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs3
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F899
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

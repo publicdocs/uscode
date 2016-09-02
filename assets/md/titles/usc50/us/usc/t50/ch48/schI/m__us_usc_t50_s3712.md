@@ -47,7 +47,7 @@
 
         The requirement for a determination under subsection (a) shall not apply to a state of the former Soviet Union.
 
-([Pub. L. 113–291, div. A, title XIII, § 1322][/us/pl/113/291/s1322], Dec. 19, 2014, [128 Stat. 3597][/us/stat/128/3597].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1322, Dec. 19, 2014, [128 Stat. 3597][/us/stat/128/3597].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t50/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3711
-[/us/pl/113/291/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1322
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3597
 
 

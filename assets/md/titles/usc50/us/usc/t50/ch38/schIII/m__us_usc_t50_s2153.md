@@ -29,11 +29,11 @@
 
             The portions of the annuity relating to other creditable service shall be computed as provided in section 8415 of such title that is applicable to such service under the conditions prescribed in chapter 84 of such title.
 
-([Pub. L. 88–643, title III, § 303][/us/pl/88/643/s303], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3244][/us/stat/106/3244]; amended [Pub. L. 112–96, title V, § 5001(c)(2)(G)][/us/pl/112/96/s5001/c/2/G], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
+([Pub. L. 88–643, title III][/us/pl/88/643/tIII], § 303, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3244][/us/stat/106/3244]; amended [Pub. L. 112–96, title V][/us/pl/112/96/tV], § 5001(c)(2)(G), Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
 
  __Prior Provisions__ 
 
-    A prior [section 303 of Pub. L. 88–643][/us/pl/88/643/s303], as added [Pub. L. 99–335, title V, § 506][/us/pl/99/335/s506], June 6, 1986, [100 Stat. 626][/us/stat/100/626], related to special rules for other employees for service abroad and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 303 of Pub. L. 88–643][/us/pl/88/643/s303], as added [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 506, June 6, 1986, [100 Stat. 626][/us/stat/100/626], related to special rules for other employees for service abroad and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t50/s2152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2152%2Fa
 [/us/usc/t5/s8415/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8415%2Fe
-[/us/pl/88/643/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs303
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtIII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3244
-[/us/pl/112/96/s5001/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FG
+[/us/pl/112/96/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtV
 [/us/stat/126/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F200
 [/us/pl/88/643/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs303
-[/us/pl/99/335/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs506
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F626
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

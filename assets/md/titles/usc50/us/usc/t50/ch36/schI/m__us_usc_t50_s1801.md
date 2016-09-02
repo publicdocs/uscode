@@ -161,7 +161,7 @@
 
         (4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
 
-([Pub. L. 95–511, title I, § 101][/us/pl/95/511/s101], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783]; [Pub. L. 106–120, title VI, § 601][/us/pl/106/120/s601], Dec. 3, 1999, [113 Stat. 1619][/us/stat/113/1619]; [Pub. L. 107–56, title X, § 1003][/us/pl/107/56/s1003], Oct. 26, 2001, [115 Stat. 392][/us/stat/115/392]; [Pub. L. 107–108, title III, § 314(a)(1)][/us/pl/107/108/s314/a/1], (c)(2), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], 1403; [Pub. L. 108–458, title VI, § 6001(a)][/us/pl/108/458/s6001/a], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742]; [Pub. L. 109–177, title V, § 506(a)(5)][/us/pl/109/177/s506/a/5], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248]; [Pub. L. 110–261, title I, § 110(a)][/us/pl/110/261/s110/a], July 10, 2008, [122 Stat. 2465][/us/stat/122/2465]; [Pub. L. 111–259, title VIII, § 801(1)][/us/pl/111/259/s801/1], Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746]; [Pub. L. 114–23, title VII][/us/pl/114/23], §§ 702, 703, June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 101, Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783]; [Pub. L. 106–120, title VI][/us/pl/106/120/tVI], § 601, Dec. 3, 1999, [113 Stat. 1619][/us/stat/113/1619]; [Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1003, Oct. 26, 2001, [115 Stat. 392][/us/stat/115/392]; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 314(a)(1), (c)(2), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], 1403; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6001(a), Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(5), Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 110(a), July 10, 2008, [122 Stat. 2465][/us/stat/122/2465]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 801(1), Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746]; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], §§ 702, 703, June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
 
  __Amendment of Section__ 
 
@@ -169,41 +169,41 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(A). [Pub. L. 114–23, § 702(1)][/us/pl/114/23/s702/1], inserted “, irrespective of whether the person is inside the United States” before semicolon at end.
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–23][/us/pl/114/23], § 702(1), inserted “, irrespective of whether the person is inside the United States” before semicolon at end.
 
-    Subsec. (b)(1)(B). [Pub. L. 114–23, § 702(2)][/us/pl/114/23/s702/2], struck out “of such person’s presence in the United States” after “circumstances” and substituted “may engage in such activities” for “may engage in such activities in the United States”.
+    Subsec. (b)(1)(B). [Pub. L. 114–23][/us/pl/114/23], § 702(2), struck out “of such person’s presence in the United States” after “circumstances” and substituted “may engage in such activities” for “may engage in such activities in the United States”.
 
-    Subsec. (b)(1)(E). [Pub. L. 114–23, § 703][/us/pl/114/23/s703], added subpar. (E) and struck out former subpar. (E) which read as follows: “engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or”.
+    Subsec. (b)(1)(E). [Pub. L. 114–23][/us/pl/114/23], § 703, added subpar. (E) and struck out former subpar. (E) which read as follows: “engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or”.
 
     2010—Subsecs. (a)(7) to (p). [Pub. L. 111–259][/us/pl/111/259] realigned margins.
 
-    2008—Subsec. (a)(7). [Pub. L. 110–261, § 110(a)(1)][/us/pl/110/261/s110/a/1], added par. (7).
+    2008—Subsec. (a)(7). [Pub. L. 110–261][/us/pl/110/261], § 110(a)(1), added par. (7).
 
-    Subsec. (b)(1)(D), (E). [Pub. L. 110–261, § 110(a)(2)][/us/pl/110/261/s110/a/2], added subpars. (D) and (E).
+    Subsec. (b)(1)(D), (E). [Pub. L. 110–261][/us/pl/110/261], § 110(a)(2), added subpars. (D) and (E).
 
-    Subsec. (e)(1)(B). [Pub. L. 110–261, § 110(a)(3)][/us/pl/110/261/s110/a/3], substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+    Subsec. (e)(1)(B). [Pub. L. 110–261][/us/pl/110/261], § 110(a)(3), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
 
-    Subsec. (p). [Pub. L. 110–261, § 110(a)(4)][/us/pl/110/261/s110/a/4], added subsec. (p).
+    Subsec. (p). [Pub. L. 110–261][/us/pl/110/261], § 110(a)(4), added subsec. (p).
 
     2006—Subsec. (g). [Pub. L. 109–177][/us/pl/109/177] substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under [section 507A of title 28][/us/usc/t28/s507A]” for “or the Deputy Attorney General”.
 
-    2004—Subsec. (b)(1)(C). [Pub. L. 108–458, § 6001][/us/pl/108/458/s6001], temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+    2004—Subsec. (b)(1)(C). [Pub. L. 108–458][/us/pl/108/458], § 6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
 
-    2001—Subsec. (f)(2). [Pub. L. 107–56, § 1003][/us/pl/107/56/s1003], as amended by [Pub. L. 107–108, § 314(c)(2)][/us/pl/107/108/s314/c/2], inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under [section 2511(2)(i) of title 18][/us/usc/t18/s2511/2/i]” before semicolon at end.
+    2001—Subsec. (f)(2). [Pub. L. 107–56][/us/pl/107/56], § 1003, as amended by [Pub. L. 107–108][/us/pl/107/108], § 314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under [section 2511(2)(i) of title 18][/us/usc/t18/s2511/2/i]” before semicolon at end.
 
-    Subsec. (h)(4). [Pub. L. 107–108, § 314(a)(1)][/us/pl/107/108/s314/a/1], substituted “72 hours” for “twenty-four hours”.
+    Subsec. (h)(4). [Pub. L. 107–108][/us/pl/107/108], § 314(a)(1), substituted “72 hours” for “twenty-four hours”.
 
     1999—Subsec. (b)(2)(D), (E). [Pub. L. 106–120][/us/pl/106/120] added subpar. (D) and redesignated former subpar. (D) as (E).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–261, title IV, § 402][/us/pl/110/261/s402], July 10, 2008, [122 Stat. 2473][/us/stat/122/2473], provided that: 
+[Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 402, July 10, 2008, [122 Stat. 2473][/us/stat/122/2473], provided that: 
 
 > “Except as provided in section 404 \[set out as a note under this section\], the amendments made by this Act \[see Short Title of 2008 Amendment note below\] shall take effect on the date of the enactment of this Act \[July 10, 2008\].”
 
  __Termination Date of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VI, § 6001(b)][/us/pl/108/458/s6001/b], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742], as amended by [Pub. L. 109–177, title I, § 103][/us/pl/109/177/s103], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 111–118, div. B, § 1004(b)][/us/pl/111/118/s1004/b], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(b)][/us/pl/111/141/s1/b], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(b)][/us/pl/112/3/s2/b], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(b)][/us/pl/112/14/s2/b], May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII, § 705(b)][/us/pl/114/23/s705/b], June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that:
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6001(b), Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742], as amended by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 103, Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1004(b), Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141][/us/pl/111/141], § 1(b), Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3][/us/pl/112/3], § 2(b), Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14][/us/pl/112/14], § 2(b), May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], § 705(b), June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -213,75 +213,75 @@
 
 >     With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which the provisions cease to have effect, such provisions shall continue in effect.”
 
-    \[[Pub. L. 114–23, § 705(b)][/us/pl/114/23/s705/b], which delayed the June 1, 2015, termination of the amendment made by [section 6001(a) of Pub. L. 108–458][/us/pl/108/458/s6001/a] by substituting “December 15, 2019” for “June 1, 2015” in [section 6001(b)(1) of Pub. L. 108–458][/us/pl/108/458/s6001/b/1], set out above, was given effect in this section to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015.\]
+    \[[Pub. L. 114–23][/us/pl/114/23], § 705(b), which delayed the June 1, 2015, termination of the amendment made by [section 6001(a) of Pub. L. 108–458][/us/pl/108/458/s6001/a] by substituting “December 15, 2019” for “June 1, 2015” in [section 6001(b)(1) of Pub. L. 108–458][/us/pl/108/458/s6001/b/1], set out above, was given effect in this section to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015.\]
 
  __Effective Date of 2001 Amendment__ 
 
-    [Pub. L. 107–108, title III, § 314(c)][/us/pl/107/108/s314/c], Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], provided in part that the amendment made by [section 314(c)(2) of Pub. L. 107–108][/us/pl/107/108/s314/c/2] is effective as of Oct. 26, 2001, and as if included in [Pub. L. 107–56][/us/pl/107/56] as originally enacted.
+    [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 314(c), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], provided in part that the amendment made by [section 314(c)(2) of Pub. L. 107–108][/us/pl/107/108/s314/c/2] is effective as of Oct. 26, 2001, and as if included in [Pub. L. 107–56][/us/pl/107/56] as originally enacted.
 
  __Effective Date; Exception__ 
 
-    [Pub. L. 95–511, title VII, § 701][/us/pl/95/511/s701], formerly title III, § 301, Oct. 25, 1978, [92 Stat. 1798][/us/stat/92/1798], as renumbered title IV, § 401, and amended by [Pub. L. 103–359, title VIII, § 807(a)(1)][/us/pl/103/359/s807/a/1], (2), Oct. 14, 1994, [108 Stat. 3443][/us/stat/108/3443]; renumbered title VI, § 601, and amended [Pub. L. 105–272, title VI][/us/pl/105/272], §§ 601(1), 603(a), Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404], 2412; renumbered title VII, § 701, [Pub. L. 108–458, title VI, § 6002(a)(1)][/us/pl/108/458/s6002/a/1], Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743], which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[[section 1803 of this title][/us/usc/t50/s1803]\], was repealed by [Pub. L. 110–261, title I, § 101(a)(1)][/us/pl/110/261/s101/a/1], July 10, 2008, [122 Stat. 2437][/us/stat/122/2437].
+    [Pub. L. 95–511, title VII][/us/pl/95/511/tVII], § 701, formerly title III, § 301, Oct. 25, 1978, [92 Stat. 1798][/us/stat/92/1798], as renumbered title IV, § 401, and amended by [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 807(a)(1), (2), Oct. 14, 1994, [108 Stat. 3443][/us/stat/108/3443]; renumbered title VI, § 601, and amended [Pub. L. 105–272, title VI][/us/pl/105/272/tVI], §§ 601(1), 603(a), Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404], 2412; renumbered title VII, § 701, [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6002(a)(1), Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743], which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[[section 1803 of this title][/us/usc/t50/s1803]\], was repealed by [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 101(a)(1), July 10, 2008, [122 Stat. 2437][/us/stat/122/2437].
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–23, § 1(a)][/us/pl/114/23/s1/a], June 2, 2015, [129 Stat. 268][/us/stat/129/268], provided that: 
+[Pub. L. 114–23][/us/pl/114/23], § 1(a), June 2, 2015, [129 Stat. 268][/us/stat/129/268], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015’ or the ‘USA FREEDOM Act of 2015’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–238, § 1][/us/pl/112/238/s1], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that: 
+[Pub. L. 112–238][/us/pl/112/238], § 1, Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that: 
 
 > “This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, [section 1881 of this title][/us/usc/t50/s1881], and [section 2511 of Title 18][/us/usc/t18/s2511], Crimes and Criminal Procedure\] may be cited as the ‘FISA Amendments Act Reauthorization Act of 2012’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–14, § 1][/us/pl/112/14/s1], May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that: 
+[Pub. L. 112–14][/us/pl/112/14], § 1, May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that: 
 
 > “This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and [section 1805 of this title][/us/usc/t50/s1805]\] may be cited as the ‘PATRIOT Sunsets Extension Act of 2011’.”
 
-[Pub. L. 112–3, § 1][/us/pl/112/3/s1], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5], provided that: 
+[Pub. L. 112–3][/us/pl/112/3], § 1, Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5], provided that: 
 
 > “This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and [section 1805 of this title][/us/usc/t50/s1805]\] may be cited as the ‘FISA Sunsets Extension Act of 2011’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–261, § 1(a)][/us/pl/110/261/s1/a], July 10, 2008, [122 Stat. 2436][/us/stat/122/2436], provided that: 
+[Pub. L. 110–261][/us/pl/110/261], § 1(a), July 10, 2008, [122 Stat. 2436][/us/stat/122/2436], provided that: 
 
 > “This Act \[enacting section 1812 and subchapters VI and VII of this chapter, amending this section, sections 1803 to 1805, 1806, 1808, 1809, 1821 to 1825, 1843, and 1871 of this title, and [section 2511 of Title 18][/us/usc/t18/s2511], Crimes and Criminal Procedure, repealing sections 1805a to 1805c of this title and subchapter VI of this chapter, enacting provisions set out as notes under this section, [section 1881 of this title][/us/usc/t50/s1881], and [section 2511 of Title 18][/us/usc/t18/s2511], amending provisions set out as a note under [section 1803 of this title][/us/usc/t50/s1803], and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008’ or the ‘FISA Amendments Act of 2008’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–55, § 1][/us/pl/110/55/s1], Aug. 5, 2007, [121 Stat. 552][/us/stat/121/552], provided that: 
+[Pub. L. 110–55][/us/pl/110/55], § 1, Aug. 5, 2007, [121 Stat. 552][/us/stat/121/552], provided that: 
 
 > “This Act \[enacting sections 1805a to 1805c of this title, amending [section 1803 of this title][/us/usc/t50/s1803], and enacting provisions set out as a note under [section 1803 of this title][/us/usc/t50/s1803]\] may be cited as the ‘Protect America Act of 2007’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–567, title VI, § 601][/us/pl/106/567/s601], Dec. 27, 2000, [114 Stat. 2850][/us/stat/114/2850], provided that: 
+[Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 601, Dec. 27, 2000, [114 Stat. 2850][/us/stat/114/2850], provided that: 
 
 > “This title \[enacting section 9A of the Classified Information Procedures Act, set out in the Appendix to Title 18, Crimes and Criminal Procedure, amending sections 402a, 1804, 1805, 1808, 1823, and 1824 of this title, and enacting provisions set out as notes under this section and [section 1806 of this title][/us/usc/t50/s1806]\] may be cited as the ‘Counterintelligence Reform Act of 2000’.”
 
  __Short Title__ 
 
-[Pub. L. 95–511, § 1][/us/pl/95/511/s1], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], provided in part: 
+[Pub. L. 95–511][/us/pl/95/511], § 1, Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], provided in part: 
 
 > “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
 
  __Severability__ 
 
-[Pub. L. 110–261, title IV, § 401][/us/pl/110/261/s401], July 10, 2008, [122 Stat. 2473][/us/stat/122/2473], provided that: 
+[Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 401, July 10, 2008, [122 Stat. 2473][/us/stat/122/2473], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby.”
 
-[Pub. L. 106–567, title VI, § 608][/us/pl/106/567/s608], Dec. 27, 2000, [114 Stat. 2856][/us/stat/114/2856], provided that: 
+[Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 608, Dec. 27, 2000, [114 Stat. 2856][/us/stat/114/2856], provided that: 
 
 > “If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby.”
 
  __Transition Procedures__ 
 
-[Pub. L. 110–261, title IV, § 404][/us/pl/110/261/s404], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(b)][/us/pl/112/238/s2/b], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that:
+[Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 404, July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(b), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that:
 
 >     “(a)  __Transition Procedures for Protect America Act of__  __2007 Provisions.—__ 
 
@@ -422,110 +422,110 @@
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
 [/us/usc/t18/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs178
-[/us/pl/95/511/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs101
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
-[/us/pl/106/120/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs601
+[/us/pl/106/120/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVI
 [/us/stat/113/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1619
-[/us/pl/107/56/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1003
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F392
-[/us/pl/107/108/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F1
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
-[/us/pl/108/458/s6001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3742
-[/us/pl/109/177/s506/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F5
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F248
-[/us/pl/110/261/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2465
-[/us/pl/111/259/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs801%2F1
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2746
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/114/23/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs702%2F1
-[/us/pl/114/23/s702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs702%2F2
-[/us/pl/114/23/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs703
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/110/261/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa%2F1
-[/us/pl/110/261/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa%2F2
-[/us/pl/110/261/s110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa%2F3
-[/us/pl/110/261/s110/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa%2F4
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t28/s507A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs507A
-[/us/pl/108/458/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001
-[/us/pl/107/56/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1003
-[/us/pl/107/108/s314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/usc/t18/s2511/2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511%2F2%2Fi
-[/us/pl/107/108/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F1
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
-[/us/pl/110/261/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs402
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2473
-[/us/pl/108/458/s6001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001%2Fb
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3742
-[/us/pl/109/177/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs103
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
-[/us/pl/111/118/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1004%2Fb
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3470
-[/us/pl/111/141/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141%2Fs1%2Fb
+[/us/pl/111/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141
 [/us/stat/124/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F37
-[/us/pl/112/3/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3%2Fs2%2Fb
+[/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
 [/us/stat/125/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F5
-[/us/pl/112/14/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14%2Fs2%2Fb
+[/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
-[/us/pl/114/23/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fb
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
-[/us/pl/114/23/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fb
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/108/458/s6001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001%2Fa
 [/us/pl/108/458/s6001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001%2Fb%2F1
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/pl/107/108/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
 [/us/pl/107/108/s314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc%2F2
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/95/511/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs701
+[/us/pl/95/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVII
 [/us/stat/92/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1798
-[/us/pl/103/359/s807/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs807%2Fa%2F1
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3443
-[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/105/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVI
 [/us/stat/112/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2404
-[/us/pl/108/458/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6002%2Fa%2F1
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3743
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
-[/us/pl/110/261/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fa%2F1
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2437
-[/us/pl/114/23/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs1%2Fa
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/stat/129/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F268
-[/us/pl/112/238/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs1
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/usc/t50/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881
 [/us/usc/t18/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511
-[/us/pl/112/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14%2Fs1
+[/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
-[/us/pl/112/3/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3%2Fs1
+[/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
 [/us/stat/125/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F5
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
-[/us/pl/110/261/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs1%2Fa
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/stat/122/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2436
 [/us/usc/t18/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511
 [/us/usc/t50/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881
 [/us/usc/t18/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
-[/us/pl/110/55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs1
+[/us/pl/110/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55
 [/us/stat/121/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F552
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
-[/us/pl/106/567/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs601
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2850
 [/us/usc/t50/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806
-[/us/pl/95/511/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs1
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
-[/us/pl/110/261/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs401
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2473
-[/us/pl/106/567/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs608
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2856
-[/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fb
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/usc/t50/s1805b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805b
 [/us/pl/110/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55

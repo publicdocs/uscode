@@ -19,11 +19,11 @@
 
     The President may retain the unit organizations and the equipment thereof, exclusive of the individual members thereof, in the active Federal service for a total period of five consecutive years, and upon being relieved by the appropriate Secretary from active Federal service, National Guard, or Air National Guard units, shall, insofar as practicable, be returned to their National Guard or Air National Guard status in their respective States, Territories, the District of Columbia, and Puerto Rico, with pertinent records, colors, histories, trophies, and other historical impedimenta.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 21, as added [June 30, 1950, ch. 445, § 2][/us/act/1950-06-30/ch445/s2], [64 Stat. 318][/us/stat/64/318]; amended [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(x), [65 Stat. 87][/us/stat/65/87]; [July 7, 1952, ch. 584, § 1][/us/act/1952-07-07/ch584/s1], [66 Stat. 440][/us/stat/66/440].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 21, as added [June 30, 1950, ch. 445][/us/act/1950-06-30/ch445], § 2, [64 Stat. 318][/us/stat/64/318]; amended [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(x), [65 Stat. 87][/us/stat/65/87]; [July 7, 1952, ch. 584][/us/act/1952-07-07/ch584], § 1, [66 Stat. 440][/us/stat/66/440].)
 
  __References in Text__ 
 
-    Section 2 of the Selective Service Act of 1948, referred to in text, is section 2 of [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, [62 Stat. 605][/us/stat/62/605], now known as the Military Selective Service Act, which was classified to former section 452 of the former Appendix to this title prior to repeal by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641], and omission in the editorial reclassification of title I of [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], as this chapter.
+    Section 2 of the Selective Service Act of 1948, referred to in text, is section 2 of [act June 24, 1948, ch. 625, title I][/us/act/1948-06-24/ch625/tI], [62 Stat. 605][/us/stat/62/605], now known as the Military Selective Service Act, which was classified to former section 452 of the former Appendix to this title prior to repeal by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641], and omission in the editorial reclassification of title I of [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], as this chapter.
 
  __Codification__ 
 
@@ -51,15 +51,15 @@
 ----------
 
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
-[/us/act/1950-06-30/ch445/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-30%2Fch445%2Fs2
+[/us/act/1950-06-30/ch445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-30%2Fch445
 [/us/stat/64/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F318
 [/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
 [/us/stat/65/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F87
-[/us/act/1952-07-07/ch584/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-07%2Fch584%2Fs1
+[/us/act/1952-07-07/ch584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-07%2Fch584
 [/us/stat/66/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F440
-[/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
+[/us/act/1948-06-24/ch625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625%2FtI
 [/us/stat/62/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F605
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/64/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F318

@@ -17,7 +17,7 @@
 
     Nothing in section 4041 or 4042 of this title shall be construed to preclude or limit any remedy otherwise available under other law, including consequential and punitive damages.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VIII, § 803, as added [Pub. L. 111–275, title III, § 303(a)][/us/pl/111/275/s303/a], Oct. 13, 2010, [124 Stat. 2877][/us/stat/124/2877].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VIII, § 803, as added [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(a), Oct. 13, 2010, [124 Stat. 2877][/us/stat/124/2877].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/111/275/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fa
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2877
 
 

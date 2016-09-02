@@ -35,7 +35,7 @@
 
         If the President determines that it is essential to limit access to a covert action finding under [section 3093(c)(2) of this title][/us/usc/t50/s3093/c/2], the President may limit access to information concerning such finding that is subject to notification under this section to those members of Congress who have been granted access to the relevant finding under [section 3093(c)(2) of this title][/us/usc/t50/s3093/c/2].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 510, as added [Pub. L. 113–126, title III, § 321(a)][/us/pl/113/126/s321/a], July 7, 2014, [128 Stat. 1399][/us/stat/128/1399].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 510, as added [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 321(a), July 7, 2014, [128 Stat. 1399][/us/stat/128/1399].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t50/s3093/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093%2Fc%2F2
 [/us/usc/t50/s3093/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093%2Fc%2F2
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/126/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs321%2Fa
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1399
 
 

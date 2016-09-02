@@ -31,7 +31,7 @@
 
         The sums appropriated pursuant to subsection (a) may not exceed the amounts authorized to be appropriated by any national defense authorization Act for fiscal year 2008 (whether enacted before or after August 3, 2007) to Department of Energy National Nuclear Security Administration Defense Nuclear Nonproliferation for such purposes.
 
-([Pub. L. 110–53, title XVIII, § 1833][/us/pl/110/53/s1833], Aug. 3, 2007, [121 Stat. 497][/us/stat/121/497].)
+([Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1833, Aug. 3, 2007, [121 Stat. 497][/us/stat/121/497].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1833
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F497
 
 

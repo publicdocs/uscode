@@ -33,7 +33,7 @@
 
         Upon conviction, any property, funds, securities, papers, or other articles or documents, or any vessel, together with tackle, apparel, furniture, and equipment, concerned in any violation of subsection (a) may be forfeited to the United States.
 
-([Oct. 6, 1917, ch. 106, § 16][/us/act/1917-10-06/ch106/s16], [40 Stat. 425][/us/stat/40/425]; [Pub. L. 95–223, title I, § 103(a)][/us/pl/95/223/s103/a], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626]; [Pub. L. 102–393, title VI, § 628][/us/pl/102/393/s628], Oct. 6, 1992, [106 Stat. 1772][/us/stat/106/1772]; [Pub. L. 102–484, div. A, title XVII, § 1710(c)][/us/pl/102/484/s1710/c], Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580]; [Pub. L. 104–114, title I, § 102(d)][/us/pl/104/114/s102/d], Mar. 12, 1996, [110 Stat. 792][/us/stat/110/792]; [Pub. L. 111–195, title I, § 107(a)(4)][/us/pl/111/195/s107/a/4], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 16, [40 Stat. 425][/us/stat/40/425]; [Pub. L. 95–223, title I][/us/pl/95/223/tI], § 103(a), Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626]; [Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 628, Oct. 6, 1992, [106 Stat. 1772][/us/stat/106/1772]; [Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1710(c), Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580]; [Pub. L. 104–114, title I][/us/pl/104/114/tI], § 102(d), Mar. 12, 1996, [110 Stat. 792][/us/stat/110/792]; [Pub. L. 111–195, title I][/us/pl/111/195/tI], § 107(a)(4), July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
 
  __References in Text__ 
 
@@ -47,11 +47,11 @@
 
     2010—Subsec. (a). [Pub. L. 111–195][/us/pl/111/195] substituted “if a natural person, be imprisoned for not more than 20 years, or both.” for “if a natural person, be fined not more than $100,000, or imprisoned for not more than ten years or both; and the officer, director, or agent of any corporation who knowingly participates in such violation shall, upon conviction, be fined not more than $100,000 or imprisoned for not more than ten years or both.”
 
-    1996—[Pub. L. 104–114, § 102(d)(3)(A)][/us/pl/104/114/s102/d/3/A], made technical amendment inserting section designation in original.
+    1996—[Pub. L. 104–114][/us/pl/104/114], § 102(d)(3)(A), made technical amendment inserting section designation in original.
 
-    Subsec. (a). [Pub. L. 104–114, § 102(d)(3)(B)][/us/pl/104/114/s102/d/3/B], substituted “participates” for “participants”.
+    Subsec. (a). [Pub. L. 104–114][/us/pl/104/114], § 102(d)(3)(B), substituted “participates” for “participants”.
 
-    Subsec. (b). [Pub. L. 104–114, § 102(d)(1)][/us/pl/104/114/s102/d/1], amended subsec. (b), as added by [Pub. L. 102–484][/us/pl/102/484], generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 104–114][/us/pl/104/114], § 102(d)(1), amended subsec. (b), as added by [Pub. L. 102–484][/us/pl/102/484], generally. Prior to amendment, subsec. (b) read as follows:
 
     “(b)(1) The Secretary of the Treasury may impose a civil penalty of not more than $50,000 on any person who violates any license, order, rule, or regulation issued under this chapter.
 
@@ -67,7 +67,7 @@
 
     “(5) Judicial review of any penalty imposed under this subsection may be had to the extent provided in [section 702 of title 5][/us/usc/t5/s702].”
 
-    [Pub. L. 104–114, § 102(d)(2)][/us/pl/104/114/s102/d/2], struck out subsec. (b), as added by [Pub. L. 102–393][/us/pl/102/393], which read as follows:
+    [Pub. L. 104–114][/us/pl/104/114], § 102(d)(2), struck out subsec. (b), as added by [Pub. L. 102–393][/us/pl/102/393], which read as follows:
 
     “(b)(1) A civil penalty of not to exceed $50,000 may be imposed by the Secretary of the Treasury on any person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
 
@@ -91,28 +91,28 @@
 ----------
 
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
-[/us/act/1917-10-06/ch106/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs16
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F425
-[/us/pl/95/223/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs103%2Fa
+[/us/pl/95/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtI
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
-[/us/pl/102/393/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs628
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1772
-[/us/pl/102/484/s1710/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1710%2Fc
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2580
-[/us/pl/104/114/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fd
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F792
-[/us/pl/111/195/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs107%2Fa%2F4
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1337
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
-[/us/pl/104/114/s102/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fd%2F3%2FA
-[/us/pl/104/114/s102/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fd%2F3%2FB
-[/us/pl/104/114/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fd%2F1
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
-[/us/pl/104/114/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fd%2F2
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393

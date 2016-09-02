@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 87–846, § 101][/us/pl/87/846/s101], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107], designated sections 2 to 17 of the War Claims Act of 1948 ([act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826]), as “title I” of the act without supplying a name for such title, which for purposes of codification has been set out as this subchapter.
+    [Pub. L. 87–846][/us/pl/87/846], § 101, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107], designated sections 2 to 17 of the War Claims Act of 1948 ([act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826]), as “title I” of the act without supplying a name for such title, which for purposes of codification has been set out as this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/846/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs101
+[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 

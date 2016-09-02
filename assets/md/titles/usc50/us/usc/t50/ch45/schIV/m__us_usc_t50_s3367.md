@@ -17,7 +17,7 @@
 
     The Director of National Intelligence shall ensure that the intelligence community makes efficient and effective use of open-source information and analysis.
 
-([Pub. L. 108–458, title I, § 1052(b)][/us/pl/108/458/s1052/b], Dec. 17, 2004, [118 Stat. 3683][/us/stat/118/3683].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1052(b), Dec. 17, 2004, [118 Stat. 3683][/us/stat/118/3683].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1052%2Fb
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3683
 [/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 

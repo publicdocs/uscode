@@ -25,7 +25,7 @@
 
     (4) increased spending and investment by the United States private sector on nonproliferation efforts in the independent states of the former Soviet Union make advisable the establishment of a coordinating body to ensure that United States public and private efforts are not in conflict, and to ensure that public spending on efforts by the independent states of the former Soviet Union is maximized to ensure efficiency and further United States national security interests.
 
-([Pub. L. 107–228, div. B, title XIII, § 1332][/us/pl/107/228/s1332], Sept. 30, 2002, [116 Stat. 1448][/us/stat/116/1448].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1332, Sept. 30, 2002, [116 Stat. 1448][/us/stat/116/1448].)
 
  __Short Title__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/107/228/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1332
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1448
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/107/228/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1331

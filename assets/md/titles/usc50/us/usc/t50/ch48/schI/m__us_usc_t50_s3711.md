@@ -89,7 +89,7 @@
 
             Paragraph (1) shall not apply with respect to a proposed obligation of Cooperative Threat Reduction funds that is covered by a notification previously submitted by the Secretary to the congressional defense committees that includes the matters described in subparagraphs (A) through (C) of paragraph (2).
 
-([Pub. L. 113–291, div. A, title XIII, § 1321][/us/pl/113/291/s1321], Dec. 19, 2014, [128 Stat. 3595][/us/stat/128/3595].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1321, Dec. 19, 2014, [128 Stat. 3595][/us/stat/128/3595].)
 
 ----------
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t50/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3751
-[/us/pl/113/291/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1321
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3595
 
 

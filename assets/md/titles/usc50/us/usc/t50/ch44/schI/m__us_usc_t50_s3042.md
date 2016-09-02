@@ -39,13 +39,13 @@
 
         In performing his functions, the Director of the Office of Defense Mobilization shall utilize to the maximum extent the facilities and resources of the departments and agencies of the Government.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 107, formerly § 103, [61 Stat. 499][/us/stat/61/499]; [Sept. 3, 1954, ch. 1263, § 50][/us/act/1954-09-03/ch1263/s50], [68 Stat. 1244][/us/stat/68/1244]; renumbered § 107, [Pub. L. 102–496, title VII, § 705(a)(2)][/us/pl/102/496/s705/a/2], Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 107, formerly § 103, [61 Stat. 499][/us/stat/61/499]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 50, [68 Stat. 1244][/us/stat/68/1244]; renumbered § 107, [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 705(a)(2), Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190].)
 
  __Codification__ 
 
     Section was formerly classified to [section 404 of this title][/us/usc/t50/s404] prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
     For subsequent history relating to the Office of Defense Mobilization, see Transfer of Functions notes below.
 
@@ -61,7 +61,7 @@
 
  __Transfer of Functions__ 
 
-    Office of Defense Mobilization and Federal Civil Defense Administration consolidated to form Office of Emergency Preparedness, an agency within Executive Office of President, by section 2(a), (e) of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799], as amended by [Pub. L. 85–763][/us/pl/85/763], Aug. 26, 1958, [72 Stat. 861][/us/stat/72/861]; [Pub. L. 87–296, § 1][/us/pl/87/296/s1], Sept. 22, 1961, [75 Stat. 630][/us/stat/75/630]; [Pub. L. 90–608][/us/pl/90/608], ch. IV, § 402, Oct. 21, 1968, [82 Stat. 1194][/us/stat/82/1194], set out in the Appendix to Title 5, Government Organization and Employees, and functions vested by law in Office of Defense Mobilization and Director thereof transferred to President, with power to delegate, by section 1 of Reorg. Plan No. 1 of 1958.
+    Office of Defense Mobilization and Federal Civil Defense Administration consolidated to form Office of Emergency Preparedness, an agency within Executive Office of President, by section 2(a), (e) of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799], as amended by [Pub. L. 85–763][/us/pl/85/763], Aug. 26, 1958, [72 Stat. 861][/us/stat/72/861]; [Pub. L. 87–296][/us/pl/87/296], § 1, Sept. 22, 1961, [75 Stat. 630][/us/stat/75/630]; [Pub. L. 90–608][/us/pl/90/608], ch. IV, § 402, Oct. 21, 1968, [82 Stat. 1194][/us/stat/82/1194], set out in the Appendix to Title 5, Government Organization and Employees, and functions vested by law in Office of Defense Mobilization and Director thereof transferred to President, with power to delegate, by section 1 of Reorg. Plan No. 1 of 1958.
 
     Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law, after July 1, 1958, in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President of United States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, [87 Stat. 1089][/us/stat/87/1089], set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -98,17 +98,17 @@
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F499
-[/us/act/1954-09-03/ch1263/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs50
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1244
-[/us/pl/102/496/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs705%2Fa%2F2
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3190
 [/us/usc/t50/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
 [/us/pl/85/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F763
 [/us/stat/72/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F861
-[/us/pl/87/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F296%2Fs1
+[/us/pl/87/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F296
 [/us/stat/75/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F630
 [/us/pl/90/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608
 [/us/stat/82/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1194

@@ -17,7 +17,7 @@
 
     This chapter shall be effective only during a national emergency declared by Congress or the President and for six months after the termination thereof or until such earlier time as Congress, by concurrent resolution, may designate.
 
-([Pub. L. 85–804, § 4][/us/pl/85/804/s4], formerly § 5, Aug. 28, 1958, [72 Stat. 973][/us/stat/72/973]; renumbered § 4, [Pub. L. 105–362, title IX, § 901(r)(1)(B)][/us/pl/105/362/s901/r/1/B], Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
+([Pub. L. 85–804][/us/pl/85/804], § 4, formerly § 5, Aug. 28, 1958, [72 Stat. 973][/us/stat/72/973]; renumbered § 4, [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(r)(1)(B), Nov. 10, 1998, [112 Stat. 3291][/us/stat/112/3291].)
 
  __Prior Provisions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/804/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804%2Fs4
+[/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
 [/us/stat/72/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F973
-[/us/pl/105/362/s901/r/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fr%2F1%2FB
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3291
 [/us/pl/85/804/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804%2Fs4
 [/us/usc/t50/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1434

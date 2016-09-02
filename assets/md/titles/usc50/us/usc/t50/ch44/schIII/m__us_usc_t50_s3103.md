@@ -93,7 +93,7 @@
 
             The terms “independent cost estimate” and “major system” have the meaning given those terms in [section 3097(e) of this title][/us/usc/t50/s3097/e].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506G, as added [Pub. L. 111–259, title III, § 325(a)][/us/pl/111/259/s325/a], Oct. 7, 2010, [124 Stat. 2681][/us/stat/124/2681].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506G, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 325(a), Oct. 7, 2010, [124 Stat. 2681][/us/stat/124/2681].)
 
  __Codification__ 
 
@@ -101,7 +101,7 @@
 
  __Applicability Date__ 
 
-[Pub. L. 111–259, title III, § 325(b)][/us/pl/111/259/s325/b], Oct. 7, 2010, [124 Stat. 2683][/us/stat/124/2683], provided that: 
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 325(b), Oct. 7, 2010, [124 Stat. 2683][/us/stat/124/2683], provided that: 
 
 > “The first Future Year Intelligence Plan and Long-term Budget Projection required to be submitted under subsection (a) and (b) of section 506G of the National Security Act of 1947 \[[50 U.S.C. 3103(a)][/us/usc/t50/s3103/a], (b)\], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code.”
 
@@ -109,25 +109,25 @@
 
  __Future-Years Intelligence Program__ 
 
-[Pub. L. 114–113, div. C, title VIII, § 8091][/us/pl/114/113/s8091], Dec. 18, 2015, [129 Stat. 2373][/us/stat/129/2373], provided that: 
+[Pub. L. 114–113, div. C, title VIII][/us/pl/114/113/dC/tVIII], § 8091, Dec. 18, 2015, [129 Stat. 2373][/us/stat/129/2373], provided that: 
 
 > “The Director of National Intelligence shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 113–235, div. C, title VIII, § 8095][/us/pl/113/235/s8095], Dec. 16, 2014, [128 Stat. 2276][/us/stat/128/2276].
+    [Pub. L. 113–235, div. C, title VIII][/us/pl/113/235/dC/tVIII], § 8095, Dec. 16, 2014, [128 Stat. 2276][/us/stat/128/2276].
 
-    [Pub. L. 113–76, div. C, title VIII, § 8090][/us/pl/113/76/s8090], Jan. 17, 2014, [128 Stat. 126][/us/stat/128/126].
+    [Pub. L. 113–76, div. C, title VIII][/us/pl/113/76/dC/tVIII], § 8090, Jan. 17, 2014, [128 Stat. 126][/us/stat/128/126].
 
-    [Pub. L. 113–6, div. C, title VIII, § 8091][/us/pl/113/6/s8091], Mar. 26, 2013, [127 Stat. 318][/us/stat/127/318].
+    [Pub. L. 113–6, div. C, title VIII][/us/pl/113/6/dC/tVIII], § 8091, Mar. 26, 2013, [127 Stat. 318][/us/stat/127/318].
 
-    [Pub. L. 112–74, div. A, title VIII, § 8094][/us/pl/112/74/s8094], Dec. 23, 2011, [125 Stat. 828][/us/stat/125/828].
+    [Pub. L. 112–74, div. A, title VIII][/us/pl/112/74/dA/tVIII], § 8094, Dec. 23, 2011, [125 Stat. 828][/us/stat/125/828].
 
-    [Pub. L. 112–10, div. A, title VIII, § 8094][/us/pl/112/10/s8094], Apr. 15, 2011, [125 Stat. 77][/us/stat/125/77].
+    [Pub. L. 112–10, div. A, title VIII][/us/pl/112/10/dA/tVIII], § 8094, Apr. 15, 2011, [125 Stat. 77][/us/stat/125/77].
 
-    [Pub. L. 111–118, div. A, title VIII, § 8104][/us/pl/111/118/s8104], Dec. 19, 2009, [123 Stat. 3451][/us/stat/123/3451], repealed by [Pub. L. 111–259, title III, § 325(c)(2)][/us/pl/111/259/s325/c/2], Oct. 7, 2010, [124 Stat. 2683][/us/stat/124/2683].
+    [Pub. L. 111–118, div. A, title VIII][/us/pl/111/118/dA/tVIII], § 8104, Dec. 19, 2009, [123 Stat. 3451][/us/stat/123/3451], repealed by [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 325(c)(2), Oct. 7, 2010, [124 Stat. 2683][/us/stat/124/2683].
 
-    [Pub. L. 110–329, div. C, title VIII, § 8112][/us/pl/110/329/s8112], Sept. 30, 2008, [122 Stat. 3645][/us/stat/122/3645].
+    [Pub. L. 110–329, div. C, title VIII][/us/pl/110/329/dC/tVIII], § 8112, Sept. 30, 2008, [122 Stat. 3645][/us/stat/122/3645].
 
 ----------
 
@@ -141,34 +141,34 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t50/s3097/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3097%2Fe
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs325%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2681
 [/us/usc/t50/s415a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%939
-[/us/pl/111/259/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs325%2Fb
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2683
 [/us/usc/t50/s3103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3103%2Fa
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/111/259/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs325%2Fb
 [/us/pl/111/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/114/113/s8091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8091
+[/us/pl/114/113/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdC%2FtVIII
 [/us/stat/129/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2373
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/113/235/s8095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8095
+[/us/pl/113/235/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdC%2FtVIII
 [/us/stat/128/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2276
-[/us/pl/113/76/s8090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8090
+[/us/pl/113/76/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdC%2FtVIII
 [/us/stat/128/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F126
-[/us/pl/113/6/s8091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8091
+[/us/pl/113/6/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdC%2FtVIII
 [/us/stat/127/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F318
-[/us/pl/112/74/s8094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8094
+[/us/pl/112/74/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdA%2FtVIII
 [/us/stat/125/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F828
-[/us/pl/112/10/s8094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8094
+[/us/pl/112/10/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdA%2FtVIII
 [/us/stat/125/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F77
-[/us/pl/111/118/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs8104
+[/us/pl/111/118/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdA%2FtVIII
 [/us/stat/123/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3451
-[/us/pl/111/259/s325/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs325%2Fc%2F2
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2683
-[/us/pl/110/329/s8112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8112
+[/us/pl/110/329/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdC%2FtVIII
 [/us/stat/122/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3645
 
 

@@ -27,13 +27,13 @@
 
         The Secretary shall submit the plan required by subsection (a) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than March 31, 2014.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4403][/us/pl/107/314/s4403], formerly [Pub. L. 106–65, div. C, title XXXI, § 3172][/us/pl/106/65/s3172], Oct. 5, 1999, [113 Stat. 948][/us/stat/113/948]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4403][/us/pl/107/314/s4403], by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(4)][/us/pl/108/136/s3141/g/4], Nov. 24, 2003, [117 Stat. 1764][/us/stat/117/1764]; [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(4)][/us/pl/113/66/s3146/e/4], Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4403, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3172, Oct. 5, 1999, [113 Stat. 948][/us/stat/113/948]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4403, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(4), Nov. 24, 2003, [117 Stat. 1764][/us/stat/117/1764]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(4), Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–66, § 3146(e)(4)(A)][/us/pl/113/66/s3146/e/4/A], substituted “the Office of Nuclear Energy, and the Administration” for “the Office of Fissile Materials Disposition, the Office of Nuclear Energy, and the Office of Defense Programs” and “storage,” for “storage”.
+    2013—Subsec. (a)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(4)(A), substituted “the Office of Nuclear Energy, and the Administration” for “the Office of Fissile Materials Disposition, the Office of Nuclear Energy, and the Office of Defense Programs” and “storage,” for “storage”.
 
-    Subsec. (b). [Pub. L. 113–66, § 3146(e)(4)(B)][/us/pl/113/66/s3146/e/4/B], substituted “March 31, 2014” for “March 31, 2000”.
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(4)(B), substituted “March 31, 2014” for “March 31, 2000”.
 
 ----------
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4403
-[/us/pl/106/65/s3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3172
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F948
-[/us/pl/107/314/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4403
-[/us/pl/108/136/s3141/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F4
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1764
-[/us/pl/113/66/s3146/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F4
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1076
-[/us/pl/113/66/s3146/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F4%2FA
-[/us/pl/113/66/s3146/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F4%2FB
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

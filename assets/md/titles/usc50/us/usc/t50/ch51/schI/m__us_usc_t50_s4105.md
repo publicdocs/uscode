@@ -153,7 +153,7 @@
 
         Where any person entitled to payment under this section is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of [section 4104 of this title][/us/usc/t50/s4104].
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 6, [62 Stat. 1244][/us/stat/62/1244]; [Sept. 30, 1950, ch. 1116][/us/act/1950-09-30/ch1116], [64 Stat. 1090][/us/stat/64/1090]; [Apr. 9, 1952, ch. 167, § 1][/us/act/1952-04-09/ch167/s1], [66 Stat. 47][/us/stat/66/47]; [Apr. 9, 1952, ch. 168, § 2][/us/act/1952-04-09/ch168/s2], [66 Stat. 49][/us/stat/66/49]; [Aug. 21, 1954, ch. 784, § 2][/us/act/1954-08-21/ch784/s2], [68 Stat. 761][/us/stat/68/761]; [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 102(a)(1), [68 Stat. 1034][/us/stat/68/1034]; [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107]; [Pub. L. 91–289][/us/pl/91/289], §§ 1, 2, June 24, 1970, [84 Stat. 323][/us/stat/84/323].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 6, [62 Stat. 1244][/us/stat/62/1244]; [Sept. 30, 1950, ch. 1116][/us/act/1950-09-30/ch1116], [64 Stat. 1090][/us/stat/64/1090]; [Apr. 9, 1952, ch. 167][/us/act/1952-04-09/ch167], § 1, [66 Stat. 47][/us/stat/66/47]; [Apr. 9, 1952, ch. 168][/us/act/1952-04-09/ch168], § 2, [66 Stat. 49][/us/stat/66/49]; [Aug. 21, 1954, ch. 784][/us/act/1954-08-21/ch784], § 2, [68 Stat. 761][/us/stat/68/761]; [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 102(a)(1), [68 Stat. 1034][/us/stat/68/1034]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107]; [Pub. L. 91–289][/us/pl/91/289], §§ 1, 2, June 24, 1970, [84 Stat. 323][/us/stat/84/323].)
 
  __Codification__ 
 
@@ -161,11 +161,11 @@
 
  __Amendments__ 
 
-    1970—Subsec. (e)(1). [Pub. L. 91–289, § 2(1)][/us/pl/91/289/s2/1], defined “prisoner of war” to include any person (military or civilian) assigned to duty in the U.S.S. Pueblo who was captured by the military forces of North Korea on January 23, 1968, and thereafter held prisoner by Government of North Korea for any period of time ending on or before December 23, 1968, and substituted “except any person” for “except any such member”.
+    1970—Subsec. (e)(1). [Pub. L. 91–289][/us/pl/91/289], § 2(1), defined “prisoner of war” to include any person (military or civilian) assigned to duty in the U.S.S. Pueblo who was captured by the military forces of North Korea on January 23, 1968, and thereafter held prisoner by Government of North Korea for any period of time ending on or before December 23, 1968, and substituted “except any person” for “except any such member”.
 
-    Subsec. (e)(5)(D). [Pub. L. 91–289, § 2(2)][/us/pl/91/289/s2/2], added subpar. (D).
+    Subsec. (e)(5)(D). [Pub. L. 91–289][/us/pl/91/289], § 2(2), added subpar. (D).
 
-    Subsecs. (f), (g). [Pub. L. 91–289, § 1][/us/pl/91/289/s1], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 91–289][/us/pl/91/289], § 1, added subsec. (f) and redesignated former subsec. (f) as (g).
 
     1962—Subsecs. (b), (d)(3). [Pub. L. 87–846][/us/pl/87/846] made technical amendment to reference in original act which appears in text as reference to [section 4110 of this title][/us/usc/t50/s4110].
 
@@ -191,7 +191,7 @@
 
  __Compensation for Persons Awarded Prisoner of War Medal Who Did Not Previously Receive Compensation as Prisoner of War__ 
 
-[Pub. L. 104–201, div. A, title VI, § 656][/us/pl/104/201/s656], Sept. 23, 1996, [110 Stat. 2584][/us/stat/110/2584], provided that:
+[Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 656, Sept. 23, 1996, [110 Stat. 2584][/us/stat/110/2584], provided that:
 
 >     “(a)  __Authority To Make Payments__  __.—__ 
 
@@ -227,21 +227,21 @@
 [/us/stat/62/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1244
 [/us/act/1950-09-30/ch1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-30%2Fch1116
 [/us/stat/64/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1090
-[/us/act/1952-04-09/ch167/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch167%2Fs1
+[/us/act/1952-04-09/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch167
 [/us/stat/66/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F47
-[/us/act/1952-04-09/ch168/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch168%2Fs2
+[/us/act/1952-04-09/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch168
 [/us/stat/66/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F49
-[/us/act/1954-08-21/ch784/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-21%2Fch784%2Fs2
+[/us/act/1954-08-21/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-21%2Fch784
 [/us/stat/68/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F761
 [/us/act/1954-08-31/ch1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1162
 [/us/stat/68/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1034
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
 [/us/stat/84/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F323
-[/us/pl/91/289/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289%2Fs2%2F1
-[/us/pl/91/289/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289%2Fs2%2F2
-[/us/pl/91/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289%2Fs1
+[/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
+[/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
+[/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/usc/t50/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4110
 [/us/act/1952-04-09/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch168
@@ -251,7 +251,7 @@
 [/us/act/1952-04-09/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch168
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
-[/us/pl/104/201/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs656
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2584
 [/us/usc/t50/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4105
 [/us/usc/t10/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1128

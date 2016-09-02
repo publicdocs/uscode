@@ -31,7 +31,7 @@
 
         The Director of National Intelligence shall establish, for all elements of the intelligence community, programs and procedures by which sensitive classified information relating to human intelligence is safeguarded against unauthorized disclosure by employees of those elements.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1102, as added [Pub. L. 108–177, title III, § 341(a)(1)][/us/pl/108/177/s341/a/1], Dec. 13, 2003, [117 Stat. 2615][/us/stat/117/2615]; amended [Pub. L. 108–458, title I, § 1071(a)(1)(NN)][/us/pl/108/458/s1071/a/1/NN]–(QQ), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690; [Pub. L. 111–259, title III, § 347(e)][/us/pl/111/259/s347/e], title IV, § 409, Oct. 7, 2010, [124 Stat. 2699][/us/stat/124/2699], 2724.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1102, as added [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 341(a)(1), Dec. 13, 2003, [117 Stat. 2615][/us/stat/117/2615]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(NN)–(QQ), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 347(e), title IV, § 409, Oct. 7, 2010, [124 Stat. 2699][/us/stat/124/2699], 2724.)
 
  __Codification__ 
 
@@ -39,19 +39,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–259, § 409(1)][/us/pl/111/259/s409/1], struck out par. (1) designation before “In” and par. (2) which read as follows: “The Director shall carry out the process through the Office of the National Counterintelligence Executive.”
+    2010—Subsec. (a). [Pub. L. 111–259][/us/pl/111/259], § 409(1), struck out par. (1) designation before “In” and par. (2) which read as follows: “The Director shall carry out the process through the Office of the National Counterintelligence Executive.”
 
-    Subsec. (b). [Pub. L. 111–259, § 347(e)][/us/pl/111/259/s347/e], struck out par. (1) designation before “The Director” and par. (2) which read as follows: “Not later than October 15 of each year, the Director shall certify to the congressional intelligence committees that the review required under paragraph (1) has been conducted in all elements of the intelligence community during the preceding fiscal year.”
+    Subsec. (b). [Pub. L. 111–259][/us/pl/111/259], § 347(e), struck out par. (1) designation before “The Director” and par. (2) which read as follows: “Not later than October 15 of each year, the Director shall certify to the congressional intelligence committees that the review required under paragraph (1) has been conducted in all elements of the intelligence community during the preceding fiscal year.”
 
-    Subsec. (c). [Pub. L. 111–259, § 409(2)][/us/pl/111/259/s409/2], struck out par. (1) designation before “The Director” and par. (2) which read as follows: “The Director shall carry out paragraph (1) through the Office of the National Counterintelligence Executive.”
+    Subsec. (c). [Pub. L. 111–259][/us/pl/111/259], § 409(2), struck out par. (1) designation before “The Director” and par. (2) which read as follows: “The Director shall carry out paragraph (1) through the Office of the National Counterintelligence Executive.”
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(a)(1)(NN)][/us/pl/108/458/s1071/a/1/NN], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(NN), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (b)(1). [Pub. L. 108–458, § 1071(a)(1)(OO)][/us/pl/108/458/s1071/a/1/OO], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (b)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(OO), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (c)(1). [Pub. L. 108–458, § 1071(a)(1)(PP)][/us/pl/108/458/s1071/a/1/PP], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (c)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(PP), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (d). [Pub. L. 108–458, § 1071(a)(1)(QQ)][/us/pl/108/458/s1071/a/1/QQ], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (d). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(QQ), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -69,20 +69,20 @@
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/177/s341/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs341%2Fa%2F1
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2615
-[/us/pl/108/458/s1071/a/1/NN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FNN
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/111/259/s347/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fe
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2699
 [/us/usc/t50/s442a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs442a
-[/us/pl/111/259/s409/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs409%2F1
-[/us/pl/111/259/s347/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fe
-[/us/pl/111/259/s409/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs409%2F2
-[/us/pl/108/458/s1071/a/1/NN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FNN
-[/us/pl/108/458/s1071/a/1/OO]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FOO
-[/us/pl/108/458/s1071/a/1/PP]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FPP
-[/us/pl/108/458/s1071/a/1/QQ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FQQ
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

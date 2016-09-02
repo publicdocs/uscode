@@ -41,7 +41,7 @@
 
         In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
 
-([Pub. L. 107–314, div. D, title XLII, § 4220][/us/pl/107/314/s4220], as added [Pub. L. 114–92, div. C, title XXXI, § 3112(b)(1)][/us/pl/114/92/s3112/b/1], Nov. 25, 2015, [129 Stat. 1189][/us/stat/129/1189].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4220, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3112(b)(1), Nov. 25, 2015, [129 Stat. 1189][/us/stat/129/1189].)
 
 ----------
 
@@ -52,8 +52,8 @@
 
 [/us/usc/t50/s2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2521
 [/us/usc/t50/s2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524
-[/us/pl/107/314/s4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4220
-[/us/pl/114/92/s3112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fb%2F1
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1189
 
 

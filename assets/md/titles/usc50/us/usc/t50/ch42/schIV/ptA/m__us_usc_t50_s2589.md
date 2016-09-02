@@ -33,7 +33,7 @@
 
         The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for fiscal year 2005 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a]) a report on the policy that the Secretary plans to have in effect under subsection (a) as of October 1, 2005. The report shall specify the officers and responsibilities referred to in subsection (a).
 
-([Pub. L. 108–136, div. C, title XXXI, § 3132][/us/pl/108/136/s3132], Nov. 24, 2003, [117 Stat. 1750][/us/stat/117/1750].)
+([Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3132, Nov. 24, 2003, [117 Stat. 1750][/us/stat/117/1750].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/108/136/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3132
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1750
 
 

@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 409 of this title][/us/usc/t50/s409] prior to editorial reclassification and renumbering as this section, and to [section 171–2 of Title 5][/us/usc/t5/s171–2] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 409 of this title][/us/usc/t50/s409] prior to editorial reclassification and renumbering as this section, and to [section 171–2 of Title 5][/us/usc/t5/s171–2] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     Prior to the enactment of Title 10, Armed Forces, by act Aug. 10, 1956, subsecs. (a), (b), and (c) of this section were classified to sections 181–1(c), 411a(a), and 626(c), respectively, of former Title 5.
 
@@ -50,7 +50,7 @@
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs409
 [/us/usc/t5/s171–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%E2%80%932
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

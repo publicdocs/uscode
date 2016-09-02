@@ -57,19 +57,19 @@
 
         The Government Accountability Office shall submit to Congress, for each of fiscal years 2007, 2009, and 2011, a report with its assessment of the progress and effectiveness of the PSI, which shall include an assessment of the measures referred to in subsection (a).
 
-([Pub. L. 110–53, title XVIII, § 1821][/us/pl/110/53/s1821], Aug. 3, 2007, [121 Stat. 493][/us/stat/121/493]; [Pub. L. 112–81, div. A, title X, § 1067][/us/pl/112/81/s1067], formerly § 1067(b), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], renumbered § 1067, [Pub. L. 112–239, div. A, title X, § 1076(a)(20)(B)][/us/pl/112/239/s1076/a/20/B], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 114–92, div. A, title X, § 1076(b)][/us/pl/114/92/s1076/b], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998].)
+([Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1821, Aug. 3, 2007, [121 Stat. 493][/us/stat/121/493]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1067, formerly § 1067(b), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], renumbered § 1067, [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(20)(B), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1076(b), Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998].)
 
  __Amendments__ 
 
     2015—Subsec. (b). [Pub. L. 114–92][/us/pl/114/92] struck out par. (1) designation and heading “In general” and pars. (2) and (3) which related to report and classification, respectively.
 
-    2013—Subsec. (b)(2). [Pub. L. 112–239, § 1076(a)(20)(B)][/us/pl/112/239/s1076/a/20/B], made technical amendment to directory language of [Pub. L. 112–81, § 1067][/us/pl/112/81/s1067]. See 2011 Amendment note below.
+    2013—Subsec. (b)(2). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(B), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 1067. See 2011 Amendment note below.
 
-    2011—Subsec. (b)(2). [Pub. L. 112–81, § 1067][/us/pl/112/81/s1067], formerly § 1067(b), as amended by [Pub. L. 112–239, § 1076(a)(20)(B)][/us/pl/112/239/s1076/a/20/B], substituted “of each even-numbered year” for “of each year” in introductory provisions.
+    2011—Subsec. (b)(2). [Pub. L. 112–81][/us/pl/112/81], § 1067, formerly § 1067(b), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(B), substituted “of each even-numbered year” for “of each year” in introductory provisions.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment by section 1076(a)(20)(B) is effective Dec. 31, 2011, as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment by section 1076(a)(20)(B) is effective Dec. 31, 2011, as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Assignment of Functions Under Section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007__ 
 
@@ -92,20 +92,20 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1821
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F493
-[/us/pl/112/81/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
-[/us/pl/112/239/s1076/a/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FB
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
-[/us/pl/114/92/s1076/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1076%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/112/239/s1076/a/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FB
-[/us/pl/112/81/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067
-[/us/pl/112/81/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067
-[/us/pl/112/239/s1076/a/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FB
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

@@ -27,7 +27,7 @@
 
         The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
-([Pub. L. 107–306, title III, § 341][/us/pl/107/306/s341], Nov. 27, 2002, [116 Stat. 2398][/us/stat/116/2398]; [Pub. L. 108–458, title I, § 1071(g)(2)(C)][/us/pl/108/458/s1071/g/2/C], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
+([Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 341, Nov. 27, 2002, [116 Stat. 2398][/us/stat/116/2398]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(2)(C), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
 
  __Codification__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/107/306/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs341
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2398
-[/us/pl/108/458/s1071/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FC
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
 [/us/usc/t50/s404n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404n%E2%80%931
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

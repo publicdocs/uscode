@@ -31,7 +31,7 @@
 
         (2) To carry out such other responsibilities with respect to the intelligence function as the Director may specify for purposes of this section.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103J, as added [Pub. L. 113–126, title III, § 305(a)][/us/pl/113/126/s305/a], July 7, 2014, [128 Stat. 1395][/us/stat/128/1395].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103J, as added [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 305(a), July 7, 2014, [128 Stat. 1395][/us/stat/128/1395].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/126/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs305%2Fa
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1395
 
 

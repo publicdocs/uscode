@@ -45,7 +45,7 @@
 
     (14) The enumeration of the above subjects of evidence on membership or participation in the Communist Party or any other organization as above defined, shall not limit the inquiry into and consideration of any other subject of evidence on membership and participation as herein stated.
 
-([Aug. 24, 1954, ch. 886, § 5][/us/act/1954-08-24/ch886/s5], [68 Stat. 776][/us/stat/68/776].)
+([Aug. 24, 1954, ch. 886][/us/act/1954-08-24/ch886], § 5, [68 Stat. 776][/us/stat/68/776].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-24/ch886/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886%2Fs5
+[/us/act/1954-08-24/ch886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886
 [/us/stat/68/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F776
 [/us/act/1954-08-24/ch886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886
 [/us/stat/68/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F775

@@ -17,7 +17,7 @@
 
     During the current fiscal year and hereafter, none of the funds appropriated for intelligence programs to the Department of Defense which are transferred to another Federal agency for execution shall be expended by the Department of Defense in any fiscal year in excess of amounts required for expenditure during such fiscal year by the Federal agency to which such funds are transferred.
 
-([Pub. L. 102–172, title VIII, § 8089][/us/pl/102/172/s8089], Nov. 26, 1991, [105 Stat. 1193][/us/stat/105/1193].)
+([Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8089, Nov. 26, 1991, [105 Stat. 1193][/us/stat/105/1193].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/172/s8089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8089
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1193
 [/us/usc/t50/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs414
 

@@ -35,7 +35,7 @@
 
         If the President uses the authority of this section to continue prohibitions on transactions involving foreign property interests, he shall report to the Congress every six months on the use of such authority.
 
-([Pub. L. 95–223, title II, § 207][/us/pl/95/223/s207], Dec. 28, 1977, [91 Stat. 1628][/us/stat/91/1628].)
+([Pub. L. 95–223, title II][/us/pl/95/223/tII], § 207, Dec. 28, 1977, [91 Stat. 1628][/us/stat/91/1628].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t50/s1622/a/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1622%2Fa%2FA
 [/us/usc/t50/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601%2Fa
 [/us/usc/t50/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1621
-[/us/pl/95/223/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs207
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1628
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255

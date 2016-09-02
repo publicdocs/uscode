@@ -27,7 +27,7 @@
 
     After the end of the war any claim of any enemy or of an ally of enemy to any money or other property received and held by the alien property custodian or deposited in the United States Treasury, shall be settled as Congress shall direct: Provided, however, That on order of the President as set forth in [section 4309 of this title][/us/usc/t50/s4309], or of the court, as set forth in sections 4309 and 4310 of this title, the alien property custodian or the Treasurer of the United States, as the case may be, shall forthwith convey, transfer, assign, and pay to the person to whom the President shall so order, or in whose behalf the court shall enter final judgment or decree, any property of an enemy or ally of enemy held by said custodian or by said Treasurer, so far as may be necessary to comply with said order of the President or said final judgment or decree of the court: And provided further, That the Treasurer of the United States, on order of the alien property custodian shall, as provided in [section 4310 of this title][/us/usc/t50/s4310], repay to the licensee any funds deposited by said licensee.
 
-([Oct. 6, 1917, ch. 106, § 12][/us/act/1917-10-06/ch106/s12], [40 Stat. 423][/us/stat/40/423]; [Mar. 28, 1918, ch. 28, § 1][/us/act/1918-03-28/ch28/s1], [40 Stat. 460][/us/stat/40/460].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 12, [40 Stat. 423][/us/stat/40/423]; [Mar. 28, 1918, ch. 28][/us/act/1918-03-28/ch28], § 1, [40 Stat. 460][/us/stat/40/460].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
 [/us/usc/t50/s4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4310
-[/us/act/1917-10-06/ch106/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs12
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F423
-[/us/act/1918-03-28/ch28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-28%2Fch28%2Fs1
+[/us/act/1918-03-28/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-28%2Fch28
 [/us/stat/40/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F460
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

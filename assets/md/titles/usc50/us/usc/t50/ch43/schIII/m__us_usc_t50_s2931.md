@@ -103,7 +103,7 @@
 
         For fiscal year 2009 and each fiscal year thereafter, the Coordinator shall submit to Congress, at the same time as the submission of the budget for that fiscal year under title 31, a report on the strategy and policies developed pursuant to subsection (c)(2), together with any recommendations of the Coordinator for legislative changes that the Coordinator considers appropriate with respect to such strategy and policies and their implementation or the Office of the Coordinator.
 
-([Pub. L. 110–53, title XVIII, § 1841][/us/pl/110/53/s1841], Aug. 3, 2007, [121 Stat. 498][/us/stat/121/498].)
+([Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1841, Aug. 3, 2007, [121 Stat. 498][/us/stat/121/498].)
 
  __References in Text__ 
 
@@ -124,7 +124,7 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/110/53/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F498
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F501

@@ -17,7 +17,7 @@
 
     The Secretary of the Air Force is authorized to establish a joint long-range proving ground for guided missiles and other weapons by the construction, installation, or equipment of temporary or permanent public works, including buildings, facilities, appurtenances, and utilities, within or without the continental limits of the United States, for scientific study, testing, and training purposes by the Departments of the Army, Navy, and Air Force.
 
-([May 11, 1949, ch. 98, § 1][/us/act/1949-05-11/ch98/s1], [63 Stat. 66][/us/stat/63/66].)
+([May 11, 1949, ch. 98][/us/act/1949-05-11/ch98], § 1, [63 Stat. 66][/us/stat/63/66].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-05-11/ch98/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-11%2Fch98%2Fs1
+[/us/act/1949-05-11/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-11%2Fch98
 [/us/stat/63/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F66
 
 

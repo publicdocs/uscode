@@ -39,7 +39,7 @@
 
         The Attorney General shall within forty-five days after October 23, 1962, publish in the Federal Register a list of trademarks which at the date of vesting in the Alien Property Custodian or Attorney General were owned by persons who were resident in or had their sole or primary seat in the area of Germany now in the Soviet Zone of Occupation or in the Soviet sector of Berlin or in German territory under provisional Soviet or Polish administration. Notwithstanding the provisions of subsection (b) of this section, the effective date of divestment of the trademarks so listed and published in the Federal Register shall be the date of publication in the Federal Register by the Secretary of State of a certification identifying the cases in which an equivalent trademark has been registered in the Federal Republic of Germany for a person residing or having its sole or primary seat in the Federal Republic of Germany or in the western sectors of Berlin. In those cases of an equivalent trademark certified by the Secretary of State, the person registered by the Federal Republic of Germany as owner of such equivalent trademark shall succeed to the ownership of the divested trademark in the United States.
 
-([Oct. 6, 1917, ch. 106, § 42][/us/act/1917-10-06/ch106/s42], as added [Pub. L. 87–861, § 2][/us/pl/87/861/s2], Oct. 23, 1962, [76 Stat. 1139][/us/stat/76/1139].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 42, as added [Pub. L. 87–861][/us/pl/87/861], § 2, Oct. 23, 1962, [76 Stat. 1139][/us/stat/76/1139].)
 
  __References in Text__ 
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs42
-[/us/pl/87/861/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861%2Fs2
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/pl/87/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861
 [/us/stat/76/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1139
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

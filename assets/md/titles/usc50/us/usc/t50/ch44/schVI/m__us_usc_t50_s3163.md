@@ -17,7 +17,7 @@
 
     Except as otherwise specifically provided, the provisions of this subchapter shall not apply to the President and Vice President, Members of the Congress, Justices of the Supreme Court, and Federal judges appointed by the President.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VIII, § 803, as added [Pub. L. 103–359, title VIII, § 802(a)][/us/pl/103/359/s802/a], Oct. 14, 1994, [108 Stat. 3437][/us/stat/108/3437].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VIII, § 803, as added [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 802(a), Oct. 14, 1994, [108 Stat. 3437][/us/stat/108/3437].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/103/359/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs802%2Fa
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3437
 [/us/usc/t50/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs437
 

@@ -17,7 +17,7 @@
 
     Recovery of payments under this subchapter may not be made from an individual when, in the judgment of the Director, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money payable pursuant to this subchapter on account of a certification or payment made by a former employee of the Agency in the discharge of the former employee’s official duties may be made if the Director certifies that the certification or payment involved fraud on the part of the former employee.
 
-([Pub. L. 88–643, title II, § 265][/us/pl/88/643/s265], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3237][/us/stat/106/3237]; amended [Pub. L. 103–178, title II, § 202(a)(13)][/us/pl/103/178/s202/a/13], Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 265, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3237][/us/stat/106/3237]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(13), Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/88/643/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs265
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3237
-[/us/pl/103/178/s202/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F13
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2027
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178

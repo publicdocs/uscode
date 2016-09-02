@@ -165,7 +165,7 @@
 
         (8) the term “otherwise engaged in the trade of” means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
 
-([Pub. L. 96–72, § 11B][/us/pl/96/72/s11B], as added [Pub. L. 101–510, div. A, title XVII, § 1702(b)][/us/pl/101/510/s1702/b], Nov. 5, 1990, [104 Stat. 1741][/us/stat/104/1741].)
+([Pub. L. 96–72][/us/pl/96/72], § 11B, as added [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1702(b), Nov. 5, 1990, [104 Stat. 1741][/us/stat/104/1741].)
 
  __Termination Date__ 
 
@@ -197,8 +197,8 @@
 [/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
 [/us/usc/t22/s2797b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b%2Fa
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
-[/us/pl/96/72/s11B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs11B
-[/us/pl/101/510/s1702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1702%2Fb
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1741
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/90/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269

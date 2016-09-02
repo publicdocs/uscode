@@ -35,7 +35,7 @@
 
         In order to assist the Armed Forces in recruiting individuals for voluntary service in the Armed Forces, the Director shall, upon the request of the Secretary of Defense or the Secretary of Homeland Security, furnish to the Secretary the names and addresses of individuals registered under this Act. Names and addresses furnished pursuant to the preceding sentence may be used by the Secretary of Defense or Secretary of Homeland Security only for recruiting purposes.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 15, [62 Stat. 624][/us/stat/62/624]; [Pub. L. 92–129, title I, § 101(a)(33)][/us/pl/92/129/s101/a/33], Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353]; [Pub. L. 97–86, title IX, § 916(c)][/us/pl/97/86/s916/c], Dec. 1, 1981, [95 Stat. 1129][/us/stat/95/1129]; [Pub. L. 107–296, title XVII, § 1704(e)(11)(E)][/us/pl/107/296/s1704/e/11/E], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 15, [62 Stat. 624][/us/stat/62/624]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(33), Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353]; [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 916(c), Dec. 1, 1981, [95 Stat. 1129][/us/stat/95/1129]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(11)(E), Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].)
 
  __References in Text__ 
 
@@ -70,11 +70,11 @@
 [/us/usc/t50/s3803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fc
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F624
-[/us/pl/92/129/s101/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F33
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F353
-[/us/pl/97/86/s916/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs916%2Fc
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1129
-[/us/pl/107/296/s1704/e/11/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F11%2FE
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2316
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

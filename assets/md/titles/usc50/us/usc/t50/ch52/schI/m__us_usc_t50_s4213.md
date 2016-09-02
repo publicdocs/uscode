@@ -23,7 +23,7 @@
 
         Subsection (a) does not create any authority to grant restitution described in that subsection, or establish any eligibility to apply for such restitution.
 
-([Pub. L. 100–383, title I, § 103][/us/pl/100/383/s103], Aug. 10, 1988, [102 Stat. 905][/us/stat/102/905].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 103, Aug. 10, 1988, [102 Stat. 905][/us/stat/102/905].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t50/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4202%2Fa
-[/us/pl/100/383/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs103
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F905
 
 

@@ -17,7 +17,7 @@
 
     The conduct of the program required by this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property of the Department of Defense pertaining to such activities and necessary to facilitate the audit.
 
-([Pub. L. 102–183, title VIII, § 807][/us/pl/102/183/s807], Dec. 4, 1991, [105 Stat. 1276][/us/stat/105/1276]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 807, Dec. 4, 1991, [105 Stat. 1276][/us/stat/105/1276]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/183/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs807
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1276
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

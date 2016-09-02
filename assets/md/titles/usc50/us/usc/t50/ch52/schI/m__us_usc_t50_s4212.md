@@ -35,13 +35,13 @@
 
         In consideration of the statement of the Congress set forth in [section 4202(a) of this title][/us/usc/t50/s4202/a], the President is requested to offer pardons to any individuals recommended by the Attorney General under subsection (b).
 
-([Pub. L. 100–383, title I, § 102][/us/pl/100/383/s102], Aug. 10, 1988, [102 Stat. 904][/us/stat/102/904].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 102, Aug. 10, 1988, [102 Stat. 904][/us/stat/102/904].)
 
  __References in Text__ 
 
     Executive Order Numbered 9066, dated February 19, 1942, referred to in subsec. (a)(1), is not classified to the Code.
 
-    The Act entitled “An Act to provide a penalty for violation of restrictions or orders with respect to persons entering, remaining in, leaving, or committing any act in military areas or zones”, approved March 21, 1942 ([56 Stat. 173][/us/stat/56/173]), referred to in subsec. (a)(2), is [act Mar. 21, 1942, ch. 191][/us/act/1942-03-21/ch191], [56 Stat. 173][/us/stat/56/173], which was classified to section 97a of former Title 18, Criminal Code and Criminal Procedure, and was repealed by [act of June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 868][/us/stat/62/868] and reenacted as [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure. [Section 1383 of Title 18][/us/usc/t18/s1383] was repealed by [Pub. L. 94–412, title V, § 501(e)][/us/pl/94/412/s501/e], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
+    The Act entitled “An Act to provide a penalty for violation of restrictions or orders with respect to persons entering, remaining in, leaving, or committing any act in military areas or zones”, approved March 21, 1942 ([56 Stat. 173][/us/stat/56/173]), referred to in subsec. (a)(2), is [act Mar. 21, 1942, ch. 191][/us/act/1942-03-21/ch191], [56 Stat. 173][/us/stat/56/173], which was classified to section 97a of former Title 18, Criminal Code and Criminal Procedure, and was repealed by [act of June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 868][/us/stat/62/868] and reenacted as [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure. [Section 1383 of Title 18][/us/usc/t18/s1383] was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(e), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
  __Codification__ 
 
@@ -56,16 +56,16 @@
 
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
 [/us/usc/t50/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4202%2Fa
-[/us/pl/100/383/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs102
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F904
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
 [/us/act/1942-03-21/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-21%2Fch191
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F868
 [/us/usc/t18/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1383
 [/us/usc/t18/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1383
-[/us/pl/94/412/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fe
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 
 

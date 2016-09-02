@@ -45,7 +45,7 @@
 
         As used in this section, the term “National Intelligence Program” has the meaning given the term in [section 3003(6) of this title][/us/usc/t50/s3003/6].
 
-([Pub. L. 110–53, title VI, § 601][/us/pl/110/53/s601], Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335]; [Pub. L. 111–259, title III, § 364][/us/pl/111/259/s364], Oct. 7, 2010, [124 Stat. 2702][/us/stat/124/2702].)
+([Pub. L. 110–53, title VI][/us/pl/110/53/tVI], § 601, Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 364, Oct. 7, 2010, [124 Stat. 2702][/us/stat/124/2702].)
 
  __Codification__ 
 
@@ -64,9 +64,9 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t50/s3003/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F6
-[/us/pl/110/53/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs601
+[/us/pl/110/53/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVI
 [/us/stat/121/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F335
-[/us/pl/111/259/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs364
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2702
 [/us/usc/t50/s415c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415c
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259

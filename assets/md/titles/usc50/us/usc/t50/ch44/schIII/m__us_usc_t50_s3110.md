@@ -29,23 +29,23 @@
 
         (3) substantiated by the inspector general of any element of the intelligence community.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 511, as added [Pub. L. 113–293, title III, § 323(a)][/us/pl/113/293/s323/a], Dec. 19, 2014, [128 Stat. 4003][/us/stat/128/4003].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 511, as added [Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 323(a), Dec. 19, 2014, [128 Stat. 4003][/us/stat/128/4003].)
 
  __Construction__ 
 
-[Pub. L. 113–293, title III, § 323(e)][/us/pl/113/293/s323/e], Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004], provided that: 
+[Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 323(e), Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004], provided that: 
 
 > “Nothing in this section \[enacting this section and provisions set out as notes under this section\] or the amendments made by this section shall be construed to alter any requirement existing on the date of the enactment of this Act \[Dec. 19, 2014\] to submit a report under any provision of law.”
 
  __Initial Report__ 
 
-[Pub. L. 113–293, title III, § 323(b)][/us/pl/113/293/s323/b], Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004], provided that: 
+[Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 323(b), Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004], provided that: 
 
 > “The first report required under section 511 of the National Security Act of 1947 \[[50 U.S.C. 3110][/us/usc/t50/s3110]\], as added by subsection (a), shall be submitted not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Guidelines__ 
 
-[Pub. L. 113–293, title III, § 323(c)][/us/pl/113/293/s323/c], Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004], provided that: 
+[Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 323(c), Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Director of National Intelligence, in consultation with the head of each element of the intelligence community, shall—
 
@@ -64,14 +64,14 @@
 
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/293/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs323%2Fa
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4003
-[/us/pl/113/293/s323/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs323%2Fe
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4004
-[/us/pl/113/293/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs323%2Fb
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4004
 [/us/usc/t50/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3110
-[/us/pl/113/293/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs323%2Fc
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4004
 [/us/usc/t50/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3110
 [/us/pl/113/293/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs323%2Fc

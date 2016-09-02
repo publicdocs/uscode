@@ -17,7 +17,7 @@
 
     The findings of fact and conclusions of law made by the Secretary of Veterans Affairs in administering this subchapter are subject to review on appeal to the Board of Veterans’ Appeals pursuant to chapter 71 of title 38 and to judicial review only as provided in chapter 72 of such title.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title IV, § 409, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2854][/us/stat/117/2854].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title IV, § 409, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2854][/us/stat/117/2854].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    Prior sections 409 to 414 of article IV of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1185][/us/stat/54/1185], 1186, were omitted in the general amendment of article IV by [act Oct. 6, 1942, ch. 581, § 13][/us/act/1942-10-06/ch581/s13], [56 Stat. 773][/us/stat/56/773].
+    Prior sections 409 to 414 of article IV of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1185][/us/stat/54/1185], 1186, were omitted in the general amendment of article IV by [act Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 13, [56 Stat. 773][/us/stat/56/773].
 
     Section 409 related to deduction of unpaid premiums from proceeds of policies.
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2854
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1185
-[/us/act/1942-10-06/ch581/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs13
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F773
 
 

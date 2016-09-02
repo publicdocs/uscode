@@ -23,7 +23,7 @@
 
         The President should consult with and brief, from time to time, the appropriate committees of Congress regarding the efficacy of the coordination mechanism established pursuant to [section 2357b of this title][/us/usc/t50/s2357b] in achieving its stated objectives.
 
-([Pub. L. 107–228, div. B, title XIII, § 1339][/us/pl/107/228/s1339], Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1339, Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
-[/us/pl/107/228/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1339
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1451
 
 

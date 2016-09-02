@@ -125,7 +125,7 @@
 
             (B) a copy of the certification under subparagraph (A), together with a detailed justification thereof, is transmitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 10 days prior to the exercise of that authority for such use.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 301, as added [Pub. L. 111–67, § 7][/us/pl/111/67/s7], Sept. 30, 2009, [123 Stat. 2010][/us/stat/123/2010].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 301, as added [Pub. L. 111–67][/us/pl/111/67], § 7, Sept. 30, 2009, [123 Stat. 2010][/us/stat/123/2010].)
 
  __Termination of Section__ 
 
@@ -137,7 +137,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 301 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, [64 Stat. 800][/us/stat/64/800]; [June 30, 1953, ch. 171, § 4][/us/act/1953-06-30/ch171/s4], [67 Stat. 129][/us/stat/67/129]; [Pub. L. 91–379, title I, § 104][/us/pl/91/379/s104], Aug. 15, 1970, [84 Stat. 799][/us/stat/84/799]; [Pub. L. 96–294, title I, § 104(a)][/us/pl/96/294/s104/a], (b), June 30, 1980, [94 Stat. 618][/us/stat/94/618]; [Pub. L. 98–265][/us/pl/98/265], §§ 3(a), 4(a), Apr. 17, 1984, [98 Stat. 149][/us/stat/98/149], 150; [Pub. L. 102–558, title I][/us/pl/102/558], §§ 121(a), 141, Oct. 28, 1992, [106 Stat. 4203][/us/stat/106/4203], 4217; [Pub. L. 107–47, § 4(1)][/us/pl/107/47/s4/1]–(3), (5), Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to loan guarantees, prior to the general amendment of title III of this Act by [Pub. L. 111–67][/us/pl/111/67].
+    A prior section 301 of [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], [64 Stat. 800][/us/stat/64/800]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], § 4, [67 Stat. 129][/us/stat/67/129]; [Pub. L. 91–379, title I][/us/pl/91/379/tI], § 104, Aug. 15, 1970, [84 Stat. 799][/us/stat/84/799]; [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(a), (b), June 30, 1980, [94 Stat. 618][/us/stat/94/618]; [Pub. L. 98–265][/us/pl/98/265], §§ 3(a), 4(a), Apr. 17, 1984, [98 Stat. 149][/us/stat/98/149], 150; [Pub. L. 102–558, title I][/us/pl/102/558/tI], §§ 121(a), 141, Oct. 28, 1992, [106 Stat. 4203][/us/stat/106/4203], 4217; [Pub. L. 107–47][/us/pl/107/47], § 4(1)–(3), (5), Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to loan guarantees, prior to the general amendment of title III of this Act by [Pub. L. 111–67][/us/pl/111/67].
 
  __Delegation of Functions__ 
 
@@ -155,22 +155,22 @@
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/111/67/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs7
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2010
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
 [/us/stat/64/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F800
-[/us/act/1953-06-30/ch171/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171%2Fs4
+[/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F129
-[/us/pl/91/379/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2Fs104
+[/us/pl/91/379/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2FtI
 [/us/stat/84/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F799
-[/us/pl/96/294/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fa
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F618
 [/us/pl/98/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F265
 [/us/stat/98/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F149
-[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4203
-[/us/pl/107/47/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47%2Fs4%2F1
+[/us/pl/107/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47
 [/us/stat/115/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F260
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761

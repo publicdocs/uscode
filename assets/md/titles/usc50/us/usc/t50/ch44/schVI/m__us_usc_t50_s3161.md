@@ -35,7 +35,7 @@
 
         (2) Upon the exercise of such responsibility, the agency head shall submit a report to the congressional intelligence committees.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VIII, § 801, as added [Pub. L. 103–359, title VIII, § 802(a)][/us/pl/103/359/s802/a], Oct. 14, 1994, [108 Stat. 3435][/us/stat/108/3435]; amended [Pub. L. 106–120, title III, § 305(a)][/us/pl/106/120/s305/a], Dec. 3, 1999, [113 Stat. 1611][/us/stat/113/1611]; [Pub. L. 107–306, title III, § 353(b)(2)(B)][/us/pl/107/306/s353/b/2/B], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VIII, § 801, as added [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 802(a), Oct. 14, 1994, [108 Stat. 3435][/us/stat/108/3435]; amended [Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 305(a), Dec. 3, 1999, [113 Stat. 1611][/us/stat/113/1611]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(2)(B), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402].)
 
  __Codification__ 
 
@@ -49,19 +49,19 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–120, title III, § 305(c)][/us/pl/106/120/s305/c], Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612], provided that: 
+[Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 305(c), Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612], provided that: 
 
 > “The President shall modify the procedures required by section 801(a)(3) of the National Security Act of 1947 \[[50 U.S.C. 3161(a)(3)][/us/usc/t50/s3161/a/3]\] to take into account the amendment to that section made by subsection (a) of this section not later than 90 days after the date of the enactment of this Act \[Dec. 3, 1999\].”
 
  __Effective Date__ 
 
-[Pub. L. 103–359, title VIII, § 802(c)][/us/pl/103/359/s802/c], Oct. 14, 1994, [108 Stat. 3438][/us/stat/108/3438], provided that: 
+[Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 802(c), Oct. 14, 1994, [108 Stat. 3438][/us/stat/108/3438], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this subchapter\] shall take effect 180 days after the date of enactment of this Act \[Oct. 14, 1994\].”
 
  __Classification Review of Executive Branch Materials in the Possession of the Congressional Intelligence Committees__ 
 
-[Pub. L. 111–259, title VII, § 702][/us/pl/111/259/s702], Oct. 7, 2010, [124 Stat. 2745][/us/stat/124/2745], provided that: 
+[Pub. L. 111–259, title VII][/us/pl/111/259/tVII], § 702, Oct. 7, 2010, [124 Stat. 2745][/us/stat/124/2745], provided that: 
 
 > “The Director of National Intelligence is authorized to conduct, at the request of one of the congressional intelligence committees and in accordance with procedures established by that committee, a classification review of materials in the possession of that committee that—
 
@@ -73,7 +73,7 @@
 
  __Promotion of Accurate Classification of Information__ 
 
-[Pub. L. 111–258, § 6][/us/pl/111/258/s6], Oct. 7, 2010, [124 Stat. 2651][/us/stat/124/2651], provided that:
+[Pub. L. 111–258][/us/pl/111/258], § 6, Oct. 7, 2010, [124 Stat. 2651][/us/stat/124/2651], provided that:
 
 >     “(a)  __Incentives for Accurate Classifications__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Declassification of Information__ 
 
-[Pub. L. 106–567, title VII][/us/pl/106/567], Dec. 27, 2000, [114 Stat. 2856][/us/stat/114/2856], as amended by [Pub. L. 108–458, title I, § 1102][/us/pl/108/458/s1102], Dec. 17, 2004, [118 Stat. 3699][/us/stat/118/3699]; [Pub. L. 110–53, title VI, § 602][/us/pl/110/53/s602], Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335]; [Pub. L. 111–259, title III, § 365][/us/pl/111/259/s365], Oct. 7, 2010, [124 Stat. 2702][/us/stat/124/2702]; [Pub. L. 112–235, § 2][/us/pl/112/235/s2], Dec. 28, 2012, [126 Stat. 1626][/us/stat/126/1626]; [Pub. L. 113–126, title III, § 311][/us/pl/113/126/s311], July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that:
+[Pub. L. 106–567, title VII][/us/pl/106/567/tVII], Dec. 27, 2000, [114 Stat. 2856][/us/stat/114/2856], as amended by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1102, Dec. 17, 2004, [118 Stat. 3699][/us/stat/118/3699]; [Pub. L. 110–53, title VI][/us/pl/110/53/tVI], § 602, Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 365, Oct. 7, 2010, [124 Stat. 2702][/us/stat/124/2702]; [Pub. L. 112–235][/us/pl/112/235], § 2, Dec. 28, 2012, [126 Stat. 1626][/us/stat/126/1626]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 311, July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that:
 
 > “SEC. 701. __SHORT TITLE.__ 
 
@@ -501,7 +501,7 @@
 
  __Certification and Report Related to Automatic Declassification of Department of Defense Records__ 
 
-[Pub. L. 106–65, div. A, title X, § 1041(c)][/us/pl/106/65/s1041/c], (d), Oct. 5, 1999, [113 Stat. 758][/us/stat/113/758], provided that:
+[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1041(c), (d), Oct. 5, 1999, [113 Stat. 758][/us/stat/113/758], provided that:
 
 >     “(c)  __Certification Required With Respect To Automatic Declassification of Records__  __.—__ 
 
@@ -521,27 +521,27 @@
 
  __Supplement to Plan for Declassification of Restricted Data and Formerly Restricted Data__ 
 
-    [Pub. L. 106–65, div. C, title XXXI, § 3149][/us/pl/106/65/s3149], Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938], which was formerly set out as a note under this section, was renumbered [section 4523 of Pub. L. 107–314][/us/pl/107/314/s4523], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(13)(A)][/us/pl/108/136/s3141/h/13/A]–(C), Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775], and is classified to [section 2673 of this title][/us/usc/t50/s2673].
+    [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3149, Oct. 5, 1999, [113 Stat. 938][/us/stat/113/938], which was formerly set out as a note under this section, was renumbered [section 4523 of Pub. L. 107–314][/us/pl/107/314/s4523], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(13)(A)–(C), Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775], and is classified to [section 2673 of this title][/us/usc/t50/s2673].
 
  __Identification in Budget Materials of Amounts for Declassification Activities and Limitation on Expenditures for Such Activities__ 
 
-    [Pub. L. 106–65, div. C, title XXXI, § 3173][/us/pl/106/65/s3173], Oct. 5, 1999, [113 Stat. 949][/us/stat/113/949], which was formerly set out as a note under this section, was renumbered [section 4525 of Pub. L. 107–314][/us/pl/107/314/s4525], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(15)(A)][/us/pl/108/136/s3141/h/15/A]–(C), Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775], and is classified to [section 2675 of this title][/us/usc/t50/s2675].
+    [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3173, Oct. 5, 1999, [113 Stat. 949][/us/stat/113/949], which was formerly set out as a note under this section, was renumbered [section 4525 of Pub. L. 107–314][/us/pl/107/314/s4525], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(15)(A)–(C), Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775], and is classified to [section 2675 of this title][/us/usc/t50/s2675].
 
  __Protection Against Inadvertent Release of Restricted Data and Formerly Restricted Data__ 
 
-    [Pub. L. 105–261, div. C, title XXXI, § 3161][/us/pl/105/261/s3161], Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480, which was formerly set out as a note under this section, was renumbered [section 4522 of Pub. L. 107–314][/us/pl/107/314/s4522], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)(A)][/us/pl/108/136/s3141/h/12/A]–(C), Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774], and is classified to [section 2672 of this title][/us/usc/t50/s2672].
+    [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3161, Oct. 17, 1998, [112 Stat. 2259][/us/stat/112/2259], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3193(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–480, which was formerly set out as a note under this section, was renumbered [section 4522 of Pub. L. 107–314][/us/pl/107/314/s4522], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(12)(A)–(C), Nov. 24, 2003, [117 Stat. 1774][/us/stat/117/1774], and is classified to [section 2672 of this title][/us/usc/t50/s2672].
 
  __Voluntary Service Program__ 
 
-    [Pub. L. 104–93, title IV, § 402][/us/pl/104/93/s402], Jan. 6, 1996, [109 Stat. 969][/us/stat/109/969], authorized the Director of Central Intelligence to establish and maintain a program from fiscal years 1996 through 2001 to utilize the services contributed by not more than 50 annuitants who served without compensation as volunteers in aid of the review for declassification or downgrading of classified information by the Central Intelligence Agency under applicable Executive orders governing the classification and declassification of national security information and [Pub. L. 102–526][/us/pl/102/526] ([44 U.S.C. 2107][/us/usc/t44/s2107] note).
+    [Pub. L. 104–93, title IV][/us/pl/104/93/tIV], § 402, Jan. 6, 1996, [109 Stat. 969][/us/stat/109/969], authorized the Director of Central Intelligence to establish and maintain a program from fiscal years 1996 through 2001 to utilize the services contributed by not more than 50 annuitants who served without compensation as volunteers in aid of the review for declassification or downgrading of classified information by the Central Intelligence Agency under applicable Executive orders governing the classification and declassification of national security information and [Pub. L. 102–526][/us/pl/102/526] ([44 U.S.C. 2107][/us/usc/t44/s2107] note).
 
  __Commission on Protecting and Reducing Government Secrecy__ 
 
-    [Pub. L. 103–236, title IX][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 525][/us/stat/108/525], known as the “Protection and Reduction of Government Secrecy Act”, established for a two-year period a Commission on Protecting and Reducing Government Secrecy to conduct an investigation into all matters in any way related to any legislation, executive order, regulation, practice, or procedure relating to classified information or granting security clearances and to submit to the Congress a final report containing such recommendations not later than two years after the date of the first meeting of the Commission and terminated Commission 60 days after the date on which a final report is submitted (final report submitted on Mar. 3, 1997).
+    [Pub. L. 103–236, title IX][/us/pl/103/236/tIX], Apr. 30, 1994, [108 Stat. 525][/us/stat/108/525], known as the “Protection and Reduction of Government Secrecy Act”, established for a two-year period a Commission on Protecting and Reducing Government Secrecy to conduct an investigation into all matters in any way related to any legislation, executive order, regulation, practice, or procedure relating to classified information or granting security clearances and to submit to the Congress a final report containing such recommendations not later than two years after the date of the first meeting of the Commission and terminated Commission 60 days after the date on which a final report is submitted (final report submitted on Mar. 3, 1997).
 
  __Disclosure of Information Concerning Unaccounted for United States Personnel of Cold War, Korean Conflict, and Vietnam Era__ 
 
-[Pub. L. 102–190, div. A, title X, § 1082][/us/pl/102/190/s1082], Dec. 5, 1991, [105 Stat. 1480][/us/stat/105/1480], as amended by [Pub. L. 103–337, div. A, title X, § 1036][/us/pl/103/337/s1036], Oct. 5, 1994, [108 Stat. 2841][/us/stat/108/2841]; [Pub. L. 104–106, div. A, title X, § 1085][/us/pl/104/106/s1085], Feb. 10, 1996, [110 Stat. 457][/us/stat/110/457], provided that:
+[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1082, Dec. 5, 1991, [105 Stat. 1480][/us/stat/105/1480], as amended by [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1036, Oct. 5, 1994, [108 Stat. 2841][/us/stat/108/2841]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1085, Feb. 10, 1996, [110 Stat. 457][/us/stat/110/457], provided that:
 
 >     “(a)  __Public Availability of Information__  __.—__ 
 
@@ -607,7 +607,7 @@
 
  __Disclosure of Information Concerning American Personnel Listed as Prisoner, Missing, or Unaccounted for in Southeast Asia__ 
 
-[Pub. L. 100–453, title IV, § 404][/us/pl/100/453/s404], Sept. 29, 1988, [102 Stat. 1908][/us/stat/102/1908], provided that:
+[Pub. L. 100–453, title IV][/us/pl/100/453/tIV], § 404, Sept. 29, 1988, [102 Stat. 1908][/us/stat/102/1908], provided that:
 
 >     “(a) This section is enacted to ensure that current disclosure policy is incorporated into law.
 
@@ -2990,41 +2990,41 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 
 [/us/usc/t50/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3162
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/103/359/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs802%2Fa
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3435
-[/us/pl/106/120/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs305%2Fa
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1611
-[/us/pl/107/306/s353/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F2%2FB
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
-[/us/pl/106/120/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs305%2Fc
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1612
 [/us/usc/t50/s3161/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161%2Fa%2F3
-[/us/pl/103/359/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs802%2Fc
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3438
-[/us/pl/111/259/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs702
+[/us/pl/111/259/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVII
 [/us/stat/124/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2745
 [/us/pl/111/259/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs702
 [/us/pl/111/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/111/258/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs6
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2651
 [/us/pl/111/258/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs6
 [/us/pl/111/258/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs3
 [/us/usc/t50/s3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3344
-[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVII
 [/us/stat/114/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2856
-[/us/pl/108/458/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1102
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3699
-[/us/pl/110/53/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs602
+[/us/pl/110/53/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVI
 [/us/stat/121/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F335
-[/us/pl/111/259/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs365
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2702
-[/us/pl/112/235/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F235%2Fs2
+[/us/pl/112/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F235
 [/us/stat/126/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1626
-[/us/pl/113/126/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs311
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1399
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
@@ -3039,45 +3039,45 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t25/s450j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j
-[/us/pl/106/65/s1041/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1041%2Fc
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F758
-[/us/pl/106/65/s3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3149
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F938
 [/us/pl/107/314/s4523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4523
-[/us/pl/108/136/s3141/h/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F13%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1775
 [/us/usc/t50/s2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2673
-[/us/pl/106/65/s3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3173
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F949
 [/us/pl/107/314/s4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4525
-[/us/pl/108/136/s3141/h/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F15%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1775
 [/us/usc/t50/s2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2675
-[/us/pl/105/261/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3161
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2259
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/107/314/s4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4522
-[/us/pl/108/136/s3141/h/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F12%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1774
 [/us/usc/t50/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2672
-[/us/pl/104/93/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs402
+[/us/pl/104/93/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIV
 [/us/stat/109/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F969
 [/us/pl/102/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F526
 [/us/usc/t44/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2107
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIX
 [/us/stat/108/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F525
-[/us/pl/102/190/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1082
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1480
-[/us/pl/103/337/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1036
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2841
-[/us/pl/104/106/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1085
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F457
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/100/453/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2Fs404
+[/us/pl/100/453/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2FtIV
 [/us/stat/102/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1908
 [/us/usc/t42/s7151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7151
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871

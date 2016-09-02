@@ -91,11 +91,11 @@
 
         90 days after the termination of the Fund, the Board shall terminate and all obligations of the Board under this section shall cease.
 
-([Pub. L. 100–383, title I, § 106][/us/pl/100/383/s106], Aug. 10, 1988, [102 Stat. 908][/us/stat/102/908].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 106, Aug. 10, 1988, [102 Stat. 908][/us/stat/102/908].)
 
  __References in Text__ 
 
-    [Section 5311(b) of title 5][/us/usc/t5/s5311/b], referred to in subsec. (d)(3), was repealed by [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 104(c)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.
+    [Section 5311(b) of title 5][/us/usc/t5/s5311/b], referred to in subsec. (d)(3), was repealed by [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 104(c)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.
 
  __Codification__ 
 
@@ -113,10 +113,10 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/100/383/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs106
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F908
 [/us/usc/t5/s5311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5311%2Fb
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

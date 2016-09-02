@@ -41,7 +41,7 @@
 
         Each national security strategy report shall be transmitted in both a classified and an unclassified form.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 108, formerly § 104, as added [Pub. L. 99–433, title VI, § 603(a)(1)][/us/pl/99/433/s603/a/1], Oct. 1, 1986, [100 Stat. 1074][/us/stat/100/1074]; renumbered § 108, [Pub. L. 102–496, title VII, § 705(a)(2)][/us/pl/102/496/s705/a/2], Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190]; amended [Pub. L. 106–65, div. A, title IX, § 901(b)][/us/pl/106/65/s901/b], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 108, formerly § 104, as added [Pub. L. 99–433, title VI][/us/pl/99/433/tVI], § 603(a)(1), Oct. 1, 1986, [100 Stat. 1074][/us/stat/100/1074]; renumbered § 108, [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 705(a)(2), Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190]; amended [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 901(b), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __National Security Planning Guidance To Deny Safe Havens to Al-Qaeda and Its Violent Extremist Affiliates__ 
 
-[Pub. L. 112–81, div. A, title X, § 1032][/us/pl/112/81/s1032], Dec. 31, 2011, [125 Stat. 1571][/us/stat/125/1571], as amended by [Pub. L. 113–291, div. A, title XII, § 1262][/us/pl/113/291/s1262], Dec. 19, 2014, [128 Stat. 3580][/us/stat/128/3580], provided that:
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1032, Dec. 31, 2011, [125 Stat. 1571][/us/stat/125/1571], as amended by [Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1262, Dec. 19, 2014, [128 Stat. 3580][/us/stat/128/3580], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __Implementation Plan for Whole-of-Government Vision Prescribed in the National Security Strategy__ 
 
-[Pub. L. 112–81, div. A, title X, § 1072][/us/pl/112/81/s1072], Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592], as amended by [Pub. L. 114–92, div. A, title X, § 1076(d)][/us/pl/114/92/s1076/d], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998], provided that:
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1072, Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1076(d), Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998], provided that:
 
 >     “(a)  __Implementation Plan__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons__ 
 
-    [Pub. L. 102–172, title VIII, § 8132][/us/pl/102/172/s8132], Nov. 26, 1991, [105 Stat. 1208][/us/stat/105/1208], provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy of United States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
+    [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8132, Nov. 26, 1991, [105 Stat. 1208][/us/stat/105/1208], provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy of United States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
 
 ----------
 
@@ -182,26 +182,26 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/99/433/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs603%2Fa%2F1
+[/us/pl/99/433/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtVI
 [/us/stat/100/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1074
-[/us/pl/102/496/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs705%2Fa%2F2
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3190
-[/us/pl/106/65/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs901%2Fb
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/112/81/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1032
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1571
-[/us/pl/113/291/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1262
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3580
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
-[/us/pl/112/81/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1072
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1592
-[/us/pl/114/92/s1076/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1076%2Fd
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/102/172/s8132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8132
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1208
 
 

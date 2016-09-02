@@ -51,7 +51,7 @@
 
             Paragraph (1) does not prevent an increase in premium to the extent of any general increase in the premiums charged by the carrier of the health care insurance for the same health insurance coverage for persons similarly covered by such insurance during the period between the termination and the reinstatement.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 704, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2864][/us/stat/117/2864]; amended [Pub. L. 109–233, title III, § 302][/us/pl/109/233/s302], June 15, 2006, [120 Stat. 406][/us/stat/120/406].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 704, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2864][/us/stat/117/2864]; amended [Pub. L. 109–233, title III][/us/pl/109/233/tIII], § 302, June 15, 2006, [120 Stat. 406][/us/stat/120/406].)
 
  __Codification__ 
 
@@ -59,13 +59,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 704 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 107–107, div. A, title XVI, § 1603][/us/pl/107/107/s1603], Dec. 28, 2001, [115 Stat. 1276][/us/stat/115/1276], related to guarantee of residency for military personnel, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4025 of this title][/us/usc/t50/s4025].
+    A prior section 704 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 107–107, div. A, title XVI][/us/pl/107/107/dA/tXVI], § 1603, Dec. 28, 2001, [115 Stat. 1276][/us/stat/115/1276], related to guarantee of residency for military personnel, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4025 of this title][/us/usc/t50/s4025].
 
  __Amendments__ 
 
-    2006—Subsec. (b)(3). [Pub. L. 109–233, § 302(b)][/us/pl/109/233/s302/b], substituted “in a case in which the” for “if the”.
+    2006—Subsec. (b)(3). [Pub. L. 109–233][/us/pl/109/233], § 302(b), substituted “in a case in which the” for “if the”.
 
-    Subsec. (e). [Pub. L. 109–233, § 302(a)][/us/pl/109/233/s302/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–233][/us/pl/109/233], § 302(a), added subsec. (e).
 
 ----------
 
@@ -77,16 +77,16 @@
 [/us/usc/t50/s4023/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4023%2Fa%2F1
 [/us/usc/t38/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs105
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2864
-[/us/pl/109/233/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs302
+[/us/pl/109/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIII
 [/us/stat/120/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F406
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/107/107/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1603
+[/us/pl/107/107/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXVI
 [/us/stat/115/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1276
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4025
-[/us/pl/109/233/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs302%2Fb
-[/us/pl/109/233/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs302%2Fa
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
 
 

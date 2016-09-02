@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “Department of Energy” includes any predecessor agency of the Department of Energy.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4605][/us/pl/107/314/s4605], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3195\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–481; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4605][/us/pl/107/314/s4605], by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(6)][/us/pl/108/136/s3141/i/6], Nov. 24, 2003, [117 Stat. 1778][/us/stat/117/1778]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(5)][/us/pl/113/66/s3146/g/5], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4605, formerly [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3195\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–481; renumbered [Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4605, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(6), Nov. 24, 2003, [117 Stat. 1778][/us/stat/117/1778]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(5), Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079].)
 
  __Codification__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4605
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4605
-[/us/pl/108/136/s3141/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F6
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1778
-[/us/pl/113/66/s3146/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F5
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1079
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

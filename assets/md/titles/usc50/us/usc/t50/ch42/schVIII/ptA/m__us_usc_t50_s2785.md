@@ -23,11 +23,11 @@
 
         Performance evaluations shall be made public under this section in a common format that facilitates comparisons of performance evaluations between and among similar management and operating contracts.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4805][/us/pl/107/314/s4805], as added [Pub. L. 112–239, div. C, title XXXI, § 3117(a)(1)][/us/pl/112/239/s3117/a/1], Jan. 2, 2013, [126 Stat. 2173][/us/stat/126/2173].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4805, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3117(a)(1), Jan. 2, 2013, [126 Stat. 2173][/us/stat/126/2173].)
 
  __Effective Date__ 
 
-[Pub. L. 112–239, div. C, title XXXI, § 3117(b)][/us/pl/112/239/s3117/b], Jan. 2, 2013, [126 Stat. 2173][/us/stat/126/2173], provided that: 
+[Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3117(b), Jan. 2, 2013, [126 Stat. 2173][/us/stat/126/2173], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 2, 2013\], and shall apply with respect to contractor performance evaluations conducted by the National Nuclear Security Administration on or after that date.”
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4805
-[/us/pl/112/239/s3117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3117%2Fa%2F1
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2173
-[/us/pl/112/239/s3117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3117%2Fb
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2173
 
 

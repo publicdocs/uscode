@@ -109,7 +109,7 @@
 
         (3) The Director of the National Counterterrorism Center shall monitor the implementation of strategic operational plans, and shall obtain information from each element of the intelligence community, and from each other department, agency, or element of the United States Government relevant for monitoring the progress of such entity in implementing such plans.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 119, as added [Pub. L. 108–458, title I, § 1021][/us/pl/108/458/s1021], Dec. 17, 2004, [118 Stat. 3672][/us/stat/118/3672]; amended [Pub. L. 111–259, title VIII, § 804(5)][/us/pl/111/259/s804/5], Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 119, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1021, Dec. 17, 2004, [118 Stat. 3672][/us/stat/118/3672]; amended [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 804(5), Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747].)
 
  __Codification__ 
 
@@ -125,7 +125,7 @@
 
  __Strategy for Counterterrorist Travel Intelligence__ 
 
-    [Pub. L. 108–458, title VII, § 7201(b)][/us/pl/108/458/s7201/b], Dec. 17, 2004, [118 Stat. 3809][/us/stat/118/3809], directed the Director of the National Counterterrorism Center, not later than 1 year after Dec. 17, 2004, to submit to Congress unclassified and classified versions of a strategy, to be developed in coordination with all relevant Federal agencies, for combining terrorist travel intelligence, operations, and law enforcement into a cohesive effort to intercept terrorists, find terrorist travel facilitators, and constrain terrorist mobility domestically and internationally.
+    [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7201(b), Dec. 17, 2004, [118 Stat. 3809][/us/stat/118/3809], directed the Director of the National Counterterrorism Center, not later than 1 year after Dec. 17, 2004, to submit to Congress unclassified and classified versions of a strategy, to be developed in coordination with all relevant Federal agencies, for combining terrorist travel intelligence, operations, and law enforcement into a cohesive effort to intercept terrorists, find terrorist travel facilitators, and constrain terrorist mobility domestically and internationally.
 
  __Executive Order No. 13354__ 
 
@@ -142,14 +142,14 @@
 [/us/usc/t50/s3024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fb
 [/us/usc/t50/s3024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fb
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1021
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3672
-[/us/pl/111/259/s804/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F5
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2747
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/108/458/s7201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7201%2Fb
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3809
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

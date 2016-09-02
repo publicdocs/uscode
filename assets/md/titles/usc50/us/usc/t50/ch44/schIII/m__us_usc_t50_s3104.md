@@ -99,7 +99,7 @@
 
         The reports required under subsection (a)(1) shall be submitted in unclassified form, but may include a classified annex.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506H, as added [Pub. L. 111–259, title III, § 367(a)(1)(A)][/us/pl/111/259/s367/a/1/A], Oct. 7, 2010, [124 Stat. 2703][/us/stat/124/2703]; amended [Pub. L. 114–113, div. M, title VII, § 701(a)][/us/pl/114/113/s701/a], Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506H, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 367(a)(1)(A), Oct. 7, 2010, [124 Stat. 2703][/us/stat/124/2703]; amended [Pub. L. 114–113, div. M, title VII][/us/pl/114/113/dM/tVII], § 701(a), Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929].)
 
  __Codification__ 
 
@@ -107,13 +107,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–113, § 701(a)(1)][/us/pl/114/113/s701/a/1], (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to quadrennial audit of position requirements.
+    2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113], § 701(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to quadrennial audit of position requirements.
 
-    Subsecs. (b), (c). [Pub. L. 114–113, § 701(a)(2)][/us/pl/114/113/s701/a/2], (3), redesignated subsec. (c) as (b) and substituted “The reports required under subsection (a)(1)” for “The results required under subsection (a)(2) and the reports required under subsection (b)(1)”. Former subsec. (b) redesignated (a).
+    Subsecs. (b), (c). [Pub. L. 114–113][/us/pl/114/113], § 701(a)(2), (3), redesignated subsec. (c) as (b) and substituted “The reports required under subsection (a)(1)” for “The results required under subsection (a)(2) and the reports required under subsection (b)(1)”. Former subsec. (b) redesignated (a).
 
  __Initial Audit__ 
 
-[Pub. L. 111–259, title III, § 367(a)(1)(B)][/us/pl/111/259/s367/a/1/B], Oct. 7, 2010, [124 Stat. 2704][/us/stat/124/2704], provided that: 
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 367(a)(1)(B), Oct. 7, 2010, [124 Stat. 2704][/us/stat/124/2704], provided that: 
 
 > “The first audit required to be conducted under section 506H(a)(1) of the National Security Act of 1947 \[[50 U.S.C. 3104(a)(1)][/us/usc/t50/s3104/a/1]\], as added by subparagraph (A) of this paragraph, shall be completed not later than February 1, 2011.”
 
@@ -125,14 +125,14 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s367/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs367%2Fa%2F1%2FA
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2703
-[/us/pl/114/113/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fa
+[/us/pl/114/113/dM/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtVII
 [/us/stat/129/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2929
 [/us/usc/t50/s415a–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%9310
-[/us/pl/114/113/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fa%2F1
-[/us/pl/114/113/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fa%2F2
-[/us/pl/111/259/s367/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs367%2Fa%2F1%2FB
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2704
 [/us/usc/t50/s3104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3104%2Fa%2F1
 

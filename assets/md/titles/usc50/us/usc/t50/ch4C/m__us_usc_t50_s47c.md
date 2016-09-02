@@ -17,7 +17,7 @@
 
     If the information leading to an award under [section 47b of this title][/us/usc/t50/s47b] is furnished by an alien, the Secretary of State, the Attorney General, and the Director of Central Intelligence, acting jointly, may determine that the admission of such alien into the United States is in the public interest and, in that event, such alien and the members of his immediate family may receive immigrant visas and may be admitted to the United States for permanent residence, notwithstanding the requirements of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
-([July 15, 1955, ch. 372, § 4][/us/act/1955-07-15/ch372/s4], [69 Stat. 366][/us/stat/69/366]; [Pub. L. 104–208, div. C, title III, § 308(f)(7)][/us/pl/104/208/s308/f/7], Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
+([July 15, 1955, ch. 372][/us/act/1955-07-15/ch372], § 4, [69 Stat. 366][/us/stat/69/366]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(f)(7), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t50/s47b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs47b
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/act/1955-07-15/ch372/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch372%2Fs4
+[/us/act/1955-07-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch372
 [/us/stat/69/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F366
-[/us/pl/104/208/s308/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F7
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-622
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

@@ -51,13 +51,13 @@
 
         (3) deleterious alteration of the environment.
 
-([Pub. L. 105–85, div. A, title X, § 1078][/us/pl/105/85/s1078], Nov. 18, 1997, [111 Stat. 1915][/us/stat/111/1915]; [Pub. L. 106–65, div. A, title X, § 1067(4)][/us/pl/106/65/s1067/4], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
+([Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1078, Nov. 18, 1997, [111 Stat. 1915][/us/stat/111/1915]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(4), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
  __Codification__ 
 
     Section is comprised of [section 1078 of Pub. L. 105–85][/us/pl/105/85/s1078]. Subsec. (f) of [section 1078 of Pub. L. 105–85][/us/pl/105/85/s1078] amended [section 1523(b) of this title][/us/usc/t50/s1523/b]. Subsec. (g) of [section 1078 of Pub. L. 105–85][/us/pl/105/85/s1078] repealed [section 1520 of this title][/us/usc/t50/s1520].
 
-    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
  __Amendments__ 
 
@@ -70,16 +70,16 @@
 ----------
 ----------
 
-[/us/pl/105/85/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1078
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1915
-[/us/pl/106/65/s1067/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/105/85/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1078
 [/us/pl/105/85/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1078
 [/us/usc/t50/s1523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1523%2Fb
 [/us/pl/105/85/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1078
 [/us/usc/t50/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1520
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

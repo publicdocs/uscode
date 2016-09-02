@@ -65,7 +65,7 @@
 
         (3) The Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.
 
-([Pub. L. 105–85, div. A, title II, § 234][/us/pl/105/85/s234], Nov. 18, 1997, [111 Stat. 1664][/us/stat/111/1664]; [Pub. L. 112–239, div. A, title X, § 1065(a)][/us/pl/112/239/s1065/a], Jan. 2, 2013, [126 Stat. 1941][/us/stat/126/1941].)
+([Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 234, Nov. 18, 1997, [111 Stat. 1664][/us/stat/111/1664]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1065(a), Jan. 2, 2013, [126 Stat. 1941][/us/stat/126/1941].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 
  __Development of Strategy on Risks to Nonproliferation Caused by Additive Manufacturing__ 
 
-[Pub. L. 114–92, div. C, title XXXI, § 3139][/us/pl/114/92/s3139], Nov. 25, 2015, [129 Stat. 1215][/us/stat/129/1215], provided that:
+[Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3139, Nov. 25, 2015, [129 Stat. 1215][/us/stat/129/1215], provided that:
 
 >     “(a)  __Strategy__  __.—__ 
 
@@ -143,12 +143,12 @@
 ----------
 
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/105/85/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs234
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1664
-[/us/pl/112/239/s1065/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1065%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1941
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/114/92/s3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3139
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1215
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4640

@@ -47,7 +47,7 @@
 
         In all cases, the desire to sell at higher prices and thereby obtain greater profits shall not be considered as evidence of a unique hardship, nor will circumstances where the hardship is due to imprudent acts or failure to act on the part of the petitioner.
 
-([Pub. L. 96–72, § 9][/us/pl/96/72/s9], Sept. 29, 1979, [93 Stat. 524][/us/stat/93/524].)
+([Pub. L. 96–72][/us/pl/96/72], § 9, Sept. 29, 1979, [93 Stat. 524][/us/stat/93/524].)
 
  __Termination Date__ 
 
@@ -57,7 +57,7 @@
 
     Section was formerly classified to section 2408 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2408 of the former Appendix to this title, [Pub. L. 91–184, § 9][/us/pl/91/184/s9], Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846], related to providing information to exporters, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979.
+    A prior section 2408 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 9, Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846], related to providing information to exporters, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979.
 
 ----------
 
@@ -66,10 +66,10 @@
 ----------
 ----------
 
-[/us/pl/96/72/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs9
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F524
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
-[/us/pl/91/184/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs9
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F846
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 

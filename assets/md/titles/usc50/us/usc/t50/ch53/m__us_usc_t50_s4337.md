@@ -29,7 +29,7 @@
 
  __References in Text__ 
 
-    The Nationality Act of 1940, referred to in par. (3), is [act Oct. 14, 1940, ch. 876][/us/act/1940-10-14/ch876], [54 Stat. 1137][/us/stat/54/1137], which was classified principally to chapter 11 (§ 501 et seq.) of Title 8, Aliens and Nationality, prior to repeal by [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(42), [66 Stat. 280][/us/stat/66/280]. See section 1101 et seq. of Title 8.
+    The Nationality Act of 1940, referred to in par. (3), is [act Oct. 14, 1940, ch. 876][/us/act/1940-10-14/ch876], [54 Stat. 1137][/us/stat/54/1137], which was classified principally to chapter 11 (§ 501 et seq.) of Title 8, Aliens and Nationality, prior to repeal by [act June 27, 1952, ch. 477, title IV][/us/act/1952-06-27/ch477/tIV], § 403(a)(42), [66 Stat. 280][/us/stat/66/280]. See section 1101 et seq. of Title 8.
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 [/us/stat/64/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1079
 [/us/act/1940-10-14/ch876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch876
 [/us/stat/54/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1137
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/act/1952-06-27/ch477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477%2FtIV
 [/us/stat/66/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F280
 [/us/usc/t50/s4337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4337
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301

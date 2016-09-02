@@ -49,7 +49,7 @@
 
         In this section, the term “defense nuclear facility” has the meaning given the term “Department of Energy defense nuclear facility” in [section 2286g of title 42][/us/usc/t42/s2286g].
 
-([Pub. L. 111–383, div. C, title XXXI, § 3124][/us/pl/111/383/s3124], Jan. 7, 2011, [124 Stat. 4515][/us/stat/124/4515].)
+([Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3124, Jan. 7, 2011, [124 Stat. 4515][/us/stat/124/4515].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t42/s2286g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286g
-[/us/pl/111/383/s3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3124
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4515
 
 

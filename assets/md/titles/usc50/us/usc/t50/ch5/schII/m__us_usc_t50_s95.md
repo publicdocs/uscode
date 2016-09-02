@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_ch5_schII.md) | [Next](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_s96.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs95)
+[Previous](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_s91...94.md) | [Next](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_s96.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs95)
 
 ## § 95. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_ch5_schII.md) | [Next](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_s96.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs95)
+[Previous](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_s91...94.md) | [Next](./../../../../..//us/usc/t50/ch5/schII/m__us_usc_t50_s96.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs95)
 
 ----------
 ----------

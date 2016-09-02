@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t50/ch44/schI/m__us_usc_t50_s3050.md) | [Next](./../../../../..//us/usc/t50/ch44/schI/m__us_usc_t50_s3052.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3051)
 
-## § 3051. Repealed. [Pub. L. 111–259, title III, § 347(c)][/us/pl/111/259/s347/c], Oct. 7, 2010, [124 Stat. 2698][/us/stat/124/2698]
+## § 3051. Repealed. [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 347(c), Oct. 7, 2010, [124 Stat. 2698][/us/stat/124/2698]
 
-    Section, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 114A, as added [Pub. L. 107–306, title VIII, § 823(a)][/us/pl/107/306/s823/a], Nov. 27, 2002, [116 Stat. 2427][/us/stat/116/2427]; amended [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570]; [Pub. L. 108–458, title I, § 1071(a)(4)][/us/pl/108/458/s1071/a/4], Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], related to annual report on improvement of financial statements for auditing purposes.
+    Section, [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], § 114A, as added [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 823(a), Nov. 27, 2002, [116 Stat. 2427][/us/stat/116/2427]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(g), Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(4), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], related to annual report on improvement of financial statements for auditing purposes.
 
  __Codification__ 
 
@@ -23,7 +23,7 @@
 
  __Correcting Long-Standing Material Weaknesses__ 
 
-[Pub. L. 111–259, title III, § 368][/us/pl/111/259/s368], Oct. 7, 2010, [124 Stat. 2705][/us/stat/124/2705], provided that:
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 368, Oct. 7, 2010, [124 Stat. 2705][/us/stat/124/2705], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -136,17 +136,17 @@
 ----------
 ----------
 
-[/us/pl/111/259/s347/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fc
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2698
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/107/306/s823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs823%2Fa
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2427
-[/us/pl/108/136/s921/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fg
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1570
-[/us/pl/108/458/s1071/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F4
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
 [/us/usc/t50/s404i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%E2%80%931
-[/us/pl/111/259/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs368
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2705
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/111/259/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs368

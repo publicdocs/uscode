@@ -51,7 +51,7 @@
 
         (7) The provision of cash awards and other items that the head of the element of the intelligence community considers appropriate.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1012, as added [Pub. L. 108–487, title VI, § 612(a)(2)][/us/pl/108/487/s612/a/2], Dec. 23, 2004, [118 Stat. 3956][/us/stat/118/3956].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1012, as added [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 612(a)(2), Dec. 23, 2004, [118 Stat. 3956][/us/stat/118/3956].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/487/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs612%2Fa%2F2
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3956
 [/us/usc/t50/s441j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441j%E2%80%931
 

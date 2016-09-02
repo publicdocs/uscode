@@ -71,7 +71,7 @@
 
         (5) The term “Sensitive Compartmented Information (SCI) level”, in the case of classified material, means a level of classification for information in such material concerning or derived from intelligence sources, methods, or analytical processes that requires such information to be handled within formal access control systems established by the Director of Central Intelligence.
 
-([Pub. L. 106–567, title III, § 309][/us/pl/106/567/s309], Dec. 27, 2000, [114 Stat. 2840][/us/stat/114/2840].)
+([Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 309, Dec. 27, 2000, [114 Stat. 2840][/us/stat/114/2840].)
 
  __Codification__ 
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/106/567/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs309
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2840
 [/us/usc/t50/s435a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435a
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

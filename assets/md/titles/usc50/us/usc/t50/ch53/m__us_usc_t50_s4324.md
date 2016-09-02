@@ -17,7 +17,7 @@
 
     The Alien Property Custodian is authorized and directed to return to the United States any consideration paid to him by the United States under any license, assignment, or sale by the Alien Property Custodian to the United States of any patent (or any right therein or claim thereto, and including an application therefor and any patent issued pursuant to any such application).
 
-([Oct. 6, 1917, ch. 106, § 27][/us/act/1917-10-06/ch106/s27], as added [Mar. 10, 1928, ch. 167, § 15][/us/act/1928-03-10/ch167/s15], [45 Stat. 274][/us/stat/45/274].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 27, as added [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 15, [45 Stat. 274][/us/stat/45/274].)
 
  __Codification__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs27
-[/us/act/1928-03-10/ch167/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs15
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F274
 [/us/stat/61/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F951
 

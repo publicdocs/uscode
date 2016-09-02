@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall be subject to the duties and authority of the Secretary of Defense and the departments and agencies of the Department of Defense as provided in the National Security Act of 1947.
 
-([Mar. 30, 1949, ch. 41, § 4][/us/act/1949-03-30/ch41/s4], [63 Stat. 18][/us/stat/63/18]; [Aug. 10, 1949, ch. 412, § 12(a)][/us/act/1949-08-10/ch412/s12/a], [63 Stat. 591][/us/stat/63/591].)
+([Mar. 30, 1949, ch. 41][/us/act/1949-03-30/ch41], § 4, [63 Stat. 18][/us/stat/63/18]; [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 12(a), [63 Stat. 591][/us/stat/63/591].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    “Department of Defense” substituted in text for “National Military Establishment” on authority of [act Aug. 10, 1949, ch. 412, § 12(a)][/us/act/1949-08-10/ch412/s12/a], [63 Stat. 591][/us/stat/63/591].
+    “Department of Defense” substituted in text for “National Military Establishment” on authority of [act Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 12(a), [63 Stat. 591][/us/stat/63/591].
 
 ----------
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/act/1949-03-30/ch41/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-03-30%2Fch41%2Fs4
+[/us/act/1949-03-30/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-03-30%2Fch41
 [/us/stat/63/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F18
-[/us/act/1949-08-10/ch412/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs12%2Fa
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/act/1949-08-10/ch412/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs12%2Fa
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 
 

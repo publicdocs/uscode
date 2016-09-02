@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall implement metrics to measure the impact and effectiveness of activities of the Program to address threats arising from the proliferation of chemical, nuclear, and biological weapons and weapons-related materials, technologies, and expertise.
 
-([Pub. L. 113–291, div. A, title XIII, § 1344][/us/pl/113/291/s1344], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1344, Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1344
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 
 

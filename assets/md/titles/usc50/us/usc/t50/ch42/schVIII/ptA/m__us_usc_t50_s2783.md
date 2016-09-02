@@ -41,7 +41,7 @@
 
         For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4803][/us/pl/107/314/s4803], formerly [Pub. L. 101–510, div. C, title XXXI, § 3141][/us/pl/101/510/s3141], Nov. 5, 1990, [104 Stat. 1837][/us/stat/104/1837]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4803][/us/pl/107/314/s4803], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(4)][/us/pl/108/136/s3141/k/4], Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(2)][/us/pl/113/66/s3146/i/2], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4803, formerly [Pub. L. 101–510, div. C, title XXXI][/us/pl/101/510/dC/tXXXI], § 3141, Nov. 5, 1990, [104 Stat. 1837][/us/stat/104/1837]; renumbered [Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4803, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(4), Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(i)(2), Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Codification__ 
 
@@ -51,9 +51,9 @@
 
     2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66] substituted “or by chapter 309 or 311 of title 46” for “by the Act of March 9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)”.
 
-    2003—[Pub. L. 108–136, § 3141(k)(4)(D)(i)][/us/pl/108/136/s3141/k/4/D/i], made technical amendment to section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(k)(4)(D)(i), made technical amendment to section catchline.
 
-    Subsec. (d). [Pub. L. 108–136, § 3141(k)(4)(D)(ii)][/us/pl/108/136/s3141/k/4/D/ii], substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
 
 ----------
 
@@ -65,18 +65,18 @@
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
 [/us/usc/t28/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2401%2Fb
 [/us/usc/t28/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2401%2Fb
-[/us/pl/107/314/s4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4803
-[/us/pl/101/510/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3141
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/101/510/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXI
 [/us/stat/104/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1837
-[/us/pl/107/314/s4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4803
-[/us/pl/108/136/s3141/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F4
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
-[/us/pl/113/66/s3146/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F2
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/usc/t42/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2212
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/108/136/s3141/k/4/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F4%2FD%2Fi
-[/us/pl/108/136/s3141/k/4/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F4%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

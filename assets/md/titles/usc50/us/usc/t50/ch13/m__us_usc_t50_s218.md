@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s217.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s219.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs218)
 
-## § 218. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632]
+## § 218. Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632]
 
-    Section, R.S. § 5314; [act Mar. 2, 1929, ch. 510, § 1][/us/act/1929-03-02/ch510/s1], [45 Stat. 1496][/us/stat/45/1496], related to authority of President in collection of duties to change ports of entry in case of insurrection.
+    Section, R.S. § 5314; [act Mar. 2, 1929, ch. 510][/us/act/1929-03-02/ch510], § 1, [45 Stat. 1496][/us/stat/45/1496], related to authority of President in collection of duties to change ports of entry in case of insurrection.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/act/1929-03-02/ch510/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch510%2Fs1
+[/us/act/1929-03-02/ch510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch510
 [/us/stat/45/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1496
 
 

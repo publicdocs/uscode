@@ -105,7 +105,7 @@
 
             The term “special access program” means any program that, under the authority of Executive Order 12356 (or any successor Executive order), is established by the head of a department or agency whom the President has designated in the Federal Register as an original “secret” or “top secret” classification authority that imposes “need-to-know” controls or access controls beyond those controls normally required (by regulations applicable to such department or agency) for access to information classified as “confidential”, “secret”, or “top secret”.
 
-([Pub. L. 103–160, div. A, title XI, § 1152][/us/pl/103/160/s1152], Nov. 30, 1993, [107 Stat. 1758][/us/stat/107/1758]; [Pub. L. 106–65, div. C, title XXXII, § 3294(e)(2)][/us/pl/106/65/s3294/e/2], Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970].)
+([Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1152, Nov. 30, 1993, [107 Stat. 1758][/us/stat/107/1758]; [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3294(e)(2), Oct. 5, 1999, [113 Stat. 970][/us/stat/113/970].)
 
  __References in Text__ 
 
@@ -134,9 +134,9 @@
 [/us/usc/t10/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs119
 [/us/usc/t50/s2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2426
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/103/160/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1152
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1758
-[/us/pl/106/65/s3294/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fe%2F2
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F970
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

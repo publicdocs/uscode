@@ -41,7 +41,7 @@
 
     (4) an adequate number of qualified personnel of the Department are assigned to oversee matters relating to nuclear safety at defense nuclear facilities and enforce nuclear safety standards at such facilities.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4642][/us/pl/107/314/s4642], formerly [Pub. L. 103–337, div. C, title XXXI, § 3163][/us/pl/103/337/s3163], Oct. 5, 1994, [108 Stat. 3097][/us/stat/108/3097]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4642][/us/pl/107/314/s4642], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(13)][/us/pl/108/136/s3141/i/13], Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(10)][/us/pl/113/66/s3146/g/10], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4642, formerly [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3163, Oct. 5, 1994, [108 Stat. 3097][/us/stat/108/3097]; renumbered [Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4642, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(13), Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(10), Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
     2013—[Pub. L. 113–66][/us/pl/113/66] struck out subsec. (a) designation and heading and subsec. (b) which required report regarding fulfillment of safety oversight requirements.
 
-    2003—Subsec. (b). [Pub. L. 108–136, § 3141(i)(13)(D)][/us/pl/108/136/s3141/i/13/D], substituted “January 5, 1995,” for “90 days after October 5, 1994,”.
+    2003—Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(13)(D), substituted “January 5, 1995,” for “90 days after October 5, 1994,”.
 
 ----------
 
@@ -60,17 +60,17 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4642
-[/us/pl/103/337/s3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3163
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3097
-[/us/pl/107/314/s4642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4642
-[/us/pl/108/136/s3141/i/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F13
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1779
-[/us/pl/113/66/s3146/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F10
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/usc/t42/s7274m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274m
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/108/136/s3141/i/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F13%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

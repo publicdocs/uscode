@@ -35,7 +35,7 @@
 
         Any tax exemption accorded to the Alien Property Custodian by specific provision of existing law shall not be affected by this section.
 
-([Oct. 6, 1917, ch. 106, § 36][/us/act/1917-10-06/ch106/s36], as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 305, as added [Aug. 8, 1946, ch. 878, § 1][/us/act/1946-08-08/ch878/s1], [60 Stat. 929][/us/stat/60/929].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 36, as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 305, as added [Aug. 8, 1946, ch. 878][/us/act/1946-08-08/ch878], § 1, [60 Stat. 929][/us/stat/60/929].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/act/1917-10-06/ch106/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs36
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
-[/us/act/1946-08-08/ch878/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878%2Fs1
+[/us/act/1946-08-08/ch878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878
 [/us/stat/60/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F929
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

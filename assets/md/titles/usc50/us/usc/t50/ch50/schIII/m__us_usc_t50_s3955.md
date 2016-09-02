@@ -123,7 +123,7 @@
 
             The term “continental United States” means the 48 contiguous States and the District of Columbia.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 305, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2848][/us/stat/117/2848]; amended [Pub. L. 108–454, title VII, § 704][/us/pl/108/454/s704], Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624]; [Pub. L. 111–275, title III][/us/pl/111/275], §§ 301, 303(b)(5), Oct. 13, 2010, [124 Stat. 2875][/us/stat/124/2875], 2878.)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 305, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2848][/us/stat/117/2848]; amended [Pub. L. 108–454, title VII][/us/pl/108/454/tVII], § 704, Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624]; [Pub. L. 111–275, title III][/us/pl/111/275/tIII], §§ 301, 303(b)(5), Oct. 13, 2010, [124 Stat. 2875][/us/stat/124/2875], 2878.)
 
  __Codification__ 
 
@@ -131,23 +131,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 305 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, as added [Oct. 6, 1942, ch. 581, § 12][/us/act/1942-10-06/ch581/s12], [56 Stat. 773][/us/stat/56/773]; amended [Pub. L. 102–12, § 9(9)][/us/pl/102/12/s9/9], Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See sections 3957 and 3958 of this title.
+    A prior section 305 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, as added [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 12, [56 Stat. 773][/us/stat/56/773]; amended [Pub. L. 102–12][/us/pl/102/12], § 9(9), Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See sections 3957 and 3958 of this title.
 
  __Amendments__ 
 
-    2010—Subsec. (e). [Pub. L. 111–275, § 301][/us/pl/111/275/s301], amended subsec. (e) generally. Prior to amendment, text read as follows: “Rents or lease amounts unpaid for the period preceding the effective date of the lease termination shall be paid on a prorated basis. In the case of the lease of a motor vehicle, the lessor may not impose an early termination charge, but any taxes, summonses, and title and registration fees and any other obligation and liability of the lessee in accordance with the terms of the lease, including reasonable charges to the lessee for excess wear, use and mileage, that are due and unpaid at the time of termination of the lease shall be paid by the lessee.”
+    2010—Subsec. (e). [Pub. L. 111–275][/us/pl/111/275], § 301, amended subsec. (e) generally. Prior to amendment, text read as follows: “Rents or lease amounts unpaid for the period preceding the effective date of the lease termination shall be paid on a prorated basis. In the case of the lease of a motor vehicle, the lessor may not impose an early termination charge, but any taxes, summonses, and title and registration fees and any other obligation and liability of the lessee in accordance with the terms of the lease, including reasonable charges to the lessee for excess wear, use and mileage, that are due and unpaid at the time of termination of the lease shall be paid by the lessee.”
 
-    Subsec. (h). [Pub. L. 111–275, § 303(b)(5)][/us/pl/111/275/s303/b/5], amended subsec. (h) generally. Prior to amendment, subsec. (h) related to penalties.
+    Subsec. (h). [Pub. L. 111–275][/us/pl/111/275], § 303(b)(5), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to penalties.
 
-    2004—Subsec. (a). [Pub. L. 108–454, § 704(a)][/us/pl/108/454/s704/a], amended subsec. (a) generally, designating existing provisions as par. (1), inserting par. heading, and adding par. (2).
+    2004—Subsec. (a). [Pub. L. 108–454][/us/pl/108/454], § 704(a), amended subsec. (a) generally, designating existing provisions as par. (1), inserting par. heading, and adding par. (2).
 
-    Subsec. (b)(1)(B). [Pub. L. 108–454, § 704(c)][/us/pl/108/454/s704/c], inserted “, or as an individual in support of a military operation,” after “deploy with a military unit”.
+    Subsec. (b)(1)(B). [Pub. L. 108–454][/us/pl/108/454], § 704(c), inserted “, or as an individual in support of a military operation,” after “deploy with a military unit”.
 
-    Subsec. (b)(2)(B). [Pub. L. 108–454, § 704(b)(1)][/us/pl/108/454/s704/b/1], substituted “military orders—” for “military orders for a permanent change of station outside of the continental United States or to deploy”, added cl.(i), and inserted “(ii) to deploy” before “with a military unit”.
+    Subsec. (b)(2)(B). [Pub. L. 108–454][/us/pl/108/454], § 704(b)(1), substituted “military orders—” for “military orders for a permanent change of station outside of the continental United States or to deploy”, added cl.(i), and inserted “(ii) to deploy” before “with a military unit”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 108–454, § 704(c)][/us/pl/108/454/s704/c], inserted “, or as an individual in support of a military operation,” after “deploy with a military unit”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 108–454][/us/pl/108/454], § 704(c), inserted “, or as an individual in support of a military operation,” after “deploy with a military unit”.
 
-    Subsec. (i). [Pub. L. 108–454, § 704(b)(2)][/us/pl/108/454/s704/b/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 108–454][/us/pl/108/454], § 704(b)(2), added subsec. (i).
 
 ----------
 
@@ -157,24 +157,24 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2848
-[/us/pl/108/454/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs704
+[/us/pl/108/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVII
 [/us/stat/118/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3624
-[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2875
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/act/1942-10-06/ch581/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs12
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F773
-[/us/pl/102/12/s9/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F9
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F40
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
-[/us/pl/111/275/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs301
-[/us/pl/111/275/s303/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fb%2F5
-[/us/pl/108/454/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs704%2Fa
-[/us/pl/108/454/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs704%2Fc
-[/us/pl/108/454/s704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs704%2Fb%2F1
-[/us/pl/108/454/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs704%2Fc
-[/us/pl/108/454/s704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs704%2Fb%2F2
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 
 

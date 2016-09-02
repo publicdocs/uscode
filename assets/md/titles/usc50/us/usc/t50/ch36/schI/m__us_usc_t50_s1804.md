@@ -87,27 +87,27 @@
 
             (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-([Pub. L. 95–511, title I, § 104][/us/pl/95/511/s104], Oct. 25, 1978, [92 Stat. 1788][/us/stat/92/1788]; [Pub. L. 106–567, title VI, § 602(a)][/us/pl/106/567/s602/a], Dec. 27, 2000, [114 Stat. 2851][/us/stat/114/2851]; [Pub. L. 107–56, title II, § 218][/us/pl/107/56/s218], Oct. 26, 2001, [115 Stat. 291][/us/stat/115/291]; [Pub. L. 108–458, title I, § 1071(e)][/us/pl/108/458/s1071/e], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I, § 108(a)(1)][/us/pl/109/177/s108/a/1], Mar. 9, 2006, [120 Stat. 203][/us/stat/120/203]; [Pub. L. 110–261, title I, § 104][/us/pl/110/261/s104], July 10, 2008, [122 Stat. 2460][/us/stat/122/2460]; [Pub. L. 111–259, title VIII, § 806(a)(2)][/us/pl/111/259/s806/a/2], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 104, Oct. 25, 1978, [92 Stat. 1788][/us/stat/92/1788]; [Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 602(a), Dec. 27, 2000, [114 Stat. 2851][/us/stat/114/2851]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 218, Oct. 26, 2001, [115 Stat. 291][/us/stat/115/291]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(e), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 108(a)(1), Mar. 9, 2006, [120 Stat. 203][/us/stat/120/203]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 104, July 10, 2008, [122 Stat. 2460][/us/stat/122/2460]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(a)(2), Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
 
  __Amendments__ 
 
-    2010—Subsec. (e)(1)(A). [Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458, § 1071(e)][/us/pl/108/458/s1071/e]. See 2004 Amendment note below.
+    2010—Subsec. (e)(1)(A). [Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458][/us/pl/108/458], § 1071(e). See 2004 Amendment note below.
 
-    2008—Subsec. (a)(2) to (4). [Pub. L. 110–261, § 104(1)(A)][/us/pl/110/261/s104/1/A], (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
+    2008—Subsec. (a)(2) to (4). [Pub. L. 110–261][/us/pl/110/261], § 104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
 
-    Subsec. (a)(5). [Pub. L. 110–261, § 104(1)(B)][/us/pl/110/261/s104/1/B], (C), redesignated par. (6) as (5) and struck out “detailed” before “description”. Former par. (5) redesignated (4).
+    Subsec. (a)(5). [Pub. L. 110–261][/us/pl/110/261], § 104(1)(B), (C), redesignated par. (6) as (5) and struck out “detailed” before “description”. Former par. (5) redesignated (4).
 
-    Subsec. (a)(6). [Pub. L. 110–261, § 104(1)(B)][/us/pl/110/261/s104/1/B], (D), redesignated par. (7) as (6) and substituted “Affairs,” for “Affairs or” and “Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—” for “Senate—” in introductory provisions. Former par. (6) redesignated (5).
+    Subsec. (a)(6). [Pub. L. 110–261][/us/pl/110/261], § 104(1)(B), (D), redesignated par. (7) as (6) and substituted “Affairs,” for “Affairs or” and “Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—” for “Senate—” in introductory provisions. Former par. (6) redesignated (5).
 
-    Subsec. (a)(7). [Pub. L. 110–261, § 104(1)(B)][/us/pl/110/261/s104/1/B], (E), redesignated par. (8) as (7) and substituted “summary statement of” for “statement of”. Former par. (7) redesignated (6).
+    Subsec. (a)(7). [Pub. L. 110–261][/us/pl/110/261], § 104(1)(B), (E), redesignated par. (8) as (7) and substituted “summary statement of” for “statement of”. Former par. (7) redesignated (6).
 
-    Subsec. (a)(8) to (11). [Pub. L. 110–261, § 104(1)(A)][/us/pl/110/261/s104/1/A], (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: “whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.” Former par. (8) redesignated (7).
+    Subsec. (a)(8) to (11). [Pub. L. 110–261][/us/pl/110/261], § 104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: “whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.” Former par. (8) redesignated (7).
 
-    Subsecs. (b) to (e). [Pub. L. 110–261, § 104(2)][/us/pl/110/261/s104/2]–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
+    Subsecs. (b) to (e). [Pub. L. 110–261][/us/pl/110/261], § 104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
     2006—Subsec. (a)(3). [Pub. L. 109–177][/us/pl/109/177] inserted “specific” before “target”.
 
-    2004—Subsec. (e)(1)(A). [Pub. L. 108–458, § 1071(e)][/us/pl/108/458/s1071/e], as amended by [Pub. L. 111–259][/us/pl/111/259], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (e)(1)(A). [Pub. L. 108–458][/us/pl/108/458], § 1071(e), as amended by [Pub. L. 111–259][/us/pl/111/259], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
     2001—Subsec. (a)(7)(B). [Pub. L. 107–56][/us/pl/107/56] substituted “a significant purpose” for “the purpose”.
 
@@ -138,30 +138,30 @@
 [/us/usc/t50/s1801/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fe
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
 [/us/usc/t50/s1801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F2
-[/us/pl/95/511/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs104
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1788
-[/us/pl/106/567/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fa
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2851
-[/us/pl/107/56/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs218
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F291
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/109/177/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fa%2F1
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F203
-[/us/pl/110/261/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2460
-[/us/pl/111/259/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F2
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
-[/us/pl/110/261/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FA
-[/us/pl/110/261/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FB
-[/us/pl/110/261/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FB
-[/us/pl/110/261/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FB
-[/us/pl/110/261/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FA
-[/us/pl/110/261/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567

@@ -45,7 +45,7 @@
 
         (5) for such other purposes the Director considers reasonably appropriate to carry out such program.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1022, as added [Pub. L. 111–259, title III, § 311(a)][/us/pl/111/259/s311/a], Oct. 7, 2010, [124 Stat. 2662][/us/stat/124/2662].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1022, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 311(a), Oct. 7, 2010, [124 Stat. 2662][/us/stat/124/2662].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs311%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2662
 [/us/usc/t50/s441n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441n
 

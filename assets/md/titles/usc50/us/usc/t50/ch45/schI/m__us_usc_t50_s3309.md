@@ -23,7 +23,7 @@
 
     (3) in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.
 
-([Pub. L. 111–259, title IV, § 410(b)][/us/pl/111/259/s410/b], Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725]; [Pub. L. 113–126, title III, § 329(b)(1)][/us/pl/113/126/s329/b/1], July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
+([Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 410(b), Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 329(b)(1), July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/111/259/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs410%2Fb
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2725
-[/us/pl/113/126/s329/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F1
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/92/463/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs4%2Fb%2F3
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

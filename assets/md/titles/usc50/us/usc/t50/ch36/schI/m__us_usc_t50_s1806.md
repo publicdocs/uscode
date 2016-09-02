@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a...1805c.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
 
 ## § 1806. Use of information
 
@@ -83,21 +83,21 @@
 
         (2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1804(a)(7)(B)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title or the entry of an order under [section 1805 of this title][/us/usc/t50/s1805].
 
-([Pub. L. 95–511, title I, § 106][/us/pl/95/511/s106], Oct. 25, 1978, [92 Stat. 1793][/us/stat/92/1793]; [Pub. L. 107–56, title V, § 504(a)][/us/pl/107/56/s504/a], Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 107–296, title VIII, § 898][/us/pl/107/296/s898], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 106, 110(b)(1), July 10, 2008, [122 Stat. 2462][/us/stat/122/2462], 2466; [Pub. L. 114–23, title VII, § 701(b)][/us/pl/114/23/s701/b], June 2, 2015, [129 Stat. 299][/us/stat/129/299].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 106, Oct. 25, 1978, [92 Stat. 1793][/us/stat/92/1793]; [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 504(a), Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 898, Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], §§ 106, 110(b)(1), July 10, 2008, [122 Stat. 2462][/us/stat/122/2462], 2466; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], § 701(b), June 2, 2015, [129 Stat. 299][/us/stat/129/299].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (f), was in the original “this Act”, meaning [Pub. L. 95–511][/us/pl/95/511], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
 
-    [Section 1804(a)(7)(B) of this title][/us/usc/t50/s1804/a/7/B], referred to in subsec. (k)(2), was redesignated [section 1804(a)(6)(B) of this title][/us/usc/t50/s1804/a/6/B] by [Pub. L. 110–261, title I, § 104(1)(B)][/us/pl/110/261/s104/1/B], July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
+    [Section 1804(a)(7)(B) of this title][/us/usc/t50/s1804/a/7/B], referred to in subsec. (k)(2), was redesignated [section 1804(a)(6)(B) of this title][/us/usc/t50/s1804/a/6/B] by [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 104(1)(B), July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
 
  __Amendments__ 
 
     2015—Subsec. (j). [Pub. L. 114–23][/us/pl/114/23] substituted “subsection (e) or (f) of [section 1805 of this title][/us/usc/t50/s1805]” for “[section 1805(e) of this title][/us/usc/t50/s1805/e]”.
 
-    2008—Subsec. (i). [Pub. L. 110–261, § 106][/us/pl/110/261/s106], substituted “communication” for “radio communication”.
+    2008—Subsec. (i). [Pub. L. 110–261][/us/pl/110/261], § 106, substituted “communication” for “radio communication”.
 
-    Subsec. (k)(1)(B). [Pub. L. 110–261, § 110(b)(1)][/us/pl/110/261/s110/b/1], substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+    Subsec. (k)(1)(B). [Pub. L. 110–261][/us/pl/110/261], § 110(b)(1), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
 
     2002—Subsec. (k)(1). [Pub. L. 107–296][/us/pl/107/296], in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
 
@@ -113,7 +113,7 @@
 
  __Report on Mechanisms for Determinations of Disclosure of Information for Law Enforcement Purposes__ 
 
-[Pub. L. 106–567, title VI, § 604(b)][/us/pl/106/567/s604/b], Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853], provided that:
+[Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 604(b), Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853], provided that:
 
 >     “(1) The Attorney General shall submit to the appropriate committees of Congress a report on the authorities and procedures utilized by the Department of Justice for determining whether or not to disclose information acquired under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.) for law enforcement purposes.
 
@@ -127,35 +127,35 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a...1805c.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1806)
 
 ----------
 ----------
 
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
-[/us/pl/95/511/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs106
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1793
-[/us/pl/107/56/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs504%2Fa
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F364
-[/us/pl/107/296/s898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs898
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2258
-[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2462
-[/us/pl/114/23/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs701%2Fb
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F299
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t50/s1804/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F7%2FB
 [/us/usc/t50/s1804/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F6%2FB
-[/us/pl/110/261/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FB
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2461
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
 [/us/usc/t50/s1805/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805%2Fe
-[/us/pl/110/261/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs106
-[/us/pl/110/261/s110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fb%2F1
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
@@ -166,7 +166,7 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/106/567/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs604%2Fb
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2853
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 

@@ -17,7 +17,7 @@
 
     The President may use the authority of sections 3171 and 3172 of this title to stay the imposition of an economic, cultural, diplomatic, or other sanction or related action by the United States Government related to the proliferation of weapons of mass destruction, their delivery systems, or advanced conventional weapons otherwise required to be imposed by the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991 (title III of [Public Law 102–182][/us/pl/102/182]) \[[22 U.S.C. 5601][/us/usc/t22/s5601] et seq.\]; the Nuclear Proliferation Prevention Act of 1994 (title VIII of [Public Law 103–236][/us/pl/103/236]); title XVII of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]) (relating to the nonproliferation of missile technology); the Iran-Iraq Arms Nonproliferation Act of 1992 (title XVI of [Public Law 102–484][/us/pl/102/484]); section 573 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1994 ([Public Law 103–87][/us/pl/103/87]); section 563 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1995 ([Public Law 103–306][/us/pl/103/306]); and comparable provisions.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title IX, § 904, as added [Pub. L. 104–93, title III, § 303(a)][/us/pl/104/93/s303/a], Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title IX, § 904, as added [Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 303(a), Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965].)
 
  __References in Text__ 
 
@@ -29,9 +29,9 @@
 
     The Iran-Iraq Arms Nonproliferation Act of 1992, referred to in text, is title XVI of div. A of [Pub. L. 102–484][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2571][/us/stat/106/2571], as amended, which is set out as a note under [section 1701 of this title][/us/usc/t50/s1701].
 
-    Section 573 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1994, referred to in text, probably means section 573 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994, [Pub. L. 103–87, title V][/us/pl/103/87], Sept. 30, 1993, [107 Stat. 972][/us/stat/107/972], which is not classified to the Code.
+    Section 573 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1994, referred to in text, probably means section 573 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994, [Pub. L. 103–87, title V][/us/pl/103/87/tV], Sept. 30, 1993, [107 Stat. 972][/us/stat/107/972], which is not classified to the Code.
 
-    Section 563 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1995, referred to in text, probably means section 563 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995, [Pub. L. 103–306, title V][/us/pl/103/306], Aug. 23, 1994, [108 Stat. 1649][/us/stat/108/1649], which is not classified to the Code.
+    Section 563 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1995, referred to in text, probably means section 563 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995, [Pub. L. 103–306, title V][/us/pl/103/306/tV], Aug. 23, 1994, [108 Stat. 1649][/us/stat/108/1649], which is not classified to the Code.
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 [/us/pl/103/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87
 [/us/pl/103/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/104/93/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs303%2Fa
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F965
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/stat/105/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1245
@@ -69,9 +69,9 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2571
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/103/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87
+[/us/pl/103/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2FtV
 [/us/stat/107/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F972
-[/us/pl/103/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1649
 [/us/usc/t50/s441c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441c
 

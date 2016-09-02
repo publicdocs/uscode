@@ -73,7 +73,7 @@
 
             For purposes of paragraph (1), the term “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
 
-([Pub. L. 88–643, title II, § 291][/us/pl/88/643/s291], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3240][/us/stat/106/3240]; amended [Pub. L. 103–178, title II, § 202(a)(14)][/us/pl/103/178/s202/a/14], Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 291, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3240][/us/stat/106/3240]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(14), Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 291 of Pub. L. 88–643][/us/pl/88/643/s291], title II, Oct. 13, 1964, [78 Stat. 1054][/us/stat/78/1054]; [Pub. L. 90–539][/us/pl/90/539], Sept. 30, 1968, [82 Stat. 902][/us/stat/82/902]; [Pub. L. 91–185, § 5][/us/pl/91/185/s5], Dec. 30, 1969, [83 Stat. 849][/us/stat/83/849]; [Pub. L. 93–210, § 1(a)][/us/pl/93/210/s1/a], Dec. 28, 1973, [87 Stat. 908][/us/stat/87/908]; [Pub. L. 94–361, title VIII, § 801(b)][/us/pl/94/361/s801/b], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; Ex. Ord. No. 12326, § 4, Sept. 30, 1981, 46 F.R. 48889; Ex. Ord. No. 12443, §§ 6, 14, Sept. 27, 1983, 48 F.R. 44752, 44754; [Pub. L. 99–335, title V, § 501(3)][/us/pl/99/335/s501/3], June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to cost-of-living adjustment of annuities and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 291 of Pub. L. 88–643][/us/pl/88/643/s291], title II, Oct. 13, 1964, [78 Stat. 1054][/us/stat/78/1054]; [Pub. L. 90–539][/us/pl/90/539], Sept. 30, 1968, [82 Stat. 902][/us/stat/82/902]; [Pub. L. 91–185][/us/pl/91/185], § 5, Dec. 30, 1969, [83 Stat. 849][/us/stat/83/849]; [Pub. L. 93–210][/us/pl/93/210], § 1(a), Dec. 28, 1973, [87 Stat. 908][/us/stat/87/908]; [Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 801(b), July 14, 1976, [90 Stat. 929][/us/stat/90/929]; Ex. Ord. No. 12326, § 4, Sept. 30, 1981, 46 F.R. 48889; Ex. Ord. No. 12443, §§ 6, 14, Sept. 27, 1983, 48 F.R. 44752, 44754; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 501(3), June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to cost-of-living adjustment of annuities and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -107,23 +107,23 @@
 [/us/usc/t50/s2031/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031%2Fd
 [/us/usc/t50/s2031/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031%2Fd
 [/us/usc/t50/s2031/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031%2Fd%2F3
-[/us/pl/88/643/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs291
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3240
-[/us/pl/103/178/s202/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F14
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2027
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/88/643/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs291
 [/us/stat/78/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1054
 [/us/pl/90/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F539
 [/us/stat/82/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F902
-[/us/pl/91/185/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F185%2Fs5
+[/us/pl/91/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F185
 [/us/stat/83/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F849
-[/us/pl/93/210/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F210%2Fs1%2Fa
+[/us/pl/93/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F210
 [/us/stat/87/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F908
-[/us/pl/94/361/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs801%2Fb
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F929
-[/us/pl/99/335/s501/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs501%2F3
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

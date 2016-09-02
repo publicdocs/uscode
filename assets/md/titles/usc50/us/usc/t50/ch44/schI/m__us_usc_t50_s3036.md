@@ -59,7 +59,7 @@
 
         (2) The Director of the Central Intelligence Agency may, in the discretion of the Director, waive the application of paragraph (1) to any position, category of positions, or occupation otherwise covered by that paragraph if the Director determines that foreign language proficiency is not necessary for the successful performance of the duties and responsibilities of such position, category of positions, or occupation.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 104A, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3660][/us/stat/118/3660]; amended [Pub. L. 108–487, title VI, § 611(a)][/us/pl/108/487/s611/a], Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954]; [Pub. L. 111–259, title VIII, § 804(4)][/us/pl/111/259/s804/4], Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747]; [Pub. L. 112–87, title IV, § 412(a)][/us/pl/112/87/s412/a], Jan. 3, 2012, [125 Stat. 1890][/us/stat/125/1890].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 104A, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3660][/us/stat/118/3660]; amended [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 611(a), Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 804(4), Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747]; [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 412(a), Jan. 3, 2012, [125 Stat. 1890][/us/stat/125/1890].)
 
  __Codification__ 
 
@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (g)(1). [Pub. L. 112–87, § 412(a)(1)][/us/pl/112/87/s412/a/1], inserted “in the Directorate of Intelligence career service or the National Clandestine Service career service” after “an individual” and “or promoted” after “appointed”, substituted “individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate.” for “individual—”, and struck out subpars. (A) and (B) which related to required level of proficiency in a foreign language and ability to effectively communicate and exercise influence in that language, respectively.
+    2012—Subsec. (g)(1). [Pub. L. 112–87][/us/pl/112/87], § 412(a)(1), inserted “in the Directorate of Intelligence career service or the National Clandestine Service career service” after “an individual” and “or promoted” after “appointed”, substituted “individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate.” for “individual—”, and struck out subpars. (A) and (B) which related to required level of proficiency in a foreign language and ability to effectively communicate and exercise influence in that language, respectively.
 
-    Subsec. (g)(2). [Pub. L. 112–87, § 412(a)(2)][/us/pl/112/87/s412/a/2], substituted “position, category of positions, or occupation” for “ position or category of positions” in two places.
+    Subsec. (g)(2). [Pub. L. 112–87][/us/pl/112/87], § 412(a)(2), substituted “position, category of positions, or occupation” for “ position or category of positions” in two places.
 
     2010—Subsec. (g)(1). [Pub. L. 111–259][/us/pl/111/259] substituted “National Clandestine Service” for “Directorate of Operations” in introductory provisions.
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–487, title VI, § 611(b)][/us/pl/108/487/s611/b], Dec. 23, 2004, [118 Stat. 3955][/us/stat/118/3955], as amended by [Pub. L. 112–87, title IV, § 412(b)][/us/pl/112/87/s412/b], Jan. 3, 2012, [125 Stat. 1890][/us/stat/125/1890], provided that: 
+[Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 611(b), Dec. 23, 2004, [118 Stat. 3955][/us/stat/118/3955], as amended by [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 412(b), Jan. 3, 2012, [125 Stat. 1890][/us/stat/125/1890], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to appointments or promotions made on or after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
@@ -89,7 +89,7 @@
 
  __Creating an Official Record of the Osama Bin Laden Operation__ 
 
-[Pub. L. 112–87, title IV, § 414][/us/pl/112/87/s414], Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891], provided that:
+[Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 414, Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Annual Report on Foreign Companies Involved in the Proliferation of Weapons of Mass Destruction That Raise Funds in the United States Capital Markets__ 
 
-    [Pub. L. 107–306, title VIII, § 827][/us/pl/107/306/s827], Nov. 27, 2002, [116 Stat. 2430][/us/stat/116/2430], required Director of Central Intelligence to submit annual report on foreign companies involved in the proliferation of weapons of mass destruction that raised or attempted to raise funds in the United States capital markets, prior to repeal by [Pub. L. 108–177, title III, § 361(e)][/us/pl/108/177/s361/e], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625].
+    [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 827, Nov. 27, 2002, [116 Stat. 2430][/us/stat/116/2430], required Director of Central Intelligence to submit annual report on foreign companies involved in the proliferation of weapons of mass destruction that raised or attempted to raise funds in the United States capital markets, prior to repeal by [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(e), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625].
 
  __Executive Order No. 13355__ 
 
@@ -156,34 +156,34 @@
 
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3660
-[/us/pl/108/487/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs611%2Fa
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3954
-[/us/pl/111/259/s804/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F4
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2747
-[/us/pl/112/87/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs412%2Fa
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1890
 [/us/usc/t50/s403–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934a
-[/us/pl/112/87/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs412%2Fa%2F1
-[/us/pl/112/87/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs412%2Fa%2F2
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
-[/us/pl/108/487/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs611%2Fb
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3955
-[/us/pl/112/87/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs412%2Fb
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1890
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/112/87/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs414
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1891
 [/us/pl/112/87/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs414
 [/us/pl/112/87/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/107/306/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs827
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2430
-[/us/pl/108/177/s361/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fe
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2625
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

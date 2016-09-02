@@ -21,7 +21,7 @@
 
     (2) The term “minor construction threshold” means $10,000,000.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4701][/us/pl/107/314/s4701], formerly div. C, title XXXVI, § 3620, Dec. 2, 2002, [116 Stat. 2756][/us/stat/116/2756]; renumbered div. D, title XLVII, § 4701, by [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 111–84, div. C, title XXXI, § 3118(a)][/us/pl/111/84/s3118/a], (b), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709]; [Pub. L. 111–383, div. C, title XXXI, § 3121(a)][/us/pl/111/383/s3121/a], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(I)][/us/pl/113/66/s3146/a/2/I], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4701, formerly div. C, title XXXVI, § 3620, Dec. 2, 2002, [116 Stat. 2756][/us/stat/116/2756]; renumbered div. D, title XLVII, § 4701, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(j)(2)(A)–(C), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3118(a), (b), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709]; [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3121(a), Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(a)(2)(I), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __Codification__ 
 
@@ -33,13 +33,13 @@
 
     2011—Par. (3). [Pub. L. 111–383][/us/pl/111/383] substituted “$10,000,000” for “$5,000,000”.
 
-    2009—Par. (3). [Pub. L. 111–84, § 3118(b)][/us/pl/111/84/s3118/b], substituted “$5,000,000” for “$10,000,000”.
+    2009—Par. (3). [Pub. L. 111–84][/us/pl/111/84], § 3118(b), substituted “$5,000,000” for “$10,000,000”.
 
-    [Pub. L. 111–84, § 3118(a)][/us/pl/111/84/s3118/a], substituted “$10,000,000” for “$5,000,000”.
+    [Pub. L. 111–84][/us/pl/111/84], § 3118(a), substituted “$10,000,000” for “$5,000,000”.
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. C, title XXXI, § 3118(b)][/us/pl/111/84/s3118/b], Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709], provided that the amendment made by section 3118(b) is effective Sept. 30, 2010.
+    [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3118(b), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709], provided that the amendment made by section 3118(b) is effective Sept. 30, 2010.
 
 ----------
 
@@ -48,23 +48,23 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4701
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
 [/us/stat/116/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2756
-[/us/pl/108/136/s3141/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
-[/us/pl/111/84/s3118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fa
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2709
-[/us/pl/111/383/s3121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3121%2Fa
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
-[/us/pl/113/66/s3146/a/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FI
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t42/s7386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s3118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fb
-[/us/pl/111/84/s3118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fa
-[/us/pl/111/84/s3118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fb
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2709
 
 

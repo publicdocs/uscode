@@ -31,7 +31,7 @@
 
         (4) Providing for international nuclear safety.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3215][/us/pl/106/65/s3215], Oct. 5, 1999, [113 Stat. 959][/us/stat/113/959].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3215, Oct. 5, 1999, [113 Stat. 959][/us/stat/113/959].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3215
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F959
 
 

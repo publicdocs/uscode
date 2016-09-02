@@ -17,7 +17,7 @@
 
     The Director shall cause a seal of office to be made for the Central Intelligence Agency, of such design as the President shall approve, and judicial notice shall be taken thereof.
 
-([June 20, 1949, ch. 227, § 2][/us/act/1949-06-20/ch227/s2], [63 Stat. 208][/us/stat/63/208]; [Pub. L. 108–458, title I, § 1071(b)(2)(A)][/us/pl/108/458/s1071/b/2/A], Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 2, [63 Stat. 208][/us/stat/63/208]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(b)(2)(A), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1949-06-20/ch227/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs2
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/stat/63/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F208
-[/us/pl/108/458/s1071/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F2%2FA
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
 [/us/usc/t50/s403b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403b
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

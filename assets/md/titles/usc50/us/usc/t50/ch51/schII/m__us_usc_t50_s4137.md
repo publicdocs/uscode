@@ -17,7 +17,7 @@
 
     With respect to any claim which, at the time of the award, is vested in persons other than the person by whom the loss was sustained, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimant therein; and all such claimants shall participate, in proportion to their indicated interests, in the payments authorized by this subchapter in all respects as if the award had been in favor of a single person.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 207, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1110][/us/stat/76/1110].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 207, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1110][/us/stat/76/1110].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1110
 
 

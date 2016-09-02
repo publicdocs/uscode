@@ -35,7 +35,7 @@
 
         Any person subpoenaed under this section shall have the right to make a record of his testimony and to be represented by counsel.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 705, [64 Stat. 816][/us/stat/64/816]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(d), [65 Stat. 139][/us/stat/65/139]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, § 117, [66 Stat. 306][/us/stat/66/306]; [June 30, 1953, ch. 171, § 9][/us/act/1953-06-30/ch171/s9], [67 Stat. 131][/us/stat/67/131]; [Pub. L. 91–452, title II, § 251][/us/pl/91/452/s251], Oct. 15, 1970, [84 Stat. 931][/us/stat/84/931]; [Pub. L. 102–558, title I, § 142][/us/pl/102/558/s142], Oct. 28, 1992, [106 Stat. 4217][/us/stat/106/4217]; [Pub. L. 108–195, § 4][/us/pl/108/195/s4], Dec. 19, 2003, [117 Stat. 2893][/us/stat/117/2893].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 705, [64 Stat. 816][/us/stat/64/816]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(d), [65 Stat. 139][/us/stat/65/139]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, § 117, [66 Stat. 306][/us/stat/66/306]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], § 9, [67 Stat. 131][/us/stat/67/131]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 251, Oct. 15, 1970, [84 Stat. 931][/us/stat/84/931]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 142, Oct. 28, 1992, [106 Stat. 4217][/us/stat/106/4217]; [Pub. L. 108–195][/us/pl/108/195], § 4, Dec. 19, 2003, [117 Stat. 2893][/us/stat/117/2893].)
 
  __Termination of Section__ 
 
@@ -53,15 +53,15 @@
 
     2003—Subsec. (a). [Pub. L. 108–195][/us/pl/108/195] inserted after first sentence “The authority of the President under this section includes the authority to obtain information in order to perform industry studies assessing the capabilities of the United States industrial base to support the national defense.”
 
-    1992—Subsec. (a). [Pub. L. 102–558, § 142(1)][/us/pl/102/558/s142/1], substituted “subpoena” for “subpena” in two places.
+    1992—Subsec. (a). [Pub. L. 102–558][/us/pl/102/558], § 142(1), substituted “subpoena” for “subpena” in two places.
 
-    Subsec. (b). [Pub. L. 102–558, § 142(1)][/us/pl/102/558/s142/1], (2), redesignated subsec. (c) as (b) and substituted “subpoena” for “subpena”.
+    Subsec. (b). [Pub. L. 102–558][/us/pl/102/558], § 142(1), (2), redesignated subsec. (c) as (b) and substituted “subpoena” for “subpena”.
 
-    Subsec. (c). [Pub. L. 102–558, § 142(2)][/us/pl/102/558/s142/2], (3), redesignated subsec. (d) as (c) and substituted “$10,000” for “$1,000”. Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 102–558][/us/pl/102/558], § 142(2), (3), redesignated subsec. (d) as (c) and substituted “$10,000” for “$1,000”. Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 102–558, § 142(2)][/us/pl/102/558/s142/2], (4), redesignated subsec. (e) as (d) and struck out second undesignated par. which read as follows: “All information obtained by the Office of Price Stabilization under this section, as amended, and not made public prior to April 30, 1953, shall be deemed confidential and shall not be published or disclosed, either to the public or to another Federal agency except the Congress or any duly authorized committee thereof, and except the Department of Justice for such use as it may deem necessary in the performance of its functions, unless the President determines that the withholding thereof is contrary to the interests of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both.” Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 102–558][/us/pl/102/558], § 142(2), (4), redesignated subsec. (e) as (d) and struck out second undesignated par. which read as follows: “All information obtained by the Office of Price Stabilization under this section, as amended, and not made public prior to April 30, 1953, shall be deemed confidential and shall not be published or disclosed, either to the public or to another Federal agency except the Congress or any duly authorized committee thereof, and except the Department of Justice for such use as it may deem necessary in the performance of its functions, unless the President determines that the withholding thereof is contrary to the interests of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both.” Former subsec. (d) redesignated (c).
 
-    Subsecs. (e), (f). [Pub. L. 102–558, § 142(2)][/us/pl/102/558/s142/2], (5), redesignated subsec. (f) as (e) and substituted “subpoenaed” for “subpenaed”. Former subsec. (e) redesignated (d).
+    Subsecs. (e), (f). [Pub. L. 102–558][/us/pl/102/558], § 142(2), (5), redesignated subsec. (f) as (e) and substituted “subpoenaed” for “subpenaed”. Former subsec. (e) redesignated (d).
 
     1970—Subsec. (b). [Pub. L. 91–452][/us/pl/91/452] struck out subsec. (b) which related to immunity from prosecution of any natural person compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination, and that any such immunity granted would not be construed to vest in any individual any right to priorities assistance, to the allocation of materials, or to any other benefit within the power of the President to grant under sections 4501 to 4564 of this title.
 
@@ -96,24 +96,24 @@
 [/us/stat/65/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F139
 [/us/act/1952-06-30/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530
 [/us/stat/66/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F306
-[/us/act/1953-06-30/ch171/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171%2Fs9
+[/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F131
-[/us/pl/91/452/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs251
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F931
-[/us/pl/102/558/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs142
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4217
-[/us/pl/108/195/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs4
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
 [/us/stat/117/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2893
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
-[/us/pl/102/558/s142/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs142%2F1
-[/us/pl/102/558/s142/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs142%2F1
-[/us/pl/102/558/s142/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs142%2F2
-[/us/pl/102/558/s142/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs142%2F2
-[/us/pl/102/558/s142/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs142%2F2
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304

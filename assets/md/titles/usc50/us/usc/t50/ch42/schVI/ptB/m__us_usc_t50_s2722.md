@@ -29,23 +29,23 @@
 
         As part of the training and recruitment program, the Secretary, in coordination with the directors of the national security laboratories, shall establish for the laboratories a retiree corps of retired scientists who have expertise in research and development of nuclear weapons. The directors may employ the retired scientists on a part-time basis to provide appropriate assistance on nuclear weapons issues, to contribute relevant information to be archived, and to help to provide training to other scientists.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4622][/us/pl/107/314/s4622], formerly [Pub. L. 103–337, div. C, title XXXI, § 3131][/us/pl/103/337/s3131], Oct. 5, 1994, [108 Stat. 3085][/us/stat/108/3085]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4622][/us/pl/107/314/s4622], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(9)][/us/pl/108/136/s3141/i/9], Nov. 24, 2003, [117 Stat. 1778][/us/stat/117/1778]; [Pub. L. 112–239, div. C, title XXXI, § 3131(r)][/us/pl/112/239/s3131/r], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(7)][/us/pl/113/66/s3146/g/7], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4622, formerly [Pub. L. 103–337, div. C, title XXXI][/us/pl/103/337/dC/tXXXI], § 3131, Oct. 5, 1994, [108 Stat. 3085][/us/stat/108/3085]; renumbered [Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4622, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(9), Nov. 24, 2003, [117 Stat. 1778][/us/stat/117/1778]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(r), Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(7), Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–66, § 3146(g)(7)(A)][/us/pl/113/66/s3146/g/7/A], substituted “national security laboratories” for “Sandia National Laboratories, the Lawrence Livermore National Laboratory, and the Los Alamos National Laboratory”.
+    2013—Subsec. (a)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(g)(7)(A), substituted “national security laboratories” for “Sandia National Laboratories, the Lawrence Livermore National Laboratory, and the Los Alamos National Laboratory”.
 
-    Subsec. (b). [Pub. L. 113–66, § 3146(g)(7)(B)][/us/pl/113/66/s3146/g/7/B], substituted “national security laboratories” for “laboratories referred to in subsection (a)(1)”.
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 3146(g)(7)(B), substituted “national security laboratories” for “laboratories referred to in subsection (a)(1)”.
 
-    [Pub. L. 112–239, § 3131(r)(1)][/us/pl/112/239/s3131/r/1], struck out par. (1) designation and struck out par. (2) which read as follows: “Of the amounts authorized to be appropriated to the Secretary of Energy in section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]) for weapons activities for core research and development and allocated by the Secretary for education initiatives, $5,000,000 shall be available for employing students and fellows to carry out research referred to in paragraph (1). The amount available under this paragraph shall be allocated equally among the laboratories referred to in subsection (a)(1).”
+    [Pub. L. 112–239][/us/pl/112/239], § 3131(r)(1), struck out par. (1) designation and struck out par. (2) which read as follows: “Of the amounts authorized to be appropriated to the Secretary of Energy in section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]) for weapons activities for core research and development and allocated by the Secretary for education initiatives, $5,000,000 shall be available for employing students and fellows to carry out research referred to in paragraph (1). The amount available under this paragraph shall be allocated equally among the laboratories referred to in subsection (a)(1).”
 
-    Subsec. (c). [Pub. L. 113–66, § 3146(g)(7)(B)][/us/pl/113/66/s3146/g/7/B], substituted “national security laboratories” for “laboratories referred to in subsection (a)(1)”.
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 3146(g)(7)(B), substituted “national security laboratories” for “laboratories referred to in subsection (a)(1)”.
 
-    Subsec. (d). [Pub. L. 112–239, § 3131(r)(2)][/us/pl/112/239/s3131/r/2], struck out subsec. (d), which required the Secretary to submit to the Committees on Armed Services of the Senate and House of Representatives a report on the demographic trends of personnel.
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 3131(r)(2), struck out subsec. (d), which required the Secretary to submit to the Committees on Armed Services of the Senate and House of Representatives a report on the demographic trends of personnel.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–136, § 3141(i)(9)(D)(i)][/us/pl/108/136/s3141/i/9/D/i], substituted “[section 2521 of this title][/us/usc/t50/s2521]” for “section 3138 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [107 Stat. 1946][/us/stat/107/1946]; [42 U.S.C. 2121][/us/usc/t42/s2121] note)”.
+    2003—Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(9)(D)(i), substituted “[section 2521 of this title][/us/usc/t50/s2521]” for “section 3138 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [107 Stat. 1946][/us/stat/107/1946]; [42 U.S.C. 2121][/us/usc/t42/s2121] note)”.
 
-    Subsec. (b)(2). [Pub. L. 108–136, § 3141(i)(9)(D)(ii)][/us/pl/108/136/s3141/i/9/D/ii], inserted “of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337])” after “section 3101(a)(1)”.
+    Subsec. (b)(2). [Pub. L. 108–136][/us/pl/108/136], § 3141(i)(9)(D)(ii), inserted “of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337])” after “section 3101(a)(1)”.
 
 ----------
 
@@ -56,28 +56,28 @@
 
 [/us/usc/t50/s2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2521
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
-[/us/pl/107/314/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4622
-[/us/pl/103/337/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3131
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/103/337/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXI
 [/us/stat/108/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3085
-[/us/pl/107/314/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4622
-[/us/pl/108/136/s3141/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F9
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1778
-[/us/pl/112/239/s3131/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fr
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2184
-[/us/pl/113/66/s3146/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F7
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
-[/us/pl/113/66/s3146/g/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F7%2FA
-[/us/pl/113/66/s3146/g/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F7%2FB
-[/us/pl/112/239/s3131/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fr%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/113/66/s3146/g/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F7%2FB
-[/us/pl/112/239/s3131/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fr%2F2
-[/us/pl/108/136/s3141/i/9/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F9%2FD%2Fi
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2521
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/stat/107/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1946
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
-[/us/pl/108/136/s3141/i/9/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F9%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

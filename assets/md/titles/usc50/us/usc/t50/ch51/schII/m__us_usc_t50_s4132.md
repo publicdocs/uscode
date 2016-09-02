@@ -43,7 +43,7 @@
 
         (3) the loss or destruction, as a result of such action, of property on such vessel, as determined by the Commission to be reasonable, useful, necessary, or proper under the circumstances, which property was owned by any civilian national of the United States who was then a passenger on such vessel; and in the case of the death of any person suffering such loss, awards under this paragraph shall be made only to or for the benefit of the persons designated in paragraph (1) of this subsection and in the order of priority named therein.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 202, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 202, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/act/1946-04-30/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch243
 [/us/stat/60/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F128

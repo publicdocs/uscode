@@ -17,7 +17,7 @@
 
     Any joint resolution or bill introduced in either House which requires the removal of United States Armed Forces engaged in hostilities outside the territory of the United States, its possessions and territories, without a declaration of war or specific statutory authorization shall be considered in accordance with the procedures of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, except that any such resolution or bill shall be amendable. If such a joint resolution or bill should be vetoed by the President, the time for debate in consideration of the veto message on such measure shall be limited to twenty hours in the Senate and in the House shall be determined in accordance with the Rules of the House.
 
-([Pub. L. 98–164, title X, § 1013][/us/pl/98/164/s1013], Nov. 22, 1983, [97 Stat. 1062][/us/stat/97/1062].)
+([Pub. L. 98–164, title X][/us/pl/98/164/tX], § 1013, Nov. 22, 1983, [97 Stat. 1062][/us/stat/97/1062].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/164/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1013
+[/us/pl/98/164/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtX
 [/us/stat/97/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1062
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F765

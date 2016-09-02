@@ -73,7 +73,7 @@
 
         (2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 113–291, div. A, title XIII, § 1325][/us/pl/113/291/s1325], Dec. 19, 2014, [128 Stat. 3600][/us/stat/128/3600].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1325, Dec. 19, 2014, [128 Stat. 3600][/us/stat/128/3600].)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/113/291/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1325
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3600
 
 

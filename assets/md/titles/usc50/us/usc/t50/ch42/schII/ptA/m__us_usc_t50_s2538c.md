@@ -51,7 +51,7 @@
 
         (2) The term “unencumbered”, with respect to uranium, means that the United States has no obligation to foreign governments to use the uranium for only peaceful purposes.
 
-([Pub. L. 107–314, div. D, title XLII, § 4221][/us/pl/107/314/s4221], as added [Pub. L. 114–92, div. C, title XXXI, § 3131(a)][/us/pl/114/92/s3131/a], Nov. 25, 2015, [129 Stat. 1201][/us/stat/129/1201].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4221, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3131(a), Nov. 25, 2015, [129 Stat. 1201][/us/stat/129/1201].)
 
 ----------
 
@@ -61,8 +61,8 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/107/314/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4221
-[/us/pl/114/92/s3131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3131%2Fa
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1201
 
 

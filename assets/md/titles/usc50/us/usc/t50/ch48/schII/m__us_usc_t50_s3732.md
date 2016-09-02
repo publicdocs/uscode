@@ -65,7 +65,7 @@
 
         In any case in which the Secretary directs an on-site manager to resume the participation of the United States in a project under subsection (c)(4), the Secretary shall notify the congressional defense committees of such direction by not later than 30 days after the date of such direction.
 
-([Pub. L. 113–291, div. A, title XIII, § 1332][/us/pl/113/291/s1332], Dec. 19, 2014, [128 Stat. 3601][/us/stat/128/3601].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1332, Dec. 19, 2014, [128 Stat. 3601][/us/stat/128/3601].)
 
 ----------
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t50/s3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3733
-[/us/pl/113/291/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1332
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3601
 
 

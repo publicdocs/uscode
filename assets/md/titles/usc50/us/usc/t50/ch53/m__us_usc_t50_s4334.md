@@ -17,7 +17,7 @@
 
     The Alien Property Custodian may procure insurance in such amounts, and from such insurers, as he believes will adequately protect him against loss in connection with property or interest or proceeds held by him.
 
-([Oct. 6, 1917, ch. 106, § 37][/us/act/1917-10-06/ch106/s37], as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 305, as added [Aug. 8, 1946, ch. 878, § 1][/us/act/1946-08-08/ch878/s1], [60 Stat. 930][/us/stat/60/930].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 37, as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 305, as added [Aug. 8, 1946, ch. 878][/us/act/1946-08-08/ch878], § 1, [60 Stat. 930][/us/stat/60/930].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs37
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
-[/us/act/1946-08-08/ch878/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878%2Fs1
+[/us/act/1946-08-08/ch878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878
 [/us/stat/60/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F930
 [/us/stat/61/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F951
 

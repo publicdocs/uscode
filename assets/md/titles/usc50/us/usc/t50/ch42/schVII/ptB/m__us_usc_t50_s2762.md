@@ -21,7 +21,7 @@
 
     (2) the President has specifically requested appropriations for compliance and Congress has failed to appropriate funds for such purpose.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4722][/us/pl/107/314/s4722], formerly [Pub. L. 96–540, title II, § 211][/us/pl/96/540/s211], Dec. 17, 1980, [94 Stat. 3203][/us/stat/94/3203]; renumbered [Pub. L. 107–314, div. D, title XLVII, § 4722][/us/pl/107/314/s4722], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(5)][/us/pl/108/136/s3141/j/5], Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI, § 3146(h)(6)][/us/pl/113/66/s3146/h/6], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081]; [Pub. L. 113–291, div. C, title XXXI, § 3142(r)][/us/pl/113/291/s3142/r], Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4722, formerly [Pub. L. 96–540, title II][/us/pl/96/540/tII], § 211, Dec. 17, 1980, [94 Stat. 3203][/us/stat/94/3203]; renumbered [Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4722, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(j)(5), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(h)(6), Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3142(r), Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
     Provisions similar to those in this section were contained in the following appropriations act:
 
-    [Pub. L. 96–164, title II, § 211][/us/pl/96/164/s211], Dec. 29, 1979, [93 Stat. 1264][/us/stat/93/1264].
+    [Pub. L. 96–164, title II][/us/pl/96/164/tII], § 211, Dec. 29, 1979, [93 Stat. 1264][/us/stat/93/1264].
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
     2013—[Pub. L. 113–66][/us/pl/113/66] inserted “; [94 Stat. 3197][/us/stat/94/3197]” after “[Public Law 96–540][/us/pl/96/540]” and substituted “Congress” for “the Congress”.
 
-    2003—[Pub. L. 108–136, § 3141(j)(5)(C)][/us/pl/108/136/s3141/j/5/C], made technical amendment to section catchline and substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([Public Law 96–540][/us/pl/96/540]) or any other Act” for “this or any other Act” in text.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(j)(5)(C), made technical amendment to section catchline and substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([Public Law 96–540][/us/pl/96/540]) or any other Act” for “this or any other Act” in text.
 
 ----------
 
@@ -57,15 +57,15 @@
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
 [/us/stat/94/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3197
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/107/314/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4722
-[/us/pl/96/540/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540%2Fs211
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
+[/us/pl/96/540/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540%2FtII
 [/us/stat/94/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3203
-[/us/pl/107/314/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4722
-[/us/pl/108/136/s3141/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F5
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
-[/us/pl/113/66/s3146/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F6
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
-[/us/pl/113/291/s3142/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fr
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
 [/us/stat/94/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3197
@@ -75,13 +75,13 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7273
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/96/164/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2Fs211
+[/us/pl/96/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F164%2FtII
 [/us/stat/93/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1264
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/94/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3197
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
-[/us/pl/108/136/s3141/j/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F5%2FC
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/96/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F540
 
 

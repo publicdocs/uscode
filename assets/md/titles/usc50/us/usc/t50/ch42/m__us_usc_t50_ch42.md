@@ -769,15 +769,15 @@ Part A—Safeguards and Security  </td>
 
   <tr>
 
-    <td> 2658, 2659. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2658" data-uslm-ref="/us/usc/t50/s2658">2658</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2659" data-uslm-ref="/us/usc/t50/s2659">2659.</a>  </td>
 
-    <td> 2660.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
   <tr>
 
-    <td>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2660" data-uslm-ref="/us/usc/t50/s2660">2660.</a>  </td>
 
     <td> Design and use of prototypes of nuclear weapons for intelligence purposes.  </td>
 

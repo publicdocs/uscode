@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schV/ptA/m__us_usc_t50_s2657.md) | [Next](./../../../../../..//us/usc/t50/ch42/schV/ptA/m__us_usc_t50_s2659.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2658)
 
-## § 2658. Repealed. [Pub. L. 113–66, div. C, title XXXI, § 3132(a)(1)][/us/pl/113/66/s3132/a/1], Dec. 26, 2013, [127 Stat. 1068][/us/stat/127/1068]
+## § 2658. Repealed. [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3132(a)(1), Dec. 26, 2013, [127 Stat. 1068][/us/stat/127/1068]
 
-    Section, [Pub. L. 107–314, div. D, title XLV, § 4507][/us/pl/107/314/s4507], formerly [Pub. L. 106–65, div. C, title XXXI, § 3152][/us/pl/106/65/s3152], Oct. 5, 1999, [113 Stat. 940][/us/stat/113/940]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4507][/us/pl/107/314/s4507], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(8)][/us/pl/108/136/s3141/h/8], Nov. 24, 2003, [117 Stat. 1773][/us/stat/117/1773]; [Pub. L. 112–239, div. C, title XXXI, § 3131(n)(1)][/us/pl/112/239/s3131/n/1], Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], related to the annual submission and contents of a report on counterintelligence and security practices at national security laboratories.
+    Section, [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4507, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3152, Oct. 5, 1999, [113 Stat. 940][/us/stat/113/940]; renumbered [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4507, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(8), Nov. 24, 2003, [117 Stat. 1773][/us/stat/117/1773]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(n)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], related to the annual submission and contents of a report on counterintelligence and security practices at national security laboratories.
 
 ----------
 
@@ -24,15 +24,15 @@
 ----------
 ----------
 
-[/us/pl/113/66/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3132%2Fa%2F1
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1068
-[/us/pl/107/314/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4507
-[/us/pl/106/65/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3152
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F940
-[/us/pl/107/314/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4507
-[/us/pl/108/136/s3141/h/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F8
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1773
-[/us/pl/112/239/s3131/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fn%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2183
 
 

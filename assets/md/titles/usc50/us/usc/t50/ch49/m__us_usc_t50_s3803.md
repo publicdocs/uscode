@@ -85,11 +85,11 @@
 
             the period of active service in the Armed Forces of the age group or groups designated in any such resolution shall be so decreased or eliminated, as the case may be. Whenever the period of active service required under this chapter of persons who have not attained the nineteenth anniversary of the day of their birth has been reduced or eliminated by the President or as a result of the adoption of a concurrent resolution of the Congress in accordance with the foregoing provisions of this section, all individuals then or thereafter liable for registration under this chapter who on that date have not attained the nineteenth anniversary of the day of their birth and have not been inducted into the Armed Forces shall be liable, effective on such date, for induction into the National Security Training Corps as hereinafter established for initial military training for a period of six months.
 
-        (3), (4) Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656].
+        (3), (4) Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656].
 
         (5) The Commission shall, subject to the direction of the President, exercise general supervision over the training of the National Security Training Corps, which training shall be basic military training. The Commission shall establish such policies and standards with respect to the conduct of the training of members of the National Security Training Corps as are necessary to carry out the purposes of this Act. The Commission shall make adequate provisions for the moral and spiritual welfare of members of the National Security Training Corps. The Secretary of Defense shall designate the military departments to carry out such training. Each military department so designated shall carry out such military training in accordance with the policies and standards of the Commission. The military department or departments so designated to carry out such military training shall, subject to the approval of the Secretary of Defense, and subject to the policies and standards established by the Commission, determine the type or types of basic military training to be given to members of the National Security Training Corps.
 
-        (6) Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656].
+        (6) Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656].
 
         (7)
 
@@ -125,7 +125,7 @@
 
     (l) __Terminated__ 
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 4, [62 Stat. 605][/us/stat/62/605]; [Sept. 9, 1950, ch. 939, § 1][/us/act/1950-09-09/ch939/s1], [64 Stat. 826][/us/stat/64/826]; [Sept. 27, 1950, ch. 1059][/us/act/1950-09-27/ch1059], §§ 1(1)–(5), 3(a), [64 Stat. 1073][/us/stat/64/1073]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(d)–(j), [65 Stat. 76][/us/stat/65/76]; [July 9, 1952, ch. 608][/us/act/1952-07-09/ch608], pt. VIII, § 813, [66 Stat. 509][/us/stat/66/509]; [June 29, 1953, ch. 158][/us/act/1953-06-29/ch158], §§ 1, 2, 6, [67 Stat. 86][/us/stat/67/86], 89; [June 30, 1955, ch. 250][/us/act/1955-06-30/ch250], title II, § 202, [69 Stat. 224][/us/stat/69/224]; [Aug. 9, 1955, ch. 665, § 3(a)][/us/act/1955-08-09/ch665/s3/a], [69 Stat. 602][/us/stat/69/602]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], §§ 22(a)–(c), 53, [70A Stat. 630][/us/stat/70A/630], 641; [Pub. L. 85–62][/us/pl/85/62], §§ 1–3, June 27, 1957, [71 Stat. 206][/us/stat/71/206], 207; [Pub. L. 85–564][/us/pl/85/564], July 28, 1958, [72 Stat. 424][/us/stat/72/424]; [Pub. L. 85–861][/us/pl/85/861], §§ 9, 36A, Sept. 2, 1958, [72 Stat. 1556][/us/stat/72/1556], 1569; [Pub. L. 87–651, title III, § 301][/us/pl/87/651/s301], Sept. 7, 1962, [76 Stat. 524][/us/stat/76/524]; [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656]; [Pub. L. 90–40, § 1(2)][/us/pl/90/40/s1/2], June 30, 1967, [81 Stat. 100][/us/stat/81/100]; [Pub. L. 92–129, title I, § 101(a)(3)][/us/pl/92/129/s101/a/3]–(7), Sept. 28, 1971, [85 Stat. 348][/us/stat/85/348], 349; [Pub. L. 94–106, title VIII, § 802(c)][/us/pl/94/106/s802/c], Oct. 7, 1975, [89 Stat. 537][/us/stat/89/537]; [Pub. L. 105–85, div. A, title VI, § 603(d)(5)][/us/pl/105/85/s603/d/5], Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783]; [Pub. L. 107–296, title XVII, § 1704(e)(11)(A)][/us/pl/107/296/s1704/e/11/A], (B), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 4, [62 Stat. 605][/us/stat/62/605]; [Sept. 9, 1950, ch. 939][/us/act/1950-09-09/ch939], § 1, [64 Stat. 826][/us/stat/64/826]; [Sept. 27, 1950, ch. 1059][/us/act/1950-09-27/ch1059], §§ 1(1)–(5), 3(a), [64 Stat. 1073][/us/stat/64/1073]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(d)–(j), [65 Stat. 76][/us/stat/65/76]; [July 9, 1952, ch. 608][/us/act/1952-07-09/ch608], pt. VIII, § 813, [66 Stat. 509][/us/stat/66/509]; [June 29, 1953, ch. 158][/us/act/1953-06-29/ch158], §§ 1, 2, 6, [67 Stat. 86][/us/stat/67/86], 89; [June 30, 1955, ch. 250][/us/act/1955-06-30/ch250], title II, § 202, [69 Stat. 224][/us/stat/69/224]; [Aug. 9, 1955, ch. 665][/us/act/1955-08-09/ch665], § 3(a), [69 Stat. 602][/us/stat/69/602]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], §§ 22(a)–(c), 53, [70A Stat. 630][/us/stat/70A/630], 641; [Pub. L. 85–62][/us/pl/85/62], §§ 1–3, June 27, 1957, [71 Stat. 206][/us/stat/71/206], 207; [Pub. L. 85–564][/us/pl/85/564], July 28, 1958, [72 Stat. 424][/us/stat/72/424]; [Pub. L. 85–861][/us/pl/85/861], §§ 9, 36A, Sept. 2, 1958, [72 Stat. 1556][/us/stat/72/1556], 1569; [Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 301, Sept. 7, 1962, [76 Stat. 524][/us/stat/76/524]; [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656]; [Pub. L. 90–40][/us/pl/90/40], § 1(2), June 30, 1967, [81 Stat. 100][/us/stat/81/100]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(3)–(7), Sept. 28, 1971, [85 Stat. 348][/us/stat/85/348], 349; [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 802(c), Oct. 7, 1975, [89 Stat. 537][/us/stat/89/537]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(d)(5), Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(11)(A), (B), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].)
 
  __Termination of Induction for Training and Service__ 
 
@@ -159,17 +159,17 @@
 
     1975—Subsec. (a). [Pub. L. 94–106][/us/pl/94/106] in paragraph relating to military training for persons inducted after June 19, 1951, for service in the armed force into which they were inducted, substituted twelve weeks for four months in two places.
 
-    1971—Subsec. (a). [Pub. L. 92–129, § 101(a)(3)][/us/pl/92/129/s101/a/3], (4), struck out provisions which had given special coverage for male aliens and substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+    1971—Subsec. (a). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(3), (4), struck out provisions which had given special coverage for male aliens and substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-    Subsec. (b). [Pub. L. 92–129, § 101(a)(5)][/us/pl/92/129/s101/a/5], substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+    Subsec. (b). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(5), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-    Subsec. (d)(1). [Pub. L. 92–129, § 101(a)(6)][/us/pl/92/129/s101/a/6], struck out “(except a person enlisted under subsection (g) of this section)” after “inducted, enlisted, or appointed”.
+    Subsec. (d)(1). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(6), struck out “(except a person enlisted under subsection (g) of this section)” after “inducted, enlisted, or appointed”.
 
-    Subsec. (d)(3). [Pub. L. 92–129, § 101(a)(7)][/us/pl/92/129/s101/a/7], substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+    Subsec. (d)(3). [Pub. L. 92–129][/us/pl/92/129], § 101(a)(7), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-    1967—Subsec. (a). [Pub. L. 90–40, § 1(2)(a)][/us/pl/90/40/s1/2/a], inserted proviso that registrants failing or refusing to report for induction continue to remain liable for induction and to be immediately inducted when available.
+    1967—Subsec. (a). [Pub. L. 90–40][/us/pl/90/40], § 1(2)(a), inserted proviso that registrants failing or refusing to report for induction continue to remain liable for induction and to be immediately inducted when available.
 
-    Subsec. (g). [Pub. L. 90–40, § 1(2)(b)][/us/pl/90/40/s1/2/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 90–40][/us/pl/90/40], § 1(2)(b), added subsec. (g).
 
     1966—Subsec. (k)(3), (4), (6). [Pub. L. 89–554][/us/pl/89/554] repealed pars. (3), (4) and (6) which established the National Security Training Commission, provided for its composition, tenure, pay and duties, and authorized appointment and pay of employees.
 
@@ -239,7 +239,7 @@
 
  __Effective and Termination Dates of 1957 Amendment__ 
 
-[Pub. L. 85–62, § 9][/us/pl/85/62/s9], June 27, 1957, [71 Stat. 208][/us/stat/71/208], as amended by [Pub. L. 86–4, § 4][/us/pl/86/4/s4], Mar. 23, 1959, [73 Stat. 13][/us/stat/73/13]; [Pub. L. 88–2, § 4][/us/pl/88/2/s4], Mar. 28, 1963, [77 Stat. 4][/us/stat/77/4]; [Pub. L. 90–40, § 4][/us/pl/90/40/s4], June 30, 1967, [81 Stat. 105][/us/stat/81/105]; [Pub. L. 92–129, title I, § 103][/us/pl/92/129/s103], Sept. 28, 1971, [85 Stat. 355][/us/stat/85/355], provided that: 
+[Pub. L. 85–62][/us/pl/85/62], § 9, June 27, 1957, [71 Stat. 208][/us/stat/71/208], as amended by [Pub. L. 86–4][/us/pl/86/4], § 4, Mar. 23, 1959, [73 Stat. 13][/us/stat/73/13]; [Pub. L. 88–2][/us/pl/88/2], § 4, Mar. 28, 1963, [77 Stat. 4][/us/stat/77/4]; [Pub. L. 90–40][/us/pl/90/40], § 4, June 30, 1967, [81 Stat. 105][/us/stat/81/105]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 103, Sept. 28, 1971, [85 Stat. 355][/us/stat/85/355], provided that: 
 
 > “This Act \[see Tables for classification\] takes effect July 1, 1957, and shall terminate July 1, 1973.”
 
@@ -249,7 +249,7 @@
 
  __Termination Date of Subsection (i) and Former Subsection (j)__ 
 
-    [Act Sept. 9, 1950, ch. 939, § 7][/us/act/1950-09-09/ch939/s7], [64 Stat. 828][/us/stat/64/828], as amended by acts June 19, 1951, § 2(b); June 29, 1953, § 9; and June 30, 1955, § 201, and by [Pub. L. 85–62, § 8][/us/pl/85/62/s8], provided that subsecs. (i) and (j) of this section, which were added by act Sept. 9, 1950, shall terminate as of June 30, 1957. See Effective and Termination Dates of 1957 Amendment note set out above with respect to subsec. (j) as reenacted and amended by [Pub. L. 85–62][/us/pl/85/62].
+    [Act Sept. 9, 1950, ch. 939][/us/act/1950-09-09/ch939], § 7, [64 Stat. 828][/us/stat/64/828], as amended by acts June 19, 1951, § 2(b); June 29, 1953, § 9; and June 30, 1955, § 201, and by [Pub. L. 85–62][/us/pl/85/62], § 8, provided that subsecs. (i) and (j) of this section, which were added by act Sept. 9, 1950, shall terminate as of June 30, 1957. See Effective and Termination Dates of 1957 Amendment note set out above with respect to subsec. (j) as reenacted and amended by [Pub. L. 85–62][/us/pl/85/62].
 
  __Transfer of Functions__ 
 
@@ -336,14 +336,14 @@
 [/us/stat/56/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F143
 [/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
 [/us/stat/65/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F80
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F656
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F656
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F605
-[/us/act/1950-09-09/ch939/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch939%2Fs1
+[/us/act/1950-09-09/ch939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch939
 [/us/stat/64/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F826
 [/us/act/1950-09-27/ch1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059
 [/us/stat/64/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1073
@@ -355,7 +355,7 @@
 [/us/stat/67/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F86
 [/us/act/1955-06-30/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch250
 [/us/stat/69/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F224
-[/us/act/1955-08-09/ch665/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch665%2Fs3%2Fa
+[/us/act/1955-08-09/ch665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch665
 [/us/stat/69/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F602
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F630
@@ -365,19 +365,19 @@
 [/us/stat/72/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F424
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1556
-[/us/pl/87/651/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs301
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F524
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F656
-[/us/pl/90/40/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F2
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/stat/81/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F100
-[/us/pl/92/129/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F3
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F348
-[/us/pl/94/106/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs802%2Fc
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F537
-[/us/pl/105/85/s603/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F5
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1783
-[/us/pl/107/296/s1704/e/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F11%2FA
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
 [/us/usc/t50/s3815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3815%2Fc
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
@@ -396,12 +396,12 @@
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/pl/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106
-[/us/pl/92/129/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F3
-[/us/pl/92/129/s101/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F5
-[/us/pl/92/129/s101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F6
-[/us/pl/92/129/s101/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F7
-[/us/pl/90/40/s1/2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F2%2Fa
-[/us/pl/90/40/s1/2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs1%2F2%2Fb
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/92/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/pl/85/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F564
@@ -416,21 +416,21 @@
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/85/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fe
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/85/62/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62%2Fs9
+[/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
 [/us/stat/71/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F208
-[/us/pl/86/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F4%2Fs4
+[/us/pl/86/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F4
 [/us/stat/73/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F13
-[/us/pl/88/2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F2%2Fs4
+[/us/pl/88/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F2
 [/us/stat/77/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F4
-[/us/pl/90/40/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs4
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/stat/81/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F105
-[/us/pl/92/129/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs103
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F355
 [/us/act/1952-07-09/ch608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-09%2Fch608
 [/us/stat/66/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F509
-[/us/act/1950-09-09/ch939/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch939%2Fs7
+[/us/act/1950-09-09/ch939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch939
 [/us/stat/64/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F828
-[/us/pl/85/62/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62%2Fs8
+[/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
 [/us/pl/85/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F62
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t50/s3803/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fi%2F2

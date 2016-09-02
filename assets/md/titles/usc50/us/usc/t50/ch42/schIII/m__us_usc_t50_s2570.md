@@ -35,7 +35,7 @@
 
         Of the funds authorized to be appropriated to the Department of Energy for nonproliferation and international security for fiscal year 2005, up to $10,000,000 may be used to carry out this section.
 
-([Pub. L. 108–375, div. C, title XXXI, § 3133][/us/pl/108/375/s3133], Oct. 28, 2004, [118 Stat. 2168][/us/stat/118/2168].)
+([Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3133, Oct. 28, 2004, [118 Stat. 2168][/us/stat/118/2168].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3133
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2168
 
 

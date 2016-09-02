@@ -55,7 +55,7 @@
 
         It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President’s Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 119A, as added [Pub. L. 108–458, title I, § 1022][/us/pl/108/458/s1022], Dec. 17, 2004, [118 Stat. 3675][/us/stat/118/3675]; amended [Pub. L. 111–259, title IV, § 407(a)][/us/pl/111/259/s407/a], Oct. 7, 2010, [124 Stat. 2721][/us/stat/124/2721].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 119A, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1022, Dec. 17, 2004, [118 Stat. 3675][/us/stat/118/3675]; amended [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 407(a), Oct. 7, 2010, [124 Stat. 2721][/us/stat/124/2721].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1022
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3675
-[/us/pl/111/259/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs407%2Fa
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2721
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

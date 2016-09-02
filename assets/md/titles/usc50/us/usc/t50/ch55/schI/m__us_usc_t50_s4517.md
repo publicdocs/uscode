@@ -45,7 +45,7 @@
 
             (D) developing substitutes for a critical component or a critical technology item.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 107, as added [Pub. L. 102–558, title I, § 111][/us/pl/102/558/s111], Oct. 28, 1992, [106 Stat. 4201][/us/stat/106/4201]; amended [Pub. L. 111–67, § 6][/us/pl/111/67/s6], Sept. 30, 2009, [123 Stat. 2009][/us/stat/123/2009].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 107, as added [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 111, Oct. 28, 1992, [106 Stat. 4201][/us/stat/106/4201]; amended [Pub. L. 111–67][/us/pl/111/67], § 6, Sept. 30, 2009, [123 Stat. 2009][/us/stat/123/2009].)
 
  __Termination of Section__ 
 
@@ -55,19 +55,19 @@
 
     Section was formerly classified to section 2077 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (b)(2)(B)(ii), “[section 3303(a)(1)(B) of title 41][/us/usc/t41/s3303/a/1/B] or [section 3304(a)(3) of title 41][/us/usc/t41/s3304/a/3]” substituted for “section 303(b)(1)(B) or section 303(c)(3) of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(2)(B)(ii), “[section 3303(a)(1)(B) of title 41][/us/usc/t41/s3303/a/1/B] or [section 3304(a)(3) of title 41][/us/usc/t41/s3304/a/3]” substituted for “section 303(b)(1)(B) or section 303(c)(3) of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–67, § 6(1)][/us/pl/111/67/s6/1], inserted “restore,” after “modernize,” and “materials,” after “items,”.
+    2009—Subsec. (a). [Pub. L. 111–67][/us/pl/111/67], § 6(1), inserted “restore,” after “modernize,” and “materials,” after “items,”.
 
-    Subsec. (b). [Pub. L. 111–67, § 6(2)(A)][/us/pl/111/67/s6/2/A], (B), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows:
+    Subsec. (b). [Pub. L. 111–67][/us/pl/111/67], § 6(2)(A), (B), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows:
 
     “(A) In general.—The President, acting through the Secretary of Defense, shall identify critical components and critical technology items for each item on the Critical Items List of the Commanders-in-Chief of the Unified and Specified Commands and other items within the inventory of weapon systems and defense equipment.
 
     “(B) Definition.—Any component identified as critical by a National Security Assessment conducted pursuant to [section 113(i) of title 10][/us/usc/t10/s113/i] or by a Presidential determination as a result of a petition filed under [section 1862 of title 19][/us/usc/t19/s1862] shall be designated as a critical component for purposes of this chapter, unless the President determines that the designation is unwarranted.”
 
-    Subsec. (b)(1). [Pub. L. 111–67, § 6(2)(C)][/us/pl/111/67/s6/2/C], substituted “, critical technology items, essential materials, and industrial resources” for “or critical technology items”.
+    Subsec. (b)(1). [Pub. L. 111–67][/us/pl/111/67], § 6(2)(C), substituted “, critical technology items, essential materials, and industrial resources” for “or critical technology items”.
 
  __Effective Date__ 
 
@@ -90,20 +90,20 @@
 [/us/usc/t41/s3303/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3303%2Fa%2F1%2FB
 [/us/usc/t41/s3304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F3
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/558/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs111
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4201
-[/us/pl/111/67/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs6
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2009
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/usc/t41/s3303/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3303%2Fa%2F1%2FB
 [/us/usc/t41/s3304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F3
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/67/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs6%2F1
-[/us/pl/111/67/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs6%2F2%2FA
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t10/s113/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fi
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862
-[/us/pl/111/67/s6/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs6%2F2%2FC
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761

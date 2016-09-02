@@ -17,7 +17,7 @@
 
     For purposes of this chapter, “energy” shall be designated as a “strategic and critical material” after June 30, 1980: Provided, That no provision of this chapter shall, by virtue of such designation  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  grant any new direct or indirect authority to the President for the mandatory allocation or pricing of any fuel or feedstock (including, but not limited to, crude oil, residual fuel oil, any refined petroleum product, natural gas, or coal) or electricity or any other form of energy.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 106, as added [Pub. L. 96–294, title I, § 103][/us/pl/96/294/s103], June 30, 1980, [94 Stat. 617][/us/stat/94/617]; amended [Pub. L. 111–67, § 5][/us/pl/111/67/s5], Sept. 30, 2009, [123 Stat. 2009][/us/stat/123/2009].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 106, as added [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 103, June 30, 1980, [94 Stat. 617][/us/stat/94/617]; amended [Pub. L. 111–67][/us/pl/111/67], § 5, Sept. 30, 2009, [123 Stat. 2009][/us/stat/123/2009].)
 
  __Termination of Section__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/96/294/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs103
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F617
-[/us/pl/111/67/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs5
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2009
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932

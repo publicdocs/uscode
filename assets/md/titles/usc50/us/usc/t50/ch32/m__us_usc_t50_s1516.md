@@ -17,7 +17,7 @@
 
     None of the funds authorized to be appropriated by this Act shall be used for the procurement of delivery systems specifically designed to disseminate lethal chemical or any biological warfare agents, or for the procurement of delivery system parts or components specifically designed for such purpose, unless the President shall certify to the Congress that such procurement is essential to the safety and security of the United States.
 
-([Pub. L. 91–441, title V, § 506(a)][/us/pl/91/441/s506/a], Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912].)
+([Pub. L. 91–441, title V][/us/pl/91/441/tV], § 506(a), Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912].)
 
  __References in Text__ 
 
@@ -25,9 +25,9 @@
 
  __Codification__ 
 
-    Section was not enacted as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was not enacted as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
-    Section is from the Armed Forces-Military Procurement, 1971 act, [Pub. L. 91–441][/us/pl/91/441]. Provisions similar to those in this section were contained in [Pub. L. 91–121, title IV, § 409(f)][/us/pl/91/121/s409/f], Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210].
+    Section is from the Armed Forces-Military Procurement, 1971 act, [Pub. L. 91–441][/us/pl/91/441]. Provisions similar to those in this section were contained in [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409(f), Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210].
 
 ----------
 
@@ -36,14 +36,14 @@
 ----------
 ----------
 
-[/us/pl/91/441/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fa
+[/us/pl/91/441/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtV
 [/us/stat/84/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F912
 [/us/pl/91/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441
 [/us/stat/84/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F912
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 [/us/pl/91/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441
-[/us/pl/91/121/s409/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409%2Ff
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F210
 
 

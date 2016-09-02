@@ -17,11 +17,11 @@
 
     Such prizes and capture shall be condemned in the district court of the United States having jurisdiction of the amount, or in admiralty in any district in which the same may be seized, or into which they may be taken and proceedings first instituted.
 
-(R.S. § 5309; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 253][/us/stat/19/253]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167].)
+(R.S. § 5309; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 253][/us/stat/19/253]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167].)
 
  __Codification__ 
 
-    R.S. § 5309 derived from [act Aug. 6, 1861, ch. 60, § 2][/us/act/1861-08-06/ch60/s2], [12 Stat. 319][/us/stat/12/319].
+    R.S. § 5309 derived from [act Aug. 6, 1861, ch. 60][/us/act/1861-08-06/ch60], § 2, [12 Stat. 319][/us/stat/12/319].
 
     Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F253
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/act/1861-08-06/ch60/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-06%2Fch60%2Fs2
+[/us/act/1861-08-06/ch60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-06%2Fch60
 [/us/stat/12/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F319
 
 

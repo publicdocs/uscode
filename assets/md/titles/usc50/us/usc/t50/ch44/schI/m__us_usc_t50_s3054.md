@@ -29,7 +29,7 @@
 
         (2) Any United States national who was killed while engaged in activities on behalf of the United States and whose remains have not been repatriated to the United States.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 117, as added [Pub. L. 106–567, title III, § 307(a)][/us/pl/106/567/s307/a], Dec. 27, 2000, [114 Stat. 2839][/us/stat/114/2839]; amended [Pub. L. 108–458, title I, § 1071(a)(1)(T)][/us/pl/108/458/s1071/a/1/T], Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 117, as added [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 307(a), Dec. 27, 2000, [114 Stat. 2839][/us/stat/114/2839]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(T), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689].)
 
  __Codification__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t10/s1513/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1513%2F1
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/106/567/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs307%2Fa
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2839
-[/us/pl/108/458/s1071/a/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FT
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

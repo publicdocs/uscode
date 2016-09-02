@@ -51,7 +51,7 @@
 
         Nothing in this section shall be construed to transfer to a person entitled to a copyright divested hereunder the right of the Attorney General to sue for the infringement of such copyright during the period between (1) the vesting thereof or the vesting of rights and interests in a contract entered into with respect thereto, and (2) the day of divestment. The right to sue for infringement shall remain in the Attorney General.
 
-([Oct. 6, 1917, ch. 106, § 41][/us/act/1917-10-06/ch106/s41], as added [Pub. L. 87–846, title II, § 206][/us/pl/87/846/s206], Oct. 22, 1962, [76 Stat. 1115][/us/stat/76/1115]; amended [Pub. L. 88–490][/us/pl/88/490], Aug. 26, 1964, [78 Stat. 607][/us/stat/78/607]; [Pub. L. 97–164, title I, § 161(9)][/us/pl/97/164/s161/9], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 41, as added [Pub. L. 87–846, title II][/us/pl/87/846/tII], § 206, Oct. 22, 1962, [76 Stat. 1115][/us/stat/76/1115]; amended [Pub. L. 88–490][/us/pl/88/490], Aug. 26, 1964, [78 Stat. 607][/us/stat/78/607]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 161(9), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -88,14 +88,14 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs41
-[/us/pl/87/846/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs206
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/pl/87/846/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtII
 [/us/stat/76/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1115
 [/us/pl/88/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F490
 [/us/stat/78/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F607
-[/us/pl/97/164/s161/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs161%2F9
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

@@ -27,7 +27,7 @@
 
         If the clause is omitted based on a determination under clause (2), a written report shall be furnished to the Congress.
 
-([Pub. L. 85–804, § 3][/us/pl/85/804/s3], Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972]; [Pub. L. 89–607, § 3][/us/pl/89/607/s3], Sept. 27, 1966, [80 Stat. 851][/us/stat/80/851].)
+([Pub. L. 85–804][/us/pl/85/804], § 3, Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972]; [Pub. L. 89–607][/us/pl/89/607], § 3, Sept. 27, 1966, [80 Stat. 851][/us/stat/80/851].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/85/804/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804%2Fs3
+[/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
 [/us/stat/72/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F972
-[/us/pl/89/607/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607%2Fs3
+[/us/pl/89/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607
 [/us/stat/80/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F851
 [/us/pl/89/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

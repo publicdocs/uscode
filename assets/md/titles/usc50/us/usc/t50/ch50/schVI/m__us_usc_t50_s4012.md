@@ -41,7 +41,7 @@
 
         A servicemember who has been reported missing is presumed to continue in service until accounted for. A requirement under this chapter that begins or ends with the death of a servicemember does not begin or end until the servicemember’s death is reported to, or determined by, the Secretary concerned or by a court of competent jurisdiction.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VI, § 602, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2859][/us/stat/117/2859].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VI, § 602, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2859][/us/stat/117/2859].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2859
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1191

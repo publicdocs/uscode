@@ -21,7 +21,7 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 107–314, div. D, title XLV, § 4501][/us/pl/107/314/s4501], formerly [Pub. L. 104–106, div. C, title XXXI, § 3154][/us/pl/104/106/s3154], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4501][/us/pl/107/314/s4501], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(2)][/us/pl/108/136/s3141/h/2], Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771]; [Pub. L. 112–239, div. C, title XXXI, § 3131(j)][/us/pl/112/239/s3131/j], Jan. 2, 2013, [126 Stat. 2182][/us/stat/126/2182]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(F)][/us/pl/113/66/s3146/a/2/F], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073]; [Pub. L. 113–291, div. C, title XXXI, § 3142(j)][/us/pl/113/291/s3142/j], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
+([Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4501, formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3154, Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624]; renumbered [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4501, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(2), Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(j), Jan. 2, 2013, [126 Stat. 2182][/us/stat/126/2182]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(a)(2)(F), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3142(j), Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
     Subsec. (c). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (c), which defined “restricted data”.
 
-    2003—[Pub. L. 108–136, § 3141(h)(2)(D)][/us/pl/108/136/s3141/h/2/D], redesignated par. (1) of subsec. (a) as entire subsec. (a) and par. (2) of subsec. (a) as subsec. (c) and, in subsec. (c), inserted heading and substituted “In this section” for “For purposes of paragraph (1)”. Subsec. (c) was editorially transferred to follow subsec. (b), to reflect the probable intent of Congress.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(h)(2)(D), redesignated par. (1) of subsec. (a) as entire subsec. (a) and par. (2) of subsec. (a) as subsec. (c) and, in subsec. (c), inserted heading and substituted “In this section” for “For purposes of paragraph (1)”. Subsec. (c) was editorially transferred to follow subsec. (b), to reflect the probable intent of Congress.
 
 ----------
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4501
-[/us/pl/104/106/s3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3154
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F624
-[/us/pl/107/314/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4501
-[/us/pl/108/136/s3141/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F2
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1771
-[/us/pl/112/239/s3131/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fj
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2182
-[/us/pl/113/66/s3146/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FF
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
-[/us/pl/113/291/s3142/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fj
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/pl/107/314/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4501
 [/us/pl/107/314/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4501
@@ -67,6 +67,6 @@
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/108/136/s3141/h/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F2%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

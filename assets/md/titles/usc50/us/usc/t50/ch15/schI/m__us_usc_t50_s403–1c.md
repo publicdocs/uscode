@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section 403–1c, comprising section 1053 of the National Security Intelligence Reform Act of 2004, [Pub. L. 108–458, title I][/us/pl/108/458], and also of the Intelligence Reform and Terrorism Prevention Act of 2004, [Pub. L. 108–458][/us/pl/108/458], was editorially reclassified as [section 3321 of this title][/us/usc/t50/s3321].
+    Section 403–1c, comprising section 1053 of the National Security Intelligence Reform Act of 2004, [Pub. L. 108–458, title I][/us/pl/108/458/tI], and also of the Intelligence Reform and Terrorism Prevention Act of 2004, [Pub. L. 108–458][/us/pl/108/458], was editorially reclassified as [section 3321 of this title][/us/usc/t50/s3321].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3321
 

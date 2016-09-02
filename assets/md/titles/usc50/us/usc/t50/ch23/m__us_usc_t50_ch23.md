@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_ch22A.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
+[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_s751...755.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
 
 ## CHAPTER 23—INTERNAL SECURITY
 
@@ -269,7 +269,7 @@ Application to Communist Party Members  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_ch22A.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
+[Previous](./../../../..//us/usc/t50/ch22A/m__us_usc_t50_s751...755.md) | [Next](./../../../..//us/usc/t50/ch23/schI/m__us_usc_t50_ch23_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch23)
 
 ----------
 ----------

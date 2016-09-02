@@ -57,7 +57,7 @@
 
         In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
 
-([Pub. L. 95–223, title II, § 203][/us/pl/95/223/s203], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626]; [Pub. L. 100–418, title II, § 2502(b)(1)][/us/pl/100/418/s2502/b/1], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]; [Pub. L. 103–236, title V, § 525(c)(1)][/us/pl/103/236/s525/c/1], Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474]; [Pub. L. 107–56, title I, § 106][/us/pl/107/56/s106], Oct. 26, 2001, [115 Stat. 277][/us/stat/115/277].)
+([Pub. L. 95–223, title II][/us/pl/95/223/tII], § 203, Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2502(b)(1), Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]; [Pub. L. 103–236, title V][/us/pl/103/236/tV], § 525(c)(1), Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474]; [Pub. L. 107–56, title I][/us/pl/107/56/tI], § 106, Oct. 26, 2001, [115 Stat. 277][/us/stat/115/277].)
 
  __References in Text__ 
 
@@ -65,17 +65,17 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–56, § 106][/us/pl/107/56/s106], which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 106, which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
 
-    Subsec. (a)(1). [Pub. L. 107–56, § 106(1)(C)][/us/pl/107/56/s106/1/C], which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
+    Subsec. (a)(1). [Pub. L. 107–56][/us/pl/107/56], § 106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 107–56, § 106(1)(A)][/us/pl/107/56/s106/1/A], substituted a comma for “; and” at end of cl. (iii) and inserted concluding provisions.
+    Subsec. (a)(1)(A). [Pub. L. 107–56][/us/pl/107/56], § 106(1)(A), substituted a comma for “; and” at end of cl. (iii) and inserted concluding provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 107–56, § 106(1)(B)][/us/pl/107/56/s106/1/B], inserted “, block during the pendency of an investigation” after “investigate” and substituted “interest by any person, or with respect to any property, subject to the jurisdiction of the United States; and” for “interest;”.
+    Subsec. (a)(1)(B). [Pub. L. 107–56][/us/pl/107/56], § 106(1)(B), inserted “, block during the pendency of an investigation” after “investigate” and substituted “interest by any person, or with respect to any property, subject to the jurisdiction of the United States; and” for “interest;”.
 
-    Subsec. (a)(1)(C). [Pub. L. 107–56, § 106(1)(D)][/us/pl/107/56/s106/1/D], added subpar. (C).
+    Subsec. (a)(1)(C). [Pub. L. 107–56][/us/pl/107/56], § 106(1)(D), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 107–56, § 106(2)][/us/pl/107/56/s106/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 106(2), added subsec. (c).
 
     1994—Subsec. (b)(3), (4). [Pub. L. 103–236][/us/pl/103/236] added pars. (3) and (4) and struck out former par. (3) which read as follows: “the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 2404 of the Appendix to this title or with respect to which no acts are prohibited by chapter 37 of title 18.”
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–236, title V, § 525(c)(2)][/us/pl/103/236/s525/c/2], (3), Apr. 30, 1994, [108 Stat. 475][/us/stat/108/475], provided that:
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 525(c)(2), (3), Apr. 30, 1994, [108 Stat. 475][/us/stat/108/475], provided that:
 
 >     “(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[[50 U.S.C. 1702(b)(3)][/us/usc/t50/s1702/b/3]\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] which are in effect on such date and to actions taken under such section on or after such date.
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title II, § 2502(b)(2)][/us/pl/100/418/s2502/b/2], Aug. 23, 1988, [102 Stat. 1372][/us/stat/102/1372], provided that: 
+[Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2502(b)(2), Aug. 23, 1988, [102 Stat. 1372][/us/stat/102/1372], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment.”
 
@@ -128,29 +128,29 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
-[/us/pl/95/223/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs203
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
-[/us/pl/100/418/s2502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2502%2Fb%2F1
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
-[/us/pl/103/236/s525/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs525%2Fc%2F1
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F474
-[/us/pl/107/56/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106
+[/us/pl/107/56/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtI
 [/us/stat/115/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F277
 [/us/pl/96/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1%2Fa
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025
-[/us/pl/107/56/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106
-[/us/pl/107/56/s106/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106%2F1%2FC
-[/us/pl/107/56/s106/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106%2F1%2FA
-[/us/pl/107/56/s106/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106%2F1%2FB
-[/us/pl/107/56/s106/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106%2F1%2FD
-[/us/pl/107/56/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs106%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/103/236/s525/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs525%2Fc%2F2
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F475
 [/us/usc/t50/s1702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702%2Fb%2F3
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/100/418/s2502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2502%2Fb%2F2
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1372
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601

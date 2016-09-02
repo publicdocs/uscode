@@ -69,25 +69,25 @@
 
         (2) Not later than May 1, 1994, the Secretary shall submit to Congress a report that describes the details of measures being taken to improve joint coordination and oversight of the program and ensure a coherent and effective approach to its management.
 
-([Pub. L. 103–160, div. A, title XVII, § 1701][/us/pl/103/160/s1701], Nov. 30, 1993, [107 Stat. 1853][/us/stat/107/1853]; [Pub. L. 104–201, div. A, title II, § 228][/us/pl/104/201/s228], Sept. 23, 1996, [110 Stat. 2460][/us/stat/110/2460].)
+([Pub. L. 103–160, div. A, title XVII][/us/pl/103/160/dA/tXVII], § 1701, Nov. 30, 1993, [107 Stat. 1853][/us/stat/107/1853]; [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 228, Sept. 23, 1996, [110 Stat. 2460][/us/stat/110/2460].)
 
  __Codification__ 
 
-    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–201, § 228(a)][/us/pl/104/201/s228/a], designated existing provisions as par. (1) and added par. (2).
+    1996—Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 228(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d)(1). [Pub. L. 104–201, § 228(b)(1)][/us/pl/104/201/s228/b/1], substituted “program for the Department of Defense” for “program for the military departments”.
+    Subsec. (d)(1). [Pub. L. 104–201][/us/pl/104/201], § 228(b)(1), substituted “program for the Department of Defense” for “program for the military departments”.
 
-    Subsec. (d)(2). [Pub. L. 104–201, § 228(b)(2)][/us/pl/104/201/s228/b/2], in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section)” after “requests for the program”.
+    Subsec. (d)(2). [Pub. L. 104–201][/us/pl/104/201], § 228(b)(2), in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section)” after “requests for the program”.
 
-    Subsec. (d)(3), (4). [Pub. L. 104–201, § 228(b)(3)][/us/pl/104/201/s228/b/3], (4), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (d)(3), (4). [Pub. L. 104–201][/us/pl/104/201], § 228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
  __National Bio-Weapons Defense Analysis Center__ 
 
-[Pub. L. 107–296, title XVII, § 1708][/us/pl/107/296/s1708], Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318], provided that: 
+[Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1708, Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318], provided that: 
 
 > “There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction.”
 
@@ -95,7 +95,7 @@
 
  __Chemical Warfare Defense__ 
 
-[Pub. L. 105–261, div. A, title II, § 247][/us/pl/105/261/s247], Oct. 17, 1998, [112 Stat. 1956][/us/stat/112/1956], provided that:
+[Pub. L. 105–261, div. A, title II][/us/pl/105/261/dA/tII], § 247, Oct. 17, 1998, [112 Stat. 1956][/us/stat/112/1956], provided that:
 
 >     “(a)  __Review and Modification of Policies and Doctrines__  __.—__ 
 
@@ -153,7 +153,7 @@
 
  __Study of Facility for Training and Evaluation of Chemical or Biological Weapons Response Personnel__ 
 
-[Pub. L. 104–132, title V, § 521(b)][/us/pl/104/132/s521/b], Apr. 24, 1996, [110 Stat. 1286][/us/stat/110/1286], provided that:
+[Pub. L. 104–132, title V][/us/pl/104/132/tV], § 521(b), Apr. 24, 1996, [110 Stat. 1286][/us/stat/110/1286], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -197,13 +197,13 @@
 
  __Consolidation of Chemical and Biological Defense Training Activities__ 
 
-[Pub. L. 103–160, div. A, title XVII, § 1702][/us/pl/103/160/s1702], Nov. 30, 1993, [107 Stat. 1854][/us/stat/107/1854], provided that: 
+[Pub. L. 103–160, div. A, title XVII][/us/pl/103/160/dA/tXVII], § 1702, Nov. 30, 1993, [107 Stat. 1854][/us/stat/107/1854], provided that: 
 
 > “The Secretary of Defense shall consolidate all chemical and biological warfare defense training activities of the Department of Defense at the United States Army Chemical School.”
 
  __Sense of Congress Concerning Federal Emergency Planning for Response to Terrorist Threats__ 
 
-[Pub. L. 103–160, div. A, title XVII, § 1704][/us/pl/103/160/s1704], Nov. 30, 1993, [107 Stat. 1855][/us/stat/107/1855], provided that: 
+[Pub. L. 103–160, div. A, title XVII][/us/pl/103/160/dA/tXVII], § 1704, Nov. 30, 1993, [107 Stat. 1855][/us/stat/107/1855], provided that: 
 
 > “It is the sense of Congress that the President should strengthen Federal interagency emergency planning by the Federal Emergency Management Agency and other appropriate Federal, State, and local agencies for development of a capability for early detection and warning of and response to—
 
@@ -218,26 +218,26 @@
 ----------
 ----------
 
-[/us/pl/103/160/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1701
+[/us/pl/103/160/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXVII
 [/us/stat/107/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1853
-[/us/pl/104/201/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs228
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2460
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
-[/us/pl/104/201/s228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs228%2Fa
-[/us/pl/104/201/s228/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs228%2Fb%2F1
-[/us/pl/104/201/s228/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs228%2Fb%2F2
-[/us/pl/104/201/s228/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs228%2Fb%2F3
-[/us/pl/107/296/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1708
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2318
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/105/261/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs247
+[/us/pl/105/261/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtII
 [/us/stat/112/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1956
-[/us/pl/104/132/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs521%2Fb
+[/us/pl/104/132/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtV
 [/us/stat/110/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1286
-[/us/pl/103/160/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1702
+[/us/pl/103/160/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXVII
 [/us/stat/107/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1854
-[/us/pl/103/160/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1704
+[/us/pl/103/160/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXVII
 [/us/stat/107/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1855
 
 

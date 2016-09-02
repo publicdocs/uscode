@@ -21,7 +21,7 @@
 
     (2) could accelerate the removal and isolation of high-level nuclear waste from long-term storage tanks at the site.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4451][/us/pl/107/314/s4451], formerly [Pub. L. 104–201, div. C, title XXXI, § 3141][/us/pl/104/201/s3141], Sept. 23, 1996, [110 Stat. 2834][/us/stat/110/2834]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4451][/us/pl/107/314/s4451], by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(21)][/us/pl/108/136/s3141/g/21], Nov. 24, 2003, [117 Stat. 1769][/us/stat/117/1769].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4451, formerly [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3141, Sept. 23, 1996, [110 Stat. 2834][/us/stat/110/2834]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4451, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(21), Nov. 24, 2003, [117 Stat. 1769][/us/stat/117/1769].)
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4451
-[/us/pl/104/201/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3141
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2834
-[/us/pl/107/314/s4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4451
-[/us/pl/108/136/s3141/g/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F21
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1769
 
 

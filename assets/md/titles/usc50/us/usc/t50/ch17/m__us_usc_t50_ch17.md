@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s455.md) | [Next](./../../../..//us/usc/t50/ch17/m__us_usc_t50_s481.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch17)
+[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s456...462.md) | [Next](./../../../..//us/usc/t50/ch17/m__us_usc_t50_s481.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch17)
 
 ## CHAPTER 17—ARMING AMERICAN VESSELS
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s455.md) | [Next](./../../../..//us/usc/t50/ch17/m__us_usc_t50_s481.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch17)
+[Previous](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s456...462.md) | [Next](./../../../..//us/usc/t50/ch17/m__us_usc_t50_s481.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch17)
 
 ----------
 ----------

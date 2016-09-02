@@ -61,7 +61,7 @@
 
     (14) It is the policy of the United States to cooperate with countries which are allies of the United States and countries which share common strategic objectives with the United States in minimizing dependence on imports of energy and other critical resources from potential adversaries and in developing alternative supplies of such resources in order to minimize strategic threats posed by excessive hard currency earnings derived from such resource exports by countries with policies adverse to the security interests of the United States.
 
-([Pub. L. 96–72, § 3][/us/pl/96/72/s3], Sept. 29, 1979, [93 Stat. 504][/us/stat/93/504]; [Pub. L. 99–64, title I, § 103][/us/pl/99/64/s103], July 12, 1985, [99 Stat. 121][/us/stat/99/121]; [Pub. L. 103–199, title II, § 201(b)(2)][/us/pl/103/199/s201/b/2], Dec. 17, 1993, [107 Stat. 2321][/us/stat/107/2321].)
+([Pub. L. 96–72][/us/pl/96/72], § 3, Sept. 29, 1979, [93 Stat. 504][/us/stat/93/504]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 103, July 12, 1985, [99 Stat. 121][/us/stat/99/121]; [Pub. L. 103–199, title II][/us/pl/103/199/tII], § 201(b)(2), Dec. 17, 1993, [107 Stat. 2321][/us/stat/107/2321].)
 
  __Termination Date__ 
 
@@ -71,21 +71,21 @@
 
     Section was formerly classified to section 2402 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2402 of the former Appendix to this title, [Pub. L. 91–184, § 3][/us/pl/91/184/s3], Dec. 30, 1969, [83 Stat. 841][/us/stat/83/841]; [Pub. L. 92–412, title I, § 103][/us/pl/92/412/s103], Aug. 29, 1972, [86 Stat. 644][/us/stat/86/644]; [Pub. L. 93–500][/us/pl/93/500], §§ 2, 4(b), (c), 11, Oct. 29, 1974, [88 Stat. 1552][/us/stat/88/1552], 1553, 1556; [Pub. L. 95–52, title I, § 115][/us/pl/95/52/s115], title II, § 202, June 22, 1977, [91 Stat. 241][/us/stat/91/241], 247, set forth declaration of policy of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
+    A prior section 2402 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 3, Dec. 30, 1969, [83 Stat. 841][/us/stat/83/841]; [Pub. L. 92–412, title I][/us/pl/92/412/tI], § 103, Aug. 29, 1972, [86 Stat. 644][/us/stat/86/644]; [Pub. L. 93–500][/us/pl/93/500], §§ 2, 4(b), (c), 11, Oct. 29, 1974, [88 Stat. 1552][/us/stat/88/1552], 1553, 1556; [Pub. L. 95–52, title I][/us/pl/95/52/tI], § 115, title II, § 202, June 22, 1977, [91 Stat. 241][/us/stat/91/241], 247, set forth declaration of policy of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
 
  __Amendments__ 
 
     1993—Par. (15). [Pub. L. 103–199][/us/pl/103/199] struck out par. (15) which read as follows: “It is the policy of the United States, particularly in light of the Soviet massacre of innocent men, women, and children aboard Korean Air Lines flight 7, to continue to object to exceptions to the International Control List for the Union of Soviet Socialist Republics, subject to periodic review by the President.”
 
-    1985—Par. (3). [Pub. L. 99–64, § 103(1)][/us/pl/99/64/s103/1], inserted “or common strategic objectives” after “defense treaty commitments”.
+    1985—Par. (3). [Pub. L. 99–64][/us/pl/99/64], § 103(1), inserted “or common strategic objectives” after “defense treaty commitments”.
 
-    Par. (7). [Pub. L. 99–64, § 103(2)][/us/pl/99/64/s103/2], substituted “the President shall make reasonable and prompt efforts” for “the President shall make every reasonable effort”, and “imposing export controls” for “resorting to the imposition of controls on exports from the United States”.
+    Par. (7). [Pub. L. 99–64][/us/pl/99/64], § 103(2), substituted “the President shall make reasonable and prompt efforts” for “the President shall make every reasonable effort”, and “imposing export controls” for “resorting to the imposition of controls on exports from the United States”.
 
-    Par. (8). [Pub. L. 99–64, § 103(3)][/us/pl/99/64/s103/3], substituted “the President shall make reasonable and prompt efforts” for “the President shall make every reasonable effort”, and “imposing export controls” for “resorting to the imposition of export controls”.
+    Par. (8). [Pub. L. 99–64][/us/pl/99/64], § 103(3), substituted “the President shall make reasonable and prompt efforts” for “the President shall make every reasonable effort”, and “imposing export controls” for “resorting to the imposition of export controls”.
 
-    Par. (9). [Pub. L. 99–64, § 103(4)][/us/pl/99/64/s103/4], inserted “or common strategic objectives” after “commitments” in two places, and inserted “, and to encourage other friendly countries to cooperate in restricting the sale of goods and technology that can harm the security of the United States”.
+    Par. (9). [Pub. L. 99–64][/us/pl/99/64], § 103(4), inserted “or common strategic objectives” after “commitments” in two places, and inserted “, and to encourage other friendly countries to cooperate in restricting the sale of goods and technology that can harm the security of the United States”.
 
-    Pars. (12) to (15). [Pub. L. 99–64, § 103(5)][/us/pl/99/64/s103/5], added pars. (12) to (15).
+    Pars. (12) to (15). [Pub. L. 99–64][/us/pl/99/64], § 103(5), added pars. (12) to (15).
 
  __Delegation of Functions__ 
 
@@ -93,7 +93,7 @@
 
  __Policy Regarding KAL__ 
 
-[Pub. L. 103–199, title II, § 201(b)(1)][/us/pl/103/199/s201/b/1], Dec. 17, 1993, [107 Stat. 2320][/us/stat/107/2320], provided that: 
+[Pub. L. 103–199, title II][/us/pl/103/199/tII], § 201(b)(1), Dec. 17, 1993, [107 Stat. 2320][/us/stat/107/2320], provided that: 
 
 > “The Congress finds that—
 
@@ -111,7 +111,7 @@
 
  __Policy on Missile Technology Control__ 
 
-[Pub. L. 101–510, div. A, title XVII, § 1701][/us/pl/101/510/s1701], Nov. 5, 1990, [104 Stat. 1738][/us/stat/104/1738], provided that: 
+[Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1701, Nov. 5, 1990, [104 Stat. 1738][/us/stat/104/1738], provided that: 
 
 > “It should be the policy of the United States to take all appropriate measures—
 
@@ -138,32 +138,32 @@
 ----------
 ----------
 
-[/us/pl/96/72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs3
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F504
-[/us/pl/99/64/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs103
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F121
-[/us/pl/103/199/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs201%2Fb%2F2
+[/us/pl/103/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtII
 [/us/stat/107/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2321
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
-[/us/pl/91/184/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs3
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F841
-[/us/pl/92/412/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2Fs103
+[/us/pl/92/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2FtI
 [/us/stat/86/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F644
 [/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1552
-[/us/pl/95/52/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2Fs115
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F241
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
-[/us/pl/99/64/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs103%2F1
-[/us/pl/99/64/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs103%2F2
-[/us/pl/99/64/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs103%2F3
-[/us/pl/99/64/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs103%2F4
-[/us/pl/99/64/s103/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs103%2F5
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
-[/us/pl/103/199/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs201%2Fb%2F1
+[/us/pl/103/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtII
 [/us/stat/107/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2320
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/101/510/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1701
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1738
 
 

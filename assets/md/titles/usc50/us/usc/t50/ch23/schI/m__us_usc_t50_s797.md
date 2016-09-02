@@ -61,7 +61,7 @@
 
         Any regulation or order covered by subsection (a) of this section shall be posted in conspicuous and appropriate places.
 
-([Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 21, [64 Stat. 1005][/us/stat/64/1005]; [Pub. L. 109–163, div. A, title X, § 1053][/us/pl/109/163/s1053], Jan. 6, 2006, [119 Stat. 3435][/us/stat/119/3435].)
+([Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 21, [64 Stat. 1005][/us/stat/64/1005]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1053, Jan. 6, 2006, [119 Stat. 3435][/us/stat/119/3435].)
 
  __Amendments__ 
 
@@ -76,7 +76,7 @@
 
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1005
-[/us/pl/109/163/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1053
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3435
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

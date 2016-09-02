@@ -81,7 +81,7 @@
 
         The term “judgment” means any judgment, decree, order, or ruling, final or temporary.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 101, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2836][/us/stat/117/2836]; amended [Pub. L. 108–454, title VII, § 701][/us/pl/108/454/s701], Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 101, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2836][/us/stat/117/2836]; amended [Pub. L. 108–454, title VII][/us/pl/108/454/tVII], § 701, Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624].)
 
  __Codification__ 
 
@@ -89,7 +89,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 101 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, [54 Stat. 1179][/us/stat/54/1179]; [Pub. L. 92–540, title V, § 504(1)][/us/pl/92/540/s504/1], Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098]; [Pub. L. 102–12, § 9(1)][/us/pl/102/12/s9/1], Mar. 18, 1991, [105 Stat. 38][/us/stat/105/38]; [Pub. L. 107–330, title III, § 305][/us/pl/107/330/s305], Dec. 6, 2002, [116 Stat. 2826][/us/stat/116/2826], related to definitions, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    A prior section 101 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, [54 Stat. 1179][/us/stat/54/1179]; [Pub. L. 92–540, title V][/us/pl/92/540/tV], § 504(1), Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098]; [Pub. L. 102–12][/us/pl/102/12], § 9(1), Mar. 18, 1991, [105 Stat. 38][/us/stat/105/38]; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 305, Dec. 6, 2002, [116 Stat. 2826][/us/stat/116/2826], related to definitions, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
  __Amendments__ 
 
@@ -109,17 +109,17 @@
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
 [/us/usc/t49/s30102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa%2F6
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2836
-[/us/pl/108/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs701
+[/us/pl/108/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVII
 [/us/stat/118/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3624
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1179
-[/us/pl/92/540/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs504%2F1
+[/us/pl/92/540/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtV
 [/us/stat/86/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1098
-[/us/pl/102/12/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F1
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F38
-[/us/pl/107/330/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs305
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2826
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454

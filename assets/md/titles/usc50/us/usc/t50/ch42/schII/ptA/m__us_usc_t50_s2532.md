@@ -49,7 +49,7 @@
 
         For purposes of subsection (a), the term “Nuclear Posture Review” means the Department of Defense Nuclear Posture Review as contained in the Report of the Secretary of Defense to the President and Congress dated February 19, 1995, or subsequent such reports.
 
-([Pub. L. 107–314, div. D, title XLII, § 4212][/us/pl/107/314/s4212], formerly [Pub. L. 104–106, div. C, title XXXI, § 3137][/us/pl/104/106/s3137], Feb. 10, 1996, [110 Stat. 620][/us/stat/110/620]; [Pub. L. 104–201, div. C, title XXXI, § 3132(a)][/us/pl/104/201/s3132/a], (b), Sept. 23, 1996, [110 Stat. 2829][/us/stat/110/2829]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4212][/us/pl/107/314/s4212], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(13)][/us/pl/108/136/s3141/e/13], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; [Pub. L. 112–239, div. C, title XXXI, § 3131(e)][/us/pl/112/239/s3131/e], Jan. 2, 2013, [126 Stat. 2181][/us/stat/126/2181]; [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(6)][/us/pl/113/66/s3146/c/6], Dec. 26, 2013, [127 Stat. 1074][/us/stat/127/1074].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4212, formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3137, Feb. 10, 1996, [110 Stat. 620][/us/stat/110/620]; [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3132(a), (b), Sept. 23, 1996, [110 Stat. 2829][/us/stat/110/2829]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4212, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(13), Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(e), Jan. 2, 2013, [126 Stat. 2181][/us/stat/126/2181]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(c)(6), Dec. 26, 2013, [127 Stat. 1074][/us/stat/127/1074].)
 
  __Codification__ 
 
@@ -57,17 +57,17 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 113–66, § 3146(c)(6)(A)][/us/pl/113/66/s3146/c/6/A], substituted “Memorandum” for “Review”.
+    2013—Subsec. (a)(2). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(6)(A), substituted “Memorandum” for “Review”.
 
-    Subsec. (c). [Pub. L. 113–66, § 3146(c)(6)(B)][/us/pl/113/66/s3146/c/6/B], substituted “Congress” for “the Congress”.
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(6)(B), substituted “Congress” for “the Congress”.
 
     Subsecs. (d), (e). [Pub. L. 112–239][/us/pl/112/239] struck out subsecs. (d) and (e), which related, respectively, to funding and submission to Congress by Secretary of plans and reports.
 
-    2003—Subsec. (d). [Pub. L. 108–136, § 3141(e)(13)(D)][/us/pl/108/136/s3141/e/13/D], inserted “of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106])” after “section 3101(b)”.
+    2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 3141(e)(13)(D), inserted “of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106])” after “section 3101(b)”.
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 3132(a)][/us/pl/104/201/s3132/a], designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 3132(a), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
-    Subsec. (b)(3). [Pub. L. 104–201, § 3132(b)][/us/pl/104/201/s3132/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The tritium production, recycling, and other weapons-related capabilities of the Savannah River Site.”
+    Subsec. (b)(3). [Pub. L. 104–201][/us/pl/104/201], § 3132(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The tritium production, recycling, and other weapons-related capabilities of the Savannah River Site.”
 
 ----------
 
@@ -76,26 +76,26 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4212
-[/us/pl/104/106/s3137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3137
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F620
-[/us/pl/104/201/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3132%2Fa
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2829
-[/us/pl/107/314/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4212
-[/us/pl/108/136/s3141/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F13
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1760
-[/us/pl/112/239/s3131/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fe
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2181
-[/us/pl/113/66/s3146/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F6
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1074
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/113/66/s3146/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F6%2FA
-[/us/pl/113/66/s3146/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F6%2FB
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/108/136/s3141/e/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F13%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/201/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3132%2Fa
-[/us/pl/104/201/s3132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3132%2Fb
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 
 

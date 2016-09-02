@@ -23,11 +23,11 @@
 
         Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the feasibility of providing Department of Defense support for vaccination programs under subsection (a) of this section and shall identify resource requirements that are not within the Department’s capability.
 
-([Pub. L. 103–160, div. A, title XVII, § 1705][/us/pl/103/160/s1705], Nov. 30, 1993, [107 Stat. 1856][/us/stat/107/1856].)
+([Pub. L. 103–160, div. A, title XVII][/us/pl/103/160/dA/tXVII], § 1705, Nov. 30, 1993, [107 Stat. 1856][/us/stat/107/1856].)
 
  __Codification__ 
 
-    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
  __“Congressional Defense Committees” Defined__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/103/160/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1705
+[/us/pl/103/160/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXVII
 [/us/stat/107/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1856
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 [/us/pl/103/160/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3
 [/us/stat/107/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1562

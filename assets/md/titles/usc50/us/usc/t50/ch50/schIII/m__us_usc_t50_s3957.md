@@ -41,7 +41,7 @@
 
         A person who knowingly takes an action contrary to this section, or attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 306, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2850][/us/stat/117/2850]; amended [Pub. L. 111–275, title III, § 303(b)(6)][/us/pl/111/275/s303/b/6], Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 306, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2850][/us/stat/117/2850]; amended [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(b)(6), Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 306 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, as added [Oct. 6, 1942, ch. 581, § 12][/us/act/1942-10-06/ch581/s12], [56 Stat. 773][/us/stat/56/773], related to extension of benefits to dependents, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3959 of this title][/us/usc/t50/s3959].
+    A prior section 306 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, as added [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 12, [56 Stat. 773][/us/stat/56/773], related to extension of benefits to dependents, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3959 of this title][/us/usc/t50/s3959].
 
  __Amendments__ 
 
@@ -63,12 +63,12 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2850
-[/us/pl/111/275/s303/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fb%2F6
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2878
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/act/1942-10-06/ch581/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs12
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F773
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s3959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3959

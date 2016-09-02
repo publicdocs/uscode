@@ -27,7 +27,7 @@
 
         Assistance under programs referred to in subsection (a) of this section may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
 
-([Pub. L. 104–201, div. A, title XIV, § 1424][/us/pl/104/201/s1424], Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726]; [Pub. L. 108–375, div. A, title XII, § 1211(a)][/us/pl/108/375/s1211/a], Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1424, Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726]; [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1211(a), Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1424
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2726
-[/us/pl/108/375/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1211%2Fa
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2087
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

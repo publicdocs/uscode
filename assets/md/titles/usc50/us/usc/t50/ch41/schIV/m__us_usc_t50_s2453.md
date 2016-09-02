@@ -83,33 +83,33 @@
 
         Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c) of this section.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3253][/us/pl/106/65/s3253], Oct. 5, 1999, [113 Stat. 966][/us/stat/113/966]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3154\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–465; [Pub. L. 109–364, div. C, title XXXI, § 3111(b)][/us/pl/109/364/s3111/b], Oct. 17, 2006, [120 Stat. 2503][/us/stat/120/2503]; [Pub. L. 110–181, div. C, title XXXI, § 3123][/us/pl/110/181/s3123], Jan. 28, 2008, [122 Stat. 580][/us/stat/122/580]; [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(1)][/us/pl/112/239/s3132/a/1], (d)(2), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185], 2187; [Pub. L. 113–66, div. C, title XXXI, § 3145(f)][/us/pl/113/66/s3145/f], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3253, Oct. 5, 1999, [113 Stat. 966][/us/stat/113/966]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3154\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–465; [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3111(b), Oct. 17, 2006, [120 Stat. 2503][/us/stat/120/2503]; [Pub. L. 110–181, div. C, title XXXI][/us/pl/110/181/dC/tXXXI], § 3123, Jan. 28, 2008, [122 Stat. 580][/us/stat/122/580]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3132(a)(1), (d)(2), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185], 2187; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(f), Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 113–66, § 3145(f)(1)][/us/pl/113/66/s3145/f/1], substituted “five-fiscal-year” for “five-fiscal year” wherever appearing.
+    2013—Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 3145(f)(1), substituted “five-fiscal-year” for “five-fiscal year” wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 112–239, § 3132(d)(2)][/us/pl/112/239/s3132/d/2], substituted “[section 2522(a) of this title][/us/usc/t50/s2522/a]” for “section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([42 U.S.C. 2121][/us/usc/t42/s2121] note)”.
+    Subsec. (b)(3). [Pub. L. 112–239][/us/pl/112/239], § 3132(d)(2), substituted “[section 2522(a) of this title][/us/usc/t50/s2522/a]” for “section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([42 U.S.C. 2121][/us/usc/t42/s2121] note)”.
 
-    Subsec. (b)(5), (6). [Pub. L. 113–66, § 3145(f)(2)][/us/pl/113/66/s3145/f/2], (3), redesignated par. (6) as (5), struck out “National Nuclear Security” before “Administration” in subpar. (B), and struck out former par. (5) which read as follows: “A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under [section 2534 of this title][/us/usc/t50/s2534], together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.”
+    Subsec. (b)(5), (6). [Pub. L. 113–66][/us/pl/113/66], § 3145(f)(2), (3), redesignated par. (6) as (5), struck out “National Nuclear Security” before “Administration” in subpar. (B), and struck out former par. (5) which read as follows: “A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under [section 2534 of this title][/us/usc/t50/s2534], together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.”
 
-    [Pub. L. 112–239, § 3132(a)(1)][/us/pl/112/239/s3132/a/1], substituted “nuclear security enterprise” for “nuclear weapons complex” wherever appearing.
+    [Pub. L. 112–239][/us/pl/112/239], § 3132(a)(1), substituted “nuclear security enterprise” for “nuclear weapons complex” wherever appearing.
 
     2008—Subsec. (b)(6). [Pub. L. 110–181][/us/pl/110/181] added par. (6).
 
     2006—Subsec. (b)(5). [Pub. L. 109–364][/us/pl/109/364] added par. (5).
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3154(a)\], added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration during the five-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105].”
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3154(a)\], added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration during the five-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105].”
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3154(b)(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Administrator shall include in the materials the Administrator submits to Congress in support of the budget for any fiscal year that is submitted by the President pursuant to [section 1105 of title 31][/us/usc/t31/s1105] a description of how the funds identified for each program element in the weapons activities budget of the Administration for such fiscal year will help ensure that the nuclear weapons stockpile is safe and reliable as determined in accordance with the criteria established under section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2257][/us/stat/112/2257]; [42 U.S.C. 2121][/us/usc/t42/s2121] note).”
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3154(b)(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Administrator shall include in the materials the Administrator submits to Congress in support of the budget for any fiscal year that is submitted by the President pursuant to [section 1105 of title 31][/us/usc/t31/s1105] a description of how the funds identified for each program element in the weapons activities budget of the Administration for such fiscal year will help ensure that the nuclear weapons stockpile is safe and reliable as determined in accordance with the criteria established under section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2257][/us/stat/112/2257]; [42 U.S.C. 2121][/us/usc/t42/s2121] note).”
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3154(b)(2), (3)\], redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3154(b)(2), (3)\], redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3154(b)(2)\], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3154(b)(2)\], redesignated subsec. (e) as (d).
 
  __Technical Base and Facilities Maintenance and Recapitalization Activities__ 
 
-[Pub. L. 108–136, div. C, title XXXI, § 3114][/us/pl/108/136/s3114], Nov. 24, 2003, [117 Stat. 1744][/us/stat/117/1744], as amended by [Pub. L. 108–375, div. C, title XXXI, § 3113(a)][/us/pl/108/375/s3113/a], Oct. 28, 2004, [118 Stat. 2160][/us/stat/118/2160]; [Pub. L. 109–364, div. C, title XXXI, § 3112][/us/pl/109/364/s3112], Oct. 17, 2006, [120 Stat. 2503][/us/stat/120/2503], provided that:
+[Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3114, Nov. 24, 2003, [117 Stat. 1744][/us/stat/117/1744], as amended by [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3113(a), Oct. 28, 2004, [118 Stat. 2160][/us/stat/118/2160]; [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3112, Oct. 17, 2006, [120 Stat. 2503][/us/stat/120/2503], provided that:
 
 >     “(a)  __Inclusion of Projects in Facilities and Infrastructure Recapitalization Program__  __.—__ 
 
@@ -177,7 +177,7 @@
 
 >             “(E) Each other element of the subprogram.”
 
-\[[Pub. L. 108–375, div. C, title XXXI, § 3113(b)][/us/pl/108/375/s3113/b], Oct. 28, 2004, [118 Stat. 2161][/us/stat/118/2161], provided that: 
+\[[Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3113(b), Oct. 28, 2004, [118 Stat. 2161][/us/stat/118/2161], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 3114 of Pub. L. 108–136][/us/pl/108/136/s3114], set out above\] may not be construed to authorize any delay in either of the following:
 
@@ -195,44 +195,44 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/106/65/s3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3253
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F966
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/364/s3111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3111%2Fb
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2503
-[/us/pl/110/181/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3123
+[/us/pl/110/181/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXI
 [/us/stat/122/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F580
-[/us/pl/112/239/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
-[/us/pl/113/66/s3145/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Ff
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
-[/us/pl/113/66/s3145/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Ff%2F1
-[/us/pl/112/239/s3132/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fd%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
-[/us/pl/113/66/s3145/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Ff%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t50/s2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2534
-[/us/pl/112/239/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/112/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2257
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/136/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3114
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1744
-[/us/pl/108/375/s3113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3113%2Fa
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2160
-[/us/pl/109/364/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3112
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2503
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/108/375/s3113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3113%2Fb
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2161
 [/us/pl/108/136/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3114
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

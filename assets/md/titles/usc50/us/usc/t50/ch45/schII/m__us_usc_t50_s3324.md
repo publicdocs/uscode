@@ -31,7 +31,7 @@
 
         Subsection (a) of this section shall not be construed to prohibit the voluntary cooperation of any person who is aware that the cooperation is being provided to an element of the United States Intelligence Community.
 
-([Pub. L. 104–293, title III, § 309][/us/pl/104/293/s309], Oct. 11, 1996, [110 Stat. 3467][/us/stat/110/3467].)
+([Pub. L. 104–293, title III][/us/pl/104/293/tIII], § 309, Oct. 11, 1996, [110 Stat. 3467][/us/stat/110/3467].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/293/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs309
+[/us/pl/104/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtIII
 [/us/stat/110/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3467
 [/us/usc/t50/s403–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%937
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

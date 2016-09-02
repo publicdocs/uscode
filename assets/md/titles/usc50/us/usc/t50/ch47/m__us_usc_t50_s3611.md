@@ -27,13 +27,13 @@
 
         The authority of the Director to make grants under this section is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
-([Pub. L. 86–36, § 13][/us/pl/86/36/s13], as added [Pub. L. 97–89, title VI, § 603][/us/pl/97/89/s603], Dec. 4, 1981, [95 Stat. 1158][/us/stat/95/1158].)
+([Pub. L. 86–36][/us/pl/86/36], § 13, as added [Pub. L. 97–89, title VI][/us/pl/97/89/tVI], § 603, Dec. 4, 1981, [95 Stat. 1158][/us/stat/95/1158].)
 
  __Codification__ 
 
     Section was formerly classified in a note under [section 402 of this title][/us/usc/t50/s402] prior to editorial reclassification as this section.
 
-    In subsec. (b), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501][/us/usc/t41/s501] et seq.)” and “such chapter” substituted for “such Act” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501][/us/usc/t41/s501] et seq.)” and “such chapter” substituted for “such Act” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Effective Date__ 
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/usc/t50/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3605
-[/us/pl/86/36/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs13
-[/us/pl/97/89/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs603
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/97/89/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVI
 [/us/stat/95/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1158
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/usc/t41/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs501
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/97/89/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs806
 [/us/usc/t10/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1621

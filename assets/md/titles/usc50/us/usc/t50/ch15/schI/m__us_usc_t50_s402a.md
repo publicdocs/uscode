@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section 402a, comprising section 811 of the Counterintelligence and Security Enhancements Act of 1994, [Pub. L. 103–359, title VIII][/us/pl/103/359], and also of the Intelligence Authorization Act for Fiscal Year 1995, [Pub. L. 103–359][/us/pl/103/359], was editorially reclassified as [section 3381 of this title][/us/usc/t50/s3381].
+    Section 402a, comprising section 811 of the Counterintelligence and Security Enhancements Act of 1994, [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], and also of the Intelligence Authorization Act for Fiscal Year 1995, [Pub. L. 103–359][/us/pl/103/359], was editorially reclassified as [section 3381 of this title][/us/usc/t50/s3381].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/usc/t50/s3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3381
 

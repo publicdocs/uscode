@@ -39,11 +39,11 @@
 
         (3) Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], as appropriate.
 
-([June 7, 1939, ch. 190, § 11][/us/act/1939-06-07/ch190/s11], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 324][/us/stat/93/324]; amended [Pub. L. 97–35, title II, § 203(e)][/us/pl/97/35/s203/e], Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II, § 3207(a)(3)][/us/pl/99/661/s3207/a/3], Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 100–180, div. C, title II, § 3205][/us/pl/100/180/s3205], Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 100–456, div. A, title XV, § 1503][/us/pl/100/456/s1503], Sept. 29, 1988, [102 Stat. 2086][/us/stat/102/2086]; [Pub. L. 101–189, div. C, title XXXIII, § 3315][/us/pl/101/189/s3315], Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 102–190, div. C, title XXXIII][/us/pl/102/190], §§ 3311(b), 3313(a), Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 103–35, title II, § 204(d)][/us/pl/103/35/s204/d], May 31, 1993, [107 Stat. 103][/us/stat/107/103]; [Pub. L. 113–291, div. A, title X, § 1071(j)][/us/pl/113/291/s1071/j], Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 11, as added [Pub. L. 96–41][/us/pl/96/41], § 2(a), July 30, 1979, [93 Stat. 324][/us/stat/93/324]; amended [Pub. L. 97–35, title II][/us/pl/97/35/tII], § 203(e), Aug. 13, 1981, [95 Stat. 382][/us/stat/95/382]; [Pub. L. 99–661, div. C, title II][/us/pl/99/661/dC/tII], § 3207(a)(3), Nov. 14, 1986, [100 Stat. 4069][/us/stat/100/4069]; [Pub. L. 100–180, div. C, title II][/us/pl/100/180/dC/tII], § 3205, Dec. 4, 1987, [101 Stat. 1247][/us/stat/101/1247]; [Pub. L. 100–456, div. A, title XV][/us/pl/100/456/dA/tXV], § 1503, Sept. 29, 1988, [102 Stat. 2086][/us/stat/102/2086]; [Pub. L. 101–189, div. C, title XXXIII][/us/pl/101/189/dC/tXXXIII], § 3315, Nov. 29, 1989, [103 Stat. 1688][/us/stat/103/1688]; [Pub. L. 102–190, div. C, title XXXIII][/us/pl/102/190/dC/tXXXIII], §§ 3311(b), 3313(a), Dec. 5, 1991, [105 Stat. 1584][/us/stat/105/1584]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 204(d), May 31, 1993, [107 Stat. 103][/us/stat/107/103]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(j), Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512].)
 
  __Prior Provisions__ 
 
-    A prior section 11 of [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], formerly § 10, as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 596][/us/stat/60/596]; renumbered § 11, [Pub. L. 92–156, title V, § 503(1)][/us/pl/92/156/s503/1], Nov. 17, 1971, [85 Stat. 427][/us/stat/85/427], was set out as a Short Title note under [section 98 of this title][/us/usc/t50/s98], prior to repeal by [section 2(b)(2) of Pub. L. 96–41][/us/pl/96/41/s2/b/2].
+    A prior section 11 of [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], formerly § 10, as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 596][/us/stat/60/596]; renumbered § 11, [Pub. L. 92–156, title V][/us/pl/92/156/tV], § 503(1), Nov. 17, 1971, [85 Stat. 427][/us/stat/85/427], was set out as a Short Title note under [section 98 of this title][/us/usc/t50/s98], prior to repeal by [section 2(b)(2) of Pub. L. 96–41][/us/pl/96/41/s2/b/2].
 
     Provisions similar to those in this section were contained in former [section 98c of this title][/us/usc/t50/s98c] prior to repeal by [Pub. L. 96–41][/us/pl/96/41].
 
@@ -53,25 +53,25 @@
 
     1993—Subsec. (a)(1). [Pub. L. 103–35][/us/pl/103/35] substituted “fiscal year” for “six-month period”.
 
-    1991—Subsec. (a). [Pub. L. 102–190, § 3313(a)(1)][/us/pl/102/190/s3313/a/1], substituted “Not later than January 15 of each year, the President” for “The President” and “an annual” for “every six months a”.
+    1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 3313(a)(1), substituted “Not later than January 15 of each year, the President” for “The President” and “an annual” for “every six months a”.
 
-    Subsec. (a)(1). [Pub. L. 102–190, § 3313(a)(2)][/us/pl/102/190/s3313/a/2], which directed the substitution of “fiscal year” for “6-month period”, could not be executed because the words “6-month period” did not appear in text.
+    Subsec. (a)(1). [Pub. L. 102–190][/us/pl/102/190], § 3313(a)(2), which directed the substitution of “fiscal year” for “6-month period”, could not be executed because the words “6-month period” did not appear in text.
 
-    Subsec. (a)(2). [Pub. L. 102–190, § 3313(a)(3)][/us/pl/102/190/s3313/a/3], substituted “fiscal year” for “period”.
+    Subsec. (a)(2). [Pub. L. 102–190][/us/pl/102/190], § 3313(a)(3), substituted “fiscal year” for “period”.
 
-    Subsec. (a)(5). [Pub. L. 102–190, § 3313(a)(4)][/us/pl/102/190/s3313/a/4], substituted “current fiscal year” for “next fiscal year”.
+    Subsec. (a)(5). [Pub. L. 102–190][/us/pl/102/190], § 3313(a)(4), substituted “current fiscal year” for “next fiscal year”.
 
-    Subsec. (b)(1). [Pub. L. 102–190, § 3311(b)(1)][/us/pl/102/190/s3311/b/1], designated first sentence of subsec. (b) relating to submission of report as par. (1).
+    Subsec. (b)(1). [Pub. L. 102–190][/us/pl/102/190], § 3311(b)(1), designated first sentence of subsec. (b) relating to submission of report as par. (1).
 
-    Subsec. (b)(2). [Pub. L. 102–190, § 3311(b)][/us/pl/102/190/s3311/b], designated second sentence of subsec. (b) relating to contents of report as par. (2) and inserted at end “Each such report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(G) of this title][/us/usc/t50/s98h/b/2/G] during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.”
+    Subsec. (b)(2). [Pub. L. 102–190][/us/pl/102/190], § 3311(b), designated second sentence of subsec. (b) relating to contents of report as par. (2) and inserted at end “Each such report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(G) of this title][/us/usc/t50/s98h/b/2/G] during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.”
 
-    Subsec. (b)(3). [Pub. L. 102–190, § 3311(b)(1)][/us/pl/102/190/s3311/b/1], designated third sentence of subsec. (b) relating to resubmission of proposed expenditures and disposals not obligated or executed as par. (3).
+    Subsec. (b)(3). [Pub. L. 102–190][/us/pl/102/190], § 3311(b)(1), designated third sentence of subsec. (b) relating to resubmission of proposed expenditures and disposals not obligated or executed as par. (3).
 
     1989—Subsec. (a)(5). [Pub. L. 101–189][/us/pl/101/189] substituted “made to the fund, and obligations to be made from the fund,” for “made from the fund”.
 
-    1988—Subsec. (a)(3) to (6). [Pub. L. 100–456, § 1503(a)][/us/pl/100/456/s1503/a], added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+    1988—Subsec. (a)(3) to (6). [Pub. L. 100–456][/us/pl/100/456], § 1503(a), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
-    Subsec. (b). [Pub. L. 100–456, § 1503(b)][/us/pl/100/456/s1503/b], substituted “the next fiscal year” for “such fiscal year” and “all planned expenditures from the National Defense Stockpile Transaction Fund” for “planned expenditures for acquisition of strategic and critical materials” and inserted at end “Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], as appropriate.”
+    Subsec. (b). [Pub. L. 100–456][/us/pl/100/456], § 1503(b), substituted “the next fiscal year” for “such fiscal year” and “all planned expenditures from the National Defense Stockpile Transaction Fund” for “planned expenditures for acquisition of strategic and critical materials” and inserted at end “Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with [section 98d(a)(2) of this title][/us/usc/t50/s98d/a/2], as appropriate.”
 
     1987—Subsec. (b). [Pub. L. 100–180][/us/pl/100/180] substituted “Not later than February 15 of each year, the President” for “The President” and struck out “each year, at the time that the Budget is submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for the next fiscal year,” after “Congress”.
 
@@ -94,29 +94,29 @@
 [/us/usc/t50/s98h/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F2%2FH
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
-[/us/act/1939-06-07/ch190/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs11
-[/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F324
-[/us/pl/97/35/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs203%2Fe
+[/us/pl/97/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtII
 [/us/stat/95/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F382
-[/us/pl/99/661/s3207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3207%2Fa%2F3
+[/us/pl/99/661/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdC%2FtII
 [/us/stat/100/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4069
-[/us/pl/100/180/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3205
+[/us/pl/100/180/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtII
 [/us/stat/101/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1247
-[/us/pl/100/456/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1503
+[/us/pl/100/456/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXV
 [/us/stat/102/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2086
-[/us/pl/101/189/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3315
+[/us/pl/101/189/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXIII
 [/us/stat/103/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1688
-[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXIII
 [/us/stat/105/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1584
-[/us/pl/103/35/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs204%2Fd
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F103
-[/us/pl/113/291/s1071/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fj
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3512
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
 [/us/stat/60/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F596
-[/us/pl/92/156/s503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2Fs503%2F1
+[/us/pl/92/156/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2FtV
 [/us/stat/85/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F427
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/96/41/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fb%2F2
@@ -124,17 +124,17 @@
 [/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/102/190/s3313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3313%2Fa%2F1
-[/us/pl/102/190/s3313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3313%2Fa%2F2
-[/us/pl/102/190/s3313/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3313%2Fa%2F3
-[/us/pl/102/190/s3313/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3313%2Fa%2F4
-[/us/pl/102/190/s3311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3311%2Fb%2F1
-[/us/pl/102/190/s3311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3311%2Fb
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t50/s98h/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%2Fb%2F2%2FG
-[/us/pl/102/190/s3311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3311%2Fb%2F1
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/100/456/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1503%2Fa
-[/us/pl/100/456/s1503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1503%2Fb
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180

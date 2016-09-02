@@ -29,7 +29,7 @@
 
         The Secretary of Energy shall establish a university program at a location that can develop the most effective collaboration among national laboratories, universities and colleges, and industry in support of scientific and engineering advancement in key Department of Energy defense and national security program areas.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4814][/us/pl/107/314/s4814], formerly [Pub. L. 105–85, div. C, title XXXI, § 3155][/us/pl/105/85/s3155], Nov. 18, 1997, [111 Stat. 2044][/us/stat/111/2044]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4814][/us/pl/107/314/s4814], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(9)][/us/pl/108/136/s3141/k/9], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 112–239, div. C, title XXXI, § 3131(y)][/us/pl/112/239/s3131/y], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4814, formerly [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3155, Nov. 18, 1997, [111 Stat. 2044][/us/stat/111/2044]; renumbered [Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4814, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(9), Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(y), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
     2013—Subsec. (c). [Pub. L. 112–239][/us/pl/112/239] struck out subsec. (c). Prior to amendment, text read as follows: “Of the funds authorized to be appropriated in title XXXI of the National Defense Authorization Act for Fiscal Year 1998 ([Public Law 105–85][/us/pl/105/85]) to the Department of Energy for fiscal year 1998, the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b).”
 
-    2003—Subsec. (c). [Pub. L. 108–136, § 3141(k)(9)(D)][/us/pl/108/136/s3141/k/9/D], substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1998 ([Public Law 105–85][/us/pl/105/85])” for “this title”.
+    2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 3141(k)(9)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1998 ([Public Law 105–85][/us/pl/105/85])” for “this title”.
 
 ----------
 
@@ -48,19 +48,19 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4814
-[/us/pl/105/85/s3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3155
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2044
-[/us/pl/107/314/s4814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4814
-[/us/pl/108/136/s3141/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F9
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1785
-[/us/pl/112/239/s3131/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fy
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
 [/us/usc/t42/s7381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7381
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/108/136/s3141/k/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F9%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

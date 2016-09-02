@@ -17,7 +17,7 @@
 
     Compliance with the registration provisions of this subchapter does not relieve any person from compliance with any other applicable registration statute.
 
-([Aug. 1, 1956, ch. 849, § 8][/us/act/1956-08-01/ch849/s8], [70 Stat. 900][/us/stat/70/900].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 8, [70 Stat. 900][/us/stat/70/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch849/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs8
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F900
 
 

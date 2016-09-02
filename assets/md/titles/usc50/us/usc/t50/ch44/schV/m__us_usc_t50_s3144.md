@@ -115,7 +115,7 @@
 
             (B) Whether the National Security Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 704, as added [Pub. L. 108–136, div. A, title IX, § 922(a)][/us/pl/108/136/s922/a], Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570]; amended [Pub. L. 108–375, div. A, title X, § 1084(j)][/us/pl/108/375/s1084/j], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 108–458, title I, § 1071(a)(1)(JJ)][/us/pl/108/458/s1071/a/1/JJ]–(LL), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 109–163, div. A, title IX, § 933(b)(3)][/us/pl/109/163/s933/b/3], Jan. 6, 2006, [119 Stat. 3416][/us/stat/119/3416].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 704, as added [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 922(a), Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(j), Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(JJ)–(LL), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 933(b)(3), Jan. 6, 2006, [119 Stat. 3416][/us/stat/119/3416].)
 
  __References in Text__ 
 
@@ -129,13 +129,13 @@
 
     2006—Subsec. (c)(3)(H). [Pub. L. 109–163][/us/pl/109/163] added subpar. (H).
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 1071(a)(1)(JJ)][/us/pl/108/458/s1071/a/1/JJ], which directed amendment of par. (1) of subsec. (a) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was executed to text of subsec. (a), which does not contain any pars., to reflect the probable intent of Congress.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(JJ), which directed amendment of par. (1) of subsec. (a) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was executed to text of subsec. (a), which does not contain any pars., to reflect the probable intent of Congress.
 
     Subsec. (f)(2)(D)(i). [Pub. L. 108–375][/us/pl/108/375] substituted “responsive records” for “responsible records”.
 
-    Subsec. (f)(2)(H). [Pub. L. 108–458, § 1071(a)(1)(KK)][/us/pl/108/458/s1071/a/1/KK], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (f)(2)(H). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(KK), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (g)(1). [Pub. L. 108–458, § 1071(a)(1)(LL)][/us/pl/108/458/s1071/a/1/LL], substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
+    Subsec. (g)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(LL), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -157,20 +157,20 @@
 [/us/usc/t5/s552/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FB
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/136/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fa
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1570
-[/us/pl/108/375/s1084/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fj
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2064
-[/us/pl/108/458/s1071/a/1/JJ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FJJ
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/109/163/s933/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs933%2Fb%2F3
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3416
 [/us/usc/t50/s432b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432b
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/458/s1071/a/1/JJ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FJJ
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/458/s1071/a/1/KK]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FKK
-[/us/pl/108/458/s1071/a/1/LL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FLL
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

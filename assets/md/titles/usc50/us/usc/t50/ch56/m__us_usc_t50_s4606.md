@@ -237,7 +237,7 @@
 
         For purposes of subsection (d) of this section, and for purposes of any export controls imposed under this chapter, shipments of crude oil, refined petroleum products, or partially refined petroleum products from the United States for use by the Department of Defense or United States-supported installations or facilities shall not be considered to be exports.
 
-([Pub. L. 96–72, § 7][/us/pl/96/72/s7], Sept. 29, 1979, [93 Stat. 515][/us/stat/93/515]; [Pub. L. 99–64, title I][/us/pl/99/64], §§ 109, 110, July 12, 1985, [99 Stat. 137][/us/stat/99/137], 139; [Pub. L. 100–180, div. A, title XII, § 1246][/us/pl/100/180/s1246], Dec. 4, 1987, [101 Stat. 1165][/us/stat/101/1165]; [Pub. L. 100–418, title II, § 2424(a)][/us/pl/100/418/s2424/a], Aug. 23, 1988, [102 Stat. 1359][/us/stat/102/1359]; [Pub. L. 100–449, title III, § 305(a)][/us/pl/100/449/s305/a], Sept. 28, 1988, [102 Stat. 1876][/us/stat/102/1876].)
+([Pub. L. 96–72][/us/pl/96/72], § 7, Sept. 29, 1979, [93 Stat. 515][/us/stat/93/515]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], §§ 109, 110, July 12, 1985, [99 Stat. 137][/us/stat/99/137], 139; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1246, Dec. 4, 1987, [101 Stat. 1165][/us/stat/101/1165]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2424(a), Aug. 23, 1988, [102 Stat. 1359][/us/stat/102/1359]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 305(a), Sept. 28, 1988, [102 Stat. 1876][/us/stat/102/1876].)
 
  __Amendment of Section__ 
 
@@ -249,11 +249,11 @@
 
  __References in Text__ 
 
-    Section 812 of the Agricultural Act of 1970, referred to in subsec. (b)(1), is [section 812 of Pub. L. 91–524][/us/pl/91/524/s812], which was classified to [section 612c–3 of Title 7][/us/usc/t7/s612c–3], Agriculture, prior to repeal by [Pub. L. 101–624, title XV, § 1578][/us/pl/101/624/s1578], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712].
+    Section 812 of the Agricultural Act of 1970, referred to in subsec. (b)(1), is [section 812 of Pub. L. 91–524][/us/pl/91/524/s812], which was classified to [section 612c–3 of Title 7][/us/usc/t7/s612c–3], Agriculture, prior to repeal by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712].
 
     This chapter, referred to in subsecs. (c), (d), (g), and (k), was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
 
-    [Section 12106 of title 46][/us/usc/t46/s12106], referred to in subsec. (d)(1)(C), related to coastwise endorsements, prior to its omission and restatement of its provisions in the general amendment of chapter 121 of Title 46, Shipping, by [Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. See sections 12102, 12112, 12116, 12117, and 12119 of Title 46 and Prior Provisions note under new [section 12106 of Title 46][/us/usc/t46/s12106].
+    [Section 12106 of title 46][/us/usc/t46/s12106], referred to in subsec. (d)(1)(C), related to coastwise endorsements, prior to its omission and restatement of its provisions in the general amendment of chapter 121 of Title 46, Shipping, by [Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. See sections 12102, 12112, 12116, 12117, and 12119 of Title 46 and Prior Provisions note under new [section 12106 of Title 46][/us/usc/t46/s12106].
 
     Section 7(g)(3) of the Export Administration Act of 1979, referred to in subsec. (g)(4)(A), is [section 7(g)(3) of Pub. L. 96–72][/us/pl/96/72/s7/g/3], which is classified to subsec. (g)(3) of this section.
 
@@ -263,7 +263,7 @@
 
     Section was formerly classified to section 2406 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2406 of the former Appendix to this title, [Pub. L. 91–184, § 7][/us/pl/91/184/s7], Dec. 30, 1969, [83 Stat. 845][/us/stat/83/845]; [Pub. L. 95–52, title I][/us/pl/95/52], §§ 113(a), 114, title II, § 201(c), June 22, 1977, [91 Stat. 241][/us/stat/91/241], 246, set forth enforcement procedures applicable to the Export Administration Act of 1969, prior to the expiration of the Act on Sept. 30, 1979. See [section 4614 of this title][/us/usc/t50/s4614].
+    A prior section 2406 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 7, Dec. 30, 1969, [83 Stat. 845][/us/stat/83/845]; [Pub. L. 95–52, title I][/us/pl/95/52/tI], §§ 113(a), 114, title II, § 201(c), June 22, 1977, [91 Stat. 241][/us/stat/91/241], 246, set forth enforcement procedures applicable to the Export Administration Act of 1969, prior to the expiration of the Act on Sept. 30, 1979. See [section 4614 of this title][/us/usc/t50/s4614].
 
  __Amendments__ 
 
@@ -273,33 +273,33 @@
 
     1987—Subsec. (k). [Pub. L. 100–180][/us/pl/100/180] added subsec. (k).
 
-    1985—Subsec. (c). [Pub. L. 99–64, § 109][/us/pl/99/64/s109], amended subsec. (c) generally to require the Secretary to make and publish certain determinations of private petitions as well as on self-initiated motions before imposing monitoring or controls or both on exports of metallic materials capable of being recycled, to require that each petition filed requesting the imposition of monitoring, controls, or both, on metallic materials capable of being recycled indicate that each of the criteria in par. (3)(A) is satisfied, to require the Secretary to publish certain determinations, including findings of fact in support of the determinations, before deciding whether to impose monitoring, controls, or both on exports of such material, including whether there has been a significant increase, in relation to a specific period of time, in exports of such material in relation to domestic supply and demand, and whether exports of such material are as important as any other cause of the domestic price increase or shortage relative to demand, to allow the Secretary to impose monitoring, controls, or both, on a temporary basis after a petition is filed if the Secretary considers such action to be necessary to carry out the policy set forth in [section 4602(2)(C) of this title][/us/usc/t50/s4602/2/C], but before the Secretary makes a determination under par. (3) only if failure to take such temporary action would result in irreparable harm to the entity filing the petition, or to the national economy or segment thereof, including a domestic industry, requires that if the Secretary determines, on his initiative, to monitor, control, or both, the export of such material, the Secretary shall publish the reasons for such determination in accordance with par. (3)(A) and (B), requires that exports of material be as important as any other cause of the increased domestic prices or shortage, and sets a standard under which exports need not be the sole or principal cause of the price rise or domestic shortage in order for exports of the material to be controlled or monitored.
+    1985—Subsec. (c). [Pub. L. 99–64][/us/pl/99/64], § 109, amended subsec. (c) generally to require the Secretary to make and publish certain determinations of private petitions as well as on self-initiated motions before imposing monitoring or controls or both on exports of metallic materials capable of being recycled, to require that each petition filed requesting the imposition of monitoring, controls, or both, on metallic materials capable of being recycled indicate that each of the criteria in par. (3)(A) is satisfied, to require the Secretary to publish certain determinations, including findings of fact in support of the determinations, before deciding whether to impose monitoring, controls, or both on exports of such material, including whether there has been a significant increase, in relation to a specific period of time, in exports of such material in relation to domestic supply and demand, and whether exports of such material are as important as any other cause of the domestic price increase or shortage relative to demand, to allow the Secretary to impose monitoring, controls, or both, on a temporary basis after a petition is filed if the Secretary considers such action to be necessary to carry out the policy set forth in [section 4602(2)(C) of this title][/us/usc/t50/s4602/2/C], but before the Secretary makes a determination under par. (3) only if failure to take such temporary action would result in irreparable harm to the entity filing the petition, or to the national economy or segment thereof, including a domestic industry, requires that if the Secretary determines, on his initiative, to monitor, control, or both, the export of such material, the Secretary shall publish the reasons for such determination in accordance with par. (3)(A) and (B), requires that exports of material be as important as any other cause of the increased domestic prices or shortage, and sets a standard under which exports need not be the sole or principal cause of the price rise or domestic shortage in order for exports of the material to be controlled or monitored.
 
-    Subsec. (d)(1). [Pub. L. 99–64, § 110(a)(1)][/us/pl/99/64/s110/a/1], substituted “subject to paragraph (2) of this subsection” for “unless the requirements of paragraph (2) of this subsection are met”.
+    Subsec. (d)(1). [Pub. L. 99–64][/us/pl/99/64], § 110(a)(1), substituted “subject to paragraph (2) of this subsection” for “unless the requirements of paragraph (2) of this subsection are met”.
 
-    Subsec. (d)(2)(A). [Pub. L. 99–64, § 110(a)(2)][/us/pl/99/64/s110/a/2], substituted “the President so recommends to the Congress after making and publishing” for “the President makes and publishes” in the provisions preceding cl. (i).
+    Subsec. (d)(2)(A). [Pub. L. 99–64][/us/pl/99/64], § 110(a)(2), substituted “the President so recommends to the Congress after making and publishing” for “the President makes and publishes” in the provisions preceding cl. (i).
 
-    Subsec. (d)(2)(B). [Pub. L. 99–64, § 110(a)(3)][/us/pl/99/64/s110/a/3], substituted “includes such findings in his recommendation” for “reports such findings” and “after receiving that recommendation, agrees to a joint resolution which approves such exports on the basis of those findings, and which is thereafter enacted into law” for “thereafter, agrees to a concurrent resolution approving such exports on the basis of the findings”.
+    Subsec. (d)(2)(B). [Pub. L. 99–64][/us/pl/99/64], § 110(a)(3), substituted “includes such findings in his recommendation” for “reports such findings” and “after receiving that recommendation, agrees to a joint resolution which approves such exports on the basis of those findings, and which is thereafter enacted into law” for “thereafter, agrees to a concurrent resolution approving such exports on the basis of the findings”.
 
-    Subsec. (d)(4). [Pub. L. 99–64, § 110(a)(4)][/us/pl/99/64/s110/a/4], added par. (4).
+    Subsec. (d)(4). [Pub. L. 99–64][/us/pl/99/64], § 110(a)(4), added par. (4).
 
-    Subsec. (e)(1). [Pub. L. 99–64, § 110(b)][/us/pl/99/64/s110/b], substituted “In any case in which the President determines that it is necessary to impose export controls on refined petroleum products in order to carry out the policy set forth in [section 4602(2)(C) of this title][/us/usc/t50/s4602/2/C], the President shall notify the Congress of that determination. The President shall also notify the Congress if and when he determines that such export controls are no longer necessary. During any period in which a determination that such export controls are necessary is in effect, no” for “No”.
+    Subsec. (e)(1). [Pub. L. 99–64][/us/pl/99/64], § 110(b), substituted “In any case in which the President determines that it is necessary to impose export controls on refined petroleum products in order to carry out the policy set forth in [section 4602(2)(C) of this title][/us/usc/t50/s4602/2/C], the President shall notify the Congress of that determination. The President shall also notify the Congress if and when he determines that such export controls are no longer necessary. During any period in which a determination that such export controls are necessary is in effect, no” for “No”.
 
-    Subsec. (g)(3). [Pub. L. 99–64, § 110(d)][/us/pl/99/64/s110/d], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If the authority conferred by this section or [section 4605 of this title][/us/usc/t50/s4605] is exercised to prohibit or curtail the export of any agricultural commodity in order to carry out the policies set forth in subparagraph (B) or (C) of paragraph (2) of [section 4602 of this title][/us/usc/t50/s4602], the President shall immediately report such prohibition or curtailment to the Congress, setting forth the reasons therefor in detail. If the Congress, within 30 days after the date of its receipt of such report, adopts a concurrent resolution disapproving such prohibition or curtailment, then such prohibition or curtailment shall cease to be effective with the adoption of such resolution. In the computation of such 30-day period, there shall be excluded the days on which either House is not in session because of an adjournment of more than 3 days to a day certain or because of an adjournment of the Congress sine die.”
+    Subsec. (g)(3). [Pub. L. 99–64][/us/pl/99/64], § 110(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If the authority conferred by this section or [section 4605 of this title][/us/usc/t50/s4605] is exercised to prohibit or curtail the export of any agricultural commodity in order to carry out the policies set forth in subparagraph (B) or (C) of paragraph (2) of [section 4602 of this title][/us/usc/t50/s4602], the President shall immediately report such prohibition or curtailment to the Congress, setting forth the reasons therefor in detail. If the Congress, within 30 days after the date of its receipt of such report, adopts a concurrent resolution disapproving such prohibition or curtailment, then such prohibition or curtailment shall cease to be effective with the adoption of such resolution. In the computation of such 30-day period, there shall be excluded the days on which either House is not in session because of an adjournment of more than 3 days to a day certain or because of an adjournment of the Congress sine die.”
 
-    Subsec. (g)(4), (5). [Pub. L. 99–64, § 110(d)][/us/pl/99/64/s110/d], added pars. (4) and (5).
+    Subsec. (g)(4), (5). [Pub. L. 99–64][/us/pl/99/64], § 110(d), added pars. (4) and (5).
 
-    Subsec. (i)(1). [Pub. L. 99–64, § 110(c)(1)][/us/pl/99/64/s110/c/1], inserted “harvested from State or Federal lands” after “red cedar logs” in concluding provision.
+    Subsec. (i)(1). [Pub. L. 99–64][/us/pl/99/64], § 110(c)(1), inserted “harvested from State or Federal lands” after “red cedar logs” in concluding provision.
 
-    Subsec. (i)(2). [Pub. L. 99–64, § 110(c)(3)][/us/pl/99/64/s110/c/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (i)(2). [Pub. L. 99–64][/us/pl/99/64], § 110(c)(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (i)(3), (4). [Pub. L. 99–64, § 110(c)(2)][/us/pl/99/64/s110/c/2], redesignated former pars. (2) and (3) as (3) and (4), respectively. Former pars. (3) and (4) redesignated (4) and (5), respectively.
+    Subsec. (i)(3), (4). [Pub. L. 99–64][/us/pl/99/64], § 110(c)(2), redesignated former pars. (2) and (3) as (3) and (4), respectively. Former pars. (3) and (4) redesignated (4) and (5), respectively.
 
-    Subsec. (i)(5). [Pub. L. 99–64, § 110(c)(2)][/us/pl/99/64/s110/c/2], redesignated former par. (4) as (5).
+    Subsec. (i)(5). [Pub. L. 99–64][/us/pl/99/64], § 110(c)(2), redesignated former par. (4) as (5).
 
-    Subsec. (i)(5)(A). [Pub. L. 99–64, § 110(c)(4)][/us/pl/99/64/s110/c/4], amended subpar. (A) generally, substituting “lumber of American Lumber Standards Grades of Number 3 dimension or better, or Pacific Lumber Inspection Bureau Export R-List Grades of Number 3 common or better” for “lumber without wane”.
+    Subsec. (i)(5)(A). [Pub. L. 99–64][/us/pl/99/64], § 110(c)(4), amended subpar. (A) generally, substituting “lumber of American Lumber Standards Grades of Number 3 dimension or better, or Pacific Lumber Inspection Bureau Export R-List Grades of Number 3 common or better” for “lumber without wane”.
 
-    Subsec. (j). [Pub. L. 99–64, § 110(e)][/us/pl/99/64/s110/e], added subsec. (j) and struck out former subsec. (j) which related to the export of horses.
+    Subsec. (j). [Pub. L. 99–64][/us/pl/99/64], § 110(e), added subsec. (j) and struck out former subsec. (j) which related to the export of horses.
 
  __Effective and Termination Dates of 1988 Amendment__ 
 
@@ -307,7 +307,7 @@
 
  __Regulations__ 
 
-[Pub. L. 96–72, § 19(b)(2)][/us/pl/96/72/s19/b/2], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535], provided that: 
+[Pub. L. 96–72][/us/pl/96/72], § 19(b)(2), Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535], provided that: 
 
 > “Regulations implementing the provisions of section 7(c) of this Act \[[50 U.S.C. 4606(c)][/us/usc/t50/s4606/c]\] shall be issued and take effect not later than January 1, 1980.”
 
@@ -317,15 +317,15 @@
 
  __Unprocessed Red Cedar Exempt From Export Regulations__ 
 
-[Pub. L. 98–411, title V, § 514][/us/pl/98/411/s514], Aug. 30, 1984, [98 Stat. 1575][/us/stat/98/1575], provided that: 
+[Pub. L. 98–411, title V][/us/pl/98/411/tV], § 514, Aug. 30, 1984, [98 Stat. 1575][/us/stat/98/1575], provided that: 
 
 > “None of the funds appropriated or made available by this Act \[[Pub. L. 98–411][/us/pl/98/411]\] may be used to enforce or give effect to any restriction on the export of unprocessed western red cedar harvested from State lands pursuant to a harvesting contract entered into prior to October 1, 1979.”
 
-[Pub. L. 96–126, title III, § 308][/us/pl/96/126/s308], Nov. 27, 1979, [93 Stat. 980][/us/stat/93/980], provided that: 
+[Pub. L. 96–126, title III][/us/pl/96/126/tIII], § 308, Nov. 27, 1979, [93 Stat. 980][/us/stat/93/980], provided that: 
 
 > “Notwithstanding the provisions of any other law, the State of Alaska is exempted from application of the provisions of section 7(i) of the Export Administration Act of 1979 ([Public Law 96–72][/us/pl/96/72]) \[[50 U.S.C. 4606(i)][/us/usc/t50/s4606/i]\].”
 
-In making continuing appropriations for fiscal year 1981, [Pub. L. 96–536][/us/pl/96/536], §§ 101(o), 102, Dec. 16, 1980, [94 Stat. 3169][/us/stat/94/3169], as amended by [Pub. L. 97–12, § 401][/us/pl/97/12/s401], June 5, 1981, [95 Stat. 95][/us/stat/95/95], provided in part for the period Dec. 15, 1980, to Sept. 30, 1981: “such amounts as may be necessary for programs, projects, and activities provided for in the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1981 (H.R. 7584), to the extent and in the manner provided for in such Act as enacted by the Congress.” H.R. 7584, which was enacted by the Congress and vetoed by the President Dec. 13, 1980, contained a section 610 that read: 
+In making continuing appropriations for fiscal year 1981, [Pub. L. 96–536][/us/pl/96/536], §§ 101(o), 102, Dec. 16, 1980, [94 Stat. 3169][/us/stat/94/3169], as amended by [Pub. L. 97–12][/us/pl/97/12], § 401, June 5, 1981, [95 Stat. 95][/us/stat/95/95], provided in part for the period Dec. 15, 1980, to Sept. 30, 1981: “such amounts as may be necessary for programs, projects, and activities provided for in the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1981 (H.R. 7584), to the extent and in the manner provided for in such Act as enacted by the Congress.” H.R. 7584, which was enacted by the Congress and vetoed by the President Dec. 13, 1980, contained a section 610 that read: 
 
 > “None of the funds appropriated or made available by this Act may be used to enforce or give effect to the quantitative restrictions required to be imposed by subsection 7(i)(1) of the Export Administration Act of 1979 ([Public Law 96–72][/us/pl/96/72]) \[[50 U.S.C. 4606(i)][/us/usc/t50/s4606/i]\] in any way which would make such restrictions applicable to the export of: (a) up to ninety million board feet (computed without regard to exports or export authorizations made prior to the effective date of this Act) of unprocessed western red cedar harvested from State or Federal lands pursuant to a harvesting contract entered into prior to October 1, 1979, or any extension thereof; or (b) lumber of American Lumber Standards Grades of Number 3 dimensions or better, of Pacific Lumber Inspection Bureau Export R-List Grades of Number 3 Common or better.”
 
@@ -358,36 +358,36 @@ In making continuing appropriations for fiscal year 1981, [Pub. L. 96–536][/us
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
 [/us/usc/t50/s4602/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FC
 [/us/usc/t50/s4603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fa%2F2
-[/us/pl/96/72/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs7
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F515
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F137
-[/us/pl/100/180/s1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1246
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1165
-[/us/pl/100/418/s2424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2424%2Fa
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1359
-[/us/pl/100/449/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs305%2Fa
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1876
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/91/524/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs812
 [/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
-[/us/pl/101/624/s1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1578
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
 [/us/usc/t7/s5712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5712
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t46/s12106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12106
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1491
 [/us/usc/t46/s12106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12106
 [/us/pl/96/72/s7/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs7%2Fg%2F3
 [/us/pl/94/329/s601/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb%2F4
 [/us/stat/90/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F729
-[/us/pl/91/184/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs7
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F845
-[/us/pl/95/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F241
 [/us/usc/t50/s4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
@@ -395,41 +395,41 @@ In making continuing appropriations for fiscal year 1981, [Pub. L. 96–536][/us
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/64/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs109
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4602/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FC
-[/us/pl/99/64/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fa%2F1
-[/us/pl/99/64/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fa%2F2
-[/us/pl/99/64/s110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fa%2F3
-[/us/pl/99/64/s110/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fa%2F4
-[/us/pl/99/64/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fb
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4602/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FC
-[/us/pl/99/64/s110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fd
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
-[/us/pl/99/64/s110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fd
-[/us/pl/99/64/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fc%2F1
-[/us/pl/99/64/s110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fc%2F3
-[/us/pl/99/64/s110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fc%2F2
-[/us/pl/99/64/s110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fc%2F2
-[/us/pl/99/64/s110/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fc%2F4
-[/us/pl/99/64/s110/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs110%2Fe
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/96/72/s19/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs19%2Fb%2F2
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F535
 [/us/usc/t50/s4606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606%2Fc
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
-[/us/pl/98/411/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs514
+[/us/pl/98/411/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2FtV
 [/us/stat/98/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1575
 [/us/pl/98/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411
-[/us/pl/96/126/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126%2Fs308
+[/us/pl/96/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F126%2FtIII
 [/us/stat/93/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F980
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/usc/t50/s4606/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606%2Fi
 [/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3169
-[/us/pl/97/12/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2Fs401
+[/us/pl/97/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12
 [/us/stat/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F95
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/usc/t50/s4606/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606%2Fi

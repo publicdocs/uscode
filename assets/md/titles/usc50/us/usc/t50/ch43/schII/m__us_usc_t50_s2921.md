@@ -17,7 +17,7 @@
 
     It shall be the policy of the United States, consistent with the 9/11 Commission’s recommendations, to eliminate any obstacles to timely obligating and executing the full amount of any appropriated funds for threat reduction and nonproliferation programs in order to accelerate and strengthen progress on preventing weapons of mass destruction (WMD) proliferation and terrorism. Such policy shall be implemented with concrete measures, such as those described in this chapter, including the removal and modification of statutory limits to executing funds, the expansion and strengthening of the Proliferation Security Initiative, the establishment of the Office of the United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism under subchapter III, and the establishment of the Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism under subtitle E. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text below. </sup></sup>  As a result, Congress intends that any funds authorized to be appropriated to programs for preventing WMD proliferation and terrorism under this subchapter will be executed in a timely manner.
 
-([Pub. L. 110–53, title XVIII, § 1831][/us/pl/110/53/s1831], Aug. 3, 2007, [121 Stat. 496][/us/stat/121/496].)
+([Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1831, Aug. 3, 2007, [121 Stat. 496][/us/stat/121/496].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1831
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F496
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021

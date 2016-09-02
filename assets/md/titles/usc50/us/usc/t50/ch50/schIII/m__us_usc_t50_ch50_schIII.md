@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–275, title III, § 302(b)][/us/pl/111/275/s302/b], Oct. 13, 2010, [124 Stat. 2876][/us/stat/124/2876], inserted “, TELEPHONE SERVICE CONTRACTS” after “LEASES” in heading.
+    2010—[Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 302(b), Oct. 13, 2010, [124 Stat. 2876][/us/stat/124/2876], inserted “, TELEPHONE SERVICE CONTRACTS” after “LEASES” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/275/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs302%2Fb
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2876
 
 

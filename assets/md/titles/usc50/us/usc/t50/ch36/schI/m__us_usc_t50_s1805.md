@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a...1805c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
 
 ## § 1805. Issuance of order
 
@@ -197,11 +197,11 @@
 
         In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in [section 1842(d)(2) of this title][/us/usc/t50/s1842/d/2].
 
-([Pub. L. 95–511, title I, § 105][/us/pl/95/511/s105], Oct. 25, 1978, [92 Stat. 1790][/us/stat/92/1790]; [Pub. L. 98–549, § 6(b)(3)][/us/pl/98/549/s6/b/3], Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; [Pub. L. 106–567, title VI, § 602(b)][/us/pl/106/567/s602/b], Dec. 27, 2000, [114 Stat. 2851][/us/stat/114/2851]; [Pub. L. 107–56, title II][/us/pl/107/56], §§ 206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, [115 Stat. 282][/us/stat/115/282], 295; [Pub. L. 107–108, title III, § 314(a)(2)][/us/pl/107/108/s314/a/2], (c)(1), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], 1403; [Pub. L. 107–273, div. B, title IV, § 4005(c)][/us/pl/107/273/s4005/c], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812]; [Pub. L. 108–458, title I, § 1071(e)][/us/pl/108/458/s1071/e], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I][/us/pl/109/177], §§ 102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], 203; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 105(a), 110(c)(1), July 10, 2008, [122 Stat. 2461][/us/stat/122/2461], 2466; [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 111–259, title VIII, § 806(a)(2)][/us/pl/111/259/s806/a/2], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII][/us/pl/114/23], §§ 701(a), 705(a), (c), June 2, 2015, [129 Stat. 298][/us/stat/129/298], 300.)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 105, Oct. 25, 1978, [92 Stat. 1790][/us/stat/92/1790]; [Pub. L. 98–549][/us/pl/98/549], § 6(b)(3), Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; [Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 602(b), Dec. 27, 2000, [114 Stat. 2851][/us/stat/114/2851]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], §§ 206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, [115 Stat. 282][/us/stat/115/282], 295; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 314(a)(2), (c)(1), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], 1403; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4005(c), Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(e), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], §§ 102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], 203; [Pub. L. 110–261, title I][/us/pl/110/261/tI], §§ 105(a), 110(c)(1), July 10, 2008, [122 Stat. 2461][/us/stat/122/2461], 2466; [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1004(a), Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141][/us/pl/111/141], § 1(a), Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(a)(2), Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748]; [Pub. L. 112–3][/us/pl/112/3], § 2(a), Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14][/us/pl/112/14], § 2(a), May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], §§ 701(a), 705(a), (c), June 2, 2015, [129 Stat. 298][/us/stat/129/298], 300.)
 
  __Amendment of Subsection (c)(2)__ 
 
-    [Pub. L. 109–177, title I, § 102(b)][/us/pl/109/177/s102/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII, § 705(a)][/us/pl/114/23/s705/a], (c), June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that, effective Dec. 15, 2019, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:
+    [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 102(b), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1004(a), Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141][/us/pl/111/141], § 1(a), Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3][/us/pl/112/3], § 2(a), Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14][/us/pl/112/14], § 2(a), May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], § 705(a), (c), June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that, effective Dec. 15, 2019, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:
 
     (2) direct—
 
@@ -219,93 +219,93 @@
 
  __References in Text__ 
 
-    [Section 1804(a)(7)(E) of this title][/us/usc/t50/s1804/a/7/E], referred to in subsec. (a)(4), was redesignated [section 1804(a)(6)(E) of this title][/us/usc/t50/s1804/a/6/E] by [Pub. L. 110–261, title I, § 104(1)(B)][/us/pl/110/261/s104/1/B], July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
+    [Section 1804(a)(7)(E) of this title][/us/usc/t50/s1804/a/7/E], referred to in subsec. (a)(4), was redesignated [section 1804(a)(6)(E) of this title][/us/usc/t50/s1804/a/6/E] by [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 104(1)(B), July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
 
-    [Section 1804(d) of this title][/us/usc/t50/s1804/d], referred to in subsec. (a)(4), was redesignated [section 1804(c) of this title][/us/usc/t50/s1804/c] by [Pub. L. 110–261, title I, § 104(3)][/us/pl/110/261/s104/3], July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
+    [Section 1804(d) of this title][/us/usc/t50/s1804/d], referred to in subsec. (a)(4), was redesignated [section 1804(c) of this title][/us/usc/t50/s1804/c] by [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 104(3), July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
 
     This chapter, referred to in subsecs. (d), (f)(1), and (i), was in the original “this Act”, meaning [Pub. L. 95–511][/us/pl/95/511], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
 
  __Codification__ 
 
-    As originally enacted, [Pub. L. 107–56, § 225][/us/pl/107/56/s225], amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both [Pub. L. 107–108, § 314(a)(2)(C)][/us/pl/107/108/s314/a/2/C], and [Pub. L. 107–273, § 4005(c)][/us/pl/107/273/s4005/c], made amendments retroactive to the date of enactment of [Pub. L. 107–56][/us/pl/107/56] which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
+    As originally enacted, [Pub. L. 107–56][/us/pl/107/56], § 225, amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both [Pub. L. 107–108][/us/pl/107/108], § 314(a)(2)(C), and [Pub. L. 107–273][/us/pl/107/273], § 4005(c), made amendments retroactive to the date of enactment of [Pub. L. 107–56][/us/pl/107/56] which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
 
  __Amendments__ 
 
-    2015—Subsec. (c)(2). [Pub. L. 114–23, § 705(a)][/us/pl/114/23/s705/a], (c), amended directory language of [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1]. See 2006 Amendment note below. Pursuant to [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1], as amended by [Pub. L. 112–14][/us/pl/112/14], subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by [Pub. L. 114–23][/us/pl/114/23], which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015.
+    2015—Subsec. (c)(2). [Pub. L. 114–23][/us/pl/114/23], § 705(a), (c), amended directory language of [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1). See 2006 Amendment note below. Pursuant to [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1), as amended by [Pub. L. 112–14][/us/pl/112/14], subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by [Pub. L. 114–23][/us/pl/114/23], which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015.
 
-    Subsecs. (f) to (j). [Pub. L. 114–23, § 701(a)][/us/pl/114/23/s701/a], added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+    Subsecs. (f) to (j). [Pub. L. 114–23][/us/pl/114/23], § 701(a), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
-    2011—Subsec. (c)(2). [Pub. L. 112–14][/us/pl/112/14] amended directory language of [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1]. See 2006 Amendment note below.
+    2011—Subsec. (c)(2). [Pub. L. 112–14][/us/pl/112/14] amended directory language of [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1). See 2006 Amendment note below.
 
-    [Pub. L. 112–3][/us/pl/112/3] amended directory language of [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1]. See 2006 Amendment note below.
+    [Pub. L. 112–3][/us/pl/112/3] amended directory language of [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1). See 2006 Amendment note below.
 
-    2010—Subsec. (c)(2). [Pub. L. 111–141][/us/pl/111/141] amended directory language of [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1]. See 2006 Amendment note below.
+    2010—Subsec. (c)(2). [Pub. L. 111–141][/us/pl/111/141] amended directory language of [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1). See 2006 Amendment note below.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458, § 1071(e)][/us/pl/108/458/s1071/e]. See 2004 Amendment note below.
+    Subsec. (c)(2)(C). [Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458][/us/pl/108/458], § 1071(e). See 2004 Amendment note below.
 
-    2009—Subsec. (c)(2). [Pub. L. 111–118][/us/pl/111/118] amended directory language of [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1]. See 2006 Amendment note below.
+    2009—Subsec. (c)(2). [Pub. L. 111–118][/us/pl/111/118] amended directory language of [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1). See 2006 Amendment note below.
 
-    2008—Subsec. (a). [Pub. L. 110–261, § 105(a)(1)][/us/pl/110/261/s105/a/1], redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for electronic surveillance for foreign intelligence information;”.
+    2008—Subsec. (a). [Pub. L. 110–261][/us/pl/110/261], § 105(a)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for electronic surveillance for foreign intelligence information;”.
 
-    Subsec. (b). [Pub. L. 110–261, § 105(a)(2)][/us/pl/110/261/s105/a/2], substituted “(a)(2)” for “(a)(3)”.
+    Subsec. (b). [Pub. L. 110–261][/us/pl/110/261], § 105(a)(2), substituted “(a)(2)” for “(a)(3)”.
 
-    Subsec. (c)(1)(D) to (F). [Pub. L. 110–261, § 105(a)(3)][/us/pl/110/261/s105/a/3], inserted “and” after semicolon at and of subpar. (D), substituted a period for “; and” in subpar. (E), and struck out subpar. (F) which read as follows: “whenever more than one electronic, mechanical, or other surveillance device is to be used under the order, the authorized coverage of the devices involved and what minimization procedures shall apply to information subject to acquisition by each device.”
+    Subsec. (c)(1)(D) to (F). [Pub. L. 110–261][/us/pl/110/261], § 105(a)(3), inserted “and” after semicolon at and of subpar. (D), substituted a period for “; and” in subpar. (E), and struck out subpar. (F) which read as follows: “whenever more than one electronic, mechanical, or other surveillance device is to be used under the order, the authorized coverage of the devices involved and what minimization procedures shall apply to information subject to acquisition by each device.”
 
-    Subsec. (d). [Pub. L. 110–261, § 105(a)(4)][/us/pl/110/261/s105/a/4], (5), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to exclusion of certain information respecting foreign power targets from ex parte order.
+    Subsec. (d). [Pub. L. 110–261][/us/pl/110/261], § 105(a)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to exclusion of certain information respecting foreign power targets from ex parte order.
 
-    Subsec. (d)(2). [Pub. L. 110–261, § 110(c)(1)][/us/pl/110/261/s110/c/1], substituted “paragraph (5), (6), or (7) of section 1801(a)” for “section 1801(a)(5) or (6)”.
+    Subsec. (d)(2). [Pub. L. 110–261][/us/pl/110/261], § 110(c)(1), substituted “paragraph (5), (6), or (7) of section 1801(a)” for “section 1801(a)(5) or (6)”.
 
-    Subsec. (e). [Pub. L. 110–261, § 105(a)(5)][/us/pl/110/261/s105/a/5], (6), redesignated subsec. (f) as (e) and amended it generally. Prior to amendment, subsec. (e) related to authority of the Attorney General to authorize emergency employment of electronic surveillance and required application to a judge within 72 hours after authorization. Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 110–261][/us/pl/110/261], § 105(a)(5), (6), redesignated subsec. (f) as (e) and amended it generally. Prior to amendment, subsec. (e) related to authority of the Attorney General to authorize emergency employment of electronic surveillance and required application to a judge within 72 hours after authorization. Former subsec. (e) redesignated (d).
 
-    Subsecs. (f) to (i). [Pub. L. 110–261, § 105(a)(5)][/us/pl/110/261/s105/a/5], (7), added subsec. (i) and redesignated former subsecs. (g) to (i) as (f) to (h), respectively. Former subsec. (f) redesignated (e).
+    Subsecs. (f) to (i). [Pub. L. 110–261][/us/pl/110/261], § 105(a)(5), (7), added subsec. (i) and redesignated former subsecs. (g) to (i) as (f) to (h), respectively. Former subsec. (f) redesignated (e).
 
-    2006—Subsec. (c)(1). [Pub. L. 109–177, § 108(b)(1)][/us/pl/109/177/s108/b/1], substituted “(1) Specifications.—An order approving an electronic surveillance under this section shall specify—” for “An order approving an electronic surveillance under this section shall—
+    2006—Subsec. (c)(1). [Pub. L. 109–177][/us/pl/109/177], § 108(b)(1), substituted “(1) Specifications.—An order approving an electronic surveillance under this section shall specify—” for “An order approving an electronic surveillance under this section shall—
 
     “(1) specify—”.
 
-    Subsec. (c)(1)(A). [Pub. L. 109–177, § 108(a)(2)(A)][/us/pl/109/177/s108/a/2/A], substituted “specific target of the electronic surveillance identified or described in the application pursuant to [section 1804(a)(3) of this title][/us/usc/t50/s1804/a/3]” for “target of the electronic surveillance”.
+    Subsec. (c)(1)(A). [Pub. L. 109–177][/us/pl/109/177], § 108(a)(2)(A), substituted “specific target of the electronic surveillance identified or described in the application pursuant to [section 1804(a)(3) of this title][/us/usc/t50/s1804/a/3]” for “target of the electronic surveillance”.
 
-    Subsec. (c)(1)(F). [Pub. L. 109–177, § 108(b)(2)][/us/pl/109/177/s108/b/2], substituted period for “; and” at end.
+    Subsec. (c)(1)(F). [Pub. L. 109–177][/us/pl/109/177], § 108(b)(2), substituted period for “; and” at end.
 
-    Subsec. (c)(2). [Pub. L. 109–177, § 108(b)(3)][/us/pl/109/177/s108/b/3], inserted par. heading and substituted “An order approving an electronic surveillance under this section shall direct” for “direct” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 109–177][/us/pl/109/177], § 108(b)(3), inserted par. heading and substituted “An order approving an electronic surveillance under this section shall direct” for “direct” in introductory provisions.
 
-    [Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1], as amended by [Pub. L. 111–118][/us/pl/111/118], [Pub. L. 111–141][/us/pl/111/141], [Pub. L. 112–3][/us/pl/112/3], [Pub. L. 112–14][/us/pl/112/14], and [Pub. L. 114–23, § 705(a)][/us/pl/114/23/s705/a], (c), amended par. (2), effective Dec. 15, 2019, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
+    [Pub. L. 109–177][/us/pl/109/177], § 102(b)(1), as amended by [Pub. L. 111–118][/us/pl/111/118], [Pub. L. 111–141][/us/pl/111/141], [Pub. L. 112–3][/us/pl/112/3], [Pub. L. 112–14][/us/pl/112/14], and [Pub. L. 114–23][/us/pl/114/23], § 705(a), (c), amended par. (2), effective Dec. 15, 2019, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
 
-    Subsec. (c)(2)(B). [Pub. L. 109–177, § 108(a)(2)(B)][/us/pl/109/177/s108/a/2/B], substituted “where the Court finds, based upon specific facts provided in the application,” for “where the Court finds”.
+    Subsec. (c)(2)(B). [Pub. L. 109–177][/us/pl/109/177], § 108(a)(2)(B), substituted “where the Court finds, based upon specific facts provided in the application,” for “where the Court finds”.
 
-    Subsec. (c)(3). [Pub. L. 109–177, § 108(b)(4)][/us/pl/109/177/s108/b/4], added par. (3).
+    Subsec. (c)(3). [Pub. L. 109–177][/us/pl/109/177], § 108(b)(4), added par. (3).
 
-    Subsec. (e)(1)(B). [Pub. L. 109–177, § 105(a)(1)][/us/pl/109/177/s105/a/1], substituted “who is not a United States person” for “, as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A]”.
+    Subsec. (e)(1)(B). [Pub. L. 109–177][/us/pl/109/177], § 105(a)(1), substituted “who is not a United States person” for “, as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A]”.
 
-    Subsec. (e)(2)(B). [Pub. L. 109–177, § 105(a)(2)][/us/pl/109/177/s105/a/2], substituted “who is not a United States person” for “as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A]”.
+    Subsec. (e)(2)(B). [Pub. L. 109–177][/us/pl/109/177], § 105(a)(2), substituted “who is not a United States person” for “as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A]”.
 
-    2004—Subsec. (c)(2)(C). [Pub. L. 108–458, § 1071(e)][/us/pl/108/458/s1071/e], as amended by [Pub. L. 111–259][/us/pl/111/259], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (c)(2)(C). [Pub. L. 108–458][/us/pl/108/458], § 1071(e), as amended by [Pub. L. 111–259][/us/pl/111/259], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    2002—Subsec. (i). [Pub. L. 107–273][/us/pl/107/273] amended [Pub. L. 107–56, § 225][/us/pl/107/56/s225]. See 2001 Amendment notes below.
+    2002—Subsec. (i). [Pub. L. 107–273][/us/pl/107/273] amended [Pub. L. 107–56][/us/pl/107/56], § 225. See 2001 Amendment notes below.
 
-    2001—Subsec. (c)(1)(B). [Pub. L. 107–108, § 314(a)(2)(A)][/us/pl/107/108/s314/a/2/A], inserted “, if known” before semicolon at end.
+    2001—Subsec. (c)(1)(B). [Pub. L. 107–108][/us/pl/107/108], § 314(a)(2)(A), inserted “, if known” before semicolon at end.
 
-    Subsec. (c)(2)(B). [Pub. L. 107–56, § 206][/us/pl/107/56/s206], inserted “, or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons,” after “specified person”.
+    Subsec. (c)(2)(B). [Pub. L. 107–56][/us/pl/107/56], § 206, inserted “, or in circumstances where the Court finds that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons,” after “specified person”.
 
-    Subsec. (e)(1). [Pub. L. 107–56, § 207(a)(1)][/us/pl/107/56/s207/a/1], inserted “(A)” after “except that” and “, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power, as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A] may be for the period specified in the application or for 120 days, whichever is less” before period at end.
+    Subsec. (e)(1). [Pub. L. 107–56][/us/pl/107/56], § 207(a)(1), inserted “(A)” after “except that” and “, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power, as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A] may be for the period specified in the application or for 120 days, whichever is less” before period at end.
 
-    Subsec. (e)(2). [Pub. L. 107–56, § 207(b)(1)][/us/pl/107/56/s207/b/1], as amended by [Pub. L. 107–108, § 314(c)(1)][/us/pl/107/108/s314/c/1], inserted “(A)” after “except that” and “, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A] may be for a period not to exceed 1 year” before period at end.
+    Subsec. (e)(2). [Pub. L. 107–56][/us/pl/107/56], § 207(b)(1), as amended by [Pub. L. 107–108][/us/pl/107/108], § 314(c)(1), inserted “(A)” after “except that” and “, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A] may be for a period not to exceed 1 year” before period at end.
 
-    Subsec. (f). [Pub. L. 107–108, § 314(a)(2)(B)][/us/pl/107/108/s314/a/2/B], substituted “72 hours” for “twenty-four hours” in two places in concluding provisions.
+    Subsec. (f). [Pub. L. 107–108][/us/pl/107/108], § 314(a)(2)(B), substituted “72 hours” for “twenty-four hours” in two places in concluding provisions.
 
-    Subsec. (h). [Pub. L. 107–108, § 314(a)(2)(C)][/us/pl/107/108/s314/a/2/C], transferred subsec. (h) added by [section 225 of Pub. L. 107–56][/us/pl/107/56/s225] to appear after the subsec. (h) redesignated by [section 602(b)(2) of Pub. L. 106–567][/us/pl/106/567/s602/b/2], and redesignated the transferred subsec. (h) as subsec. (i). See Codification note above.
+    Subsec. (h). [Pub. L. 107–108][/us/pl/107/108], § 314(a)(2)(C), transferred subsec. (h) added by [section 225 of Pub. L. 107–56][/us/pl/107/56/s225] to appear after the subsec. (h) redesignated by [section 602(b)(2) of Pub. L. 106–567][/us/pl/106/567/s602/b/2], and redesignated the transferred subsec. (h) as subsec. (i). See Codification note above.
 
-    Subsec. (i). [Pub. L. 107–108, § 314(a)(2)(D)][/us/pl/107/108/s314/a/2/D], inserted “for electronic surveillance or physical search” before period at end.
+    Subsec. (i). [Pub. L. 107–108][/us/pl/107/108], § 314(a)(2)(D), inserted “for electronic surveillance or physical search” before period at end.
 
-    [Pub. L. 107–108, § 314(a)(2)(C)][/us/pl/107/108/s314/a/2/C], transferred subsec. (h) added by [section 225 of Pub. L. 107–56][/us/pl/107/56/s225] to appear after the subsec. (h) redesignated by [section 602(b)(2) of Pub. L. 106–567][/us/pl/106/567/s602/b/2], and redesignated the transferred subsec. (h) as subsec. (i). See Codification note above.
+    [Pub. L. 107–108][/us/pl/107/108], § 314(a)(2)(C), transferred subsec. (h) added by [section 225 of Pub. L. 107–56][/us/pl/107/56/s225] to appear after the subsec. (h) redesignated by [section 602(b)(2) of Pub. L. 106–567][/us/pl/106/567/s602/b/2], and redesignated the transferred subsec. (h) as subsec. (i). See Codification note above.
 
-    [Pub. L. 107–56, § 225][/us/pl/107/56/s225], as amended by [Pub. L. 107–273, § 4005(c)][/us/pl/107/273/s4005/c], added subsec. (i) relating to bar of legal action.
+    [Pub. L. 107–56][/us/pl/107/56], § 225, as amended by [Pub. L. 107–273][/us/pl/107/273], § 4005(c), added subsec. (i) relating to bar of legal action.
 
-    2000—Subsecs. (b), (c). [Pub. L. 106–567, § 602(b)(1)][/us/pl/106/567/s602/b/1], (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    2000—Subsecs. (b), (c). [Pub. L. 106–567][/us/pl/106/567], § 602(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 106–567, § 602(b)(1)][/us/pl/106/567/s602/b/1], (3), redesignated subsec. (c) as (d) and substituted “subsection (c)(1)” for “subsection (b)(1)”. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 106–567][/us/pl/106/567], § 602(b)(1), (3), redesignated subsec. (c) as (d) and substituted “subsection (c)(1)” for “subsection (b)(1)”. Former subsec. (d) redesignated (e).
 
-    Subsecs. (e) to (h). [Pub. L. 106–567, § 602(b)(1)][/us/pl/106/567/s602/b/1], redesignated subsecs. (d) to (g) as (e) to (h), respectively.
+    Subsecs. (e) to (h). [Pub. L. 106–567][/us/pl/106/567], § 602(b)(1), redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
     1984—Subsec. (f)(2)(C). [Pub. L. 98–549][/us/pl/98/549] substituted “section 705” for “section 605” in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, by [section 6(a) of Pub. L. 98–549][/us/pl/98/549/s6/a]. Because both sections translate as “[section 605 of Title 47][/us/usc/t47/s605]”, the amendment by [Pub. L. 98–549][/us/pl/98/549] resulted in no change in text.
 
@@ -315,7 +315,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–177, title I, § 102(b)][/us/pl/109/177/s102/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII, § 705(a)][/us/pl/114/23/s705/a], (c), June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that:
+[Pub. L. 109–177, title I][/us/pl/109/177/tI], § 102(b), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1004(a), Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141][/us/pl/111/141], § 1(a), Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3][/us/pl/112/3], § 2(a), Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14][/us/pl/112/14], § 2(a), May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], § 705(a), (c), June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -325,7 +325,7 @@
 
 >     With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect.”
 
-    \[[Pub. L. 109–177, § 102(b)(1)][/us/pl/109/177/s102/b/1], set out above, as amended by [Pub. L. 112–14][/us/pl/112/14], provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. [Pub. L. 114–23, § 705(a)][/us/pl/114/23/s705/a], amended section 102(b)(1) by substituting “December 15, 2019” for “June 1, 2015”, thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Amendment of Section, Codification, and 2015 Amendment notes under sections 1861 and 1862 of this title.\]
+    \[[Pub. L. 109–177][/us/pl/109/177], § 102(b)(1), set out above, as amended by [Pub. L. 112–14][/us/pl/112/14], provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. [Pub. L. 114–23][/us/pl/114/23], § 705(a), amended section 102(b)(1) by substituting “December 15, 2019” for “June 1, 2015”, thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Amendment of Section, Codification, and 2015 Amendment notes under sections 1861 and 1862 of this title.\]
 
  __Effective Date of 2004 Amendment__ 
 
@@ -335,31 +335,19 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–273, div. B, title IV, § 4005(c)][/us/pl/107/273/s4005/c], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812], provided that the amendment made by section 4005(c) is effective Oct. 26, 2001.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4005(c), Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812], provided that the amendment made by section 4005(c) is effective Oct. 26, 2001.
 
  __Effective Date of 2001 Amendment__ 
 
-    [Pub. L. 107–108, title III, § 314(c)][/us/pl/107/108/s314/c], Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], provided in part that the amendment made by [section 314(c)(1) of Pub. L. 107–108][/us/pl/107/108/s314/c/1] is effective as of Oct. 26, 2001, and as if included in [Pub. L. 107–56][/us/pl/107/56] as originally enacted.
+    [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 314(c), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], provided in part that the amendment made by [section 314(c)(1) of Pub. L. 107–108][/us/pl/107/108/s314/c/1] is effective as of Oct. 26, 2001, and as if included in [Pub. L. 107–56][/us/pl/107/56] as originally enacted.
 
  __Effective Date of 1984 Amendment__ 
 
     Amendment by [Pub. L. 98–549][/us/pl/98/549] effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see [section 9(a) of Pub. L. 98–549][/us/pl/98/549/s9/a], set out as a note under [section 521 of Title 47][/us/usc/t47/s521], Telecommunications.
 
-§§ 1805a to 1805c. __Repealed.__  __[__  __Pub. L. 110–261, title IV, § 403(a)(1)(A)__  __][/us/pl/110/261/s403/a/1/A]__  __,__  __July 10, 2008__  __,__  __[__  __122 Stat. 2473__  __][/us/stat/122/2473]__ 
-
-    Section 1805a, [Pub. L. 95–511, title I, § 105A][/us/pl/95/511/s105A], as added [Pub. L. 110–55, § 2][/us/pl/110/55/s2], Aug. 5, 2007, [121 Stat. 552][/us/stat/121/552], related to clarification of electronic surveillance of persons outside the United States.
-
-    Section 1805b, [Pub. L. 95–511, title I, § 105B][/us/pl/95/511/s105B], as added [Pub. L. 110–55, § 2][/us/pl/110/55/s2], Aug. 5, 2007, [121 Stat. 552][/us/stat/121/552], related to additional procedure for authorizing certain acquisitions concerning persons located outside the United States.
-
-    Section 1805c, [Pub. L. 95–511, title I, § 105C][/us/pl/95/511/s105C], as added [Pub. L. 110–55, § 3][/us/pl/110/55/s3], Aug. 5, 2007, [121 Stat. 555][/us/stat/121/555], related to submission to court review of procedures.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 10, 2008, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of this title][/us/usc/t50/s1801], see [section 402 of Pub. L. 110–261][/us/pl/110/261/s402], set out as an Effective Date of 2008 Amendment note under [section 1801 of this title][/us/usc/t50/s1801].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1804.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1805a...1805c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805)
 
 ----------
 ----------
@@ -379,131 +367,131 @@
 [/us/usc/t47/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs605
 [/us/usc/t50/s1802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1802%2Fa
 [/us/usc/t50/s1842/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842%2Fd%2F2
-[/us/pl/95/511/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1790
-[/us/pl/98/549/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs6%2Fb%2F3
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2804
-[/us/pl/106/567/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2851
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F282
-[/us/pl/107/108/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
-[/us/pl/107/273/s4005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fc
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
-[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2461
-[/us/pl/111/118/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1004%2Fa
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3470
-[/us/pl/111/141/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141%2Fs1%2Fa
+[/us/pl/111/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141
 [/us/stat/124/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F37
-[/us/pl/111/259/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F2
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
-[/us/pl/112/3/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3%2Fs2%2Fa
+[/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
 [/us/stat/125/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F5
-[/us/pl/112/14/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14%2Fs2%2Fa
+[/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F298
-[/us/pl/109/177/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
-[/us/pl/111/118/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1004%2Fa
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3470
-[/us/pl/111/141/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141%2Fs1%2Fa
+[/us/pl/111/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141
 [/us/stat/124/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F37
-[/us/pl/112/3/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3%2Fs2%2Fa
+[/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
 [/us/stat/125/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F5
-[/us/pl/112/14/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14%2Fs2%2Fa
+[/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
-[/us/pl/114/23/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fa
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/109/177/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/usc/t50/s1804/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F7%2FE
 [/us/usc/t50/s1804/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F6%2FE
-[/us/pl/110/261/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FB
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2461
 [/us/usc/t50/s1804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fd
 [/us/usc/t50/s1804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fc
-[/us/pl/110/261/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F3
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2461
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/107/56/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs225
-[/us/pl/107/108/s314/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2%2FC
-[/us/pl/107/273/s4005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fc
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/114/23/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fa
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/pl/114/23/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs701%2Fa
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/111/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/111/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
-[/us/pl/110/261/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs105%2Fa%2F1
-[/us/pl/110/261/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs105%2Fa%2F2
-[/us/pl/110/261/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs105%2Fa%2F3
-[/us/pl/110/261/s105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs105%2Fa%2F4
-[/us/pl/110/261/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fc%2F1
-[/us/pl/110/261/s105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs105%2Fa%2F5
-[/us/pl/110/261/s105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs105%2Fa%2F5
-[/us/pl/109/177/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fb%2F1
-[/us/pl/109/177/s108/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fa%2F2%2FA
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t50/s1804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F3
-[/us/pl/109/177/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fb%2F2
-[/us/pl/109/177/s108/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fb%2F3
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/111/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118
 [/us/pl/111/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141
 [/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
 [/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
-[/us/pl/114/23/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fa
-[/us/pl/109/177/s108/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fa%2F2%2FB
-[/us/pl/109/177/s108/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs108%2Fb%2F4
-[/us/pl/109/177/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs105%2Fa%2F1
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
-[/us/pl/109/177/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs105%2Fa%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/107/56/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs225
-[/us/pl/107/108/s314/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2%2FA
-[/us/pl/107/56/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs206
-[/us/pl/107/56/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs207%2Fa%2F1
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
-[/us/pl/107/56/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs207%2Fb%2F1
-[/us/pl/107/108/s314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc%2F1
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
-[/us/pl/107/108/s314/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2%2FB
-[/us/pl/107/108/s314/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2%2FC
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/pl/107/56/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs225
 [/us/pl/106/567/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb%2F2
-[/us/pl/107/108/s314/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2%2FD
-[/us/pl/107/108/s314/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F2%2FC
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/pl/107/56/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs225
 [/us/pl/106/567/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb%2F2
-[/us/pl/107/56/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs225
-[/us/pl/107/273/s4005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fc
-[/us/pl/106/567/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb%2F1
-[/us/pl/106/567/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb%2F1
-[/us/pl/106/567/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb%2F1
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/98/549/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs6%2Fa
 [/us/usc/t47/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs605
@@ -513,52 +501,37 @@
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/pl/110/261/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs402
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/109/177/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
-[/us/pl/111/118/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1004%2Fa
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3470
-[/us/pl/111/141/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141%2Fs1%2Fa
+[/us/pl/111/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F141
 [/us/stat/124/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F37
-[/us/pl/112/3/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3%2Fs2%2Fa
+[/us/pl/112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F3
 [/us/stat/125/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F5
-[/us/pl/112/14/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14%2Fs2%2Fa
+[/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
-[/us/pl/114/23/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fa
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t50/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1861
-[/us/pl/109/177/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/112/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14
-[/us/pl/114/23/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fa
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/107/273/s4005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fc
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
-[/us/pl/107/108/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
 [/us/pl/107/108/s314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc%2F1
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/110/261/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fa%2F1%2FA
-[/us/stat/122/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2473
-[/us/pl/95/511/s105A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105A
-[/us/pl/110/55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs2
-[/us/stat/121/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F552
-[/us/pl/95/511/s105B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105B
-[/us/pl/110/55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs2
-[/us/stat/121/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F552
-[/us/pl/95/511/s105C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs105C
-[/us/pl/110/55/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F55%2Fs3
-[/us/stat/121/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F555
-[/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
-[/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/110/261/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs402
-[/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 
 

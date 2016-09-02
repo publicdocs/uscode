@@ -87,7 +87,7 @@
 
         (8) in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of the Federal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
 
-([Sept. 8, 1950, ch. 932, § 2][/us/act/1950-09-08/ch932/s2], [64 Stat. 798][/us/stat/64/798]; [June 30, 1953, ch. 171, § 2][/us/act/1953-06-30/ch171/s2], [67 Stat. 129][/us/stat/67/129]; [Aug. 9, 1955, ch. 655, § 2][/us/act/1955-08-09/ch655/s2], [69 Stat. 580][/us/stat/69/580]; [June 29, 1956, ch. 474, § 4][/us/act/1956-06-29/ch474/s4], [70 Stat. 408][/us/stat/70/408]; [Pub. L. 96–294, title I, § 102][/us/pl/96/294/s102], June 30, 1980, [94 Stat. 617][/us/stat/94/617]; [Pub. L. 102–558, title I, § 101][/us/pl/102/558/s101], Oct. 28, 1992, [106 Stat. 4199][/us/stat/106/4199]; [Pub. L. 111–67, § 3(a)][/us/pl/111/67/s3/a], Sept. 30, 2009, [123 Stat. 2007][/us/stat/123/2007].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], § 2, [64 Stat. 798][/us/stat/64/798]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], § 2, [67 Stat. 129][/us/stat/67/129]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], § 2, [69 Stat. 580][/us/stat/69/580]; [June 29, 1956, ch. 474][/us/act/1956-06-29/ch474], § 4, [70 Stat. 408][/us/stat/70/408]; [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 102, June 30, 1980, [94 Stat. 617][/us/stat/94/617]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 101, Oct. 28, 1992, [106 Stat. 4199][/us/stat/106/4199]; [Pub. L. 111–67][/us/pl/111/67], § 3(a), Sept. 30, 2009, [123 Stat. 2007][/us/stat/123/2007].)
 
  __References in Text__ 
 
@@ -113,19 +113,19 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–558, title III, § 304][/us/pl/102/558/s304], Oct. 28, 1992, [106 Stat. 4226][/us/stat/106/4226], provided that: 
+[Pub. L. 102–558, title III][/us/pl/102/558/tIII], § 304, Oct. 28, 1992, [106 Stat. 4226][/us/stat/106/4226], provided that: 
 
 > “This Act \[see Tables for classification\] and the amendments made by this Act shall be deemed to have become effective on March 1, 1992, except as otherwise specifically provided in this Act.”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–294, title I, § 107][/us/pl/96/294/s107], June 30, 1980, [94 Stat. 633][/us/stat/94/633], provided that: 
+[Pub. L. 96–294, title I][/us/pl/96/294/tI], § 107, June 30, 1980, [94 Stat. 633][/us/stat/94/633], provided that: 
 
 > “The amendments made by this part \[part A (§§ 101–107) of title I of [Pub. L. 96–294][/us/pl/96/294], see Tables for classification\] shall take effect on the date of the enactment of this part \[June 30, 1980\].”
 
  __Effective Date of 1955 Amendment__ 
 
-[Act Aug. 9, 1955, ch. 655, § 11][/us/act/1955-08-09/ch655/s11], [69 Stat. 583][/us/stat/69/583], provided that: 
+[Act Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], § 11, [69 Stat. 583][/us/stat/69/583], provided that: 
 
 > “The provisions of this Act \[see Tables for classification\] shall take effect as of the close of July 31, 1955.”
 
@@ -150,19 +150,19 @@
 ----------
 ----------
 
-[/us/act/1950-09-08/ch932/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2Fs2
+[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
-[/us/act/1953-06-30/ch171/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171%2Fs2
+[/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F129
-[/us/act/1955-08-09/ch655/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655%2Fs2
+[/us/act/1955-08-09/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655
 [/us/stat/69/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F580
-[/us/act/1956-06-29/ch474/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch474%2Fs4
+[/us/act/1956-06-29/ch474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch474
 [/us/stat/70/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F408
-[/us/pl/96/294/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs102
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F617
-[/us/pl/102/558/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs101
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4199
-[/us/pl/111/67/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs3%2Fa
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2007
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
@@ -170,12 +170,12 @@
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
-[/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4226
-[/us/pl/96/294/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs107
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F633
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
-[/us/act/1955-08-09/ch655/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655%2Fs11
+[/us/act/1955-08-09/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655
 [/us/stat/69/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F583
 [/us/act/1953-08-07/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch339
 [/us/stat/67/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F417

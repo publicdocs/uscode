@@ -137,11 +137,11 @@
 
             For purposes of [section 2071(c) of this title][/us/usc/t50/s2071/c], the term “child” includes an adopted child and a natural child, but does not include a stepchild.
 
-([Pub. L. 88–643, title I, § 102][/us/pl/88/643/s102], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3198][/us/stat/106/3198].)
+([Pub. L. 88–643, title I][/us/pl/88/643/tI], § 102, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3198][/us/stat/106/3198].)
 
  __Prior Provisions__ 
 
-    A prior [section 111 of Pub. L. 88–643][/us/pl/88/643/s111], title I, Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043]; [Pub. L. 94–522, title I, § 101][/us/pl/94/522/s101], Oct. 17, 1976, [90 Stat. 2467][/us/stat/90/2467], provided definitions for [Pub. L. 88–643][/us/pl/88/643] and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 111 of Pub. L. 88–643][/us/pl/88/643/s111], title I, Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043]; [Pub. L. 94–522, title I][/us/pl/94/522/tI], § 101, Oct. 17, 1976, [90 Stat. 2467][/us/stat/90/2467], provided definitions for [Pub. L. 88–643][/us/pl/88/643] and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
 ----------
 
@@ -152,12 +152,12 @@
 
 [/us/usc/t50/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2013
 [/us/usc/t50/s2071/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071%2Fc
-[/us/pl/88/643/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs102
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtI
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3198
 [/us/pl/88/643/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs111
 [/us/stat/78/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1043
-[/us/pl/94/522/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2Fs101
+[/us/pl/94/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtI
 [/us/stat/90/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2467
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403

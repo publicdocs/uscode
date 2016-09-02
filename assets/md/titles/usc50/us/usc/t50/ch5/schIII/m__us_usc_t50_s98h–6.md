@@ -45,7 +45,7 @@
 
         The President shall include in the reports required under [section 98h–2(a) of this title][/us/usc/t50/s98h–2/a] information with respect to activities conducted under this section.
 
-([June 7, 1939, ch. 190, § 15][/us/act/1939-06-07/ch190/s15], as added [Pub. L. 101–189, div. C, title XXXIII, § 3312(a)][/us/pl/101/189/s3312/a], Nov. 29, 1989, [103 Stat. 1687][/us/stat/103/1687]; amended [Pub. L. 113–66, div. A, title XIV, § 1411(c)][/us/pl/113/66/s1411/c], Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 15, as added [Pub. L. 101–189, div. C, title XXXIII][/us/pl/101/189/dC/tXXXIII], § 3312(a), Nov. 29, 1989, [103 Stat. 1687][/us/stat/103/1687]; amended [Pub. L. 113–66, div. A, title XIV][/us/pl/113/66/dA/tXIV], § 1411(c), Dec. 26, 2013, [127 Stat. 934][/us/stat/127/934].)
 
  __Amendments__ 
 
@@ -62,10 +62,10 @@
 [/us/usc/t50/s98h–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%932%2Fb
 [/us/usc/t50/s98d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fa%2F2
 [/us/usc/t50/s98h–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%932%2Fa
-[/us/act/1939-06-07/ch190/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs15
-[/us/pl/101/189/s3312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3312%2Fa
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/101/189/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXIII
 [/us/stat/103/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1687
-[/us/pl/113/66/s1411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1411%2Fc
+[/us/pl/113/66/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXIV
 [/us/stat/127/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F934
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 

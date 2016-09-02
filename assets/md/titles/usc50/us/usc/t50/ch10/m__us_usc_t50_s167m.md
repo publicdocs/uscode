@@ -77,11 +77,11 @@
 
         (4) current predictions of the lifespan of the Federal Helium System, including how much longer the crude helium supply will be available based on current and forecasted demand and the projected maximum production capacity of the Federal Helium System for the following fiscal year.
 
-([Mar. 3, 1925, ch. 426, § 15][/us/act/1925-03-03/ch426/s15], as added [Pub. L. 113–40, § 6(3)][/us/pl/113/40/s6/3], Oct. 2, 2013, [127 Stat. 541][/us/stat/127/541].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 15, as added [Pub. L. 113–40][/us/pl/113/40], § 6(3), Oct. 2, 2013, [127 Stat. 541][/us/stat/127/541].)
 
  __Prior Provisions__ 
 
-    A prior section 167m, [act Mar. 3, 1925, ch. 426, § 15][/us/act/1925-03-03/ch426/s15], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 923][/us/stat/74/923]; amended [Pub. L. 104–273, § 7][/us/pl/104/273/s7], Oct. 9, 1996, [110 Stat. 3319][/us/stat/110/3319], related to a National Academy of Sciences study and report on helium, prior to repeal by [Pub. L. 113–40, § 6(1)][/us/pl/113/40/s6/1], Oct. 2, 2013, [127 Stat. 540][/us/stat/127/540].
+    A prior section 167m, [act Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 15, as added [Pub. L. 86–777][/us/pl/86/777], § 2, Sept. 13, 1960, [74 Stat. 923][/us/stat/74/923]; amended [Pub. L. 104–273][/us/pl/104/273], § 7, Oct. 9, 1996, [110 Stat. 3319][/us/stat/110/3319], related to a National Academy of Sciences study and report on helium, prior to repeal by [Pub. L. 113–40][/us/pl/113/40], § 6(1), Oct. 2, 2013, [127 Stat. 540][/us/stat/127/540].
 
 ----------
 
@@ -92,15 +92,15 @@
 
 [/us/usc/t50/s167d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167d%2Fc
 [/us/usc/t50/s167c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167c
-[/us/act/1925-03-03/ch426/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs15
-[/us/pl/113/40/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs6%2F3
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F541
-[/us/act/1925-03-03/ch426/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs15
-[/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
 [/us/stat/74/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F923
-[/us/pl/104/273/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273%2Fs7
+[/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 [/us/stat/110/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3319
-[/us/pl/113/40/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs6%2F1
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F540
 
 

@@ -31,7 +31,7 @@
 
         (4) [Section 2139a(c) of title 42][/us/usc/t42/s2139a/c].
 
-([Pub. L. 104–201, div. A, title XIV, § 1423][/us/pl/104/201/s1423], Sept. 23, 1996, [110 Stat. 2725][/us/stat/110/2725]; [Pub. L. 105–261, div. A, title X, § 1069(c)(1)][/us/pl/105/261/s1069/c/1], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1423, Sept. 23, 1996, [110 Stat. 2725][/us/stat/110/2725]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(c)(1), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t42/s2139a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139a%2Fc
-[/us/pl/104/201/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1423
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2725
-[/us/pl/105/261/s1069/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fc%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626

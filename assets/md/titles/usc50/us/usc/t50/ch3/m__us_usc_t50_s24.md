@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4070 derived from [act July 6, 1798, ch. 66, § 3][/us/act/1798-07-06/ch66/s3], [1 Stat. 578][/us/stat/1/578].
+    R.S. § 4070 derived from [act July 6, 1798, ch. 66][/us/act/1798-07-06/ch66], § 3, [1 Stat. 578][/us/stat/1/578].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1798-07-06/ch66/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66%2Fs3
+[/us/act/1798-07-06/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66
 [/us/stat/1/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F578
 
 

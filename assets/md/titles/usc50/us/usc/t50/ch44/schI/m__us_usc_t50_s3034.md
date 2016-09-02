@@ -63,7 +63,7 @@
 
         (3) The term “Milestone B” has the meaning given that term in [section 3099(e) of this title][/us/usc/t50/s3099/e].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103I, as added [Pub. L. 111–259, title IV, § 406(a)][/us/pl/111/259/s406/a], Oct. 7, 2010, [124 Stat. 2720][/us/stat/124/2720].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 103I, as added [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 406(a), Oct. 7, 2010, [124 Stat. 2720][/us/stat/124/2720].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t50/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3103
 [/us/usc/t50/s3099/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3099%2Fe
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs406%2Fa
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2720
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

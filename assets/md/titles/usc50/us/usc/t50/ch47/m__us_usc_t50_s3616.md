@@ -19,7 +19,7 @@
 
     (b) For the purposes of this section, the term “rotational tour of duty”, with respect to an employee, means a permanent change of station involving the transfer of the employee from the National Security Agency headquarters to another post of duty for a fixed period established by regulation to be followed at the end of such period by a permanent change of station involving a transfer of the employee back to such headquarters.
 
-([Pub. L. 86–36, § 18][/us/pl/86/36/s18], formerly § 17, as added [Pub. L. 102–183, title IV, § 405][/us/pl/102/183/s405], Dec. 4, 1991, [105 Stat. 1267][/us/stat/105/1267]; renumbered § 18, [Pub. L. 102–496, title III, § 304(a)][/us/pl/102/496/s304/a], Oct. 24, 1992, [106 Stat. 3183][/us/stat/106/3183].)
+([Pub. L. 86–36][/us/pl/86/36], § 18, formerly § 17, as added [Pub. L. 102–183, title IV][/us/pl/102/183/tIV], § 405, Dec. 4, 1991, [105 Stat. 1267][/us/stat/105/1267]; renumbered § 18, [Pub. L. 102–496, title III][/us/pl/102/496/tIII], § 304(a), Oct. 24, 1992, [106 Stat. 3183][/us/stat/106/3183].)
 
  __Codification__ 
 
@@ -33,10 +33,10 @@
 ----------
 
 [/us/usc/t5/s5742/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5742%2Fb
-[/us/pl/86/36/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs18
-[/us/pl/102/183/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs405
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/102/183/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIV
 [/us/stat/105/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1267
-[/us/pl/102/496/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs304%2Fa
+[/us/pl/102/496/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIII
 [/us/stat/106/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3183
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 

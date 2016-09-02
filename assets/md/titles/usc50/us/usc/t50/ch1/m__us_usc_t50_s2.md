@@ -17,7 +17,7 @@
 
     The Council of National Defense shall nominate to the President, and the President shall appoint, an advisory commission, consisting of not more than seven persons, each of whom shall have special knowledge of some industry, public utility, or the development of some natural resource, or be otherwise specially qualified, in the opinion of the council, for the performance of the duties hereinafter provided. The members of the advisory commission shall serve without compensation, but shall be allowed actual expenses of travel and subsistence when attending meetings of the commission or engaged in investigations pertaining to its activities. The advisory commission shall hold such meetings as shall be called by the council or be provided by the rules and regulations adopted by the council for the conduct of its work.
 
-([Aug. 29, 1916, ch. 418, § 2][/us/act/1916-08-29/ch418/s2], [39 Stat. 649][/us/stat/39/649].)
+([Aug. 29, 1916, ch. 418][/us/act/1916-08-29/ch418], § 2, [39 Stat. 649][/us/stat/39/649].)
 
  __Termination of Advisory Commissions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1916-08-29/ch418/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418%2Fs2
+[/us/act/1916-08-29/ch418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418
 [/us/stat/39/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F649
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

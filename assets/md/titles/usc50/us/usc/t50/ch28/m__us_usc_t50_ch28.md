@@ -11,38 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1399.md) | [Next](./../../../..//us/usc/t50/ch29/m__us_usc_t50_ch29.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch28)
+[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1399.md) | [Next](./../../../..//us/usc/t50/ch28/m__us_usc_t50_s1411...1414.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch28)
 
 ## CHAPTER 28—STATUS OF ARMED FORCES PERSONNEL APPOINTED TO SERVICE ACADEMIES
 
-§§ 1411 to 1414. __Repealed.__  __[__  __Pub. L. 85–861, § 36A__  __][/us/pl/85/861/s36A]__  __,__  __Sept. 2, 1958__  __,__  __[__  __72 Stat. 1570__  __][/us/stat/72/1570]__ 
-
-    Section 1411, [act June 25, 1956, ch. 439, § 1][/us/act/1956-06-25/ch439/s1], [70 Stat. 333][/us/stat/70/333], related to continuance of enlisted contract or period of obligated service and to pay allowance and benefits. See [section 516 of Title 10][/us/usc/t10/s516], Armed Forces.
-
-    Section 1412, [act June 25, 1956, ch. 439, § 2][/us/act/1956-06-25/ch439/s2], [70 Stat. 333][/us/stat/70/333], related to reversion to enlisted status upon separation from the service academies. See [section 516 of Title 10][/us/usc/t10/s516].
-
-    Section 1413, [act June 25, 1956, ch. 439, § 3][/us/act/1956-06-25/ch439/s3], [70 Stat. 333][/us/stat/70/333], related to charge against allowed number of personnel in Armed Forces.
-
-    Section 1414, [act June 25, 1956, ch. 439, § 4][/us/act/1956-06-25/ch439/s4], [70 Stat. 333][/us/stat/70/333], related to restriction on counting Academy service towards length of service as an officer.
-
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1399.md) | [Next](./../../../..//us/usc/t50/ch29/m__us_usc_t50_ch29.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch28)
+[Previous](./../../../..//us/usc/t50/ch27/m__us_usc_t50_s1399.md) | [Next](./../../../..//us/usc/t50/ch28/m__us_usc_t50_s1411...1414.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch28)
 
 ----------
 ----------
 
-[/us/pl/85/861/s36A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36A
-[/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
-[/us/act/1956-06-25/ch439/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-25%2Fch439%2Fs1
-[/us/stat/70/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F333
-[/us/usc/t10/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs516
-[/us/act/1956-06-25/ch439/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-25%2Fch439%2Fs2
-[/us/stat/70/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F333
-[/us/usc/t10/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs516
-[/us/act/1956-06-25/ch439/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-25%2Fch439%2Fs3
-[/us/stat/70/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F333
-[/us/act/1956-06-25/ch439/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-25%2Fch439%2Fs4
-[/us/stat/70/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F333
 
 

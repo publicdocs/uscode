@@ -69,7 +69,7 @@
 
                 (ii) is defined in regulations prescribed by the Secretary of Energy for the purposes of this section.
 
-([Pub. L. 102–484, div. A, title VIII, § 835][/us/pl/102/484/s835], Oct. 23, 1992, [106 Stat. 2461][/us/stat/106/2461].)
+([Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 835, Oct. 23, 1992, [106 Stat. 2461][/us/stat/106/2461].)
 
  __Codification__ 
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
-[/us/pl/102/484/s835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs835
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2461
 
 

@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -6477,7 +6477,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (July 20, 1949, ch. 354, title II, 63 Stat. 461)  </td>
+6b (July 20, 1949, ch. 354, title II, 63 Stat. 461)  </td>
 
     <td> 
 
@@ -6489,7 +6489,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Sept. 6, 1950, ch. 896, Ch. III, title II, 64 Stat. 619)  </td>
+6b (Sept. 6, 1950, ch. 896, Ch. III, title II, 64 Stat. 619)  </td>
 
     <td> 
 
@@ -6501,7 +6501,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Oct. 22, 1951, ch. 533, title II, 65 Stat. 585)  </td>
+6b (Oct. 22, 1951, ch. 533, title II, 65 Stat. 585)  </td>
 
     <td> 
 
@@ -6513,7 +6513,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (July 10, 1952, ch. 651, title II, 66 Stat. 559)  </td>
+6b (July 10, 1952, ch. 651, title II, 66 Stat. 559)  </td>
 
     <td> 
 
@@ -6525,7 +6525,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Aug. 5, 1953, ch. 328, title II, 67 Stat. 375)  </td>
+6b (Aug. 5, 1953, ch. 328, title II, 67 Stat. 375)  </td>
 
     <td> 
 
@@ -6537,7 +6537,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (July 2, 1954, ch. 456, title II, 68 Stat. 421)  </td>
+6b (July 2, 1954, ch. 456, title II, 68 Stat. 421)  </td>
 
     <td> 
 
@@ -6549,7 +6549,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (July 7, 1955, ch. 279, title II, 69 Stat. 273)  </td>
+6b (July 7, 1955, ch. 279, title II, 69 Stat. 273)  </td>
 
     <td> 
 
@@ -6561,7 +6561,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (June 20, 1956, ch. 414, title II, 70 Stat. 308)  </td>
+6b (June 20, 1956, ch. 414, title II, 70 Stat. 308)  </td>
 
     <td> 
 
@@ -6573,7 +6573,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 85–49, title II, June 11, 1957, 71 Stat. 63)  </td>
+6b (Pub. L. 85–49, title II, June 11, 1957, 71 Stat. 63)  </td>
 
     <td> 
 
@@ -6585,7 +6585,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 85–474, title II, June 30, 1958, 72 Stat. 252)  </td>
+6b (Pub. L. 85–474, title II, June 30, 1958, 72 Stat. 252)  </td>
 
     <td> 
 
@@ -6597,7 +6597,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 86–84, title II, July 13, 1959, 73 Stat. 189)  </td>
+6b (Pub. L. 86–84, title II, July 13, 1959, 73 Stat. 189)  </td>
 
     <td> 
 
@@ -6609,7 +6609,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 86–678, title II, Aug. 31, 1960, 74 Stat. 564)  </td>
+6b (Pub. L. 86–678, title II, Aug. 31, 1960, 74 Stat. 564)  </td>
 
     <td> 
 
@@ -6621,7 +6621,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 87–264, title II, Sept. 21, 1961, 75 Stat. 550)  </td>
+6b (Pub. L. 87–264, title II, Sept. 21, 1961, 75 Stat. 550)  </td>
 
     <td> 
 
@@ -6633,7 +6633,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 87–843, title II, Oct. 18, 1962, 76 Stat. 1085)  </td>
+6b (Pub. L. 87–843, title II, Oct. 18, 1962, 76 Stat. 1085)  </td>
 
     <td> 
 
@@ -6645,7 +6645,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 88–245, title II, Dec. 30, 1963, 77 Stat. 781)  </td>
+6b (Pub. L. 88–245, title II, Dec. 30, 1963, 77 Stat. 781)  </td>
 
     <td> 
 
@@ -6657,7 +6657,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 88–527, title II, Aug. 31, 1964, 78 Stat. 716)  </td>
+6b (Pub. L. 88–527, title II, Aug. 31, 1964, 78 Stat. 716)  </td>
 
     <td> 
 
@@ -6669,7 +6669,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 89–164, title II, Sept. 2, 1965, 79 Stat. 625)  </td>
+6b (Pub. L. 89–164, title II, Sept. 2, 1965, 79 Stat. 625)  </td>
 
     <td> 
 
@@ -6681,7 +6681,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 89–797, title II, Nov. 8, 1966, 80 Stat. 1484)  </td>
+6b (Pub. L. 89–797, title II, Nov. 8, 1966, 80 Stat. 1484)  </td>
 
     <td> 
 
@@ -6693,7 +6693,7 @@ Omitted  </td>
 
     <td> 
 
-6b note (Pub. L. 90–133, title II, Nov. 8, 1967, 81 Stat. 416)  </td>
+6b (Pub. L. 90–133, title II, Nov. 8, 1967, 81 Stat. 416)  </td>
 
     <td> 
 
@@ -10573,7 +10573,7 @@ Omitted  </td>
 
     <td> 
 
-Omitted  </td>
+50 U.S.C. 4107 note  </td>
 
   </tr>
 
@@ -12549,7 +12549,7 @@ Omitted  </td>
 
     <td> 
 
-2181 note (Aug. 7, 1953, ch. 339, § 1, 67 Stat. 417)  </td>
+2181 note (Aug. 7, 1953, ch. 339, [§ 1,] 67 Stat. 417)  </td>
 
     <td> 
 
@@ -13585,7 +13585,7 @@ Omitted  </td>
 
     Trading with the Enemy Act of 1917 (50 U.S.C. App. 1 et seq.), [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411]—see [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.
 
-    Office of Selective Service Records (50 U.S.C. App. 321 et seq.), [act Mar. 31, 1947, ch. 26][/us/act/1947-03-31/ch26], [61 Stat. 31][/us/stat/61/31]; [Pub. L. 85–844, title I][/us/pl/85/844], Aug. 28, 1958, [72 Stat. 1073][/us/stat/72/1073]—see [50 U.S.C. 3815][/us/usc/t50/s3815] note.
+    Office of Selective Service Records (50 U.S.C. App. 321 et seq.), [act Mar. 31, 1947, ch. 26][/us/act/1947-03-31/ch26], [61 Stat. 31][/us/stat/61/31]; [Pub. L. 85–844, title I][/us/pl/85/844/tI], Aug. 28, 1958, [72 Stat. 1073][/us/stat/72/1073]—see [50 U.S.C. 3815][/us/usc/t50/s3815] note.
 
     Military Selective Service Act (50 U.S.C. App. 451 et seq.), [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604]—see [50 U.S.C. 3801][/us/usc/t50/s3801] et seq.
 
@@ -13633,7 +13633,7 @@ The following acts, listed below in order of appearance in former Title 50, Appe
 
     Use of Public Lands for War Purposes (50 U.S.C. App. 756 et seq.), [act June 5, 1942, ch. 346][/us/act/1942-06-05/ch346], [56 Stat. 323][/us/stat/56/323].
 
-    Miscellaneous Provisions Affecting Military Establishment (50 U.S.C. App. 761 et seq.), acts [June 5, 1942, ch. 340][/us/act/1942-06-05/ch340], [56 Stat. 314][/us/stat/56/314]; [June 28, 1944, ch. 306][/us/act/1944-06-28/ch306], [58 Stat. 624][/us/stat/58/624]; [Feb. 21, 1946, ch. 34, § 3][/us/act/1946-02-21/ch34/s3], [60 Stat. 27][/us/stat/60/27].
+    Miscellaneous Provisions Affecting Military Establishment (50 U.S.C. App. 761 et seq.), acts [June 5, 1942, ch. 340][/us/act/1942-06-05/ch340], [56 Stat. 314][/us/stat/56/314]; [June 28, 1944, ch. 306][/us/act/1944-06-28/ch306], [58 Stat. 624][/us/stat/58/624]; [Feb. 21, 1946, ch. 34][/us/act/1946-02-21/ch34], § 3, [60 Stat. 27][/us/stat/60/27].
 
     Photographing, Mapping or Other Representation of Military or Defense Properties (50 U.S.C. App. 781 et seq.), [act June 25, 1942, ch. 447][/us/act/1942-06-25/ch447], [56 Stat. 390][/us/stat/56/390].
 
@@ -13643,7 +13643,7 @@ The following acts, listed below in order of appearance in former Title 50, Appe
 
     Jurisdiction of Prizes and Prize Proceedings (50 U.S.C. App. 821 et seq.), [act Aug. 18, 1942, ch. 553][/us/act/1942-08-18/ch553], [56 Stat. 746][/us/stat/56/746].
 
-    Certain Allowance Assistance for Civilian and Military Personnel (50 U.S.C. App. 831 et seq.), acts [Oct. 14, 1942, ch. 603][/us/act/1942-10-14/ch603], [56 Stat. 786][/us/stat/56/786]; [Nov. 28, 1943, ch. 330][/us/act/1943-11-28/ch330], [57 Stat. 593][/us/stat/57/593]; [Oct. 26, 1942, ch. 624][/us/act/1942-10-26/ch624], [56 Stat. 987][/us/stat/56/987]; [July 16, 1953, ch. 197, § 1][/us/act/1953-07-16/ch197/s1], [67 Stat. 172][/us/stat/67/172]; [Dec. 1, 1942, ch. 651][/us/act/1942-12-01/ch651], [56 Stat. 1024][/us/stat/56/1024].
+    Certain Allowance Assistance for Civilian and Military Personnel (50 U.S.C. App. 831 et seq.), acts [Oct. 14, 1942, ch. 603][/us/act/1942-10-14/ch603], [56 Stat. 786][/us/stat/56/786]; [Nov. 28, 1943, ch. 330][/us/act/1943-11-28/ch330], [57 Stat. 593][/us/stat/57/593]; [Oct. 26, 1942, ch. 624][/us/act/1942-10-26/ch624], [56 Stat. 987][/us/stat/56/987]; [July 16, 1953, ch. 197][/us/act/1953-07-16/ch197], § 1, [67 Stat. 172][/us/stat/67/172]; [Dec. 1, 1942, ch. 651][/us/act/1942-12-01/ch651], [56 Stat. 1024][/us/stat/56/1024].
 
     Free Entry of Gifts From Members of Armed Forces (50 U.S.C. App. 846 et seq.), [act Dec. 5, 1942, ch. 680][/us/act/1942-12-05/ch680], [56 Stat. 1041][/us/stat/56/1041].
 
@@ -13659,7 +13659,7 @@ The following acts, listed below in order of appearance in former Title 50, Appe
 
     Small Business Mobilization Act (50 U.S.C. App. 1101 et seq.), [act June 11, 1942, ch. 404][/us/act/1942-06-11/ch404], [56 Stat. 351][/us/stat/56/351].
 
-    War and Defense Contract Acts (50 U.S.C. App. 1151 et seq.), acts [June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], [54 Stat. 676][/us/stat/54/676]; [July 2, 1940, ch. 508][/us/act/1940-07-02/ch508], [54 Stat. 712][/us/stat/54/712]; [July 11, 1941, ch. 290, § 3][/us/act/1941-07-11/ch290/s3], [55 Stat. 585][/us/stat/55/585]; [Apr. 28, 1942, ch. 247][/us/act/1942-04-28/ch247], title IV, § 403, [56 Stat. 245][/us/stat/56/245]; [Dec. 17, 1942, ch. 739][/us/act/1942-12-17/ch739], [56 Stat. 1053][/us/stat/56/1053]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title VIII, § 801, [58 Stat. 92][/us/stat/58/92]; [May 21, 1948, ch. 333, § 3][/us/act/1948-05-21/ch333/s3], [62 Stat. 259][/us/stat/62/259]; [Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7]; [July 17, 1953, ch. 221][/us/act/1953-07-17/ch221], [67 Stat. 177][/us/stat/67/177].
+    War and Defense Contract Acts (50 U.S.C. App. 1151 et seq.), acts [June 28, 1940, ch. 440][/us/act/1940-06-28/ch440], [54 Stat. 676][/us/stat/54/676]; [July 2, 1940, ch. 508][/us/act/1940-07-02/ch508], [54 Stat. 712][/us/stat/54/712]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], § 3, [55 Stat. 585][/us/stat/55/585]; [Apr. 28, 1942, ch. 247][/us/act/1942-04-28/ch247], title IV, § 403, [56 Stat. 245][/us/stat/56/245]; [Dec. 17, 1942, ch. 739][/us/act/1942-12-17/ch739], [56 Stat. 1053][/us/stat/56/1053]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title VIII, § 801, [58 Stat. 92][/us/stat/58/92]; [May 21, 1948, ch. 333][/us/act/1948-05-21/ch333], § 3, [62 Stat. 259][/us/stat/62/259]; [Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7]; [July 17, 1953, ch. 221][/us/act/1953-07-17/ch221], [67 Stat. 177][/us/stat/67/177].
 
     National Emergency and War Shipping Acts (50 U.S.C. App. 1251 et seq.), acts [June 11, 1940, ch. 327][/us/act/1940-06-11/ch327], [54 Stat. 306][/us/stat/54/306]; [May 2, 1941, ch. 84][/us/act/1941-05-02/ch84], [55 Stat. 148][/us/stat/55/148]; [June 6, 1941, ch. 174][/us/act/1941-06-06/ch174], [55 Stat. 242][/us/stat/55/242]; [July 14, 1941, ch. 297][/us/act/1941-07-14/ch297], [55 Stat. 591][/us/stat/55/591]; [Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45]; [Apr. 29, 1943, ch. 81][/us/act/1943-04-29/ch81], [57 Stat. 69][/us/stat/57/69]; [July 9, 1943, ch. 212][/us/act/1943-07-09/ch212], [57 Stat. 391][/us/stat/57/391]; [Aug. 10, 1946, ch. 949][/us/act/1946-08-10/ch949], [60 Stat. 977][/us/stat/60/977].
 
@@ -13715,7 +13715,7 @@ The following acts, listed below in order of appearance in former Title 50, Appe
 
     Naval Aid to Foreign Nations (50 U.S.C. App. 1876 et seq.), acts [July 8, 1952, ch. 591][/us/act/1952-07-08/ch591], [66 Stat. 443][/us/stat/66/443]; [Aug. 5, 1953, ch. 321][/us/act/1953-08-05/ch321], [67 Stat. 363][/us/stat/67/363]; [Aug. 7, 1953, ch. 347][/us/act/1953-08-07/ch347], [67 Stat. 471][/us/stat/67/471]; [Pub. L. 85–532][/us/pl/85/532], July 18, 1958, [72 Stat. 376][/us/stat/72/376]; [Pub. L. 86–57][/us/pl/86/57], June 23, 1959, [73 Stat. 90][/us/stat/73/90]; [Pub. L. 86–482][/us/pl/86/482], June 1, 1960, [74 Stat. 153][/us/stat/74/153]; [Pub. L. 87–387][/us/pl/87/387], Oct. 4, 1961, [75 Stat. 815][/us/stat/75/815]; [Pub. L. 88–437][/us/pl/88/437], Aug. 14, 1964, [78 Stat. 444][/us/stat/78/444]; [Pub. L. 89–324][/us/pl/89/324], Nov. 5, 1965, [79 Stat. 1214][/us/stat/79/1214]; [Pub. L. 89–398][/us/pl/89/398], Apr. 16, 1966, [80 Stat. 121][/us/stat/80/121]; [Pub. L. 90–224][/us/pl/90/224], Dec. 26, 1967, [81 Stat. 729][/us/stat/81/729]; [Pub. L. 91–682][/us/pl/91/682], Jan. 12, 1971, [84 Stat. 2066][/us/stat/84/2066]; [Pub. L. 92–270][/us/pl/92/270], Apr. 6, 1972, [86 Stat. 118][/us/stat/86/118].
 
-    Housing and Rent Acts (50 U.S.C. App. 1881 et seq.), acts [June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], [61 Stat. 193][/us/stat/61/193]; [Mar. 30, 1948, ch. 161][/us/act/1948-03-30/ch161], [62 Stat. 93][/us/stat/62/93]; [Mar. 30, 1949, ch. 42][/us/act/1949-03-30/ch42], [63 Stat. 18][/us/stat/63/18]; [June 23, 1950, ch. 354][/us/act/1950-06-23/ch354], [64 Stat. 255][/us/stat/64/255]; also [act June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title II, § 203 [66 Stat. 307][/us/stat/66/307] (50 U.S.C. App. 1894a).
+    Housing and Rent Acts (50 U.S.C. App. 1881 et seq.), acts [June 30, 1947, ch. 163][/us/act/1947-06-30/ch163], [61 Stat. 193][/us/stat/61/193]; [Mar. 30, 1948, ch. 161][/us/act/1948-03-30/ch161], [62 Stat. 93][/us/stat/62/93]; [Mar. 30, 1949, ch. 42][/us/act/1949-03-30/ch42], [63 Stat. 18][/us/stat/63/18]; [June 23, 1950, ch. 354][/us/act/1950-06-23/ch354], [64 Stat. 255][/us/stat/64/255]; also [act June 30, 1952, ch. 530, title II][/us/act/1952-06-30/ch530/tII], § 203 [66 Stat. 307][/us/stat/66/307] (50 U.S.C. App. 1894a).
 
     Domestic Rubber-Producing Industry (50 U.S.C. App. 1921 et seq.), [act Mar. 31, 1948, ch. 166][/us/act/1948-03-31/ch166], [62 Stat. 101][/us/stat/62/101].
 
@@ -13741,13 +13741,13 @@ The following acts, listed below in order of appearance in former Title 50, Appe
 
     Emergency Food Aid to India (50 U.S.C. App. 2311 et seq.), [act June 15, 1951, ch. 138][/us/act/1951-06-15/ch138], [65 Stat. 69][/us/stat/65/69].
 
-    Korean Combat Pay (50 U.S.C. App. 2351 et seq.), [act July 10, 1952, ch. 630][/us/act/1952-07-10/ch630], title VII, [66 Stat. 538][/us/stat/66/538].
+    Korean Combat Pay (50 U.S.C. App. 2351 et seq.), [act July 10, 1952, ch. 630, title VII][/us/act/1952-07-10/ch630/tVII], [66 Stat. 538][/us/stat/66/538].
 
     Emergency Ship Repair Program (50 U.S.C. App. 2391 et seq.), [act Aug. 20, 1954, ch. 777][/us/act/1954-08-20/ch777], [68 Stat. 754][/us/stat/68/754].
 
     In addition, the following dispositions were made in connection with the elimination of Title 50, Appendix:
 
-    [Act June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 6, [65 Stat. 88][/us/stat/65/88] (50 U.S.C. App. 473) was transferred and is set out as a note under [section 113 of Title 10][/us/usc/t10/s113], Armed Forces.
+    [Act June 19, 1951, ch. 144, title I][/us/act/1951-06-19/ch144/tI], § 6, [65 Stat. 88][/us/stat/65/88] (50 U.S.C. App. 473) was transferred and is set out as a note under [section 113 of Title 10][/us/usc/t10/s113], Armed Forces.
 
     Stabilization of Economy and Commodity Prices (50 U.S.C. App. 1911 et seq.), [act Dec. 30, 1947, ch. 526][/us/act/1947-12-30/ch526], [61 Stat. 945][/us/stat/61/945], was transferred to a series of sections (§ 713d et seq.) in subchapter I of chapter 15 of Title 15, Commerce and Trade.
 
@@ -13979,7 +13979,7 @@ VI. AUTHORIZATION TO EMPLOY ARMED FORCES
 
  __Termination of Hostilities in Indochina__ 
 
-[Pub. L. 92–129, title IV, § 401][/us/pl/92/129/s401], Sept. 28, 1971, [85 Stat. 360][/us/stat/85/360], provided that: 
+[Pub. L. 92–129, title IV][/us/pl/92/129/tIV], § 401, Sept. 28, 1971, [85 Stat. 360][/us/stat/85/360], provided that: 
 
 > “It is hereby declared to be the sense of Congress that the United States terminate at the earliest practicable date all military operations of the United States in Indochina, and provide for the prompt and orderly withdrawal of all United States military forces at a date certain subject to the release of all American prisoners of war held by the Government of North Vietnam and forces allied with such Government, and an accounting for all Americans missing in action who have been held by or known to such Government or such forces. The Congress hereby urges and requests the President to implement the above expressed policy by initiating immediately the following actions:
 
@@ -14051,7 +14051,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1947-03-31/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-03-31%2Fch26
 [/us/stat/61/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F31
-[/us/pl/85/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F844
+[/us/pl/85/844/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F844%2FtI
 [/us/stat/72/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1073
 [/us/usc/t50/s3815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3815
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
@@ -14117,7 +14117,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/56/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F314
 [/us/act/1944-06-28/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch306
 [/us/stat/58/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F624
-[/us/act/1946-02-21/ch34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-21%2Fch34%2Fs3
+[/us/act/1946-02-21/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-21%2Fch34
 [/us/stat/60/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F27
 [/us/act/1942-06-25/ch447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-25%2Fch447
 [/us/stat/56/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F390
@@ -14135,7 +14135,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/57/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F593
 [/us/act/1942-10-26/ch624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-26%2Fch624
 [/us/stat/56/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F987
-[/us/act/1953-07-16/ch197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-16%2Fch197%2Fs1
+[/us/act/1953-07-16/ch197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-16%2Fch197
 [/us/stat/67/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F172
 [/us/act/1942-12-01/ch651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-01%2Fch651
 [/us/stat/56/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1024
@@ -14157,7 +14157,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/54/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F676
 [/us/act/1940-07-02/ch508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch508
 [/us/stat/54/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F712
-[/us/act/1941-07-11/ch290/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290%2Fs3
+[/us/act/1941-07-11/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290
 [/us/stat/55/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F585
 [/us/act/1942-04-28/ch247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-28%2Fch247
 [/us/stat/56/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F245
@@ -14165,7 +14165,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/56/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1053
 [/us/act/1944-02-25/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-02-25%2Fch63
 [/us/stat/58/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F92
-[/us/act/1948-05-21/ch333/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-21%2Fch333%2Fs3
+[/us/act/1948-05-21/ch333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-21%2Fch333
 [/us/stat/62/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F259
 [/us/act/1951-03-23/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-23%2Fch15
 [/us/stat/65/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F7
@@ -14274,7 +14274,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/63/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F18
 [/us/act/1950-06-23/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-23%2Fch354
 [/us/stat/64/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F255
-[/us/act/1952-06-30/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530
+[/us/act/1952-06-30/ch530/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530%2FtII
 [/us/stat/66/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F307
 [/us/act/1948-03-31/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-31%2Fch166
 [/us/stat/62/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F101
@@ -14305,11 +14305,11 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/usc/t6/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs765
 [/us/act/1951-06-15/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-15%2Fch138
 [/us/stat/65/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F69
-[/us/act/1952-07-10/ch630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch630
+[/us/act/1952-07-10/ch630/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch630%2FtVII
 [/us/stat/66/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F538
 [/us/act/1954-08-20/ch777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch777
 [/us/stat/68/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F754
-[/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
+[/us/act/1951-06-19/ch144/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144%2FtI
 [/us/stat/65/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F88
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/act/1947-12-30/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526
@@ -14369,7 +14369,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/stat/65/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F451
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/pl/92/129/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs401
+[/us/pl/92/129/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtIV
 [/us/stat/85/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F360
 [/us/stat/77/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F958
 [/us/stat/77/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F961

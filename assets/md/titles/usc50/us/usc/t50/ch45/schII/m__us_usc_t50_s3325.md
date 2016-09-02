@@ -27,7 +27,7 @@
 
         In this section, the term “intelligence community” has the meaning given that term in [section 3003(4) of this title][/us/usc/t50/s3003/4].
 
-([Pub. L. 106–120, title III, § 313][/us/pl/106/120/s313], Dec. 3, 1999, [113 Stat. 1615][/us/stat/113/1615].)
+([Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 313, Dec. 3, 1999, [113 Stat. 1615][/us/stat/113/1615].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/106/120/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs313
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1615
 [/us/usc/t50/s403–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%938
 

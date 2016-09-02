@@ -93,7 +93,7 @@
 
             The term “weaponize” or “weaponization” means to incorporate into, or the incorporation into, usable ordnance or other militarily useful means of delivery.
 
-([Pub. L. 107–228, div. B, title XIII, § 1308][/us/pl/107/228/s1308], Sept. 30, 2002, [116 Stat. 1439][/us/stat/116/1439].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1308, Sept. 30, 2002, [116 Stat. 1439][/us/stat/116/1439].)
 
  __References in Text__ 
 
@@ -128,7 +128,7 @@
 [/us/usc/t22/s2797b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b%2Fd
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t22/s2797c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797c
-[/us/pl/107/228/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1439
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2571

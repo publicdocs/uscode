@@ -43,7 +43,7 @@
 
             If the total estimated cost for construction design in connection with any construction project exceeds $1,000,000, funds for that design must be specifically authorized by law.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4706][/us/pl/107/314/s4706], formerly div. C, title XXXVI, § 3625, Dec. 2, 2002, [116 Stat. 2759][/us/stat/116/2759]; renumbered div. D, title XLVII, § 4706, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), (D)(ii), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI, § 3120][/us/pl/113/66/s3120], Dec. 26, 2013, [127 Stat. 1059][/us/stat/127/1059].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4706, formerly div. C, title XXXVI, § 3625, Dec. 2, 2002, [116 Stat. 2759][/us/stat/116/2759]; renumbered div. D, title XLVII, § 4706, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(j)(2)(A)–(C), (D)(ii), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3120, Dec. 26, 2013, [127 Stat. 1059][/us/stat/127/1059].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
     2013—Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] substituted “$1,000,000” for “$600,000” in two places.
 
-    2003—Subsec. (a)(3)(B). [Pub. L. 108–136, § 3141(j)(2)(D)(ii)][/us/pl/108/136/s3141/j/2/D/ii], made technical amendment to reference in original act which appears in text as reference to [section 2747 of this title][/us/usc/t50/s2747].
+    2003—Subsec. (a)(3)(B). [Pub. L. 108–136][/us/pl/108/136], § 3141(j)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to [section 2747 of this title][/us/usc/t50/s2747].
 
 ----------
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/usc/t50/s2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2747
-[/us/pl/107/314/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4706
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
 [/us/stat/116/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2759
-[/us/pl/108/136/s3141/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
-[/us/pl/113/66/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3120
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1059
 [/us/usc/t42/s7386e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386e
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/108/136/s3141/j/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2747
 
 

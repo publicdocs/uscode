@@ -31,7 +31,7 @@
 
         The Secretary may, utilizing appropriate expertise of the Department of Energy and the Nuclear Regulatory Commission, provide technical assistance to nuclear reactor facilities outside the United States with respect to the interdiction of hostile insiders at such facilities in order to prevent incidents arising from the disablement of the vital systems of such facilities.
 
-([Pub. L. 107–314, div. C, title XXXI, § 3158][/us/pl/107/314/s3158], Dec. 2, 2002, [116 Stat. 2741][/us/stat/116/2741].)
+([Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3158, Dec. 2, 2002, [116 Stat. 2741][/us/stat/116/2741].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/314/s3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3158
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2741
 [/us/pl/107/314/s3101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3101%2Fa%2F2
 [/us/stat/116/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2729

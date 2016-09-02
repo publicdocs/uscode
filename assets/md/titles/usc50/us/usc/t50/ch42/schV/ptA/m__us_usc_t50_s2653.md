@@ -21,7 +21,7 @@
 
     (2) has or may have regular access to a location where Restricted Data is present.
 
-([Pub. L. 107–314, div. D, title XLV, § 4503][/us/pl/107/314/s4503], formerly [Pub. L. 106–65, div. C, title XXXI, § 3143][/us/pl/106/65/s3143], Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4503][/us/pl/107/314/s4503], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(4)][/us/pl/108/136/s3141/h/4], Nov. 24, 2003, [117 Stat. 1772][/us/stat/117/1772]; [Pub. L. 112–239, div. C, title XXXI, § 3131][/us/pl/112/239/s3131](l), Jan. 2, 2013, [126 Stat. 2182][/us/stat/126/2182].)
+([Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4503, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3143, Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934]; renumbered [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4503, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(4), Nov. 24, 2003, [117 Stat. 1772][/us/stat/117/1772]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(l), Jan. 2, 2013, [126 Stat. 2182][/us/stat/126/2182].)
 
  __Codification__ 
 
@@ -31,9 +31,9 @@
 
     2013—[Pub. L. 112–239][/us/pl/112/239] struck out subsec. (a) designation and heading “In general”, substituted “national security laboratory” for “national laboratory” in introductory provisions of text, and struck out subsecs. (b) and (c), which, respectively, required compliance by Secretary with former subsec. (a) and defined “national laboratory” and “Restricted Data”.
 
-    2003—Subsec. (b). [Pub. L. 108–136, § 3141(h)(4)(D)(i)][/us/pl/108/136/s3141/h/4/D/i], substituted “October 5, 1999,” for “the date of the enactment of this Act” in the original, which for purposes of codification had been changed to “October 5, 1999,” thus requiring no change in text.
+    2003—Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 3141(h)(4)(D)(i), substituted “October 5, 1999,” for “the date of the enactment of this Act” in the original, which for purposes of codification had been changed to “October 5, 1999,” thus requiring no change in text.
 
-    Subsec. (c). [Pub. L. 108–136, § 3141(h)(4)(D)(ii)][/us/pl/108/136/s3141/h/4/D/ii], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 3141(h)(4)(D)(ii), added subsec. (c).
 
 ----------
 
@@ -43,18 +43,18 @@
 ----------
 
 [/us/usc/t42/s2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2165
-[/us/pl/107/314/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4503
-[/us/pl/106/65/s3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3143
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F934
-[/us/pl/107/314/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4503
-[/us/pl/108/136/s3141/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F4
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1772
-[/us/pl/112/239/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2182
 [/us/usc/t42/s7383a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/108/136/s3141/h/4/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F4%2FD%2Fi
-[/us/pl/108/136/s3141/h/4/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F4%2FD%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

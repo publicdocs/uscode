@@ -231,7 +231,7 @@
 
         (5) The provisions of this subsection shall take effect 4 months after the date of the enactment of the Export Administration Amendments Act of 1985.
 
-([Pub. L. 96–72, § 10][/us/pl/96/72/s10], Sept. 29, 1979, [93 Stat. 525][/us/stat/93/525]; [Pub. L. 99–64, title I, § 111][/us/pl/99/64/s111], July 12, 1985, [99 Stat. 142][/us/stat/99/142]; [Pub. L. 100–418, title II, § 2425(a)][/us/pl/100/418/s2425/a], (c), Aug. 23, 1988, [102 Stat. 1360][/us/stat/102/1360], 1361.)
+([Pub. L. 96–72][/us/pl/96/72], § 10, Sept. 29, 1979, [93 Stat. 525][/us/stat/93/525]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 111, July 12, 1985, [99 Stat. 142][/us/stat/99/142]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2425(a), (c), Aug. 23, 1988, [102 Stat. 1360][/us/stat/102/1360], 1361.)
 
  __Termination Date__ 
 
@@ -249,47 +249,47 @@
 
     Section was formerly classified to section 2409 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2409 of the former Appendix to this title, [Pub. L. 91–184, § 10][/us/pl/91/184/s10], Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846]; [Pub. L. 93–500, § 3(b)][/us/pl/93/500/s3/b], Oct. 29, 1974, [88 Stat. 1552][/us/stat/88/1552]; [Pub. L. 93–608, § 2(1)][/us/pl/93/608/s2/1], Jan. 2, 1975, [88 Stat. 1971][/us/stat/88/1971]; [Pub. L. 95–52, title I, § 116(a)][/us/pl/95/52/s116/a], (b)(2), June 22, 1977, [91 Stat. 241][/us/stat/91/241], 242, set forth requirements respecting semiannual reports to President and Congress, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979. See [section 4616 of this title][/us/usc/t50/s4616].
+    A prior section 2409 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 10, Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846]; [Pub. L. 93–500][/us/pl/93/500], § 3(b), Oct. 29, 1974, [88 Stat. 1552][/us/stat/88/1552]; [Pub. L. 93–608][/us/pl/93/608], § 2(1), Jan. 2, 1975, [88 Stat. 1971][/us/stat/88/1971]; [Pub. L. 95–52, title I][/us/pl/95/52/tI], § 116(a), (b)(2), June 22, 1977, [91 Stat. 241][/us/stat/91/241], 242, set forth requirements respecting semiannual reports to President and Congress, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979. See [section 4616 of this title][/us/usc/t50/s4616].
 
  __Amendments__ 
 
-    1988—Subsec. (g)(2). [Pub. L. 100–418, § 2425(a)(1)][/us/pl/100/418/s2425/a/1]–(3), substituted “President and the Secretary” for “President” in subpar. (A), inserted before last sentence “Whenever the Secretary of Defense makes a recommendation to the President pursuant to paragraph (2)(A), the Secretary shall also submit his recommendation to the President on the request to export if the Secretary differs with the Secretary of Defense.”, and inserted at end “If the Secretary of Defense fails to make a recommendation or notification under this paragraph within the 20-day period specified in the third sentence, or if the President, within 20 days after receiving a recommendation from the Secretary of Defense with respect to an export, fails to notify the Secretary that he approves or disapproves the export, the Secretary shall approve or deny the request for a license or other authority to export without such recommendation or notification.”
+    1988—Subsec. (g)(2). [Pub. L. 100–418][/us/pl/100/418], § 2425(a)(1)–(3), substituted “President and the Secretary” for “President” in subpar. (A), inserted before last sentence “Whenever the Secretary of Defense makes a recommendation to the President pursuant to paragraph (2)(A), the Secretary shall also submit his recommendation to the President on the request to export if the Secretary differs with the Secretary of Defense.”, and inserted at end “If the Secretary of Defense fails to make a recommendation or notification under this paragraph within the 20-day period specified in the third sentence, or if the President, within 20 days after receiving a recommendation from the Secretary of Defense with respect to an export, fails to notify the Secretary that he approves or disapproves the export, the Secretary shall approve or deny the request for a license or other authority to export without such recommendation or notification.”
 
-    Subsec. (g)(4). [Pub. L. 100–418, § 2425(a)(4)][/us/pl/100/418/s2425/a/4], struck out par. (4) which read as follows: “Whenever the President exercises his authority under this subsection to modify or overrule a recommendation made by the Secretary of Defense or exercises his authority to modify or overrule any recommendation made by the Secretary of Defense under subsection (c) or (d) of [section 4604 of this title][/us/usc/t50/s4604] with respect to the list of goods and technologies controlled for national security purposes, the President shall promptly transmit to the Congress a statement indicating his decision, together with the recommendation of the Secretary of Defense.”
+    Subsec. (g)(4). [Pub. L. 100–418][/us/pl/100/418], § 2425(a)(4), struck out par. (4) which read as follows: “Whenever the President exercises his authority under this subsection to modify or overrule a recommendation made by the Secretary of Defense or exercises his authority to modify or overrule any recommendation made by the Secretary of Defense under subsection (c) or (d) of [section 4604 of this title][/us/usc/t50/s4604] with respect to the list of goods and technologies controlled for national security purposes, the President shall promptly transmit to the Congress a statement indicating his decision, together with the recommendation of the Secretary of Defense.”
 
-    Subsec. (m). [Pub. L. 100–418, § 2425(c)][/us/pl/100/418/s2425/c], inserted sentence at end requiring the Secretary, not later than 120 days after Aug. 23, 1988, to report to Congress on steps taken to implement the plan developed to assist small businesses in the export licensing application process.
+    Subsec. (m). [Pub. L. 100–418][/us/pl/100/418], § 2425(c), inserted sentence at end requiring the Secretary, not later than 120 days after Aug. 23, 1988, to report to Congress on steps taken to implement the plan developed to assist small businesses in the export licensing application process.
 
-    1985—[Pub. L. 99–64, § 111(e)(1)][/us/pl/99/64/s111/e/1], inserted “; other inquiries” in section catchline.
+    1985—[Pub. L. 99–64][/us/pl/99/64], § 111(e)(1), inserted “; other inquiries” in section catchline.
 
-    Subsec. (c). [Pub. L. 99–94, § 111(a)(2)][/us/pl/99/94/s111/a/2], (b)(1), substituted “Except as provided in subsection (o) of this section, in each case” for “In each case” and “60” for “90”.
+    Subsec. (c). [Pub. L. 99–94][/us/pl/99/94], § 111(a)(2), (b)(1), substituted “Except as provided in subsection (o) of this section, in each case” for “In each case” and “60” for “90”.
 
-    Subsec. (d). [Pub. L. 99–64, § 111(a)(3)][/us/pl/99/64/s111/a/3], (b)(2), substituted “Except in the case of exports described in subsection (o) of this section, in each case” for “In each case” and “20” for “30” in provisions preceding par. (1), and inserted flush provision following par. (2) relating to exports described in subsec. (o) when it becomes necessary to refer an application to another department or agency for information and recommendations.
+    Subsec. (d). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(3), (b)(2), substituted “Except in the case of exports described in subsection (o) of this section, in each case” for “In each case” and “20” for “30” in provisions preceding par. (1), and inserted flush provision following par. (2) relating to exports described in subsec. (o) when it becomes necessary to refer an application to another department or agency for information and recommendations.
 
-    Subsec. (e)(1). [Pub. L. 99–64, § 111(b)(3)(A)][/us/pl/99/64/s111/b/3/A], substituted “Any department or agency to which an application is referred pursuant to subsection (d) shall submit to the Secretary the information or recommendations requested with respect to the application” for “Any department or agency to which an application is referred pursuant to subsection (d) shall submit to the Secretary, within 30 days after its receipt of the application, the information or recommendations requested with respect to such application” and inserted sentence directing that information or recommendations be submitted within 20 days after the department or agency receives the application or, in the case of exports described in subsection (o), before the expiration of the time periods permitted by that subsection.
+    Subsec. (e)(1). [Pub. L. 99–64][/us/pl/99/64], § 111(b)(3)(A), substituted “Any department or agency to which an application is referred pursuant to subsection (d) shall submit to the Secretary the information or recommendations requested with respect to the application” for “Any department or agency to which an application is referred pursuant to subsection (d) shall submit to the Secretary, within 30 days after its receipt of the application, the information or recommendations requested with respect to such application” and inserted sentence directing that information or recommendations be submitted within 20 days after the department or agency receives the application or, in the case of exports described in subsection (o), before the expiration of the time periods permitted by that subsection.
 
-    Subsec. (e)(2)(A). [Pub. L. 99–64, § 111(a)(3)][/us/pl/99/64/s111/a/3], (b)(3)(B)(i), designated existing provisions of par. (2) as subpar. (A) and substituted “Except in the case of exports described in subsection (o), if the head” for “If the head” and “20” for “30”.
+    Subsec. (e)(2)(A). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(3), (b)(3)(B)(i), designated existing provisions of par. (2) as subpar. (A) and substituted “Except in the case of exports described in subsection (o), if the head” for “If the head” and “20” for “30”.
 
-    Subsec. (e)(2)(B). [Pub. L. 99–64, § 111(b)(3)(B)(ii)][/us/pl/99/64/s111/b/3/B/ii], added subpar. (B).
+    Subsec. (e)(2)(B). [Pub. L. 99–64][/us/pl/99/64], § 111(b)(3)(B)(ii), added subpar. (B).
 
-    Subsec. (f)(1). [Pub. L. 99–64, § 111(a)(2)][/us/pl/99/64/s111/a/2], (b)(4), substituted “60” for “90” in two places and inserted sentence providing that the provisions of this paragraph shall not apply in the case of exports described in subsection (o).
+    Subsec. (f)(1). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(2), (b)(4), substituted “60” for “90” in two places and inserted sentence providing that the provisions of this paragraph shall not apply in the case of exports described in subsection (o).
 
-    Subsec. (f)(2). [Pub. L. 99–64, § 111(c)][/us/pl/99/64/s111/c], inserted “in writing” after “inform the applicant”, and substituted provisions describing the steps to which the applicant is entitled before a final determination with respect to the application is made and providing that the provisions of this paragraph shall not apply in the case of exports described in subsection (o), for provision that the Secretary accord the applicant an opportunity, before the final determination with respect to the application is made, to respond in writing to such questions, considerations, or recommendations.
+    Subsec. (f)(2). [Pub. L. 99–64][/us/pl/99/64], § 111(c), inserted “in writing” after “inform the applicant”, and substituted provisions describing the steps to which the applicant is entitled before a final determination with respect to the application is made and providing that the provisions of this paragraph shall not apply in the case of exports described in subsection (o), for provision that the Secretary accord the applicant an opportunity, before the final determination with respect to the application is made, to respond in writing to such questions, considerations, or recommendations.
 
-    Subsec. (f)(3). [Pub. L. 99–64, § 111(d)][/us/pl/99/64/s111/d], inserted two new sentences describing the content of the writing which the applicant is entitled to receive when the Secretary determines that an application should be denied and directing that the Secretary allow the applicant at least 30 days to respond to the Secretary’s determination before the license application is denied, and struck out existing sentence which had provided: “In cases where the Secretary has determined that an application should be denied, the applicant shall be informed in writing, within 5 days after such determination is made, of the determination, of the statutory basis for denial, the policies set forth in [section 4602 of this title][/us/usc/t50/s4602] which would be furthered by denial, and, to the extent consistent with the national security and foreign policy of the United States, the specific considerations which led to the denial, and of the availability of appeal procedures.”
+    Subsec. (f)(3). [Pub. L. 99–64][/us/pl/99/64], § 111(d), inserted two new sentences describing the content of the writing which the applicant is entitled to receive when the Secretary determines that an application should be denied and directing that the Secretary allow the applicant at least 30 days to respond to the Secretary’s determination before the license application is denied, and struck out existing sentence which had provided: “In cases where the Secretary has determined that an application should be denied, the applicant shall be informed in writing, within 5 days after such determination is made, of the determination, of the statutory basis for denial, the policies set forth in [section 4602 of this title][/us/usc/t50/s4602] which would be furthered by denial, and, to the extent consistent with the national security and foreign policy of the United States, the specific considerations which led to the denial, and of the availability of appeal procedures.”
 
-    Subsec. (f)(4). [Pub. L. 99–64, § 111(b)(4)][/us/pl/99/64/s111/b/4], inserted sentence providing that provisions of this paragraph shall not apply in the case of exports described in subsec. (o).
+    Subsec. (f)(4). [Pub. L. 99–64][/us/pl/99/64], § 111(b)(4), inserted sentence providing that provisions of this paragraph shall not apply in the case of exports described in subsec. (o).
 
-    Subsec. (g)(2). [Pub. L. 99–64, § 111(a)(3)][/us/pl/99/64/s111/a/3], substituted “20” for “30” in provisions preceding subpar. (A) and in provisions following subpar. (C).
+    Subsec. (g)(2). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(3), substituted “20” for “30” in provisions preceding subpar. (A) and in provisions following subpar. (C).
 
-    Subsec. (h). [Pub. L. 99–64, § 111(a)(1)][/us/pl/99/64/s111/a/1], substituted “40” for “60” wherever appearing.
+    Subsec. (h). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(1), substituted “40” for “60” wherever appearing.
 
-    Subsec. (j)(3). [Pub. L. 99–64, § 111(a)(3)][/us/pl/99/64/s111/a/3], substituted “20” for “30”.
+    Subsec. (j)(3). [Pub. L. 99–64][/us/pl/99/64], § 111(a)(3), substituted “20” for “30”.
 
-    Subsecs. (k) to (o). [Pub. L. 99–64, § 111(e)(2)][/us/pl/99/64/s111/e/2], added subsecs. (k) to (o).
+    Subsecs. (k) to (o). [Pub. L. 99–64][/us/pl/99/64], § 111(e)(2), added subsecs. (k) to (o).
 
  __Regulations__ 
 
-[Pub. L. 96–72, § 19(b)(1)][/us/pl/96/72/s19/b/1], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535], provided that: 
+[Pub. L. 96–72][/us/pl/96/72], § 19(b)(1), Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535], provided that: 
 
 > “Regulations implementing the provisions of section 10 of this Act \[[50 U.S.C. 4609][/us/usc/t50/s4609]\] shall be issued and take effect not later than July 1, 1980.”
 
@@ -306,11 +306,11 @@
 
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
 [/us/usc/t50/s4603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fa%2F2
-[/us/pl/96/72/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs10
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F525
-[/us/pl/99/64/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F142
-[/us/pl/100/418/s2425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2425%2Fa
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1360
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
@@ -318,36 +318,36 @@
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
-[/us/pl/91/184/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs10
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F846
-[/us/pl/93/500/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500%2Fs3%2Fb
+[/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1552
-[/us/pl/93/608/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs2%2F1
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1971
-[/us/pl/95/52/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2Fs116%2Fa
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F241
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/usc/t50/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4616
-[/us/pl/100/418/s2425/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2425%2Fa%2F1
-[/us/pl/100/418/s2425/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2425%2Fa%2F4
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
-[/us/pl/100/418/s2425/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2425%2Fc
-[/us/pl/99/64/s111/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fe%2F1
-[/us/pl/99/94/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F94%2Fs111%2Fa%2F2
-[/us/pl/99/64/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fa%2F3
-[/us/pl/99/64/s111/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fb%2F3%2FA
-[/us/pl/99/64/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fa%2F3
-[/us/pl/99/64/s111/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fb%2F3%2FB%2Fii
-[/us/pl/99/64/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fa%2F2
-[/us/pl/99/64/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fc
-[/us/pl/99/64/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fd
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F94
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
-[/us/pl/99/64/s111/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fb%2F4
-[/us/pl/99/64/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fa%2F3
-[/us/pl/99/64/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fa%2F1
-[/us/pl/99/64/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fa%2F3
-[/us/pl/99/64/s111/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs111%2Fe%2F2
-[/us/pl/96/72/s19/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs19%2Fb%2F1
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F535
 [/us/usc/t50/s4609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603

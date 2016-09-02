@@ -73,7 +73,7 @@
 
         (3) Notwithstanding [section 1348 of title 31][/us/usc/t31/s1348], the head of a covered element of the intelligence community may use appropriated funds or nonappropriated funds of the element in carrying out this subsection.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1013, as added [Pub. L. 108–487, title VI, § 612(a)(2)][/us/pl/108/487/s612/a/2], Dec. 23, 2004, [118 Stat. 3957][/us/stat/118/3957].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1013, as added [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 612(a)(2), Dec. 23, 2004, [118 Stat. 3957][/us/stat/118/3957].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t42/s14503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14503%2Fd
 [/us/usc/t31/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1348
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/487/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs612%2Fa%2F2
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3957
 [/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F218

@@ -19,7 +19,7 @@
 
     (b) Any alien convicted of a violation of this subchapter or any regulation thereunder is subject to deportation in the manner provided by chapter 4 of title II of the Immigration and Nationality Act \[[8 U.S.C. 1221][/us/usc/t8/s1221] et seq.\].
 
-([Aug. 1, 1956, ch. 849, § 6][/us/act/1956-08-01/ch849/s6], [70 Stat. 900][/us/stat/70/900]; [Pub. L. 104–208, div. C, title III, § 308(g)(9)(B)][/us/pl/104/208/s308/g/9/B], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 6, [70 Stat. 900][/us/stat/70/900]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(9)(B), Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
-[/us/act/1956-08-01/ch849/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs6
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F900
-[/us/pl/104/208/s308/g/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F9%2FB
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-624
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

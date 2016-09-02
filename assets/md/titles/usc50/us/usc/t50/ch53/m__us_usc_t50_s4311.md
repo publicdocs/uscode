@@ -17,7 +17,7 @@
 
     Whenever during the present war the President shall find that the public safety so requires and shall make proclamation thereof it shall be unlawful to import into the United States from any country named in such proclamation any article or articles mentioned in such proclamation except at such time or times, and under such regulations or orders, and subject to such limitations and exceptions as the President shall prescribe, until otherwise ordered by the President or by Congress: Provided, however, That no preference shall be given to the ports of one State over those of another.
 
-([Oct. 6, 1917, ch. 106, § 11][/us/act/1917-10-06/ch106/s11], [40 Stat. 422][/us/stat/40/422].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 11, [40 Stat. 422][/us/stat/40/422].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs11
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F422
 
 

@@ -53,7 +53,7 @@
 
         When any agreement entered into pursuant to this subchapter after December 31, 1991, imposes any contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 304, as added [Pub. L. 111–67, § 7][/us/pl/111/67/s7], Sept. 30, 2009, [123 Stat. 2017][/us/stat/123/2017].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 304, as added [Pub. L. 111–67][/us/pl/111/67], § 7, Sept. 30, 2009, [123 Stat. 2017][/us/stat/123/2017].)
 
  __Termination of Section__ 
 
@@ -71,19 +71,19 @@
 
     Prior sections 304 to 310 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], were omitted in the general amendment of title III of the Act by [Pub. L. 111–67][/us/pl/111/67].
 
-    Section 304, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, [64 Stat. 802][/us/stat/64/802]; [June 2, 1951, ch. 121][/us/act/1951-06-02/ch121], Ch. XI, [65 Stat. 61][/us/stat/65/61]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 103(b), (c), [65 Stat. 134][/us/stat/65/134]; [Pub. L. 86–560, § 2][/us/pl/86/560/s2], June 30, 1960, [74 Stat. 282][/us/stat/74/282]; [Pub. L. 88–343, § 3][/us/pl/88/343/s3], June 30, 1964, [78 Stat. 235][/us/stat/78/235]; [Pub. L. 93–426, § 2][/us/pl/93/426/s2], Sept. 30, 1974, [88 Stat. 1166][/us/stat/88/1166]; [Pub. L. 102–558, title I, § 122][/us/pl/102/558/s122], Oct. 28, 1992, [106 Stat. 4206][/us/stat/106/4206]; [Pub. L. 107–47, § 4(4)][/us/pl/107/47/s4/4], Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to Defense Production Act Fund.
+    Section 304, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], [64 Stat. 802][/us/stat/64/802]; [June 2, 1951, ch. 121][/us/act/1951-06-02/ch121], Ch. XI, [65 Stat. 61][/us/stat/65/61]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 103(b), (c), [65 Stat. 134][/us/stat/65/134]; [Pub. L. 86–560][/us/pl/86/560], § 2, June 30, 1960, [74 Stat. 282][/us/stat/74/282]; [Pub. L. 88–343][/us/pl/88/343], § 3, June 30, 1964, [78 Stat. 235][/us/stat/78/235]; [Pub. L. 93–426][/us/pl/93/426], § 2, Sept. 30, 1974, [88 Stat. 1166][/us/stat/88/1166]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 122, Oct. 28, 1992, [106 Stat. 4206][/us/stat/106/4206]; [Pub. L. 107–47][/us/pl/107/47], § 4(4), Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to Defense Production Act Fund.
 
-    Section 305, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, as added [Pub. L. 96–294, title I, § 104(e)][/us/pl/96/294/s104/e], June 30, 1980, [94 Stat. 619][/us/stat/94/619]; amended [Pub. L. 107–314, div. A, title X, § 1062][/us/pl/107/314/s1062](o)(3), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653], related to synthetic fuel production.
+    Section 305, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], as added [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(e), June 30, 1980, [94 Stat. 619][/us/stat/94/619]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(o)(3), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653], related to synthetic fuel production.
 
-    Section 306, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, as added [Pub. L. 96–294, title I, § 104(e)][/us/pl/96/294/s104/e], June 30, 1980, [94 Stat. 623][/us/stat/94/623]; amended [Pub. L. 107–314, div. A, title X, § 1062][/us/pl/107/314/s1062](o)(3), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653], related to synthetic fuel production subsequent to determinations respecting a national energy supply shortage of defense fuels.
+    Section 306, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], as added [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(e), June 30, 1980, [94 Stat. 623][/us/stat/94/623]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(o)(3), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653], related to synthetic fuel production subsequent to determinations respecting a national energy supply shortage of defense fuels.
 
-    Section 307, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, as added [Pub. L. 96–294, title I, § 104(e)][/us/pl/96/294/s104/e], June 30, 1980, [94 Stat. 628][/us/stat/94/628]; amended [Pub. L. 102–558, title I, § 151][/us/pl/102/558/s151], Oct. 28, 1992, [106 Stat. 4218][/us/stat/106/4218], related to synthetic fuel action.
+    Section 307, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], as added [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(e), June 30, 1980, [94 Stat. 628][/us/stat/94/628]; amended [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 151, Oct. 28, 1992, [106 Stat. 4218][/us/stat/106/4218], related to synthetic fuel action.
 
-    Section 308, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, as added [Pub. L. 96–294, title I, § 104(e)][/us/pl/96/294/s104/e], June 30, 1980, [94 Stat. 631][/us/stat/94/631], related to definitions of “Government synthetic fuel project”, “synthetic fuel”, “synthetic fuel project”, and “United States”.
+    Section 308, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], as added [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(e), June 30, 1980, [94 Stat. 631][/us/stat/94/631], related to definitions of “Government synthetic fuel project”, “synthetic fuel”, “synthetic fuel project”, and “United States”.
 
-    Section 309, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, as added [Pub. L. 98–265, § 6][/us/pl/98/265/s6], Apr. 17, 1984, [98 Stat. 152][/us/stat/98/152]; amended [Pub. L. 99–441, § 4][/us/pl/99/441/s4], Oct. 3, 1986, [100 Stat. 1117][/us/stat/100/1117]; [Pub. L. 102–558, title I, § 124][/us/pl/102/558/s124], Oct. 28, 1992, [106 Stat. 4207][/us/stat/106/4207]; [Pub. L. 107–47, § 4(5)][/us/pl/107/47/s4/5], Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to annual report on impact of offsets. See [section 4568 of this title][/us/usc/t50/s4568].
+    Section 309, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], as added [Pub. L. 98–265][/us/pl/98/265], § 6, Apr. 17, 1984, [98 Stat. 152][/us/stat/98/152]; amended [Pub. L. 99–441][/us/pl/99/441], § 4, Oct. 3, 1986, [100 Stat. 1117][/us/stat/100/1117]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 124, Oct. 28, 1992, [106 Stat. 4207][/us/stat/106/4207]; [Pub. L. 107–47][/us/pl/107/47], § 4(5), Oct. 5, 2001, [115 Stat. 260][/us/stat/115/260], related to annual report on impact of offsets. See [section 4568 of this title][/us/usc/t50/s4568].
 
-    Section 310, [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, as added [Pub. L. 102–558, title I, § 125][/us/pl/102/558/s125], Oct. 28, 1992, [106 Stat. 4208][/us/stat/106/4208], related to civil-military integration.
+    Section 310, [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], as added [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 125, Oct. 28, 1992, [106 Stat. 4208][/us/stat/106/4208], related to civil-military integration.
 
  __Defense Production Act Fund Manager__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t50/s4561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4561
 [/us/usc/t50/s4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4533
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/111/67/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs7
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2017
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
@@ -111,52 +111,52 @@
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
 [/us/stat/64/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F802
 [/us/act/1951-06-02/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-02%2Fch121
 [/us/stat/65/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F61
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F134
-[/us/pl/86/560/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F560%2Fs2
+[/us/pl/86/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F560
 [/us/stat/74/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F282
-[/us/pl/88/343/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F343%2Fs3
+[/us/pl/88/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F343
 [/us/stat/78/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F235
-[/us/pl/93/426/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F426%2Fs2
+[/us/pl/93/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F426
 [/us/stat/88/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1166
-[/us/pl/102/558/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs122
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4206
-[/us/pl/107/47/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47%2Fs4%2F4
+[/us/pl/107/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47
 [/us/stat/115/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F260
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/96/294/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fe
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F619
-[/us/pl/107/314/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2653
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/96/294/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fe
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F623
-[/us/pl/107/314/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2653
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/96/294/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fe
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F628
-[/us/pl/102/558/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs151
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4218
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/96/294/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fe
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F631
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/98/265/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F265%2Fs6
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
+[/us/pl/98/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F265
 [/us/stat/98/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F152
-[/us/pl/99/441/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F441%2Fs4
+[/us/pl/99/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F441
 [/us/stat/100/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1117
-[/us/pl/102/558/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs124
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4207
-[/us/pl/107/47/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47%2Fs4%2F5
+[/us/pl/107/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F47
 [/us/stat/115/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F260
 [/us/usc/t50/s4568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4568
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/558/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs125
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4208
 [/us/usc/t50/s4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4553
 

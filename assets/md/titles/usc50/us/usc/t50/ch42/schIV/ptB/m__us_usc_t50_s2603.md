@@ -91,7 +91,7 @@
 
         (3) The term “nonoperational defense nuclear facility” means a production facility or utilization facility (as those terms are defined in [section 2014 of title 42][/us/usc/t42/s2014]) under the control or jurisdiction of the Secretary of Energy and operated for national security purposes that is no longer needed for the mission of the Department of Energy, including the National Nuclear Security Administration.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4423][/us/pl/107/314/s4423], as added [Pub. L. 114–92, div. C, title XXXI, § 3133(a)][/us/pl/114/92/s3133/a], Nov. 25, 2015, [129 Stat. 1205][/us/stat/129/1205].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4423, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3133(a), Nov. 25, 2015, [129 Stat. 1205][/us/stat/129/1205].)
 
 ----------
 
@@ -101,8 +101,8 @@
 ----------
 
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
-[/us/pl/107/314/s4423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4423
-[/us/pl/114/92/s3133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3133%2Fa
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1205
 
 

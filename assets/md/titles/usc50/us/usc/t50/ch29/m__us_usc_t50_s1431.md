@@ -17,13 +17,13 @@
 
     The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in any amount in excess of $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
 
-([Pub. L. 85–804, § 1][/us/pl/85/804/s1], Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972]; [Pub. L. 93–155, title VIII, § 807(a)][/us/pl/93/155/s807/a], Nov. 16, 1973, [87 Stat. 615][/us/stat/87/615]; [Pub. L. 101–510, div. A, title XIII, § 1313][/us/pl/101/510/s1313], Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 102–25, title VII, § 705(f)][/us/pl/102/25/s705/f], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120].)
+([Pub. L. 85–804][/us/pl/85/804], § 1, Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972]; [Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 807(a), Nov. 16, 1973, [87 Stat. 615][/us/stat/87/615]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1313, Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 705(f), Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–25, § 705(f)(1)][/us/pl/102/25/s705/f/1], inserted before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees”.
+    1991—[Pub. L. 102–25][/us/pl/102/25], § 705(f)(1), inserted before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees”.
 
-    [Pub. L. 102–25, § 705(f)(2)][/us/pl/102/25/s705/f/2], in fourth sentence, inserted “at the end of a Congress” after “sine die” and “, or because of an adjournment sine die other than at the end of a Congress,” after “to a day certain”.
+    [Pub. L. 102–25][/us/pl/102/25], § 705(f)(2), in fourth sentence, inserted “at the end of a Congress” after “sine die” and “, or because of an adjournment sine die other than at the end of a Congress,” after “to a day certain”.
 
     1990—[Pub. L. 101–510][/us/pl/101/510] struck out before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such obligation”.
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-    [Pub. L. 102–25, title VII, § 705(f)(1)][/us/pl/102/25/s705/f/1], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120], provided that the amendment made by that section is effective as of Nov. 6, 1990.
+    [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 705(f)(1), Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120], provided that the amendment made by that section is effective as of Nov. 6, 1990.
 
  __Nonapplicability of National Emergencies Act__ 
 
@@ -174,19 +174,19 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 ----------
 ----------
 
-[/us/pl/85/804/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804%2Fs1
+[/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
 [/us/stat/72/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F972
-[/us/pl/93/155/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs807%2Fa
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F615
-[/us/pl/101/510/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1313
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1670
-[/us/pl/102/25/s705/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Ff
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F120
-[/us/pl/102/25/s705/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Ff%2F1
-[/us/pl/102/25/s705/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Ff%2F2
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
-[/us/pl/102/25/s705/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Ff%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F120
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t50/s1651/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1651%2Fa%2F4

@@ -75,7 +75,7 @@
 
             (B) defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4646][/us/pl/107/314/s4646], as added [Pub. L. 112–239, div. C, title XXXI, § 3142(a)(1)][/us/pl/112/239/s3142/a/1], Jan. 2, 2013, [126 Stat. 2194][/us/stat/126/2194]; amended [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(13)][/us/pl/113/66/s3146/g/13], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4646, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3142(a)(1), Jan. 2, 2013, [126 Stat. 2194][/us/stat/126/2194]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(13), Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Amendments__ 
 
@@ -88,10 +88,10 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4646
-[/us/pl/112/239/s3142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3142%2Fa%2F1
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2194
-[/us/pl/113/66/s3146/g/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F13
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 

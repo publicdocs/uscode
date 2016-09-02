@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Aleutian and Pribilof Islands Restitution Act”.
 
-([Pub. L. 100–383, title II, § 201][/us/pl/100/383/s201], Aug. 10, 1988, [102 Stat. 911][/us/stat/102/911].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 201, Aug. 10, 1988, [102 Stat. 911][/us/stat/102/911].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/383/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs201
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F911
 
 

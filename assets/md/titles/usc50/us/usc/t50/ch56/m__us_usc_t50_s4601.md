@@ -41,7 +41,7 @@
 
     (12) Excessive dependence of the United States, its allies, or countries sharing common strategic objectives with the United States, on energy and other critical resources from potential adversaries can be harmful to the mutual and individual security of all those countries.
 
-([Pub. L. 96–72, § 2][/us/pl/96/72/s2], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503]; [Pub. L. 99–64, title I, § 102][/us/pl/99/64/s102], July 12, 1985, [99 Stat. 120][/us/stat/99/120]; [Pub. L. 103–199, title II, § 201(a)][/us/pl/103/199/s201/a], Dec. 17, 1993, [107 Stat. 2320][/us/stat/107/2320].)
+([Pub. L. 96–72][/us/pl/96/72], § 2, Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 102, July 12, 1985, [99 Stat. 120][/us/stat/99/120]; [Pub. L. 103–199, title II][/us/pl/103/199/tII], § 201(a), Dec. 17, 1993, [107 Stat. 2320][/us/stat/107/2320].)
 
  __Termination Date__ 
 
@@ -51,49 +51,49 @@
 
     Section was formerly classified to section 2401 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2401 of the former Appendix to this title, [Pub. L. 91–184, § 2][/us/pl/91/184/s2], Dec. 30, 1969, [83 Stat. 841][/us/stat/83/841]; [Pub. L. 92–412, title I, § 102][/us/pl/92/412/s102], Aug. 29, 1972, [86 Stat. 644][/us/stat/86/644]; [Pub. L. 93–500, § 4(a)][/us/pl/93/500/s4/a], Oct. 29, 1974, [88 Stat. 1553][/us/stat/88/1553], set forth findings of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
+    A prior section 2401 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 2, Dec. 30, 1969, [83 Stat. 841][/us/stat/83/841]; [Pub. L. 92–412, title I][/us/pl/92/412/tI], § 102, Aug. 29, 1972, [86 Stat. 644][/us/stat/86/644]; [Pub. L. 93–500][/us/pl/93/500], § 4(a), Oct. 29, 1974, [88 Stat. 1553][/us/stat/88/1553], set forth findings of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
 
  __Amendments__ 
 
     1993—Pars. (11) to (13). [Pub. L. 103–199][/us/pl/103/199] redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “The acquisition of national security sensitive goods and technology by the Soviet Union and other countries the actions or policies of which run counter to the national security interests of the United States, has led to the significant enhancement of Soviet bloc military-industrial capabilities. This enhancement poses a threat to the security of the United States, its allies, and other friendly nations, and places additional demands on the defense budget of the United States.”
 
-    1985—Par. (2). [Pub. L. 99–64, § 102(1)][/us/pl/99/64/s102/1], substituted “by earning foreign exchange, thereby contributing favorably to the trade balance” for “by strengthening the trade balance and the value of the United States dollar, thereby reducing inflation”.
+    1985—Par. (2). [Pub. L. 99–64][/us/pl/99/64], § 102(1), substituted “by earning foreign exchange, thereby contributing favorably to the trade balance” for “by strengthening the trade balance and the value of the United States dollar, thereby reducing inflation”.
 
-    Par. (3). [Pub. L. 99–64, § 102(2)][/us/pl/99/64/s102/2], substituted “consistent with the economic, security, and foreign policy objectives of the United States” for “which would strengthen the Nation’s economy”.
+    Par. (3). [Pub. L. 99–64][/us/pl/99/64], § 102(2), substituted “consistent with the economic, security, and foreign policy objectives of the United States” for “which would strengthen the Nation’s economy”.
 
-    Par. (6). [Pub. L. 99–64, § 102(3)][/us/pl/99/64/s102/3], amended par. (6) generally, substituting “inhibit the efforts of United States business and work” for “curtail the efforts of American business”.
+    Par. (6). [Pub. L. 99–64][/us/pl/99/64], § 102(3), amended par. (6) generally, substituting “inhibit the efforts of United States business and work” for “curtail the efforts of American business”.
 
-    Par. (9). [Pub. L. 99–64, § 102(4)][/us/pl/99/64/s102/4], substituted “a positive contribution to the balance of payments” for “achievement of a positive balance of payments”.
+    Par. (9). [Pub. L. 99–64][/us/pl/99/64], § 102(4), substituted “a positive contribution to the balance of payments” for “achievement of a positive balance of payments”.
 
-    Pars. (10) to (13). [Pub. L. 99–64, § 102(5)][/us/pl/99/64/s102/5], added pars. (10) to (13).
+    Pars. (10) to (13). [Pub. L. 99–64][/us/pl/99/64], § 102(5), added pars. (10) to (13).
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–418, title II, § 2441][/us/pl/100/418/s2441], Aug. 23, 1988, [102 Stat. 1364][/us/stat/102/1364], provided that: 
+[Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2441, Aug. 23, 1988, [102 Stat. 1364][/us/stat/102/1364], provided that: 
 
 > “This part \[part II (§§ 2441–2447) of subtitle D of title II of [Pub. L. 100–418][/us/pl/100/418], enacting [section 4611 of this title][/us/usc/t50/s4611], amending sections 4604 and 4616 of this title and [section 1864 of Title 19][/us/usc/t19/s1864], Customs Duties, and enacting provisions formerly set out as notes under section 2410a of the former Appendix to this title\] may be cited as the ‘Multilateral Export Control Enhancement Amendments Act’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–64, § 1][/us/pl/99/64/s1], July 12, 1985, [99 Stat. 120][/us/stat/99/120], provided that: 
+[Pub. L. 99–64][/us/pl/99/64], § 1, July 12, 1985, [99 Stat. 120][/us/stat/99/120], provided that: 
 
 > “Titles I and II of this Act \[enacting sections 4051 to 4053 of Title 15, Commerce and Trade, [section 1864 of Title 19][/us/usc/t19/s1864], Customs Duties, and [section 466c of Title 46][/us/usc/t46/s466c], Appendix, Shipping, amending this section and sections 4602 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, and [section 185 of Title 30][/us/usc/t30/s185], Mineral Lands and Mining, and enacting provisions set out as notes under sections 4604, 4605, and 4617 of this title and [section 5314 of Title 5][/us/usc/t5/s5314]\] may be cited as the ‘Export Administration Amendments Act of 1985’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–145, § 1][/us/pl/97/145/s1], Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727], provided: 
+[Pub. L. 97–145][/us/pl/97/145], § 1, Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727], provided: 
 
 > “That this Act \[amending sections 4605, 4610, 4614, and 4620 of this title and enacting provisions set out as notes under sections 4605, 4610, and 4620 of this title\] may be cited as the ‘Export Administration Amendments Act of 1981’.”
 
  __Short Title__ 
 
-[Pub. L. 96–72, § 1][/us/pl/96/72/s1], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], provided that: 
+[Pub. L. 96–72][/us/pl/96/72], § 1, Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], provided that: 
 
 > “This Act \[enacting this chapter, amending [section 1732 of Title 7][/us/usc/t7/s1732], Agriculture, sections 2778 and 3108 of Title 22, Foreign Relations and Intercourse, [section 993 of Title 26][/us/usc/t26/s993], Internal Revenue Code, and sections 6212 and 6274 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4606 and 4609 of this title and [section 3108 of Title 22][/us/usc/t22/s3108]\] may be cited as the ‘Export Administration Act of 1979’.”
 
  __Director of National Intelligence Support for Reviews of International Traffic in Arms Regulations and Export Administration Regulations__ 
 
-[Pub. L. 111–259, title IV, § 415][/us/pl/111/259/s415], Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727], provided that: 
+[Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 415, Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727], provided that: 
 
 > “The Director of National Intelligence may provide support for any review conducted by a department or agency of the United States Government of the International Traffic in Arms Regulations or Export Administration Regulations, including a review of technologies and goods on the United States Munitions List and Commerce Control List that may warrant controls that are different or additional to the controls such technologies and goods are subject to at the time of such review.”
 
@@ -298,44 +298,44 @@ By the authority vested in me as President by the Constitution and statutes of t
 ----------
 ----------
 
-[/us/pl/96/72/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs2
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/pl/99/64/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs102
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F120
-[/us/pl/103/199/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs201%2Fa
+[/us/pl/103/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtII
 [/us/stat/107/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2320
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
-[/us/pl/91/184/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs2
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F841
-[/us/pl/92/412/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2Fs102
+[/us/pl/92/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2FtI
 [/us/stat/86/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F644
-[/us/pl/93/500/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500%2Fs4%2Fa
+[/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1553
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
-[/us/pl/99/64/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs102%2F1
-[/us/pl/99/64/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs102%2F2
-[/us/pl/99/64/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs102%2F3
-[/us/pl/99/64/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs102%2F4
-[/us/pl/99/64/s102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs102%2F5
-[/us/pl/100/418/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2441
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1364
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t50/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4611
 [/us/usc/t19/s1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1864
-[/us/pl/99/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs1
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/stat/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F120
 [/us/usc/t19/s1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1864
 [/us/usc/t46/s466c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs466c
 [/us/usc/t30/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/97/145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs1
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1727
-[/us/pl/96/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs1
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t7/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1732
 [/us/usc/t26/s993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs993
 [/us/usc/t22/s3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3108
-[/us/pl/111/259/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs415
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2727
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021

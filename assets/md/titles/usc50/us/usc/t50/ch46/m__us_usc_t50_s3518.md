@@ -37,11 +37,11 @@
 
         The provisions of subsection (a) of this section shall not apply to an officer or employee of the Central Intelligence Agency who would otherwise be entitled to a greater annuity computed under an otherwise applicable subsection of [section 8339 of title 5][/us/usc/t5/s8339].
 
-([June 20, 1949, ch. 227, § 18][/us/act/1949-06-20/ch227/s18], as added [Pub. L. 101–193, title III, § 305][/us/pl/101/193/s305], Nov. 30, 1989, [103 Stat. 1704][/us/stat/103/1704]; amended [Pub. L. 102–496, title VIII, § 803(a)(2)][/us/pl/102/496/s803/a/2], Oct. 24, 1992, [106 Stat. 3252][/us/stat/106/3252].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 18, as added [Pub. L. 101–193, title III][/us/pl/101/193/tIII], § 305, Nov. 30, 1989, [103 Stat. 1704][/us/stat/103/1704]; amended [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 803(a)(2), Oct. 24, 1992, [106 Stat. 3252][/us/stat/106/3252].)
 
  __References in Text__ 
 
-    Subsection (o) of [section 8339 of title 5][/us/usc/t5/s8339], referred to in subsec. (c), was redesignated subsec. (p) of that section by [Pub. L. 102–378, § 2(62)][/us/pl/102/378/s2/62], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354].
+    Subsection (o) of [section 8339 of title 5][/us/usc/t5/s8339], referred to in subsec. (c), was redesignated subsec. (p) of that section by [Pub. L. 102–378][/us/pl/102/378], § 2(62), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354].
 
  __Codification__ 
 
@@ -71,13 +71,13 @@
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
-[/us/act/1949-06-20/ch227/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs18
-[/us/pl/101/193/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs305
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/101/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtIII
 [/us/stat/103/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1704
-[/us/pl/102/496/s803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs803%2Fa%2F2
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3252
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
-[/us/pl/102/378/s2/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F62
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
 [/us/usc/t50/s403r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403r
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496

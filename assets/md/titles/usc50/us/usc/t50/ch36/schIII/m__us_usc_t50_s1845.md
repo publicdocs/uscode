@@ -61,7 +61,7 @@
 
         Orders granting motions or requests under subsection (g) of this section, decisions under this section that the use of a pen register or trap and trace device was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the installation and use of a pen register or trap and trace device shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
 
-([Pub. L. 95–511, title IV, § 405][/us/pl/95/511/s405], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2408][/us/stat/112/2408].)
+([Pub. L. 95–511, title IV][/us/pl/95/511/tIV], § 405, as added [Pub. L. 105–272, title VI][/us/pl/105/272/tVI], § 601(2), Oct. 20, 1998, [112 Stat. 2408][/us/stat/112/2408].)
 
 ----------
 
@@ -70,8 +70,8 @@
 ----------
 ----------
 
-[/us/pl/95/511/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs405
-[/us/pl/105/272/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs601%2F2
+[/us/pl/95/511/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIV
+[/us/pl/105/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVI
 [/us/stat/112/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2408
 
 

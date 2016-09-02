@@ -35,7 +35,7 @@
 
         Whenever the President makes a determination to exercise any authority to allocate any material pursuant to [section 4511 of this title][/us/usc/t50/s4511], small business concerns shall be accorded, to the extent practicable, a fair share of such material, in proportion to the share received by such business concerns under normal conditions, giving such special consideration as may be possible to emerging small business concerns.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 701, [64 Stat. 815][/us/stat/64/815]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 108, [65 Stat. 138][/us/stat/65/138]; [June 30, 1953, ch. 171, § 7][/us/act/1953-06-30/ch171/s7], [67 Stat. 130][/us/stat/67/130]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], §§ 4, 5, [69 Stat. 580][/us/stat/69/580]; [Pub. L. 96–294, title I, § 105(c)][/us/pl/96/294/s105/c], June 30, 1980, [94 Stat. 633][/us/stat/94/633]; [Pub. L. 102–558, title I, § 131][/us/pl/102/558/s131], Oct. 28, 1992, [106 Stat. 4209][/us/stat/106/4209].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 701, [64 Stat. 815][/us/stat/64/815]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 108, [65 Stat. 138][/us/stat/65/138]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], § 7, [67 Stat. 130][/us/stat/67/130]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], §§ 4, 5, [69 Stat. 580][/us/stat/69/580]; [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 105(c), June 30, 1980, [94 Stat. 633][/us/stat/94/633]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 131, Oct. 28, 1992, [106 Stat. 4209][/us/stat/106/4209].)
 
  __Termination of Section__ 
 
@@ -93,13 +93,13 @@
 [/us/stat/64/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F815
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F138
-[/us/act/1953-06-30/ch171/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171%2Fs7
+[/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F130
 [/us/act/1955-08-09/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655
 [/us/stat/69/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F580
-[/us/pl/96/294/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs105%2Fc
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F633
-[/us/pl/102/558/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs131
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4209
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932

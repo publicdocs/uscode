@@ -109,7 +109,7 @@
 
         (3) the authority to compromise, remit or mitigate seizures and forfeitures pursuant to [section 401(b) of title 22][/us/usc/t22/s401/b].
 
-([Pub. L. 96–72, § 11][/us/pl/96/72/s11], Sept. 29, 1979, [93 Stat. 529][/us/stat/93/529]; [Pub. L. 97–145, § 4(a)][/us/pl/97/145/s4/a]–(c), Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727]; [Pub. L. 99–64, title I, § 112][/us/pl/99/64/s112], July 12, 1985, [99 Stat. 146][/us/stat/99/146]; [Pub. L. 100–418, title II, § 2426][/us/pl/100/418/s2426], Aug. 23, 1988, [102 Stat. 1361][/us/stat/102/1361].)
+([Pub. L. 96–72][/us/pl/96/72], § 11, Sept. 29, 1979, [93 Stat. 529][/us/stat/93/529]; [Pub. L. 97–145][/us/pl/97/145], § 4(a)–(c), Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 112, July 12, 1985, [99 Stat. 146][/us/stat/99/146]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2426, Aug. 23, 1988, [102 Stat. 1361][/us/stat/102/1361].)
 
  __Termination Date__ 
 
@@ -121,45 +121,45 @@
 
     The International Emergency Economic Powers Act, referred to in subsec. (h)(1), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t50/s1701] and Tables.
 
-    [Section 783(a) of this title][/us/usc/t50/s783/a], referred to in subsec. (h)(1), was in the original “section 4(b) of the Internal Security Act of 1950 ([50 U.S.C. 783(b)][/us/usc/t50/s783/b])”, which was translated as meaning section 4(a) of [act Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], to reflect the probable intent of Congress and the redesignation of section 4(b) of the Act as 4(a) by [Pub. L. 103–199, title VIII, § 803(2)(B)][/us/pl/103/199/s803/2/B], Dec. 17, 1993, [107 Stat. 2329][/us/stat/107/2329].
+    [Section 783(a) of this title][/us/usc/t50/s783/a], referred to in subsec. (h)(1), was in the original “section 4(b) of the Internal Security Act of 1950 ([50 U.S.C. 783(b)][/us/usc/t50/s783/b])”, which was translated as meaning section 4(a) of [act Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], to reflect the probable intent of Congress and the redesignation of section 4(b) of the Act as 4(a) by [Pub. L. 103–199, title VIII][/us/pl/103/199/tVIII], § 803(2)(B), Dec. 17, 1993, [107 Stat. 2329][/us/stat/107/2329].
 
  __Codification__ 
 
     Section was formerly classified to section 2410 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2410 of the former Appendix to this title, [Pub. L. 91–184, § 11][/us/pl/91/184/s11], Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846]; [Pub. L. 95–52, title II, § 204][/us/pl/95/52/s204], June 22, 1977, [91 Stat. 247][/us/stat/91/247], defined “person” and “United States person” for purposes of the Export Administration Act of 1969, prior to the expiration of the Act on Sept. 30, 1979. See [section 4618 of this title][/us/usc/t50/s4618].
+    A prior section 2410 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 11, Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846]; [Pub. L. 95–52, title II][/us/pl/95/52/tII], § 204, June 22, 1977, [91 Stat. 247][/us/stat/91/247], defined “person” and “United States person” for purposes of the Export Administration Act of 1969, prior to the expiration of the Act on Sept. 30, 1979. See [section 4618 of this title][/us/usc/t50/s4618].
 
  __Amendments__ 
 
-    1988—Subsec. (h). [Pub. L. 100–418, § 2426][/us/pl/100/418/s2426], designated existing provisions as par. (1), inserted “this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act,” after “violation of”, and added par. (2).
+    1988—Subsec. (h). [Pub. L. 100–418][/us/pl/100/418], § 2426, designated existing provisions as par. (1), inserted “this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act,” after “violation of”, and added par. (2).
 
-    1985—Subsec. (a). [Pub. L. 99–64, § 112(a)][/us/pl/99/64/s112/a], inserted “or conspires to or attempts to violate”.
+    1985—Subsec. (a). [Pub. L. 99–64][/us/pl/99/64], § 112(a), inserted “or conspires to or attempts to violate”.
 
-    Subsec. (b)(1). [Pub. L. 99–64, § 112(b)(1)][/us/pl/99/64/s112/b/1], in provisions preceding subpar. (A), substituted “Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes” for “Whoever willfully exports anything contrary to any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that such exports will be used for the benefit of any country to which exports are restricted for national security or foreign policy purposes”.
+    Subsec. (b)(1). [Pub. L. 99–64][/us/pl/99/64], § 112(b)(1), in provisions preceding subpar. (A), substituted “Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes” for “Whoever willfully exports anything contrary to any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that such exports will be used for the benefit of any country to which exports are restricted for national security or foreign policy purposes”.
 
-    Subsec. (b)(2). [Pub. L. 99–64, § 112(b)(2)][/us/pl/99/64/s112/b/2], struck out sentence which provided that for purposes of this paragraph, “controlled country” means any country described in [section 2370(f) of title 22][/us/usc/t22/s2370/f].
+    Subsec. (b)(2). [Pub. L. 99–64][/us/pl/99/64], § 112(b)(2), struck out sentence which provided that for purposes of this paragraph, “controlled country” means any country described in [section 2370(f) of title 22][/us/usc/t22/s2370/f].
 
-    Subsec. (b)(3) to (5). [Pub. L. 99–64, § 112(b)(3)][/us/pl/99/64/s112/b/3], added pars. (3) to (5).
+    Subsec. (b)(3) to (5). [Pub. L. 99–64][/us/pl/99/64], § 112(b)(3), added pars. (3) to (5).
 
-    Subsec. (c)(1). [Pub. L. 99–64, § 112(c)(1)][/us/pl/99/64/s112/c/1], substituted “Secretary (and officers and employees of the Department of Commerce specifically designated by the Secretary)” for “head of any department or agency exercising any functions under this chapter, or any officer or employee of such department or agency specifically designated by the head thereof,”.
+    Subsec. (c)(1). [Pub. L. 99–64][/us/pl/99/64], § 112(c)(1), substituted “Secretary (and officers and employees of the Department of Commerce specifically designated by the Secretary)” for “head of any department or agency exercising any functions under this chapter, or any officer or employee of such department or agency specifically designated by the head thereof,”.
 
-    Subsec. (c)(3), (4). [Pub. L. 99–64, § 112][/us/pl/99/64/s112]((c)(2), added pars. (3) and (4).
+    Subsec. (c)(3), (4). [Pub. L. 99–64][/us/pl/99/64], § 112((c)(2), added pars. (3) and (4).
 
-    Subsec. (e). [Pub. L. 99–64, § 112(d)][/us/pl/99/64/s112/d], inserted “, or any amounts realized from the forfeiture of any property interest or proceeds pursuant to subsection (g),” after “Any amount paid in satisfaction of any penalty imposed pursuant to subsection (c)”, and inserted “imposed pursuant to subsection (c)” after “refund any such penalty”.
+    Subsec. (e). [Pub. L. 99–64][/us/pl/99/64], § 112(d), inserted “, or any amounts realized from the forfeiture of any property interest or proceeds pursuant to subsection (g),” after “Any amount paid in satisfaction of any penalty imposed pursuant to subsection (c)”, and inserted “imposed pursuant to subsection (c)” after “refund any such penalty”.
 
-    Subsecs. (g), (h). [Pub. L. 99–64, § 112(e)(2)][/us/pl/99/64/s112/e/2], added subsecs. (g) and (h). Former subsec. (g) redesignated (i).
+    Subsecs. (g), (h). [Pub. L. 99–64][/us/pl/99/64], § 112(e)(2), added subsecs. (g) and (h). Former subsec. (g) redesignated (i).
 
-    Subsec. (i). [Pub. L. 99–64, § 112(e)(1)][/us/pl/99/64/s112/e/1], (f), redesignated former subsec. (g) as (i) and substituted “(f), (g), or (h)” for “or (f)” in provisions preceding par. (1).
+    Subsec. (i). [Pub. L. 99–64][/us/pl/99/64], § 112(e)(1), (f), redesignated former subsec. (g) as (i) and substituted “(f), (g), or (h)” for “or (f)” in provisions preceding par. (1).
 
-    1981—Subsec. (b)(1). [Pub. L. 97–145, § 4(a)][/us/pl/97/145/s4/a], in penalty provisions, substituted separate penalties for individuals and others in subpars. (A) and (B), for provisions prescribing a fine of not more than five times the value of the exports involved or $100,000, whichever was greater, or imprisonment of not more than 10 years, or both.
+    1981—Subsec. (b)(1). [Pub. L. 97–145][/us/pl/97/145], § 4(a), in penalty provisions, substituted separate penalties for individuals and others in subpars. (A) and (B), for provisions prescribing a fine of not more than five times the value of the exports involved or $100,000, whichever was greater, or imprisonment of not more than 10 years, or both.
 
-    Subsec. (b)(2). [Pub. L. 97–145, § 4(b)][/us/pl/97/145/s4/b], in penalty provisions, substituted separate penalties for individuals and others in subpars. (A) and (B), for provisions prescribing a fine of not more than five times the value of the exports involved or $100,000, whichever was greater, or imprisonment for not more than 5 years, or both.
+    Subsec. (b)(2). [Pub. L. 97–145][/us/pl/97/145], § 4(b), in penalty provisions, substituted separate penalties for individuals and others in subpars. (A) and (B), for provisions prescribing a fine of not more than five times the value of the exports involved or $100,000, whichever was greater, or imprisonment for not more than 5 years, or both.
 
-    Subsec. (c)(1). [Pub. L. 97–145, § 3(c)][/us/pl/97/145/s3/c], inserted exception that the civil penalty for each violation involving national security controls imposed under [section 4604 of this title][/us/usc/t50/s4604] or controls imposed on the export of defense articles and defense services under [section 2778 of title 22][/us/usc/t22/s2778] may not exceed $100,000.
+    Subsec. (c)(1). [Pub. L. 97–145][/us/pl/97/145], § 3(c), inserted exception that the civil penalty for each violation involving national security controls imposed under [section 4604 of this title][/us/usc/t50/s4604] or controls imposed on the export of defense articles and defense services under [section 2778 of title 22][/us/usc/t22/s2778] may not exceed $100,000.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–145, § 4(d)][/us/pl/97/145/s4/d], Dec. 29, 1981, [95 Stat. 1728][/us/stat/95/1728], provided that: 
+[Pub. L. 97–145][/us/pl/97/145], § 4(d), Dec. 29, 1981, [95 Stat. 1728][/us/stat/95/1728], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply with respect to violations occurring after the date of the enactment of this Act \[Dec. 29, 1981\].”
 
@@ -185,13 +185,13 @@
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s4615/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4615%2Fc
 [/us/usc/t22/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401%2Fb
-[/us/pl/96/72/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs11
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F529
-[/us/pl/97/145/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs4%2Fa
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1727
-[/us/pl/99/64/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F146
-[/us/pl/100/418/s2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2426
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1361
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
@@ -203,30 +203,30 @@
 [/us/usc/t50/s783/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fa
 [/us/usc/t50/s783/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fb
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
-[/us/pl/103/199/s803/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs803%2F2%2FB
+[/us/pl/103/199/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVIII
 [/us/stat/107/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2329
-[/us/pl/91/184/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs11
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F846
-[/us/pl/95/52/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2Fs204
+[/us/pl/95/52/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtII
 [/us/stat/91/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F247
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
-[/us/pl/100/418/s2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2426
-[/us/pl/99/64/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fa
-[/us/pl/99/64/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fb%2F1
-[/us/pl/99/64/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fb%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
-[/us/pl/99/64/s112/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fb%2F3
-[/us/pl/99/64/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fc%2F1
-[/us/pl/99/64/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112
-[/us/pl/99/64/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fd
-[/us/pl/99/64/s112/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fe%2F2
-[/us/pl/99/64/s112/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs112%2Fe%2F1
-[/us/pl/97/145/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs4%2Fa
-[/us/pl/97/145/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs4%2Fb
-[/us/pl/97/145/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs3%2Fc
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/97/145/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs4%2Fd
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1728
 
 

@@ -47,7 +47,7 @@
 
             (F) The rate of pay applicable to the detailed employee does not exceed the rate of basic pay for grade GS–15 of the General Schedule.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 113, as added [Pub. L. 105–107, title III, § 303(a)][/us/pl/105/107/s303/a], Nov. 20, 1997, [111 Stat. 2251][/us/stat/111/2251]; amended [Pub. L. 107–108, title III, § 304][/us/pl/107/108/s304], Dec. 28, 2001, [115 Stat. 1398][/us/stat/115/1398]; [Pub. L. 107–306, title VIII, § 841(a)][/us/pl/107/306/s841/a], Nov. 27, 2002, [116 Stat. 2431][/us/stat/116/2431]; [Pub. L. 108–458, title I, § 1071(a)(1)(M)][/us/pl/108/458/s1071/a/1/M], Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 113, as added [Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 303(a), Nov. 20, 1997, [111 Stat. 2251][/us/stat/111/2251]; amended [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 304, Dec. 28, 2001, [115 Stat. 1398][/us/stat/115/1398]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 841(a), Nov. 27, 2002, [116 Stat. 2431][/us/stat/116/2431]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(M), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–107, title III, § 303(d)][/us/pl/105/107/s303/d], Nov. 20, 1997, [111 Stat. 2252][/us/stat/111/2252], provided that: 
+[Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 303(d), Nov. 20, 1997, [111 Stat. 2252][/us/stat/111/2252], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to an employee on detail on or after January 1, 1997.”
 
@@ -85,13 +85,13 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/105/107/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs303%2Fa
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2251
-[/us/pl/107/108/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs304
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1398
-[/us/pl/107/306/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs841%2Fa
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2431
-[/us/pl/108/458/s1071/a/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FM
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t50/s404h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404h
@@ -103,7 +103,7 @@
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/105/107/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs303%2Fd
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2252
 
 

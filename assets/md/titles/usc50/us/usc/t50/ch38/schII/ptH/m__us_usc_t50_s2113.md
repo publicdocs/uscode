@@ -27,11 +27,11 @@
 
         Sums deducted from the basic pay of a reemployed annuitant under this section shall be deposited in the Treasury of the United States to the credit of the fund.
 
-([Pub. L. 88–643, title II, § 273][/us/pl/88/643/s273], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3238][/us/stat/106/3238].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 273, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3238][/us/stat/106/3238].)
 
  __Prior Provisions__ 
 
-    A prior [section 273 of Pub. L. 88–643][/us/pl/88/643/s273], title II, Oct. 13, 1964, [78 Stat. 1053][/us/stat/78/1053]; [Pub. L. 99–335, title V, § 501(2)][/us/pl/99/335/s501/2], June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to reemployment compensation and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 273 of Pub. L. 88–643][/us/pl/88/643/s273], title II, Oct. 13, 1964, [78 Stat. 1053][/us/stat/78/1053]; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 501(2), June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to reemployment compensation and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Waiver of Dual Compensation Provisions__ 
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/88/643/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs273
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3238
 [/us/pl/88/643/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs273
 [/us/stat/78/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1053
-[/us/pl/99/335/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs501%2F2
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

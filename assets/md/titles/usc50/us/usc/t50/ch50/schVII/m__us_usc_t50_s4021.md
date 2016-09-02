@@ -67,7 +67,7 @@
 
         When a court grants a stay under this section, a fine or penalty shall not accrue on the obligation, liability, tax, or assessment for the period of compliance with the terms and conditions of the stay.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 701, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2860][/us/stat/117/2860].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 701, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2860][/us/stat/117/2860].)
 
  __Codification__ 
 
@@ -75,9 +75,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 701 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 92–540, title V, § 504(2)][/us/pl/92/540/s504/2], Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098]; amended [Pub. L. 102–12, § 3][/us/pl/102/12/s3], Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34], related to power of attorney, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4022 of this title][/us/usc/t50/s4022].
+    A prior section 701 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Pub. L. 92–540, title V][/us/pl/92/540/tV], § 504(2), Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098]; amended [Pub. L. 102–12][/us/pl/102/12], § 3, Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34], related to power of attorney, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 4022 of this title][/us/usc/t50/s4022].
 
-    Provisions similar to this section were contained in section 700 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Oct. 6, 1942, ch. 581, § 18][/us/act/1942-10-06/ch581/s18], [56 Stat. 777][/us/stat/56/777], prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    Provisions similar to this section were contained in section 700 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VII, as added [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 18, [56 Stat. 777][/us/stat/56/777], prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
 ----------
 
@@ -87,17 +87,17 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2860
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/92/540/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs504%2F2
+[/us/pl/92/540/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtV
 [/us/stat/86/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1098
-[/us/pl/102/12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs3
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F34
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4022
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/act/1942-10-06/ch581/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs18
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F777
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 

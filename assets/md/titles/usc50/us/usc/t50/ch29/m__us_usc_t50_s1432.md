@@ -29,13 +29,13 @@
 
     (f) the formalization of an informal commitment, unless it is found that at the time the commitment was made it was impracticable to use normal procurement procedures.
 
-([Pub. L. 85–804, § 2][/us/pl/85/804/s2], Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972].)
+([Pub. L. 85–804][/us/pl/85/804], § 2, Aug. 28, 1958, [72 Stat. 972][/us/stat/72/972].)
 
  __References in Text__ 
 
     [Section 2304 of title 10][/us/usc/t10/s2304], referred to in subd. (e), was amended generally by [Pub. L. 98–369][/us/pl/98/369] and, as so amended, does not contain a subsec. (a)(15).
 
-    [Section 252(c)(13) of title 41][/us/usc/t41/s252/c/13], referred to in subd. (e), was renumbered section 252(c)(14) of former Title 41, Public Contracts, by [Pub. L. 85–800, § 2(b)][/us/pl/85/800/s2/b], Aug. 28, 1958, [72 Stat. 966][/us/stat/72/966]. Subsequently, [Pub. L. 98–369][/us/pl/98/369] amended section 252 of former Title 41 by striking out subsec. (c), redesignating subsec. (e) as (c)(1), and adding subsec. (c)(2).
+    [Section 252(c)(13) of title 41][/us/usc/t41/s252/c/13], referred to in subd. (e), was renumbered section 252(c)(14) of former Title 41, Public Contracts, by [Pub. L. 85–800][/us/pl/85/800], § 2(b), Aug. 28, 1958, [72 Stat. 966][/us/stat/72/966]. Subsequently, [Pub. L. 98–369][/us/pl/98/369] amended section 252 of former Title 41 by striking out subsec. (c), redesignating subsec. (e) as (c)(1), and adding subsec. (c)(2).
 
  __Nonapplicability of National Emergencies Act__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/85/804/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804%2Fs2
+[/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
 [/us/stat/72/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F972
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t41/s252/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252%2Fc%2F13
-[/us/pl/85/800/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800%2Fs2%2Fb
+[/us/pl/85/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800
 [/us/stat/72/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F966
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601

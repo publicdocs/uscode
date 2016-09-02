@@ -35,15 +35,15 @@
 
         (2) The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3255][/us/pl/106/65/s3255], as added [Pub. L. 111–84, div. C, title XXXI, § 3116(a)][/us/pl/111/84/s3116/a], Oct. 28, 2009, [123 Stat. 2707][/us/stat/123/2707]; amended [Pub. L. 111–383, div. C, title XXXI, § 3113(a)][/us/pl/111/383/s3113/a], Jan. 7, 2011, [124 Stat. 4509][/us/stat/124/4509]; [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(2)][/us/pl/112/239/s3132/a/2], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 114–92, div. A, title X, § 1062(a)][/us/pl/114/92/s1062/a], Nov. 25, 2015, [129 Stat. 988][/us/stat/129/988].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3255, as added [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3116(a), Oct. 28, 2009, [123 Stat. 2707][/us/stat/123/2707]; amended [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3113(a), Jan. 7, 2011, [124 Stat. 4509][/us/stat/124/4509]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3132(a)(2), Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1062(a), Nov. 25, 2015, [129 Stat. 988][/us/stat/129/988].)
 
  __Amendments__ 
 
     2015—Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92] inserted “in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year” before “, the Comptroller General” in introductory provisions.
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 3132(a)(2)(A)][/us/pl/112/239/s3132/a/2/A], substituted “nuclear security enterprise” for “nuclear security complex” wherever appearing.
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 3132(a)(2)(A), substituted “nuclear security enterprise” for “nuclear security complex” wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 112–239, § 3132(a)(2)(B)][/us/pl/112/239/s3132/a/2/B], struck out par. (3), which defined “nuclear security complex”.
+    Subsec. (b)(3). [Pub. L. 112–239][/us/pl/112/239], § 3132(a)(2)(B), struck out par. (3), which defined “nuclear security complex”.
 
     2011—[Pub. L. 111–383][/us/pl/111/383] amended section generally. Prior to amendment, section related to biennial plan and budget assessment on the modernization and refurbishment of the nuclear security complex.
 
@@ -56,18 +56,18 @@
 
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/106/65/s3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3255
-[/us/pl/111/84/s3116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3116%2Fa
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2707
-[/us/pl/111/383/s3113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3113%2Fa
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4509
-[/us/pl/112/239/s3132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F2
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
-[/us/pl/114/92/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1062%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F988
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/112/239/s3132/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F2%2FA
-[/us/pl/112/239/s3132/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F2%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 
 

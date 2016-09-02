@@ -25,7 +25,7 @@
 
     The President may delegate the authority to issue such rules and regulations to the Secretary of the department in which the Coast Guard is operating. Any appropriation available to any of the Executive Departments shall be available to carry out the provisions of this title. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 1, [40 Stat. 220][/us/stat/40/220]; [Aug. 9, 1950, ch. 656, § 1][/us/act/1950-08-09/ch656/s1], [64 Stat. 427][/us/stat/64/427]; [Sept. 26, 1950, ch. 1049, § 2(b)][/us/act/1950-09-26/ch1049/s2/b], [64 Stat. 1038][/us/stat/64/1038]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 96–70, title III, § 3302(a)][/us/pl/96/70/s3302/a], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–208, div. C, title VI, § 649][/us/pl/104/208/s649], Sept. 30, 1996, [110 Stat. 3009–711][/us/stat/110/3009-711]; [Pub. L. 108–293, title II, § 223][/us/pl/108/293/s223], Aug. 9, 2004, [118 Stat. 1040][/us/stat/118/1040].)
+([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 1, [40 Stat. 220][/us/stat/40/220]; [Aug. 9, 1950, ch. 656][/us/act/1950-08-09/ch656], § 1, [64 Stat. 427][/us/stat/64/427]; [Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2(b), [64 Stat. 1038][/us/stat/64/1038]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(a), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 649, Sept. 30, 1996, [110 Stat. 3009–711][/us/stat/110/3009-711]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 223, Aug. 9, 2004, [118 Stat. 1040][/us/stat/118/1040].)
 
  __References in Text__ 
 
@@ -49,13 +49,13 @@
 
  __Termination Date of 1950 Amendment__ 
 
-[Act Aug. 9, 1950, ch. 656, § 4][/us/act/1950-08-09/ch656/s4], [64 Stat. 428][/us/stat/64/428], provided that: 
+[Act Aug. 9, 1950, ch. 656][/us/act/1950-08-09/ch656], § 4, [64 Stat. 428][/us/stat/64/428], provided that: 
 
 > “The provisions of this Act \[amending this section and sections 192 and 194 of this title\] shall expire on such date as may be specified by concurrent resolution of the two Houses of Congress.”
 
  __Termination of War and Emergencies__ 
 
-    [Act July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+    [Act July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 3, [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
  __Regulations—Post-War Generally__ 
 
@@ -71,7 +71,7 @@
 
  __Separability__ 
 
-[Act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title XIII, § 4, [40 Stat. 231][/us/stat/40/231], provided: 
+[Act June 15, 1917, ch. 30, title XIII][/us/act/1917-06-15/ch30/tXIII], § 4, [40 Stat. 231][/us/stat/40/231], provided: 
 
 > “If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.”
 
@@ -193,7 +193,7 @@
 
     WHEREAS U.S. concerns about these unforeseen Cuban government actions that threaten to disturb international relations were sufficiently grave that on May 8, 2003, the United States warned the Cuban government that political manipulations that resulted in a mass migration would be viewed as a “hostile act;”
 
-    NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including [section 1 of title II of Public Law 65–24][/us/pl/65/24/s1], ch. 30, June 15, 1917, as amended ([50 U.S.C. 191][/us/usc/t50/s191]), sections 201 and 301 of the National Emergencies Act ([50 U.S.C. 1601][/us/usc/t50/s1601] et seq.) \[[50 U.S.C. 1621][/us/usc/t50/s1621], 1631\], and [section 301 of title 3][/us/usc/t3/s301], United States Code, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\], and to secure the observance of the rights and obligations of the United States, hereby authorize and direct the Secretary of Homeland Security (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and authorize and approve the Secretary’s issuance of such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
+    NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including [section 1 of title II of Public Law 65–24][/us/pl/65/24/tII/s1], ch. 30, June 15, 1917, as amended ([50 U.S.C. 191][/us/usc/t50/s191]), sections 201 and 301 of the National Emergencies Act ([50 U.S.C. 1601][/us/usc/t50/s1601] et seq.) \[[50 U.S.C. 1621][/us/usc/t50/s1621], 1631\], and [section 301 of title 3][/us/usc/t3/s301], United States Code, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\], and to secure the observance of the rights and obligations of the United States, hereby authorize and direct the Secretary of Homeland Security (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and authorize and approve the Secretary’s issuance of such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
 
     Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions, or result in unauthorized transactions, and thereby threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
 
@@ -222,17 +222,17 @@
 
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
-[/us/act/1950-08-09/ch656/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656%2Fs1
+[/us/act/1950-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656
 [/us/stat/64/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F427
-[/us/act/1950-09-26/ch1049/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2%2Fb
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
-[/us/pl/96/70/s3302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fa
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/104/208/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs649
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-711
-[/us/pl/108/293/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs223
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1040
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
@@ -242,13 +242,13 @@
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3304
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/act/1950-08-09/ch656/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656%2Fs4
+[/us/act/1950-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656
 [/us/stat/64/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F428
-[/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 [/us/stat/61/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F1069
 [/us/stat/54/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F2711
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/act/1917-06-15/ch30/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30%2FtXIII
 [/us/stat/40/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F231
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
@@ -262,7 +262,7 @@
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
-[/us/pl/65/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F65%2F24%2Fs1
+[/us/pl/65/24/tII/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F65%2F24%2FtII%2Fs1
 [/us/usc/t50/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs191
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t50/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1621

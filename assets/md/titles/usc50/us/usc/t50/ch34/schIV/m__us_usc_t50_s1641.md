@@ -27,7 +27,7 @@
 
         When the President declares a national emergency or Congress declares war, the President shall transmit to Congress, within ninety days after the end of each six-month period after such declaration, a report on the total expenditures incurred by the United States Government during such six-month period which are directly attributable to the exercise of powers and authorities conferred by such declaration. Not later than ninety days after the termination of each such emergency or war, the President shall transmit a final report on all such expenditures.
 
-([Pub. L. 94–412, title IV, § 401][/us/pl/94/412/s401], Sept. 14, 1976, [90 Stat. 1257][/us/stat/90/1257].)
+([Pub. L. 94–412, title IV][/us/pl/94/412/tIV], § 401, Sept. 14, 1976, [90 Stat. 1257][/us/stat/90/1257].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/94/412/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs401
+[/us/pl/94/412/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtIV
 [/us/stat/90/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1257
 
 

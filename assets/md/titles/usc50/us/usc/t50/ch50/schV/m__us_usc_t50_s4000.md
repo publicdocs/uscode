@@ -31,7 +31,7 @@
 
         This section shall not apply to the tax imposed on employees by [section 3101 of title 26][/us/usc/t26/s3101].
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 510, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2858][/us/stat/117/2858].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 510, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2858][/us/stat/117/2858].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 510 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1189][/us/stat/54/1189]; [Pub. L. 102–12, § 9(23)][/us/pl/102/12/s9/23], Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to leave of absence for homestead entrymen to perform farm labor, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    A prior section 510 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1189][/us/stat/54/1189]; [Pub. L. 102–12][/us/pl/102/12], § 9(23), Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to leave of absence for homestead entrymen to perform farm labor, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
 ----------
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2858
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1189
-[/us/pl/102/12/s9/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F23
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F41
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 

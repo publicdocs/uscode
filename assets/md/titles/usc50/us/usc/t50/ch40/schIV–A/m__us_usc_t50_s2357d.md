@@ -17,7 +17,7 @@
 
     All United States departments and agencies shall provide, to the extent permitted by law, such information and assistance as may be requested by the coordination mechanism established pursuant to [section 2357b of this title][/us/usc/t50/s2357b], in carrying out its functions and activities under this subchapter.
 
-([Pub. L. 107–228, div. B, title XIII, § 1336][/us/pl/107/228/s1336], Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1336, Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
-[/us/pl/107/228/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1336
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1451
 
 

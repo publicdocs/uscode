@@ -57,7 +57,7 @@
 
         Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Register and transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
 
-([Pub. L. 94–412, title II, § 202][/us/pl/94/412/s202], Sept. 14, 1976, [90 Stat. 1255][/us/stat/90/1255]; [Pub. L. 99–93, title VIII, § 801][/us/pl/99/93/s801], Aug. 16, 1985, [99 Stat. 448][/us/stat/99/448].)
+([Pub. L. 94–412, title II][/us/pl/94/412/tII], § 202, Sept. 14, 1976, [90 Stat. 1255][/us/stat/90/1255]; [Pub. L. 99–93, title VIII][/us/pl/99/93/tVIII], § 801, Aug. 16, 1985, [99 Stat. 448][/us/stat/99/448].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 ----------
 
 [/us/usc/t50/s1651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1651%2Fb
-[/us/pl/94/412/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs202
+[/us/pl/94/412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtII
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
-[/us/pl/99/93/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs801
+[/us/pl/99/93/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVIII
 [/us/stat/99/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F448
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 

@@ -17,7 +17,7 @@
 
     When the President declares a national emergency, no powers or authorities made available by statute for use in the event of an emergency shall be exercised unless and until the President specifies the provisions of law under which he proposes that he, or other officers will act. Such specification may be made either in the declaration of a national emergency, or by one or more contemporaneous or subsequent Executive orders published in the Federal Register and transmitted to the Congress.
 
-([Pub. L. 94–412, title III, § 301][/us/pl/94/412/s301], Sept. 14, 1976, [90 Stat. 1257][/us/stat/90/1257].)
+([Pub. L. 94–412, title III][/us/pl/94/412/tIII], § 301, Sept. 14, 1976, [90 Stat. 1257][/us/stat/90/1257].)
 
  __Release of American Hostages in Iran__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/412/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs301
+[/us/pl/94/412/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtIII
 [/us/stat/90/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1257
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 

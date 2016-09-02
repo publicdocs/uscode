@@ -63,11 +63,11 @@
 
             (B) the means by which the Department determines the level of such coordination and support.
 
-([Pub. L. 103–160, div. A, title XVII, § 1703][/us/pl/103/160/s1703], Nov. 30, 1993, [107 Stat. 1854][/us/stat/107/1854]; [Pub. L. 105–85, div. A, title X, § 1078(f)][/us/pl/105/85/s1078/f], Nov. 18, 1997, [111 Stat. 1915][/us/stat/111/1915]; [Pub. L. 109–364, div. A, title X, § 1041][/us/pl/109/364/s1041], Oct. 17, 2006, [120 Stat. 2390][/us/stat/120/2390].)
+([Pub. L. 103–160, div. A, title XVII][/us/pl/103/160/dA/tXVII], § 1703, Nov. 30, 1993, [107 Stat. 1854][/us/stat/107/1854]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1078(f), Nov. 18, 1997, [111 Stat. 1915][/us/stat/111/1915]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1041, Oct. 17, 2006, [120 Stat. 2390][/us/stat/120/2390].)
 
  __Codification__ 
 
-    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
  __Amendments__ 
 
@@ -84,13 +84,13 @@
 
 [/us/usc/t10/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fc
 [/us/usc/t50/s1522/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1522%2Fc%2F2
-[/us/pl/103/160/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1703
+[/us/pl/103/160/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXVII
 [/us/stat/107/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1854
-[/us/pl/105/85/s1078/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1078%2Ff
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1915
-[/us/pl/109/364/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1041
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2390
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

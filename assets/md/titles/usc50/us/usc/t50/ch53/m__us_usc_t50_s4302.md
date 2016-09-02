@@ -49,7 +49,7 @@
 
     (e) To have any form of business or commercial communication or intercourse with.
 
-([Oct. 6, 1917, ch. 106, § 2][/us/act/1917-10-06/ch106/s2], [40 Stat. 411][/us/stat/40/411].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 2, [40 Stat. 411][/us/stat/40/411].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs2
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

@@ -33,7 +33,7 @@
 
         (3) Provision of technical assistance to the Savannah River Site regarding the weapons surveillance program.
 
-([Pub. L. 107–314, div. D, title XLII, § 4232][/us/pl/107/314/s4232], formerly [Pub. L. 104–106, div. C, title XXXI, § 3136][/us/pl/104/106/s3136], Feb. 10, 1996, [110 Stat. 620][/us/stat/110/620]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4232][/us/pl/107/314/s4232], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(17)][/us/pl/108/136/s3141/e/17], Nov. 24, 2003, [117 Stat. 1761][/us/stat/117/1761].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4232, formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3136, Feb. 10, 1996, [110 Stat. 620][/us/stat/110/620]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4232, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(17), Nov. 24, 2003, [117 Stat. 1761][/us/stat/117/1761].)
 
 ----------
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4232
-[/us/pl/104/106/s3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3136
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F620
-[/us/pl/107/314/s4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4232
-[/us/pl/108/136/s3141/e/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F17
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1761
 
 

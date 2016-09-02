@@ -23,7 +23,7 @@
 
     (3) The term “Program” means the Cooperative Threat Reduction Program of the Department of Defense established under [section 3711 of this title][/us/usc/t50/s3711].
 
-([Pub. L. 113–291, div. A, title XIII, § 1312][/us/pl/113/291/s1312], Dec. 19, 2014, [128 Stat. 3595][/us/stat/128/3595].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1312, Dec. 19, 2014, [128 Stat. 3595][/us/stat/128/3595].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Short Title__ 
 
-[Pub. L. 113–291, div. A, title XIII, § 1311][/us/pl/113/291/s1311], Dec. 19, 2014, [128 Stat. 3595][/us/stat/128/3595], provided that: 
+[Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1311, Dec. 19, 2014, [128 Stat. 3595][/us/stat/128/3595], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1311–1352) of title XIII of div. A of [Pub. L. 113–291][/us/pl/113/291], enacting this chapter, repealing sections 5902, 5921, 5952, 5953, 5955, 5957, 5959 to 5961, and 5962 to 5965 of Title 22, Foreign Relations and Intercourse, amending provisions set out as notes under sections 2551, 5952, and 5955 of Title 22, and repealing provisions set out as notes under [section 2362 of this title][/us/usc/t50/s2362] and [section 5952 of Title 22][/us/usc/t22/s5952]\] may be cited as the ‘Department of Defense Cooperative Threat Reduction Act’.”
 
@@ -44,11 +44,11 @@
 
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
 [/us/usc/t50/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3711
-[/us/pl/113/291/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1312
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3595
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/stat/128/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3595
-[/us/pl/113/291/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1311
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3595
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2362

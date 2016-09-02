@@ -31,7 +31,7 @@
 
         Amounts set forth under subsection (a) of this section may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506, as added [Pub. L. 107–306, title III, § 311(a)][/us/pl/107/306/s311/a], Nov. 27, 2002, [116 Stat. 2390][/us/stat/116/2390]; amended [Pub. L. 108–458, title I, § 1074(b)(1)(A)][/us/pl/108/458/s1074/b/1/A], Dec. 17, 2004, [118 Stat. 3694][/us/stat/118/3694]; [Pub. L. 112–87, title V, § 505(2)][/us/pl/112/87/s505/2], Jan. 3, 2012, [125 Stat. 1897][/us/stat/125/1897].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506, as added [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 311(a), Nov. 27, 2002, [116 Stat. 2390][/us/stat/116/2390]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1074(b)(1)(A), Dec. 17, 2004, [118 Stat. 3694][/us/stat/118/3694]; [Pub. L. 112–87, title V][/us/pl/112/87/tV], § 505(2), Jan. 3, 2012, [125 Stat. 1897][/us/stat/125/1897].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 
     2012—Subsec. (b). [Pub. L. 112–87][/us/pl/112/87] substituted “Director of National Intelligence.” for “Director of Central Intelligence.”
 
-    2004—[Pub. L. 108–458, § 1074(b)(1)(A)(ii)][/us/pl/108/458/s1074/b/1/A/ii], struck out “Foreign” before “Intelligence” in section catchline.
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–458, § 1074(b)(1)(A)(i)][/us/pl/108/458/s1074/b/1/A/i], substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
+    Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 1074(b)(1)(A)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -60,16 +60,16 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/107/306/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs311%2Fa
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2390
-[/us/pl/108/458/s1074/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fb%2F1%2FA
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3694
-[/us/pl/112/87/s505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs505%2F2
+[/us/pl/112/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtV
 [/us/stat/125/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1897
 [/us/usc/t50/s415a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
-[/us/pl/108/458/s1074/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fb%2F1%2FA%2Fii
-[/us/pl/108/458/s1074/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fb%2F1%2FA%2Fi
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

@@ -33,7 +33,7 @@
 
         Cooperative Threat Reduction funds made available for a fiscal year after fiscal year 2015 may not be obligated or expended for activities in the Russian Federation unless such activities in Russia are specifically authorized by law.
 
-([Pub. L. 113–291, div. A, title XIII, § 1334][/us/pl/113/291/s1334], Dec. 19, 2014, [128 Stat. 3603][/us/stat/128/3603].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1334, Dec. 19, 2014, [128 Stat. 3603][/us/stat/128/3603].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1334
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3603
 
 

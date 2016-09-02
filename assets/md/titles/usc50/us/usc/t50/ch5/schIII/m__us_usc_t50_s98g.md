@@ -51,11 +51,11 @@
 
         (2) more efficient methods of production or use of such material.
 
-([June 7, 1939, ch. 190, § 8][/us/act/1939-06-07/ch190/s8], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 322][/us/stat/93/322]; amended [Pub. L. 101–189, div. C, title XXXIII, § 3311][/us/pl/101/189/s3311], Nov. 29, 1989, [103 Stat. 1686][/us/stat/103/1686].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 8, as added [Pub. L. 96–41][/us/pl/96/41], § 2(a), July 30, 1979, [93 Stat. 322][/us/stat/93/322]; amended [Pub. L. 101–189, div. C, title XXXIII][/us/pl/101/189/dC/tXXXIII], § 3311, Nov. 29, 1989, [103 Stat. 1686][/us/stat/103/1686].)
 
  __Prior Provisions__ 
 
-    A prior section 98g, [act June 7, 1939, ch. 190, § 8][/us/act/1939-06-07/ch190/s8], as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 600][/us/stat/60/600]; amended 1953 Reorg. Plan No. 3, § 2(b), eff. June 12, 1953, 18 F.R. 3375, [67 Stat. 634][/us/stat/67/634]; 1958 Reorg. Plan No. 1, § 2, eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799]; Oct. 21, 1968, [Pub. L. 90–608, § 402][/us/pl/90/608/s402], [82 Stat. 1194][/us/stat/82/1194]; Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, authorized appropriations for procurement, transportation, maintenance, rotation, storage, and refining or processing of materials acquired under this subchapter, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98d(c) of this title][/us/usc/t50/s98d/c].
+    A prior section 98g, [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 8, as added [July 23, 1946, ch. 590][/us/act/1946-07-23/ch590], [60 Stat. 600][/us/stat/60/600]; amended 1953 Reorg. Plan No. 3, § 2(b), eff. June 12, 1953, 18 F.R. 3375, [67 Stat. 634][/us/stat/67/634]; 1958 Reorg. Plan No. 1, § 2, eff. July 1, 1958, 23 F.R. 4991, [72 Stat. 1799][/us/stat/72/1799]; Oct. 21, 1968, [Pub. L. 90–608][/us/pl/90/608], § 402, [82 Stat. 1194][/us/stat/82/1194]; Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, authorized appropriations for procurement, transportation, maintenance, rotation, storage, and refining or processing of materials acquired under this subchapter, prior to repeal by [section 2(a) of Pub. L. 96–41][/us/pl/96/41/s2/a]. See [section 98d(c) of this title][/us/usc/t50/s98d/c].
 
     Provisions similar to those in this section were contained in former [section 98f of this title][/us/usc/t50/s98f] prior to repeal by [Pub. L. 96–41][/us/pl/96/41].
 
@@ -77,17 +77,17 @@
 [/us/usc/t50/s98b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fa
 [/us/usc/t50/s98b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fa
 [/us/usc/t50/s98b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fa
-[/us/act/1939-06-07/ch190/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs8
-[/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F322
-[/us/pl/101/189/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3311
+[/us/pl/101/189/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXIII
 [/us/stat/103/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1686
-[/us/act/1939-06-07/ch190/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs8
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590
 [/us/stat/60/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F600
 [/us/stat/67/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F634
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
-[/us/pl/90/608/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608%2Fs402
+[/us/pl/90/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F608
 [/us/stat/82/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1194
 [/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
 [/us/usc/t50/s98d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98d%2Fc

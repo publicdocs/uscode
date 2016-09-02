@@ -165,7 +165,7 @@
 
         The United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism (or, in the Coordinator’s absence, the Deputy United States Coordinator) may, in the performance of the Coordinator’s duty as principal advisor to the President on all matters relating to the prevention of weapons of mass destruction proliferation and terrorism, and, subject to the direction of the President, attend and participate in meetings of the National Security Council and the Homeland Security Council.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 101, [61 Stat. 496][/us/stat/61/496]; [Aug. 10, 1949, ch. 412, § 3][/us/act/1949-08-10/ch412/s3], [63 Stat. 579][/us/stat/63/579]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 501(e)(1), [65 Stat. 378][/us/stat/65/378]; [Pub. L. 99–433, title II, § 203][/us/pl/99/433/s203], Oct. 1, 1986, [100 Stat. 1011][/us/stat/100/1011]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125; [Pub. L. 99–661, div. A, title XIII, § 1311(f)][/us/pl/99/661/s1311/f], Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986]; [Pub. L. 100–690, title I, § 1003(a)(3)][/us/pl/100/690/s1003/a/3], Nov. 18, 1988, [102 Stat. 4182][/us/stat/102/4182]; [Pub. L. 102–496, title VII, § 703][/us/pl/102/496/s703], Oct. 24, 1992, [106 Stat. 3189][/us/stat/106/3189]; [Pub. L. 104–293, title VIII][/us/pl/104/293], §§ 802, 804, Oct. 11, 1996, [110 Stat. 3474][/us/stat/110/3474], 3476; [Pub. L. 105–277, div. C, title VII, § 713(b)][/us/pl/105/277/s713/b], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 105–292, title III, § 301][/us/pl/105/292/s301], Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3692; [Pub. L. 110–53, title XVIII, § 1841(g)][/us/pl/110/53/s1841/g], Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500]; [Pub. L. 110–140, title IX, § 932][/us/pl/110/140/s932], Dec. 19, 2007, [121 Stat. 1740][/us/stat/121/1740]; [Pub. L. 113–126, title VII, § 702][/us/pl/113/126/s702], July 7, 2014, [128 Stat. 1422][/us/stat/128/1422].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 101, [61 Stat. 496][/us/stat/61/496]; [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 3, [63 Stat. 579][/us/stat/63/579]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 501(e)(1), [65 Stat. 378][/us/stat/65/378]; [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 203, Oct. 1, 1986, [100 Stat. 1011][/us/stat/100/1011]; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9115(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9115(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1311(f), Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986]; [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1003(a)(3), Nov. 18, 1988, [102 Stat. 4182][/us/stat/102/4182]; [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 703, Oct. 24, 1992, [106 Stat. 3189][/us/stat/106/3189]; [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], §§ 802, 804, Oct. 11, 1996, [110 Stat. 3474][/us/stat/110/3474], 3476; [Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 713(b), Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 105–292, title III][/us/pl/105/292/tIII], § 301, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3692; [Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1841(g), Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500]; [Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 932, Dec. 19, 2007, [121 Stat. 1740][/us/stat/121/1740]; [Pub. L. 113–126, title VII][/us/pl/113/126/tVII], § 702, July 7, 2014, [128 Stat. 1422][/us/stat/128/1422].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 
     In subsec. (c), provisions that specified compensation of $10,000 per year for the executive secretary to the Council were omitted. [Section 304(b) of Pub. L. 88–426][/us/pl/88/426/s304/b] amended [section 105 of Title 3][/us/usc/t3/s105], The President, to include the executive secretary of the Council among those whose compensation was authorized to be fixed by the President. [Section 1(a) of Pub. L. 95–570][/us/pl/95/570/s1/a] further amended [section 105 of Title 3][/us/usc/t3/s105] to authorize the President to appoint and fix the pay of the employees of the White House Office subject to certain provisions.
 
-    In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -191,29 +191,29 @@
 
     2007—Subsec. (a)(5) to (8). [Pub. L. 110–140][/us/pl/110/140] added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-    Subsecs. (i), (k). [Pub. L. 110–53, § 1841(g)(1)][/us/pl/110/53/s1841/g/1], redesignated subsec. (i), relating to Special Adviser to the President on International Religious Freedom, as (k).
+    Subsecs. (i), (k). [Pub. L. 110–53][/us/pl/110/53], § 1841(g)(1), redesignated subsec. (i), relating to Special Adviser to the President on International Religious Freedom, as (k).
 
-    Subsec. (l). [Pub. L. 110–53, § 1841(g)(2)][/us/pl/110/53/s1841/g/2], added subsec. (l).
+    Subsec. (l). [Pub. L. 110–53][/us/pl/110/53], § 1841(g)(2), added subsec. (l).
 
-    2004—Subsec. (h)(2)(A). [Pub. L. 108–458, § 1071(a)(1)(A)][/us/pl/108/458/s1071/a/1/A], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (h)(2)(A). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (h)(5). [Pub. L. 108–458, § 1071(a)(1)(B)][/us/pl/108/458/s1071/a/1/B], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (h)(5). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (i)(2)(A). [Pub. L. 108–458, § 1071(a)(1)(C)][/us/pl/108/458/s1071/a/1/C], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (i)(2)(A). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(C), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (j). [Pub. L. 108–458, § 1072(a)(1)][/us/pl/108/458/s1072/a/1], substituted “Principal Deputy Director of National Intelligence” for “Deputy Director of Central Intelligence”.
+    Subsec. (j). [Pub. L. 108–458][/us/pl/108/458], § 1072(a)(1), substituted “Principal Deputy Director of National Intelligence” for “Deputy Director of Central Intelligence”.
 
-    [Pub. L. 108–458, § 1071(a)(1)(D)][/us/pl/108/458/s1071/a/1/D], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(D), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
     1998—Subsecs. (f), (g). [Pub. L. 105–277][/us/pl/105/277] added subsec. (f) and redesignated former subsec. (f) as (g).
 
     Subsec. (i). [Pub. L. 105–292][/us/pl/105/292] added subsec. (i) relating to Special Adviser to the President on International Religious Freedom.
 
-    1996—Subsec. (h). [Pub. L. 104–293, § 802(2)][/us/pl/104/293/s802/2], added subsec. (h). Former subsec. (h) redesignated (j).
+    1996—Subsec. (h). [Pub. L. 104–293][/us/pl/104/293], § 802(2), added subsec. (h). Former subsec. (h) redesignated (j).
 
-    Subsec. (i). [Pub. L. 104–293, § 804][/us/pl/104/293/s804], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–293][/us/pl/104/293], § 804, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 104–293, § 802(1)][/us/pl/104/293/s802/1], redesignated subsec. (h) as (j).
+    Subsec. (j). [Pub. L. 104–293][/us/pl/104/293], § 802(1), redesignated subsec. (h) as (j).
 
     1992—Subsec. (h). [Pub. L. 102–496][/us/pl/102/496] added subsec. (h).
 
@@ -269,7 +269,7 @@
 
  __Pilot Program on Cryptologic Service Training__ 
 
-    [Pub. L. 108–375, div. A, title IX, § 922][/us/pl/108/375/s922], Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029], which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by [Pub. L. 111–259, title III, § 313(b)(1)(C)][/us/pl/111/259/s313/b/1/C], Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666].
+    [Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 922, Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029], which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 313(b)(1)(C), Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666].
 
  __Executive Order No. 10483__ 
 
@@ -435,37 +435,37 @@
 [/us/usc/t22/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6402
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F496
-[/us/act/1949-08-10/ch412/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs3
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F579
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/act/1951-10-10/ch479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-10%2Fch479
 [/us/stat/65/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F378
-[/us/pl/99/433/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs203
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1011
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s1311/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Ff
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3986
-[/us/pl/100/690/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1003%2Fa%2F3
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4182
-[/us/pl/102/496/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs703
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3189
-[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3474
-[/us/pl/105/277/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs713%2Fb
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-693
-[/us/pl/105/292/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs301
+[/us/pl/105/292/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIII
 [/us/stat/112/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2800
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/110/53/s1841/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841%2Fg
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F500
-[/us/pl/110/140/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs932
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1740
-[/us/pl/113/126/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs702
+[/us/pl/113/126/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtVII
 [/us/stat/128/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1422
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -476,22 +476,22 @@
 [/us/usc/t3/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs105
 [/us/pl/95/570/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs1%2Fa
 [/us/usc/t3/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs105
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
-[/us/pl/110/53/s1841/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841%2Fg%2F1
-[/us/pl/110/53/s1841/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841%2Fg%2F2
-[/us/pl/108/458/s1071/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FA
-[/us/pl/108/458/s1071/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FB
-[/us/pl/108/458/s1071/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FC
-[/us/pl/108/458/s1072/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fa%2F1
-[/us/pl/108/458/s1071/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FD
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
-[/us/pl/104/293/s802/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs802%2F2
-[/us/pl/104/293/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs804
-[/us/pl/104/293/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs802%2F1
+[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
+[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
+[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
@@ -524,9 +524,9 @@
 [/us/stat/63/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1067
 [/us/pl/100/26/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs6
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/108/375/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs922
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2029
-[/us/pl/111/259/s313/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs313%2Fb%2F1%2FC
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2666
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195

@@ -57,7 +57,7 @@
 
             (D) A corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105A, as added [Pub. L. 104–293, title VIII, § 814(a)][/us/pl/104/293/s814/a], Oct. 11, 1996, [110 Stat. 3483][/us/stat/110/3483]; amended [Pub. L. 108–136, div. A, title IX, § 921(e)(3)][/us/pl/108/136/s921/e/3], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105A, as added [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 814(a), Oct. 11, 1996, [110 Stat. 3483][/us/stat/110/3483]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(e)(3), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569].)
 
  __Codification__ 
 
@@ -75,9 +75,9 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/104/293/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs814%2Fa
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3483
-[/us/pl/108/136/s921/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F3
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
 [/us/usc/t50/s403–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935a
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

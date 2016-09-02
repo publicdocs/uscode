@@ -31,7 +31,7 @@
 
         The power of the Agency head to make the determinations or decisions specified in paragraphs (12) and (15) of section 2304(a) and [section 2307(a) of title 10][/us/usc/t10/s2307/a] 1 shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2304(a), by sections 2306 and 2313, or by [section 2307(a) of title 10][/us/usc/t10/s2307/a],1 shall be based upon written findings made by the official making such determinations, which findings shall be final and shall be available within the Agency for a period of at least six years following the date of the determination.
 
-([June 20, 1949, ch. 227, § 3][/us/act/1949-06-20/ch227/s3], [63 Stat. 208][/us/stat/63/208]; [Pub. L. 97–269, title V, § 502(a)][/us/pl/97/269/s502/a], Sept. 27, 1982, [96 Stat. 1145][/us/stat/96/1145]; [Pub. L. 104–106, div. E, title LVI, § 5607(f)][/us/pl/104/106/s5607/f], Feb. 10, 1996, [110 Stat. 702][/us/stat/110/702].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 3, [63 Stat. 208][/us/stat/63/208]; [Pub. L. 97–269, title V][/us/pl/97/269/tV], § 502(a), Sept. 27, 1982, [96 Stat. 1145][/us/stat/96/1145]; [Pub. L. 104–106, div. E, title LVI][/us/pl/104/106/dE/tLVI], § 5607(f), Feb. 10, 1996, [110 Stat. 702][/us/stat/110/702].)
 
  __Codification__ 
 
@@ -157,7 +157,7 @@ In subsecs. (a) and (d), references to the appropriate sections of title 10 were
 
 > </table>
 
-    Sections 2304 and 2305 of title 10 were amended generally by [Pub. L. 98–369][/us/pl/98/369], and as so amended contain provisions differing from those referred to in subsecs. (a) and (d). [Section 2308 of title 10][/us/usc/t10/s2308] was repealed by [Pub. L. 103–355, title I, § 1503(b)(1)][/us/pl/103/355/s1503/b/1], Oct. 13, 1994, [108 Stat. 3297][/us/stat/108/3297]. For similar provisions, see [section 2311 of title 10][/us/usc/t10/s2311].
+    Sections 2304 and 2305 of title 10 were amended generally by [Pub. L. 98–369][/us/pl/98/369], and as so amended contain provisions differing from those referred to in subsecs. (a) and (d). [Section 2308 of title 10][/us/usc/t10/s2308] was repealed by [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1503(b)(1), Oct. 13, 1994, [108 Stat. 3297][/us/stat/108/3297]. For similar provisions, see [section 2311 of title 10][/us/usc/t10/s2311].
 
  __Amendments__ 
 
@@ -171,13 +171,13 @@ In subsecs. (a) and (d), references to the appropriate sections of title 10 were
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–269, title VII, § 703][/us/pl/97/269/s703], Sept. 27, 1982, [96 Stat. 1155][/us/stat/96/1155], provided that: 
+[Pub. L. 97–269, title VII][/us/pl/97/269/tVII], § 703, Sept. 27, 1982, [96 Stat. 1155][/us/stat/96/1155], provided that: 
 
 > “The provisions of titles IV and V \[enacting former [section 202 of Title 10][/us/usc/t10/s202], Armed Forces, and amending this section\] and of this title \[which, except for enacting this note was not classified to the Code\] shall become effective upon the date of the enactment of this Act \[Sept. 27, 1982\].”
 
  __Procurement of Automatic Data Processing Equipment or Services; Contracts Made Before__  __September 27, 1982__ 
 
-    [Pub. L. 97–269, title V, § 502(b)][/us/pl/97/269/s502/b], Sept. 27, 1982, [96 Stat. 1145][/us/stat/96/1145], provided that former subsec. (e) of this section did not apply to a contract made before Sept. 27, 1982.
+    [Pub. L. 97–269, title V][/us/pl/97/269/tV], § 502(b), Sept. 27, 1982, [96 Stat. 1145][/us/stat/96/1145], provided that former subsec. (e) of this section did not apply to a contract made before Sept. 27, 1982.
 
 ----------
 
@@ -188,18 +188,18 @@ In subsecs. (a) and (d), references to the appropriate sections of title 10 were
 
 [/us/usc/t10/s2307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2307%2Fa
 [/us/usc/t10/s2307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2307%2Fa
-[/us/act/1949-06-20/ch227/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs3
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/stat/63/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F208
-[/us/pl/97/269/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2Fs502%2Fa
+[/us/pl/97/269/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtV
 [/us/stat/96/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1145
-[/us/pl/104/106/s5607/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5607%2Ff
+[/us/pl/104/106/dE/tLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLVI
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
 [/us/usc/t50/s403c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403c
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t10/s2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2308
-[/us/pl/103/355/s1503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1503%2Fb%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3297
 [/us/usc/t10/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2311
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -209,10 +209,10 @@ In subsecs. (a) and (d), references to the appropriate sections of title 10 were
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5701
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
-[/us/pl/97/269/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2Fs703
+[/us/pl/97/269/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtVII
 [/us/stat/96/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1155
 [/us/usc/t10/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs202
-[/us/pl/97/269/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2Fs502%2Fb
+[/us/pl/97/269/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtV
 [/us/stat/96/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1145
 
 

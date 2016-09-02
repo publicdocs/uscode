@@ -41,11 +41,11 @@
 
         (4) In developing recommendations for the National Defense Stockpile Manager under paragraph (2), the Committee shall consult from time to time with representatives of producers, processors, and consumers of the types of materials stored in the stockpile.
 
-([June 7, 1939, ch. 190, § 10][/us/act/1939-06-07/ch190/s10], as added [Pub. L. 96–41, § 2(a)][/us/pl/96/41/s2/a], July 30, 1979, [93 Stat. 323][/us/stat/93/323]; amended [Pub. L. 102–484, div. C, title XXXIII, § 3314][/us/pl/102/484/s3314], Oct. 23, 1992, [106 Stat. 2654][/us/stat/106/2654].)
+([June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 10, as added [Pub. L. 96–41][/us/pl/96/41], § 2(a), July 30, 1979, [93 Stat. 323][/us/stat/93/323]; amended [Pub. L. 102–484, div. C, title XXXIII][/us/pl/102/484/dC/tXXXIII], § 3314, Oct. 23, 1992, [106 Stat. 2654][/us/stat/106/2654].)
 
  __Prior Provisions__ 
 
-    A prior section 10 of [act June 7, 1939, ch. 190, § 10][/us/act/1939-06-07/ch190/s10], was renumbered section 13 and is classified to [section 98h–4 of this title][/us/usc/t50/s98h–4].
+    A prior section 10 of [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], § 10, was renumbered section 13 and is classified to [section 98h–4 of this title][/us/usc/t50/s98h–4].
 
     Provisions similar to those in this section were contained in former [section 98a(b) of this title][/us/usc/t50/s98a/b] prior to repeal by [Pub. L. 96–41][/us/pl/96/41].
 
@@ -69,7 +69,7 @@
 
  __Advisory Committee Regarding Operation and Modernization of Stockpile__ 
 
-[Pub. L. 102–484, div. C, title XXXIII, § 3306][/us/pl/102/484/s3306], Oct. 23, 1992, [106 Stat. 2652][/us/stat/106/2652], provided that:
+[Pub. L. 102–484, div. C, title XXXIII][/us/pl/102/484/dC/tXXXIII], § 3306, Oct. 23, 1992, [106 Stat. 2652][/us/stat/106/2652], provided that:
 
 >     “(a)  __Appointment__  __.—__ 
 
@@ -94,12 +94,12 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t50/s98h–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%932%2Fb
-[/us/act/1939-06-07/ch190/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs10
-[/us/pl/96/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2%2Fa
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F323
-[/us/pl/102/484/s3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3314
+[/us/pl/102/484/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXIII
 [/us/stat/106/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2654
-[/us/act/1939-06-07/ch190/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs10
+[/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/usc/t50/s98h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%934
 [/us/usc/t50/s98a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98a%2Fb
 [/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
@@ -109,7 +109,7 @@
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/102/484/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3306
+[/us/pl/102/484/dC/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXIII
 [/us/stat/106/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2652
 [/us/usc/t50/s98h–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%931%2Fa
 

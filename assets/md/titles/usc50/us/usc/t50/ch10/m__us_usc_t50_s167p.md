@@ -39,7 +39,7 @@
 
         There is authorized to be appropriated to carry out this section $1,000,000.
 
-([Mar. 3, 1925, ch. 426, § 18][/us/act/1925-03-03/ch426/s18], as added [Pub. L. 113–40, § 6(3)][/us/pl/113/40/s6/3], Oct. 2, 2013, [127 Stat. 543][/us/stat/127/543].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 18, as added [Pub. L. 113–40][/us/pl/113/40], § 6(3), Oct. 2, 2013, [127 Stat. 543][/us/stat/127/543].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch426/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs18
-[/us/pl/113/40/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs6%2F3
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F543
 
 

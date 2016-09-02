@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch31/m__us_usc_t50_ch31.md) | [Next](./../../../..//us/usc/t50/ch32/m__us_usc_t50_s1511.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch32)
+[Previous](./../../../..//us/usc/t50/ch31/m__us_usc_t50_s1501...1509.md) | [Next](./../../../..//us/usc/t50/ch32/m__us_usc_t50_s1511.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch32)
 
 ## CHAPTER 32—CHEMICAL AND BIOLOGICAL WARFARE PROGRAM
 
@@ -187,7 +187,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch31/m__us_usc_t50_ch31.md) | [Next](./../../../..//us/usc/t50/ch32/m__us_usc_t50_s1511.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch32)
+[Previous](./../../../..//us/usc/t50/ch31/m__us_usc_t50_s1501...1509.md) | [Next](./../../../..//us/usc/t50/ch32/m__us_usc_t50_s1511.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch32)
 
 ----------
 ----------

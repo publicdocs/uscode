@@ -127,7 +127,7 @@
 
         Nothing in this section shall be construed as affecting the authority of the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
 
-([Pub. L. 107–306, title IX, § 904][/us/pl/107/306/s904], Nov. 27, 2002, [116 Stat. 2434][/us/stat/116/2434]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691], 3693; [Pub. L. 111–259, title IV, § 412][/us/pl/111/259/s412], Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725]; [Pub. L. 112–18, title IV, § 401][/us/pl/112/18/s401], June 8, 2011, [125 Stat. 227][/us/stat/125/227]; [Pub. L. 112–87, title III, § 311(b)][/us/pl/112/87/s311/b], Jan. 3, 2012, [125 Stat. 1886][/us/stat/125/1886].)
+([Pub. L. 107–306, title IX][/us/pl/107/306/tIX], § 904, Nov. 27, 2002, [116 Stat. 2434][/us/stat/116/2434]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691], 3693; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 412, Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725]; [Pub. L. 112–18, title IV][/us/pl/112/18/tIV], § 401, June 8, 2011, [125 Stat. 227][/us/stat/125/227]; [Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 311(b), Jan. 3, 2012, [125 Stat. 1886][/us/stat/125/1886].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
     2011—Subsec. (d)(2). [Pub. L. 112–18][/us/pl/112/18] inserted subpar. (A) designation and heading, struck out “on an annual basis” after “to produce”, and added subpar. (B).
 
-    2010—Subsec. (d). [Pub. L. 111–259, § 412(a)(1)][/us/pl/111/259/s412/a/1], (2), redesignated subsec. (e) as (d) and struck out former subsec. (d). Text read as follows:
+    2010—Subsec. (d). [Pub. L. 111–259][/us/pl/111/259], § 412(a)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d). Text read as follows:
 
     “(1) There shall be in the Office of the National Counterintelligence Executive a general counsel who shall serve as principal legal advisor to the National Counterintelligence Executive.
 
@@ -157,35 +157,35 @@
 
     “(C) carry out such other duties as the Executive may specify.”
 
-    Subsec. (d)(1), (2). [Pub. L. 111–259, § 412(b)(1)][/us/pl/111/259/s412/b/1], substituted “subsection (e)” for “subsection (f)”.
+    Subsec. (d)(1), (2). [Pub. L. 111–259][/us/pl/111/259], § 412(b)(1), substituted “subsection (e)” for “subsection (f)”.
 
-    Subsec. (e). [Pub. L. 111–259, § 412(a)(2)][/us/pl/111/259/s412/a/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 111–259][/us/pl/111/259], § 412(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(1). [Pub. L. 111–259, § 412(b)(2)(A)][/us/pl/111/259/s412/b/2/A], substituted “subsection (d)(1)” for “subsection (e)(1)”.
+    Subsec. (e)(1). [Pub. L. 111–259][/us/pl/111/259], § 412(b)(2)(A), substituted “subsection (d)(1)” for “subsection (e)(1)”.
 
-    Subsec. (e)(2). [Pub. L. 111–259, § 412(b)(2)(B)][/us/pl/111/259/s412/b/2/B], substituted “subsection (d)(2)” for “subsection (e)(2)”.
+    Subsec. (e)(2). [Pub. L. 111–259][/us/pl/111/259], § 412(b)(2)(B), substituted “subsection (d)(2)” for “subsection (e)(2)”.
 
-    Subsec. (f). [Pub. L. 111–259, § 412(a)(2)][/us/pl/111/259/s412/a/2], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 111–259][/us/pl/111/259], § 412(a)(2), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (f)(3), (4). [Pub. L. 111–259, § 412(a)(3)][/us/pl/111/259/s412/a/3], struck out pars. (3) and (4) which read as follows:
+    Subsec. (f)(3), (4). [Pub. L. 111–259][/us/pl/111/259], § 412(a)(3), struck out pars. (3) and (4) which read as follows:
 
     “(3) The employment of personnel by the Office, including the appointment, compensation and benefits, management, and separation of such personnel, shall be governed by the provisions of law on such matters with respect to the personnel of the Central Intelligence Agency, except that, for purposes of the applicability of such provisions of law to personnel of the Office, the National Counterintelligence Executive shall be treated as the head of the Office.
 
     “(4) Positions in the Office shall be excepted service positions for purposes of title 5.”
 
-    Subsecs. (g) to (m). [Pub. L. 111–259, § 412(a)(1)][/us/pl/111/259/s412/a/1], (2), redesignated subsecs. (k) to (m) as (g) to (i), respectively, and struck out former subsecs. (h) to (j) which related to support, availability of funds for reimbursement, and contracts, respectively. Former subsec. (g) redesignated (f).
+    Subsecs. (g) to (m). [Pub. L. 111–259][/us/pl/111/259], § 412(a)(1), (2), redesignated subsecs. (k) to (m) as (g) to (i), respectively, and struck out former subsecs. (h) to (j) which related to support, availability of funds for reimbursement, and contracts, respectively. Former subsec. (g) redesignated (f).
 
-    2004—Subsec. (c). [Pub. L. 108–458, § 1072(d)(1)(C)(i)][/us/pl/108/458/s1072/d/1/C/i], substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
+    2004—Subsec. (c). [Pub. L. 108–458][/us/pl/108/458], § 1072(d)(1)(C)(i), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
 
-    Subsec. (e)(4). [Pub. L. 108–458, § 1071(g)(2)(B)(i)][/us/pl/108/458/s1071/g/2/B/i], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (e)(4). [Pub. L. 108–458][/us/pl/108/458], § 1071(g)(2)(B)(i), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (e)(5). [Pub. L. 108–458, § 1071(g)(2)(B)(ii)][/us/pl/108/458/s1071/g/2/B/ii], substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+    Subsec. (e)(5). [Pub. L. 108–458][/us/pl/108/458], § 1071(g)(2)(B)(ii), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
-    Subsec. (h)(1), (2). [Pub. L. 108–458, § 1071(g)(2)(B)(iii)][/us/pl/108/458/s1071/g/2/B/iii], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (h)(1), (2). [Pub. L. 108–458][/us/pl/108/458], § 1071(g)(2)(B)(iii), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (l). [Pub. L. 108–458, § 1072(d)(1)(C)(ii)][/us/pl/108/458/s1072/d/1/C/ii], substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence” in introductory provisions.
+    Subsec. (l). [Pub. L. 108–458][/us/pl/108/458], § 1072(d)(1)(C)(ii), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence” in introductory provisions.
 
-    Subsec. (m). [Pub. L. 108–458, § 1071(g)(2)(B)(iv)][/us/pl/108/458/s1071/g/2/B/iv], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (m). [Pub. L. 108–458][/us/pl/108/458], § 1071(g)(2)(B)(iv), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -202,15 +202,15 @@
 
 [/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
 [/us/usc/t50/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3141
-[/us/pl/107/306/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs904
+[/us/pl/107/306/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIX
 [/us/stat/116/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2434
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/111/259/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2725
-[/us/pl/112/18/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs401
+[/us/pl/112/18/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2FtIV
 [/us/stat/125/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F227
-[/us/pl/112/87/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs311%2Fb
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1886
 [/us/pl/107/306/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs104%2Fd
 [/us/stat/116/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2387
@@ -219,20 +219,20 @@
 [/us/usc/t50/s402c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402c
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/pl/112/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18
-[/us/pl/111/259/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fa%2F1
-[/us/pl/111/259/s412/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fb%2F1
-[/us/pl/111/259/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fa%2F2
-[/us/pl/111/259/s412/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fb%2F2%2FA
-[/us/pl/111/259/s412/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fb%2F2%2FB
-[/us/pl/111/259/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fa%2F2
-[/us/pl/111/259/s412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fa%2F3
-[/us/pl/111/259/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fa%2F1
-[/us/pl/108/458/s1072/d/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FC%2Fi
-[/us/pl/108/458/s1071/g/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FB%2Fi
-[/us/pl/108/458/s1071/g/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FB%2Fii
-[/us/pl/108/458/s1071/g/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FB%2Fiii
-[/us/pl/108/458/s1072/d/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FC%2Fii
-[/us/pl/108/458/s1071/g/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FB%2Fiv
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

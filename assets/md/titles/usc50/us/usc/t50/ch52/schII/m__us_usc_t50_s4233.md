@@ -31,7 +31,7 @@
 
         The Secretary shall terminate the Fund 3 years after August 10, 1988, or 1 year following disbursement of all payments from the Fund, as authorized by this subchapter, whichever occurs later. On the date the Fund is terminated, all investments of amounts in the Fund shall be liquidated by the Secretary and receipts thereof deposited in the Fund and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury.
 
-([Pub. L. 100–383, title II, § 203][/us/pl/100/383/s203], Aug. 10, 1988, [102 Stat. 911][/us/stat/102/911].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 203, Aug. 10, 1988, [102 Stat. 911][/us/stat/102/911].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
-[/us/pl/100/383/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs203
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F911
 [/us/pl/103/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F402
 [/us/usc/t50/s4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4235

@@ -57,7 +57,7 @@
 
         The directive issued under subsection (a)(1) and any amendment to such directive issued under subsection (a)(2) shall take effect 60 days after the date such directive or amendment is submitted to Congress under subsection (c), unless the Director determines that for reasons of national security the directive or amendment should take effect sooner.
 
-([Pub. L. 111–259, title III, § 348][/us/pl/111/259/s348], Oct. 7, 2010, [124 Stat. 2700][/us/stat/124/2700].)
+([Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 348, Oct. 7, 2010, [124 Stat. 2700][/us/stat/124/2700].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
-[/us/pl/111/259/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs348
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2700
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

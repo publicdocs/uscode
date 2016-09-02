@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be held to make unlawful any of the following acts:
 
-    (a) Repealed. [Aug. 8, 1946, ch. 910, § 13][/us/act/1946-08-08/ch910/s13], [60 Stat. 944][/us/stat/60/944].
+    (a) Repealed. [Aug. 8, 1946, ch. 910][/us/act/1946-08-08/ch910], § 13, [60 Stat. 944][/us/stat/60/944].
 
     (b) Any citizen of the United States, or any corporation organized within the United States, may, when duly authorized by the President, pay to an enemy or ally of enemy any tax, annuity, or fee which may be required by the laws of such enemy or ally of enemy nation in relation to patents and trade-marks, prints, labels, and copyrights; and any such citizen or corporation may file and prosecute an application for letters patent or for registration of trade-mark, print, label, or copyright in the country of an enemy, or of an ally of enemy after first submitting such application to the President and receiving license so to file and prosecute, and to pay the fees required by law and customary agents’ fees, the maximum amount of which in each case shall be subject to the control of the President.
 
@@ -37,7 +37,7 @@
 
     (i) Whenever the publication of an invention by the granting of a patent may, in the opinion of the President, be detrimental to the public safety or defense, or may assist the enemy or endanger the successful prosecution of the war, he may order that the invention be kept secret and withhold the grant of a patent until the end of the war: Provided, That the invention disclosed in the application for said patent may be held abandoned upon it being established before or by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office that, in violation of said order, said invention has been published or that an application for a patent therefor has been filed in any other country, by the inventor or his assigns or legal representatives, without the consent or approval of the commissioner or under a license of the President.    When an applicant whose patent is withheld as herein provided and who faithfully obeys the order of the President above referred to shall tender his invention to the Government of the United States for its use, he shall, if he ultimately receives a patent, have the right to sue for compensation in the United States Court of Federal Claims, such right to compensation to begin from the date of the use of the invention by the Government.
 
-([Oct. 6, 1917, ch. 106, § 10][/us/act/1917-10-06/ch106/s10], [40 Stat. 420][/us/stat/40/420]; [Mar. 10, 1928, ch. 167, § 19][/us/act/1928-03-10/ch167/s19], [45 Stat. 277][/us/stat/45/277]; [Aug. 8, 1946, ch. 910, § 13][/us/act/1946-08-08/ch910/s13], [60 Stat. 944][/us/stat/60/944]; [Pub. L. 97–164, title I, § 160(a)(17)][/us/pl/97/164/s160/a/17], Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(26)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 10, [40 Stat. 420][/us/stat/40/420]; [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 19, [45 Stat. 277][/us/stat/45/277]; [Aug. 8, 1946, ch. 910][/us/act/1946-08-08/ch910], § 13, [60 Stat. 944][/us/stat/60/944]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(17), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(26)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    The provisions of subsection (i) of this section are similar to the provisions of [act Oct. 6, 1917, ch. 95][/us/act/1917-10-06/ch95], [40 Stat. 394][/us/stat/40/394], which was repealed and superseded by [act Feb. 1, 1952, ch. 4][/us/act/1952-02-01/ch4], [66 Stat. 3][/us/stat/66/3]. Act Feb. 1, 1952, was repealed by [act July 19, 1952, ch. 950, § 5][/us/act/1952-07-19/ch950/s5], [66 Stat. 815][/us/stat/66/815]. See [section 181 of Title 35][/us/usc/t35/s181].
+    The provisions of subsection (i) of this section are similar to the provisions of [act Oct. 6, 1917, ch. 95][/us/act/1917-10-06/ch95], [40 Stat. 394][/us/stat/40/394], which was repealed and superseded by [act Feb. 1, 1952, ch. 4][/us/act/1952-02-01/ch4], [66 Stat. 3][/us/stat/66/3]. Act Feb. 1, 1952, was repealed by [act July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], § 5, [66 Stat. 815][/us/stat/66/815]. See [section 181 of Title 35][/us/usc/t35/s181].
 
  __Amendments__ 
 
@@ -86,19 +86,19 @@
 ----------
 ----------
 
-[/us/act/1946-08-08/ch910/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch910%2Fs13
+[/us/act/1946-08-08/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch910
 [/us/stat/60/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F944
-[/us/act/1917-10-06/ch106/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs10
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F420
-[/us/act/1928-03-10/ch167/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs19
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F277
-[/us/act/1946-08-08/ch910/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch910%2Fs13
+[/us/act/1946-08-08/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch910
 [/us/stat/60/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F944
-[/us/pl/97/164/s160/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F17
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
@@ -107,7 +107,7 @@
 [/us/stat/40/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F394
 [/us/act/1952-02-01/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-02-01%2Fch4
 [/us/stat/66/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F3
-[/us/act/1952-07-19/ch950/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950%2Fs5
+[/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F815
 [/us/usc/t35/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs181
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

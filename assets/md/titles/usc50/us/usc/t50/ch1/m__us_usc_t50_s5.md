@@ -17,7 +17,7 @@
 
     Reports shall be submitted by all subordinate bodies and by the advisory commission to the council, and from time to time the council shall report to the President or to the heads of executive departments upon special inquiries or subjects appropriate thereto. When deemed proper the President may authorize, in amounts stipulated by him, unvouchered expenditures.
 
-([Aug. 29, 1916, ch. 418, § 2][/us/act/1916-08-29/ch418/s2], [39 Stat. 650][/us/stat/39/650]; [Aug. 7, 1946, ch. 770, § 1(53)][/us/act/1946-08-07/ch770/s1/53], [60 Stat. 870][/us/stat/60/870].)
+([Aug. 29, 1916, ch. 418][/us/act/1916-08-29/ch418], § 2, [39 Stat. 650][/us/stat/39/650]; [Aug. 7, 1946, ch. 770][/us/act/1946-08-07/ch770], § 1(53), [60 Stat. 870][/us/stat/60/870].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1916-08-29/ch418/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418%2Fs2
+[/us/act/1916-08-29/ch418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418
 [/us/stat/39/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F650
-[/us/act/1946-08-07/ch770/s1/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770%2Fs1%2F53
+[/us/act/1946-08-07/ch770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770
 [/us/stat/60/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F870
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

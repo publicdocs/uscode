@@ -41,7 +41,7 @@
 
         As used in this section, the term “intelligence activities” includes covert actions as defined in [section 3093(e) of this title][/us/usc/t50/s3093/e], and includes financial intelligence activities.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 501, as added [Pub. L. 102–88, title VI, § 602(a)(2)][/us/pl/102/88/s602/a/2], Aug. 14, 1991, [105 Stat. 441][/us/stat/105/441]; amended [Pub. L. 107–306, title III][/us/pl/107/306], §§ 342(b), 353(b)(3)(A), (7), Nov. 27, 2002, [116 Stat. 2399][/us/stat/116/2399], 2402; [Pub. L. 108–458, title I, § 1071(a)(1)(V)][/us/pl/108/458/s1071/a/1/V], Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III, § 331(a)][/us/pl/111/259/s331/a], Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 501, as added [Pub. L. 102–88, title VI][/us/pl/102/88/tVI], § 602(a)(2), Aug. 14, 1991, [105 Stat. 441][/us/stat/105/441]; amended [Pub. L. 107–306, title III][/us/pl/107/306/tIII], §§ 342(b), 353(b)(3)(A), (7), Nov. 27, 2002, [116 Stat. 2399][/us/stat/116/2399], 2402; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(V), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 331(a), Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 501 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, as added [Pub. L. 96–450, title IV, § 407(b)(1)][/us/pl/96/450/s407/b/1], Oct. 14, 1980, [94 Stat. 1981][/us/stat/94/1981], related to congressional oversight of intelligence activities, prior to repeal by [Pub. L. 102–88, § 602(a)(2)][/us/pl/102/88/s602/a/2].
+    A prior section 501 of [act July 26, 1947, ch. 343, title V][/us/act/1947-07-26/ch343/tV], as added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 407(b)(1), Oct. 14, 1980, [94 Stat. 1981][/us/stat/94/1981], related to congressional oversight of intelligence activities, prior to repeal by [Pub. L. 102–88][/us/pl/102/88], § 602(a)(2).
 
  __Amendments__ 
 
@@ -61,13 +61,13 @@
 
     2004—Subsec. (d). [Pub. L. 108–458][/us/pl/108/458] substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    2002—Subsec. (a). [Pub. L. 107–306, § 353(b)(3)(A)][/us/pl/107/306/s353/b/3/A], substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+    2002—Subsec. (a). [Pub. L. 107–306][/us/pl/107/306], § 353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
-    Subsec. (a)(2), (3). [Pub. L. 107–306, § 353(b)(7)][/us/pl/107/306/s353/b/7], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “As used in this subchapter, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
+    Subsec. (a)(2), (3). [Pub. L. 107–306][/us/pl/107/306], § 353(b)(7), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “As used in this subchapter, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
 
-    Subsecs. (b) to (e). [Pub. L. 107–306, § 353(b)(3)(A)][/us/pl/107/306/s353/b/3/A], substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+    Subsecs. (b) to (e). [Pub. L. 107–306][/us/pl/107/306], § 353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
-    Subsec. (f). [Pub. L. 107–306, § 342(b)][/us/pl/107/306/s342/b], inserted “, and includes financial intelligence activities” before period at end.
+    Subsec. (f). [Pub. L. 107–306][/us/pl/107/306], § 342(b), inserted “, and includes financial intelligence activities” before period at end.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -84,27 +84,27 @@
 
 [/us/usc/t50/s3093/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093%2Fe
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/102/88/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs602%2Fa%2F2
+[/us/pl/102/88/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtVI
 [/us/stat/105/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F441
-[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2399
-[/us/pl/108/458/s1071/a/1/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FV
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/111/259/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2685
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/96/450/s407/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs407%2Fb%2F1
+[/us/act/1947-07-26/ch343/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtV
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1981
-[/us/pl/102/88/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs602%2Fa%2F2
+[/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/107/306/s353/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F3%2FA
-[/us/pl/107/306/s353/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F7
-[/us/pl/107/306/s353/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F3%2FA
-[/us/pl/107/306/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs342%2Fb
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

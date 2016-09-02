@@ -27,7 +27,7 @@
 
         Amounts made available under this section shall remain available until expended.
 
-([Pub. L. 102–183, title VIII, § 811][/us/pl/102/183/s811], as added [Pub. L. 107–306, title III, § 333(b)][/us/pl/107/306/s333/b], Nov. 27, 2002, [116 Stat. 2397][/us/stat/116/2397]; amended [Pub. L. 108–487, title VI, § 602(b)][/us/pl/108/487/s602/b], Dec. 23, 2004, [118 Stat. 3953][/us/stat/118/3953].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 811, as added [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 333(b), Nov. 27, 2002, [116 Stat. 2397][/us/stat/116/2397]; amended [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 602(b), Dec. 23, 2004, [118 Stat. 3953][/us/stat/118/3953].)
 
  __Amendments__ 
 
@@ -46,10 +46,10 @@
 
 [/us/usc/t50/s1902/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FD
 [/us/usc/t50/s1902/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FD
-[/us/pl/102/183/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs811
-[/us/pl/107/306/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs333%2Fb
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2397
-[/us/pl/108/487/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs602%2Fb
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3953
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
 [/us/pl/107/306/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs334

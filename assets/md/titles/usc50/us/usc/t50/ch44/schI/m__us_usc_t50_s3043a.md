@@ -51,7 +51,7 @@
 
         The Director of National Intelligence shall submit to the congressional intelligence committees a report on each national intelligence strategy required by subsection (a) not later than 45 days after the date of the completion of such strategy.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 108A, as added [Pub. L. 113–293, title III, § 303(a)][/us/pl/113/293/s303/a], Dec. 19, 2014, [128 Stat. 3994][/us/stat/128/3994].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 108A, as added [Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 303(a), Dec. 19, 2014, [128 Stat. 3994][/us/stat/128/3994].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/293/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs303%2Fa
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3994
 
 

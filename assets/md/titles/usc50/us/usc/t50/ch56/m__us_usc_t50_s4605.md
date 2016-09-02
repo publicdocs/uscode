@@ -309,7 +309,7 @@
 
         (2) With respect to export controls imposed under this section before August 23, 1988, an individual validated export license shall not be required for replacement parts which are exported to replace on a one-for-one basis parts that were in a good that was lawfully exported from the United States, unless the President determines that such a license should be required for such parts.
 
-([Pub. L. 96–72, § 6][/us/pl/96/72/s6], Sept. 29, 1979, [93 Stat. 513][/us/stat/93/513]; [Pub. L. 96–533, title I, § 111][/us/pl/96/533/s111], Dec. 16, 1980, [94 Stat. 3138][/us/stat/94/3138]; [Pub. L. 97–145, § 6][/us/pl/97/145/s6], Dec. 29, 1981, [95 Stat. 1728][/us/stat/95/1728]; [Pub. L. 99–64, title I, § 108(a)][/us/pl/99/64/s108/a]–(g)(1), (h)–(j)(1), (k), (l)(1), July 12, 1985, [99 Stat. 131–136][/us/stat/99/131-136]; [Pub. L. 99–399, title V, § 509(b)][/us/pl/99/399/s509/b], Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874]; [Pub. L. 100–418, title II, § 2423][/us/pl/100/418/s2423], Aug. 23, 1988, [102 Stat. 1358][/us/stat/102/1358]; [Pub. L. 101–222, § 4][/us/pl/101/222/s4], Dec. 12, 1989, [103 Stat. 1897][/us/stat/103/1897]; [Pub. L. 101–510, div. A, title XVII, § 1702(a)][/us/pl/101/510/s1702/a], Nov. 5, 1990, [104 Stat. 1739][/us/stat/104/1739]; [Pub. L. 102–138, title V, § 504(b)][/us/pl/102/138/s504/b], Oct. 28, 1991, [105 Stat. 724][/us/stat/105/724]; [Pub. L. 102–182, title III][/us/pl/102/182], §§ 304(b), 309(a), Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246], 1258; [Pub. L. 103–236, title VII, § 736][/us/pl/103/236/s736], Apr. 30, 1994, [108 Stat. 506][/us/stat/108/506]; [Pub. L. 104–316, title I, § 128(c)][/us/pl/104/316/s128/c], Oct. 19, 1996, [110 Stat. 3841][/us/stat/110/3841]; [Pub. L. 105–277, div. G, title XIV, § 1422(b)(7)][/us/pl/105/277/s1422/b/7], Oct. 21, 1998, [112 Stat. 2681–793][/us/stat/112/2681-793]; [Pub. L. 108–458, title VII, § 7102(c)(1)][/us/pl/108/458/s7102/c/1], Dec. 17, 2004, [118 Stat. 3776][/us/stat/118/3776].)
+([Pub. L. 96–72][/us/pl/96/72], § 6, Sept. 29, 1979, [93 Stat. 513][/us/stat/93/513]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 111, Dec. 16, 1980, [94 Stat. 3138][/us/stat/94/3138]; [Pub. L. 97–145][/us/pl/97/145], § 6, Dec. 29, 1981, [95 Stat. 1728][/us/stat/95/1728]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 108(a)–(g)(1), (h)–(j)(1), (k), (l)(1), July 12, 1985, [99 Stat. 131–136][/us/stat/99/131-136]; [Pub. L. 99–399, title V][/us/pl/99/399/tV], § 509(b), Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2423, Aug. 23, 1988, [102 Stat. 1358][/us/stat/102/1358]; [Pub. L. 101–222][/us/pl/101/222], § 4, Dec. 12, 1989, [103 Stat. 1897][/us/stat/103/1897]; [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1702(a), Nov. 5, 1990, [104 Stat. 1739][/us/stat/104/1739]; [Pub. L. 102–138, title V][/us/pl/102/138/tV], § 504(b), Oct. 28, 1991, [105 Stat. 724][/us/stat/105/724]; [Pub. L. 102–182, title III][/us/pl/102/182/tIII], §§ 304(b), 309(a), Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246], 1258; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 736, Apr. 30, 1994, [108 Stat. 506][/us/stat/108/506]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 128(c), Oct. 19, 1996, [110 Stat. 3841][/us/stat/110/3841]; [Pub. L. 105–277, div. G, title XIV][/us/pl/105/277/dG/tXIV], § 1422(b)(7), Oct. 21, 1998, [112 Stat. 2681–793][/us/stat/112/2681-793]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7102(c)(1), Dec. 17, 2004, [118 Stat. 3776][/us/stat/118/3776].)
 
  __Termination Date__ 
 
@@ -337,7 +337,7 @@
 
     Section was formerly classified to section 2405 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2405 of the former Appendix to this title, [Pub. L. 91–184, § 6][/us/pl/91/184/s6], Dec. 30, 1969, [83 Stat. 844][/us/stat/83/844]; [Pub. L. 95–52, title I][/us/pl/95/52], §§ 103(d), 112, title II, § 203(a), June 22, 1977, [91 Stat. 237][/us/stat/91/237], 240, 247; [Pub. L. 95–223, title III, § 301(b)(2)][/us/pl/95/223/s301/b/2], Dec. 28, 1977, [91 Stat. 1629][/us/stat/91/1629], set forth provisions respecting violations and penalties, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979. See [section 4610 of this title][/us/usc/t50/s4610].
+    A prior section 2405 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 6, Dec. 30, 1969, [83 Stat. 844][/us/stat/83/844]; [Pub. L. 95–52, title I][/us/pl/95/52/tI], §§ 103(d), 112, title II, § 203(a), June 22, 1977, [91 Stat. 237][/us/stat/91/237], 240, 247; [Pub. L. 95–223, title III][/us/pl/95/223/tIII], § 301(b)(2), Dec. 28, 1977, [91 Stat. 1629][/us/stat/91/1629], set forth provisions respecting violations and penalties, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979. See [section 4610 of this title][/us/usc/t50/s4610].
 
  __Amendments__ 
 
@@ -349,29 +349,29 @@
 
     1994—Subsec. (j)(5). [Pub. L. 103–236][/us/pl/103/236] added par. (5).
 
-    1991—Subsecs. (m) to (s). [Pub. L. 102–182, § 304(b)][/us/pl/102/182/s304/b], added subsec. (m) and redesignated former subsecs. (m) to (r) as (n) to (s), respectively.
+    1991—Subsecs. (m) to (s). [Pub. L. 102–182][/us/pl/102/182], § 304(b), added subsec. (m) and redesignated former subsecs. (m) to (r) as (n) to (s), respectively.
 
-    [Pub. L. 102–138][/us/pl/102/138], which made an amendment similar to that made by [Pub. L. 102–182, § 304(b)][/us/pl/102/182/s304/b], by adding a subsec. (m) and redesignating former subsecs. (m) to (r) as (n) to (s), respectively, was repealed by [Pub. L. 102–182, § 309(a)][/us/pl/102/182/s309/a].
+    [Pub. L. 102–138][/us/pl/102/138], which made an amendment similar to that made by [Pub. L. 102–182][/us/pl/102/182], § 304(b), by adding a subsec. (m) and redesignating former subsecs. (m) to (r) as (n) to (s), respectively, was repealed by [Pub. L. 102–182][/us/pl/102/182], § 309(a).
 
     1990—Subsecs. (k) to (r). [Pub. L. 101–510][/us/pl/101/510] added subsecs. (k) and (l) and redesignated former subsecs. (k) to (p) as (m) to (r), respectively.
 
     1989—Subsec. (j). [Pub. L. 101–222][/us/pl/101/222] amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) and (2).
 
-    1988—Subsec. (a)(6). [Pub. L. 100–418, § 2423(a)][/us/pl/100/418/s2423/a], added par. (6).
+    1988—Subsec. (a)(6). [Pub. L. 100–418][/us/pl/100/418], § 2423(a), added par. (6).
 
-    Subsec. (p). [Pub. L. 100–418, § 2423(b)][/us/pl/100/418/s2423/b], added subsec. (p).
+    Subsec. (p). [Pub. L. 100–418][/us/pl/100/418], § 2423(b), added subsec. (p).
 
     1986—Subsec. (j)(1). [Pub. L. 99–399][/us/pl/99/399] substituted “$1,000,000” for “$7,000,000”.
 
-    1985—Subsec. (a)(1). [Pub. L. 99–64, § 108(a)(1)][/us/pl/99/64/s108/a/1], substituted “(8), or (13)” for “or (8)”, and inserted “, the Secretary of Defense, the Secretary of Agriculture, the Secretary of the Treasury, the United States Trade Representative,” after “in consultation with the Secretary of State”.
+    1985—Subsec. (a)(1). [Pub. L. 99–64][/us/pl/99/64], § 108(a)(1), substituted “(8), or (13)” for “or (8)”, and inserted “, the Secretary of Defense, the Secretary of Agriculture, the Secretary of the Treasury, the United States Trade Representative,” after “in consultation with the Secretary of State”.
 
-    Subsec. (a)(2). [Pub. L. 99–64, § 108(a)(3)][/us/pl/99/64/s108/a/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 99–64][/us/pl/99/64], § 108(a)(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 99–64, § 108(a)(2)][/us/pl/99/64/s108/a/2], (4), redesignated par. (2) as (3) and substituted “subsections (b) and (f)” for “subsections (b) and (e)”. Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 99–64][/us/pl/99/64], § 108(a)(2), (4), redesignated par. (2) as (3) and substituted “subsections (b) and (f)” for “subsections (b) and (e)”. Former par. (3) redesignated (4).
 
-    Subsec. (a)(4), (5). [Pub. L. 99–64, § 108(a)(2)][/us/pl/99/64/s108/a/2], redesignated pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (a)(4), (5). [Pub. L. 99–64][/us/pl/99/64], § 108(a)(2), redesignated pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsec. (b). [Pub. L. 99–64, § 108(b)][/us/pl/99/64/s108/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When imposing, expanding, or extending export controls under this section, the President shall consider—
+    Subsec. (b). [Pub. L. 99–64][/us/pl/99/64], § 108(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When imposing, expanding, or extending export controls under this section, the President shall consider—
 
     “(1) the probability that such controls will achieve the intended foreign policy purpose, in light of other factors, including the availability from other countries of the goods or technology proposed for such controls;
 
@@ -385,31 +385,31 @@
 
     “(6) the foreign policy consequences of not imposing controls.”
 
-    Subsec. (c). [Pub. L. 99–64, § 108(c)][/us/pl/99/64/s108/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary, before imposing export controls under this section, shall consult with such affected United States industries as the Secretary considers appropriate, with respect to the criteria set forth in paragraphs (1) and (4) of subsection (b) and such other matters as the Secretary considers appropriate.”
+    Subsec. (c). [Pub. L. 99–64][/us/pl/99/64], § 108(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary, before imposing export controls under this section, shall consult with such affected United States industries as the Secretary considers appropriate, with respect to the criteria set forth in paragraphs (1) and (4) of subsection (b) and such other matters as the Secretary considers appropriate.”
 
-    Subsec. (d). [Pub. L. 99–64, § 108(d)(2)][/us/pl/99/64/s108/d/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], (e), redesignated former subsec. (e) as (f), amended subsec. (f) generally, substituting “Consultation with Congress” for “Notification to Congress” in heading, and in text making consultation with the Congress mandatory and not merely discretionary before the President imposes, expands, or extends export controls. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), (e), redesignated former subsec. (e) as (f), amended subsec. (f) generally, substituting “Consultation with Congress” for “Notification to Congress” in heading, and in text making consultation with the Congress mandatory and not merely discretionary before the President imposes, expands, or extends export controls. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], (f), redesignated former subsec. (f) as (g), inserted sentence directing that this section does not authorize export controls on donations of goods that are intended to meet basic human needs, and substituted “This subsection shall not apply to any export control on medicine, medical supplies, or food, except for donations, which is in effect on the date of the enactment of the Export Administration Amendments Act of 1985” for “This subsection shall not apply to any export control on medicine or medical supplies which is in effect on the effective date of this Act or to any export control on food which is in effect on the date of the enactment of the Export Administration Amendments Act of 1981” and inserted: “Notwithstanding the preceding provisions of this subsection, the President may impose export controls under this section on medicine, medical supplies, food, and donations of goods in order to carry out the policy set forth in paragraph (13) of [section 4602 of this title][/us/usc/t50/s4602].”
+    Subsec. (g). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), (f), redesignated former subsec. (f) as (g), inserted sentence directing that this section does not authorize export controls on donations of goods that are intended to meet basic human needs, and substituted “This subsection shall not apply to any export control on medicine, medical supplies, or food, except for donations, which is in effect on the date of the enactment of the Export Administration Amendments Act of 1985” for “This subsection shall not apply to any export control on medicine or medical supplies which is in effect on the effective date of this Act or to any export control on food which is in effect on the date of the enactment of the Export Administration Amendments Act of 1981” and inserted: “Notwithstanding the preceding provisions of this subsection, the President may impose export controls under this section on medicine, medical supplies, food, and donations of goods in order to carry out the policy set forth in paragraph (13) of [section 4602 of this title][/us/usc/t50/s4602].”
 
-    Subsec. (h). [Pub. L. 99–64, § 108(g)(1)][/us/pl/99/64/s108/g/1], designated existing provisions as par. (1) and added pars. (2) to (4).
+    Subsec. (h). [Pub. L. 99–64][/us/pl/99/64], § 108(g)(1), designated existing provisions as par. (1) and added pars. (2) to (4).
 
-    [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], redesignated former subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), redesignated former subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], (h), redesignated former subsec. (h) as (i) and substituted “(e), (g), and (h)” for “(f), and (g)”. Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), (h), redesignated former subsec. (h) as (i) and substituted “(e), (g), and (h)” for “(f), and (g)”. Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], (i), redesignated former subsec. (i) as (j), amended subsec. (j) generally, designating the existing sentence as par. (1) and former pars. (1) and (2) thereof as subpars. (A) and (B), and adding par. (2). Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), (i), redesignated former subsec. (i) as (j), amended subsec. (j) generally, designating the existing sentence as par. (1) and former pars. (1) and (2) thereof as subpars. (A) and (B), and adding par. (2). Former subsec. (j) redesignated (k).
 
-    Subsec. (k). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (l).
+    Subsec. (k). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-    Subsec. (k)(1). [Pub. L. 99–64, § 108(j)(1)][/us/pl/99/64/s108/j/1], inserted sentence relating to the concurrence of the Secretary of State.
+    Subsec. (k)(1). [Pub. L. 99–64][/us/pl/99/64], § 108(j)(1), inserted sentence relating to the concurrence of the Secretary of State.
 
-    Subsec. (l). [Pub. L. 99–64, § 108(d)(1)][/us/pl/99/64/s108/d/1], (k), redesignated former subsec. (k) as (l), substituted reference to “the control list” for existing reference to “the commodity control list’ after “The Secretary shall establish and maintain, as part of”, and substituted “The Secretary shall clearly identify on the control list which goods or technology, and which countries or destinations, are subject to which types of controls under this section” for “Such goods or technology shall be clearly identified as subject to controls under this section”.
+    Subsec. (l). [Pub. L. 99–64][/us/pl/99/64], § 108(d)(1), (k), redesignated former subsec. (k) as (l), substituted reference to “the control list” for existing reference to “the commodity control list’ after “The Secretary shall establish and maintain, as part of”, and substituted “The Secretary shall clearly identify on the control list which goods or technology, and which countries or destinations, are subject to which types of controls under this section” for “Such goods or technology shall be clearly identified as subject to controls under this section”.
 
-    Subsecs. (m) to (o). [Pub. L. 99–64, § 108][/us/pl/99/64/s108](l)(1), added subsecs. (m) to (o).
+    Subsecs. (m) to (o). [Pub. L. 99–64][/us/pl/99/64], § 108(l)(1), added subsecs. (m) to (o).
 
     1981—Subsec. (f). [Pub. L. 97–145][/us/pl/97/145] inserted provisions restricting the imposition of export controls on food when such controls would result in measurable malnutrition, unless the President determines that the controls are necessary to protect the United States national security interests or that the food would not reach persons most in need.
 
@@ -425,21 +425,21 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–64, title I, § 108(g)(2)][/us/pl/99/64/s108/g/2], July 12, 1985, [99 Stat. 135][/us/stat/99/135], provided that: 
+[Pub. L. 99–64, title I][/us/pl/99/64/tI], § 108(g)(2), July 12, 1985, [99 Stat. 135][/us/stat/99/135], provided that: 
 
 > “The amendments made by paragraph (1) of this subsection \[amending this section\] shall not apply to export controls in effect under subsection (i), (j), or (k) of section 6 of the Export Administration Act of 1979 \[[50 U.S.C. 4605(i)][/us/usc/t50/s4605/i], (j), (k)\] (as redesignated by subsection (d) of this section) immediately before the date of the enactment of this Act \[July 12, 1985\], or to export controls made effective by subsection (i)(2) of this section \[there is no [section 108(i)(2) of Pub. L. 99–64][/us/pl/99/64/s108/i/2]\] or by section 6(n) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(n)][/us/usc/t50/s4605/n]\] (as added by subsection (l)(1) of this section).”
 
-[Pub. L. 99–64, title I, § 108(j)(2)][/us/pl/99/64/s108/j/2], July 12, 1985, [99 Stat. 136][/us/stat/99/136], provided that: 
+[Pub. L. 99–64, title I][/us/pl/99/64/tI], § 108(j)(2), July 12, 1985, [99 Stat. 136][/us/stat/99/136], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending this section\] shall apply to determinations of the Secretary of Commerce which are made on or after the date of the enactment of this Act \[July 12, 1985\].”
 
-[Pub. L. 99–64, title I, § 108][/us/pl/99/64/s108](l)(2), July 12, 1985, [99 Stat. 137][/us/stat/99/137], provided that: 
+[Pub. L. 99–64, title I][/us/pl/99/64/tI], § 108(l)(2), July 12, 1985, [99 Stat. 137][/us/stat/99/137], provided that: 
 
 > “Subsections (m) and (o) of section 6 of the Export Administration Act of 1979 \[[50 U.S.C. 4605(m)][/us/usc/t50/s4605/m], (o)\], as added by paragraph (1) of this subsection, shall not apply to export controls in effect immediately before the date of the enactment of this Act \[July 12, 1985\], or to export controls made effective by subsection (i)(2) of this section \[there is no [section 108(i)(2) of Pub. L. 99–64][/us/pl/99/64/s108/i/2]\] or by section 6(n) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(n)][/us/usc/t50/s4605/n]\] (as added by paragraph (1) of this subsection).”
 
  __Construction of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VII, § 7102(c)(2)][/us/pl/108/458/s7102/c/2], Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7102(c)(2), Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], provided that: 
 
 > “Nothing in this subsection \[amending this section and enacting provisions set out as a note under this section\] or the amendments made by this subsection shall be construed as affecting any determination made by the Secretary of State pursuant to section 6(j) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\] with respect to a country prior to the date of enactment of this Act \[Dec. 17, 2004\].”
 
@@ -449,13 +449,13 @@
 
  __Implementation__ 
 
-[Pub. L. 108–458, title VII, § 7102(c)(3)][/us/pl/108/458/s7102/c/3], Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7102(c)(3), Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], provided that: 
 
 > “The President shall implement the amendments made by paragraph (1) \[amending this section\] by exercising the authorities of the President under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.).”
 
  __Exercise of Statutory Authorities Respecting Imposition of Total Embargo in Event of Soviet or Warsaw Pact Military Action in Poland__ 
 
-[Pub. L. 97–145, § 7][/us/pl/97/145/s7], Dec. 29, 1981, [95 Stat. 1729][/us/stat/95/1729], provided that: 
+[Pub. L. 97–145][/us/pl/97/145], § 7, Dec. 29, 1981, [95 Stat. 1729][/us/stat/95/1729], provided that: 
 
 > “Notwithstanding any other provision of law, no provision of the Export Administration Act of 1979, as amended by this Act \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], or of any other Act shall be construed to prohibit the exercise of authorities contained in the Export Administration Act of 1979 to impose a total embargo in the event of Soviet or Warsaw Pact military action against Poland.”
 
@@ -484,33 +484,33 @@
 [/us/usc/t22/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5601
 [/us/usc/t50/s4609/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609%2Fe
 [/us/usc/t22/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2304
-[/us/pl/96/72/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs6
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F513
-[/us/pl/96/533/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs111
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3138
-[/us/pl/97/145/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs6
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1728
-[/us/pl/99/64/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fa
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/131-136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F131-136
-[/us/pl/99/399/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs509%2Fb
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F874
-[/us/pl/100/418/s2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2423
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1358
-[/us/pl/101/222/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs4
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1897
-[/us/pl/101/510/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1702%2Fa
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1739
-[/us/pl/102/138/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs504%2Fb
+[/us/pl/102/138/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtV
 [/us/stat/105/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F724
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
-[/us/pl/103/236/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs736
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F506
-[/us/pl/104/316/s128/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs128%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3841
-[/us/pl/105/277/s1422/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F7
+[/us/pl/105/277/dG/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXIV
 [/us/stat/112/2681-793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-793
-[/us/pl/108/458/s7102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fc%2F1
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3776
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
@@ -531,11 +531,11 @@
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
-[/us/pl/91/184/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs6
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F844
-[/us/pl/95/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F237
-[/us/pl/95/223/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs301%2Fb%2F2
+[/us/pl/95/223/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtIII
 [/us/stat/91/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1629
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
@@ -543,34 +543,34 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/102/182/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs304%2Fb
+[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
-[/us/pl/102/182/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs304%2Fb
-[/us/pl/102/182/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs309%2Fa
+[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
-[/us/pl/100/418/s2423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2423%2Fa
-[/us/pl/100/418/s2423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2423%2Fb
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
-[/us/pl/99/64/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fa%2F1
-[/us/pl/99/64/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fa%2F3
-[/us/pl/99/64/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fa%2F2
-[/us/pl/99/64/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fa%2F2
-[/us/pl/99/64/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fb
-[/us/pl/99/64/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fc
-[/us/pl/99/64/s108/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F2
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
-[/us/pl/99/64/s108/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fg%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fj%2F1
-[/us/pl/99/64/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fd%2F1
-[/us/pl/99/64/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
@@ -579,26 +579,26 @@
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
 [/us/pl/105/277/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1401
 [/us/usc/t22/s6561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6561
-[/us/pl/99/64/s108/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fg%2F2
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F135
 [/us/usc/t50/s4605/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fi
 [/us/pl/99/64/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fi%2F2
 [/us/usc/t50/s4605/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fn
-[/us/pl/99/64/s108/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fj%2F2
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F136
-[/us/pl/99/64/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F137
 [/us/usc/t50/s4605/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fm
 [/us/pl/99/64/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs108%2Fi%2F2
 [/us/usc/t50/s4605/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fn
-[/us/pl/108/458/s7102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fc%2F2
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3777
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
-[/us/pl/108/458/s7102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fc%2F3
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3777
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/97/145/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs7
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1729
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603

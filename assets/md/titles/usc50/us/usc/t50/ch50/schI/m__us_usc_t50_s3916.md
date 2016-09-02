@@ -37,7 +37,7 @@
 
         In this section, the terms “dependent” and “Secretary concerned” have the meanings given such terms in section 101 of the Servicemembers Civil Relief Act \[[50 U.S.C. 3911][/us/usc/t50/s3911]\].
 
-([Pub. L. 109–163, div. A, title VI, § 690][/us/pl/109/163/s690], Jan. 6, 2006, [119 Stat. 3337][/us/stat/119/3337].)
+([Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 690, Jan. 6, 2006, [119 Stat. 3337][/us/stat/119/3337].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 [/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 [/us/usc/t50/s3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3911
-[/us/pl/109/163/s690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs690
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3337
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178

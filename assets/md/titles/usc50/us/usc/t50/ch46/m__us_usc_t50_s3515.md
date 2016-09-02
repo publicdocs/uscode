@@ -59,27 +59,27 @@
 
         (3) In this subsection, the term “crime of violence” has the meaning given that term in [section 16 of title 18][/us/usc/t18/s16].
 
-([June 20, 1949, ch. 227, § 15][/us/act/1949-06-20/ch227/s15], as added [Pub. L. 98–473, title I, § 140][/us/pl/98/473/s140], Oct. 12, 1984, [98 Stat. 1973][/us/stat/98/1973], and [Pub. L. 98–618, title IV, § 401][/us/pl/98/618/s401], Nov. 8, 1984, [98 Stat. 3301][/us/stat/98/3301]; amended [Pub. L. 105–107, title IV, § 404][/us/pl/105/107/s404], Nov. 20, 1997, [111 Stat. 2260][/us/stat/111/2260]; [Pub. L. 107–306, title VIII, § 841(d)][/us/pl/107/306/s841/d], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–177, title III, § 377(b)(3)][/us/pl/108/177/s377/b/3], title IV, § 402, Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630], 2631.)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 15, as added [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 140, Oct. 12, 1984, [98 Stat. 1973][/us/stat/98/1973], and [Pub. L. 98–618, title IV][/us/pl/98/618/tIV], § 401, Nov. 8, 1984, [98 Stat. 3301][/us/stat/98/3301]; amended [Pub. L. 105–107, title IV][/us/pl/105/107/tIV], § 404, Nov. 20, 1997, [111 Stat. 2260][/us/stat/111/2260]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 841(d), Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 377(b)(3), title IV, § 402, Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630], 2631.)
 
  __Codification__ 
 
     Section was formerly classified to section 403o of this title prior to editorial reclassification and renumbering as this section.
 
-    [Pub. L. 98–473, title I, § 140][/us/pl/98/473/s140] and [Pub. L. 98–618, title IV, § 401][/us/pl/98/618/s401], added substantially identical sections 15 to [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227]. This section is based on the section 15 of [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], as added by [Pub. L. 98–618][/us/pl/98/618].
+    [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 140 and [Pub. L. 98–618, title IV][/us/pl/98/618/tIV], § 401, added substantially identical sections 15 to [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227]. This section is based on the section 15 of [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], as added by [Pub. L. 98–618][/us/pl/98/618].
 
  __Amendments__ 
 
-    2003—Subsec. (a)(1). [Pub. L. 108–177, § 377(b)(3)(A)][/us/pl/108/177/s377/b/3/A], substituted “officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40][/us/usc/t40/s1315/b/2],” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ ([40 U.S.C. 318][/us/usc/t40/s318]),”.
+    2003—Subsec. (a)(1). [Pub. L. 108–177][/us/pl/108/177], § 377(b)(3)(A), substituted “officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40][/us/usc/t40/s1315/b/2],” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ ([40 U.S.C. 318][/us/usc/t40/s318]),”.
 
-    Subsec. (b). [Pub. L. 108–177, § 377(b)(3)(B)][/us/pl/108/177/s377/b/3/B], substituted “[section 1315(c)(2) of title 40][/us/usc/t40/s1315/c/2]” for “the fourth section of the Act referred to in subsection (a) of this section ([40 U.S.C. 318c][/us/usc/t40/s318c])”.
+    Subsec. (b). [Pub. L. 108–177][/us/pl/108/177], § 377(b)(3)(B), substituted “[section 1315(c)(2) of title 40][/us/usc/t40/s1315/c/2]” for “the fourth section of the Act referred to in subsection (a) of this section ([40 U.S.C. 318c][/us/usc/t40/s318c])”.
 
-    Subsec. (d). [Pub. L. 108–177, § 402][/us/pl/108/177/s402], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–177][/us/pl/108/177], § 402, added subsec. (d).
 
     2002—Subsec. (a)(5). [Pub. L. 107–306][/us/pl/107/306] struck out par. (5) which read as follows: “Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency.”
 
-    1997—Subsec. (a)(1). [Pub. L. 105–107, § 404(1)][/us/pl/105/107/s404/1], (2), inserted “(1)” after “(a)”, substituted “powers—” for “powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.”, and added subpars. (A) to (D).
+    1997—Subsec. (a)(1). [Pub. L. 105–107][/us/pl/105/107], § 404(1), (2), inserted “(1)” after “(a)”, substituted “powers—” for “powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.”, and added subpars. (A) to (D).
 
-    Subsec. (a)(2) to (5). [Pub. L. 105–107, § 404(3)][/us/pl/105/107/s404/3], added pars. (2) to (5).
+    Subsec. (a)(2) to (5). [Pub. L. 105–107][/us/pl/105/107], § 404(3), added pars. (2) to (5).
 
  __Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence__ 
 
@@ -97,32 +97,32 @@
 [/us/usc/t50/s3506/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3506%2Fa%2F4
 [/us/usc/t28/s2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2679
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
-[/us/act/1949-06-20/ch227/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs15
-[/us/pl/98/473/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs140
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1973
-[/us/pl/98/618/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2Fs401
+[/us/pl/98/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2FtIV
 [/us/stat/98/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3301
-[/us/pl/105/107/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs404
+[/us/pl/105/107/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIV
 [/us/stat/111/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2260
-[/us/pl/107/306/s841/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs841%2Fd
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2432
-[/us/pl/108/177/s377/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fb%2F3
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2630
-[/us/pl/98/473/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs140
-[/us/pl/98/618/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2Fs401
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
+[/us/pl/98/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2FtIV
 [/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/pl/98/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618
-[/us/pl/108/177/s377/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fb%2F3%2FA
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t40/s1315/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315%2Fb%2F2
 [/us/usc/t40/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs318
-[/us/pl/108/177/s377/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fb%2F3%2FB
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t40/s1315/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315%2Fc%2F2
 [/us/usc/t40/s318c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs318c
-[/us/pl/108/177/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs402
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
-[/us/pl/105/107/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs404%2F1
-[/us/pl/105/107/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs404%2F3
+[/us/pl/105/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107
+[/us/pl/105/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107
 [/us/pl/105/272/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs309
 [/us/usc/t50/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3501
 

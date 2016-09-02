@@ -37,7 +37,7 @@
 
             (B) is entered into in connection with a capital improvement project undertaken as part of an energy savings performance contract under [section 8287 of title 42][/us/usc/t42/s8287].
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4804][/us/pl/107/314/s4804], as added [Pub. L. 109–364, div. C, title XXXI, § 3118][/us/pl/109/364/s3118], Oct. 17, 2006, [120 Stat. 2509][/us/stat/120/2509].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4804, as added [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3118, Oct. 17, 2006, [120 Stat. 2509][/us/stat/120/2509].)
 
 ----------
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t42/s8287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287
-[/us/pl/107/314/s4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4804
-[/us/pl/109/364/s3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3118
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2509
 
 

@@ -57,7 +57,7 @@
 
         (3) The term “covered employee” has the meaning given that term in [section 2443 of this title][/us/usc/t50/s2443].
 
-([Pub. L. 106–65, div. C, title XXXII, § 3246][/us/pl/106/65/s3246], as added [Pub. L. 114–92, div. C, title XXXI, § 3111(b)(1)][/us/pl/114/92/s3111/b/1], Nov. 25, 2015, [129 Stat. 1187][/us/stat/129/1187].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3246, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3111(b)(1), Nov. 25, 2015, [129 Stat. 1187][/us/stat/129/1187].)
 
 ----------
 
@@ -68,8 +68,8 @@
 
 [/us/usc/t50/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2753
 [/us/usc/t50/s2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2443
-[/us/pl/106/65/s3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3246
-[/us/pl/114/92/s3111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3111%2Fb%2F1
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1187
 
 

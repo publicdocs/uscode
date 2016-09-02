@@ -311,7 +311,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
  __Codification__ 
 
-    Chapter is comprised of the portions of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], as amended, that had not previously been repealed when the Act was editorially reclassifed as this chapter. As enacted, this Act contained titles I through VII. Titles II, IV, V, and VI of the Act were repealed by [Pub. L. 111–67, § 2(a)(2)][/us/pl/111/67/s2/a/2], Sept. 30, 2009, [123 Stat. 2007][/us/stat/123/2007]. Titles I, III, and VII of the Act have been codified in this chapter to appear as subchapters I to III, respectively. For complete classification of this Act to the Code, see Tables.
+    Chapter is comprised of the portions of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], as amended, that had not previously been repealed when the Act was editorially reclassifed as this chapter. As enacted, this Act contained titles I through VII. Titles II, IV, V, and VI of the Act were repealed by [Pub. L. 111–67][/us/pl/111/67], § 2(a)(2), Sept. 30, 2009, [123 Stat. 2007][/us/stat/123/2007]. Titles I, III, and VII of the Act have been codified in this chapter to appear as subchapters I to III, respectively. For complete classification of this Act to the Code, see Tables.
 
  __Termination Date__ 
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/111/67/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs2%2Fa%2F2
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2007
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 

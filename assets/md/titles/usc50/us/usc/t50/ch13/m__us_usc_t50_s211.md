@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5307 derived from [act July 2, 1864, ch. 225, § 10][/us/act/1864-07-02/ch225/s10], [13 Stat. 377][/us/stat/13/377].
+    R.S. § 5307 derived from [act July 2, 1864, ch. 225][/us/act/1864-07-02/ch225], § 10, [13 Stat. 377][/us/stat/13/377].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1864-07-02/ch225/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch225%2Fs10
+[/us/act/1864-07-02/ch225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch225
 [/us/stat/13/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F377
 
 

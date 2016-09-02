@@ -25,7 +25,7 @@
 
         (3) For purposes of this subsection, “production of binary chemical munitions” means the final assembly of weapon components and the filling or loading of components with binary chemicals.
 
-([Pub. L. 98–94, title XII, § 1233][/us/pl/98/94/s1233], Sept. 24, 1983, [97 Stat. 695][/us/stat/97/695].)
+([Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1233, Sept. 24, 1983, [97 Stat. 695][/us/stat/97/695].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    Section was enacted as part of the Department of Defense Authorization Act, 1984, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the Department of Defense Authorization Act, 1984, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
 ----------
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/98/94/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1233
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F695
 [/us/pl/98/94/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs101
 [/us/stat/97/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F618
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 
 

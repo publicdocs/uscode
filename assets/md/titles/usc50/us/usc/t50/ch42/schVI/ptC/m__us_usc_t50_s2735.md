@@ -31,7 +31,7 @@
 
         (2) to the Secretary of Energy with respect to defense nuclear facilities of the Office of Environmental Management of the Department of Energy.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4645][/us/pl/107/314/s4645], as added [Pub. L. 112–239, div. C, title XXXI, § 3161(a)][/us/pl/112/239/s3161/a], Jan. 2, 2013, [126 Stat. 2203][/us/stat/126/2203].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4645, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3161(a), Jan. 2, 2013, [126 Stat. 2203][/us/stat/126/2203].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t42/s2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2232
-[/us/pl/107/314/s4645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4645
-[/us/pl/112/239/s3161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3161%2Fa
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2203
 
 

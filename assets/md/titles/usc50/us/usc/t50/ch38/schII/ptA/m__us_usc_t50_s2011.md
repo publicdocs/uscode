@@ -33,15 +33,15 @@
 
         In the interests of the security of the foreign intelligence activities of the United States and in order further to implement [section 3024(i) of this title][/us/usc/t50/s3024/i] that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except [section 2155(b) of this title][/us/usc/t50/s2155/b]), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
 
-([Pub. L. 88–643, title II, § 201][/us/pl/88/643/s201], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3201][/us/stat/106/3201]; amended [Pub. L. 103–178, title II, § 202(a)(2)][/us/pl/103/178/s202/a/2], Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026]; [Pub. L. 105–272, title IV, § 403(b)][/us/pl/105/272/s403/b], Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 108–458, title I, § 1072(c)][/us/pl/108/458/s1072/c], Dec. 17, 2004, [118 Stat. 3693][/us/stat/118/3693].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 201, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3201][/us/stat/106/3201]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(2), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026]; [Pub. L. 105–272, title IV][/us/pl/105/272/tIV], § 403(b), Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1072(c), Dec. 17, 2004, [118 Stat. 3693][/us/stat/118/3693].)
 
  __References in Text__ 
 
-    The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in subsec. (a)(1), is [Pub. L. 88–643][/us/pl/88/643], Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043], as amended, which was formerly set out as a note under [section 403 of this title][/us/usc/t50/s403]. [Pub. L. 88–643][/us/pl/88/643] was revised generally by [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196], and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of [Pub. L. 88–643][/us/pl/88/643] is classified generally to this subchapter.
+    The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in subsec. (a)(1), is [Pub. L. 88–643][/us/pl/88/643], Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043], as amended, which was formerly set out as a note under [section 403 of this title][/us/usc/t50/s403]. [Pub. L. 88–643][/us/pl/88/643] was revised generally by [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196], and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of [Pub. L. 88–643][/us/pl/88/643] is classified generally to this subchapter.
 
  __Prior Provisions__ 
 
-    A prior [section 201 of Pub. L. 88–643][/us/pl/88/643/s201], title II, Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043]; [Pub. L. 98–618, title III, § 302][/us/pl/98/618/s302], Nov. 8, 1984, [98 Stat. 3300][/us/stat/98/3300]; [Pub. L. 99–335, title V, § 501(1)][/us/pl/99/335/s501/1], June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to rules and regulations and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 201 of Pub. L. 88–643][/us/pl/88/643/s201], title II, Oct. 13, 1964, [78 Stat. 1043][/us/stat/78/1043]; [Pub. L. 98–618, title III][/us/pl/98/618/tIII], § 302, Nov. 8, 1984, [98 Stat. 3300][/us/stat/98/3300]; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 501(1), June 6, 1986, [100 Stat. 622][/us/stat/100/622], related to rules and regulations and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -70,27 +70,27 @@
 
 [/us/usc/t50/s3024/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fi
 [/us/usc/t50/s2155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2155%2Fb
-[/us/pl/88/643/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs201
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3201
-[/us/pl/103/178/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F2
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2026
-[/us/pl/105/272/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs403%2Fb
+[/us/pl/105/272/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtIV
 [/us/stat/112/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2404
-[/us/pl/108/458/s1072/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fc
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3693
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/stat/78/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1043
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/pl/88/643/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs201
 [/us/stat/78/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1043
-[/us/pl/98/618/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2Fs302
+[/us/pl/98/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2FtIII
 [/us/stat/98/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3300
-[/us/pl/99/335/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs501%2F1
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

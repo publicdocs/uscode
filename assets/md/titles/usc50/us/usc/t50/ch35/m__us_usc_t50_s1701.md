@@ -19,45 +19,45 @@
 
     (b) The authorities granted to the President by [section 1702 of this title][/us/usc/t50/s1702] may only be exercised to deal with an unusual and extraordinary threat with respect to which a national emergency has been declared for purposes of this chapter and may not be exercised for any other purpose. Any exercise of such authorities to deal with any new threat shall be based on a new declaration of national emergency which must be with respect to such threat.
 
-([Pub. L. 95–223, title II, § 202][/us/pl/95/223/s202], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626].)
+([Pub. L. 95–223, title II][/us/pl/95/223/tII], § 202, Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626].)
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–96, § 1][/us/pl/110/96/s1], Oct. 16, 2007, [121 Stat. 1011][/us/stat/121/1011], provided that: 
+[Pub. L. 110–96][/us/pl/110/96], § 1, Oct. 16, 2007, [121 Stat. 1011][/us/stat/121/1011], provided that: 
 
 > “This Act \[amending [section 1705 of this title][/us/usc/t50/s1705] and enacting provisions set out as a note under [section 1705 of this title][/us/usc/t50/s1705]\] may be cited as the ‘International Emergency Economic Powers Enhancement Act’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–353, § 1][/us/pl/109/353/s1], Oct. 13, 2006, [120 Stat. 2015][/us/stat/120/2015], provided that: 
+[Pub. L. 109–353][/us/pl/109/353], § 1, Oct. 13, 2006, [120 Stat. 2015][/us/stat/120/2015], provided that: 
 
 > “This Act \[amending provisions set out as a note below\] may be cited as the ‘North Korea Nonproliferation Act of 2006’.”
 
-[Pub. L. 109–293, § 1][/us/pl/109/293/s1], Sept. 30, 2006, [120 Stat. 1344][/us/stat/120/1344], provided that: 
+[Pub. L. 109–293][/us/pl/109/293], § 1, Sept. 30, 2006, [120 Stat. 1344][/us/stat/120/1344], provided that: 
 
 > “This Act \[amending [section 5318A of Title 31][/us/usc/t31/s5318A], Money and Finance, enacting provisions set out as notes under this section and [section 2151 of Title 22][/us/usc/t22/s2151], Foreign Relations and Intercourse, and amending provisions set out as a note under this section\] may be cited as the ‘Iran Freedom Support Act’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–112, § 1][/us/pl/109/112/s1], Nov. 22, 2005, [119 Stat. 2366][/us/stat/119/2366], provided that: 
+[Pub. L. 109–112][/us/pl/109/112], § 1, Nov. 22, 2005, [119 Stat. 2366][/us/stat/119/2366], provided that: 
 
 > “This Act \[enacting provisions set out as a note under this section and amending provisions set out as notes under this section and [section 2797b of Title 22][/us/usc/t22/s2797b], Foreign Relations and Intercourse\] may be cited as the ‘Iran Nonproliferation Amendments Act of 2005’.”
 
  __Short Title of 2001 Amendment__ 
 
-[Pub. L. 107–24, § 1][/us/pl/107/24/s1], Aug. 3, 2001, [115 Stat. 199][/us/stat/115/199], provided that: 
+[Pub. L. 107–24][/us/pl/107/24], § 1, Aug. 3, 2001, [115 Stat. 199][/us/stat/115/199], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes below\] may be cited as the ‘ILSA Extension Act of 2001’.”
 
  __Short Title__ 
 
-[Pub. L. 95–223, title II, § 201][/us/pl/95/223/s201], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], provided that: 
+[Pub. L. 95–223, title II][/us/pl/95/223/tII], § 201, Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘International Emergency Economic Powers Act’.”
 
  __Separability__ 
 
-[Pub. L. 95–223, title II, § 208][/us/pl/95/223/s208], Dec. 28, 1977, [91 Stat. 1629][/us/stat/91/1629], provided that: 
+[Pub. L. 95–223, title II][/us/pl/95/223/tII], § 208, Dec. 28, 1977, [91 Stat. 1629][/us/stat/91/1629], provided that: 
 
 > “If any provision of this Act \[enacting this chapter\] is held invalid, the remainder of the Act shall not be affected thereby.”
 
@@ -595,7 +595,7 @@
 
  __Imposition of Sanctions With Respect to Support for the Rebel Group Known as M23__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1284][/us/pl/112/239/s1284], Jan. 2, 2013, [126 Stat. 2035][/us/stat/126/2035], provided that:
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1284, Jan. 2, 2013, [126 Stat. 2035][/us/stat/126/2035], provided that:
 
 >     “(a) __Blocking of Assets.—__ 
 
@@ -659,7 +659,7 @@
 
  __Sudan Accountability and Divestment__ 
 
-[Pub. L. 110–174][/us/pl/110/174], Dec. 31, 2007, [121 Stat. 2516][/us/stat/121/2516], as amended by [Pub. L. 111–195, title II, § 205(a)][/us/pl/111/195/s205/a], July 1, 2010, [124 Stat. 1344][/us/stat/124/1344], provided that:
+[Pub. L. 110–174][/us/pl/110/174], Dec. 31, 2007, [121 Stat. 2516][/us/stat/121/2516], as amended by [Pub. L. 111–195, title II][/us/pl/111/195/tII], § 205(a), July 1, 2010, [124 Stat. 1344][/us/stat/124/1344], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -1353,7 +1353,7 @@
 
  __Codification of Sanctions Against Iran__ 
 
-[Pub. L. 109–293, title I, § 101][/us/pl/109/293/s101], Sept. 30, 2006, [120 Stat. 1344][/us/stat/120/1344], provided that:
+[Pub. L. 109–293, title I][/us/pl/109/293/tI], § 101, Sept. 30, 2006, [120 Stat. 1344][/us/stat/120/1344], provided that:
 
 >     “(a)  __Codification of Sanctions__  __.—__ 
 
@@ -1365,7 +1365,7 @@
 
  __Burmese Freedom and Democracy__ 
 
-[Pub. L. 112–192][/us/pl/112/192], Oct. 5, 2012, [126 Stat. 1441][/us/stat/126/1441], as amended by [Pub. L. 113–235, div. J, title VII, § 7043(b)(8)(A)][/us/pl/113/235/s7043/b/8/A], Dec. 16, 2014, [128 Stat. 2648][/us/stat/128/2648], provided that:
+[Pub. L. 112–192][/us/pl/112/192], Oct. 5, 2012, [126 Stat. 1441][/us/stat/126/1441], as amended by [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7043(b)(8)(A), Dec. 16, 2014, [128 Stat. 2648][/us/stat/128/2648], provided that:
 
 > “SECTION 1. __INTERNATIONAL FINANCIAL INSTITUTIONS.__ 
 
@@ -1387,7 +1387,7 @@
 
 >     “(3) The term ‘international financial institution’ shall have the same meaning as contained in section 7029(d) of division I of [Public Law 112–74][/us/pl/112/74] \[[125 Stat. 1209][/us/stat/125/1209]\] and shall also include the Multilateral Investment Guarantee Agency.”
 
-\[[Pub. L. 113–235, div. J, title VII, § 7043(b)(8)(B)][/us/pl/113/235/s7043/b/8/B], Dec. 16, 2014, [128 Stat. 2648][/us/stat/128/2648], provided that: 
+\[[Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7043(b)(8)(B), Dec. 16, 2014, [128 Stat. 2648][/us/stat/128/2648], provided that: 
 
 > “The amendment made in subparagraph (A) \[amending [section 3(3) of Pub. L. 112–192][/us/pl/112/192/s3/3], set out above, by inserting ‘and shall also include the Multilateral Investment Guarantee Agency’ after ‘[Public Law 112–74][/us/pl/112/74]’\] shall only take effect if the Secretary of State certifies and reports to the Committees on Appropriations by September 30, 2015 that the Government of Burma has implemented reforms, in consultation with Burma’s political opposition and ethnic groups, providing for free and fair presidential and parliamentary elections.”
 
@@ -1875,7 +1875,7 @@
 
     \[Memorandum of President of the United States, Aug. 29, 2012, 77 F.R. 57479, delegated to the Secretary of State the functions and authority conferred upon the President by [section 5(a)(2) of Pub. L. 110–286][/us/pl/110/286/s5/a/2], set out above, to waive the visa ban under section 5(a)(1) of that Act, and to make the specified certification to Congress.\]
 
-[Pub. L. 108–61][/us/pl/108/61], July 28, 2003, [117 Stat. 864][/us/stat/117/864], as amended by [Pub. L. 109–251, § 1][/us/pl/109/251/s1], Aug. 1, 2006, [120 Stat. 654][/us/stat/120/654]; [Pub. L. 110–286][/us/pl/110/286], §§ 6(a)–(b)(2), (c), 9(b), July 29, 2008, [122 Stat. 2638][/us/stat/122/2638], 2642–2644; [Pub. L. 111–42, title I, § 101][/us/pl/111/42/s101], July 28, 2009, [123 Stat. 1963][/us/stat/123/1963]; [Pub. L. 112–163, § 3(a)][/us/pl/112/163/s3/a], Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277], provided that:
+[Pub. L. 108–61][/us/pl/108/61], July 28, 2003, [117 Stat. 864][/us/stat/117/864], as amended by [Pub. L. 109–251][/us/pl/109/251], § 1, Aug. 1, 2006, [120 Stat. 654][/us/stat/120/654]; [Pub. L. 110–286][/us/pl/110/286], §§ 6(a)–(b)(2), (c), 9(b), July 29, 2008, [122 Stat. 2638][/us/stat/122/2638], 2642–2644; [Pub. L. 111–42, title I][/us/pl/111/42/tI], § 101, July 28, 2009, [123 Stat. 1963][/us/stat/123/1963]; [Pub. L. 112–163][/us/pl/112/163], § 3(a), Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -2259,9 +2259,9 @@
 
 >             The provisions of section 152(b), (c), (d), (e), and (f) of the Trade Act of 1974 ([19 U.S.C. 2192][/us/usc/t19/s2192] (b), (c), (d), (e), and (f)) apply to a renewal resolution under this Act as if such resolution were a resolution described in section 152(a) of the Trade Act of 1974.”
 
-    \[For effective date of amendment by [Pub. L. 110–286, § 6(b)(1)][/us/pl/110/286/s6/b/1], (2), see [section 6(b)(3) of Pub. L. 110–286][/us/pl/110/286/s6/b/3], set out above.\]
+    \[For effective date of amendment by [Pub. L. 110–286][/us/pl/110/286], § 6(b)(1), (2), see [section 6(b)(3) of Pub. L. 110–286][/us/pl/110/286/s6/b/3], set out above.\]
 
-\[[Pub. L. 109–251, § 3][/us/pl/109/251/s3], Aug. 1, 2006, [120 Stat. 654][/us/stat/120/654], provided that: 
+\[[Pub. L. 109–251][/us/pl/109/251], § 3, Aug. 1, 2006, [120 Stat. 654][/us/stat/120/654], provided that: 
 
 > “This Act \[enacting note below and amending [Pub. L. 108–61][/us/pl/108/61] set out above\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 1, 2006\] or July 26, 2006, whichever occurs first.”
 
@@ -2275,21 +2275,21 @@
 
 Provisions similar to those contained in [section 5(a) of Pub. L. 108–61][/us/pl/108/61/s5/a], set out above, were contained in the following appropriation acts:
 
-    [Pub. L. 112–74, div. I, title VII, § 7044(b)(1)][/us/pl/112/74/s7044/b/1], Dec. 23, 2011, [125 Stat. 1230][/us/stat/125/1230].
+    [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7044(b)(1), Dec. 23, 2011, [125 Stat. 1230][/us/stat/125/1230].
 
-    [Pub. L. 111–117, div. F, title VII, § 7071(b)(1)][/us/pl/111/117/s7071/b/1], Dec. 16, 2009, [123 Stat. 3388][/us/stat/123/3388].
+    [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7071(b)(1), Dec. 16, 2009, [123 Stat. 3388][/us/stat/123/3388].
 
-    [Pub. L. 111–8, div. H, title VII, § 7071(b)(1)][/us/pl/111/8/s7071/b/1], Mar. 11, 2009, [123 Stat. 903][/us/stat/123/903].
+    [Pub. L. 111–8, div. H, title VII][/us/pl/111/8/dH/tVII], § 7071(b)(1), Mar. 11, 2009, [123 Stat. 903][/us/stat/123/903].
 
-    [Pub. L. 110–161, div. J, title VI, § 638(b)(1)][/us/pl/110/161/s638/b/1], Dec. 26, 2007, [121 Stat. 2333][/us/stat/121/2333].
+    [Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 638(b)(1), Dec. 26, 2007, [121 Stat. 2333][/us/stat/121/2333].
 
-    [Pub. L. 109–102, title V, § 526(a)][/us/pl/109/102/s526/a], Nov. 14, 2005, [119 Stat. 2205][/us/stat/119/2205].
+    [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 526(a), Nov. 14, 2005, [119 Stat. 2205][/us/stat/119/2205].
 
-    [Pub. L. 108–447, div. D, title V, § 531(a)][/us/pl/108/447/s531/a], Dec. 8, 2004, [118 Stat. 3004][/us/stat/118/3004].
+    [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 531(a), Dec. 8, 2004, [118 Stat. 3004][/us/stat/118/3004].
 
-    [Pub. L. 108–199, div. D, title V, § 531(a)][/us/pl/108/199/s531/a], Jan. 23, 2004, [118 Stat. 180][/us/stat/118/180].
+    [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 531(a), Jan. 23, 2004, [118 Stat. 180][/us/stat/118/180].
 
-[Pub. L. 112–163, § 3(b)][/us/pl/112/163/s3/b], (c), Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277], provided that:
+[Pub. L. 112–163][/us/pl/112/163], § 3(b), (c), Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277], provided that:
 
 >     “(b) __Renewal of Import Restrictions.—__ 
 
@@ -2307,25 +2307,25 @@ Provisions similar to those contained in [section 5(a) of Pub. L. 108–61][/us/
 
 Prior similar provisions were contained in the following Acts:
 
-    [Pub. L. 112–36, § 140][/us/pl/112/36/s140], Oct. 5, 2011, [125 Stat. 391][/us/stat/125/391].
+    [Pub. L. 112–36][/us/pl/112/36], § 140, Oct. 5, 2011, [125 Stat. 391][/us/stat/125/391].
 
-    [Pub. L. 112–33, § 140][/us/pl/112/33/s140], Sept. 30, 2011, [125 Stat. 368][/us/stat/125/368].
+    [Pub. L. 112–33][/us/pl/112/33], § 140, Sept. 30, 2011, [125 Stat. 368][/us/stat/125/368].
 
-    [Pub. L. 111–210, § 1][/us/pl/111/210/s1], July 27, 2010, [124 Stat. 2256][/us/stat/124/2256].
+    [Pub. L. 111–210][/us/pl/111/210], § 1, July 27, 2010, [124 Stat. 2256][/us/stat/124/2256].
 
-    [Pub. L. 111–42, title I, § 102][/us/pl/111/42/s102], July 28, 2009, [123 Stat. 1963][/us/stat/123/1963].
+    [Pub. L. 111–42, title I][/us/pl/111/42/tI], § 102, July 28, 2009, [123 Stat. 1963][/us/stat/123/1963].
 
-    [Pub. L. 110–287, § 1][/us/pl/110/287/s1], July 29, 2008, [122 Stat. 2649][/us/stat/122/2649].
+    [Pub. L. 110–287][/us/pl/110/287], § 1, July 29, 2008, [122 Stat. 2649][/us/stat/122/2649].
 
     [Pub. L. 110–52][/us/pl/110/52], §§ 1, 4, Aug. 1, 2007, [121 Stat. 264][/us/stat/121/264].
 
-    [Pub. L. 109–251, § 2][/us/pl/109/251/s2], Aug. 1, 2006, [120 Stat. 654][/us/stat/120/654].
+    [Pub. L. 109–251][/us/pl/109/251], § 2, Aug. 1, 2006, [120 Stat. 654][/us/stat/120/654].
 
     [Pub. L. 109–39][/us/pl/109/39], July 27, 2005, [119 Stat. 409][/us/stat/119/409].
 
     [Pub. L. 108–272][/us/pl/108/272], July 7, 2004, [118 Stat. 818][/us/stat/118/818].
 
-[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 570\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–166, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 570\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–166, provided that:
 
 >     “(a)
 
@@ -2575,7 +2575,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 7. __ADDITIONAL AUTHORITIES.__ 
 
->     “\[Repealed. [Pub. L. 109–344, § 8(b)][/us/pl/109/344/s8/b], Oct. 13, 2006, [120 Stat. 1879][/us/stat/120/1879].\]
+>     “\[Repealed. [Pub. L. 109–344][/us/pl/109/344], § 8(b), Oct. 13, 2006, [120 Stat. 1879][/us/stat/120/1879].\]
 
 > “SEC. 8. __TECHNICAL CORRECTION.__ 
 
@@ -2583,7 +2583,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
     \[For assignment of functions of President under subsec. (c) and the last sentence of subsec. (d) of [section 6 of Pub. L. 108–497][/us/pl/108/497/s6], set out above, see section 4(c), (d) of Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61370, listed in a table below.\]
 
-[Pub. L. 107–245][/us/pl/107/245], Oct. 21, 2002, [116 Stat. 1504][/us/stat/116/1504], as amended by [Pub. L. 108–497, § 5][/us/pl/108/497/s5], Dec. 23, 2004, [118 Stat. 4016][/us/stat/118/4016]; [Pub. L. 109–344, § 9][/us/pl/109/344/s9], Oct. 13, 2006, [120 Stat. 1880][/us/stat/120/1880], provided that:
+[Pub. L. 107–245][/us/pl/107/245], Oct. 21, 2002, [116 Stat. 1504][/us/stat/116/1504], as amended by [Pub. L. 108–497][/us/pl/108/497], § 5, Dec. 23, 2004, [118 Stat. 4016][/us/stat/118/4016]; [Pub. L. 109–344][/us/pl/109/344], § 9, Oct. 13, 2006, [120 Stat. 1880][/us/stat/120/1880], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -2919,13 +2919,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Assistance Efforts in Sudan__ 
 
-    [Pub. L. 108–199, div. D, title V, § 534(j)][/us/pl/108/199/s534/j], Jan. 23, 2004, [118 Stat. 182][/us/stat/118/182], defined terms for purposes of [section 501 of Pub. L. 106–570][/us/pl/106/570/s501], formerly set out below.
+    [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 534(j), Jan. 23, 2004, [118 Stat. 182][/us/stat/118/182], defined terms for purposes of [section 501 of Pub. L. 106–570][/us/pl/106/570/s501], formerly set out below.
 
-    [Pub. L. 106–570, title V, § 501][/us/pl/106/570/s501], Dec. 27, 2000, [114 Stat. 3050][/us/stat/114/3050], authorized the President to undertake appropriate programs with indigenous groups, agencies, or organizations in areas outside of control of the Government of Sudan in order to benefit the economic development of that area and its people and exempted exports from those areas from the export prohibitions of Ex. Ord. No. 13067, prior to repeal by [Pub. L. 109–344, § 8(a)][/us/pl/109/344/s8/a], Oct. 13, 2006, [120 Stat. 1879][/us/stat/120/1879].
+    [Pub. L. 106–570, title V][/us/pl/106/570/tV], § 501, Dec. 27, 2000, [114 Stat. 3050][/us/stat/114/3050], authorized the President to undertake appropriate programs with indigenous groups, agencies, or organizations in areas outside of control of the Government of Sudan in order to benefit the economic development of that area and its people and exempted exports from those areas from the export prohibitions of Ex. Ord. No. 13067, prior to repeal by [Pub. L. 109–344][/us/pl/109/344], § 8(a), Oct. 13, 2006, [120 Stat. 1879][/us/stat/120/1879].
 
  __Iran, North Korea, and Syria Nonproliferation__ 
 
-[Pub. L. 106–178][/us/pl/106/178], Mar. 14, 2000, [114 Stat. 38][/us/stat/114/38], as amended by [Pub. L. 107–228, div. B, title XIII, § 1306][/us/pl/107/228/s1306], Sept. 30, 2002, [116 Stat. 1438][/us/stat/116/1438]; [Pub. L. 109–112][/us/pl/109/112], §§ 3–4(e)(1), Nov. 22, 2005, [119 Stat. 2368][/us/stat/119/2368], 2369; [Pub. L. 109–353, § 3][/us/pl/109/353/s3], Oct. 13, 2006, [120 Stat. 2015][/us/stat/120/2015]; [Pub. L. 110–329, div. A, § 125][/us/pl/110/329/s125], Sept. 30, 2008, [122 Stat. 3577][/us/stat/122/3577]; [Pub. L. 112–273, § 4][/us/pl/112/273/s4], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454], provided that:
+[Pub. L. 106–178][/us/pl/106/178], Mar. 14, 2000, [114 Stat. 38][/us/stat/114/38], as amended by [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1306, Sept. 30, 2002, [116 Stat. 1438][/us/stat/116/1438]; [Pub. L. 109–112][/us/pl/109/112], §§ 3–4(e)(1), Nov. 22, 2005, [119 Stat. 2368][/us/stat/119/2368], 2369; [Pub. L. 109–353][/us/pl/109/353], § 3, Oct. 13, 2006, [120 Stat. 2015][/us/stat/120/2015]; [Pub. L. 110–329, div. A][/us/pl/110/329/dA], § 125, Sept. 30, 2008, [122 Stat. 3577][/us/stat/122/3577]; [Pub. L. 112–273][/us/pl/112/273], § 4, Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -3203,7 +3203,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(ii) the Russian Aviation and Space Agency or Russian Space Agency, after holding a controlling interest in such organization or entity, divests its controlling interest.”
 
-\[[Pub. L. 109–112, § 4(e)(2)][/us/pl/109/112/s4/e/2], Nov. 22, 2005, [119 Stat. 2370][/us/stat/119/2370], provided that: 
+\[[Pub. L. 109–112][/us/pl/109/112], § 4(e)(2), Nov. 22, 2005, [119 Stat. 2370][/us/stat/119/2370], provided that: 
 
 > “Any reference in a law, regulation, document, or other record of the United States to the Iran Nonproliferation Act of 2000 \[now Iran, North Korea, and Syria Nonproliferation Act, [Pub. L. 106–198][/us/pl/106/198], set out above\] shall be deemed to be a reference to the Iran and Syria Nonproliferation Act.”
 
@@ -3213,7 +3213,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Application of Authorities Under the International Emergency Economic Powers Act to Communist Chinese Military Companies__ 
 
-[Pub. L. 105–261, div. A, title XII, § 1237][/us/pl/105/261/s1237], Oct. 17, 1998, [112 Stat. 2160][/us/stat/112/2160], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1233\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–330; [Pub. L. 108–375, div. A, title XII, § 1222][/us/pl/108/375/s1222], Oct. 28, 2004, [118 Stat. 2089][/us/stat/118/2089], provided that:
+[Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1237, Oct. 17, 1998, [112 Stat. 2160][/us/stat/112/2160], as amended by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1233\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–330; [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1222, Oct. 28, 2004, [118 Stat. 2089][/us/stat/118/2089], provided that:
 
 >     “(a) __Presidential Authority.—__ 
 
@@ -3287,7 +3287,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Iran Sanctions__ 
 
-[Pub. L. 104–172][/us/pl/104/172], Aug. 5, 1996, [110 Stat. 1541][/us/stat/110/1541], as amended by [Pub. L. 107–24][/us/pl/107/24], §§ 2(a), 3–5, Aug. 3, 2001, [115 Stat. 199][/us/stat/115/199], 200; [Pub. L. 109–267, § 1][/us/pl/109/267/s1], Aug. 4, 2006, [120 Stat. 680][/us/stat/120/680]; [Pub. L. 109–293, title II][/us/pl/109/293], §§ 201–202(b), 203–205(g)(1), Sept. 30, 2006, [120 Stat. 1345–1347][/us/stat/120/1345-1347]; [Pub. L. 111–195, title I, § 102(a)][/us/pl/111/195/s102/a]–(g), July 1, 2010, [124 Stat. 1317–1324][/us/stat/124/1317-1324]; [Pub. L. 112–158, title II][/us/pl/112/158], §§ 201, 202(a), 203, 204(a), 205–207(a), title III, § 311(a), (b)(1), Aug. 10, 2012, [126 Stat. 1219][/us/stat/126/1219], 1221, 1223, 1225–1227, 1247, 1248, provided that:
+[Pub. L. 104–172][/us/pl/104/172], Aug. 5, 1996, [110 Stat. 1541][/us/stat/110/1541], as amended by [Pub. L. 107–24][/us/pl/107/24], §§ 2(a), 3–5, Aug. 3, 2001, [115 Stat. 199][/us/stat/115/199], 200; [Pub. L. 109–267][/us/pl/109/267], § 1, Aug. 4, 2006, [120 Stat. 680][/us/stat/120/680]; [Pub. L. 109–293, title II][/us/pl/109/293/tII], §§ 201–202(b), 203–205(g)(1), Sept. 30, 2006, [120 Stat. 1345–1347][/us/stat/120/1345-1347]; [Pub. L. 111–195, title I][/us/pl/111/195/tI], § 102(a)–(g), July 1, 2010, [124 Stat. 1317–1324][/us/stat/124/1317-1324]; [Pub. L. 112–158, title II][/us/pl/112/158/tII], §§ 201, 202(a), 203, 204(a), 205–207(a), title III, § 311(a), (b)(1), Aug. 10, 2012, [126 Stat. 1219][/us/stat/126/1219], 1221, 1223, 1225–1227, 1247, 1248, provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -4213,25 +4213,25 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(B) a corporation or other legal entity which is organized under the laws of the United States, any State or territory thereof, or the District of Columbia, if natural persons described in subparagraph (A) own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.”
 
-\[[Pub. L. 112–158, title II, § 202(b)][/us/pl/112/158/s202/b], Aug. 10, 2012, [126 Stat. 1223][/us/stat/126/1223], provided that: 
+\[[Pub. L. 112–158, title II][/us/pl/112/158/tII], § 202(b), Aug. 10, 2012, [126 Stat. 1223][/us/stat/126/1223], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2012\], the President shall prescribe such regulations or guidelines as are necessary to implement paragraphs (7), (8), and (9) of section 5(a) of the Iran Sanctions Act of 1996 \[[Pub. L. 104–172][/us/pl/104/172], set out above\], as added by this section, including such regulations or guidelines as are necessary to implement subparagraph (B) of such paragraph (8).”
 
 \]
 
-\[[Pub. L. 112–158, title II, § 204(b)][/us/pl/112/158/s204/b], Aug. 10, 2012, [126 Stat. 1226][/us/stat/126/1226], provided that: 
+\[[Pub. L. 112–158, title II][/us/pl/112/158/tII], § 204(b), Aug. 10, 2012, [126 Stat. 1226][/us/stat/126/1226], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 6(a) of Pub. L. 104–172][/us/pl/104/172/s6/a], set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\] and apply with respect to activities described in subsections (a) and (b) of section 5 of the Iran Sanctions Act of 1996 \[[Pub. L. 104–172][/us/pl/104/172], set out above\], as amended by this title, commenced on or after such date of enactment.”
 
 \]
 
-\[[Pub. L. 112–158, title II, § 207(b)][/us/pl/112/158/s207/b], Aug. 10, 2012, [126 Stat. 1227][/us/stat/126/1227], provided that: 
+\[[Pub. L. 112–158, title II][/us/pl/112/158/tII], § 207(b), Aug. 10, 2012, [126 Stat. 1227][/us/stat/126/1227], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 14 of Pub. L. 104–172][/us/pl/104/172/s14], set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\] and apply with respect to activities described in subsections (a) and (b) of section 5 of the Iran Sanctions Act of 1996 \[[Pub. L. 104–172][/us/pl/104/172], set out above\], as amended by this title, commenced on or after such date of enactment.”
 
 \]
 
-\[[Pub. L. 111–195, title I, § 102(h)][/us/pl/111/195/s102/h], July 1, 2010, [124 Stat. 1325][/us/stat/124/1325], provided that:
+\[[Pub. L. 111–195, title I][/us/pl/111/195/tI], § 102(h), July 1, 2010, [124 Stat. 1325][/us/stat/124/1325], provided that:
 
     \[“(1) In general.—The amendments made by this section \[amending [Pub. L. 104–172][/us/pl/104/172], set out above\] shall—
 
@@ -4293,19 +4293,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
     \[Functions of President under [section 102(h)(5) of Pub. L. 111–195][/us/pl/111/195/s102/h/5], set out above, delegated to Secretary of State by Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under [section 8501 of Title 22][/us/usc/t22/s8501], Foreign Relations and Intercourse.\]
 
-\[[Pub. L. 109–293, title II, § 202(c)][/us/pl/109/293/s202/c], Sept. 30, 2006, [120 Stat. 1346][/us/stat/120/1346], provided that: 
+\[[Pub. L. 109–293, title II][/us/pl/109/293/tII], § 202(c), Sept. 30, 2006, [120 Stat. 1346][/us/stat/120/1346], provided that: 
 
 > “The amendments made by this section \[amending [section 5 of Pub. L. 104–172][/us/pl/104/172/s5], set out above\] shall apply with respect to actions taken on or after June 6, 2006.”
 
 \]
 
-\[[Pub. L. 109–293, title II, § 205(g)(2)][/us/pl/109/293/s205/g/2], Sept. 30, 2006, [120 Stat. 1347][/us/stat/120/1347], provided that: 
+\[[Pub. L. 109–293, title II][/us/pl/109/293/tII], § 205(g)(2), Sept. 30, 2006, [120 Stat. 1347][/us/stat/120/1347], provided that: 
 
 > “Any reference in any other provision of law, regulation, document, or other record of the United States to the ‘Iran and Libya Sanctions Act of 1996’ shall be deemed to be a reference to the ‘Iran Sanctions Act of 1996’ \[[Pub. L. 104–172][/us/pl/104/172], set out above\].”
 
 \]
 
-\[[Pub. L. 107–24, § 2(b)][/us/pl/107/24/s2/b], Aug. 3, 2001, [115 Stat. 199][/us/stat/115/199], provided that: 
+\[[Pub. L. 107–24][/us/pl/107/24], § 2(b), Aug. 3, 2001, [115 Stat. 199][/us/stat/115/199], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 5 of Pub. L. 104–172][/us/pl/104/172/s5], set out above\] shall apply to investments made on or after June 13, 2001.”
 
@@ -4329,7 +4329,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
  __Sanctions Against Serbia and Montenegro__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 599\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–127, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 599\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–127, provided that:
 
 >     “(a)  __Continuation of Executive Branch Sanctions__  __.—__ 
 
@@ -4377,7 +4377,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     The President may waive the application in whole or in part, of any sanction described in subsection (b) if the President certifies to the Congress that the President has determined that the waiver is necessary to meet emergency humanitarian needs.”
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 539\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–182, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 539\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–182, provided that:
 
 >     “(a)  __Restrictions__  __.—__ 
 
@@ -4411,11 +4411,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 540\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–155.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 540\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–155.
 
-    [Pub. L. 104–107, title V, § 540A(a)][/us/pl/104/107/s540A/a]–(c), Feb. 12, 1996, [110 Stat. 737][/us/stat/110/737].
+    [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 540A(a)–(c), Feb. 12, 1996, [110 Stat. 737][/us/stat/110/737].
 
-[Pub. L. 103–160, div. A, title XV, § 1511][/us/pl/103/160/s1511], Nov. 30, 1993, [107 Stat. 1839][/us/stat/107/1839], provided that:
+[Pub. L. 103–160, div. A, title XV][/us/pl/103/160/dA/tXV], § 1511, Nov. 30, 1993, [107 Stat. 1839][/us/stat/107/1839], provided that:
 
 >     “(a)  __Codification of Executive Branch Sanctions__  __.—__ 
 
@@ -4469,7 +4469,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
  __Iran-Iraq Arms Non-Proliferation__ 
 
-[Pub. L. 102–484, div. A, title XVI][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2571][/us/stat/106/2571], as amended by [Pub. L. 104–106, div. A, title XIV, § 1408(a)][/us/pl/104/106/s1408/a]–(c), Feb. 10, 1996, [110 Stat. 494][/us/stat/110/494]; [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(C)][/us/pl/107/228/s1308/g/1/C], Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441], provided that:
+[Pub. L. 102–484, div. A, title XVI][/us/pl/102/484/dA/tXVI], Oct. 23, 1992, [106 Stat. 2571][/us/stat/106/2571], as amended by [Pub. L. 104–106, div. A, title XIV][/us/pl/104/106/dA/tXIV], § 1408(a)–(c), Feb. 10, 1996, [110 Stat. 494][/us/stat/110/494]; [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1308(g)(1)(C), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441], provided that:
 
 > “SEC. 1601. __SHORT TITLE.__ 
 
@@ -4565,7 +4565,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 > “SEC. 1607. __REPORTING REQUIREMENT.__ 
 
->     “\[(a) Repealed. [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(C)][/us/pl/107/228/s1308/g/1/C], Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441].\]
+>     “\[(a) Repealed. [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1308(g)(1)(C), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441].\]
 
 >     “(b)  __Report on Individual Transfers__  __.—__ 
 
@@ -4625,11 +4625,11 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
  __Payment of Claims by United States Nationals Against Iraq__ 
 
-    [Pub. L. 101–519, § 131][/us/pl/101/519/s131], Nov. 5, 1990, [104 Stat. 2249][/us/stat/104/2249], which authorized President to vest title in a portion of property in which transactions were blocked pursuant to Executive Order 12722, listed in a table below, in order to satisfy obligations owed to United States Government and United States nationals for which Iraq had suspended repayment, was repealed by [Pub. L. 102–27, title IV, § 402(a)][/us/pl/102/27/s402/a], Apr. 10, 1991, [105 Stat. 155][/us/stat/105/155], as amended by [Pub. L. 102–136, § 126][/us/pl/102/136/s126], Oct. 25, 1991, [105 Stat. 643][/us/stat/105/643], effective Nov. 5, 1990.
+    [Pub. L. 101–519][/us/pl/101/519], § 131, Nov. 5, 1990, [104 Stat. 2249][/us/stat/104/2249], which authorized President to vest title in a portion of property in which transactions were blocked pursuant to Executive Order 12722, listed in a table below, in order to satisfy obligations owed to United States Government and United States nationals for which Iraq had suspended repayment, was repealed by [Pub. L. 102–27, title IV][/us/pl/102/27/tIV], § 402(a), Apr. 10, 1991, [105 Stat. 155][/us/stat/105/155], as amended by [Pub. L. 102–136][/us/pl/102/136], § 126, Oct. 25, 1991, [105 Stat. 643][/us/stat/105/643], effective Nov. 5, 1990.
 
  __Iraq Sanctions__ 
 
-[Pub. L. 101–513, title V][/us/pl/101/513], §§ 586–586J, Nov. 5, 1990, [104 Stat. 2047–2054][/us/stat/104/2047-2054], provided that:
+[Pub. L. 101–513, title V][/us/pl/101/513/tV], §§ 586–586J, Nov. 5, 1990, [104 Stat. 2047–2054][/us/stat/104/2047-2054], provided that:
 
 > “SEC. 586. __SHORT TITLE.__ 
 
@@ -4939,29 +4939,29 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 \[Provisions similar to [section 586D of Pub. L. 101–513][/us/pl/101/513/s586D], set out above, relating to compliance with sanctions against Iraq were contained in the following appropriations acts:
 
-    \[[Pub. L. 108–7, div. E, title V, § 531][/us/pl/108/7/s531], Feb. 20, 2003, [117 Stat. 192][/us/stat/117/192].
+    \[[Pub. L. 108–7, div. E, title V][/us/pl/108/7/dE/tV], § 531, Feb. 20, 2003, [117 Stat. 192][/us/stat/117/192].
 
-    \[[Pub. L. 107–115, title V, § 531][/us/pl/107/115/s531], Jan. 10, 2002, [115 Stat. 2150][/us/stat/115/2150].
+    \[[Pub. L. 107–115, title V][/us/pl/107/115/tV], § 531, Jan. 10, 2002, [115 Stat. 2150][/us/stat/115/2150].
 
-    \[[Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 534\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–34.
+    \[[Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 534\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–34.
 
-    \[[Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 534\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–93.
+    \[[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 534\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–93.
 
-    \[[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 535\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–181.
+    \[[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 535\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–181.
 
-    \[[Pub. L. 105–118, title V, § 534][/us/pl/105/118/s534], Nov. 26, 1997, [111 Stat. 2416][/us/stat/111/2416].
+    \[[Pub. L. 105–118, title V][/us/pl/105/118/tV], § 534, Nov. 26, 1997, [111 Stat. 2416][/us/stat/111/2416].
 
-    \[[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 533\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–152.
+    \[[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 533\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–152.
 
-    \[[Pub. L. 104–107, title V, § 534][/us/pl/104/107/s534], Feb. 12, 1996, [110 Stat. 734][/us/stat/110/734].
+    \[[Pub. L. 104–107, title V][/us/pl/104/107/tV], § 534, Feb. 12, 1996, [110 Stat. 734][/us/stat/110/734].
 
-    \[[Pub. L. 103–306, title V, § 538][/us/pl/103/306/s538], Aug. 23, 1994, [108 Stat. 1639][/us/stat/108/1639].
+    \[[Pub. L. 103–306, title V][/us/pl/103/306/tV], § 538, Aug. 23, 1994, [108 Stat. 1639][/us/stat/108/1639].
 
-    \[[Pub. L. 103–87, title V, § 539][/us/pl/103/87/s539], Sept. 30, 1993, [107 Stat. 957][/us/stat/107/957].
+    \[[Pub. L. 103–87, title V][/us/pl/103/87/tV], § 539, Sept. 30, 1993, [107 Stat. 957][/us/stat/107/957].
 
-    \[[Pub. L. 102–391, title V, § 573][/us/pl/102/391/s573], Oct. 6, 1992, [106 Stat. 1683][/us/stat/106/1683].\]
+    \[[Pub. L. 102–391, title V][/us/pl/102/391/tV], § 573, Oct. 6, 1992, [106 Stat. 1683][/us/stat/106/1683].\]
 
-[Pub. L. 101–510, div. A, title XIV, § 1458][/us/pl/101/510/s1458], Nov. 5, 1990, [104 Stat. 1697][/us/stat/104/1697], provided that: 
+[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1458, Nov. 5, 1990, [104 Stat. 1697][/us/stat/104/1697], provided that: 
 
 > “If the President considers that the taking of such action would promote the effectiveness of the economic sanctions of the United Nations and the United States imposed with respect to Iraq, and is consistent with the national interest, the President may prohibit, for such a period of time as he considers appropriate, the importation into the United States of any or all products of any foreign country that has not—
 
@@ -5001,7 +5001,7 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 
  __Iran Claims Settlement__ 
 
-    [Pub. L. 99–93, title V][/us/pl/99/93], Aug. 16, 1985, [99 Stat. 437][/us/stat/99/437], provided for the determination of the validity and amounts of claims by United States nationals against Iran which were settled en bloc by the United States.
+    [Pub. L. 99–93, title V][/us/pl/99/93/tV], Aug. 16, 1985, [99 Stat. 437][/us/stat/99/437], provided for the determination of the validity and amounts of claims by United States nationals against Iran which were settled en bloc by the United States.
 
  __EXECUTIVE DOCUMENTS DECLARING NATIONAL EMERGENCIES__ 
 
@@ -6232,26 +6232,26 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
 [/us/usc/t50/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702
 [/us/usc/t50/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702
-[/us/pl/95/223/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs202
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
-[/us/pl/110/96/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F96%2Fs1
+[/us/pl/110/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F96
 [/us/stat/121/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1011
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
-[/us/pl/109/353/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F353%2Fs1
+[/us/pl/109/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F353
 [/us/stat/120/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2015
-[/us/pl/109/293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs1
+[/us/pl/109/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293
 [/us/stat/120/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1344
 [/us/usc/t31/s5318A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318A
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/109/112/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112%2Fs1
+[/us/pl/109/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112
 [/us/stat/119/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2366
 [/us/usc/t22/s2797b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b
-[/us/pl/107/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F24%2Fs1
+[/us/pl/107/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F24
 [/us/stat/115/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F199
-[/us/pl/95/223/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs201
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
-[/us/pl/95/223/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs208
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1629
 [/us/pl/114/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F102
 [/us/stat/129/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2205
@@ -6276,14 +6276,14 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/239/s1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1284
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2035
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/110/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174
 [/us/stat/121/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2516
-[/us/pl/111/195/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs205%2Fa
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1344
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
@@ -6335,18 +6335,18 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/107/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F245
 [/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
-[/us/pl/109/293/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs101
+[/us/pl/109/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2FtI
 [/us/stat/120/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1344
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/pl/112/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F192
 [/us/stat/126/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1441
-[/us/pl/113/235/s7043/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7043%2Fb%2F8%2FA
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2648
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1209
-[/us/pl/113/235/s7043/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7043%2Fb%2F8%2FB
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2648
 [/us/pl/112/192/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F192%2Fs3%2F3
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
@@ -6371,13 +6371,13 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/110/286/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286%2Fs5%2Fa%2F2
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
 [/us/stat/117/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F864
-[/us/pl/109/251/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F251%2Fs1
+[/us/pl/109/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F251
 [/us/stat/120/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F654
 [/us/pl/110/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286
 [/us/stat/122/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2638
-[/us/pl/111/42/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F42%2Fs101
+[/us/pl/111/42/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F42%2FtI
 [/us/stat/123/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1963
-[/us/pl/112/163/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs3%2Fa
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/stat/126/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1277
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2291j–1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j%E2%80%931%2F2
@@ -6385,9 +6385,9 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/usc/t19/s3902/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3902%2F6
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
-[/us/pl/110/286/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286%2Fs6%2Fb%2F1
+[/us/pl/110/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286
 [/us/pl/110/286/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286%2Fs6%2Fb%2F3
-[/us/pl/109/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F251%2Fs3
+[/us/pl/109/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F251
 [/us/stat/120/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F654
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
@@ -6398,43 +6398,43 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/108/61/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61%2Fs3%2Fb
 [/us/pl/108/61/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61%2Fs4
 [/us/pl/108/61/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61%2Fs5%2Fa
-[/us/pl/112/74/s7044/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7044%2Fb%2F1
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1230
-[/us/pl/111/117/s7071/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7071%2Fb%2F1
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3388
-[/us/pl/111/8/s7071/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7071%2Fb%2F1
+[/us/pl/111/8/dH/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdH%2FtVII
 [/us/stat/123/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F903
-[/us/pl/110/161/s638/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs638%2Fb%2F1
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2333
-[/us/pl/109/102/s526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs526%2Fa
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2205
-[/us/pl/108/447/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs531%2Fa
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3004
-[/us/pl/108/199/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs531%2Fa
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F180
-[/us/pl/112/163/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs3%2Fb
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/stat/126/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1277
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
-[/us/pl/112/36/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F36%2Fs140
+[/us/pl/112/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F36
 [/us/stat/125/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F391
-[/us/pl/112/33/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F33%2Fs140
+[/us/pl/112/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F33
 [/us/stat/125/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F368
-[/us/pl/111/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F210%2Fs1
+[/us/pl/111/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F210
 [/us/stat/124/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2256
-[/us/pl/111/42/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F42%2Fs102
+[/us/pl/111/42/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F42%2FtI
 [/us/stat/123/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1963
-[/us/pl/110/287/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F287%2Fs1
+[/us/pl/110/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F287
 [/us/stat/122/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2649
 [/us/pl/110/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F52
 [/us/stat/121/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F264
-[/us/pl/109/251/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F251%2Fs2
+[/us/pl/109/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F251
 [/us/stat/120/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F654
 [/us/pl/109/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F39
 [/us/stat/119/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F409
 [/us/pl/108/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F272
 [/us/stat/118/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F818
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/110/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286
@@ -6458,53 +6458,53 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/stat/118/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F143
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/109/344/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344%2Fs8%2Fb
+[/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/stat/120/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1879
 [/us/usc/t22/s288f–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288f%E2%80%932
 [/us/pl/108/497/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497%2Fs6
 [/us/pl/107/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F245
 [/us/stat/116/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1504
-[/us/pl/108/497/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497%2Fs5
+[/us/pl/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497
 [/us/stat/118/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4016
-[/us/pl/109/344/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344%2Fs9
+[/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/stat/120/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1880
 [/us/pl/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497
 [/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/pl/107/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F245
 [/us/pl/107/245/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F245%2Fs6%2Fe
-[/us/pl/108/199/s534/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs534%2Fj
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F182
 [/us/pl/106/570/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2Fs501
-[/us/pl/106/570/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2Fs501
+[/us/pl/106/570/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtV
 [/us/stat/114/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3050
-[/us/pl/109/344/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344%2Fs8%2Fa
+[/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/stat/120/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1879
 [/us/pl/106/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F178
 [/us/stat/114/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F38
-[/us/pl/107/228/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1306
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1438
 [/us/pl/109/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112
 [/us/stat/119/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2368
-[/us/pl/109/353/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F353%2Fs3
+[/us/pl/109/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F353
 [/us/stat/120/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2015
-[/us/pl/110/329/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs125
+[/us/pl/110/329/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdA
 [/us/stat/122/3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3577
-[/us/pl/112/273/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273%2Fs4
+[/us/pl/112/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273
 [/us/stat/126/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2454
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
-[/us/pl/109/112/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112%2Fs4%2Fe%2F2
+[/us/pl/109/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112
 [/us/stat/119/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2370
 [/us/pl/106/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F198
 [/us/pl/106/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F178
-[/us/pl/105/261/s1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1237
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2160
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1222
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2089
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
@@ -6515,13 +6515,13 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/stat/110/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1541
 [/us/pl/107/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F24
 [/us/stat/115/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F199
-[/us/pl/109/267/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F267%2Fs1
+[/us/pl/109/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F267
 [/us/stat/120/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F680
-[/us/pl/109/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293
+[/us/pl/109/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2FtII
 [/us/stat/120/1345-1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1345-1347
-[/us/pl/111/195/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs102%2Fa
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1317-1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1317-1324
-[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1219
 [/us/usc/t22/s8513a/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513a%2Fd%2F4%2FB
 [/us/usc/t22/s8513a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513a%2Fd
@@ -6548,18 +6548,18 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t50/s4611/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4611%2Fe%2F2
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t42/s2014/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Faa
-[/us/pl/112/158/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs202%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1223
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
-[/us/pl/112/158/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs204%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1226
 [/us/pl/104/172/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172%2Fs6%2Fa
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
-[/us/pl/112/158/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs207%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1227
 [/us/pl/104/172/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172%2Fs14
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
-[/us/pl/111/195/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs102%2Fh
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1325
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
@@ -6569,13 +6569,13 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t22/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8511
 [/us/pl/111/195/s102/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs102%2Fh%2F5
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501
-[/us/pl/109/293/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs202%2Fc
+[/us/pl/109/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2FtII
 [/us/stat/120/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1346
 [/us/pl/104/172/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172%2Fs5
-[/us/pl/109/293/s205/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs205%2Fg%2F2
+[/us/pl/109/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2FtII
 [/us/stat/120/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1347
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
-[/us/pl/107/24/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F24%2Fs2%2Fb
+[/us/pl/107/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F24
 [/us/stat/115/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F199
 [/us/pl/104/172/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172%2Fs5
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
@@ -6586,24 +6586,24 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/107/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F24
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/104/107/s540A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs540A%2Fa
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F737
-[/us/pl/103/160/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1511
+[/us/pl/103/160/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXV
 [/us/stat/107/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1839
 [/us/pl/103/160/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1511
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVI
 [/us/stat/106/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2571
-[/us/pl/104/106/s1408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1408%2Fa
+[/us/pl/104/106/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIV
 [/us/stat/110/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F494
-[/us/pl/107/228/s1308/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308%2Fg%2F1%2FC
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1441
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
@@ -6612,19 +6612,19 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/107/228/s1308/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308%2Fg%2F1%2FC
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1441
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs635
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/101/519/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F519%2Fs131
+[/us/pl/101/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F519
 [/us/stat/104/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2249
-[/us/pl/102/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2Fs402%2Fa
+[/us/pl/102/27/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2FtIV
 [/us/stat/105/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F155
-[/us/pl/102/136/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F136%2Fs126
+[/us/pl/102/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F136
 [/us/stat/105/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F643
-[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2047-2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2047-2054
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -6650,29 +6650,29 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/pl/101/513/s586D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs586D
-[/us/pl/108/7/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs531
+[/us/pl/108/7/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdE%2FtV
 [/us/stat/117/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F192
-[/us/pl/107/115/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs531
+[/us/pl/107/115/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2FtV
 [/us/stat/115/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2150
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/105/118/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs534
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2416
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/104/107/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs534
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F734
-[/us/pl/103/306/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs538
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1639
-[/us/pl/103/87/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2Fs539
+[/us/pl/103/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2FtV
 [/us/stat/107/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F957
-[/us/pl/102/391/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs573
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1683
-[/us/pl/101/510/s1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1458
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1697
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
 [/us/stat/117/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F579
@@ -6680,7 +6680,7 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
-[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtV
 [/us/stat/99/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F437
 
 

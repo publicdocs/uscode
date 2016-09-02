@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Civil Liberties Act of 1988”.
 
-([Pub. L. 100–383, title I, § 101][/us/pl/100/383/s101], Aug. 10, 1988, [102 Stat. 904][/us/stat/102/904].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 101, Aug. 10, 1988, [102 Stat. 904][/us/stat/102/904].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–371, § 1][/us/pl/102/371/s1], Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167], provided that: 
+[Pub. L. 102–371][/us/pl/102/371], § 1, Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Civil Liberties Act Amendments of 1992’.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/100/383/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs101
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F904
-[/us/pl/102/371/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs1
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/stat/106/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1167
 
 

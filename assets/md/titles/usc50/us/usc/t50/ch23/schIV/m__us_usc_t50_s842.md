@@ -17,7 +17,7 @@
 
     The Communist Party of the United States, or any successors of such party regardless of the assumed name, whose object or purpose is to overthrow the Government of the United States, or the government of any State, Territory, District, or possession thereof, or the government of any political subdivision therein by force and violence, are not entitled to any of the rights, privileges, and immunities attendant upon legal bodies created under the jurisdiction of the laws of the United States or any political subdivision thereof; and whatever rights, privileges, and immunities which have heretofore been granted to said party or any subsidiary organization by reason of the laws of the United States or any political subdivision thereof, are terminated: Provided, however, That nothing in this section shall be construed as amending the Internal Security Act of 1950, as amended \[[50 U.S.C. 781][/us/usc/t50/s781] et seq.\]
 
-([Aug. 24, 1954, ch. 886, § 3][/us/act/1954-08-24/ch886/s3], [68 Stat. 776][/us/stat/68/776].)
+([Aug. 24, 1954, ch. 886][/us/act/1954-08-24/ch886], § 3, [68 Stat. 776][/us/stat/68/776].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t50/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs781
-[/us/act/1954-08-24/ch886/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886%2Fs3
+[/us/act/1954-08-24/ch886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch886
 [/us/stat/68/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F776
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F987

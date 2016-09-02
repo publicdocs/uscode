@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch28/m__us_usc_t50_ch28.md) | [Next](./../../../..//us/usc/t50/ch29/m__us_usc_t50_s1431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch29)
+[Previous](./../../../..//us/usc/t50/ch28/m__us_usc_t50_s1411...1414.md) | [Next](./../../../..//us/usc/t50/ch29/m__us_usc_t50_s1431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch29)
 
 ## CHAPTER 29—NATIONAL DEFENSE CONTRACTS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch28/m__us_usc_t50_ch28.md) | [Next](./../../../..//us/usc/t50/ch29/m__us_usc_t50_s1431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch29)
+[Previous](./../../../..//us/usc/t50/ch28/m__us_usc_t50_s1411...1414.md) | [Next](./../../../..//us/usc/t50/ch29/m__us_usc_t50_s1431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch29)
 
 ----------
 ----------

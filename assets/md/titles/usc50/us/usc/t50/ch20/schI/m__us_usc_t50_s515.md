@@ -17,7 +17,7 @@
 
     The Administrator shall submit semi-annual written reports to the Congress covering the selection of institutions and contracts entered into pursuant to [section 512 of this title][/us/usc/t50/s512] together with other pertinent information relative to the Administrator’s activities and accomplishments thereunder.
 
-([Oct. 27, 1949, ch. 766][/us/act/1949-10-27/ch766], title I, § 105, [63 Stat. 937][/us/stat/63/937]; [Pub. L. 85–568, title III, § 301(d)(2)][/us/pl/85/568/s301/d/2], July 29, 1958, [72 Stat. 433][/us/stat/72/433].)
+([Oct. 27, 1949, ch. 766][/us/act/1949-10-27/ch766], title I, § 105, [63 Stat. 937][/us/stat/63/937]; [Pub. L. 85–568, title III][/us/pl/85/568/tIII], § 301(d)(2), July 29, 1958, [72 Stat. 433][/us/stat/72/433].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t50/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs512
 [/us/act/1949-10-27/ch766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch766
 [/us/stat/63/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F937
-[/us/pl/85/568/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs301%2Fd%2F2
+[/us/pl/85/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2FtIII
 [/us/stat/72/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F433
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568

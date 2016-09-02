@@ -35,7 +35,7 @@
 
         (2) the death, separation, or retirement of the employee or the member of the Armed Forces whose conduct gave rise to the award, or the assignment of such member to duties other than foreign intelligence duties.
 
-([Pub. L. 98–215, title IV, § 402][/us/pl/98/215/s402], Dec. 9, 1983, [97 Stat. 1477][/us/stat/97/1477]; [Pub. L. 99–569, title V, § 503][/us/pl/99/569/s503], Oct. 27, 1986, [100 Stat. 3198][/us/stat/100/3198].)
+([Pub. L. 98–215, title IV][/us/pl/98/215/tIV], § 402, Dec. 9, 1983, [97 Stat. 1477][/us/stat/97/1477]; [Pub. L. 99–569, title V][/us/pl/99/569/tV], § 503, Oct. 27, 1986, [100 Stat. 3198][/us/stat/100/3198].)
 
  __Codification__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t5/s4503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4503%2F2
 [/us/usc/t5/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4503
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
-[/us/pl/98/215/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F215%2Fs402
+[/us/pl/98/215/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F215%2FtIV
 [/us/stat/97/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1477
-[/us/pl/99/569/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs503
+[/us/pl/99/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtV
 [/us/stat/100/3198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3198
 [/us/usc/t50/s403e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403e%E2%80%931
 [/us/pl/99/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569

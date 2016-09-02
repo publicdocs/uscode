@@ -71,7 +71,7 @@
 
         (4) Any official of the Office of Management and Budget.
 
-([Pub. L. 107–314, div. D, title XLII, § 4218][/us/pl/107/314/s4218], formerly [Pub. L. 105–85, div. A, title XIII, § 1305][/us/pl/105/85/s1305], Nov. 18, 1997, [111 Stat. 1952][/us/stat/111/1952], renumbered [Pub. L. 107–314, div. D, title XLII, § 4218][/us/pl/107/314/s4218], and amended [Pub. L. 112–239, div. C, title XXXI, § 3164(a)][/us/pl/112/239/s3164/a], (b), Jan. 2, 2013, [126 Stat. 2206][/us/stat/126/2206]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(D)][/us/pl/113/66/s3146/a/2/D], (c)(10), Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072], 1075; [Pub. L. 113–291, div. C, title XXXI, § 3142(e)][/us/pl/113/291/s3142/e], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4218, formerly [Pub. L. 105–85, div. A, title XIII][/us/pl/105/85/dA/tXIII], § 1305, Nov. 18, 1997, [111 Stat. 1952][/us/stat/111/1952], renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4218, and amended [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3164(a), (b), Jan. 2, 2013, [126 Stat. 2206][/us/stat/126/2206]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(a)(2)(D), (c)(10), Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072], 1075; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3142(e), Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
 
  __References in Text__ 
 
@@ -85,39 +85,39 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–291, § 3142(e)(1)][/us/pl/113/291/s3142/e/1], substituted “Commander” for “commander”.
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 3142(e)(1), substituted “Commander” for “commander”.
 
-    Subsec. (e)(1). [Pub. L. 113–291, § 3142(e)(2)][/us/pl/113/291/s3142/e/2], substituted “a representative” for “representatives” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 113–291][/us/pl/113/291], § 3142(e)(2), substituted “a representative” for “representatives” in introductory provisions.
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 3146(c)(10)(A)][/us/pl/113/66/s3146/c/10/A], (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
 
-    Subsec. (a)(9). [Pub. L. 112–239, § 3164(b)(1)][/us/pl/112/239/s3164/b/1], (3), substituted “national security laboratories” for “nuclear weapons laboratories” and “nuclear weapons production facilities” for “nuclear weapons production plants”.
+    Subsec. (a)(9). [Pub. L. 112–239][/us/pl/112/239], § 3164(b)(1), (3), substituted “national security laboratories” for “nuclear weapons laboratories” and “nuclear weapons production facilities” for “nuclear weapons production plants”.
 
-    Subsec. (a)(11). [Pub. L. 112–239, § 3164(b)(1)][/us/pl/112/239/s3164/b/1], substituted “national security laboratories” for “nuclear weapons laboratories”.
+    Subsec. (a)(11). [Pub. L. 112–239][/us/pl/112/239], § 3164(b)(1), substituted “national security laboratories” for “nuclear weapons laboratories”.
 
-    Subsec. (b). [Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-    Subsec. (b)(2). [Pub. L. 112–239, § 3164(b)(1)][/us/pl/112/239/s3164/b/1], (3), substituted “national security laboratories” for “nuclear weapons laboratories” and “nuclear weapons production facilities” for “nuclear weapons production plants”.
+    Subsec. (b)(2). [Pub. L. 112–239][/us/pl/112/239], § 3164(b)(1), (3), substituted “national security laboratories” for “nuclear weapons laboratories” and “nuclear weapons production facilities” for “nuclear weapons production plants”.
 
-    Subsec. (c). [Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(B), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], (C), redesignated subsec. (e) as (d) and substituted “under [section 2533 of this title][/us/usc/t50/s2533]” for “(under section 3159 of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [42 U.S.C. 7274][/us/usc/t42/s7274]o))”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(B), (C), redesignated subsec. (e) as (d) and substituted “under [section 2533 of this title][/us/usc/t50/s2533]” for “(under section 3159 of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [42 U.S.C. 7274][/us/usc/t42/s7274]o))”. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    [Pub. L. 113–66, § 3146(a)(2)(D)(i)][/us/pl/113/66/s3146/a/2/D/i], struck out “Joint” before “Nuclear Weapons Council”.
+    [Pub. L. 113–66][/us/pl/113/66], § 3146(a)(2)(D)(i), struck out “Joint” before “Nuclear Weapons Council”.
 
-    [Pub. L. 112–239, § 3164(b)(2)][/us/pl/112/239/s3164/b/2], (4), substituted “national security laboratory” for “nuclear weapons laboratory” and “nuclear weapons production facility” for “nuclear weapons production plant”.
+    [Pub. L. 112–239][/us/pl/112/239], § 3164(b)(2), (4), substituted “national security laboratory” for “nuclear weapons laboratory” and “nuclear weapons production facility” for “nuclear weapons production plant”.
 
-    Subsec. (f). [Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(B), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    [Pub. L. 112–239, § 3164(a)(4)][/us/pl/112/239/s3164/a/4], amended subsec. (f) generally. Prior to amendment, text read as follows: “A representative of the President may not take any action against, or otherwise constrain, a director of a nuclear weapons laboratory or a nuclear weapons production plant, a member of the Joint Nuclear Weapons Council, or the Commander of United States Strategic Command for presenting individual views to the President, the National Security Council, or Congress regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.”
+    [Pub. L. 112–239][/us/pl/112/239], § 3164(a)(4), amended subsec. (f) generally. Prior to amendment, text read as follows: “A representative of the President may not take any action against, or otherwise constrain, a director of a nuclear weapons laboratory or a nuclear weapons production plant, a member of the Joint Nuclear Weapons Council, or the Commander of United States Strategic Command for presenting individual views to the President, the National Security Council, or Congress regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.”
 
-    Subsec. (f)(1). [Pub. L. 113–66, § 3146(a)(2)(D)(ii)][/us/pl/113/66/s3146/a/2/D/ii], struck out “established under [section 179 of title 10][/us/usc/t10/s179]” after “Nuclear Weapons Council” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(a)(2)(D)(ii), struck out “established under [section 179 of title 10][/us/usc/t10/s179]” after “Nuclear Weapons Council” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 113–66, § 3146(c)(10)(B)][/us/pl/113/66/s3146/c/10/B], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 113–66][/us/pl/113/66], § 3146(c)(10)(B), redesignated subsec. (g) as (f).
 
-    [Pub. L. 112–239, § 3164(b)(5)][/us/pl/112/239/s3164/b/5], amended subsec. (g) generally. Prior to amendment, subsec. (g) set out definitions.
+    [Pub. L. 112–239][/us/pl/112/239], § 3164(b)(5), amended subsec. (g) generally. Prior to amendment, subsec. (g) set out definitions.
 
  __Transfer of Functions__ 
 
@@ -133,15 +133,15 @@
 ----------
 
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
-[/us/pl/107/314/s4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218
-[/us/pl/105/85/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1305
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/105/85/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXIII
 [/us/stat/111/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1952
-[/us/pl/107/314/s4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218
-[/us/pl/112/239/s3164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fa
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2206
-[/us/pl/113/66/s3146/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FD
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
-[/us/pl/113/291/s3142/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fe
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
@@ -151,27 +151,27 @@
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
 [/us/usc/t42/s7274p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274p
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/113/291/s3142/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fe%2F1
-[/us/pl/113/291/s3142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fe%2F2
-[/us/pl/113/66/s3146/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FA
-[/us/pl/112/239/s3164/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F1
-[/us/pl/112/239/s3164/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F1
-[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
-[/us/pl/112/239/s3164/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F1
-[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
-[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t50/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2533
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t42/s7274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274
-[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
-[/us/pl/113/66/s3146/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FD%2Fi
-[/us/pl/112/239/s3164/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F2
-[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
-[/us/pl/112/239/s3164/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fa%2F4
-[/us/pl/113/66/s3146/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FD%2Fii
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
-[/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
-[/us/pl/112/239/s3164/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fb%2F5
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t50/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481
 

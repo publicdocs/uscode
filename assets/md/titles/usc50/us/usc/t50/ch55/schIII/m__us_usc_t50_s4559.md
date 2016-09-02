@@ -43,7 +43,7 @@
 
         Any procurement policy, regulation, procedure, or form (including any amendment or modification of any such policy, regulation, procedure, or form) issued under this chapter shall be subject to [section 1707 of title 41][/us/usc/t41/s1707].
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 709, [64 Stat. 819][/us/stat/64/819]; [Pub. L. 102–558, title I, § 136(a)][/us/pl/102/558/s136/a], Oct. 28, 1992, [106 Stat. 4216][/us/stat/106/4216].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 709, [64 Stat. 819][/us/stat/64/819]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 136(a), Oct. 28, 1992, [106 Stat. 4216][/us/stat/106/4216].)
 
  __Termination of Section__ 
 
@@ -57,7 +57,7 @@
 
     Section was formerly classified to section 2159 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (c), “[section 1707 of title 41][/us/usc/t41/s1707]” substituted for “section 22 of the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “[section 1707 of title 41][/us/usc/t41/s1707]” substituted for “section 22 of the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–558, title I, § 136(b)][/us/pl/102/558/s136/b], Oct. 28, 1992, [106 Stat. 4217][/us/stat/106/4217], provided that: 
+[Pub. L. 102–558, title I][/us/pl/102/558/tI], § 136(b), Oct. 28, 1992, [106 Stat. 4217][/us/stat/106/4217], provided that: 
 
 > “Section 709 of the Defense Production Act of 1950 (50 U.S.C. App. 2159) \[now [50 U.S.C. 4559][/us/usc/t50/s4559]\], as amended by subsection (a) of this section, shall not apply to any regulation issued in proposed or final form on or before the date of enactment of this Act \[Oct. 28, 1992\].”
 
@@ -80,18 +80,18 @@
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F819
-[/us/pl/102/558/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs136%2Fa
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4216
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/stat/60/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F237
-[/us/pl/102/558/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs136%2Fb
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4217
 [/us/usc/t50/s4559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4559
 

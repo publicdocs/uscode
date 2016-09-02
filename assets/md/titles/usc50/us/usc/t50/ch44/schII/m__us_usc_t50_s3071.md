@@ -107,7 +107,7 @@
 
         In addition to any other payment that is required to be made under subchapter III of chapter 83 or chapter 84 of title 5, the National Security Agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, an amount equal to 15 percent of the final basic pay of each employee to whom a voluntary separation payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 ([5 U.S.C. 8331][/us/usc/t5/s8331] note).
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title III, § 301, as added [Pub. L. 106–567, title III, § 304(a)][/us/pl/106/567/s304/a], Dec. 27, 2000, [114 Stat. 2836][/us/stat/114/2836]; amended [Pub. L. 107–306, title III, § 353(b)(2)(A)][/us/pl/107/306/s353/b/2/A], title VIII, § 841(b), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402], 2431.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title III, § 301, as added [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 304(a), Dec. 27, 2000, [114 Stat. 2836][/us/stat/114/2836]; amended [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(2)(A), title VIII, § 841(b), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402], 2431.)
 
  __References in Text__ 
 
@@ -119,15 +119,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 301 of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title III, [61 Stat. 507][/us/stat/61/507]; [Apr. 2, 1949, ch. 47, § 2][/us/act/1949-04-02/ch47/s2], [63 Stat. 31][/us/stat/63/31]; [Aug. 10, 1949, ch. 412, § 10(a)][/us/act/1949-08-10/ch412/s10/a], [63 Stat. 585][/us/stat/63/585], was classified to sections 171b and 171c–1 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632].
+    A prior section 301 of [act July 26, 1947, ch. 343, title III][/us/act/1947-07-26/ch343/tIII], [61 Stat. 507][/us/stat/61/507]; [Apr. 2, 1949, ch. 47][/us/act/1949-04-02/ch47], § 2, [63 Stat. 31][/us/stat/63/31]; [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 10(a), [63 Stat. 585][/us/stat/63/585], was classified to sections 171b and 171c–1 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632].
 
  __Amendments__ 
 
-    2002—Subsec. (j). [Pub. L. 107–306, § 841(b)][/us/pl/107/306/s841/b], substituted “Notification of exercise of authority” for “Reporting requirements” in subsec. heading and struck out “(1) Notification.—” before “The Director may” and par. (2) which read as follows:
+    2002—Subsec. (j). [Pub. L. 107–306][/us/pl/107/306], § 841(b), substituted “Notification of exercise of authority” for “Reporting requirements” in subsec. heading and struck out “(1) Notification.—” before “The Director may” and par. (2) which read as follows:
 
     “(2) Annual report.—The Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate an annual report on the effectiveness and costs of carrying out this section.”
 
-    [Pub. L. 107–306, § 353(b)(2)(A)][/us/pl/107/306/s353/b/2/A], substituted “congressional intelligence committees” for “Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
+    [Pub. L. 107–306][/us/pl/107/306], § 353(b)(2)(A), substituted “congressional intelligence committees” for “Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
 ----------
 
@@ -141,22 +141,22 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/106/567/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs304%2Fa
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2836
-[/us/pl/107/306/s353/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F2%2FA
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
 [/us/pl/103/226/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs4%2Fa
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
 [/us/usc/t50/s409a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs409a
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtIII
 [/us/stat/61/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F507
-[/us/act/1949-04-02/ch47/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-02%2Fch47%2Fs2
+[/us/act/1949-04-02/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-02%2Fch47
 [/us/stat/63/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F31
-[/us/act/1949-08-10/ch412/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs10%2Fa
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/pl/107/306/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs841%2Fb
-[/us/pl/107/306/s353/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F2%2FA
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 
 

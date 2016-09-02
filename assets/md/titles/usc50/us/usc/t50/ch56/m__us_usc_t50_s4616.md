@@ -29,7 +29,7 @@
 
         (5) actions taken to carry out [section 4604(d) of this title][/us/usc/t50/s4604/d];
 
-        (6) changes in categories of items under export control referred to in [section 4606(e) of this title][/us/usc/t50/s4606/e];
+        (6) changes in categories of items under export control referred to in [section 4604(e) of this title][/us/usc/t50/s4604/e];
 
         (7) determinations of foreign availability made under [section 4604(f) of this title][/us/usc/t50/s4604/f], the criteria used to make such determinations, the removal of any export controls under such section, and any evidence demonstrating a need to impose export controls for national security purposes notwithstanding foreign availability;
 
@@ -87,7 +87,7 @@
 
         The President shall submit an annual report to the Congress estimating the additional defense expenditures of the United States arising from illegal technology transfers, focusing on estimated defense costs arising from illegal technology transfers that resulted in a serious adverse impact on the strategic balance of forces. These estimates shall be based on assessment by the intelligence community of any technology transfers that resulted in such serious adverse impact. This report may have a classified annex covering any information of a sensitive nature.
 
-([Pub. L. 96–72, § 14][/us/pl/96/72/s14], Sept. 29, 1979, [93 Stat. 532][/us/stat/93/532]; [Pub. L. 99–64, title I, § 115][/us/pl/99/64/s115], July 12, 1985, [99 Stat. 152][/us/stat/99/152]; [Pub. L. 100–418, title II][/us/pl/100/418], §§ 2418(c), 2445, Aug. 23, 1988, [102 Stat. 1357][/us/stat/102/1357], 1369.)
+([Pub. L. 96–72][/us/pl/96/72], § 14, Sept. 29, 1979, [93 Stat. 532][/us/stat/93/532]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 115, July 12, 1985, [99 Stat. 152][/us/stat/99/152]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2418(c), 2445, Aug. 23, 1988, [102 Stat. 1357][/us/stat/102/1357], 1369.)
 
  __Termination Date__ 
 
@@ -97,23 +97,23 @@
 
     This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t50/s4601] and Tables.
 
-    [Section 612c–3 of title 7][/us/usc/t7/s612c–3], referred to in subsec. (a)(13)(A), was repealed by [Pub. L. 101–624, title XV, § 1578][/us/pl/101/624/s1578], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712], Agriculture.
+    [Section 612c–3 of title 7][/us/usc/t7/s612c–3], referred to in subsec. (a)(13)(A), was repealed by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1578, Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]. See [section 5712 of Title 7][/us/usc/t7/s5712], Agriculture.
 
  __Codification__ 
 
     Section was formerly classified to section 2413 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2413 of the former Appendix to this title, [Pub. L. 91–184, § 15][/us/pl/91/184/s15], formerly § 14, Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 92–37][/us/pl/92/37], June 30, 1971, [85 Stat. 89][/us/stat/85/89]; [Pub. L. 92–150][/us/pl/92/150], Oct. 30, 1971, [85 Stat. 416][/us/stat/85/416]; [Pub. L. 92–284][/us/pl/92/284], Apr. 29, 1972, [86 Stat. 133][/us/stat/86/133]; [Pub. L. 92–412, title I, § 106][/us/pl/92/412/s106], Aug. 29, 1972, [86 Stat. 646][/us/stat/86/646]; [Pub. L. 93–327][/us/pl/93/327], June 30, 1974, [88 Stat. 287][/us/stat/88/287]; [Pub. L. 93–372][/us/pl/93/372], Aug. 14, 1974, [88 Stat. 444][/us/stat/88/444]; [Pub. L. 93–500, § 13][/us/pl/93/500/s13], Oct. 29, 1974, [88 Stat. 1557][/us/stat/88/1557]; renumbered § 15 and amended [Pub. L. 95–52, title I][/us/pl/95/52], §§ 101, 102, June 22, 1977, [91 Stat. 235][/us/stat/91/235], provided for the termination of authority granted by the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
+    A prior section 2413 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 15, formerly § 14, Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 92–37][/us/pl/92/37], June 30, 1971, [85 Stat. 89][/us/stat/85/89]; [Pub. L. 92–150][/us/pl/92/150], Oct. 30, 1971, [85 Stat. 416][/us/stat/85/416]; [Pub. L. 92–284][/us/pl/92/284], Apr. 29, 1972, [86 Stat. 133][/us/stat/86/133]; [Pub. L. 92–412, title I][/us/pl/92/412/tI], § 106, Aug. 29, 1972, [86 Stat. 646][/us/stat/86/646]; [Pub. L. 93–327][/us/pl/93/327], June 30, 1974, [88 Stat. 287][/us/stat/88/287]; [Pub. L. 93–372][/us/pl/93/372], Aug. 14, 1974, [88 Stat. 444][/us/stat/88/444]; [Pub. L. 93–500][/us/pl/93/500], § 13, Oct. 29, 1974, [88 Stat. 1557][/us/stat/88/1557]; renumbered § 15 and amended [Pub. L. 95–52, title I][/us/pl/95/52/tI], §§ 101, 102, June 22, 1977, [91 Stat. 235][/us/stat/91/235], provided for the termination of authority granted by the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
 
  __Amendments__ 
 
-    1988—Subsec. (a)(8). [Pub. L. 100–418, § 2418(c)][/us/pl/100/418/s2418/c], substituted “4604(f)(6) of this title” for “4604(f)(5) of this title”.
+    1988—Subsec. (a)(8). [Pub. L. 100–418][/us/pl/100/418], § 2418(c), substituted “4604(f)(6) of this title” for “4604(f)(5) of this title”.
 
-    Subsec. (f). [Pub. L. 100–418, § 2445][/us/pl/100/418/s2445], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–418][/us/pl/100/418], § 2445, added subsec. (f).
 
-    1985—Subsec. (a)(15). [Pub. L. 99–64, § 115(a)][/us/pl/99/64/s115/a], struck out “an analysis of the time required to process license applications, the number and disposition of export license applications taking more than 30 days to process, and” after “requirements of section 10, including”.
+    1985—Subsec. (a)(15). [Pub. L. 99–64][/us/pl/99/64], § 115(a), struck out “an analysis of the time required to process license applications, the number and disposition of export license applications taking more than 30 days to process, and” after “requirements of section 10, including”.
 
-    Subsecs. (d), (e). [Pub. L. 99–64, § 115(b)][/us/pl/99/64/s115/b], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 99–64][/us/pl/99/64], § 115(b), added subsecs. (d) and (e).
 
  __Delegation of Functions__ 
 
@@ -130,7 +130,7 @@
 [/us/usc/t50/s4604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fb
 [/us/usc/t50/s4604/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fc%2F3
 [/us/usc/t50/s4604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fd
-[/us/usc/t50/s4606/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606%2Fe
+[/us/usc/t50/s4604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fe
 [/us/usc/t50/s4604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Ff
 [/us/usc/t50/s4604/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Ff%2F6
 [/us/usc/t50/s4604/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fg
@@ -149,21 +149,21 @@
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
 [/us/usc/t50/s4604/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fi
 [/us/usc/t50/s4614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fc
-[/us/pl/96/72/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs14
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F532
-[/us/pl/99/64/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs115
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F152
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1357
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t7/s612c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933
-[/us/pl/101/624/s1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1578
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
 [/us/usc/t7/s5712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5712
-[/us/pl/91/184/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs15
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F847
 [/us/pl/92/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F37
 [/us/stat/85/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F89
@@ -171,20 +171,20 @@
 [/us/stat/85/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F416
 [/us/pl/92/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F284
 [/us/stat/86/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F133
-[/us/pl/92/412/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2Fs106
+[/us/pl/92/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2FtI
 [/us/stat/86/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F646
 [/us/pl/93/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F327
 [/us/stat/88/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F287
 [/us/pl/93/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F372
 [/us/stat/88/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F444
-[/us/pl/93/500/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500%2Fs13
+[/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1557
-[/us/pl/95/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F235
-[/us/pl/100/418/s2418/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2418%2Fc
-[/us/pl/100/418/s2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2445
-[/us/pl/99/64/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs115%2Fa
-[/us/pl/99/64/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs115%2Fb
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
 
 

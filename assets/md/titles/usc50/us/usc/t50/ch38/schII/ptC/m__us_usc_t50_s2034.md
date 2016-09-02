@@ -79,11 +79,11 @@
 
         Notwithstanding subsection (d)(1) of this section, the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2) of this section.
 
-([Pub. L. 88–643, title II, § 224][/us/pl/88/643/s224], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3217][/us/stat/106/3217]; amended [Pub. L. 103–178, title II, § 202(a)(6)][/us/pl/103/178/s202/a/6], Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 224, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3217][/us/stat/106/3217]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(6), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026].)
 
  __Prior Provisions__ 
 
-    A prior [section 224 of Pub. L. 88–643][/us/pl/88/643/s224], as added [Pub. L. 99–569, title III, § 302(a)][/us/pl/99/569/s302/a], Oct. 27, 1986, [100 Stat. 3192][/us/stat/100/3192]; amended [Pub. L. 100–453, title III, § 302(b)(1)][/us/pl/100/453/s302/b/1], Sept. 29, 1988, [102 Stat. 1907][/us/stat/102/1907]; [Pub. L. 101–193, title III, § 304(a)][/us/pl/101/193/s304/a], Nov. 30, 1989, [103 Stat. 1703][/us/stat/103/1703]; [Pub. L. 102–88, title III, § 307(a)][/us/pl/102/88/s307/a], Aug. 14, 1991, [105 Stat. 432][/us/stat/105/432]; [Pub. L. 102–183, title III, § 304][/us/pl/102/183/s304], Dec. 4, 1991, [105 Stat. 1264][/us/stat/105/1264], related to survivor annuities for certain other former spouses and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 224 of Pub. L. 88–643][/us/pl/88/643/s224], as added [Pub. L. 99–569, title III][/us/pl/99/569/tIII], § 302(a), Oct. 27, 1986, [100 Stat. 3192][/us/stat/100/3192]; amended [Pub. L. 100–453, title III][/us/pl/100/453/tIII], § 302(b)(1), Sept. 29, 1988, [102 Stat. 1907][/us/stat/102/1907]; [Pub. L. 101–193, title III][/us/pl/101/193/tIII], § 304(a), Nov. 30, 1989, [103 Stat. 1703][/us/stat/103/1703]; [Pub. L. 102–88, title III][/us/pl/102/88/tIII], § 307(a), Aug. 14, 1991, [105 Stat. 432][/us/stat/105/432]; [Pub. L. 102–183, title III][/us/pl/102/183/tIII], § 304, Dec. 4, 1991, [105 Stat. 1264][/us/stat/105/1264], related to survivor annuities for certain other former spouses and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -103,21 +103,21 @@
 [/us/usc/t50/s2031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2031%2Fa
 [/us/usc/t50/s2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2143
 [/us/usc/t50/s2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2033
-[/us/pl/88/643/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs224
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3217
-[/us/pl/103/178/s202/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F6
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2026
 [/us/pl/88/643/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs224
-[/us/pl/99/569/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs302%2Fa
+[/us/pl/99/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIII
 [/us/stat/100/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3192
-[/us/pl/100/453/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2Fs302%2Fb%2F1
+[/us/pl/100/453/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2FtIII
 [/us/stat/102/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1907
-[/us/pl/101/193/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs304%2Fa
+[/us/pl/101/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtIII
 [/us/stat/103/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1703
-[/us/pl/102/88/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs307%2Fa
+[/us/pl/102/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIII
 [/us/stat/105/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F432
-[/us/pl/102/183/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs304
+[/us/pl/102/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIII
 [/us/stat/105/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1264
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

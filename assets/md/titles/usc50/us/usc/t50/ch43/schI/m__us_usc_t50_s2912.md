@@ -51,7 +51,7 @@
 
             The limitation in paragraph (1) shall not apply to any transfer, not involving significant military equipment, in which the primary use of the aircraft or vessel will be for counternarcotics, counterterrorism, or counter-proliferation purposes.
 
-([Pub. L. 110–53, title XVIII, § 1822][/us/pl/110/53/s1822], Aug. 3, 2007, [121 Stat. 495][/us/stat/121/495].)
+([Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1822, Aug. 3, 2007, [121 Stat. 495][/us/stat/121/495].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 [/us/usc/t22/s2321j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321j
 [/us/usc/t22/s2394–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931%2Fa
 [/us/usc/t22/s2394–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931%2Fa
-[/us/pl/110/53/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1822
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F495
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

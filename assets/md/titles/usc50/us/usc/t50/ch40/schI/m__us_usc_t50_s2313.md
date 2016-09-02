@@ -31,7 +31,7 @@
 
         Of the total amount authorized to be appropriated under section 301, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $15,000,000 is available for providing assistance described in subsection (a) of this section.
 
-([Pub. L. 104–201, div. A, title XIV, § 1413][/us/pl/104/201/s1413], Sept. 23, 1996, [110 Stat. 2719][/us/stat/110/2719]; [Pub. L. 109–163, div. A, title X, § 1031][/us/pl/109/163/s1031], Jan. 6, 2006, [119 Stat. 3428][/us/stat/119/3428].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1413, Sept. 23, 1996, [110 Stat. 2719][/us/stat/110/2719]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1031, Jan. 6, 2006, [119 Stat. 3428][/us/stat/119/3428].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Transfer of Technology Items and Equipment in Support of Homeland Security__ 
 
-[Pub. L. 107–314, div. A, title XIV, § 1401][/us/pl/107/314/s1401], Dec. 2, 2002, [116 Stat. 2674][/us/stat/116/2674], provided that:
+[Pub. L. 107–314, div. A, title XIV][/us/pl/107/314/dA/tXIV], § 1401, Dec. 2, 2002, [116 Stat. 2674][/us/stat/116/2674], provided that:
 
 >     “(a)  __Responsible Senior Official__  __.—__ 
 
@@ -92,14 +92,14 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1413
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2719
-[/us/pl/109/163/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1031
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3428
 [/us/pl/104/201/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs301
 [/us/stat/110/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2475
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/107/314/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1401
+[/us/pl/107/314/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXIV
 [/us/stat/116/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2674
 
 

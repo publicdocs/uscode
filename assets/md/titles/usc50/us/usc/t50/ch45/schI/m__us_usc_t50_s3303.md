@@ -19,7 +19,7 @@
 
     (b) As used in this section, the term “intelligence community” has the same meaning given that term in [section 3003(4) of this title][/us/usc/t50/s3003/4].
 
-([Pub. L. 103–335, title VIII, § 8131][/us/pl/103/335/s8131], Sept. 30, 1994, [108 Stat. 2653][/us/stat/108/2653].)
+([Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8131, Sept. 30, 1994, [108 Stat. 2653][/us/stat/108/2653].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/103/335/s8131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8131
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2653
 [/us/usc/t50/s403–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%932a
 

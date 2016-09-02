@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s167e.md) | [Next](./../../../..//us/usc/t50/ch10/m__us_usc_t50_s167g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167f)
 
-## § 167f. Repealed. [Pub. L. 113–40, § 7(b)][/us/pl/113/40/s7/b], Oct. 2, 2013, [127 Stat. 544][/us/stat/127/544]
+## § 167f. Repealed. [Pub. L. 113–40][/us/pl/113/40], § 7(b), Oct. 2, 2013, [127 Stat. 544][/us/stat/127/544]
 
-    Section, [act Mar. 3, 1925, ch. 426, § 8][/us/act/1925-03-03/ch426/s8], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 922][/us/stat/74/922]; amended [Pub. L. 104–273, § 5][/us/pl/104/273/s5], Oct. 9, 1996, [110 Stat. 3318][/us/stat/110/3318], related to elimination of helium stockpile.
+    Section, [act Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 8, as added [Pub. L. 86–777][/us/pl/86/777], § 2, Sept. 13, 1960, [74 Stat. 922][/us/stat/74/922]; amended [Pub. L. 104–273][/us/pl/104/273], § 5, Oct. 9, 1996, [110 Stat. 3318][/us/stat/110/3318], related to elimination of helium stockpile.
 
 ----------
 
@@ -24,12 +24,12 @@
 ----------
 ----------
 
-[/us/pl/113/40/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs7%2Fb
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F544
-[/us/act/1925-03-03/ch426/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs8
-[/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
 [/us/stat/74/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F922
-[/us/pl/104/273/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273%2Fs5
+[/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 [/us/stat/110/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3318
 
 

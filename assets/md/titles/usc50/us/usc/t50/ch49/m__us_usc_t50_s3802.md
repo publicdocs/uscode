@@ -19,7 +19,7 @@
 
     (b) Regulations prescribed pursuant to subsection (a) may require that persons presenting themselves for and submitting to registration under this section provide, as part of such registration, such identifying information (including date of birth, address, and social security account number) as such regulations may prescribe.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 3, [62 Stat. 605][/us/stat/62/605]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(c), [65 Stat. 76][/us/stat/65/76]; [Pub. L. 92–129, title I, § 101(a)(2)][/us/pl/92/129/s101/a/2], Sept. 28, 1971, [85 Stat. 348][/us/stat/85/348]; [Pub. L. 97–86, title IX, § 916(a)][/us/pl/97/86/s916/a], Dec. 1, 1981, [95 Stat. 1129][/us/stat/95/1129].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 3, [62 Stat. 605][/us/stat/62/605]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(c), [65 Stat. 76][/us/stat/65/76]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(2), Sept. 28, 1971, [85 Stat. 348][/us/stat/85/348]; [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 916(a), Dec. 1, 1981, [95 Stat. 1129][/us/stat/95/1129].)
 
  __References in Text__ 
 
@@ -113,9 +113,9 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, by t
 [/us/stat/62/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F605
 [/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
 [/us/stat/65/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F76
-[/us/pl/92/129/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F2
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F348
-[/us/pl/97/86/s916/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs916%2Fa
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1129
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

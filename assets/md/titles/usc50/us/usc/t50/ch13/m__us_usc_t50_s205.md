@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_ch13.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
+[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s201...204.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
 
 ## § 205. Suspension of commercial intercourse with State in insurrection
 
@@ -21,16 +21,16 @@
 
  __Codification__ 
 
-    R.S. § 5301 derived from acts [July 13, 1861, ch. 3, § 5][/us/act/1861-07-13/ch3/s5], [12 Stat. 257][/us/stat/12/257]; [July 31, 1861, ch. 32][/us/act/1861-07-31/ch32], [12 Stat. 284][/us/stat/12/284].
+    R.S. § 5301 derived from acts [July 13, 1861, ch. 3][/us/act/1861-07-13/ch3], § 5, [12 Stat. 257][/us/stat/12/257]; [July 31, 1861, ch. 32][/us/act/1861-07-31/ch32], [12 Stat. 284][/us/stat/12/284].
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_ch13.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
+[Previous](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s201...204.md) | [Next](./../../../..//us/usc/t50/ch13/m__us_usc_t50_s206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205)
 
 ----------
 ----------
 
-[/us/act/1861-07-13/ch3/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-13%2Fch3%2Fs5
+[/us/act/1861-07-13/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-13%2Fch3
 [/us/stat/12/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F257
 [/us/act/1861-07-31/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-31%2Fch32
 [/us/stat/12/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F284

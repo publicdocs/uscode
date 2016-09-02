@@ -59,7 +59,7 @@
 
         The protections of this section do not apply to [section 3951 of this title][/us/usc/t50/s3951].
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 202, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2842][/us/stat/117/2842]; amended [Pub. L. 108–454, title VII, § 703][/us/pl/108/454/s703], Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624]; [Pub. L. 110–181, div. A, title V, § 584(b)][/us/pl/110/181/s584/b], Jan. 28, 2008, [122 Stat. 128][/us/stat/122/128].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title II, § 202, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2842][/us/stat/117/2842]; amended [Pub. L. 108–454, title VII][/us/pl/108/454/tVII], § 703, Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 584(b), Jan. 28, 2008, [122 Stat. 128][/us/stat/122/128].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 
  __Stay of Judicial Proceedings__ 
 
-[Pub. L. 102–12, § 6][/us/pl/102/12/s6], Mar. 18, 1991, [105 Stat. 37][/us/stat/105/37], provided that:
+[Pub. L. 102–12][/us/pl/102/12], § 6, Mar. 18, 1991, [105 Stat. 37][/us/stat/105/37], provided that:
 
 >     “(a)  __Stay of Action or Proceeding__  __.—__ 
 
@@ -105,11 +105,11 @@
 [/us/usc/t50/s3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3931
 [/us/usc/t50/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3951
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2842
-[/us/pl/108/454/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs703
+[/us/pl/108/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVII
 [/us/stat/118/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3624
-[/us/pl/110/181/s584/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs584%2Fb
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F128
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1181
@@ -117,7 +117,7 @@
 [/us/usc/t50/s3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3933
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/102/12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs6
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F37
 
 

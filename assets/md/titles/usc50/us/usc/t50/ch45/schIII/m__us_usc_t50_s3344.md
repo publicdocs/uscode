@@ -41,7 +41,7 @@
 
         The head of each Executive agency shall ensure that the training required by subsection (a) is conducted efficiently and in conjunction with any other required security, intelligence, or other training programs to reduce the costs and administrative burdens associated with carrying out the training required by subsection (a).
 
-([Pub. L. 111–258, § 7][/us/pl/111/258/s7], Oct. 7, 2010, [124 Stat. 2652][/us/stat/124/2652].)
+([Pub. L. 111–258][/us/pl/111/258], § 7, Oct. 7, 2010, [124 Stat. 2652][/us/stat/124/2652].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–258, § 3][/us/pl/111/258/s3], Oct. 7, 2010, [124 Stat. 2648][/us/stat/124/2648], provided that: 
+[Pub. L. 111–258][/us/pl/111/258], § 3, Oct. 7, 2010, [124 Stat. 2648][/us/stat/124/2648], provided that: 
 
 > “In this Act \[see Short Title of 2010 Amendment note set out under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security\]:
 
@@ -79,12 +79,12 @@
 ----------
 
 [/us/usc/t50/s3024/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fg%2F1
-[/us/pl/111/258/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs7
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2652
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/111/258/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fa%2F3
 [/us/usc/t50/s435d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435d
-[/us/pl/111/258/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs3
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2648
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161

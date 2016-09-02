@@ -41,7 +41,7 @@
 
     (7) make more credible and sincere any declaration of concern by the United States over violations of human rights committed by other nations.
 
-([Pub. L. 100–383, § 1][/us/pl/100/383/s1], Aug. 10, 1988, [102 Stat. 903][/us/stat/102/903].)
+([Pub. L. 100–383][/us/pl/100/383], § 1, Aug. 10, 1988, [102 Stat. 903][/us/stat/102/903].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/100/383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs1
+[/us/pl/100/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383
 [/us/stat/102/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F903
 
 

@@ -17,7 +17,7 @@
 
     The Administrator shall establish appropriate procedures to ensure that any individual is not permitted unescorted access to any classified area, or access to classified information, of the Administration until that individual has been verified to hold the appropriate security clearances.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3234][/us/pl/106/65/s3234], Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3234, Oct. 5, 1999, [113 Stat. 961][/us/stat/113/961].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3234
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F961
 
 

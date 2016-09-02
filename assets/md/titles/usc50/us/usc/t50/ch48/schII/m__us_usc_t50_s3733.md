@@ -43,7 +43,7 @@
 
         (2) The term “permit” means any local or national permit for development, general construction, environmental, land use, or other purposes that is required for purposes of major construction.
 
-([Pub. L. 113–291, div. A, title XIII, § 1333][/us/pl/113/291/s1333], Dec. 19, 2014, [128 Stat. 3602][/us/stat/128/3602].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1333, Dec. 19, 2014, [128 Stat. 3602][/us/stat/128/3602].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1333
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3602
 
 

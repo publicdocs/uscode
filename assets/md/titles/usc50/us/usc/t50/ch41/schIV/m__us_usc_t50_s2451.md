@@ -25,7 +25,7 @@
 
         (2) In the budget justification materials submitted to Congress in support of each such budget, the Administrator shall include an assessment of how the budget maintains the core nuclear weapons skills of the Administration, including nuclear weapons design, engineering, production, testing, and prediction of stockpile aging.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3251][/us/pl/106/65/s3251], Oct. 5, 1999, [113 Stat. 966][/us/stat/113/966]; [Pub. L. 112–239, div. C, title XXXI, § 3112][/us/pl/112/239/s3112], Jan. 2, 2013, [126 Stat. 2169][/us/stat/126/2169]; [Pub. L. 113–66, div. C, title XXXI, § 3145(e)][/us/pl/113/66/s3145/e], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3251, Oct. 5, 1999, [113 Stat. 966][/us/stat/113/966]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3112, Jan. 2, 2013, [126 Stat. 2169][/us/stat/126/2169]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(e), Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Ten-Year Plan for Use and Funding of Certain Department of Energy Facilities__ 
 
-[Pub. L. 111–84, div. C, title XXXI, § 3141][/us/pl/111/84/s3141], Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715], provided that:
+[Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3141, Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -73,15 +73,15 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/65/s3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3251
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F966
-[/us/pl/112/239/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3112
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2169
-[/us/pl/113/66/s3145/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fe
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/84/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3141
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2715
 
 

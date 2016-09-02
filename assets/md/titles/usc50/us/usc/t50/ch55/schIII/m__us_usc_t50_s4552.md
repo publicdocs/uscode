@@ -113,7 +113,7 @@
 
         The term “small business concern” means a business concern that meets the requirements of [section 632(a) of title 15][/us/usc/t15/s632/a] and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 702, [64 Stat. 815][/us/stat/64/815]; [June 30, 1953, ch. 171, § 8][/us/act/1953-06-30/ch171/s8], [67 Stat. 130][/us/stat/67/130]; [Pub. L. 91–379, title I, § 102][/us/pl/91/379/s102], Aug. 15, 1970, [84 Stat. 796][/us/stat/84/796]; [Pub. L. 102–558, title I, § 132][/us/pl/102/558/s132], Oct. 28, 1992, [106 Stat. 4210][/us/stat/106/4210]; [Pub. L. 103–337, div. C, title XXXIV, § 3411(b)][/us/pl/103/337/s3411/b], Oct. 5, 1994, [108 Stat. 3110][/us/stat/108/3110]; [Pub. L. 108–195, § 5][/us/pl/108/195/s5], Dec. 19, 2003, [117 Stat. 2893][/us/stat/117/2893]; [Pub. L. 111–67, § 8][/us/pl/111/67/s8], Sept. 30, 2009, [123 Stat. 2017][/us/stat/123/2017].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 702, [64 Stat. 815][/us/stat/64/815]; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], § 8, [67 Stat. 130][/us/stat/67/130]; [Pub. L. 91–379, title I][/us/pl/91/379/tI], § 102, Aug. 15, 1970, [84 Stat. 796][/us/stat/84/796]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 132, Oct. 28, 1992, [106 Stat. 4210][/us/stat/106/4210]; [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(b), Oct. 5, 1994, [108 Stat. 3110][/us/stat/108/3110]; [Pub. L. 108–195][/us/pl/108/195], § 5, Dec. 19, 2003, [117 Stat. 2893][/us/stat/117/2893]; [Pub. L. 111–67][/us/pl/111/67], § 8, Sept. 30, 2009, [123 Stat. 2017][/us/stat/123/2017].)
 
  __Termination of Section__ 
 
@@ -131,39 +131,39 @@
 
  __Amendments__ 
 
-    2009—Par. (1). [Pub. L. 111–67, § 8(1)][/us/pl/111/67/s8/1], substituted “equipment identified by the President” for “military equipment identified by the Secretary of Defense”.
+    2009—Par. (1). [Pub. L. 111–67][/us/pl/111/67], § 8(1), substituted “equipment identified by the President” for “military equipment identified by the Secretary of Defense”.
 
-    Pars. (2), (3). [Pub. L. 111–67, § 8(2)][/us/pl/111/67/s8/2]–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘critical industry for national security’ means any industry (or industry sector) identified pursuant to [section 2503(6) of title 10][/us/usc/t10/s2503/6] and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States.”
+    Pars. (2), (3). [Pub. L. 111–67][/us/pl/111/67], § 8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘critical industry for national security’ means any industry (or industry sector) identified pursuant to [section 2503(6) of title 10][/us/usc/t10/s2503/6] and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States.”
 
-    Pars. (4), (5). [Pub. L. 111–67, § 8(2)][/us/pl/111/67/s8/2], (5), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The term ‘critical technology’ includes any technology that is included in 1 or more of the plans submitted pursuant to [section 6681 of title 42][/us/usc/t42/s6681] or [section 2508 of title 10][/us/usc/t10/s2508] (unless subsequently deleted), or such other emerging or dual use technology as may be designated by the President.”
+    Pars. (4), (5). [Pub. L. 111–67][/us/pl/111/67], § 8(2), (5), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The term ‘critical technology’ includes any technology that is included in 1 or more of the plans submitted pursuant to [section 6681 of title 42][/us/usc/t42/s6681] or [section 2508 of title 10][/us/usc/t10/s2508] (unless subsequently deleted), or such other emerging or dual use technology as may be designated by the President.”
 
-    Par. (6). [Pub. L. 111–67, § 8(5)][/us/pl/111/67/s8/5], (6), redesignated par. (7) as (6), in heading, struck out “defense” after “Domestic”, and, in text, substituted “ ‘domestic industrial base’ ” for “ ‘domestic defense industrial base’ ” and struck out “graduated mobilization,” after “peacetime,”. Former par. (6) redesignated (5).
+    Par. (6). [Pub. L. 111–67][/us/pl/111/67], § 8(5), (6), redesignated par. (7) as (6), in heading, struck out “defense” after “Domestic”, and, in text, substituted “ ‘domestic industrial base’ ” for “ ‘domestic defense industrial base’ ” and struck out “graduated mobilization,” after “peacetime,”. Former par. (6) redesignated (5).
 
-    Pars. (7) to (9). [Pub. L. 111–67, § 8(2)][/us/pl/111/67/s8/2], (5), (7), redesignated pars. (8), (10), and (11) as (7) to (9), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The term ‘essential weapon system’ means a major weapon system and other items of military equipment identified by the Secretary of Defense as being essential to the execution of the national security strategy of the United States.” Former par. (7) redesignated (6).
+    Pars. (7) to (9). [Pub. L. 111–67][/us/pl/111/67], § 8(2), (5), (7), redesignated pars. (8), (10), and (11) as (7) to (9), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The term ‘essential weapon system’ means a major weapon system and other items of military equipment identified by the Secretary of Defense as being essential to the execution of the national security strategy of the United States.” Former par. (7) redesignated (6).
 
-    Pars. (10), (11). [Pub. L. 111–67, § 8(8)][/us/pl/111/67/s8/8], added pars. (10) and (11). Former pars. (10) and (11) redesignated (8) and (9), respectively.
+    Pars. (10), (11). [Pub. L. 111–67][/us/pl/111/67], § 8(8), added pars. (10) and (11). Former pars. (10) and (11) redesignated (8) and (9), respectively.
 
-    Par. (12). [Pub. L. 111–67, § 8(9)][/us/pl/111/67/s8/9], substituted “base” for “capacity”.
+    Par. (12). [Pub. L. 111–67][/us/pl/111/67], § 8(9), substituted “base” for “capacity”.
 
-    Par. (14). [Pub. L. 111–67, § 8(10)][/us/pl/111/67/s8/10], substituted “military or critical infrastructure assistance to any foreign nation, homeland security” for “military assistance to any foreign nation”.
+    Par. (14). [Pub. L. 111–67][/us/pl/111/67], § 8(10), substituted “military or critical infrastructure assistance to any foreign nation, homeland security” for “military assistance to any foreign nation”.
 
-    Par. (16). [Pub. L. 111–67, § 8(11)][/us/pl/111/67/s8/11], added subpars. (C) and (D).
+    Par. (16). [Pub. L. 111–67][/us/pl/111/67], § 8(11), added subpars. (C) and (D).
 
-    Par. (18). [Pub. L. 111–67, § 8(2)][/us/pl/111/67/s8/2], struck out par. (18). Text read as follows: “The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the same meaning as in [section 637(d)(3)(C) of title 15][/us/usc/t15/s637/d/3/C].”
+    Par. (18). [Pub. L. 111–67][/us/pl/111/67], § 8(2), struck out par. (18). Text read as follows: “The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the same meaning as in [section 637(d)(3)(C) of title 15][/us/usc/t15/s637/d/3/C].”
 
-    2003—Pars. (3) to (13). [Pub. L. 108–195, § 5(1)][/us/pl/108/195/s5/1], (2), added par. (3) and redesignated former pars. (3) to (12) as (4) to (13), respectively. Former par. (13) redesignated (14).
+    2003—Pars. (3) to (13). [Pub. L. 108–195][/us/pl/108/195], § 5(1), (2), added par. (3) and redesignated former pars. (3) to (12) as (4) to (13), respectively. Former par. (13) redesignated (14).
 
-    Par. (14). [Pub. L. 108–195, § 5(1)][/us/pl/108/195/s5/1], (3), redesignated par. (13) as (14) and inserted “and critical infrastructure protection and restoration” before period at end of last sentence. Former par. (14) redesignated (15).
+    Par. (14). [Pub. L. 108–195][/us/pl/108/195], § 5(1), (3), redesignated par. (13) as (14) and inserted “and critical infrastructure protection and restoration” before period at end of last sentence. Former par. (14) redesignated (15).
 
-    Pars. (15) to (18). [Pub. L. 108–195, § 5(1)][/us/pl/108/195/s5/1], redesignated pars. (14) to (17) as (15) to (18), respectively.
+    Pars. (15) to (18). [Pub. L. 108–195][/us/pl/108/195], § 5(1), redesignated pars. (14) to (17) as (15) to (18), respectively.
 
     1994—Par. (13). [Pub. L. 103–337][/us/pl/103/337] inserted at end “Such term includes emergency preparedness activities conducted pursuant to title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act.”
 
     1992—[Pub. L. 102–558][/us/pl/102/558] amended section generally, substituting present provisions for provisions defining terms “person”, “materials”, “facilities”, “national defense”, “wages, salaries, and other compensation”, and “defense contractor”.
 
-    1970—Subsec. (d). [Pub. L. 91–379, § 102(1)][/us/pl/91/379/s102/1], inserted reference to space in definition of national defense.
+    1970—Subsec. (d). [Pub. L. 91–379][/us/pl/91/379], § 102(1), inserted reference to space in definition of national defense.
 
-    Subsec. (f). [Pub. L. 91–379, § 102(2)][/us/pl/91/379/s102/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 91–379][/us/pl/91/379], § 102(2), added subsec. (f).
 
     1953—Subsec. (d). Act June 30, 1953, amended subsec. (d) generally which, among other changes, inserted references to construction, military assistance to foreign nations and stockpiling, and struck out specific reference to “operations or activities in connection with the Mutual Defense Assistance Act of 1949, as amended”.
 
@@ -184,17 +184,17 @@
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F815
-[/us/act/1953-06-30/ch171/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171%2Fs8
+[/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F130
-[/us/pl/91/379/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2Fs102
+[/us/pl/91/379/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2FtI
 [/us/stat/84/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F796
-[/us/pl/102/558/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs132
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4210
-[/us/pl/103/337/s3411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fb
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3110
-[/us/pl/108/195/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs5
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
 [/us/stat/117/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2893
-[/us/pl/111/67/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2017
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
@@ -203,27 +203,27 @@
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/111/67/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F1
-[/us/pl/111/67/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F2
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t10/s2503/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2503%2F6
-[/us/pl/111/67/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F2
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t42/s6681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6681
 [/us/usc/t10/s2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2508
-[/us/pl/111/67/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F5
-[/us/pl/111/67/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F2
-[/us/pl/111/67/s8/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F8
-[/us/pl/111/67/s8/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F9
-[/us/pl/111/67/s8/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F10
-[/us/pl/111/67/s8/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F11
-[/us/pl/111/67/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs8%2F2
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t15/s637/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3%2FC
-[/us/pl/108/195/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs5%2F1
-[/us/pl/108/195/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs5%2F1
-[/us/pl/108/195/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs5%2F1
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
-[/us/pl/91/379/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2Fs102%2F1
-[/us/pl/91/379/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2Fs102%2F2
+[/us/pl/91/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379
+[/us/pl/91/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502

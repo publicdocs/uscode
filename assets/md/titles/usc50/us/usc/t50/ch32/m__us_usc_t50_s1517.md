@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be deemed to restrict the transportation or disposal of research quantities of any lethal chemical or any biological warfare agent, or to delay or prevent, in emergency situations either within or outside the United States, the immediate disposal together with any necessary associated transportation, of any lethal chemical or any biological warfare agent when compliance with the procedures and requirements of this chapter would clearly endanger the health or safety of any person.
 
-([Pub. L. 91–121, title IV, § 409(g)][/us/pl/91/121/s409/g], as added [Pub. L. 91–441, title V, § 506(b)(4)][/us/pl/91/441/s506/b/4], Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912].)
+([Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409(g), as added [Pub. L. 91–441, title V][/us/pl/91/441/tV], § 506(b)(4), Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/121/s409/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409%2Fg
-[/us/pl/91/441/s506/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fb%2F4
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
+[/us/pl/91/441/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtV
 [/us/stat/84/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F912
 
 

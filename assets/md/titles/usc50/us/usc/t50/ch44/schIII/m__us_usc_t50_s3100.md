@@ -97,7 +97,7 @@
 
             (D) Procedures for making certifications in accordance with the requirements of subsection (a)(2).
 
-    (e) __Repealed.__  __[__  __Pub. L. 112–277, title III, § 310(a)(3)__  __][/us/pl/112/277/s310/a/3]__  __,__  __Jan. 14, 2013__  __,__  __[__  __126 Stat. 2475__  __][/us/stat/126/2475]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 112–277, title III__  __][/us/pl/112/277/tIII]__  __, § 310(a)(3),__  __Jan. 14, 2013__  __,__  __[__  __126 Stat. 2475__  __][/us/stat/126/2475]__ 
 
     (f) __Intelligence community business system transformation governance board__ 
 
@@ -183,13 +183,13 @@
 
         (6) The term “Office of Business Transformation of the Office of the Director of National Intelligence” includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506D, as added [Pub. L. 111–259, title III, § 322(a)(1)][/us/pl/111/259/s322/a/1], Oct. 7, 2010, [124 Stat. 2669][/us/stat/124/2669]; amended [Pub. L. 112–277, title III, § 310(a)(3)][/us/pl/112/277/s310/a/3], Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475]; [Pub. L. 113–126, title III, § 329(b)(3)][/us/pl/113/126/s329/b/3], July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506D, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 322(a)(1), Oct. 7, 2010, [124 Stat. 2669][/us/stat/124/2669]; amended [Pub. L. 112–277, title III][/us/pl/112/277/tIII], § 310(a)(3), Jan. 14, 2013, [126 Stat. 2475][/us/stat/126/2475]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 329(b)(3), July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
 
  __References in Text__ 
 
     Section 8083 of the Department of Defense Appropriations Act, 2005, referred to in subsec. (g), is [section 8083 of Pub. L. 108–287][/us/pl/108/287/s8083], title VIII, Aug. 5, 2004, [118 Stat. 989][/us/stat/118/989], which is not classified to the Code.
 
-    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (k)(5), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions defining “national security system” are now contained in [section 3552 of title 44][/us/usc/t44/s3552], as enacted by [Pub. L. 113–283][/us/pl/113/283].
+    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (k)(5), was repealed by [Pub. L. 113–283][/us/pl/113/283], § 2(a), Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions defining “national security system” are now contained in [section 3552 of title 44][/us/usc/t44/s3552], as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Codification__ 
 
@@ -203,7 +203,7 @@
 
  __Implementation__ 
 
-[Pub. L. 111–259, title III, § 322(b)][/us/pl/111/259/s322/b], Oct. 7, 2010, [124 Stat. 2673][/us/stat/124/2673], provided that:
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 322(b), Oct. 7, 2010, [124 Stat. 2673][/us/stat/124/2673], provided that:
 
 >     “(1)  __Certain duties__  __.—__ 
 
@@ -239,7 +239,7 @@
 ----------
 
 [/us/usc/t40/s11312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11312
-[/us/pl/112/277/s310/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F3
+[/us/pl/112/277/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtIII
 [/us/stat/126/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2475
 [/us/pl/108/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287
 [/us/stat/118/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F989
@@ -247,23 +247,23 @@
 [/us/usc/t44/s3601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601%2F4
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs322%2Fa%2F1
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2669
-[/us/pl/112/277/s310/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F3
+[/us/pl/112/277/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtIII
 [/us/stat/126/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2475
-[/us/pl/113/126/s329/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F3
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/108/287/s8083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8083
 [/us/stat/118/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F989
 [/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
-[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
 [/us/usc/t44/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/usc/t50/s415a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%936
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
-[/us/pl/111/259/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs322%2Fb
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2673
 [/us/usc/t50/s3100/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3100%2Ff
 [/us/usc/t50/s3100/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3100%2Fb

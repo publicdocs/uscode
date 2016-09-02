@@ -53,7 +53,7 @@
 
         (3) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
 
-([Pub. L. 113–291, div. A, title XIII, § 1324][/us/pl/113/291/s1324], Dec. 19, 2014, [128 Stat. 3599][/us/stat/128/3599].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1324, Dec. 19, 2014, [128 Stat. 3599][/us/stat/128/3599].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t50/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3731
-[/us/pl/113/291/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1324
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3599
 
 

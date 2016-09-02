@@ -159,7 +159,7 @@
 
         (7) There are authorized to be appropriated such amounts as may be necessary to carry out the purposes of this subsection, including necessary administrative expenses.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 5, [62 Stat. 1242][/us/stat/62/1242]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Apr. 9, 1952, ch. 168, § 1][/us/act/1952-04-09/ch168/s1], [66 Stat. 49][/us/stat/66/49]; [Aug. 21, 1954, ch. 784, § 1][/us/act/1954-08-21/ch784/s1], [68 Stat. 759][/us/stat/68/759]; [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, §§ 101 (a)–(c), 102(a), [68 Stat. 1033][/us/stat/68/1033], 1034; [Pub. L. 87–617][/us/pl/87/617], Aug. 31, 1962, [76 Stat. 413][/us/stat/76/413]; [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107]; [Pub. L. 91–289, § 3][/us/pl/91/289/s3], June 24, 1970, [84 Stat. 324][/us/stat/84/324]; [Pub. L. 94–383][/us/pl/94/383], Aug. 12, 1976, [90 Stat. 1122][/us/stat/90/1122].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 5, [62 Stat. 1242][/us/stat/62/1242]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Apr. 9, 1952, ch. 168][/us/act/1952-04-09/ch168], § 1, [66 Stat. 49][/us/stat/66/49]; [Aug. 21, 1954, ch. 784][/us/act/1954-08-21/ch784], § 1, [68 Stat. 759][/us/stat/68/759]; [Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, §§ 101 (a)–(c), 102(a), [68 Stat. 1033][/us/stat/68/1033], 1034; [Pub. L. 87–617][/us/pl/87/617], Aug. 31, 1962, [76 Stat. 413][/us/stat/76/413]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107]; [Pub. L. 91–289][/us/pl/91/289], § 3, June 24, 1970, [84 Stat. 324][/us/stat/84/324]; [Pub. L. 94–383][/us/pl/94/383], Aug. 12, 1976, [90 Stat. 1122][/us/stat/90/1122].)
 
  __References in Text__ 
 
@@ -167,7 +167,7 @@
 
     The Federal Employee Compensation Act, referred to in subsec. (f)(11), is [act Sept. 7, 1916, ch. 458][/us/act/1916-09-07/ch458], [39 Stat. 742][/us/stat/39/742]. The act was repealed, and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
-    Subsection (b) of section 5 of the Act entitled “An Act to amend the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes’, as amended”, approved July 28, 1945, referred to in subsec. (f)(11), is section 5(b) of [act July 28, 1945, ch. 328][/us/act/1945-07-28/ch328], [59 Stat. 504][/us/stat/59/504], which enacted section 801 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by [Pub. L. 85–608, § 303][/us/pl/85/608/s303], Aug. 8, 1958, [72 Stat. 539][/us/stat/72/539]. See [section 8102(b) of Title 5][/us/usc/t5/s8102/b], Government Organization and Employees.
+    Subsection (b) of section 5 of the Act entitled “An Act to amend the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes’, as amended”, approved July 28, 1945, referred to in subsec. (f)(11), is section 5(b) of [act July 28, 1945, ch. 328][/us/act/1945-07-28/ch328], [59 Stat. 504][/us/stat/59/504], which enacted section 801 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by [Pub. L. 85–608][/us/pl/85/608], § 303, Aug. 8, 1958, [72 Stat. 539][/us/stat/72/539]. See [section 8102(b) of Title 5][/us/usc/t5/s8102/b], Government Organization and Employees.
 
  __Codification__ 
 
@@ -177,9 +177,9 @@
 
     1976—Subsec. (i)(3). [Pub. L. 94–383][/us/pl/94/383] substituted “$150” for “$60”.
 
-    1970—Subsec. (e). [Pub. L. 91–289, § 3(1)][/us/pl/91/289/s3/1], included reference to subsec. (i) in parenthetical phrase.
+    1970—Subsec. (e). [Pub. L. 91–289][/us/pl/91/289], § 3(1), included reference to subsec. (i) in parenthetical phrase.
 
-    Subsec. (i). [Pub. L. 91–289, § 3(2)][/us/pl/91/289/s3/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 91–289][/us/pl/91/289], § 3(2), added subsec. (i).
 
     1962—Subsec. (e). [Pub. L. 87–846][/us/pl/87/846] made technical amendment to reference in original act which appears in text as reference to [section 4110 of this title][/us/usc/t50/s4110].
 
@@ -225,17 +225,17 @@
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1242
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/act/1952-04-09/ch168/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch168%2Fs1
+[/us/act/1952-04-09/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch168
 [/us/stat/66/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F49
-[/us/act/1954-08-21/ch784/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-21%2Fch784%2Fs1
+[/us/act/1954-08-21/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-21%2Fch784
 [/us/stat/68/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F759
 [/us/act/1954-08-31/ch1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1162
 [/us/stat/68/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1033
 [/us/pl/87/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F617
 [/us/stat/76/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F413
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
-[/us/pl/91/289/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289%2Fs3
+[/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
 [/us/stat/84/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F324
 [/us/pl/94/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F383
 [/us/stat/90/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1122
@@ -247,12 +247,12 @@
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1945-07-28/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-28%2Fch328
 [/us/stat/59/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F504
-[/us/pl/85/608/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608%2Fs303
+[/us/pl/85/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F608
 [/us/stat/72/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F539
 [/us/usc/t5/s8102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8102%2Fb
 [/us/pl/94/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F383
-[/us/pl/91/289/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289%2Fs3%2F1
-[/us/pl/91/289/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289%2Fs3%2F2
+[/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
+[/us/pl/91/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F289
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/usc/t50/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4110
 [/us/pl/87/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F617

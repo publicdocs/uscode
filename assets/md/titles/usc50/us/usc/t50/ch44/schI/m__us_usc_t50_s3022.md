@@ -61,7 +61,7 @@
 
         Any member of the Joint Intelligence Community Council may make such recommendations to Congress relating to the intelligence community as such member considers appropriate.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 101A, as added [Pub. L. 108–458, title I, § 1031][/us/pl/108/458/s1031], Dec. 17, 2004, [118 Stat. 3677][/us/stat/118/3677].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 101A, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1031, Dec. 17, 2004, [118 Stat. 3677][/us/stat/118/3677].)
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1031
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3677
 [/us/usc/t50/s402–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402%E2%80%931
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

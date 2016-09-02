@@ -19,7 +19,7 @@
 
     (b) Only an express statutory authorization for electronic surveillance or the interception of domestic wire, oral, or electronic communications, other than as an amendment to this chapter or chapters 119, 121, or 206 of title 18 shall constitute an additional exclusive means for the purpose of subsection (a).
 
-([Pub. L. 95–511, title I, § 112][/us/pl/95/511/s112], as added [Pub. L. 110–261, title I, § 102(a)][/us/pl/110/261/s102/a], July 10, 2008, [122 Stat. 2459][/us/stat/122/2459].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 112, as added [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 102(a), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/511/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs112
-[/us/pl/110/261/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs102%2Fa
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2459
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783

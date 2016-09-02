@@ -17,7 +17,7 @@
 
     The Director of Central Intelligence shall include the same level of budgetary detail for the Base Budget that is provided for Ongoing Initiatives and New Initiatives to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate in the congressional justification materials for the annual submission of the National Foreign Intelligence Program of each fiscal year.
 
-([Pub. L. 103–359, title VI, § 603][/us/pl/103/359/s603], Oct. 14, 1994, [108 Stat. 3433][/us/stat/108/3433].)
+([Pub. L. 103–359, title VI][/us/pl/103/359/tVI], § 603, Oct. 14, 1994, [108 Stat. 3433][/us/stat/108/3433].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/359/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs603
+[/us/pl/103/359/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVI
 [/us/stat/108/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3433
 [/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

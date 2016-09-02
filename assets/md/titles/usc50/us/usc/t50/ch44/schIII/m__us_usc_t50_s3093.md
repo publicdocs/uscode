@@ -113,7 +113,7 @@
 
         For each type of activity undertaken as part of a covert action, the President shall establish in writing a plan to respond to the unauthorized public disclosure of that type of activity.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 503, as added [Pub. L. 102–88, title VI, § 602(a)(2)][/us/pl/102/88/s602/a/2], Aug. 14, 1991, [105 Stat. 442][/us/stat/105/442]; amended [Pub. L. 107–306, title III, § 353(b)(3)(C)][/us/pl/107/306/s353/b/3/C], (8), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I, § 1071(a)(1)(Y)][/us/pl/108/458/s1071/a/1/Y], Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III, § 331(c)][/us/pl/111/259/s331/c], Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685]; [Pub. L. 113–126, title III, § 308][/us/pl/113/126/s308], July 7, 2014, [128 Stat. 1397][/us/stat/128/1397].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 503, as added [Pub. L. 102–88, title VI][/us/pl/102/88/tVI], § 602(a)(2), Aug. 14, 1991, [105 Stat. 442][/us/stat/105/442]; amended [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(3)(C), (8), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(Y), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 331(c), Oct. 7, 2010, [124 Stat. 2685][/us/stat/124/2685]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 308, July 7, 2014, [128 Stat. 1397][/us/stat/128/1397].)
 
  __Codification__ 
 
@@ -127,29 +127,29 @@
 
     2014—Subsec. (h). [Pub. L. 113–126][/us/pl/113/126] added subsec. (h).
 
-    2010—Subsec. (b)(2). [Pub. L. 111–259, § 331(c)(1)][/us/pl/111/259/s331/c/1], inserted “(including the legal basis under which the covert action is being or was conducted)” before “which is in the possession”.
+    2010—Subsec. (b)(2). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(1), inserted “(including the legal basis under which the covert action is being or was conducted)” before “which is in the possession”.
 
-    Subsec. (c)(1). [Pub. L. 111–259, § 331(c)(2)(A)][/us/pl/111/259/s331/c/2/A], inserted “in writing” after “be reported”.
+    Subsec. (c)(1). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(2)(A), inserted “in writing” after “be reported”.
 
-    Subsec. (c)(4). [Pub. L. 111–259, § 331(c)(2)(B)][/us/pl/111/259/s331/c/2/B], redesignated second sentence of par. (4) as (5)(A).
+    Subsec. (c)(4). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(2)(B), redesignated second sentence of par. (4) as (5)(A).
 
-    Subsec. (c)(5)(A). [Pub. L. 111–259, § 331(c)(2)(C)(i)][/us/pl/111/259/s331/c/2/C/i], inserted “, or a notification provided under subsection (d)(1),” before “is limited” and “written” before “statement”.
+    Subsec. (c)(5)(A). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(2)(C)(i), inserted “, or a notification provided under subsection (d)(1),” before “is limited” and “written” before “statement”.
 
-    [Pub. L. 111–259, § 331(c)(2)(B)][/us/pl/111/259/s331/c/2/B], redesignated second sentence of par. (4) as (5)(A).
+    [Pub. L. 111–259][/us/pl/111/259], § 331(c)(2)(B), redesignated second sentence of par. (4) as (5)(A).
 
-    Subsec. (c)(5)(B). [Pub. L. 111–259, § 331(c)(2)(C)(ii)][/us/pl/111/259/s331/c/2/C/ii], added subpar. (B).
+    Subsec. (c)(5)(B). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(2)(C)(ii), added subpar. (B).
 
-    Subsec. (d). [Pub. L. 111–259, § 331(c)(3)][/us/pl/111/259/s331/c/3], designated existing provisions as par. (1), inserted “in writing” after “notified”, and added par. (2).
+    Subsec. (d). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(3), designated existing provisions as par. (1), inserted “in writing” after “notified”, and added par. (2).
 
-    Subsec. (g). [Pub. L. 111–259, § 331(c)(4)][/us/pl/111/259/s331/c/4], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–259][/us/pl/111/259], § 331(c)(4), added subsec. (g).
 
     2004—Subsec. (b). [Pub. L. 108–458][/us/pl/108/458] substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
-    2002—Subsecs. (b), (c)(1) to (3). [Pub. L. 107–306, § 353(b)(3)(C)][/us/pl/107/306/s353/b/3/C], substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+    2002—Subsecs. (b), (c)(1) to (3). [Pub. L. 107–306][/us/pl/107/306], § 353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
-    Subsec. (c)(4). [Pub. L. 107–306, § 353(b)(8)][/us/pl/107/306/s353/b/8], substituted “congressional intelligence committee” for “intelligence committee”.
+    Subsec. (c)(4). [Pub. L. 107–306][/us/pl/107/306], § 353(b)(8), substituted “congressional intelligence committee” for “intelligence committee”.
 
-    Subsec. (d). [Pub. L. 107–306, § 353(b)(3)(C)][/us/pl/107/306/s353/b/3/C], substituted “congressional intelligence committees” for “intelligence committees”.
+    Subsec. (d). [Pub. L. 107–306][/us/pl/107/306], § 353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -166,32 +166,32 @@
 
 [/us/usc/t50/s3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3094
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/102/88/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs602%2Fa%2F2
+[/us/pl/102/88/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtVI
 [/us/stat/105/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F442
-[/us/pl/107/306/s353/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F3%2FC
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
-[/us/pl/108/458/s1071/a/1/Y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FY
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/111/259/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2685
-[/us/pl/113/126/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs308
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1397
 [/us/usc/t50/s413b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413b
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/usc/t50/s3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3095
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
-[/us/pl/111/259/s331/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F1
-[/us/pl/111/259/s331/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FA
-[/us/pl/111/259/s331/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FB
-[/us/pl/111/259/s331/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FC%2Fi
-[/us/pl/111/259/s331/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FB
-[/us/pl/111/259/s331/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F2%2FC%2Fii
-[/us/pl/111/259/s331/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F3
-[/us/pl/111/259/s331/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs331%2Fc%2F4
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/107/306/s353/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F3%2FC
-[/us/pl/107/306/s353/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F8
-[/us/pl/107/306/s353/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F3%2FC
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

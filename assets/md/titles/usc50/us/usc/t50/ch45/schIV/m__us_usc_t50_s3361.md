@@ -51,7 +51,7 @@
 
         The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
-([Pub. L. 107–306, title III, § 313][/us/pl/107/306/s313], Nov. 27, 2002, [116 Stat. 2391][/us/stat/116/2391]; [Pub. L. 108–458, title I, § 1071(g)(2)(A)(i)][/us/pl/108/458/s1071/g/2/A/i], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 108–487, title III, § 304][/us/pl/108/487/s304], Dec. 23, 2004, [118 Stat. 3944][/us/stat/118/3944].)
+([Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 313, Nov. 27, 2002, [116 Stat. 2391][/us/stat/116/2391]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(2)(A)(i), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 108–487, title III][/us/pl/108/487/tIII], § 304, Dec. 23, 2004, [118 Stat. 3944][/us/stat/118/3944].)
 
  __Codification__ 
 
@@ -61,11 +61,11 @@
 
     2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458] substituted “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”.
 
-    Subsec. (c). [Pub. L. 108–487, § 304(a)(2)][/us/pl/108/487/s304/a/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 108–487][/us/pl/108/487], § 304(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 108–487, § 304(a)(1)][/us/pl/108/487/s304/a/1], (b), redesignated subsec. (c) as (d) and added par. (3). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 108–487][/us/pl/108/487], § 304(a)(1), (b), redesignated subsec. (c) as (d) and added par. (3). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 108–487, § 304(a)(1)][/us/pl/108/487/s304/a/1], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 108–487][/us/pl/108/487], § 304(a)(1), redesignated subsec. (d) as (e).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -80,17 +80,17 @@
 ----------
 ----------
 
-[/us/pl/107/306/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs313
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2391
-[/us/pl/108/458/s1071/g/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F2%2FA%2Fi
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/108/487/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs304
+[/us/pl/108/487/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtIII
 [/us/stat/118/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3944
 [/us/usc/t50/s404n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404n
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/487/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs304%2Fa%2F2
-[/us/pl/108/487/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs304%2Fa%2F1
-[/us/pl/108/487/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs304%2Fa%2F1
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

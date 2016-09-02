@@ -75,7 +75,7 @@
 
         In this section, the term “covered activity” means an activity under the Program to address a threat arising from the proliferation of chemical, nuclear, or biological weapons or weapons-related materials, technologies, or expertise.
 
-([Pub. L. 113–291, div. A, title XIII, § 1323][/us/pl/113/291/s1323], Dec. 19, 2014, [128 Stat. 3598][/us/stat/128/3598].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1323, Dec. 19, 2014, [128 Stat. 3598][/us/stat/128/3598].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1323
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3598
 
 

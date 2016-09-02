@@ -47,11 +47,11 @@
 
         Regulations issued pursuant to subsection (b)(1) shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
-([Pub. L. 86–36, § 9][/us/pl/86/36/s9], as added [Pub. L. 96–450, title IV, § 402(a)(1)][/us/pl/96/450/s402/a/1], Oct. 14, 1980, [94 Stat. 1977][/us/stat/94/1977]; amended [Pub. L. 97–89, title VI, § 601][/us/pl/97/89/s601], Dec. 4, 1981, [95 Stat. 1154][/us/stat/95/1154]; [Pub. L. 99–335, title V, § 507(a)][/us/pl/99/335/s507/a], June 6, 1986, [100 Stat. 628][/us/stat/100/628]; [Pub. L. 101–193, title V, § 505(b)][/us/pl/101/193/s505/b], Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709]; [Pub. L. 102–496, title VIII, § 803(b)][/us/pl/102/496/s803/b], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253].)
+([Pub. L. 86–36][/us/pl/86/36], § 9, as added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 402(a)(1), Oct. 14, 1980, [94 Stat. 1977][/us/stat/94/1977]; amended [Pub. L. 97–89, title VI][/us/pl/97/89/tVI], § 601, Dec. 4, 1981, [95 Stat. 1154][/us/stat/95/1154]; [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 507(a), June 6, 1986, [100 Stat. 628][/us/stat/100/628]; [Pub. L. 101–193, title V][/us/pl/101/193/tV], § 505(b), Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709]; [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 803(b), Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253].)
 
  __References in Text__ 
 
-    [Section 322 of the Act of June 30, 1932][/us/act/1932-06-30/s322], referred to in subsec. (a), is section 322 of [act June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], title III, [47 Stat. 412][/us/stat/47/412], which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 100–678, § 7][/us/pl/100/678/s7], Nov. 17, 1988, [102 Stat. 4052][/us/stat/102/4052].
+    [Section 322 of the Act of June 30, 1932][/us/act/1932-06-30/s322], referred to in subsec. (a), is section 322 of [act June 30, 1932, ch. 314, title III][/us/act/1932-06-30/ch314/tIII], [47 Stat. 412][/us/stat/47/412], which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 100–678][/us/pl/100/678], § 7, Nov. 17, 1988, [102 Stat. 4052][/us/stat/102/4052].
 
     The Foreign Service Act of 1980, referred to in subsec. (b)(1)(A), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071]. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22][/us/usc/t22/s3901] and Tables.
 
@@ -67,9 +67,9 @@
 
     1986—Subsec. (b)(1)(B). [Pub. L. 99–335][/us/pl/99/335] inserted “(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees ([50 U.S.C. 403][/us/usc/t50/s403] note))” before semicolon.
 
-    1981—Subsec. (b)(1). [Pub. L. 97–89, § 601(a)][/us/pl/97/89/s601/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (1), (2), (7), (9), (10), and (11) of section 1136, and under sections 1137, 1138a, 1148, 1156, 1157, and 1160, of title 22; and”.
+    1981—Subsec. (b)(1). [Pub. L. 97–89][/us/pl/97/89], § 601(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (1), (2), (7), (9), (10), and (11) of section 1136, and under sections 1137, 1138a, 1148, 1156, 1157, and 1160, of title 22; and”.
 
-    Subsecs. (d), (e). [Pub. L. 97–89, § 601(b)][/us/pl/97/89/s601/b], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 97–89][/us/pl/97/89], § 601(b), added subsecs. (d) and (e).
 
  __Change of Name__ 
 
@@ -100,21 +100,21 @@
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
 [/us/usc/t50/s3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3518
-[/us/pl/86/36/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs9
-[/us/pl/96/450/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs402%2Fa%2F1
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1977
-[/us/pl/97/89/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs601
+[/us/pl/97/89/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVI
 [/us/stat/95/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1154
-[/us/pl/99/335/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs507%2Fa
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F628
-[/us/pl/101/193/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs505%2Fb
+[/us/pl/101/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtV
 [/us/stat/103/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1709
-[/us/pl/102/496/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs803%2Fb
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3253
 [/us/act/1932-06-30/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fs322
-[/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
+[/us/act/1932-06-30/ch314/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314%2FtIII
 [/us/stat/47/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F412
-[/us/pl/100/678/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F678%2Fs7
+[/us/pl/100/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F678
 [/us/stat/102/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4052
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
@@ -125,8 +125,8 @@
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
-[/us/pl/97/89/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs601%2Fa
-[/us/pl/97/89/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs601%2Fb
+[/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
+[/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496

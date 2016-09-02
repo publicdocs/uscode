@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 112–81, div. A, title X, § 1045][/us/pl/112/81/s1045], Dec. 31, 2011, [125 Stat. 1577][/us/stat/125/1577]; [Pub. L. 112–239, div. A, title X, § 1076(a)(19)][/us/pl/112/239/s1076/a/19], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], which related to nuclear force reductions, was transferred to [section 494 of Title 10][/us/usc/t10/s494], Armed Forces, by [Pub. L. 112–239, div. A, title X, § 1033(b)(1)(A)][/us/pl/112/239/s1033/b/1/A]–(C), Jan. 2, 2013, [126 Stat. 1920][/us/stat/126/1920].
+    Section, [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1045, Dec. 31, 2011, [125 Stat. 1577][/us/stat/125/1577]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(19), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], which related to nuclear force reductions, was transferred to [section 494 of Title 10][/us/usc/t10/s494], Armed Forces, by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1033(b)(1)(A)–(C), Jan. 2, 2013, [126 Stat. 1920][/us/stat/126/1920].
 
 ----------
 
@@ -26,12 +26,12 @@
 ----------
 ----------
 
-[/us/pl/112/81/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1045
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1577
-[/us/pl/112/239/s1076/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F19
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
 [/us/usc/t10/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs494
-[/us/pl/112/239/s1033/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F1%2FA
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1920
 
 

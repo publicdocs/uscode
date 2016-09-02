@@ -17,7 +17,7 @@
 
     When the Coast Guard operates as a part of the Navy pursuant to [section 3 of title 14][/us/usc/t14/s3], the powers conferred on the Secretary of Transportation by [section 191 of this title][/us/usc/t50/s191], shall vest in and be exercised by the Secretary of the Navy.
 
-([Nov. 15, 1941, ch. 471, § 2][/us/act/1941-11-15/ch471/s2], [55 Stat. 763][/us/stat/55/763]; [Pub. L. 87–845, § 11][/us/pl/87/845/s11], Oct. 18, 1962, [76A Stat. 699][/us/stat/76A/699]; [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938].)
+([Nov. 15, 1941, ch. 471][/us/act/1941-11-15/ch471], § 2, [55 Stat. 763][/us/stat/55/763]; [Pub. L. 87–845][/us/pl/87/845], § 11, Oct. 18, 1962, [76A Stat. 699][/us/stat/76A/699]; [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
 [/us/usc/t50/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs191
-[/us/act/1941-11-15/ch471/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch471%2Fs2
+[/us/act/1941-11-15/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch471
 [/us/stat/55/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F763
-[/us/pl/87/845/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs11
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F699
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

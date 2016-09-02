@@ -23,7 +23,7 @@
 
         Not later than January 31 of each year from 2012 through 2017, the Administrator shall submit to Congress a report detailing the number of new private-sector employment opportunities created as a result of the previous years’ cooperative research and development activities at each national security laboratory.
 
-([Pub. L. 111–383, div. C, title XXXI, § 3122][/us/pl/111/383/s3122], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514].)
+([Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3122, Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
-[/us/pl/111/383/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3122
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
 
 

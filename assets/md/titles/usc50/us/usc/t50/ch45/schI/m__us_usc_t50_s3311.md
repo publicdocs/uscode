@@ -43,7 +43,7 @@
 
         (3) Each head of each element of the intelligence community that is within the Department of Defense.
 
-([Pub. L. 113–126, title III, § 323][/us/pl/113/126/s323], July 7, 2014, [128 Stat. 1401][/us/stat/128/1401].)
+([Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 323, July 7, 2014, [128 Stat. 1401][/us/stat/128/1401].)
 
  __Definition__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/113/126/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs323
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1401
 [/us/pl/113/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003

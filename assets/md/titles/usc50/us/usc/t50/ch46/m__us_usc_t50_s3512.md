@@ -87,7 +87,7 @@
 
         (2) a prohibition against the acceptance of a gift from a foreign government or an agent of a foreign government.
 
-([June 20, 1949, ch. 227, § 12][/us/act/1949-06-20/ch227/s12], as added [Pub. L. 96–450, title IV, § 404][/us/pl/96/450/s404], Oct. 14, 1980, [94 Stat. 1979][/us/stat/94/1979]; amended [Pub. L. 112–87, title IV, § 411][/us/pl/112/87/s411], Jan. 3, 2012, [125 Stat. 1889][/us/stat/125/1889]; [Pub. L. 113–126, title IV, § 421][/us/pl/113/126/s421], July 7, 2014, [128 Stat. 1410][/us/stat/128/1410].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 12, as added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 404, Oct. 14, 1980, [94 Stat. 1979][/us/stat/94/1979]; amended [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 411, Jan. 3, 2012, [125 Stat. 1889][/us/stat/125/1889]; [Pub. L. 113–126, title IV][/us/pl/113/126/tIV], § 421, July 7, 2014, [128 Stat. 1410][/us/stat/128/1410].)
 
  __Codification__ 
 
@@ -95,19 +95,19 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–126, § 421(1)][/us/pl/113/126/s421/1], substituted “Gifts, devises, and bequests” for “Authority to accept gifts, devises, and bequests” in section catchline.
+    2014—[Pub. L. 113–126][/us/pl/113/126], § 421(1), substituted “Gifts, devises, and bequests” for “Authority to accept gifts, devises, and bequests” in section catchline.
 
-    Subsec. (a)(2). [Pub. L. 113–126, § 421(2)][/us/pl/113/126/s421/2], in introductory provisions, inserted “by the Director as a gift to the Agency” after “accepted” and substituted “this subsection” for “this section”.
+    Subsec. (a)(2). [Pub. L. 113–126][/us/pl/113/126], § 421(2), in introductory provisions, inserted “by the Director as a gift to the Agency” after “accepted” and substituted “this subsection” for “this section”.
 
-    Subsecs. (b), (c). [Pub. L. 113–126, § 421(3)][/us/pl/113/126/s421/3], (4), substituted “subsection (a),” for “this section,”.
+    Subsecs. (b), (c). [Pub. L. 113–126][/us/pl/113/126], § 421(3), (4), substituted “subsection (a),” for “this section,”.
 
-    Subsec. (d). [Pub. L. 113–126, § 421(5)][/us/pl/113/126/s421/5], substituted “subsection (a)” for “this section”.
+    Subsec. (d). [Pub. L. 113–126][/us/pl/113/126], § 421(5), substituted “subsection (a)” for “this section”.
 
-    Subsecs. (f), (g). [Pub. L. 113–126, § 421(6)][/us/pl/113/126/s421/6], (7), added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 113–126][/us/pl/113/126], § 421(6), (7), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-    2012—Subsec. (a). [Pub. L. 112–87, § 411(1)][/us/pl/112/87/s411/1], designated existing provisions as par. (1), struck out “Any gift accepted under this section (and any income produced by any such gift) may be used only for artistic display or for purposes relating to the general welfare, education, or recreation of employees or dependents of employees of the Agency or for similar purposes, and under no circumstances may such a gift (or any income produced by any such gift) be used for operational purposes. The Director may not accept any gift under this section which is expressly conditioned upon any expenditure not to be met from the gift itself or from income produced by the gift unless such expenditure has been authorized by law.” at end, and added pars. (2) to (5).
+    2012—Subsec. (a). [Pub. L. 112–87][/us/pl/112/87], § 411(1), designated existing provisions as par. (1), struck out “Any gift accepted under this section (and any income produced by any such gift) may be used only for artistic display or for purposes relating to the general welfare, education, or recreation of employees or dependents of employees of the Agency or for similar purposes, and under no circumstances may such a gift (or any income produced by any such gift) be used for operational purposes. The Director may not accept any gift under this section which is expressly conditioned upon any expenditure not to be met from the gift itself or from income produced by the gift unless such expenditure has been authorized by law.” at end, and added pars. (2) to (5).
 
-    Subsec. (f). [Pub. L. 112–87, § 411(2)][/us/pl/112/87/s411/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 112–87][/us/pl/112/87], § 411(2), added subsec. (f).
 
 ----------
 
@@ -116,19 +116,19 @@
 ----------
 ----------
 
-[/us/act/1949-06-20/ch227/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs12
-[/us/pl/96/450/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs404
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1979
-[/us/pl/112/87/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs411
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1889
-[/us/pl/113/126/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421
+[/us/pl/113/126/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIV
 [/us/stat/128/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1410
-[/us/pl/113/126/s421/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F1
-[/us/pl/113/126/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F2
-[/us/pl/113/126/s421/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F3
-[/us/pl/113/126/s421/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F5
-[/us/pl/113/126/s421/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs421%2F6
-[/us/pl/112/87/s411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs411%2F1
-[/us/pl/112/87/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs411%2F2
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 
 

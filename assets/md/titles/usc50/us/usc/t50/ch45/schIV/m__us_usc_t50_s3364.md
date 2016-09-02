@@ -55,7 +55,7 @@
 
         (2) the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 108–458, title I, § 1019][/us/pl/108/458/s1019], Dec. 17, 2004, [118 Stat. 3671][/us/stat/118/3671].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1019, Dec. 17, 2004, [118 Stat. 3671][/us/stat/118/3671].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Safeguard of Objectivity in Intelligence Analysis__ 
 
-[Pub. L. 108–458, title I, § 1020][/us/pl/108/458/s1020], Dec. 17, 2004, [118 Stat. 3672][/us/stat/118/3672], provided that:
+[Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1020, Dec. 17, 2004, [118 Stat. 3672][/us/stat/118/3672], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -87,13 +87,13 @@
 ----------
 
 [/us/usc/t50/s3024/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fh
-[/us/pl/108/458/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1019
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3671
 [/us/usc/t50/s403–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931a
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/108/458/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1020
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3672
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

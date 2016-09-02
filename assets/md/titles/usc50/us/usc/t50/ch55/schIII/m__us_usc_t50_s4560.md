@@ -15,7 +15,7 @@
 
 ## § 4560. Employment of personnel; appointment policies; nucleus executive reserve; use of confidential information by employees; printing and distribution of reports
 
-    (a) __Repealed.__  __[__  __June 28, 1955, ch. 189, § 12(c)(1)__  __][/us/act/1955-06-28/ch189/s12/c/1]__  __,__  __[__  __69 Stat. 180__  __][/us/stat/69/180]__ 
+    (a) __Repealed.__  __[__  __June 28, 1955, ch. 189__  __][/us/act/1955-06-28/ch189]__  __, § 12(c)(1),__  __[__  __69 Stat. 180__  __][/us/stat/69/180]__ 
 
     (b) __Presidential appointments__ 
 
@@ -77,7 +77,7 @@
 
         The President, when he deems such action necessary, may make provision for the printing and distribution of reports, in such number and in such manner as he deems appropriate, concerning the actions taken to carry out the objectives of this chapter.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 710, [64 Stat. 819][/us/stat/64/819]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(f), [65 Stat. 139][/us/stat/65/139]; [June 28, 1955, ch. 189, § 12(c)(1)][/us/act/1955-06-28/ch189/s12/c/1], [69 Stat. 180][/us/stat/69/180]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], §§ 7, 8, [69 Stat. 582][/us/stat/69/582], 583; [Pub. L. 94–152, § 5][/us/pl/94/152/s5], Dec. 16, 1975, [89 Stat. 820][/us/stat/89/820]; [Pub. L. 102–558, title I, § 143][/us/pl/102/558/s143], Oct. 28, 1992, [106 Stat. 4217][/us/stat/106/4217]; [Pub. L. 111–67, § 10][/us/pl/111/67/s10], Sept. 30, 2009, [123 Stat. 2019][/us/stat/123/2019].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 710, [64 Stat. 819][/us/stat/64/819]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(f), [65 Stat. 139][/us/stat/65/139]; [June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 12(c)(1), [69 Stat. 180][/us/stat/69/180]; [Aug. 9, 1955, ch. 655][/us/act/1955-08-09/ch655], §§ 7, 8, [69 Stat. 582][/us/stat/69/582], 583; [Pub. L. 94–152][/us/pl/94/152], § 5, Dec. 16, 1975, [89 Stat. 820][/us/stat/89/820]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 143, Oct. 28, 1992, [106 Stat. 4217][/us/stat/106/4217]; [Pub. L. 111–67][/us/pl/111/67], § 10, Sept. 30, 2009, [123 Stat. 2019][/us/stat/123/2019].)
 
  __Termination of Section__ 
 
@@ -93,31 +93,31 @@
 
     Section was formerly classified to section 2160 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (c), “[section 3109 of title 5][/us/usc/t5/s3109]” substituted for “[section 55a of title 5][/us/usc/t5/s55a] of the United States Code” as if it had been a reference to section 15 of [act Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], [60 Stat. 810][/us/stat/60/810], on which [section 55a of title 5][/us/usc/t5/s55a] was based, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (c), “[section 3109 of title 5][/us/usc/t5/s3109]” substituted for “[section 55a of title 5][/us/usc/t5/s55a] of the United States Code” as if it had been a reference to section 15 of [act Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], [60 Stat. 810][/us/stat/60/810], on which [section 55a of title 5][/us/usc/t5/s55a] was based, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    2009—Subsec. (b)(2)(iii). [Pub. L. 111–67, § 10(1)(A)][/us/pl/111/67/s10/1/A], struck out cl. (iii), which read as follows: “In the appointment of personnel and in assignment of their duties, the head of the department or agency involved shall take steps to avoid, to as great an extent as possible, any conflict between the governmental duties and the private interests of such personnel.”
+    2009—Subsec. (b)(2)(iii). [Pub. L. 111–67][/us/pl/111/67], § 10(1)(A), struck out cl. (iii), which read as follows: “In the appointment of personnel and in assignment of their duties, the head of the department or agency involved shall take steps to avoid, to as great an extent as possible, any conflict between the governmental duties and the private interests of such personnel.”
 
-    Subsec. (b)(4), (5). [Pub. L. 111–67, § 10(1)(B)][/us/pl/111/67/s10/1/B], (C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which exempted persons employed under subsec. (b) from certain provisions restricting activities of and payments to retired military officers and public officials, with specific exceptions.
+    Subsec. (b)(4), (5). [Pub. L. 111–67][/us/pl/111/67], § 10(1)(B), (C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which exempted persons employed under subsec. (b) from certain provisions restricting activities of and payments to retired military officers and public officials, with specific exceptions.
 
-    Subsec. (b)(6). [Pub. L. 111–67, § 10(1)(D)][/us/pl/111/67/s10/1/D], substituted “The Director of the Office of Personnel Management shall carry out a biennial survey of” for “At least once every three months the Director of the Office of Personnel Management shall survey”.
+    Subsec. (b)(6). [Pub. L. 111–67][/us/pl/111/67], § 10(1)(D), substituted “The Director of the Office of Personnel Management shall carry out a biennial survey of” for “At least once every three months the Director of the Office of Personnel Management shall survey”.
 
-    [Pub. L. 111–67, § 10(1)(C)][/us/pl/111/67/s10/1/C], redesignated par. (7) as (6). Former par. (6) redesignated (5).
+    [Pub. L. 111–67][/us/pl/111/67], § 10(1)(C), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-    Subsec. (b)(7), (8). [Pub. L. 111–67, § 10(1)(C)][/us/pl/111/67/s10/1/C], redesignated par. (8) as (7). Former par. (7) redesignated (6).
+    Subsec. (b)(7), (8). [Pub. L. 111–67][/us/pl/111/67], § 10(1)(C), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-    Subsec. (c). [Pub. L. 111–67, § 10(2)][/us/pl/111/67/s10/2], struck out at end “The President is authorized to provide by regulation for the exemption of such persons from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and [section 99 of title 5][/us/usc/t5/s99].”
+    Subsec. (c). [Pub. L. 111–67][/us/pl/111/67], § 10(2), struck out at end “The President is authorized to provide by regulation for the exemption of such persons from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and [section 99 of title 5][/us/usc/t5/s99].”
 
-    Subsec. (d). [Pub. L. 111–67, § 10(3)][/us/pl/111/67/s10/3], substituted “needed.” for “needed; and he is authorized to provide by regulation for the exemption of persons whose services are utilized under this subsection from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and [section 99 of title 5][/us/usc/t5/s99].”
+    Subsec. (d). [Pub. L. 111–67][/us/pl/111/67], § 10(3), substituted “needed.” for “needed; and he is authorized to provide by regulation for the exemption of persons whose services are utilized under this subsection from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and [section 99 of title 5][/us/usc/t5/s99].”
 
-    Subsec. (e). [Pub. L. 111–67, § 10(4)][/us/pl/111/67/s10/4], substituted “national defense emergency, as determined by the President” for “emergency” and struck out at end “The President is authorized to provide by regulation for the exemption of such persons who are not full-time Government employees from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and [section 99 of title 5][/us/usc/t5/s99].”
+    Subsec. (e). [Pub. L. 111–67][/us/pl/111/67], § 10(4), substituted “national defense emergency, as determined by the President” for “emergency” and struck out at end “The President is authorized to provide by regulation for the exemption of such persons who are not full-time Government employees from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and [section 99 of title 5][/us/usc/t5/s99].”
 
-    1992—Subsec. (b)(6). [Pub. L. 102–558, § 143(a)][/us/pl/102/558/s143/a], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The heads of the departments or agencies making appointments under this subsection shall file with the Division of the Federal Register for publication in the Federal Register a statement including the name of the appointee, the employing department or agency, the title of his position, and the name of his private employer, and the appointee shall file with such Division for publication in the Federal Register a statement listing the names of any corporations of which he is an officer or director or within sixty days preceding his appointment has been an officer or director, or in which he owns, or within sixty days preceding his appointment has owned, any stocks, bonds, or other financial interests, and the names of any partnerships in which he is, or was within sixty days preceding his appointment, a partner, and the names of any other businesses in which he owns, or within such sixty-day period has owned, any similar interest. At the end of each succeeding six-month period, the appointee shall file with such Division for publication in the Federal Register a statement showing any changes in such interests during such period.”
+    1992—Subsec. (b)(6). [Pub. L. 102–558][/us/pl/102/558], § 143(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The heads of the departments or agencies making appointments under this subsection shall file with the Division of the Federal Register for publication in the Federal Register a statement including the name of the appointee, the employing department or agency, the title of his position, and the name of his private employer, and the appointee shall file with such Division for publication in the Federal Register a statement listing the names of any corporations of which he is an officer or director or within sixty days preceding his appointment has been an officer or director, or in which he owns, or within sixty days preceding his appointment has owned, any stocks, bonds, or other financial interests, and the names of any partnerships in which he is, or was within sixty days preceding his appointment, a partner, and the names of any other businesses in which he owns, or within such sixty-day period has owned, any similar interest. At the end of each succeeding six-month period, the appointee shall file with such Division for publication in the Federal Register a statement showing any changes in such interests during such period.”
 
-    Subsec. (b)(7). [Pub. L. 102–558, § 143(b)(1)][/us/pl/102/558/s143/b/1], substituted “Director of the Office of Personnel Management” for “Chairman of the United States Civil Service Commission” and “his or her findings” for “his findings”, struck out “and the Joint Committee on Defense Production” after “to the President”, and substituted “he or she may” for “he may”.
+    Subsec. (b)(7). [Pub. L. 102–558][/us/pl/102/558], § 143(b)(1), substituted “Director of the Office of Personnel Management” for “Chairman of the United States Civil Service Commission” and “his or her findings” for “his findings”, struck out “and the Joint Committee on Defense Production” after “to the President”, and substituted “he or she may” for “he may”.
 
-    Subsec. (b)(8). [Pub. L. 102–558, § 143(b)(2)][/us/pl/102/558/s143/b/2], substituted “reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions for which they were appointed in the same manner as persons employed intermittently in the Federal Government are allowed expenses under [section 5703 of title 5][/us/usc/t5/s5703]” for “transportation and not to exceed $15 per diem in lieu of subsistence while away from their homes or regular places of business pursuant to such appointment”.
+    Subsec. (b)(8). [Pub. L. 102–558][/us/pl/102/558], § 143(b)(2), substituted “reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions for which they were appointed in the same manner as persons employed intermittently in the Federal Government are allowed expenses under [section 5703 of title 5][/us/usc/t5/s5703]” for “transportation and not to exceed $15 per diem in lieu of subsistence while away from their homes or regular places of business pursuant to such appointment”.
 
     1975—Subsec. (e). [Pub. L. 94–152][/us/pl/94/152] substituted provisions authorizing per diem in lieu of subsistence in accordance with provisions of title 5 with respect to individuals serving without pay while away from their homes or regular places of business, for provisions authorizing $15 per diem in lieu of subsistence.
 
@@ -154,7 +154,7 @@
 ----------
 ----------
 
-[/us/act/1955-06-28/ch189/s12/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs12%2Fc%2F1
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F180
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
@@ -162,15 +162,15 @@
 [/us/stat/64/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F819
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F139
-[/us/act/1955-06-28/ch189/s12/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs12%2Fc%2F1
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F180
 [/us/act/1955-08-09/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch655
 [/us/stat/69/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F582
-[/us/pl/94/152/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152%2Fs5
+[/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/stat/89/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F820
-[/us/pl/102/558/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs143
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4217
-[/us/pl/111/67/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2019
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
@@ -182,22 +182,22 @@
 [/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F810
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/111/67/s10/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F1%2FA
-[/us/pl/111/67/s10/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F1%2FB
-[/us/pl/111/67/s10/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F1%2FD
-[/us/pl/111/67/s10/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F1%2FC
-[/us/pl/111/67/s10/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F1%2FC
-[/us/pl/111/67/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F2
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/111/67/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F3
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/111/67/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs10%2F4
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/102/558/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs143%2Fa
-[/us/pl/102/558/s143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs143%2Fb%2F1
-[/us/pl/102/558/s143/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs143%2Fb%2F2
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
+[/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/94/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F152
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558

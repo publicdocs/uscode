@@ -17,7 +17,7 @@
 
     An officer or employee of the United States or member of the Armed Forces may be detailed to the staff of an element of the intelligence community funded through the National Intelligence Program from another element of the intelligence community or from another element of the United States Government on a non-reimbursable basis, as jointly agreed to by the heads of the receiving and detailing elements, for a period not to exceed three years. This section does not limit any other source of authority for reimbursable or non-reimbursable details. A non-reimbursable detail made under this section shall not be considered an augmentation of the appropriations of the receiving element of the intelligence community.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 113A, as added [Pub. L. 111–259, title III, § 302(a)][/us/pl/111/259/s302/a], Oct. 7, 2010, [124 Stat. 2658][/us/stat/124/2658]; amended [Pub. L. 112–18, title III, § 303(a)][/us/pl/112/18/s303/a], June 8, 2011, [125 Stat. 226][/us/stat/125/226]; [Pub. L. 112–277, title III, § 303][/us/pl/112/277/s303], Jan. 14, 2013, [126 Stat. 2471][/us/stat/126/2471].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 113A, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 302(a), Oct. 7, 2010, [124 Stat. 2658][/us/stat/124/2658]; amended [Pub. L. 112–18, title III][/us/pl/112/18/tIII], § 303(a), June 8, 2011, [125 Stat. 226][/us/stat/125/226]; [Pub. L. 112–277, title III][/us/pl/112/277/tIII], § 303, Jan. 14, 2013, [126 Stat. 2471][/us/stat/126/2471].)
 
  __Codification__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs302%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2658
-[/us/pl/112/18/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs303%2Fa
+[/us/pl/112/18/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2FtIII
 [/us/stat/125/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F226
-[/us/pl/112/277/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs303
+[/us/pl/112/277/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtIII
 [/us/stat/126/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2471
 [/us/usc/t50/s404h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404h%E2%80%931
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277

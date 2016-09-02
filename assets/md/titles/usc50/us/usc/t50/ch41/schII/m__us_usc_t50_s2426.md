@@ -91,11 +91,11 @@
 
         (2) a period of 30 days elapses after such notification is received.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3236][/us/pl/106/65/s3236], Oct. 5, 1999, [113 Stat. 962][/us/stat/113/962]; [Pub. L. 113–291, div. C, title XXXI, § 3143(b)][/us/pl/113/291/s3143/b], Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3236, Oct. 5, 1999, [113 Stat. 962][/us/stat/113/962]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3143(b), Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 2122a of Title 42][/us/usc/t42/s2122a], The Public Health and Welfare, prior to repeal by [Pub. L. 106–65, § 3294(e)(1)(A)][/us/pl/106/65/s3294/e/1/A].
+    Provisions similar to those in this section were contained in [section 2122a of Title 42][/us/usc/t42/s2122a], The Public Health and Welfare, prior to repeal by [Pub. L. 106–65][/us/pl/106/65], § 3294(e)(1)(A).
 
  __Amendments__ 
 
@@ -109,12 +109,12 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/65/s3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3236
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F962
-[/us/pl/113/291/s3143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3143%2Fb
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3902
 [/us/usc/t42/s2122a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2122a
-[/us/pl/106/65/s3294/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3294%2Fe%2F1%2FA
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

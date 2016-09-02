@@ -89,7 +89,7 @@
 
             There are authorized to be appropriated to the Fund such sums as are necessary to carry out this subsection.
 
-([Pub. L. 100–383, title II, § 205][/us/pl/100/383/s205], Aug. 10, 1988, [102 Stat. 912][/us/stat/102/912]; [Pub. L. 103–402, § 1(a)][/us/pl/103/402/s1/a], Oct. 22, 1994, [108 Stat. 4174][/us/stat/108/4174].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 205, Aug. 10, 1988, [102 Stat. 912][/us/stat/102/912]; [Pub. L. 103–402][/us/pl/103/402], § 1(a), Oct. 22, 1994, [108 Stat. 4174][/us/stat/108/4174].)
 
  __Codification__ 
 
@@ -101,7 +101,7 @@
 
  __Reestablishment of Fund; Use of Funds__ 
 
-[Pub. L. 103–402, § 1(b)][/us/pl/103/402/s1/b], (c), Oct. 22, 1994, [108 Stat. 4174][/us/stat/108/4174], provided that:
+[Pub. L. 103–402][/us/pl/103/402], § 1(b), (c), Oct. 22, 1994, [108 Stat. 4174][/us/stat/108/4174], provided that:
 
 >     “(b)  __Fund__  __.—__ 
 
@@ -118,12 +118,12 @@
 ----------
 ----------
 
-[/us/pl/100/383/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs205
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F912
-[/us/pl/103/402/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F402%2Fs1%2Fa
+[/us/pl/103/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F402
 [/us/stat/108/4174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4174
 [/us/pl/103/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F402
-[/us/pl/103/402/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F402%2Fs1%2Fb
+[/us/pl/103/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F402
 [/us/stat/108/4174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4174
 [/us/usc/t50/s4235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4235%2Fa
 [/us/usc/t50/s4233/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4233%2Fd

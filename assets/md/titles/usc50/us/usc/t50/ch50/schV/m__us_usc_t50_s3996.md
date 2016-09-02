@@ -29,7 +29,7 @@
 
             Such affidavits shall be binding in law and subject to the same penalties as prescribed by [section 1001 of title 18][/us/usc/t18/s1001].
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 506, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2857][/us/stat/117/2857].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 506, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2857][/us/stat/117/2857].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 506 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1188][/us/stat/54/1188]; [Pub. L. 102–12, § 9(21)][/us/pl/102/12/s9/21], Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to mineral permits and leases and the suspension of operations and term of permits and leases, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3995 of this title][/us/usc/t50/s3995].
+    A prior section 506 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1188][/us/stat/54/1188]; [Pub. L. 102–12][/us/pl/102/12], § 9(21), Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to mineral permits and leases and the suspension of operations and term of permits and leases, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3995 of this title][/us/usc/t50/s3995].
 
 ----------
 
@@ -49,11 +49,11 @@
 [/us/usc/t10/s1044a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044a
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2857
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1188
-[/us/pl/102/12/s9/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F21
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F41
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3995

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4067 derived from [act July 6, 1798, ch. 66, § 1][/us/act/1798-07-06/ch66/s1], [1 Stat. 577][/us/stat/1/577].
+    R.S. § 4067 derived from [act July 6, 1798, ch. 66][/us/act/1798-07-06/ch66], § 1, [1 Stat. 577][/us/stat/1/577].
 
  __Amendments__ 
 
@@ -62,7 +62,7 @@
 
 [/us/act/1918-04-16/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-16%2Fch55
 [/us/stat/40/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F531
-[/us/act/1798-07-06/ch66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66%2Fs1
+[/us/act/1798-07-06/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66
 [/us/stat/1/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F577
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/stat/40/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1651

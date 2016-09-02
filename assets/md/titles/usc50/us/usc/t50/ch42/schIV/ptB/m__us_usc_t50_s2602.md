@@ -29,7 +29,7 @@
 
         (3) a discussion of the proposed cleanup schedule.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4422][/us/pl/107/314/s4422], formerly [Pub. L. 101–189, div. C, title XXXI, § 3156][/us/pl/101/189/s3156], Nov. 29, 1989, [103 Stat. 1683][/us/stat/103/1683]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4422][/us/pl/107/314/s4422], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(12)][/us/pl/108/136/s3141/g/12], Nov. 24, 2003, [117 Stat. 1766][/us/stat/117/1766]; [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(E)][/us/pl/113/66/s3146/a/2/E], (e)(11), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073], 1077.)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4422, formerly [Pub. L. 101–189, div. C, title XXXI][/us/pl/101/189/dC/tXXXI], § 3156, Nov. 29, 1989, [103 Stat. 1683][/us/stat/103/1683]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4422, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(12), Nov. 24, 2003, [117 Stat. 1766][/us/stat/117/1766]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(a)(2)(E), (e)(11), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073], 1077.)
 
  __Codification__ 
 
@@ -37,21 +37,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 2611, [Pub. L. 107–314, div. D, title XLIV, § 4431][/us/pl/107/314/s4431], formerly [Pub. L. 105–85, div. C, title XXXI, § 3132][/us/pl/105/85/s3132], Nov. 18, 1997, [111 Stat. 2034][/us/stat/111/2034]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4431][/us/pl/107/314/s4431], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(14)][/us/pl/108/136/s3141/g/14], Nov. 24, 2003, [117 Stat. 1767][/us/stat/117/1767], related to defense environmental management privatization projects, prior to repeal by [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(12)][/us/pl/113/66/s3146/e/12], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078].
+    A prior section 2611, [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4431, formerly [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3132, Nov. 18, 1997, [111 Stat. 2034][/us/stat/111/2034]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4431, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(14), Nov. 24, 2003, [117 Stat. 1767][/us/stat/117/1767], related to defense environmental management privatization projects, prior to repeal by [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(12), Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078].
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 3146(e)(11)(A)][/us/pl/113/66/s3146/e/11/A], substituted “shall submit” for “must submit” and “defense environmental cleanup” for “environmental remediation and cleanup”.
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(11)(A), substituted “shall submit” for “must submit” and “defense environmental cleanup” for “environmental remediation and cleanup”.
 
-    [Pub. L. 113–66, § 3146(a)(2)(E)][/us/pl/113/66/s3146/a/2/E], struck out “(as defined in [section 2286g of title 42][/us/usc/t42/s2286g])” after “defense nuclear facility”.
+    [Pub. L. 113–66][/us/pl/113/66], § 3146(a)(2)(E), struck out “(as defined in [section 2286g of title 42][/us/usc/t42/s2286g])” after “defense nuclear facility”.
 
-    Subsec. (b)(2). [Pub. L. 113–66, § 3146(e)(11)(B)][/us/pl/113/66/s3146/e/11/B], substituted “defense environmental cleanup activities” for “environmental restoration and other remediation and cleanup efforts”.
+    Subsec. (b)(2). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(11)(B), substituted “defense environmental cleanup activities” for “environmental restoration and other remediation and cleanup efforts”.
 
-    2003—[Pub. L. 108–136, § 3141(g)(12)(D)][/us/pl/108/136/s3141/g/12/D], made technical amendment to section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(g)(12)(D), made technical amendment to section catchline.
 
  __Defense Site Acceleration Completion__ 
 
-[Pub. L. 108–375, div. C, title XXXI, § 3116][/us/pl/108/375/s3116], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162], provided that:
+[Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3116, Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -131,7 +131,7 @@
 
  __Sandia National Laboratories__ 
 
-[Pub. L. 108–199, div. H, § 127][/us/pl/108/199/s127], Jan. 23, 2004, [118 Stat. 440][/us/stat/118/440], provided that: 
+[Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 127, Jan. 23, 2004, [118 Stat. 440][/us/stat/118/440], provided that: 
 
 > “Funds appropriated in this, or any other Act hereafter, may not be obligated to pay, on behalf of the United States or a contractor or subcontractor of the United States, to post a bond or fulfill any other financial responsibility requirement relating to closure or post-closure care and monitoring of Sandia National Laboratories and properties held or managed by Sandia National Laboratories prior to implementation of closure or post-closure monitoring. The State of New Mexico or any other entity may not enforce against the United States or a contractor or subcontractor of the United States, in this year or any other fiscal year, a requirement to post bond or any other financial responsibility requirement relating to closure or post-closure care and monitoring of Sandia National Laboratories in New Mexico and properties held or managed by Sandia National Laboratories in New Mexico.”
 
@@ -142,30 +142,30 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4422
-[/us/pl/101/189/s3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3156
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/101/189/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXI
 [/us/stat/103/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1683
-[/us/pl/107/314/s4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4422
-[/us/pl/108/136/s3141/g/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F12
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1766
-[/us/pl/113/66/s3146/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FE
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t42/s7274b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274b
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/107/314/s4431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4431
-[/us/pl/105/85/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3132
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2034
-[/us/pl/107/314/s4431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4431
-[/us/pl/108/136/s3141/g/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F14
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1767
-[/us/pl/113/66/s3146/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F12
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
-[/us/pl/113/66/s3146/e/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F11%2FA
-[/us/pl/113/66/s3146/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FE
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t42/s2286g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286g
-[/us/pl/113/66/s3146/e/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F11%2FB
-[/us/pl/108/136/s3141/g/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F12%2FD
-[/us/pl/108/375/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3116
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2162
 [/us/usc/t42/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101
 [/us/usc/t42/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842
@@ -176,7 +176,7 @@
 [/us/usc/t50/s2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2567
 [/us/pl/96/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F368
 [/us/usc/t42/s2121a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121a
-[/us/pl/108/199/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs127
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F440
 
 

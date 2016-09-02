@@ -89,7 +89,7 @@
 
             (B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 701, as added [Pub. L. 98–477, § 2(a)][/us/pl/98/477/s2/a], Oct. 15, 1984, [98 Stat. 2209][/us/stat/98/2209]; amended [Pub. L. 104–93, title VII, § 702][/us/pl/104/93/s702], Jan. 6, 1996, [109 Stat. 978][/us/stat/109/978]; [Pub. L. 107–306, title III, § 353(b)(10)][/us/pl/107/306/s353/b/10], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–136, div. A, title IX, § 922(b)(1)][/us/pl/108/136/s922/b/1], (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], 1574; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(6), 1072(a)(7), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3692; [Pub. L. 111–259, title VIII, § 804(6)][/us/pl/111/259/s804/6], Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 701, as added [Pub. L. 98–477][/us/pl/98/477], § 2(a), Oct. 15, 1984, [98 Stat. 2209][/us/stat/98/2209]; amended [Pub. L. 104–93, title VII][/us/pl/104/93/tVII], § 702, Jan. 6, 1996, [109 Stat. 978][/us/stat/109/978]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(10), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 922(b)(1), (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], 1574; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(a)(6), 1072(a)(7), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3692; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 804(6), Oct. 7, 2010, [124 Stat. 2747][/us/stat/124/2747].)
 
  __References in Text__ 
 
@@ -99,33 +99,33 @@
 
     Section was formerly classified to [section 431 of this title][/us/usc/t50/s431] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
-    The text of former [section 432 of this title][/us/usc/t50/s432], which was transferred to this section and redesignated as subsec. (g) by [Pub. L. 108–136, § 922(b)(2)(B)][/us/pl/108/136/s922/b/2/B], was based on [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 702, as added [Pub. L. 98–477, § 2(a)][/us/pl/98/477/s2/a], Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211].
+    The text of former [section 432 of this title][/us/usc/t50/s432], which was transferred to this section and redesignated as subsec. (g) by [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(B), was based on [act July 26, 1947, ch. 343, title VII][/us/act/1947-07-26/ch343/tVII], § 702, as added [Pub. L. 98–477][/us/pl/98/477], § 2(a), Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211].
 
  __Amendments__ 
 
     2010—Subsec. (b)(1). [Pub. L. 111–259][/us/pl/111/259] substituted “National Clandestine Service” for “Directorate of Operations”.
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 1071(a)(6)(A)][/us/pl/108/458/s1071/a/6/A], substituted “The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency” for “Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence”.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(6)(A), substituted “The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency” for “Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence”.
 
-    Subsec. (c)(3). [Pub. L. 108–458, § 1072(a)(7)][/us/pl/108/458/s1072/a/7], substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
+    Subsec. (c)(3). [Pub. L. 108–458][/us/pl/108/458], § 1072(a)(7), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
 
-    Subsec. (g)(1). [Pub. L. 108–458, § 1071(a)(6)(B)][/us/pl/108/458/s1071/a/6/B], substituted “Director of the Central Intelligence Agency and the Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (g)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(6)(B), substituted “Director of the Central Intelligence Agency and the Director of National Intelligence” for “Director of Central Intelligence”.
 
-    2003—[Pub. L. 108–136, § 922(d)(1)(B)][/us/pl/108/136/s922/d/1/B], substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 922(d)(1)(B), substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
 
-    Subsec. (b). [Pub. L. 108–136, § 922(b)(1)][/us/pl/108/136/s922/b/1], which directed the substitution of “In this section,” for “For purposes of this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 922(b)(1), which directed the substitution of “In this section,” for “For purposes of this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
 
-    Subsec. (g). [Pub. L. 108–136, § 922(b)(2)(C)][/us/pl/108/136/s922/b/2/C], inserted heading.
+    Subsec. (g). [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(C), inserted heading.
 
-    [Pub. L. 108–136, § 922(b)(2)(B)][/us/pl/108/136/s922/b/2/B], transferred text of [section 432 of this title][/us/usc/t50/s432] to this section, redesignated it as subsec. (g), and redesignated subsecs. (a) to (c) of that text as pars. (1) to (3), respectively, of subsec. (g).
+    [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(B), transferred text of [section 432 of this title][/us/usc/t50/s432] to this section, redesignated it as subsec. (g), and redesignated subsecs. (a) to (c) of that text as pars. (1) to (3), respectively, of subsec. (g).
 
-    Subsec. (g)(1). [Pub. L. 108–136, § 922(b)(2)(D)][/us/pl/108/136/s922/b/2/D], substituted “of this section” for “of [section 431 of this title][/us/usc/t50/s431]”.
+    Subsec. (g)(1). [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(D), substituted “of this section” for “of [section 431 of this title][/us/usc/t50/s431]”.
 
-    Subsec. (g)(2). [Pub. L. 108–136, § 922(b)(2)(E)][/us/pl/108/136/s922/b/2/E], which directed the substitution of “paragraph (1)” for “of subsection (a) of this section”, was executed by making the substitution for “subsection (a) of this section”, to reflect the probable intent of Congress.
+    Subsec. (g)(2). [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(E), which directed the substitution of “paragraph (1)” for “of subsection (a) of this section”, was executed by making the substitution for “subsection (a) of this section”, to reflect the probable intent of Congress.
 
-    Subsec. (g)(3). [Pub. L. 108–136, § 922(b)(2)(F)(ii)][/us/pl/108/136/s922/b/2/F/ii], substituted “to determining the following:” and subpars. (A) and (B) for “to determining (1) whether the Central Intelligence Agency has conducted the review required by subsection (a) of this section within ten years of enactment of this title or within ten years after the last review, and (2) whether the Central Intelligence Agency, in fact, considered the criteria set forth in subsection (b) of this section in conducting the required review.”
+    Subsec. (g)(3). [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(F)(ii), substituted “to determining the following:” and subpars. (A) and (B) for “to determining (1) whether the Central Intelligence Agency has conducted the review required by subsection (a) of this section within ten years of enactment of this title or within ten years after the last review, and (2) whether the Central Intelligence Agency, in fact, considered the criteria set forth in subsection (b) of this section in conducting the required review.”
 
-    [Pub. L. 108–136, § 922(b)(2)(F)(i)][/us/pl/108/136/s922/b/2/F/i], substituted “with this subsection” for “with this section” in first sentence.
+    [Pub. L. 108–136][/us/pl/108/136], § 922(b)(2)(F)(i), substituted “with this subsection” for “with this section” in first sentence.
 
     2002—Subsec. (c)(3). [Pub. L. 107–306][/us/pl/107/306] substituted “congressional intelligence committees” for “intelligence committees of the Congress”.
 
@@ -139,7 +139,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–477, § 4][/us/pl/98/477/s4], Oct. 15, 1984, [98 Stat. 2212][/us/stat/98/2212], provided that: 
+[Pub. L. 98–477][/us/pl/98/477], § 4, Oct. 15, 1984, [98 Stat. 2212][/us/stat/98/2212], provided that: 
 
 > “The amendments made by subsections (a) and (b) of section 2 \[enacting this subchapter and amending [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees\] shall be effective upon enactment of this Act \[Oct. 15, 1984\] and shall apply with respect to any requests for records, whether or not such request was made prior to such enactment, and shall apply to all civil actions not commenced prior to February 7, 1984.”
 
@@ -159,38 +159,38 @@
 [/us/usc/t5/s552/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FB
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/98/477/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477%2Fs2%2Fa
+[/us/pl/98/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477
 [/us/stat/98/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2209
-[/us/pl/104/93/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs702
+[/us/pl/104/93/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtVII
 [/us/stat/109/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F978
-[/us/pl/107/306/s353/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F10
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
-[/us/pl/108/136/s922/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F1
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1573
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
-[/us/pl/111/259/s804/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F6
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2747
 [/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
 [/us/usc/t50/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432
-[/us/pl/108/136/s922/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FB
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/98/477/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477%2Fs2%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/act/1947-07-26/ch343/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtVII
+[/us/pl/98/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477
 [/us/stat/98/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2211
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F6%2FA
-[/us/pl/108/458/s1072/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fa%2F7
-[/us/pl/108/458/s1071/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F6%2FB
-[/us/pl/108/136/s922/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fd%2F1%2FB
-[/us/pl/108/136/s922/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F1
-[/us/pl/108/136/s922/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FC
-[/us/pl/108/136/s922/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FB
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432
-[/us/pl/108/136/s922/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
-[/us/pl/108/136/s922/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FE
-[/us/pl/108/136/s922/b/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FF%2Fii
-[/us/pl/108/136/s922/b/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FF%2Fi
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/104/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
@@ -198,7 +198,7 @@
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/98/477/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477%2Fs4
+[/us/pl/98/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F477
 [/us/stat/98/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2212
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 

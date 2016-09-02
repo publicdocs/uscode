@@ -33,7 +33,7 @@
 
         It shall not be an offense under [section 3121 of this title][/us/usc/t50/s3121] for an individual to disclose information that solely identifies himself as a covert agent.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VI, § 602, as added [Pub. L. 97–200, § 2(a)][/us/pl/97/200/s2/a], June 23, 1982, [96 Stat. 122][/us/stat/96/122]; amended [Pub. L. 107–306, title III, § 353(b)(9)][/us/pl/107/306/s353/b/9], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VI, § 602, as added [Pub. L. 97–200][/us/pl/97/200], § 2(a), June 23, 1982, [96 Stat. 122][/us/stat/96/122]; amended [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(9), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402].)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t50/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3121
 [/us/usc/t50/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3121
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/97/200/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F200%2Fs2%2Fa
+[/us/pl/97/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F200
 [/us/stat/96/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F122
-[/us/pl/107/306/s353/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F9
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
 [/us/usc/t50/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs422
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306

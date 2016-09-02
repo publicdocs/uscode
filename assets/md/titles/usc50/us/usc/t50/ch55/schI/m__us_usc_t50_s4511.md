@@ -53,7 +53,7 @@
 
         (2) as appropriate and to the extent practicable, consult with the heads of other Federal agencies to develop a consistent and unified Federal priorities and allocations system.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 101, [64 Stat. 799][/us/stat/64/799]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 101(a), [65 Stat. 131][/us/stat/65/131]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, §§ 101, 102, [66 Stat. 296][/us/stat/66/296], 297; [June 30, 1953, ch. 171, § 3][/us/act/1953-06-30/ch171/s3], [67 Stat. 129][/us/stat/67/129]; [Pub. L. 94–163, title I, § 104(a)][/us/pl/94/163/s104/a], Dec. 22, 1975, [89 Stat. 878][/us/stat/89/878]; [Pub. L. 102–99, § 6][/us/pl/102/99/s6], Aug. 17, 1991, [105 Stat. 490][/us/stat/105/490]; [Pub. L. 111–67, § 4][/us/pl/111/67/s4], Sept. 30, 2009, [123 Stat. 2009][/us/stat/123/2009]; [Pub. L. 113–172, § 3][/us/pl/113/172/s3], Sept. 26, 2014, [128 Stat. 1897][/us/stat/128/1897].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 101, [64 Stat. 799][/us/stat/64/799]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 101(a), [65 Stat. 131][/us/stat/65/131]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, §§ 101, 102, [66 Stat. 296][/us/stat/66/296], 297; [June 30, 1953, ch. 171][/us/act/1953-06-30/ch171], § 3, [67 Stat. 129][/us/stat/67/129]; [Pub. L. 94–163, title I][/us/pl/94/163/tI], § 104(a), Dec. 22, 1975, [89 Stat. 878][/us/stat/89/878]; [Pub. L. 102–99][/us/pl/102/99], § 6, Aug. 17, 1991, [105 Stat. 490][/us/stat/105/490]; [Pub. L. 111–67][/us/pl/111/67], § 4, Sept. 30, 2009, [123 Stat. 2009][/us/stat/123/2009]; [Pub. L. 113–172][/us/pl/113/172], § 3, Sept. 26, 2014, [128 Stat. 1897][/us/stat/128/1897].)
 
  __Termination of Section__ 
 
@@ -73,11 +73,11 @@
 
     2009—Subsec. (d). [Pub. L. 111–67][/us/pl/111/67] added subsec. (d).
 
-    1991—Subsec. (a)(2). [Pub. L. 102–99, § 6(1)][/us/pl/102/99/s6/1], substituted “materials, services, and facilities” for “materials and facilities”.
+    1991—Subsec. (a)(2). [Pub. L. 102–99][/us/pl/102/99], § 6(1), substituted “materials, services, and facilities” for “materials and facilities”.
 
-    Subsec. (c)(1). [Pub. L. 102–99, § 6(2)][/us/pl/102/99/s6/2], substituted “materials, equipment, and services” for “supplies of materials and equipment”.
+    Subsec. (c)(1). [Pub. L. 102–99][/us/pl/102/99], § 6(2), substituted “materials, equipment, and services” for “supplies of materials and equipment”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 102–99, § 6(3)][/us/pl/102/99/s6/3], (4), added par. (2), redesignated par. (4) as (3), and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (c)(2) to (4). [Pub. L. 102–99][/us/pl/102/99], § 6(3), (4), added par. (2), redesignated par. (4) as (3), and struck out former pars. (2) and (3) which read as follows:
 
     “(2) The President shall report to the Congress within sixty days after December 22, 1975, on the manner in which the authority contained in paragraph (1) will be administered. This report shall include the manner in which allocations will be made, the procedure for requests and appeals, the criteria for determining priorities as between competing requests, and the office or agency which will administer such authorities.
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–99, § 7][/us/pl/102/99/s7], Aug. 17, 1991, [105 Stat. 490][/us/stat/105/490], provided that: 
+[Pub. L. 102–99][/us/pl/102/99], § 7, Aug. 17, 1991, [105 Stat. 490][/us/stat/105/490], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect on October 20, 1990.”
 
@@ -111,13 +111,13 @@
 
  __Report on Industry Preparedness__ 
 
-[Pub. L. 110–53, title X, § 1002(b)][/us/pl/110/53/s1002/b], Aug. 3, 2007, [121 Stat. 375][/us/stat/121/375], provided that: 
+[Pub. L. 110–53, title X][/us/pl/110/53/tX], § 1002(b), Aug. 3, 2007, [121 Stat. 375][/us/stat/121/375], provided that: 
 
 > “Not later than 6 months after the last day of fiscal year 2007 and each subsequent fiscal year, the Secretary of Homeland Security, in cooperation with the Secretary of Commerce, the Secretary of Transportation, the Secretary of Defense, and the Secretary of Energy, shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Financial Services and the Committee on Homeland Security of the House of Representatives a report that details the actions taken by the Federal Government to ensure, in accordance with subsections (a) and (c) of section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071) \[now [50 U.S.C. 4511][/us/usc/t50/s4511]\], the preparedness of industry to reduce interruption of critical infrastructure and key resource operations during an act of terrorism, natural catastrophe, or other similar national emergency.”
 
  __Presidential Authority To Issue Orders Relating to Domestic Energy Supplies__ 
 
-[Pub. L. 94–163, title I, § 104(b)][/us/pl/94/163/s104/b], Dec. 22, 1975, [89 Stat. 879][/us/stat/89/879], as amended by [Pub. L. 99–58, title I, § 101(b)][/us/pl/99/58/s101/b], July 2, 1985, [99 Stat. 102][/us/stat/99/102]; [Pub. L. 101–46, § 1(2)][/us/pl/101/46/s1/2], June 30, 1989, [103 Stat. 132][/us/stat/103/132]; [Pub. L. 101–262, § 2(a)][/us/pl/101/262/s2/a], Mar. 31, 1990, [104 Stat. 124][/us/stat/104/124]; [Pub. L. 101–360, § 2(a)][/us/pl/101/360/s2/a], Aug. 10, 1990, [104 Stat. 421][/us/stat/104/421]; [Pub. L. 101–383, § 2(1)][/us/pl/101/383/s2/1], Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727]; [Pub. L. 105–388, § 6][/us/pl/105/388/s6], Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479]; [Pub. L. 106–469, title I, § 103(2)][/us/pl/106/469/s103/2], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
+[Pub. L. 94–163, title I][/us/pl/94/163/tI], § 104(b), Dec. 22, 1975, [89 Stat. 879][/us/stat/89/879], as amended by [Pub. L. 99–58, title I][/us/pl/99/58/tI], § 101(b), July 2, 1985, [99 Stat. 102][/us/stat/99/102]; [Pub. L. 101–46][/us/pl/101/46], § 1(2), June 30, 1989, [103 Stat. 132][/us/stat/103/132]; [Pub. L. 101–262][/us/pl/101/262], § 2(a), Mar. 31, 1990, [104 Stat. 124][/us/stat/104/124]; [Pub. L. 101–360][/us/pl/101/360], § 2(a), Aug. 10, 1990, [104 Stat. 421][/us/stat/104/421]; [Pub. L. 101–383][/us/pl/101/383], § 2(1), Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727]; [Pub. L. 105–388][/us/pl/105/388], § 6, Nov. 13, 1998, [112 Stat. 3479][/us/stat/112/3479]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 103(2), Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
 
 > “The expiration of the Defense Production Act of 1950 \[[50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\] or any amendment of such Act after the date of enactment of this Act \[Dec. 22, 1975\] shall not affect the authority of the President under section 101(c) of such Act \[[50 U.S.C. 4511(c)][/us/usc/t50/s4511/c]\], as amended by subsection (a) of this section and in effect on the date of enactment of this Act, unless Congress by law expressly provides to the contrary.”
 
@@ -135,15 +135,15 @@
 [/us/stat/65/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F131
 [/us/act/1952-06-30/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530
 [/us/stat/66/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F296
-[/us/act/1953-06-30/ch171/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171%2Fs3
+[/us/act/1953-06-30/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch171
 [/us/stat/67/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F129
-[/us/pl/94/163/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs104%2Fa
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F878
-[/us/pl/102/99/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs6
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/stat/105/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F490
-[/us/pl/111/67/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs4
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2009
-[/us/pl/113/172/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs3
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
 [/us/stat/128/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1897
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
@@ -151,32 +151,32 @@
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
-[/us/pl/102/99/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs6%2F1
-[/us/pl/102/99/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs6%2F2
-[/us/pl/102/99/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs6%2F3
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
-[/us/pl/102/99/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99%2Fs7
+[/us/pl/102/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F99
 [/us/stat/105/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F490
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
 [/us/usc/t50/s4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4553
-[/us/pl/110/53/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1002%2Fb
+[/us/pl/110/53/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtX
 [/us/stat/121/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F375
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/94/163/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs104%2Fb
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F879
-[/us/pl/99/58/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs101%2Fb
+[/us/pl/99/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2FtI
 [/us/stat/99/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F102
-[/us/pl/101/46/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F46%2Fs1%2F2
+[/us/pl/101/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F46
 [/us/stat/103/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F132
-[/us/pl/101/262/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F262%2Fs2%2Fa
+[/us/pl/101/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F262
 [/us/stat/104/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F124
-[/us/pl/101/360/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F360%2Fs2%2Fa
+[/us/pl/101/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F360
 [/us/stat/104/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F421
-[/us/pl/101/383/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs2%2F1
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F727
-[/us/pl/105/388/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs6
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3479
-[/us/pl/106/469/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F2
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t50/s4511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511%2Fc

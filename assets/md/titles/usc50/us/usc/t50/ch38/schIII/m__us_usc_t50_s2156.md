@@ -23,11 +23,11 @@
 
         The Director shall submit regulations prescribed under subsection (a) of this section to the congressional intelligence committees before they take effect.
 
-([Pub. L. 88–643, title III, § 306][/us/pl/88/643/s306], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3251][/us/stat/106/3251].)
+([Pub. L. 88–643, title III][/us/pl/88/643/tIII], § 306, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3251][/us/stat/106/3251].)
 
  __Prior Provisions__ 
 
-    A prior [section 306 of Pub. L. 88–643][/us/pl/88/643/s306], as added [Pub. L. 99–335, title V, § 506][/us/pl/99/335/s506], June 6, 1986, [100 Stat. 628][/us/stat/100/628], related to regulations and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 306 of Pub. L. 88–643][/us/pl/88/643/s306], as added [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 506, June 6, 1986, [100 Stat. 628][/us/stat/100/628], related to regulations and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/88/643/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs306
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtIII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3251
 [/us/pl/88/643/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs306
-[/us/pl/99/335/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs506
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F628
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

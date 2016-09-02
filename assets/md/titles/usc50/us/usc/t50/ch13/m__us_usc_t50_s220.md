@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5316 derived from [act July 12, 1861, ch. 3, § 3][/us/act/1861-07-12/ch3/s3], [12 Stat. 256][/us/stat/12/256].
+    R.S. § 5316 derived from [act July 12, 1861, ch. 3][/us/act/1861-07-12/ch3], § 3, [12 Stat. 256][/us/stat/12/256].
 
  __Transfer of Functions__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t50/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs219
-[/us/act/1861-07-12/ch3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-12%2Fch3%2Fs3
+[/us/act/1861-07-12/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-12%2Fch3
 [/us/stat/12/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F256
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

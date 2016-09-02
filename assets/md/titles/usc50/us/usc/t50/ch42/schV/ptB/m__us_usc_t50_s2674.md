@@ -25,7 +25,7 @@
 
         (2) The Director of Counterintelligence of the Department of Energy may assign at least one employee from the pool established under paragraph (1) to accompany a group of Department employees or Department contractor employees who travel to any nation designated to be a sensitive country for laboratory-to-laboratory exchange activities or other cooperative exchange activities on behalf of the Department.
 
-([Pub. L. 107–314, div. D, title XLV, § 4524][/us/pl/107/314/s4524], formerly [Pub. L. 106–65, div. C, title XXXI, § 3145][/us/pl/106/65/s3145], Oct. 5, 1999, [113 Stat. 935][/us/stat/113/935]; renumbered [Pub. L. 107–314, div. D, title XLV, § 4524][/us/pl/107/314/s4524], by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(14)][/us/pl/108/136/s3141/h/14], Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775].)
+([Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4524, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3145, Oct. 5, 1999, [113 Stat. 935][/us/stat/113/935]; renumbered [Pub. L. 107–314, div. D, title XLV][/us/pl/107/314/dD/tXLV], § 4524, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(h)(14), Nov. 24, 2003, [117 Stat. 1775][/us/stat/117/1775].)
 
  __Codification__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4524
-[/us/pl/106/65/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3145
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F935
-[/us/pl/107/314/s4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4524
-[/us/pl/108/136/s3141/h/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fh%2F14
+[/us/pl/107/314/dD/tXLV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1775
 [/us/usc/t42/s7383b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383b
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

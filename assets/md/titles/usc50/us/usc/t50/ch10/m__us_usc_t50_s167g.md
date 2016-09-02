@@ -17,7 +17,7 @@
 
     The Secretary is authorized to establish and promulgate such rules and regulations, as are consistent with the directions of this chapter and are necessary to carry out the provisions hereof.
 
-([Mar. 3, 1925, ch. 426, § 9][/us/act/1925-03-03/ch426/s9], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 922][/us/stat/74/922].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 9, as added [Pub. L. 86–777][/us/pl/86/777], § 2, Sept. 13, 1960, [74 Stat. 922][/us/stat/74/922].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch426/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs9
-[/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
 [/us/stat/74/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F922
 
 

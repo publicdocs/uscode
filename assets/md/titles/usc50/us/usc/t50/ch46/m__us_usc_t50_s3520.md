@@ -27,7 +27,7 @@
 
         The General Counsel of the Central Intelligence Agency shall perform such functions as the Director may prescribe.
 
-([June 20, 1949, ch. 227, § 20][/us/act/1949-06-20/ch227/s20], as added [Pub. L. 104–293, title VIII, § 813(a)][/us/pl/104/293/s813/a], Oct. 11, 1996, [110 Stat. 3483][/us/stat/110/3483]; amended [Pub. L. 108–458, title I, § 1071(b)(2)(D)][/us/pl/108/458/s1071/b/2/D], Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 20, as added [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 813(a), Oct. 11, 1996, [110 Stat. 3483][/us/stat/110/3483]; amended [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(b)(2)(D), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Applicability of Appointment Requirements__ 
 
-[Pub. L. 104–293, title VIII, § 813(b)][/us/pl/104/293/s813/b], Oct. 11, 1996, [110 Stat. 3483][/us/stat/110/3483], provided that: 
+[Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 813(b), Oct. 11, 1996, [110 Stat. 3483][/us/stat/110/3483], provided that: 
 
 > “The requirement established by section 20 of the Central Intelligence Agency Act of 1949 \[[50 U.S.C. 3520][/us/usc/t50/s3520]\], as added by subsection (a), for the appointment by the President, by and with the advice and consent of the Senate, of an individual to the position of General Counsel of the Central Intelligence Agency shall apply as follows:
 
@@ -60,10 +60,10 @@
 ----------
 ----------
 
-[/us/act/1949-06-20/ch227/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs20
-[/us/pl/104/293/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs813%2Fa
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3483
-[/us/pl/108/458/s1071/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F2%2FD
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
 [/us/usc/t50/s403t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403t
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
@@ -72,7 +72,7 @@
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/104/293/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs813%2Fb
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3483
 [/us/usc/t50/s3520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3520
 

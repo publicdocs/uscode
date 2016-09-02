@@ -259,7 +259,7 @@
 
         (3) Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.
 
-([Pub. L. 88–643, title III, § 304][/us/pl/88/643/s304], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3244][/us/stat/106/3244]; amended [Pub. L. 103–178, title II, § 202(a)(15)][/us/pl/103/178/s202/a/15], Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
+([Pub. L. 88–643, title III][/us/pl/88/643/tIII], § 304, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3244][/us/stat/106/3244]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(15), Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
 
  __References in Text__ 
 
@@ -267,7 +267,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 304 of Pub. L. 88–643][/us/pl/88/643/s304], as added [Pub. L. 99–335, title V, § 506][/us/pl/99/335/s506], June 6, 1986, [100 Stat. 626][/us/stat/100/626]; amended [Pub. L. 100–178, title IV, § 402(b)(2)][/us/pl/100/178/s402/b/2], Dec. 2, 1987, [101 Stat. 1014][/us/stat/101/1014]; [Pub. L. 102–183, title III, § 309(a)][/us/pl/102/183/s309/a], Dec. 4, 1991, [105 Stat. 1266][/us/stat/105/1266], related to special rules for former spouses and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 304 of Pub. L. 88–643][/us/pl/88/643/s304], as added [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 506, June 6, 1986, [100 Stat. 626][/us/stat/100/626]; amended [Pub. L. 100–178, title IV][/us/pl/100/178/tIV], § 402(b)(2), Dec. 2, 1987, [101 Stat. 1014][/us/stat/101/1014]; [Pub. L. 102–183, title III][/us/pl/102/183/tIII], § 309(a), Dec. 4, 1991, [105 Stat. 1266][/us/stat/105/1266], related to special rules for former spouses and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -305,19 +305,19 @@
 [/us/usc/t5/s8424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8424%2Fa
 [/us/usc/t50/s2002/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2002%2Fa%2F4
 [/us/usc/t50/s2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2157
-[/us/pl/88/643/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs304
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtIII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3244
-[/us/pl/103/178/s202/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F15
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2027
 [/us/pl/99/335/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs302%2Fa
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
 [/us/pl/88/643/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs304
-[/us/pl/99/335/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs506
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F626
-[/us/pl/100/178/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2Fs402%2Fb%2F2
+[/us/pl/100/178/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2FtIV
 [/us/stat/101/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1014
-[/us/pl/102/183/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs309%2Fa
+[/us/pl/102/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIII
 [/us/stat/105/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1266
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

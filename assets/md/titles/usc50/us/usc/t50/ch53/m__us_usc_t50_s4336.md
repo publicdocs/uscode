@@ -31,7 +31,7 @@
 
         Notwithstanding any of the provisions of subsections (a) and (b) of this section, the Attorney General is authorized to pay from property vested in or transferred to the Attorney General under this chapter, the sum of $20,000 as an ex gratia payment to the Government of Switzerland in accordance with the terms of the agreement entered into by that Government and the Government of the United States on March 12, 1980.
 
-([Oct. 6, 1917, ch. 106, § 39][/us/act/1917-10-06/ch106/s39], as added [July 3, 1948, ch. 826, § 12][/us/act/1948-07-03/ch826/s12], [62 Stat. 1246][/us/stat/62/1246]; amended [Aug. 7, 1953, ch. 344][/us/act/1953-08-07/ch344], [67 Stat. 461][/us/stat/67/461]; [Pub. L. 85–884][/us/pl/85/884], Sept. 2, 1958, [72 Stat. 1708][/us/stat/72/1708]; [Pub. L. 87–846, title II][/us/pl/87/846], §§ 202, 204(c), Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113], 1115; [Pub. L. 87–861, § 1][/us/pl/87/861/s1], Oct. 23, 1962, [76 Stat. 1139][/us/stat/76/1139]; [Pub. L. 89–619][/us/pl/89/619], Oct. 4, 1966, [80 Stat. 871][/us/stat/80/871]; [Pub. L. 99–93, title VIII, § 803][/us/pl/99/93/s803], Aug. 16, 1985, [99 Stat. 449][/us/stat/99/449]; [Pub. L. 100–418, title II, § 2501(a)][/us/pl/100/418/s2501/a], Aug. 23, 1988, [102 Stat. 1370][/us/stat/102/1370].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 39, as added [July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], § 12, [62 Stat. 1246][/us/stat/62/1246]; amended [Aug. 7, 1953, ch. 344][/us/act/1953-08-07/ch344], [67 Stat. 461][/us/stat/67/461]; [Pub. L. 85–884][/us/pl/85/884], Sept. 2, 1958, [72 Stat. 1708][/us/stat/72/1708]; [Pub. L. 87–846, title II][/us/pl/87/846/tII], §§ 202, 204(c), Oct. 22, 1962, [76 Stat. 1113][/us/stat/76/1113], 1115; [Pub. L. 87–861][/us/pl/87/861], § 1, Oct. 23, 1962, [76 Stat. 1139][/us/stat/76/1139]; [Pub. L. 89–619][/us/pl/89/619], Oct. 4, 1966, [80 Stat. 871][/us/stat/80/871]; [Pub. L. 99–93, title VIII][/us/pl/99/93/tVIII], § 803, Aug. 16, 1985, [99 Stat. 449][/us/stat/99/449]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2501(a), Aug. 23, 1988, [102 Stat. 1370][/us/stat/102/1370].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     1962—Subsec. (a). [Pub. L. 87–861][/us/pl/87/861] provided that nothing in this section shall be construed to repeal or otherwise affect the operation of section 4337, 4338, 4339, or 4340 of this title.
 
-    Subsec. (b). [Pub. L. 87–846, § 204(c)][/us/pl/87/846/s204/c], required Attorney General to cover $500,000 into Treasury for deposit into War Claims Fund for payments to successor organizations receiving heirless property.
+    Subsec. (b). [Pub. L. 87–846][/us/pl/87/846], § 204(c), required Attorney General to cover $500,000 into Treasury for deposit into War Claims Fund for payments to successor organizations receiving heirless property.
 
-    Subsec. (d). [Pub. L. 87–846, § 202][/us/pl/87/846/s202], added subsec. (d).
+    Subsec. (d). [Pub. L. 87–846][/us/pl/87/846], § 202, added subsec. (d).
 
     1958—Subsec. (c). [Pub. L. 85–884][/us/pl/85/884] added subsec. (c).
 
@@ -71,22 +71,22 @@
 ----------
 
 [/us/usc/t22/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1381
-[/us/act/1917-10-06/ch106/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs39
-[/us/act/1948-07-03/ch826/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826%2Fs12
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1246
 [/us/act/1953-08-07/ch344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch344
 [/us/stat/67/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F461
 [/us/pl/85/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F884
 [/us/stat/72/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1708
-[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
+[/us/pl/87/846/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtII
 [/us/stat/76/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1113
-[/us/pl/87/861/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861%2Fs1
+[/us/pl/87/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861
 [/us/stat/76/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1139
 [/us/pl/89/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F619
 [/us/stat/80/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F871
-[/us/pl/99/93/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs803
+[/us/pl/99/93/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVIII
 [/us/stat/99/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F449
-[/us/pl/100/418/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2501%2Fa
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1370
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
@@ -99,8 +99,8 @@
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/89/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F619
 [/us/pl/87/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861
-[/us/pl/87/846/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs204%2Fc
-[/us/pl/87/846/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs202
+[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
+[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/pl/85/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F884
 
 

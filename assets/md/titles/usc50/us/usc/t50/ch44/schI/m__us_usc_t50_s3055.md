@@ -41,7 +41,7 @@
 
         (2) The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 118, as added [Pub. L. 107–306, title III, § 342(a)(1)][/us/pl/107/306/s342/a/1], Nov. 27, 2002, [116 Stat. 2398][/us/stat/116/2398]; amended [Pub. L. 111–259, title III, § 347(d)][/us/pl/111/259/s347/d], Oct. 7, 2010, [124 Stat. 2698][/us/stat/124/2698].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 118, as added [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 342(a)(1), Nov. 27, 2002, [116 Stat. 2398][/us/stat/116/2398]; amended [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 347(d), Oct. 7, 2010, [124 Stat. 2698][/us/stat/124/2698].)
 
  __Codification__ 
 
@@ -49,13 +49,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–259, § 347(d)(1)][/us/pl/111/259/s347/d/1], substituted “Annual” for “Semiannual” in section catchline.
+    2010—[Pub. L. 111–259][/us/pl/111/259], § 347(d)(1), substituted “Annual” for “Semiannual” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–259, § 347(d)(2)(A)][/us/pl/111/259/s347/d/2/A], (B), in heading, substituted “Annual” for “Semiannual” and, in introductory provisions, substituted “annual basis” for “semiannual basis” and “preceding one-year period” for “preceding six-month period”.
+    Subsec. (a). [Pub. L. 111–259][/us/pl/111/259], § 347(d)(2)(A), (B), in heading, substituted “Annual” for “Semiannual” and, in introductory provisions, substituted “annual basis” for “semiannual basis” and “preceding one-year period” for “preceding six-month period”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 111–259, § 347(d)(2)(C)][/us/pl/111/259/s347/d/2/C], (D), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the total number of applications for asset seizure and designations of individuals or entities suspected of having engaged in financial support of terrorist activities that were granted, modified, or denied;”.
+    Subsec. (a)(2) to (4). [Pub. L. 111–259][/us/pl/111/259], § 347(d)(2)(C), (D), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the total number of applications for asset seizure and designations of individuals or entities suspected of having engaged in financial support of terrorist activities that were granted, modified, or denied;”.
 
-    Subsec. (d)(1), (2). [Pub. L. 111–259, § 347(d)(3)][/us/pl/111/259/s347/d/3], inserted “the Committee on Armed Services,” after “the Committee on Appropriations,”.
+    Subsec. (d)(1), (2). [Pub. L. 111–259][/us/pl/111/259], § 347(d)(3), inserted “the Committee on Armed Services,” after “the Committee on Appropriations,”.
 
 ----------
 
@@ -66,14 +66,14 @@
 
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/107/306/s342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs342%2Fa%2F1
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2398
-[/us/pl/111/259/s347/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fd
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2698
 [/us/usc/t50/s404m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404m
-[/us/pl/111/259/s347/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fd%2F1
-[/us/pl/111/259/s347/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fd%2F2%2FA
-[/us/pl/111/259/s347/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fd%2F2%2FC
-[/us/pl/111/259/s347/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fd%2F3
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 
 

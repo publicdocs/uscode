@@ -27,7 +27,7 @@
 
     (c) __Omitted__ 
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 4, [62 Stat. 1241][/us/stat/62/1241]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 4, [62 Stat. 1241][/us/stat/62/1241]; 1950 Reorg. Plan No. 19, § 1, eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1271][/us/stat/64/1271]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1241
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/act/1941-08-16/ch357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-16%2Fch357
 [/us/stat/55/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F622

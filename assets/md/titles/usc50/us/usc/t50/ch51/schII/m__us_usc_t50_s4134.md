@@ -17,7 +17,7 @@
 
     No claim shall be allowed under subsection (a), (b), or (c) of [section 4132 of this title][/us/usc/t50/s4132] unless the property upon which it is based was owned by a national or nationals of the United States on the date of loss, damage, or destruction and unless the claim was owned by a national or nationals of the United States continuously thereafter until the date of filing with the Commission pursuant to this subchapter. Where any person who lost United States citizenship solely by reason of marriage to a citizen or subject of a foreign country reacquired such citizenship before October 22, 1962, then if such individual, but for such marriage would have been a national of the United States at all times on and after the date of such loss, damage, or destruction until the filing of the claim, such individual shall be treated for all purposes of this subchapter as having been a national of the United States at all such times.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 204, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1109][/us/stat/76/1109].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 204, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1109][/us/stat/76/1109].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t50/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4132
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1109
 
 

@@ -41,7 +41,7 @@
 
         A member of the National Intelligence Reserve Corps who is reemployed on a temporary basis pursuant to this section shall not count against any personnel ceiling applicable to the Office of the Director of National Intelligence.
 
-([Pub. L. 108–458, title I, § 1053][/us/pl/108/458/s1053], Dec. 17, 2004, [118 Stat. 3683][/us/stat/118/3683].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1053, Dec. 17, 2004, [118 Stat. 3683][/us/stat/118/3683].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1053
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3683
 [/us/usc/t50/s403–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931c
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

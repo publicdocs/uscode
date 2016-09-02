@@ -35,7 +35,7 @@
 
         All money or other property received by the Alien Property Custodian as a result of any action or proceeding (whether begun before or after March 10, 1928, and whether or not for the enforcement of a demand or requirement as above specified) shall for the purposes of this chapter be considered as forming a part of the trust in respect of which such action or proceeding was brought, and shall be subject to return in the same manner and upon the same conditions as any other money or property in such trust, except as otherwise provided in subsection (b) of this section.
 
-([Oct. 6, 1917, ch. 106, § 29][/us/act/1917-10-06/ch106/s29], as added [Mar. 10, 1928, ch. 167, § 15][/us/act/1928-03-10/ch167/s15], [45 Stat. 274][/us/stat/45/274].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 29, as added [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 15, [45 Stat. 274][/us/stat/45/274].)
 
  __References in Text__ 
 
@@ -58,8 +58,8 @@
 
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
 [/us/usc/t50/s4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4322
-[/us/act/1917-10-06/ch106/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs29
-[/us/act/1928-03-10/ch167/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs15
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F274
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

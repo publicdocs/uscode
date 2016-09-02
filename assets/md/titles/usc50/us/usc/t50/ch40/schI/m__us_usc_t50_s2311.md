@@ -33,7 +33,7 @@
 
         (3) the measures that should be taken to achieve such improvements, including additional resources and legislative authorities that would be required.
 
-([Pub. L. 104–201, div. A, title XIV, § 1411][/us/pl/104/201/s1411], Sept. 23, 1996, [110 Stat. 2717][/us/stat/110/2717].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1411, Sept. 23, 1996, [110 Stat. 2717][/us/stat/110/2717].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1411
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2717
 
 

@@ -59,7 +59,7 @@
 
         (4) to any officer, employee, or contractor of the Federal government or member of an advisory committee to an element of the intelligence community who possesses an active security clearance and a need to know the specific national intelligence or intelligence related to national security, as defined in [section 3003(5) of this title][/us/usc/t50/s3003/5].
 
-([Pub. L. 112–277, title V, § 504][/us/pl/112/277/s504], Jan. 14, 2013, [126 Stat. 2477][/us/stat/126/2477]; [Pub. L. 113–126, title III, § 328][/us/pl/113/126/s328], July 7, 2014, [128 Stat. 1405][/us/stat/128/1405].)
+([Pub. L. 112–277, title V][/us/pl/112/277/tV], § 504, Jan. 14, 2013, [126 Stat. 2477][/us/stat/126/2477]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 328, July 7, 2014, [128 Stat. 1405][/us/stat/128/1405].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Definitions__ 
 
-[Pub. L. 112–277, § 2][/us/pl/112/277/s2], Jan. 14, 2013, [126 Stat. 2469][/us/stat/126/2469], provided that: 
+[Pub. L. 112–277][/us/pl/112/277], § 2, Jan. 14, 2013, [126 Stat. 2469][/us/stat/126/2469], provided that: 
 
 > “In this Act \[see Tables for classification\]:
 
@@ -94,12 +94,12 @@
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t50/s3003/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F5
-[/us/pl/112/277/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs504
+[/us/pl/112/277/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtV
 [/us/stat/126/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2477
-[/us/pl/113/126/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs328
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1405
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
-[/us/pl/112/277/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs2
+[/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/stat/126/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2469
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4

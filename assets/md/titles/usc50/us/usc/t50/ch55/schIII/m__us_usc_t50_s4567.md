@@ -61,7 +61,7 @@
 
         The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 722, as added [Pub. L. 102–558, title I, § 135][/us/pl/102/558/s135], Oct. 28, 1992, [106 Stat. 4212][/us/stat/106/4212]; amended [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 111–67, § 11][/us/pl/111/67/s11], Sept. 30, 2009, [123 Stat. 2019][/us/stat/123/2019]; [Pub. L. 113–172, § 2][/us/pl/113/172/s2], Sept. 26, 2014, [128 Stat. 1896][/us/stat/128/1896].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 722, as added [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 135, Oct. 28, 1992, [106 Stat. 4212][/us/stat/106/4212]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 111–67][/us/pl/111/67], § 11, Sept. 30, 2009, [123 Stat. 2019][/us/stat/123/2019]; [Pub. L. 113–172][/us/pl/113/172], § 2, Sept. 26, 2014, [128 Stat. 1896][/us/stat/128/1896].)
 
  __Termination of Section__ 
 
@@ -79,11 +79,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–172, § 2(1)][/us/pl/113/172/s2/1], substituted “coordinate and plan for” for “advise the President” and “the priorities and allocations authorities” for “the authority”.
+    2014—Subsec. (a). [Pub. L. 113–172][/us/pl/113/172], § 2(1), substituted “coordinate and plan for” for “advise the President” and “the priorities and allocations authorities” for “the authority”.
 
-    Subsec. (b)(2). [Pub. L. 113–172, § 2(2)][/us/pl/113/172/s2/2], amended par. (2) generally. Prior to amendment, text read as follows: “The President shall designate 1 member of the Committee as the Chairperson of the Committee.”
+    Subsec. (b)(2). [Pub. L. 113–172][/us/pl/113/172], § 2(2), amended par. (2) generally. Prior to amendment, text read as follows: “The President shall designate 1 member of the Committee as the Chairperson of the Committee.”
 
-    Subsec. (c). [Pub. L. 113–172, § 2(3)][/us/pl/113/172/s2/3], amended subsec. (c) generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 113–172][/us/pl/113/172], § 2(3), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) In general.—The President shall appoint an Executive Director of the Defense Production Act Committee (in this section referred to as the ‘Executive Director’), who shall—
 
@@ -95,17 +95,17 @@
 
     “(3) Compensation.—For pay periods beginning on or after the date on which each Chairperson is appointed, funds for the pay of the Executive Director shall be paid from appropriations to the salaries and expenses account of the department or agency of the Chairperson of the Committee. The Executive Director shall be compensated at a rate of pay equivalent to that of a Deputy Assistant Secretary (or a comparable position) of the Federal agency of the Chairperson of the Committee.”
 
-    Subsec. (d). [Pub. L. 113–172, § 2(4)(A)][/us/pl/113/172/s2/4/A], (B), in introductory provisions, substituted “The Committee shall issue a report each year by March 31” for “Not later than the end of the first quarter of each calendar year, the Committee shall submit” and “the Chairperson” for “each member of the Committee”.
+    Subsec. (d). [Pub. L. 113–172][/us/pl/113/172], § 2(4)(A), (B), in introductory provisions, substituted “The Committee shall issue a report each year by March 31” for “Not later than the end of the first quarter of each calendar year, the Committee shall submit” and “the Chairperson” for “each member of the Committee”.
 
-    Subsec. (d)(1). [Pub. L. 113–172, § 2(4)(C)][/us/pl/113/172/s2/4/C], substituted “a description of the contingency planning by” for “a review of the authority under this chapter of” and inserted before semicolon at end “for events that might require the use of the priorities and allocations authorities”.
+    Subsec. (d)(1). [Pub. L. 113–172][/us/pl/113/172], § 2(4)(C), substituted “a description of the contingency planning by” for “a review of the authority under this chapter of” and inserted before semicolon at end “for events that might require the use of the priorities and allocations authorities”.
 
-    Subsec. (d)(2). [Pub. L. 113–172, § 2(4)(D)][/us/pl/113/172/s2/4/D], substituted “priorities and allocations authorities in this chapter” for “authority described in paragraph (1)”.
+    Subsec. (d)(2). [Pub. L. 113–172][/us/pl/113/172], § 2(4)(D), substituted “priorities and allocations authorities in this chapter” for “authority described in paragraph (1)”.
 
-    Subsec. (d)(3). [Pub. L. 113–172, § 2(4)(E)][/us/pl/113/172/s2/4/E], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “recommendations for legislation, regulations, executive orders, or other action by the Federal Government necessary to improve the use of the authority described in paragraph (1); and”.
+    Subsec. (d)(3). [Pub. L. 113–172][/us/pl/113/172], § 2(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “recommendations for legislation, regulations, executive orders, or other action by the Federal Government necessary to improve the use of the authority described in paragraph (1); and”.
 
-    Subsec. (d)(4). [Pub. L. 113–172, § 2(4)(F)][/us/pl/113/172/s2/4/F], substituted “the use of the priorities and allocations authorities in this chapter;” for “all aspects of the authority described in paragraph (1).”
+    Subsec. (d)(4). [Pub. L. 113–172][/us/pl/113/172], § 2(4)(F), substituted “the use of the priorities and allocations authorities in this chapter;” for “all aspects of the authority described in paragraph (1).”
 
-    Subsec. (d)(5), (6). [Pub. L. 113–172, § 2(4)(G)][/us/pl/113/172/s2/4/G], added pars. (5) and (6).
+    Subsec. (d)(5), (6). [Pub. L. 113–172][/us/pl/113/172], § 2(4)(G), added pars. (5) and (6).
 
     2009—[Pub. L. 111–67][/us/pl/111/67] amended section generally. Prior to amendment, section related to defense industrial base information system with regard to its establishment, sources of information, strategic plan for developing comprehensive system, capabilities, and required report on subcontractor and supplier base.
 
@@ -137,13 +137,13 @@
 [/us/usc/t50/s4502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502%2Fb
 [/us/usc/t50/s4511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511%2Fd%2F1
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/558/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs135
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4212
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/111/67/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs11
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2019
-[/us/pl/113/172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
 [/us/stat/128/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1896
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
@@ -151,15 +151,15 @@
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/113/172/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F1
-[/us/pl/113/172/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F2
-[/us/pl/113/172/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F3
-[/us/pl/113/172/s2/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F4%2FA
-[/us/pl/113/172/s2/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F4%2FC
-[/us/pl/113/172/s2/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F4%2FD
-[/us/pl/113/172/s2/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F4%2FE
-[/us/pl/113/172/s2/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F4%2FF
-[/us/pl/113/172/s2/4/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172%2Fs2%2F4%2FG
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
+[/us/pl/113/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F172
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502

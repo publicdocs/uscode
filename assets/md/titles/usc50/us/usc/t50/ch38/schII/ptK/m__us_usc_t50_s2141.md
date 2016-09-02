@@ -45,11 +45,11 @@
 
         (2) any prior provision of an Executive order issued under this section.
 
-([Pub. L. 88–643, title II, § 292][/us/pl/88/643/s292], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3241][/us/stat/106/3241].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 292, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3241][/us/stat/106/3241].)
 
  __Prior Provisions__ 
 
-    A prior [section 292 of Pub. L. 88–643][/us/pl/88/643/s292], as added [Pub. L. 94–522, title II, § 213][/us/pl/94/522/s213], Oct. 17, 1976, [90 Stat. 2471][/us/stat/90/2471], 2472, related to authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 292 of Pub. L. 88–643][/us/pl/88/643/s292], as added [Pub. L. 94–522, title II][/us/pl/94/522/tII], § 213, Oct. 17, 1976, [90 Stat. 2471][/us/stat/90/2471], 2472, related to authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Open Enrollment Season for Participants in the Central Intelligence Agency Retirement and Disability System__ 
 
@@ -78,11 +78,11 @@
 ----------
 ----------
 
-[/us/pl/88/643/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs292
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3241
 [/us/pl/88/643/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs292
-[/us/pl/94/522/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2Fs213
+[/us/pl/94/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtII
 [/us/stat/90/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2471
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

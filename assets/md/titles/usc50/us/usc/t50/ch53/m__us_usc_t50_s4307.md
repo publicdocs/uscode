@@ -53,7 +53,7 @@
 
         Any payment, conveyance, transfer, assignment, or delivery of money or property made to the alien property custodian hereunder shall be a full acquittance and discharge for all purposes of the obligation of the person making the same to the extent of same. The alien property custodian and such other persons as the President may appoint shall have power to execute, acknowledge, and deliver any such instrument or instruments as may be necessary or proper to evidence upon the record or otherwise such acquittance and discharge, and shall, in case of payment to the alien property custodian of any debt or obligation owed to an enemy or ally of enemy, deliver up any notes, bonds, or other evidences of indebtedness or obligation, or any security therefor in which such enemy or ally of enemy had any right or interest that may have come into the possession of the alien property custodian, with like effect as if he or they, respectively, were duly appointed by the enemy or ally of enemy, creditor, or obligee. The President shall issue to every person so appointed a certificate of the appointment and authority of such person, and such certificate shall be received in evidence in all courts within the United States. Whenever any such certificate of authority shall be offered to any registrar, clerk, or other recording officer, Federal or otherwise, within the United States, such officer shall record the same in like manner as a power of attorney, and such record or a duly certified copy thereof shall be received in evidence in all courts of the United States or other courts within the United States.
 
-([Oct. 6, 1917, ch. 106, § 7][/us/act/1917-10-06/ch106/s7], [40 Stat. 416][/us/stat/40/416]; [Nov. 4, 1918, ch. 201, § 1][/us/act/1918-11-04/ch201/s1], [40 Stat. 1020][/us/stat/40/1020].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 7, [40 Stat. 416][/us/stat/40/416]; [Nov. 4, 1918, ch. 201][/us/act/1918-11-04/ch201], § 1, [40 Stat. 1020][/us/stat/40/1020].)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t50/s4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4310
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t50/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4303
-[/us/act/1917-10-06/ch106/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs7
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F416
-[/us/act/1918-11-04/ch201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-04%2Fch201%2Fs1
+[/us/act/1918-11-04/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-11-04%2Fch201
 [/us/stat/40/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1020
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

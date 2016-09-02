@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5308 derived from [act Aug. 6, 1861, ch. 60, § 1][/us/act/1861-08-06/ch60/s1], [12 Stat. 319][/us/stat/12/319].
+    R.S. § 5308 derived from [act Aug. 6, 1861, ch. 60][/us/act/1861-08-06/ch60], § 1, [12 Stat. 319][/us/stat/12/319].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1861-08-06/ch60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-06%2Fch60%2Fs1
+[/us/act/1861-08-06/ch60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-06%2Fch60
 [/us/stat/12/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F319
 
 

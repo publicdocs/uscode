@@ -27,7 +27,7 @@
 
         Notwithstanding subsection (b) of this section, at any time that United States Armed Forces are engaged in hostilities outside the territory of the United States, its possessions and territories without a declaration of war or specific statutory authorization, such forces shall be removed by the President if the Congress so directs by concurrent resolution.
 
-([Pub. L. 93–148, § 5][/us/pl/93/148/s5], Nov. 7, 1973, [87 Stat. 556][/us/stat/87/556].)
+([Pub. L. 93–148][/us/pl/93/148], § 5, Nov. 7, 1973, [87 Stat. 556][/us/stat/87/556].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t50/s1543/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1543%2Fa%2F1
 [/us/usc/t50/s1543/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1543%2Fa%2F1
-[/us/pl/93/148/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs5
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F556
 
 

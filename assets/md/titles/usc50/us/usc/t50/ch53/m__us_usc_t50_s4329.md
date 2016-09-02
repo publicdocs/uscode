@@ -77,11 +77,11 @@
 
         As used in this subsection, “organization” means only a nonprofit charitable corporation incorporated on or before January 1, 1950, under the laws of any State of the United States or of the District of Columbia with the power to sue and be sued.
 
-([Oct. 6, 1917, ch. 106, § 32][/us/act/1917-10-06/ch106/s32] as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 304, as added [Mar. 8, 1946, ch. 83, § 1][/us/act/1946-03-08/ch83/s1], [60 Stat. 50][/us/stat/60/50]; amended [Aug. 8, 1946, ch. 878, § 2][/us/act/1946-08-08/ch878/s2], [60 Stat. 930][/us/stat/60/930]; [Aug. 5, 1947, ch. 499, § 2][/us/act/1947-08-05/ch499/s2], [61 Stat. 784][/us/stat/61/784]; [Sept. 29, 1950, ch. 1108, § 1][/us/act/1950-09-29/ch1108/s1], [64 Stat. 1080][/us/stat/64/1080]; [Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], title II, § 201(a), (b), [65 Stat. 23][/us/stat/65/23]; [June 6, 1952, ch. 372][/us/act/1952-06-06/ch372], [66 Stat. 129][/us/stat/66/129]; [Aug. 23, 1954, ch. 830, § 1][/us/act/1954-08-23/ch830/s1], [68 Stat. 767][/us/stat/68/767]; [Pub. L. 87–846, title II, § 204(a)][/us/pl/87/846/s204/a], Oct. 22, 1962, [76 Stat. 1114][/us/stat/76/1114].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 32 as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 304, as added [Mar. 8, 1946, ch. 83][/us/act/1946-03-08/ch83], § 1, [60 Stat. 50][/us/stat/60/50]; amended [Aug. 8, 1946, ch. 878][/us/act/1946-08-08/ch878], § 2, [60 Stat. 930][/us/stat/60/930]; [Aug. 5, 1947, ch. 499][/us/act/1947-08-05/ch499], § 2, [61 Stat. 784][/us/stat/61/784]; [Sept. 29, 1950, ch. 1108][/us/act/1950-09-29/ch1108], § 1, [64 Stat. 1080][/us/stat/64/1080]; [Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], title II, § 201(a), (b), [65 Stat. 23][/us/stat/65/23]; [June 6, 1952, ch. 372][/us/act/1952-06-06/ch372], [66 Stat. 129][/us/stat/66/129]; [Aug. 23, 1954, ch. 830][/us/act/1954-08-23/ch830], § 1, [68 Stat. 767][/us/stat/68/767]; [Pub. L. 87–846, title II][/us/pl/87/846/tII], § 204(a), Oct. 22, 1962, [76 Stat. 1114][/us/stat/76/1114].)
 
  __References in Text__ 
 
-    The Renegotiation Act, referred to in subsecs. (a)(4) and (b), is [act Apr. 28, 1942, ch. 247][/us/act/1942-04-28/ch247], title IV, § 403, [56 Stat. 245][/us/stat/56/245], which was formerly classified to section 1191 of the former Appendix to this title prior to omission from the Code.
+    The Renegotiation Act, referred to in subsecs. (a)(4) and (b), is [act Apr. 28, 1942, ch. 247, title IV][/us/act/1942-04-28/ch247/tIV], § 403, [56 Stat. 245][/us/stat/56/245], which was formerly classified to section 1191 of the former Appendix to this title prior to omission from the Code.
 
     Act of October 31, 1942 ([56 Stat. 1013][/us/stat/56/1013]), referred to in subsecs. (a)(4) and (c), is [act Oct. 31, 1942, ch. 634][/us/act/1942-10-31/ch634], [56 Stat. 1013][/us/stat/56/1013], which was formerly classified to sections 89 to 96 of former Title 35, Patents, prior to the general revision and enactment of Title 35, Patents, by [act July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], §1, [66 Stat. 792][/us/stat/66/792]. Section 2 of the Act was formerly classified to section 90 of former Title 35.
 
@@ -109,13 +109,13 @@
 
  __Change of Name__ 
 
-    Tax Court of the United States redesignated United States Tax Court pursuant to [Pub. L. 91–172, title IX, § 951][/us/pl/91/172/s951], Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730]. See [section 7441 of Title 26][/us/usc/t26/s7441], Internal Revenue Code.
+    Tax Court of the United States redesignated United States Tax Court pursuant to [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 951, Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730]. See [section 7441 of Title 26][/us/usc/t26/s7441], Internal Revenue Code.
 
  __Transfer of Functions__ 
 
     Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred to Attorney General by Reorg. Plan No. 1 of 1947, § 101, eff. July 1, 1947, 12 F.R. 4534, [61 Stat. 951][/us/stat/61/951], set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Renegotiation Board terminated and all property, including records, of Board transferred to Administrator of General Services on Mar. 31, 1979, pursuant to [Pub. L. 95–431, title V, § 501][/us/pl/95/431/s501], Oct. 10, 1978, [92 Stat. 1043][/us/stat/92/1043].
+    Renegotiation Board terminated and all property, including records, of Board transferred to Administrator of General Services on Mar. 31, 1979, pursuant to [Pub. L. 95–431, title V][/us/pl/95/431/tV], § 501, Oct. 10, 1978, [92 Stat. 1043][/us/stat/92/1043].
 
  __Purpose of Act__  __August 5, 1947__ 
 
@@ -131,13 +131,13 @@
 
  __Return of Italian Property__ 
 
-[Act Aug. 5, 1947, ch. 499, § 1][/us/act/1947-08-05/ch499/s1], [61 Stat. 784][/us/stat/61/784], provided: 
+[Act Aug. 5, 1947, ch. 499][/us/act/1947-08-05/ch499], § 1, [61 Stat. 784][/us/stat/61/784], provided: 
 
 > “That the President, or such officer or agency as he may designate, is hereby authorized to return, in accordance with the procedures provided for in section 32 of the Trading With the Enemy Act, as amended \[[50 U.S.C. 4329][/us/usc/t50/s4329]\], any property or interest, or the net proceeds thereof, which has been, since December 18, 1941, vested in or transferred to any officer or agency of the United States pursuant to the Trading With the Enemy Act, as amended \[[50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], and which immediately prior to such vesting or transfer was the property or interest of Italy or a citizen or subject of Italy, or a corporation or association organized under the laws of Italy.”
 
  __Transfer of Vessels to Italian Government__ 
 
-[Act Aug. 5, 1947, ch. 499, § 4][/us/act/1947-08-05/ch499/s4], [61 Stat. 786][/us/stat/61/786], provided: 
+[Act Aug. 5, 1947, ch. 499][/us/act/1947-08-05/ch499], § 4, [61 Stat. 786][/us/stat/61/786], provided: 
 
 > “The President is authorized upon such terms as he deems necessary (a) to transfer to the Government of Italy all vessels which were under Italian registry and flag on September 1, 1939, and were thereafter acquired by the United States and are now owned by the United States; and (b) with respect to any vessel under Italian registry and flag on September 1, 1939, and subsequently seized in United States ports and thereafter lost while being employed in the United States war effort, to transfer to the Government of Italy surplus merchant vessels of the United States of a total tonnage approximately equal to the total tonnage of the Italian vessels lost: Provided, That no monetary compensation shall be paid either for the use by the United States or its agencies of former Italian vessels so acquired or seized or for the return or transfer of such vessels or substitute vessels.”
 
@@ -151,25 +151,25 @@
 [/us/stat/56/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1013
 [/us/stat/56/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1013
 [/us/usc/t50/s4309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309%2Fa
-[/us/act/1917-10-06/ch106/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs32
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
-[/us/act/1946-03-08/ch83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch83%2Fs1
+[/us/act/1946-03-08/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch83
 [/us/stat/60/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F50
-[/us/act/1946-08-08/ch878/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878%2Fs2
+[/us/act/1946-08-08/ch878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878
 [/us/stat/60/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F930
-[/us/act/1947-08-05/ch499/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499%2Fs2
+[/us/act/1947-08-05/ch499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499
 [/us/stat/61/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F784
-[/us/act/1950-09-29/ch1108/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-29%2Fch1108%2Fs1
+[/us/act/1950-09-29/ch1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-29%2Fch1108
 [/us/stat/64/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1080
 [/us/act/1951-03-23/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-23%2Fch15
 [/us/stat/65/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F23
 [/us/act/1952-06-06/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-06%2Fch372
 [/us/stat/66/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F129
-[/us/act/1954-08-23/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch830%2Fs1
+[/us/act/1954-08-23/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch830
 [/us/stat/68/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F767
-[/us/pl/87/846/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs204%2Fa
+[/us/pl/87/846/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtII
 [/us/stat/76/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1114
-[/us/act/1942-04-28/ch247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-28%2Fch247
+[/us/act/1942-04-28/ch247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-28%2Fch247%2FtIV
 [/us/stat/56/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F245
 [/us/stat/56/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1013
 [/us/act/1942-10-31/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-31%2Fch634
@@ -179,21 +179,21 @@
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/usc/t50/s4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4331
-[/us/pl/91/172/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs951
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F730
 [/us/usc/t26/s7441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7441
 [/us/stat/61/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F951
-[/us/pl/95/431/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F431%2Fs501
+[/us/pl/95/431/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F431%2FtV
 [/us/stat/92/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1043
 [/us/act/1947-08-05/ch499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499
 [/us/stat/61/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F784
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/usc/t50/s4329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4329
-[/us/act/1947-08-05/ch499/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499%2Fs1
+[/us/act/1947-08-05/ch499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499
 [/us/stat/61/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F784
 [/us/usc/t50/s4329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4329
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/act/1947-08-05/ch499/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499%2Fs4
+[/us/act/1947-08-05/ch499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch499
 [/us/stat/61/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F786
 
 

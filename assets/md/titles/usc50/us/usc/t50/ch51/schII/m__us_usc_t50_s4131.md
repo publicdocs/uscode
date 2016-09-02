@@ -25,7 +25,7 @@
 
     (d) “Property” means real property and such items of tangible personalty as can be identified and evaluated.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 201, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 201, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Separability__ 
 
-[Pub. L. 87–846, title III, § 301][/us/pl/87/846/s301], Oct. 22, 1962, [76 Stat. 1117][/us/stat/76/1117], provided that: 
+[Pub. L. 87–846, title III][/us/pl/87/846/tIII], § 301, Oct. 22, 1962, [76 Stat. 1117][/us/stat/76/1117], provided that: 
 
 > “If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, shall be held invalid, the remainder of this Act, or the application of such provisions to other persons or circumstances, shall not be affected.”
 
@@ -54,10 +54,10 @@
 
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
-[/us/pl/87/846/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs301
+[/us/pl/87/846/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtIII
 [/us/stat/76/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1117
 
 

@@ -41,7 +41,7 @@
 
             (ii) the conduct of the foreign affairs of the United States.
 
-([Pub. L. 107–56, title II, § 203(d)][/us/pl/107/56/s203/d], Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281]; [Pub. L. 107–296, title VIII, § 897(a)][/us/pl/107/296/s897/a], Nov. 25, 2002, [116 Stat. 2257][/us/stat/116/2257].)
+([Pub. L. 107–56, title II][/us/pl/107/56/tII], § 203(d), Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281]; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 897(a), Nov. 25, 2002, [116 Stat. 2257][/us/stat/116/2257].)
 
  __Codification__ 
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/107/56/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fd
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F281
-[/us/pl/107/296/s897/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs897%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2257
 [/us/usc/t50/s403–5d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935d
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

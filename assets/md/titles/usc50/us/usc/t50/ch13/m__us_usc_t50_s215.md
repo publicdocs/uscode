@@ -17,11 +17,11 @@
 
     The Attorney General, or the United States attorney for any judicial district in which such property may at the time be, may institute the proceedings of condemnation, and in such case they shall be wholly for the benefit of the United States; or any person may file an information with such attorney, in which case the proceedings shall be for the use of such informer and the United States in equal parts.
 
-(R.S. § 5311; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909].)
+(R.S. § 5311; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909].)
 
  __Codification__ 
 
-    R.S. § 5311 derived from [act Aug. 6, 1861, ch. 60, § 3][/us/act/1861-08-06/ch60/s3], [12 Stat. 319][/us/stat/12/319].
+    R.S. § 5311 derived from [act Aug. 6, 1861, ch. 60][/us/act/1861-08-06/ch60], § 3, [12 Stat. 319][/us/stat/12/319].
 
  __Change of Name__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/act/1861-08-06/ch60/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-06%2Fch60%2Fs3
+[/us/act/1861-08-06/ch60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-08-06%2Fch60
 [/us/stat/12/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F319
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
 

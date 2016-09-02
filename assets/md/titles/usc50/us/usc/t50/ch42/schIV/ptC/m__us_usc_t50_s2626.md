@@ -73,7 +73,7 @@
 
         (4) The term “owner’s agent” means a private third-party entity with nuclear safety management expertise.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4446][/us/pl/107/314/s4446], as added [Pub. L. 114–92, div. C, title XXXI, § 3116(a)][/us/pl/114/92/s3116/a], Nov. 25, 2015, [129 Stat. 1194][/us/stat/129/1194].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4446, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3116(a), Nov. 25, 2015, [129 Stat. 1194][/us/stat/129/1194].)
 
 ----------
 
@@ -82,8 +82,8 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4446
-[/us/pl/114/92/s3116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3116%2Fa
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1194
 
 

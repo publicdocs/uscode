@@ -27,7 +27,7 @@
 
         Necessary background investigations and eligibility determinations to permit appropriate prospective transition team members to have access to classified information shall be completed, to the fullest extent practicable, by the day after the date of the general election.
 
-([Pub. L. 108–458, title VII, § 7601(c)][/us/pl/108/458/s7601/c], Dec. 17, 2004, [118 Stat. 3857][/us/stat/118/3857]; [Pub. L. 111–283, § 2(c)(1)][/us/pl/111/283/s2/c/1], Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7601(c), Dec. 17, 2004, [118 Stat. 3857][/us/stat/118/3857]; [Pub. L. 111–283][/us/pl/111/283], § 2(c)(1), Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2010—Par. (1). [Pub. L. 111–283, § 2(c)(1)(A)][/us/pl/111/283/s2/c/1/A], added par. (1) and struck out former par. (1) which read as follows: “In this section, the term ‘major party’ shall have the meaning given under [section 9002(6) of title 26][/us/usc/t26/s9002/6].”
+    2010—Par. (1). [Pub. L. 111–283][/us/pl/111/283], § 2(c)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “In this section, the term ‘major party’ shall have the meaning given under [section 9002(6) of title 26][/us/usc/t26/s9002/6].”
 
-    Par. (2). [Pub. L. 111–283, § 2(c)(1)(B)][/us/pl/111/283/s2/c/1/B], substituted “eligible candidate” for “major party candidate”.
+    Par. (2). [Pub. L. 111–283][/us/pl/111/283], § 2(c)(1)(B), substituted “eligible candidate” for “major party candidate”.
 
 ----------
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/108/458/s7601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601%2Fc
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3857
-[/us/pl/111/283/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283%2Fs2%2Fc%2F1
+[/us/pl/111/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283
 [/us/stat/124/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3048
 [/us/pl/108/458/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601
 [/us/pl/88/277/s3/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs3%2Fh%2F4
@@ -66,8 +66,8 @@
 [/us/pl/108/458/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/111/283/s2/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283%2Fs2%2Fc%2F1%2FA
+[/us/pl/111/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283
 [/us/usc/t26/s9002/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F6
-[/us/pl/111/283/s2/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283%2Fs2%2Fc%2F1%2FB
+[/us/pl/111/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283
 
 

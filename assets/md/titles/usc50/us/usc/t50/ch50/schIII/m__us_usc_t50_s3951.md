@@ -79,7 +79,7 @@
 
         [Section 3932 of this title][/us/usc/t50/s3932] is not applicable to this section.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 301, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2845][/us/stat/117/2845]; amended [Pub. L. 111–275, title III, § 303(b)(2)][/us/pl/111/275/s303/b/2], Oct. 13, 2010, [124 Stat. 2877][/us/stat/124/2877].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 301, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2845][/us/stat/117/2845]; amended [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(b)(2), Oct. 13, 2010, [124 Stat. 2877][/us/stat/124/2877].)
 
  __Codification__ 
 
@@ -87,9 +87,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 301 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, [54 Stat. 1182][/us/stat/54/1182]; [Oct. 6, 1942, ch. 581, § 9(a)][/us/act/1942-10-06/ch581/s9/a], (c), (d), [56 Stat. 771][/us/stat/56/771]; [Pub. L. 102–12, § 9(9)][/us/pl/102/12/s9/9], Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to installment contracts for purchase of property, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3952 of this title][/us/usc/t50/s3952].
+    A prior section 301 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, [54 Stat. 1182][/us/stat/54/1182]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 9(a), (c), (d), [56 Stat. 771][/us/stat/56/771]; [Pub. L. 102–12][/us/pl/102/12], § 9(9), Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to installment contracts for purchase of property, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3952 of this title][/us/usc/t50/s3952].
 
-    Provisions similar to this section were contained in section 300 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, [54 Stat. 1181][/us/stat/54/1181]; [Oct. 6, 1942, ch. 581, § 8][/us/act/1942-10-06/ch581/s8], [56 Stat. 771][/us/stat/56/771]; [Pub. L. 89–358, § 10][/us/pl/89/358/s10], Mar. 3, 1966, [80 Stat. 28][/us/stat/80/28]; [Pub. L. 102–12][/us/pl/102/12], §§ 2(a), (b), 9(8), Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34], 39, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    Provisions similar to this section were contained in section 300 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, [54 Stat. 1181][/us/stat/54/1181]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 8, [56 Stat. 771][/us/stat/56/771]; [Pub. L. 89–358][/us/pl/89/358], § 10, Mar. 3, 1966, [80 Stat. 28][/us/stat/80/28]; [Pub. L. 102–12][/us/pl/102/12], §§ 2(a), (b), 9(8), Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34], 39, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
  __Amendments__ 
 
@@ -104,23 +104,23 @@
 
 [/us/usc/t50/s3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3932
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2845
-[/us/pl/111/275/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fb%2F2
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2877
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1182
-[/us/act/1942-10-06/ch581/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs9%2Fa
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F771
-[/us/pl/102/12/s9/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F9
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F40
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3952
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1181
-[/us/act/1942-10-06/ch581/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs8
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F771
-[/us/pl/89/358/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs10
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F28
 [/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F34

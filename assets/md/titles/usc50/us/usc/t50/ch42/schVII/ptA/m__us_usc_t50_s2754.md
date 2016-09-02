@@ -31,11 +31,11 @@
 
         For purposes of subsection (a), the term “independent”, with respect to a life-cycle cost estimate of a capital asset, means that the life-cycle cost estimate is prepared by an organization independent of the project sponsor, using the same detailed technical and procurement information as the sponsor, to determine if the life-cycle cost estimate of the sponsor is accurate and reasonable.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4714][/us/pl/107/314/s4714], as added [Pub. L. 113–291, div. C, title XXXI, § 3113(a)][/us/pl/113/291/s3113/a], Dec. 19, 2014, [128 Stat. 3887][/us/stat/128/3887].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4714, as added [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3113(a), Dec. 19, 2014, [128 Stat. 3887][/us/stat/128/3887].)
 
  __Use of Best Practices for Capital Asset Projects and Nuclear Weapon Life Extension Programs__ 
 
-[Pub. L. 114–92, div. C, title XXXI, § 3117][/us/pl/114/92/s3117], Nov. 25, 2015, [129 Stat. 1195][/us/stat/129/1195], provided that:
+[Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3117, Nov. 25, 2015, [129 Stat. 1195][/us/stat/129/1195], provided that:
 
 >     “(a)  __Analyses of Alternatives__  __.—__ 
 
@@ -60,10 +60,10 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4714
-[/us/pl/113/291/s3113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3113%2Fa
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3887
-[/us/pl/114/92/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3117
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1195
 
 

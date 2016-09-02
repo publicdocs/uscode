@@ -89,7 +89,7 @@
 
             At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.
 
-([Pub. L. 103–36, § 2][/us/pl/103/36/s2], June 8, 1993, [107 Stat. 104][/us/stat/107/104]; [Pub. L. 103–226, § 8(b)][/us/pl/103/226/s8/b], Mar. 30, 1994, [108 Stat. 118][/us/stat/108/118]; [Pub. L. 104–93, title IV, § 401][/us/pl/104/93/s401], Jan. 6, 1996, [109 Stat. 968][/us/stat/109/968]; [Pub. L. 104–293, title IV, § 401][/us/pl/104/293/s401], Oct. 11, 1996, [110 Stat. 3468][/us/stat/110/3468]; [Pub. L. 106–120, title IV, § 402][/us/pl/106/120/s402], Dec. 3, 1999, [113 Stat. 1616][/us/stat/113/1616]; [Pub. L. 107–108, title IV, § 402][/us/pl/107/108/s402], Dec. 28, 2001, [115 Stat. 1403][/us/stat/115/1403]; [Pub. L. 107–306, title IV, § 401][/us/pl/107/306/s401], Nov. 27, 2002, [116 Stat. 2403][/us/stat/116/2403]; [Pub. L. 108–458, title I, § 1071(d)][/us/pl/108/458/s1071/d], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 108–487, title IV, § 401(a)][/us/pl/108/487/s401/a], (b)(1), Dec. 23, 2004, [118 Stat. 3945][/us/stat/118/3945], 3946.)
+([Pub. L. 103–36][/us/pl/103/36], § 2, June 8, 1993, [107 Stat. 104][/us/stat/107/104]; [Pub. L. 103–226][/us/pl/103/226], § 8(b), Mar. 30, 1994, [108 Stat. 118][/us/stat/108/118]; [Pub. L. 104–93, title IV][/us/pl/104/93/tIV], § 401, Jan. 6, 1996, [109 Stat. 968][/us/stat/109/968]; [Pub. L. 104–293, title IV][/us/pl/104/293/tIV], § 401, Oct. 11, 1996, [110 Stat. 3468][/us/stat/110/3468]; [Pub. L. 106–120, title IV][/us/pl/106/120/tIV], § 402, Dec. 3, 1999, [113 Stat. 1616][/us/stat/113/1616]; [Pub. L. 107–108, title IV][/us/pl/107/108/tIV], § 402, Dec. 28, 2001, [115 Stat. 1403][/us/stat/115/1403]; [Pub. L. 107–306, title IV][/us/pl/107/306/tIV], § 401, Nov. 27, 2002, [116 Stat. 2403][/us/stat/116/2403]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(d), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 108–487, title IV][/us/pl/108/487/tIV], § 401(a), (b)(1), Dec. 23, 2004, [118 Stat. 3945][/us/stat/118/3945], 3946.)
 
  __Codification__ 
 
@@ -99,31 +99,31 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(d)][/us/pl/108/458/s1071/d], amended par. (1) generally. Prior to amendment, par. (1) read: “the term ‘Director’ means the Director of Central Intelligence; and”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(d), amended par. (1) generally. Prior to amendment, par. (1) read: “the term ‘Director’ means the Director of Central Intelligence; and”.
 
-    Subsecs. (f) to (h). [Pub. L. 108–487, § 401(a)][/us/pl/108/487/s401/a], redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which related to termination of payments under this section.
+    Subsecs. (f) to (h). [Pub. L. 108–487][/us/pl/108/487], § 401(a), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which related to termination of payments under this section.
 
-    Subsec. (i). [Pub. L. 108–487, § 401(b)(1)][/us/pl/108/487/s401/b/1], struck out subsec. (i) which related to remittance of funds.
+    Subsec. (i). [Pub. L. 108–487][/us/pl/108/487], § 401(b)(1), struck out subsec. (i) which related to remittance of funds.
 
-    2002—Subsec. (f). [Pub. L. 107–306, § 401(1)][/us/pl/107/306/s401/1], substituted “September 30, 2005” for “September 30, 2003”.
+    2002—Subsec. (f). [Pub. L. 107–306][/us/pl/107/306], § 401(1), substituted “September 30, 2005” for “September 30, 2003”.
 
-    Subsec. (i). [Pub. L. 107–306, § 401(2)][/us/pl/107/306/s401/2], substituted “2003, 2004, or 2005” for “or 2003”.
+    Subsec. (i). [Pub. L. 107–306][/us/pl/107/306], § 401(2), substituted “2003, 2004, or 2005” for “or 2003”.
 
-    2001—Subsec. (f). [Pub. L. 107–108, § 402(1)][/us/pl/107/108/s402/1], substituted “September 30, 2003” for “September 30, 2002”.
+    2001—Subsec. (f). [Pub. L. 107–108][/us/pl/107/108], § 402(1), substituted “September 30, 2003” for “September 30, 2002”.
 
-    Subsec. (i). [Pub. L. 107–108, § 402(2)][/us/pl/107/108/s402/2], substituted “2002, or 2003” for “or 2002”.
+    Subsec. (i). [Pub. L. 107–108][/us/pl/107/108], § 402(2), substituted “2002, or 2003” for “or 2002”.
 
-    1999—Subsec. (f). [Pub. L. 106–120, § 402(a)][/us/pl/106/120/s402/a], substituted “September 30, 2002” for “September 30, 1999”.
+    1999—Subsec. (f). [Pub. L. 106–120][/us/pl/106/120], § 402(a), substituted “September 30, 2002” for “September 30, 1999”.
 
-    Subsec. (i). [Pub. L. 106–120, § 402(b)][/us/pl/106/120/s402/b], substituted “, 1999, 2000, 2001, or 2002” for “or fiscal year 1999”.
+    Subsec. (i). [Pub. L. 106–120][/us/pl/106/120], § 402(b), substituted “, 1999, 2000, 2001, or 2002” for “or fiscal year 1999”.
 
-    1996—Subsec. (f). [Pub. L. 104–93, § 401(a)][/us/pl/104/93/s401/a], substituted “September 30, 1999” for “September 30, 1997”.
+    1996—Subsec. (f). [Pub. L. 104–93][/us/pl/104/93], § 401(a), substituted “September 30, 1999” for “September 30, 1997”.
 
     Subsec. (i). [Pub. L. 104–293][/us/pl/104/293] inserted at end: “The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 ([5 U.S.C. 8331][/us/usc/t5/s8331] note).”
 
-    [Pub. L. 104–93, § 401(b)][/us/pl/104/93/s401/b], added subsec. (i).
+    [Pub. L. 104–93][/us/pl/104/93], § 401(b), added subsec. (i).
 
-    1994—Subsec. (b). [Pub. L. 103–226, § 8(b)][/us/pl/103/226/s8/b], inserted four sentences at end relating to repayment of separation pay requirement.
+    1994—Subsec. (b). [Pub. L. 103–226][/us/pl/103/226], § 8(b), inserted four sentences at end relating to repayment of separation pay requirement.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -133,7 +133,7 @@
 
  __Post-Employment Restrictions__ 
 
-[Pub. L. 104–293, title IV, § 402][/us/pl/104/293/s402], Oct. 11, 1996, [110 Stat. 3468][/us/stat/110/3468], provided that:
+[Pub. L. 104–293, title IV][/us/pl/104/293/tIV], § 402, Oct. 11, 1996, [110 Stat. 3468][/us/stat/110/3468], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -159,46 +159,46 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s5595/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595%2Fc
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
-[/us/pl/103/36/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F36%2Fs2
+[/us/pl/103/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F36
 [/us/stat/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F104
-[/us/pl/103/226/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs8%2Fb
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F118
-[/us/pl/104/93/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs401
+[/us/pl/104/93/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIV
 [/us/stat/109/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F968
-[/us/pl/104/293/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs401
+[/us/pl/104/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtIV
 [/us/stat/110/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3468
-[/us/pl/106/120/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs402
+[/us/pl/106/120/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIV
 [/us/stat/113/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1616
-[/us/pl/107/108/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs402
+[/us/pl/107/108/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIV
 [/us/stat/115/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1403
-[/us/pl/107/306/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs401
+[/us/pl/107/306/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIV
 [/us/stat/116/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2403
-[/us/pl/108/458/s1071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fd
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/108/487/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs401%2Fa
+[/us/pl/108/487/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtIV
 [/us/stat/118/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3945
 [/us/usc/t50/s403x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403x
 [/us/usc/t50/s403–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934
-[/us/pl/108/458/s1071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fd
-[/us/pl/108/487/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs401%2Fa
-[/us/pl/108/487/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs401%2Fb%2F1
-[/us/pl/107/306/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs401%2F1
-[/us/pl/107/306/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs401%2F2
-[/us/pl/107/108/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs402%2F1
-[/us/pl/107/108/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs402%2F2
-[/us/pl/106/120/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs402%2Fa
-[/us/pl/106/120/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs402%2Fb
-[/us/pl/104/93/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs401%2Fa
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
+[/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
+[/us/pl/104/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93
 [/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
-[/us/pl/104/93/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs401%2Fb
-[/us/pl/103/226/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs8%2Fb
+[/us/pl/104/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/104/293/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs402
+[/us/pl/104/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtIV
 [/us/stat/110/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3468
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title XIII, § 4, [40 Stat. 231][/us/stat/40/231], related to savings provisions and is set out as a Separability note under [section 191 of this title][/us/usc/t50/s191].
+    Section, [act June 15, 1917, ch. 30, title XIII][/us/act/1917-06-15/ch30/tXIII], § 4, [40 Stat. 231][/us/stat/40/231], related to savings provisions and is set out as a Separability note under [section 191 of this title][/us/usc/t50/s191].
 
     Section was formerly classified to [section 536 of Title 18][/us/usc/t18/s536] prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 683][/us/stat/62/683].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/act/1917-06-15/ch30/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30%2FtXIII
 [/us/stat/40/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F231
 [/us/usc/t50/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs191
 [/us/usc/t18/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs536

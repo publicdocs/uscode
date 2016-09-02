@@ -71,7 +71,7 @@
 
             (B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 504, formerly § 502, as added [Pub. L. 99–169, title IV, § 401(a)][/us/pl/99/169/s401/a], Dec. 4, 1985, [99 Stat. 1004][/us/stat/99/1004]; renumbered § 504 and amended [Pub. L. 102–88, title VI][/us/pl/102/88], §§ 602(a)(1), (c)(1), 603, Aug. 14, 1991, [105 Stat. 441][/us/stat/105/441], 444; [Pub. L. 107–306, title III, § 353(b)(3)(D)][/us/pl/107/306/s353/b/3/D], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I, § 1071(a)(1)(Z)][/us/pl/108/458/s1071/a/1/Z], (AA), (5), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690; [Pub. L. 111–259, title III, § 362][/us/pl/111/259/s362], Oct. 7, 2010, [124 Stat. 2701][/us/stat/124/2701].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 504, formerly § 502, as added [Pub. L. 99–169, title IV][/us/pl/99/169/tIV], § 401(a), Dec. 4, 1985, [99 Stat. 1004][/us/stat/99/1004]; renumbered § 504 and amended [Pub. L. 102–88, title VI][/us/pl/102/88/tVI], §§ 602(a)(1), (c)(1), 603, Aug. 14, 1991, [105 Stat. 441][/us/stat/105/441], 444; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(3)(D), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 362, Oct. 7, 2010, [124 Stat. 2701][/us/stat/124/2701].)
 
  __Codification__ 
 
@@ -81,17 +81,17 @@
 
     2010—Subsec. (a)(3)(B). [Pub. L. 111–259][/us/pl/111/259] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the need for funds for such activity is based on unforseen requirements; and”.
 
-    2004—Subsec. (a)(2). [Pub. L. 108–458, § 1071(a)(5)][/us/pl/108/458/s1071/a/5], substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(2). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-    Subsec. (a)(3)(C). [Pub. L. 108–458, § 1071(a)(1)(Z)][/us/pl/108/458/s1071/a/1/Z], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (a)(3)(C). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(Z), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (d)(2). [Pub. L. 108–458, § 1071(a)(1)(AA)][/us/pl/108/458/s1071/a/1/AA], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (d)(2). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(AA), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
     2002—Subsec. (d)(2). [Pub. L. 107–306][/us/pl/107/306] substituted “congressional intelligence committees” for “intelligence committees”.
 
-    1991—Subsec. (a)(2). [Pub. L. 102–88, § 602(c)(1)][/us/pl/102/88/s602/c/1], substituted “section 413b” for “section 413”.
+    1991—Subsec. (a)(2). [Pub. L. 102–88][/us/pl/102/88], § 602(c)(1), substituted “section 413b” for “section 413”.
 
-    Subsecs. (c) to (e). [Pub. L. 102–88, § 603][/us/pl/102/88/s603], added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+    Subsecs. (c) to (e). [Pub. L. 102–88][/us/pl/102/88], § 603, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -101,15 +101,15 @@
 
  __Sense of Congress Regarding Disclosure of Annual Intelligence Budget__ 
 
-[Pub. L. 102–496, title III, § 303][/us/pl/102/496/s303], Oct. 24, 1992, [106 Stat. 3183][/us/stat/106/3183], provided that: 
+[Pub. L. 102–496, title III][/us/pl/102/496/tIII], § 303, Oct. 24, 1992, [106 Stat. 3183][/us/stat/106/3183], provided that: 
 
 > “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activities should be disclosed to the public in an appropriate manner.”
 
- Similar provisions were contained in the following prior appropriation act: [Pub. L. 102–183, title VII, § 701][/us/pl/102/183/s701], Dec. 4, 1991, [105 Stat. 1270][/us/stat/105/1270].
+ Similar provisions were contained in the following prior appropriation act: [Pub. L. 102–183, title VII][/us/pl/102/183/tVII], § 701, Dec. 4, 1991, [105 Stat. 1270][/us/stat/105/1270].
 
  __Enhanced Security Countermeasures Capabilities; Application of Section__ 
 
-    [Pub. L. 99–169, title IV, § 401(c)][/us/pl/99/169/s401/c], Dec. 4, 1985, [99 Stat. 1006][/us/stat/99/1006], provided that the amendment made by [section 401(a) of Pub. L. 99–169][/us/pl/99/169/s401/a], enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “enhanced security countermeasures capabilities” in the Supplemental Appropriations Act, 1985, [Pub. L. 99–88][/us/pl/99/88], Aug. 15, 1985, [99 Stat. 311][/us/stat/99/311].
+    [Pub. L. 99–169, title IV][/us/pl/99/169/tIV], § 401(c), Dec. 4, 1985, [99 Stat. 1006][/us/stat/99/1006], provided that the amendment made by [section 401(a) of Pub. L. 99–169][/us/pl/99/169/s401/a], enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “enhanced security countermeasures capabilities” in the Supplemental Appropriations Act, 1985, [Pub. L. 99–88][/us/pl/99/88], Aug. 15, 1985, [99 Stat. 311][/us/stat/99/311].
 
 ----------
 
@@ -122,34 +122,34 @@
 [/us/usc/t50/s3093/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093%2Fe
 [/us/usc/t50/s3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/99/169/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2Fs401%2Fa
+[/us/pl/99/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2FtIV
 [/us/stat/99/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1004
-[/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
+[/us/pl/102/88/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtVI
 [/us/stat/105/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F441
-[/us/pl/107/306/s353/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F3%2FD
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
-[/us/pl/108/458/s1071/a/1/Z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FZ
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/111/259/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs362
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2701
 [/us/usc/t50/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs414
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F5
-[/us/pl/108/458/s1071/a/1/Z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FZ
-[/us/pl/108/458/s1071/a/1/AA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FAA
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
-[/us/pl/102/88/s602/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs602%2Fc%2F1
-[/us/pl/102/88/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs603
+[/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
+[/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/102/496/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs303
+[/us/pl/102/496/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIII
 [/us/stat/106/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3183
-[/us/pl/102/183/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs701
+[/us/pl/102/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVII
 [/us/stat/105/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1270
-[/us/pl/99/169/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2Fs401%2Fc
+[/us/pl/99/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2FtIV
 [/us/stat/99/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1006
 [/us/pl/99/169/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2Fs401%2Fa
 [/us/pl/99/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88

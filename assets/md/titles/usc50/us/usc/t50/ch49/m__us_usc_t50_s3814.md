@@ -41,7 +41,7 @@
 
     (i) The term “reserve components of the armed forces” shall, unless the context otherwise requires, be deemed to include the federally recognized National Guard of the United States, the federally recognized Air National Guard of the United States, the Officers’ Reserve Corps, the Regular Army Reserve, the Air Force Reserve, the Enlisted Reserve Corps, the Navy Reserve, the Marine Corps Reserve, and the Coast Guard Reserve, and shall include, in addition to the foregoing, the Public Health Service Reserve when serving with the armed forces.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 16, [62 Stat. 624][/us/stat/62/624]; [Sept. 27, 1950, ch. 1059, § 1(12)][/us/act/1950-09-27/ch1059/s1/12], (13), [64 Stat. 1074][/us/stat/64/1074]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(v), [65 Stat. 87][/us/stat/65/87]; [Pub. L. 86–70, § 36][/us/pl/86/70/s36], June 25, 1959, [73 Stat. 150][/us/stat/73/150]; [Pub. L. 86–624, § 39][/us/pl/86/624/s39], July 12, 1960, [74 Stat. 422][/us/stat/74/422]; [Pub. L. 92–129, title I, § 101(a)(34)][/us/pl/92/129/s101/a/34], Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353]; [Pub. L. 109–163, div. A, title V, § 515(g)(3)(B)][/us/pl/109/163/s515/g/3/B], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 16, [62 Stat. 624][/us/stat/62/624]; [Sept. 27, 1950, ch. 1059][/us/act/1950-09-27/ch1059], § 1(12), (13), [64 Stat. 1074][/us/stat/64/1074]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(v), [65 Stat. 87][/us/stat/65/87]; [Pub. L. 86–70][/us/pl/86/70], § 36, June 25, 1959, [73 Stat. 150][/us/stat/73/150]; [Pub. L. 86–624][/us/pl/86/624], § 39, July 12, 1960, [74 Stat. 422][/us/stat/74/422]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(34), Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(g)(3)(B), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
-    Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard.
+    Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard.
 
     For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, [64 Stat. 1280][/us/stat/64/1280], 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 
@@ -86,17 +86,17 @@
 
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F624
-[/us/act/1950-09-27/ch1059/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059%2Fs1%2F12
+[/us/act/1950-09-27/ch1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-27%2Fch1059
 [/us/stat/64/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1074
 [/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
 [/us/stat/65/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F87
-[/us/pl/86/70/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs36
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F150
-[/us/pl/86/624/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs39
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F422
-[/us/pl/92/129/s101/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F34
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F353
-[/us/pl/109/163/s515/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F3%2FB
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
@@ -105,7 +105,7 @@
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

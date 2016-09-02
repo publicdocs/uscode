@@ -17,13 +17,13 @@
 
     In the interests of the security of the foreign intelligence activities of the United States and in order further to implement [section 3024(i) of this title][/us/usc/t50/s3024/i] that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, the Agency shall be exempted from the provisions of sections 1 and 2 of the Act of August 28, 1935 ([49 Stat. 956][/us/stat/49/956], 957; [5 U.S.C. 654][/us/usc/t5/s654]), and the provisions of any other law which require the publication or disclosure of the organization, functions, names, official titles, salaries, or numbers of personnel employed by the Agency: Provided, That in furtherance of this section, the Director of the Office of Management and Budget shall make no reports to the Congress in connection with the Agency under [section 607 of the Act of June 30, 1945][/us/act/1945-06-30/s607], as amended ([5 U.S.C. 947(b)][/us/usc/t5/s947/b]).
 
-([June 20, 1949, ch. 227, § 6][/us/act/1949-06-20/ch227/s6], formerly § 7, [63 Stat. 211][/us/stat/63/211]; renumbered § 6, [Pub. L. 85–507, § 21(b)(2)][/us/pl/85/507/s21/b/2], July 7, 1958, [72 Stat. 337][/us/stat/72/337]; amended [Pub. L. 103–178, title V, § 501(2)][/us/pl/103/178/s501/2], Dec. 3, 1993, [107 Stat. 2038][/us/stat/107/2038]; [Pub. L. 105–272, title IV, § 403(a)(2)][/us/pl/105/272/s403/a/2], Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 108–177, title III, § 377(b)(2)][/us/pl/108/177/s377/b/2], Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(b)(1)(A), 1072(b), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3692; [Pub. L. 111–259, title VIII, § 806(a)(3)][/us/pl/111/259/s806/a/3], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 6, formerly § 7, [63 Stat. 211][/us/stat/63/211]; renumbered § 6, [Pub. L. 85–507][/us/pl/85/507], § 21(b)(2), July 7, 1958, [72 Stat. 337][/us/stat/72/337]; amended [Pub. L. 103–178, title V][/us/pl/103/178/tV], § 501(2), Dec. 3, 1993, [107 Stat. 2038][/us/stat/107/2038]; [Pub. L. 105–272, title IV][/us/pl/105/272/tIV], § 403(a)(2), Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 377(b)(2), Dec. 13, 2003, [117 Stat. 2630][/us/stat/117/2630]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(b)(1)(A), 1072(b), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3692; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(a)(3), Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
 
  __References in Text__ 
 
-    Act of August 28, 1935, referred to in text, which provided for the yearly publication of the Official Register of the United States, was repealed by [Pub. L. 86–626, title I, § 101][/us/pl/86/626/s101], July 12, 1960, [74 Stat. 427][/us/stat/74/427].
+    Act of August 28, 1935, referred to in text, which provided for the yearly publication of the Official Register of the United States, was repealed by [Pub. L. 86–626, title I][/us/pl/86/626/tI], § 101, July 12, 1960, [74 Stat. 427][/us/stat/74/427].
 
-    [Section 607 of the Act of June 30, 1945][/us/act/1945-06-30/s607], as amended, referred to in text, was repealed by [act Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(85), [64 Stat. 843][/us/stat/64/843].
+    [Section 607 of the Act of June 30, 1945][/us/act/1945-06-30/s607], as amended, referred to in text, was repealed by [act Sept. 12, 1950, ch. 946, title III][/us/act/1950-09-12/ch946/tIII], § 301(85), [64 Stat. 843][/us/stat/64/843].
 
  __Codification__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458, § 1072(b)][/us/pl/108/458/s1072/b]. See 2004 Amendment note below.
+    2010—[Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458][/us/pl/108/458], § 1072(b). See 2004 Amendment note below.
 
-    2004—[Pub. L. 108–458, § 1072(b)][/us/pl/108/458/s1072/b], as amended by [Pub. L. 111–259][/us/pl/111/259], substituted “section 403–1(i)” for “section 403–3(c)(7)”.
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 1072(b), as amended by [Pub. L. 111–259][/us/pl/111/259], substituted “section 403–1(i)” for “section 403–3(c)(7)”.
 
-    [Pub. L. 108–458, § 1071(b)(1)(A)][/us/pl/108/458/s1071/b/1/A], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    [Pub. L. 108–458][/us/pl/108/458], § 1071(b)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
     2003—[Pub. L. 108–177][/us/pl/108/177] substituted “[section 403–3(c)(7) of this title][/us/usc/t50/s403–3/c/7]” for “[section 403–3(c)(6) of this title][/us/usc/t50/s403–3/c/6]”.
 
@@ -65,32 +65,32 @@
 [/us/usc/t5/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs654
 [/us/act/1945-06-30/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-30%2Fs607
 [/us/usc/t5/s947/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs947%2Fb
-[/us/act/1949-06-20/ch227/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs6
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/stat/63/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F211
-[/us/pl/85/507/s21/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507%2Fs21%2Fb%2F2
+[/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/stat/72/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F337
-[/us/pl/103/178/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs501%2F2
+[/us/pl/103/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtV
 [/us/stat/107/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2038
-[/us/pl/105/272/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs403%2Fa%2F2
+[/us/pl/105/272/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtIV
 [/us/stat/112/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2404
-[/us/pl/108/177/s377/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Fb%2F2
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2630
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
-[/us/pl/111/259/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F3
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
-[/us/pl/86/626/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F626%2Fs101
+[/us/pl/86/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F626%2FtI
 [/us/stat/74/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F427
 [/us/act/1945-06-30/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-30%2Fs607
-[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
+[/us/act/1950-09-12/ch946/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2FtIII
 [/us/stat/64/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F843
 [/us/usc/t50/s403g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403g
 [/us/usc/t50/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3506
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fb
-[/us/pl/108/458/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fb
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/108/458/s1071/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F1%2FA
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s403–3/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F7
 [/us/usc/t50/s403–3/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F6

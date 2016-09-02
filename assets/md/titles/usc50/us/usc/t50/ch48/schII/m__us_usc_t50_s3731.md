@@ -37,7 +37,7 @@
 
         (2) delivery vehicles of conventional weapons, unless such delivery vehicles could reasonably be used or adapted to be used for the delivery of chemical, nuclear, or biological weapons.
 
-([Pub. L. 113–291, div. A, title XIII, § 1331][/us/pl/113/291/s1331], Dec. 19, 2014, [128 Stat. 3601][/us/stat/128/3601].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1331, Dec. 19, 2014, [128 Stat. 3601][/us/stat/128/3601].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1331
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3601
 
 

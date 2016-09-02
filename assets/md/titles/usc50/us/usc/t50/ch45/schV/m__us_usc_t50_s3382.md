@@ -37,11 +37,11 @@
 
         (4) To participate as an observer on such boards, committees, and entities of the executive branch as the Director of National Intelligence considers appropriate for the discharge of the mission and functions of the Executive and the Office of the National Counterintelligence Executive under [section 3383 of this title][/us/usc/t50/s3383].
 
-([Pub. L. 107–306, title IX, § 902][/us/pl/107/306/s902], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–458, title I, § 1072(d)(1)(B)][/us/pl/108/458/s1072/d/1/B], Dec. 17, 2004, [118 Stat. 3693][/us/stat/118/3693]; [Pub. L. 114–113, div. M, title IV, § 401(a)][/us/pl/114/113/s401/a], Dec. 18, 2015, [129 Stat. 2920][/us/stat/129/2920].)
+([Pub. L. 107–306, title IX][/us/pl/107/306/tIX], § 902, Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1072(d)(1)(B), Dec. 17, 2004, [118 Stat. 3693][/us/stat/118/3693]; [Pub. L. 114–113, div. M, title IV][/us/pl/114/113/dM/tIV], § 401(a), Dec. 18, 2015, [129 Stat. 2920][/us/stat/129/2920].)
 
  __Amendment of Subsection (a)__ 
 
-    [Pub. L. 114–113, div. M, title IV, § 401][/us/pl/114/113/s401], Dec. 18, 2015, [129 Stat. 2920][/us/stat/129/2920], provided that, effective on the date that is one year after Dec. 18, 2015, subsection (a) of this section is amended to read as follows:
+    [Pub. L. 114–113, div. M, title IV][/us/pl/114/113/dM/tIV], § 401, Dec. 18, 2015, [129 Stat. 2920][/us/stat/129/2920], provided that, effective on the date that is one year after Dec. 18, 2015, subsection (a) of this section is amended to read as follows:
 
     (a) Establishment
 
@@ -61,15 +61,15 @@
 
     “(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.”
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1072(d)(1)(B)(i)][/us/pl/108/458/s1072/d/1/B/i], substituted “Director of National Intelligence” for “President”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
 
-    Subsec. (a)(2). [Pub. L. 108–458, § 1072(d)(1)(B)][/us/pl/108/458/s1072/d/1/B], substituted “Director of National Intelligence” for “President” and “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+    Subsec. (a)(2). [Pub. L. 108–458][/us/pl/108/458], § 1072(d)(1)(B), substituted “Director of National Intelligence” for “President” and “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-    Subsec. (c). [Pub. L. 108–458, § 1072(d)(1)(B)(i)][/us/pl/108/458/s1072/d/1/B/i], substituted “Director of National Intelligence” for “President” in two places.
+    Subsec. (c). [Pub. L. 108–458][/us/pl/108/458], § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President” in two places.
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. M, title IV, § 401(b)][/us/pl/114/113/s401/b], Dec. 18, 2015, [129 Stat. 2921][/us/stat/129/2921], provided that: 
+[Pub. L. 114–113, div. M, title IV][/us/pl/114/113/dM/tIV], § 401(b), Dec. 18, 2015, [129 Stat. 2921][/us/stat/129/2921], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is one year after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -81,7 +81,7 @@
 
  __Purpose__ 
 
-[Pub. L. 107–306, title IX, § 901(b)][/us/pl/107/306/s901/b], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432], provided that: 
+[Pub. L. 107–306, title IX][/us/pl/107/306/tIX], § 901(b), Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432], provided that: 
 
 > “The purpose of this title \[see Tables for classification\] is to facilitate the enhancement of the counterintelligence activities of the United States Government by—
 
@@ -101,27 +101,27 @@
 [/us/usc/t50/s3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3381
 [/us/usc/t50/s3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3383
 [/us/usc/t50/s3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3383
-[/us/pl/107/306/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs902
+[/us/pl/107/306/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIX
 [/us/stat/116/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2432
-[/us/pl/108/458/s1072/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FB
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3693
-[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/pl/114/113/dM/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIV
 [/us/stat/129/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2920
-[/us/pl/114/113/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401
+[/us/pl/114/113/dM/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIV
 [/us/stat/129/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2920
 [/us/usc/t50/s402b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402b
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/108/458/s1072/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FB%2Fi
-[/us/pl/108/458/s1072/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FB
-[/us/pl/108/458/s1072/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fd%2F1%2FB%2Fi
-[/us/pl/114/113/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fb
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/114/113/dM/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIV
 [/us/stat/129/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2921
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/107/306/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs901%2Fb
+[/us/pl/107/306/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIX
 [/us/stat/116/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2432
 
 

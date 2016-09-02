@@ -17,7 +17,7 @@
 
     The authority granted by this chapter terminates on August 20, 2001.
 
-([Pub. L. 96–72, § 20][/us/pl/96/72/s20], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535]; [Pub. L. 98–108, § 1][/us/pl/98/108/s1], Oct. 1, 1983, [97 Stat. 744][/us/stat/97/744]; [Pub. L. 98–207][/us/pl/98/207], Dec. 5, 1983, [97 Stat. 1391][/us/stat/97/1391]; [Pub. L. 98–222][/us/pl/98/222], Feb. 29, 1984, [98 Stat. 36][/us/stat/98/36]; [Pub. L. 99–64, title I, § 120][/us/pl/99/64/s120], July 12, 1985, [99 Stat. 155][/us/stat/99/155]; [Pub. L. 100–418, title II, § 2431][/us/pl/100/418/s2431], Aug. 23, 1988, [102 Stat. 1362][/us/stat/102/1362]; [Pub. L. 103–10, § 2][/us/pl/103/10/s2], Mar. 27, 1993, [107 Stat. 40][/us/stat/107/40]; [Pub. L. 103–277][/us/pl/103/277], July 5, 1994, [108 Stat. 1407][/us/stat/108/1407]; [Pub. L. 106–508][/us/pl/106/508], Nov. 13, 2000, [114 Stat. 2360][/us/stat/114/2360].)
+([Pub. L. 96–72][/us/pl/96/72], § 20, Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535]; [Pub. L. 98–108][/us/pl/98/108], § 1, Oct. 1, 1983, [97 Stat. 744][/us/stat/97/744]; [Pub. L. 98–207][/us/pl/98/207], Dec. 5, 1983, [97 Stat. 1391][/us/stat/97/1391]; [Pub. L. 98–222][/us/pl/98/222], Feb. 29, 1984, [98 Stat. 36][/us/stat/98/36]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 120, July 12, 1985, [99 Stat. 155][/us/stat/99/155]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2431, Aug. 23, 1988, [102 Stat. 1362][/us/stat/102/1362]; [Pub. L. 103–10][/us/pl/103/10], § 2, Mar. 27, 1993, [107 Stat. 40][/us/stat/107/40]; [Pub. L. 103–277][/us/pl/103/277], July 5, 1994, [108 Stat. 1407][/us/stat/108/1407]; [Pub. L. 106–508][/us/pl/106/508], Nov. 13, 2000, [114 Stat. 2360][/us/stat/114/2360].)
 
  __References in Text__ 
 
@@ -80,19 +80,19 @@ Provisions relating to continued effectiveness of the Export Administration Act 
 ----------
 ----------
 
-[/us/pl/96/72/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs20
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F535
-[/us/pl/98/108/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F108%2Fs1
+[/us/pl/98/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F108
 [/us/stat/97/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F744
 [/us/pl/98/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F207
 [/us/stat/97/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1391
 [/us/pl/98/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F222
 [/us/stat/98/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F36
-[/us/pl/99/64/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs120
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F155
-[/us/pl/100/418/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2431
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1362
-[/us/pl/103/10/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F10%2Fs2
+[/us/pl/103/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F10
 [/us/stat/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F40
 [/us/pl/103/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F277
 [/us/stat/108/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1407

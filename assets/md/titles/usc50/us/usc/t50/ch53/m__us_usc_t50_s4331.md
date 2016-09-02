@@ -51,25 +51,25 @@
 
         The sole relief and remedy available to any person seeking satisfaction of a debt claim out of any property or interest which shall have been vested in or transferred to the Alien Property Custodian (other than any property or interest acquired by the United States prior to December 18, 1941), or the proceeds thereof, shall be the relief and remedy provided in this section, and suits for the satisfaction of debt claims shall not be instituted, prosecuted, or further maintained except in conformity with this section: Provided, That no person asserting any interest, right, or title in any property or interest or proceeds acquired by the Alien Property Custodian, shall be barred from proceeding pursuant to this chapter for the return thereof, by reason of any proceeding which he may have brought pursuant to this section; nor shall any security interest asserted by the creditor in any such property or interest or proceeds be deemed to have been waived solely by reason of such proceeding. The Alien Property Custodian shall treat all debt claims now filed with him as claims filed pursuant to this section. Nothing contained in this section shall bar any person from the prosecution of any suit at law or in equity against the original debtor or against any other person who may be liable for the payment of any debt for which a claim might have been filed hereunder. No purchaser, lessee, licensee, or other transferee of any property or interest from the Alien Property Custodian shall, solely by reason of such purchase, lease, license, or transfer, become liable for the payment of any debt owed by the person who owned such property or interest prior to its vesting in or transfer to the Alien Property Custodian. Payment by the Alien Property Custodian to any debt claimant shall constitute, to the extent of payment, a discharge of the indebtedness represented by the claim.
 
-([Oct. 6, 1917, ch. 106, § 34][/us/act/1917-10-06/ch106/s34], as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 305, as added [Aug. 8, 1946, ch. 878, § 1][/us/act/1946-08-08/ch878/s1], [60 Stat. 925][/us/stat/60/925]; amended [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 34, as added [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 305, as added [Aug. 8, 1946, ch. 878][/us/act/1946-08-08/ch878], § 1, [60 Stat. 925][/us/stat/60/925]; amended [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (b), and (i), was in the original “this Act”, meaning [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4301 of this title][/us/usc/t50/s4301] and Tables.
 
-    Sections 1 to 6 of the Criminal Code, referred to in subsec. (a), are sections 1 to 6 of [act Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], [35 Stat. 1088][/us/stat/35/1088], which were classified to sections 1 to 6 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as sections 953 and 2381 to 2384 of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862].
+    Sections 1 to 6 of the Criminal Code, referred to in subsec. (a), are sections 1 to 6 of [act Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], [35 Stat. 1088][/us/stat/35/1088], which were classified to sections 1 to 6 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as sections 953 and 2381 to 2384 of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862].
 
-    Title I of act of June 15, 1917 (ch. 30, [40 Stat. 217][/us/stat/40/217]), referred to in subsec. (a), is title I of [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], [40 Stat. 217][/us/stat/40/217], which was classified to sections 31 to 38 of this title, prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], and reenactment as sections 792 to 794 and 2388 of Title 18, Crimes and Criminal Procedure.
+    Title I of act of June 15, 1917 (ch. 30, [40 Stat. 217][/us/stat/40/217]), referred to in subsec. (a), is title I of [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], [40 Stat. 217][/us/stat/40/217], which was classified to sections 31 to 38 of this title, prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], and reenactment as sections 792 to 794 and 2388 of Title 18, Crimes and Criminal Procedure.
 
-    Act of April 20, 1918 (ch. 59, [40 Stat. 534][/us/stat/40/534]), referred to in subsec. (a), is [act Apr. 20, 1918, ch. 59][/us/act/1918-04-20/ch59], [40 Stat. 534][/us/stat/40/534], which was classified to sections 101 to 106 of this title, prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], and reenactment as sections 2151 and 2153 to 2156 of Title 18, Crimes and Criminal Procedure.
+    Act of April 20, 1918 (ch. 59, [40 Stat. 534][/us/stat/40/534]), referred to in subsec. (a), is [act Apr. 20, 1918, ch. 59][/us/act/1918-04-20/ch59], [40 Stat. 534][/us/stat/40/534], which was classified to sections 101 to 106 of this title, prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], and reenactment as sections 2151 and 2153 to 2156 of Title 18, Crimes and Criminal Procedure.
 
     Act of June 8, 1934 (ch. 327, [52 Stat. 631][/us/stat/52/631]), referred to in subsec. (a), probably means [act June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], [52 Stat. 631][/us/stat/52/631], known as the Foreign Agents Registration Act of 1938, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 22][/us/usc/t22/s611] and Tables.
 
-    Act January 12, 1938 (ch. 2, [52 Stat. 3][/us/stat/52/3]), referred to in subsec. (a), is [act Jan. 12, 1938, ch. 2][/us/act/1938-01-12/ch2], [52 Stat. 3][/us/stat/52/3], which was classified to sections 45 to 45d of this title, prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], and reenactment as sections 791 and 795 to 797 of Title 18, Crimes and Criminal Procedure.
+    Act January 12, 1938 (ch. 2, [52 Stat. 3][/us/stat/52/3]), referred to in subsec. (a), is [act Jan. 12, 1938, ch. 2][/us/act/1938-01-12/ch2], [52 Stat. 3][/us/stat/52/3], which was classified to sections 45 to 45d of this title, prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], and reenactment as sections 791 and 795 to 797 of Title 18, Crimes and Criminal Procedure.
 
-    Title I, Alien Registration Act, 1940 (ch. 439, [54 Stat. 670][/us/stat/54/670]), referred to in subsec. (a), is title I of [act June 28, 1940, ch. 439][/us/act/1940-06-28/ch439], [54 Stat. 670][/us/stat/54/670], which was classified to sections 9 to 13 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as sections 2385 and 2387 of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862].
+    Title I, Alien Registration Act, 1940 (ch. 439, [54 Stat. 670][/us/stat/54/670]), referred to in subsec. (a), is title I of [act June 28, 1940, ch. 439][/us/act/1940-06-28/ch439], [54 Stat. 670][/us/stat/54/670], which was classified to sections 9 to 13 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as sections 2385 and 2387 of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862].
 
-    Act October 17, 1940 (ch. 897, [54 Stat. 1201][/us/stat/54/1201]), referred to in subsec. (a), is [act Oct. 17, 1940, ch. 897][/us/act/1940-10-17/ch897], [54 Stat. 1201][/us/stat/54/1201], which was classified to sections 14 to 17 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as [section 2386 of Title 18][/us/usc/t18/s2386], Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862].
+    Act October 17, 1940 (ch. 897, [54 Stat. 1201][/us/stat/54/1201]), referred to in subsec. (a), is [act Oct. 17, 1940, ch. 897][/us/act/1940-10-17/ch897], [54 Stat. 1201][/us/stat/54/1201], which was classified to sections 14 to 17 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as [section 2386 of Title 18][/us/usc/t18/s2386], Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862].
 
     Act of June 25, 1942 (ch. 447, [56 Stat. 390][/us/stat/56/390]), referred to in subsec. (a), is [act June 25, 1942, ch. 447][/us/act/1942-06-25/ch447], [56 Stat. 390][/us/stat/56/390], as amended, which was classified to sections 781 to 785 of the former Appendix to this title and was omitted from the Code as terminated.
 
@@ -77,7 +77,7 @@
 
  __Codification__ 
 
-    In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 191 and 193 of title 31 of the United States Code” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 191 and 193 of title 31 of the United States Code” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section was formerly classified to section 34 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
@@ -106,30 +106,30 @@
 [/us/stat/54/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1201
 [/us/stat/56/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F390
 [/us/usc/t50/s4333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4333
-[/us/act/1917-10-06/ch106/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs34
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
-[/us/act/1946-08-08/ch878/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878%2Fs1
+[/us/act/1946-08-08/ch878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878
 [/us/stat/60/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F925
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1088
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/stat/40/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F217
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F217
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/stat/40/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F534
 [/us/act/1918-04-20/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-20%2Fch59
 [/us/stat/40/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F534
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/stat/52/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F631
 [/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
@@ -138,23 +138,23 @@
 [/us/stat/52/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F3
 [/us/act/1938-01-12/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-01-12%2Fch2
 [/us/stat/52/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F3
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/stat/54/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F670
 [/us/act/1940-06-28/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch439
 [/us/stat/54/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F670
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/stat/54/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1201
 [/us/act/1940-10-17/ch897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch897
 [/us/stat/54/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1201
 [/us/usc/t18/s2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2386
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/stat/56/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F390
 [/us/act/1942-06-25/ch447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-25%2Fch447
 [/us/stat/56/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F390
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/stat/61/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F951
 

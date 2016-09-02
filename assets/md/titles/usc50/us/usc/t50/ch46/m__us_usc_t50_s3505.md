@@ -77,7 +77,7 @@
 
         (5) Regulations, other than regulations under paragraph (1), issued pursuant to this subsection shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
-([June 20, 1949, ch. 227, § 4][/us/act/1949-06-20/ch227/s4], formerly § 5, [63 Stat. 209][/us/stat/63/209]; renumbered § 4, [Pub. L. 85–507, § 21(b)(2)][/us/pl/85/507/s21/b/2], July 7, 1958, [72 Stat. 337][/us/stat/72/337]; amended [Pub. L. 86–707, title III][/us/pl/86/707], §§ 301(b), 323, title V, § 511(a)(3), (c)(2)–(5), Sept. 6, 1960, [74 Stat. 795][/us/stat/74/795], 798, 800, 801; [Pub. L. 97–89, title V, § 501][/us/pl/97/89/s501], Dec. 4, 1981, [95 Stat. 1152][/us/stat/95/1152]; [Pub. L. 103–359, title IV, § 401][/us/pl/103/359/s401], Oct. 14, 1994, [108 Stat. 3427][/us/stat/108/3427]; [Pub. L. 108–177, title IV, § 401][/us/pl/108/177/s401], Dec. 13, 2003, [117 Stat. 2631][/us/stat/117/2631].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 4, formerly § 5, [63 Stat. 209][/us/stat/63/209]; renumbered § 4, [Pub. L. 85–507][/us/pl/85/507], § 21(b)(2), July 7, 1958, [72 Stat. 337][/us/stat/72/337]; amended [Pub. L. 86–707, title III][/us/pl/86/707/tIII], §§ 301(b), 323, title V, § 511(a)(3), (c)(2)–(5), Sept. 6, 1960, [74 Stat. 795][/us/stat/74/795], 798, 800, 801; [Pub. L. 97–89, title V][/us/pl/97/89/tV], § 501, Dec. 4, 1981, [95 Stat. 1152][/us/stat/95/1152]; [Pub. L. 103–359, title IV][/us/pl/103/359/tIV], § 401, Oct. 14, 1994, [108 Stat. 3427][/us/stat/108/3427]; [Pub. L. 108–177, title IV][/us/pl/108/177/tIV], § 401, Dec. 13, 2003, [117 Stat. 2631][/us/stat/117/2631].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
     Section was formerly classified to [section 403e of this title][/us/usc/t50/s403e] prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (a)(3)(B), (C), “this subsection” substituted for “this section” as the probable intent of Congress in view of the designation of the existing provisions of this section as subsec. (a) and the addition of subsec. (b) by [Pub. L. 97–89, title V, § 501][/us/pl/97/89/s501], Dec. 4, 1981, [95 Stat. 1152][/us/stat/95/1152].
+    In subsec. (a)(3)(B), (C), “this subsection” substituted for “this section” as the probable intent of Congress in view of the designation of the existing provisions of this section as subsec. (a) and the addition of subsec. (b) by [Pub. L. 97–89, title V][/us/pl/97/89/tV], § 501, Dec. 4, 1981, [95 Stat. 1152][/us/stat/95/1152].
 
  __Prior Provisions__ 
 
@@ -97,33 +97,33 @@
 
     2003—Subsec. (b)(5). [Pub. L. 108–177][/us/pl/108/177] inserted “, other than regulations under paragraph (1),” after “Regulations”.
 
-    1994—Subsec. (a)(5)(A). [Pub. L. 103–359, § 401(1)(A)][/us/pl/103/359/s401/1/A]–(D), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency” and substituted “the Director deems” for “he shall deem”, “[section 5731 of title 5][/us/usc/t5/s5731]” for “[section 10 of the Act of March 3, 1933][/us/act/1933-03-03/s10] ([47 Stat. 1516][/us/stat/47/1516]; [5 U.S.C. 73b][/us/usc/t5/s73b])”, and “the recovery of such officer or employee” for “his recovery”.
+    1994—Subsec. (a)(5)(A). [Pub. L. 103–359][/us/pl/103/359], § 401(1)(A)–(D), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency” and substituted “the Director deems” for “he shall deem”, “[section 5731 of title 5][/us/usc/t5/s5731]” for “[section 10 of the Act of March 3, 1933][/us/act/1933-03-03/s10] ([47 Stat. 1516][/us/stat/47/1516]; [5 U.S.C. 73b][/us/usc/t5/s73b])”, and “the recovery of such officer or employee” for “his recovery”.
 
-    [Pub. L. 103–359, § 401(1)(E)][/us/pl/103/359/s401/1/E], which directed the substitution of “the return to the post of duty of such officer or employee” for “his return to his post”, was executed by making the substitution for “his return to his post of duty” to reflect the probable intent of Congress.
+    [Pub. L. 103–359][/us/pl/103/359], § 401(1)(E), which directed the substitution of “the return to the post of duty of such officer or employee” for “his return to his post”, was executed by making the substitution for “his return to his post of duty” to reflect the probable intent of Congress.
 
-    Subsec. (a)(5)(B). [Pub. L. 103–359, § 401(2)][/us/pl/103/359/s401/2], substituted “the opinion of the Director” for “his opinion” in two places.
+    Subsec. (a)(5)(B). [Pub. L. 103–359][/us/pl/103/359], § 401(2), substituted “the opinion of the Director” for “his opinion” in two places.
 
-    Subsec. (a)(5)(C). [Pub. L. 103–359, § 401(3)][/us/pl/103/359/s401/3], struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency”.
+    Subsec. (a)(5)(C). [Pub. L. 103–359][/us/pl/103/359], § 401(3), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency”.
 
     1981—[Pub. L. 97–89][/us/pl/97/89] designated existing provisions as subsec. (a) and added subsec. (b).
 
-    1960—[Pub. L. 86–707, § 323(a)][/us/pl/86/707/s323/a], substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
+    1960—[Pub. L. 86–707][/us/pl/86/707], § 323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
 
-    Par. (1)(A). [Pub. L. 86–707, § 511(c)(2)][/us/pl/86/707/s511/c/2], substituted “pursuant to authorized home leave” for “pursuant to orders issued by the Director in accordance with the provisions of subsection (a)(3) of this section with regard to the granting of home leave”.
+    Par. (1)(A). [Pub. L. 86–707][/us/pl/86/707], § 511(c)(2), substituted “pursuant to authorized home leave” for “pursuant to orders issued by the Director in accordance with the provisions of subsection (a)(3) of this section with regard to the granting of home leave”.
 
-    Par. (1)(D). [Pub. L. 86–707, § 301(b)][/us/pl/86/707/s301/b], authorized payment of cost of packing and unpacking and transporting to and from a place of storage, extended authority to pay storage costs for an officer or employee assigned to a post to which he cannot take or at which he is unable to use his furniture and household personal effects by striking out provisions which restricted such payment only to cases where an emergency exists, empowered Director to pay storage costs when it is in the public interest or more economical to authorize storage, and limited weight or volume of effects stored or weight or volume of effects transported to not more than maximum limitations fixed by regulations, when not otherwise fixed by law.
+    Par. (1)(D). [Pub. L. 86–707][/us/pl/86/707], § 301(b), authorized payment of cost of packing and unpacking and transporting to and from a place of storage, extended authority to pay storage costs for an officer or employee assigned to a post to which he cannot take or at which he is unable to use his furniture and household personal effects by striking out provisions which restricted such payment only to cases where an emergency exists, empowered Director to pay storage costs when it is in the public interest or more economical to authorize storage, and limited weight or volume of effects stored or weight or volume of effects transported to not more than maximum limitations fixed by regulations, when not otherwise fixed by law.
 
-    Par. (1)(E). [Pub. L. 86–707, § 301(b)][/us/pl/86/707/s301/b], authorized payment of cost of packing and unpacking and transporting to and from a place of storage, permitted payment from date of departure from officer’s or employee’s last post or from date of departure from place of residence in the case of a new officer or employee, empowered Director to pay storage costs in connection with separation of an officer or employee from the Agency, and limited weight or volume of effects stored or weight or volume of effects transported to not more than maximum limitations fixed by regulations, when not otherwise fixed by law.
+    Par. (1)(E). [Pub. L. 86–707][/us/pl/86/707], § 301(b), authorized payment of cost of packing and unpacking and transporting to and from a place of storage, permitted payment from date of departure from officer’s or employee’s last post or from date of departure from place of residence in the case of a new officer or employee, empowered Director to pay storage costs in connection with separation of an officer or employee from the Agency, and limited weight or volume of effects stored or weight or volume of effects transported to not more than maximum limitations fixed by regulations, when not otherwise fixed by law.
 
-    Par. (3)(A). [Pub. L. 86–707, § 511(c)(3)][/us/pl/86/707/s511/c/3], substituted “to any of the several States of the United States of America (including the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States) on leave of absence each officer or employee of the Agency who was a resident of the United States (as described above) at time of employment, upon completion of two years’ continuous service abroad, or as soon as possible thereafter” for “to the United States or its Territories and possessions on leave provided for in sections 30–30b of Title 5 \[former Title 5, Executive Departments and Government Officers and Employees\], or as such sections may hereafter be amended, every officer and employee of the agency who was a resident of the United States or its Territories and possessions at time of employment, upon completion of two years’ continuous service abroad, or as soon as possible thereafter: Provided, That such officer or employee has accrued to his credit at the time of such order, annual leave sufficient to carry him in a pay status while in the United States for at least a thirty-day period”.
+    Par. (3)(A). [Pub. L. 86–707][/us/pl/86/707], § 511(c)(3), substituted “to any of the several States of the United States of America (including the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States) on leave of absence each officer or employee of the Agency who was a resident of the United States (as described above) at time of employment, upon completion of two years’ continuous service abroad, or as soon as possible thereafter” for “to the United States or its Territories and possessions on leave provided for in sections 30–30b of Title 5 \[former Title 5, Executive Departments and Government Officers and Employees\], or as such sections may hereafter be amended, every officer and employee of the agency who was a resident of the United States or its Territories and possessions at time of employment, upon completion of two years’ continuous service abroad, or as soon as possible thereafter: Provided, That such officer or employee has accrued to his credit at the time of such order, annual leave sufficient to carry him in a pay status while in the United States for at least a thirty-day period”.
 
-    Par. (3)(B). [Pub. L. 86–707, § 511(c)(4)][/us/pl/86/707/s511/c/4], substituted “United States (as described in paragraph (3)(A) of this section) on leave, the service of any officer or employee shall be available for work or duties in the Agency or elsewhere as the Director may prescribe” for “continental United States on leave, the service of any officer or employee shall not be available for work or duties except in the agency or for training or for reorientation for work”.
+    Par. (3)(B). [Pub. L. 86–707][/us/pl/86/707], § 511(c)(4), substituted “United States (as described in paragraph (3)(A) of this section) on leave, the service of any officer or employee shall be available for work or duties in the Agency or elsewhere as the Director may prescribe” for “continental United States on leave, the service of any officer or employee shall not be available for work or duties except in the agency or for training or for reorientation for work”.
 
-    Par. (3)(C). [Pub. L. 86–707, § 511(c)(5)][/us/pl/86/707/s511/c/5], substituted “returns to the United States (as described in paragraph (3)(A) of this section)” for “returns to the United States or its Territories and possessions”, and “from the United States (as so described)” for “from the United States or its Territories and possessions”.
+    Par. (3)(C). [Pub. L. 86–707][/us/pl/86/707], § 511(c)(5), substituted “returns to the United States (as described in paragraph (3)(A) of this section)” for “returns to the United States or its Territories and possessions”, and “from the United States (as so described)” for “from the United States or its Territories and possessions”.
 
-    Par. (4). [Pub. L. 86–707, § 323(b)][/us/pl/86/707/s323/b], limited transportation of motor vehicles to one for any officer or employee during any four-year period, and empowered Director to approve transportation of one additional motor vehicle for replacement either during the four-year period or after expiration of four years following date of transportation of a motor vehicle of any officer or employee who has remained in continuous service outside the several States, excluding Alaska and Hawaii, but including the District of Columbia, for such period.
+    Par. (4). [Pub. L. 86–707][/us/pl/86/707], § 323(b), limited transportation of motor vehicles to one for any officer or employee during any four-year period, and empowered Director to approve transportation of one additional motor vehicle for replacement either during the four-year period or after expiration of four years following date of transportation of a motor vehicle of any officer or employee who has remained in continuous service outside the several States, excluding Alaska and Hawaii, but including the District of Columbia, for such period.
 
-    [Pub. L. 86–707, § 511(a)(3)][/us/pl/86/707/s511/a/3], repealed subsec. (b) which authorized Director to grant allowances in accordance with provisions of section 1131(1), (2) of Title 22, Foreign Relations and Intercourse. See pars. (1)(D) and (1)(E) of this section.
+    [Pub. L. 86–707][/us/pl/86/707], § 511(a)(3), repealed subsec. (b) which authorized Director to grant allowances in accordance with provisions of section 1131(1), (2) of Title 22, Foreign Relations and Intercourse. See pars. (1)(D) and (1)(E) of this section.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -131,19 +131,19 @@
 
  __Implementation of Compensation Reform Plan__ 
 
-    [Pub. L. 108–177, title IV, § 405(c)][/us/pl/108/177/s405/c], Dec. 13, 2003, [117 Stat. 2633][/us/stat/117/2633], required the Director of Central Intelligence to submit to the congressional intelligence committees a report on the compensation of Central Intelligence Agency employees participating in the pilot project under [section 402(b) of Pub. L. 107–306][/us/pl/107/306/s402/b], formerly set out below.
+    [Pub. L. 108–177, title IV][/us/pl/108/177/tIV], § 405(c), Dec. 13, 2003, [117 Stat. 2633][/us/stat/117/2633], required the Director of Central Intelligence to submit to the congressional intelligence committees a report on the compensation of Central Intelligence Agency employees participating in the pilot project under [section 402(b) of Pub. L. 107–306][/us/pl/107/306/s402/b], formerly set out below.
 
-    [Pub. L. 107–306, title IV, § 402][/us/pl/107/306/s402], Nov. 27, 2002, [116 Stat. 2403][/us/stat/116/2403], as amended by [Pub. L. 108–177, title IV, § 405(a)][/us/pl/108/177/s405/a], Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632], delayed implementation of a compensation reform plan for Central Intelligence Agency employees, required the Director of Central Intelligence to conduct a pilot project to test the efficacy and fairness of the plan and to submit a report on the project to the congressional intelligence committees, and expressed the sense of Congress that the Director of the National Security Agency should delay implementation of a compensation reform plan for National Security Agency employees and that an employee performance evaluation mechanism should be phased in before implementation of any new compensation plan at either Agency.
+    [Pub. L. 107–306, title IV][/us/pl/107/306/tIV], § 402, Nov. 27, 2002, [116 Stat. 2403][/us/stat/116/2403], as amended by [Pub. L. 108–177, title IV][/us/pl/108/177/tIV], § 405(a), Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632], delayed implementation of a compensation reform plan for Central Intelligence Agency employees, required the Director of Central Intelligence to conduct a pilot project to test the efficacy and fairness of the plan and to submit a report on the project to the congressional intelligence committees, and expressed the sense of Congress that the Director of the National Security Agency should delay implementation of a compensation reform plan for National Security Agency employees and that an employee performance evaluation mechanism should be phased in before implementation of any new compensation plan at either Agency.
 
  __Clarification of Terms Applied to Furniture, Household Goods, and Personal Effects in 1960 Amendment__ 
 
-[Pub. L. 86–707, title III, § 301(d)][/us/pl/86/707/s301/d], Sept. 6, 1960, [74 Stat. 796][/us/stat/74/796], provided that: 
+[Pub. L. 86–707, title III][/us/pl/86/707/tIII], § 301(d), Sept. 6, 1960, [74 Stat. 796][/us/stat/74/796], provided that: 
 
 > “The term ‘furniture and household and personal effects’, as used in the amendments made by this part to the Foreign Service Act of 1946, as amended \[amending [section 1136 of Title 22][/us/usc/t22/s1136], Foreign Relations and Intercourse\], and the Central Intelligence Agency Act of 1949, as amended \[amending this section\], and the term ‘household goods and personal effects’, as used in the amendments made by this part to the Administrative Expenses Act of 1946, as amended \[amending section 73b–1 of former Title 5, Executive Departments and Government Officers and Employees\], mean such personal property of an employee and the dependents of such employee as the Secretary of State and the Director of Central Intelligence, as the case may be, with respect to the term ‘furniture and household and personal effects’, and the President, with respect to the term ‘household goods and personal effects’, shall by regulation authorize to be transported or stored under the amendments made by this part to such Acts (including, in emergencies, motor vehicles authorized to be shipped at Government expense). Such motor vehicle shall be excluded from the weight and volume limitations prescribed by the laws set forth in this part.”
 
     \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of this title][/us/usc/t50/s3001].\]
 
-    [Pub. L. 86–707, title III, § 301(d)][/us/pl/86/707/s301/d], Sept. 6, 1960, [74 Stat. 796][/us/stat/74/796], was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 661][/us/stat/80/661], insofar as it is applicable to the Administrative Expenses Act of 1946, as amended.
+    [Pub. L. 86–707, title III][/us/pl/86/707/tIII], § 301(d), Sept. 6, 1960, [74 Stat. 796][/us/stat/74/796], was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 661][/us/stat/80/661], insofar as it is applicable to the Administrative Expenses Act of 1946, as amended.
 
  __Executive Order No. 10100__ 
 
@@ -158,64 +158,64 @@
 
 [/us/usc/t5/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5731
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
-[/us/act/1949-06-20/ch227/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs4
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
 [/us/stat/63/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F209
-[/us/pl/85/507/s21/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507%2Fs21%2Fb%2F2
+[/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/stat/72/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F337
-[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtIII
 [/us/stat/74/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F795
-[/us/pl/97/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs501
+[/us/pl/97/89/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtV
 [/us/stat/95/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1152
-[/us/pl/103/359/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs401
+[/us/pl/103/359/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtIV
 [/us/stat/108/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3427
-[/us/pl/108/177/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs401
+[/us/pl/108/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIV
 [/us/stat/117/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2631
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t50/s403e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403e
-[/us/pl/97/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs501
+[/us/pl/97/89/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtV
 [/us/stat/95/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1152
 [/us/usc/t50/s403d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403d
 [/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/usc/t50/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3504
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
-[/us/pl/103/359/s401/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs401%2F1%2FA
+[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/usc/t5/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5731
 [/us/act/1933-03-03/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs10
 [/us/stat/47/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1516
 [/us/usc/t5/s73b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b
-[/us/pl/103/359/s401/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs401%2F1%2FE
-[/us/pl/103/359/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs401%2F2
-[/us/pl/103/359/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs401%2F3
+[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
+[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
+[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
-[/us/pl/86/707/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs323%2Fa
-[/us/pl/86/707/s511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs511%2Fc%2F2
-[/us/pl/86/707/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs301%2Fb
-[/us/pl/86/707/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs301%2Fb
-[/us/pl/86/707/s511/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs511%2Fc%2F3
-[/us/pl/86/707/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs511%2Fc%2F4
-[/us/pl/86/707/s511/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs511%2Fc%2F5
-[/us/pl/86/707/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs323%2Fb
-[/us/pl/86/707/s511/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs511%2Fa%2F3
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
+[/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
 [/us/pl/97/89/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs806
 [/us/usc/t10/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1621
-[/us/pl/108/177/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs405%2Fc
+[/us/pl/108/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIV
 [/us/stat/117/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2633
 [/us/pl/107/306/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs402%2Fb
-[/us/pl/107/306/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs402
+[/us/pl/107/306/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIV
 [/us/stat/116/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2403
-[/us/pl/108/177/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs405%2Fa
+[/us/pl/108/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIV
 [/us/stat/117/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2632
-[/us/pl/86/707/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs301%2Fd
+[/us/pl/86/707/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtIII
 [/us/stat/74/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F796
 [/us/usc/t22/s1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1136
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/86/707/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs301%2Fd
+[/us/pl/86/707/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtIII
 [/us/stat/74/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F796
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F661
 [/us/usc/t5/s5921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5921
 

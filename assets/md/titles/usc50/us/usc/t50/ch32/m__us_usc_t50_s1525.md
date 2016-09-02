@@ -35,11 +35,11 @@
 
         (4) The term “United States National Authority” means the United States National Authority established or designated pursuant to Article VII, paragraph 4, of the Convention.
 
-([Pub. L. 105–85, div. A, title XIII, § 1303][/us/pl/105/85/s1303], Nov. 18, 1997, [111 Stat. 1951][/us/stat/111/1951].)
+([Pub. L. 105–85, div. A, title XIII][/us/pl/105/85/dA/tXIII], § 1303, Nov. 18, 1997, [111 Stat. 1951][/us/stat/111/1951].)
 
  __Codification__ 
 
-    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
 ----------
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/105/85/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1303
+[/us/pl/105/85/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXIII
 [/us/stat/111/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1951
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 
 

@@ -21,11 +21,11 @@
 
     (2) The processing, treating, packaging, and disposal of Department of Energy domestic and foreign spent nuclear fuel rods at the site.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4452][/us/pl/107/314/s4452], formerly [Pub. L. 104–201, div. C, title XXXI, § 3142(e)][/us/pl/104/201/s3142/e], Sept. 23, 1996, [110 Stat. 2836][/us/stat/110/2836]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4452][/us/pl/107/314/s4452], by [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(22)][/us/pl/108/136/s3141/g/22], Nov. 24, 2003, [117 Stat. 1769][/us/stat/117/1769].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4452, formerly [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3142(e), Sept. 23, 1996, [110 Stat. 2836][/us/stat/110/2836]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4452, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(22), Nov. 24, 2003, [117 Stat. 1769][/us/stat/117/1769].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, § 3141(g)(22)(C)][/us/pl/108/136/s3141/g/22/C], inserted section catchline, struck out former subsec. heading, and inserted in text “of Energy” after “The Secretary”.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(g)(22)(C), inserted section catchline, struck out former subsec. heading, and inserted in text “of Energy” after “The Secretary”.
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4452
-[/us/pl/104/201/s3142/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3142%2Fe
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2836
-[/us/pl/107/314/s4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4452
-[/us/pl/108/136/s3141/g/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F22
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1769
-[/us/pl/108/136/s3141/g/22/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F22%2FC
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

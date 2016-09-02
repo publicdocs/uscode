@@ -121,7 +121,7 @@
 
             (B) require that no negative inference concerning the standards in the guidelines may be raised solely on the basis of seeking mental health counseling.
 
-([Pub. L. 108–458, title III, § 3002][/us/pl/108/458/s3002], as added [Pub. L. 110–181, div. A, title X, § 1072(a)][/us/pl/110/181/s1072/a], Jan. 28, 2008, [122 Stat. 328][/us/stat/122/328].)
+([Pub. L. 108–458, title III][/us/pl/108/458/tIII], § 3002, as added [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1072(a), Jan. 28, 2008, [122 Stat. 328][/us/stat/122/328].)
 
  __References in Text__ 
 
@@ -143,8 +143,8 @@
 [/us/usc/t21/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F1
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/108/458/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs3002
-[/us/pl/110/181/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1072%2Fa
+[/us/pl/108/458/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIII
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F328
 [/us/usc/t50/s435c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435c
 

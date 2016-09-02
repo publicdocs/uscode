@@ -81,7 +81,7 @@
 
         The Secretary, in consultation with appropriate United States Government departments and agencies and with appropriate technical advisory committees established under [section 4604(h) of this title][/us/usc/t50/s4604/h], shall review the regulations issued under this chapter and the commodity control list in order to determine how compliance with the provisions of this chapter can be facilitated by simplifying such regulations, by simplifying or clarifying such list, or by any other means.
 
-([Pub. L. 96–72, § 12][/us/pl/96/72/s12], Sept. 29, 1979, [93 Stat. 530][/us/stat/93/530]; [Pub. L. 97–145][/us/pl/97/145], §§ 3, 5, Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727], 1728; [Pub. L. 99–64, title I, § 113][/us/pl/99/64/s113], July 12, 1985, [99 Stat. 148][/us/stat/99/148]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title II, § 2427][/us/pl/100/418/s2427], Aug. 23, 1988, [102 Stat. 1361][/us/stat/102/1361]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 96–72][/us/pl/96/72], § 12, Sept. 29, 1979, [93 Stat. 530][/us/stat/93/530]; [Pub. L. 97–145][/us/pl/97/145], §§ 3, 5, Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727], 1728; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 113, July 12, 1985, [99 Stat. 148][/us/stat/99/148]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2427, Aug. 23, 1988, [102 Stat. 1361][/us/stat/102/1361]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Termination Date__ 
 
@@ -101,11 +101,11 @@
 
  __Codification__ 
 
-    In subsec. (c)(2), “[section 716 of title 31][/us/usc/t31/s716]” was substituted for “section 313 of the Budget and Accounting Act\[,\] 1921” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c)(2), “[section 716 of title 31][/us/usc/t31/s716]” was substituted for “section 313 of the Budget and Accounting Act\[,\] 1921” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section was formerly classified to section 2411 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2411 of the former Appendix to this title, [Pub. L. 91–184, § 12][/us/pl/91/184/s12], Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846], related to the effect of other acts on provisions of the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979. See [section 4619 of this title][/us/usc/t50/s4619].
+    A prior section 2411 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 12, Dec. 30, 1969, [83 Stat. 846][/us/stat/83/846], related to the effect of other acts on provisions of the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979. See [section 4619 of this title][/us/usc/t50/s4619].
 
  __Amendments__ 
 
@@ -115,15 +115,15 @@
 
     1986—Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1985—Subsec. (a)(1). [Pub. L. 99–64, § 113(a)][/us/pl/99/64/s113/a], designated existing provisions of subsec. (a) as par. (1), substituted “such investigations within the United States, and the Commissioner of Customs (and officers or employees of the United States Customs Service specifically designated by the Commissioner) may make such investigations outside of the United States, and the head of such department or agency (and such officers or employees) may” for “such investigations and”, and “a district court of the United States,” for “the district court of the United States for any district in which such person is found or resides or transacts business, upon application, and”, and inserted sentence providing that in addition to the authority conferred by this paragraph, the Secretary (and officers or employees of the Department of Commerce designated by the Secretary) may conduct, outside the United States, pre-license investigations and post-shipment verifications of items licensed for export, and investigations in the enforcement of [section 4607 of this title][/us/usc/t50/s4607].
+    1985—Subsec. (a)(1). [Pub. L. 99–64][/us/pl/99/64], § 113(a), designated existing provisions of subsec. (a) as par. (1), substituted “such investigations within the United States, and the Commissioner of Customs (and officers or employees of the United States Customs Service specifically designated by the Commissioner) may make such investigations outside of the United States, and the head of such department or agency (and such officers or employees) may” for “such investigations and”, and “a district court of the United States,” for “the district court of the United States for any district in which such person is found or resides or transacts business, upon application, and”, and inserted sentence providing that in addition to the authority conferred by this paragraph, the Secretary (and officers or employees of the Department of Commerce designated by the Secretary) may conduct, outside the United States, pre-license investigations and post-shipment verifications of items licensed for export, and investigations in the enforcement of [section 4607 of this title][/us/usc/t50/s4607].
 
-    Subsec. (a)(2) to (8). [Pub. L. 99–64, § 113(a)(5)][/us/pl/99/64/s113/a/5], added pars. (2) to (8).
+    Subsec. (a)(2) to (8). [Pub. L. 99–64][/us/pl/99/64], § 113(a)(5), added pars. (2) to (8).
 
-    Subsec. (c)(3). [Pub. L. 99–64, § 113][/us/pl/99/64/s113], substituted “Any department or agency which obtains information which is relevant to the enforcement of this chapter, including information pertaining to any investigation, shall furnish such information to each department or agency” for “Departments or agencies which obtain information which is relevant to the enforcement of this chapter shall furnish such information to the department or agency”, and inserted sentences providing that the Secretary and the Commissioner of Customs, upon request, shall exchange any licensing and enforcement information with each other which is necessary to facilitate enforcement efforts and effective license decisions and that the Secretary, the Attorney General, and the Commissioner of Customs shall consult on a continuing basis with one another and with the heads of other departments and agencies which obtain information subject to this paragraph, in order to facilitate the exchange of such information.
+    Subsec. (c)(3). [Pub. L. 99–64][/us/pl/99/64], § 113, substituted “Any department or agency which obtains information which is relevant to the enforcement of this chapter, including information pertaining to any investigation, shall furnish such information to each department or agency” for “Departments or agencies which obtain information which is relevant to the enforcement of this chapter shall furnish such information to the department or agency”, and inserted sentences providing that the Secretary and the Commissioner of Customs, upon request, shall exchange any licensing and enforcement information with each other which is necessary to facilitate enforcement efforts and effective license decisions and that the Secretary, the Attorney General, and the Commissioner of Customs shall consult on a continuing basis with one another and with the heads of other departments and agencies which obtain information subject to this paragraph, in order to facilitate the exchange of such information.
 
-    1981—Subsec. (c)(2). [Pub. L. 97–145, § 5][/us/pl/97/145/s5], substantially reenacted existing provisions, inserted provisions that the information may not be withheld from the General Accounting Office, and that the information be made available to the Comptroller General of the United States or to any officer or employee of the General Accounting Office who is authorized to have access to such information which is submitted on a confidential basis and from which any individual can be identified, consistent with the protection of intelligence, counterintelligence, and law enforcement sources, methods, and activities, as determined by the agency that originally obtained the information, and consistent with [section 54 of title 31][/us/usc/t31/s54], be made available only by that agency.
+    1981—Subsec. (c)(2). [Pub. L. 97–145][/us/pl/97/145], § 5, substantially reenacted existing provisions, inserted provisions that the information may not be withheld from the General Accounting Office, and that the information be made available to the Comptroller General of the United States or to any officer or employee of the General Accounting Office who is authorized to have access to such information which is submitted on a confidential basis and from which any individual can be identified, consistent with the protection of intelligence, counterintelligence, and law enforcement sources, methods, and activities, as determined by the agency that originally obtained the information, and consistent with [section 54 of title 31][/us/usc/t31/s54], be made available only by that agency.
 
-    Subsec. (c)(3). [Pub. L. 97–145, § 3][/us/pl/97/145/s3], added par. (3).
+    Subsec. (c)(3). [Pub. L. 97–145][/us/pl/97/145], § 3, added par. (3).
 
  __Transfer of Functions__ 
 
@@ -131,7 +131,7 @@
 
  __Application of Certain Provisions of Export Administration Act of 1979__ 
 
-[Pub. L. 113–276, title II, § 209][/us/pl/113/276/s209], Dec. 18, 2014, [128 Stat. 2994][/us/stat/128/2994], provided that:
+[Pub. L. 113–276, title II][/us/pl/113/276/tII], § 209, Dec. 18, 2014, [128 Stat. 2994][/us/stat/128/2994], provided that:
 
 >     “(a)  __Protection of Information__  __.—__ 
 
@@ -161,17 +161,17 @@
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/usc/t50/s4604/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fh
-[/us/pl/96/72/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs12
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F530
 [/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1727
-[/us/pl/99/64/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs113
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F148
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/418/s2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2427
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1361
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
@@ -186,24 +186,24 @@
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t31/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/91/184/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs12
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F846
 [/us/usc/t50/s4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4619
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t50/s4603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fa%2F3
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/64/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs113%2Fa
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607
-[/us/pl/99/64/s113/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs113%2Fa%2F5
-[/us/pl/99/64/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs113
-[/us/pl/97/145/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs5
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/usc/t31/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs54
-[/us/pl/97/145/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs3
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/113/276/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs209
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2994
 [/us/usc/t50/s4614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fc
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

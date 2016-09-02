@@ -105,7 +105,7 @@
 
             (B) Whether NRO, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 703, formerly title I, § 105D, as added [Pub. L. 107–306, title V, § 502(a)][/us/pl/107/306/s502/a], Nov. 27, 2002, [116 Stat. 2405][/us/stat/116/2405]; renumbered title VII, § 703, and amended [Pub. L. 108–136, div. A, title IX, § 922(c)][/us/pl/108/136/s922/c], (d)(1)(D), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], 1574; [Pub. L. 108–375, div. A, title X, § 1084(j)][/us/pl/108/375/s1084/j], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 108–458, title I, § 1071(a)(1)(GG)][/us/pl/108/458/s1071/a/1/GG]–(II), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 109–163, div. A, title IX, § 933(b)(2)][/us/pl/109/163/s933/b/2], Jan. 6, 2006, [119 Stat. 3416][/us/stat/119/3416].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 703, formerly title I, § 105D, as added [Pub. L. 107–306, title V][/us/pl/107/306/tV], § 502(a), Nov. 27, 2002, [116 Stat. 2405][/us/stat/116/2405]; renumbered title VII, § 703, and amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 922(c), (d)(1)(D), Nov. 24, 2003, [117 Stat. 1573][/us/stat/117/1573], 1574; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(j), Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(a)(1)(GG)–(II), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 933(b)(2), Jan. 6, 2006, [119 Stat. 3416][/us/stat/119/3416].)
 
  __References in Text__ 
 
@@ -119,13 +119,13 @@
 
     2006—Subsec. (a)(3)(C)(vii). [Pub. L. 109–163][/us/pl/109/163] added cl. (vii).
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 1071(a)(1)(GG)][/us/pl/108/458/s1071/a/1/GG], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(GG), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
     Subsec. (a)(6)(B)(iv)(I). [Pub. L. 108–375][/us/pl/108/375] substituted “responsive records” for “responsible records”.
 
-    Subsec. (a)(6)(B)(viii). [Pub. L. 108–458, § 1071(a)(1)(HH)][/us/pl/108/458/s1071/a/1/HH], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (a)(6)(B)(viii). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(HH), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (b)(1). [Pub. L. 108–458, § 1071(a)(1)(II)][/us/pl/108/458/s1071/a/1/II], substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
+    Subsec. (b)(1). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(II), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
     2003—[Pub. L. 108–136][/us/pl/108/136] substituted “Operational files of the National Reconnaissance Office” for “Protection of operational files of the National Reconnaissance Office” in section catchline.
 
@@ -149,24 +149,24 @@
 [/us/usc/t5/s552/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FB
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/107/306/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs502%2Fa
+[/us/pl/107/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtV
 [/us/stat/116/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2405
-[/us/pl/108/136/s922/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fc
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1573
-[/us/pl/108/375/s1084/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fj
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2064
-[/us/pl/108/458/s1071/a/1/GG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FGG
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/109/163/s933/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs933%2Fb%2F2
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3416
 [/us/usc/t50/s432a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432a
 [/us/usc/t50/s403–5e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935e
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/458/s1071/a/1/GG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FGG
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/458/s1071/a/1/HH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FHH
-[/us/pl/108/458/s1071/a/1/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FII
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

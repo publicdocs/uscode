@@ -71,11 +71,11 @@
 
             The term “Foreign Intelligence Surveillance Court of Review” means the court established under [section 1803(b) of this title][/us/usc/t50/s1803/b].
 
-([Pub. L. 95–511, title VI, § 601][/us/pl/95/511/s601], as added [Pub. L. 108–458, title VI, § 6002(a)(2)][/us/pl/108/458/s6002/a/2], Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743]; amended [Pub. L. 110–261, title I][/us/pl/110/261], §§ 101(c)(2), 103, title IV, § 403(b)(2)(B), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459], 2460, 2474; [Pub. L. 114–23, title VI, § 604][/us/pl/114/23/s604], June 2, 2015, [129 Stat. 297][/us/stat/129/297].)
+([Pub. L. 95–511, title VI][/us/pl/95/511/tVI], § 601, as added [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6002(a)(2), Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743]; amended [Pub. L. 110–261, title I][/us/pl/110/261/tI], §§ 101(c)(2), 103, title IV, § 403(b)(2)(B), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459], 2460, 2474; [Pub. L. 114–23, title VI][/us/pl/114/23/tVI], § 604, June 2, 2015, [129 Stat. 297][/us/stat/129/297].)
 
  __Amendment of Subsection (a)(1)__ 
 
-    [Pub. L. 110–261, title IV, § 403(b)(2)][/us/pl/110/261/s403/b/2], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(2)][/us/pl/112/238/s2/a/2], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of this title][/us/usc/t50/s1801], effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.
+    [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(b)(2), July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(a)(2), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of this title][/us/usc/t50/s1801], effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.
 
  __References in Text__ 
 
@@ -89,17 +89,17 @@
 
     2015—Subsec. (c)(1). [Pub. L. 114–23][/us/pl/114/23] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and”.
 
-    2008—Subsec. (a)(1)(E), (F). [Pub. L. 110–261, § 101(c)(2)][/us/pl/110/261/s101/c/2], added subpars. (E) and (F).
+    2008—Subsec. (a)(1)(E), (F). [Pub. L. 110–261][/us/pl/110/261], § 101(c)(2), added subpars. (E) and (F).
 
-    Subsec. (a)(5). [Pub. L. 110–261, § 103(a)][/us/pl/110/261/s103/a], substituted “, orders,” for “(not including orders)”.
+    Subsec. (a)(5). [Pub. L. 110–261][/us/pl/110/261], § 103(a), substituted “, orders,” for “(not including orders)”.
 
-    Subsecs. (c), (d). [Pub. L. 110–261, § 103(b)][/us/pl/110/261/s103/b], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–261][/us/pl/110/261], § 103(b), added subsecs. (c) and (d).
 
-    Subsec. (e). [Pub. L. 110–261, § 103(c)][/us/pl/110/261/s103/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–261][/us/pl/110/261], § 103(c), added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
-    [Pub. L. 110–261, title IV, § 403(b)(2)][/us/pl/110/261/s403/b/2], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(2)][/us/pl/112/238/s2/a/2], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of this title][/us/usc/t50/s1801], the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
+    [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(b)(2), July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(a)(2), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of this title][/us/usc/t50/s1801], the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
 
 ----------
 
@@ -117,16 +117,16 @@
 [/us/usc/t50/s1801/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FC
 [/us/usc/t50/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fa
 [/us/usc/t50/s1803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fb
-[/us/pl/95/511/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs601
-[/us/pl/108/458/s6002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6002%2Fa%2F2
+[/us/pl/95/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVI
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3743
-[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2459
-[/us/pl/114/23/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs604
+[/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F297
-[/us/pl/110/261/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F2
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F2
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
@@ -137,13 +137,13 @@
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/pl/110/261/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fc%2F2
-[/us/pl/110/261/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs103%2Fa
-[/us/pl/110/261/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs103%2Fb
-[/us/pl/110/261/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs103%2Fc
-[/us/pl/110/261/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F2
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F2
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

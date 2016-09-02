@@ -37,7 +37,7 @@
 
             (B) that specifies that the statement has been prepared by the Attorney General and constitutes no part of the opinion of the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review.
 
-([Pub. L. 95–511, title VI, § 602][/us/pl/95/511/s602], as added [Pub. L. 114–23, title IV, § 402(a)(2)][/us/pl/114/23/s402/a/2], June 2, 2015, [129 Stat. 281][/us/stat/129/281].)
+([Pub. L. 95–511, title VI][/us/pl/95/511/tVI], § 602, as added [Pub. L. 114–23, title IV][/us/pl/114/23/tIV], § 402(a)(2), June 2, 2015, [129 Stat. 281][/us/stat/129/281].)
 
 ----------
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t50/s1871/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1871%2Fe
-[/us/pl/95/511/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs602
-[/us/pl/114/23/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs402%2Fa%2F2
+[/us/pl/95/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVI
+[/us/pl/114/23/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtIV
 [/us/stat/129/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F281
 
 

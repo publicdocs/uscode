@@ -27,7 +27,7 @@
 
         (2) during the absence or disability of the Director of the Central Intelligence Agency, or during a vacancy in the position of Director of the Central Intelligence Agency, act for and exercise the powers of the Director of the Central Intelligence Agency.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 104B, as added [Pub. L. 111–259, title IV, § 423(a)][/us/pl/111/259/s423/a], Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 104B, as added [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 423(a), Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–259, title IV, § 423(c)][/us/pl/111/259/s423/c], Oct. 7, 2010, [124 Stat. 2728][/us/stat/124/2728], provided that: 
+[Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 423(c), Oct. 7, 2010, [124 Stat. 2728][/us/stat/124/2728], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees\] shall apply on the earlier of—
 
@@ -51,10 +51,10 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs423%2Fa
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2727
 [/us/usc/t50/s403–4c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934c
-[/us/pl/111/259/s423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs423%2Fc
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2728
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t50/s3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3037

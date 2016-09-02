@@ -41,7 +41,7 @@
 
         The requirements of this section are supplemental to those contained in title IV of the National Emergencies Act \[[50 U.S.C. 1641][/us/usc/t50/s1641]\].
 
-([Pub. L. 95–223, title II, § 204][/us/pl/95/223/s204], Dec. 28, 1977, [91 Stat. 1627][/us/stat/91/1627].)
+([Pub. L. 95–223, title II][/us/pl/95/223/tII], § 204, Dec. 28, 1977, [91 Stat. 1627][/us/stat/91/1627].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t50/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1641
-[/us/pl/95/223/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs204
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1627
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255

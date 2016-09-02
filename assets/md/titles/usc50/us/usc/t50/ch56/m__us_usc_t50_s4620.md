@@ -39,7 +39,7 @@
 
         (3) such additional amounts, for each such fiscal year, as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
 
-([Pub. L. 96–72, § 18][/us/pl/96/72/s18], Sept. 29, 1979, [93 Stat. 534][/us/stat/93/534]; [Pub. L. 97–145, § 2(a)][/us/pl/97/145/s2/a], Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727]; [Pub. L. 99–64, title I, § 119][/us/pl/99/64/s119], July 12, 1985, [99 Stat. 154][/us/stat/99/154]; [Pub. L. 99–633, § 1][/us/pl/99/633/s1], Nov. 7, 1986, [100 Stat. 3522][/us/stat/100/3522]; [Pub. L. 100–418, title II, § 2430][/us/pl/100/418/s2430], Aug. 23, 1988, [102 Stat. 1362][/us/stat/102/1362]; [Pub. L. 103–10, § 1][/us/pl/103/10/s1], Mar. 27, 1993, [107 Stat. 40][/us/stat/107/40].)
+([Pub. L. 96–72][/us/pl/96/72], § 18, Sept. 29, 1979, [93 Stat. 534][/us/stat/93/534]; [Pub. L. 97–145][/us/pl/97/145], § 2(a), Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 119, July 12, 1985, [99 Stat. 154][/us/stat/99/154]; [Pub. L. 99–633][/us/pl/99/633], § 1, Nov. 7, 1986, [100 Stat. 3522][/us/stat/100/3522]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2430, Aug. 23, 1988, [102 Stat. 1362][/us/stat/102/1362]; [Pub. L. 103–10][/us/pl/103/10], § 1, Mar. 27, 1993, [107 Stat. 40][/us/stat/107/40].)
 
  __Termination Date__ 
 
@@ -65,9 +65,9 @@
 
     “(3) such additional amounts for each of the fiscal years 1988 and 1989 as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.”
 
-    1988—Subsec. (b)(1). [Pub. L. 100–418, § 2430(1)][/us/pl/100/418/s2430/1], substituted “the fiscal year 1988” for “each of the fiscal years 1987 and 1988” and struck out “for each such year” after “available” in three places and “and” after semicolon at end.
+    1988—Subsec. (b)(1). [Pub. L. 100–418][/us/pl/100/418], § 2430(1), substituted “the fiscal year 1988” for “each of the fiscal years 1987 and 1988” and struck out “for each such year” after “available” in three places and “and” after semicolon at end.
 
-    Subsec. (b)(2), (3). [Pub. L. 100–418, § 2430(2)][/us/pl/100/418/s2430/2], added pars. (2) and (3) and struck out former par. (2) which read as follows: “such additional amounts for each of the fiscal years 1987 and 1988 as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.”
+    Subsec. (b)(2), (3). [Pub. L. 100–418][/us/pl/100/418], § 2430(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “such additional amounts for each of the fiscal years 1987 and 1988 as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.”
 
     1986—Subsec. (b). [Pub. L. 99–633][/us/pl/99/633] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of Commerce to carry out the purposes of this chapter—
 
@@ -77,9 +77,9 @@
 
     “(3) such additional amounts for each of the fiscal years 1985 and 1986 as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.”
 
-    1985—Subsec. (a). [Pub. L. 99–64, § 119][/us/pl/99/64/s119], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, no appropriation shall be made under any law to the Department of Commerce for expenses to carry out the purposes of this chapter unless previously and specifically authorized by law.”
+    1985—Subsec. (a). [Pub. L. 99–64][/us/pl/99/64], § 119, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, no appropriation shall be made under any law to the Department of Commerce for expenses to carry out the purposes of this chapter unless previously and specifically authorized by law.”
 
-    Subsec. (b). [Pub. L. 99–64, § 119][/us/pl/99/64/s119], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of Commerce to carry out the purposes of this chapter—
+    Subsec. (b). [Pub. L. 99–64][/us/pl/99/64], § 119, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of Commerce to carry out the purposes of this chapter—
 
     “(1) $9,659,000 for each of the fiscal years 1982 and 1983; and
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–145, § 2(b)][/us/pl/97/145/s2/b], Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727], provided that: 
+[Pub. L. 97–145][/us/pl/97/145], § 2(b), Dec. 29, 1981, [95 Stat. 1727][/us/stat/95/1727], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as of October 1, 1981.”
 
@@ -100,17 +100,17 @@
 ----------
 ----------
 
-[/us/pl/96/72/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs18
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F534
-[/us/pl/97/145/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs2%2Fa
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1727
-[/us/pl/99/64/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs119
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F154
-[/us/pl/99/633/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F633%2Fs1
+[/us/pl/99/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F633
 [/us/stat/100/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3522
-[/us/pl/100/418/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2430
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1362
-[/us/pl/103/10/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F10%2Fs1
+[/us/pl/103/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F10
 [/us/stat/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F40
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
@@ -120,16 +120,16 @@
 [/us/pl/103/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F10
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
-[/us/pl/100/418/s2430/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2430%2F1
-[/us/pl/100/418/s2430/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2430%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F633
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
-[/us/pl/99/64/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs119
-[/us/pl/99/64/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs119
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/usc/t50/s4604/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Ff%2F5
-[/us/pl/97/145/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145%2Fs2%2Fb
+[/us/pl/97/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F145
 [/us/stat/95/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1727
 
 

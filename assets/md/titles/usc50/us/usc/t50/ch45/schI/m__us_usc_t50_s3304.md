@@ -59,7 +59,7 @@
 
         This section shall not apply to any project which is subject to subsection (a)(1)(A) or (c) of section 601.
 
-([Pub. L. 103–359, title VI, § 602][/us/pl/103/359/s602], Oct. 14, 1994, [108 Stat. 3432][/us/stat/108/3432]; [Pub. L. 108–177, title III, § 314][/us/pl/108/177/s314], Dec. 13, 2003, [117 Stat. 2610][/us/stat/117/2610]; [Pub. L. 111–259, title VIII, § 809][/us/pl/111/259/s809], Oct. 7, 2010, [124 Stat. 2749][/us/stat/124/2749].)
+([Pub. L. 103–359, title VI][/us/pl/103/359/tVI], § 602, Oct. 14, 1994, [108 Stat. 3432][/us/stat/108/3432]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 314, Dec. 13, 2003, [117 Stat. 2610][/us/stat/117/2610]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 809, Oct. 7, 2010, [124 Stat. 2749][/us/stat/124/2749].)
 
  __References in Text__ 
 
@@ -71,17 +71,17 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (a)(2), (b)(1), (2)(A), (B). [Pub. L. 111–259, § 809(1)][/us/pl/111/259/s809/1], (2)(A), (B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2010—Subsecs. (a)(2), (b)(1), (2)(A), (B). [Pub. L. 111–259][/us/pl/111/259], § 809(1), (2)(A), (B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (b)(3). [Pub. L. 111–259, § 809(2)(C)][/us/pl/111/259/s809/2/C], substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+    Subsec. (b)(3). [Pub. L. 111–259][/us/pl/111/259], § 809(2)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-    2003—Subsec. (a). [Pub. L. 108–177, § 314(a)][/us/pl/108/177/s314/a], substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
+    2003—Subsec. (a). [Pub. L. 108–177][/us/pl/108/177], § 314(a), substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
 
-    Subsec. (b)(2). [Pub. L. 108–177, § 314(b)][/us/pl/108/177/s314/b], designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
+    Subsec. (b)(2). [Pub. L. 108–177][/us/pl/108/177], § 314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
 
  __Definitions__ 
 
-[Pub. L. 103–359, title VI, § 604][/us/pl/103/359/s604], Oct. 14, 1994, [108 Stat. 3433][/us/stat/108/3433], provided that: 
+[Pub. L. 103–359, title VI][/us/pl/103/359/tVI], § 604, Oct. 14, 1994, [108 Stat. 3433][/us/stat/108/3433], provided that: 
 
 > “As used in this title \[enacting this section and [section 3302 of this title][/us/usc/t50/s3302]\]:
 
@@ -100,20 +100,20 @@
 ----------
 ----------
 
-[/us/pl/103/359/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs602
+[/us/pl/103/359/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVI
 [/us/stat/108/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3432
-[/us/pl/108/177/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs314
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2610
-[/us/pl/111/259/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs809
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2749
 [/us/pl/103/359/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs601
 [/us/stat/108/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3431
 [/us/usc/t50/s403–2b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%932b
-[/us/pl/111/259/s809/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs809%2F1
-[/us/pl/111/259/s809/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs809%2F2%2FC
-[/us/pl/108/177/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs314%2Fa
-[/us/pl/108/177/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs314%2Fb
-[/us/pl/103/359/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs604
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/103/359/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVI
 [/us/stat/108/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3433
 [/us/usc/t50/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3302
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4

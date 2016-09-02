@@ -81,11 +81,11 @@
 
         (2) repeal [section 2303 of title 5][/us/usc/t5/s2303].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1104, as added [Pub. L. 113–126, title VI, § 601(a)][/us/pl/113/126/s601/a], July 7, 2014, [128 Stat. 1414][/us/stat/128/1414].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1104, as added [Pub. L. 113–126, title VI][/us/pl/113/126/tVI], § 601(a), July 7, 2014, [128 Stat. 1414][/us/stat/128/1414].)
 
  __Policies and Procedures; Nonapplicability to Certain Terminations__ 
 
-[Pub. L. 113–126, title VI, § 604][/us/pl/113/126/s604], July 7, 2014, [128 Stat. 1421][/us/stat/128/1421], provided that:
+[Pub. L. 113–126, title VI][/us/pl/113/126/tVI], § 604, July 7, 2014, [128 Stat. 1421][/us/stat/128/1421], provided that:
 
 >     “(a)  __Covered Intelligence Community Element Defined__  __.—__ 
 
@@ -140,9 +140,9 @@
 [/us/usc/t5/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2303
 [/us/usc/t5/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2303
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/126/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs601%2Fa
+[/us/pl/113/126/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtVI
 [/us/stat/128/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1414
-[/us/pl/113/126/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs604
+[/us/pl/113/126/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtVI
 [/us/stat/128/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1421
 [/us/usc/t5/s2302/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FC%2Fii
 [/us/usc/t50/s3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3234

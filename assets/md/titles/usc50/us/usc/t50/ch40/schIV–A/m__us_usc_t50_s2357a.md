@@ -23,7 +23,7 @@
 
         In this subchapter, the term “the appropriate committees of Congress” means the Committees on Foreign Relations, Armed Services, and Appropriations of the Senate and the Committees on International Relations, Armed Services, and Appropriations of the House of Representatives.
 
-([Pub. L. 107–228, div. B, title XIII, § 1333][/us/pl/107/228/s1333], Sept. 30, 2002, [116 Stat. 1449][/us/stat/116/1449].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1333, Sept. 30, 2002, [116 Stat. 1449][/us/stat/116/1449].)
 
  __Change of Name__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
-[/us/pl/107/228/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1333
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1449
 
 

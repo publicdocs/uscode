@@ -41,7 +41,7 @@
 
             The Secretary may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
 
-([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 2, [40 Stat. 220][/us/stat/40/220]; [Mar. 28, 1940, ch. 72, § 3(a)][/us/act/1940-03-28/ch72/s3/a], [54 Stat. 79][/us/stat/54/79]; [Nov. 15, 1941, ch. 471, § 3][/us/act/1941-11-15/ch471/s3], [55 Stat. 763][/us/stat/55/763]; [Aug. 9, 1950, ch. 656, § 3][/us/act/1950-08-09/ch656/s3], [64 Stat. 428][/us/stat/64/428]; [Pub. L. 107–295, title I, § 104(b)][/us/pl/107/295/s104/b], Nov. 25, 2002, [116 Stat. 2085][/us/stat/116/2085]; [Pub. L. 108–293, title VIII, § 802(b)][/us/pl/108/293/s802/b], Aug. 9, 2004, [118 Stat. 1079][/us/stat/118/1079].)
+([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 2, [40 Stat. 220][/us/stat/40/220]; [Mar. 28, 1940, ch. 72][/us/act/1940-03-28/ch72], § 3(a), [54 Stat. 79][/us/stat/54/79]; [Nov. 15, 1941, ch. 471][/us/act/1941-11-15/ch471], § 3, [55 Stat. 763][/us/stat/55/763]; [Aug. 9, 1950, ch. 656][/us/act/1950-08-09/ch656], § 3, [64 Stat. 428][/us/stat/64/428]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 104(b), Nov. 25, 2002, [116 Stat. 2085][/us/stat/116/2085]; [Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 802(b), Aug. 9, 2004, [118 Stat. 1079][/us/stat/118/1079].)
 
  __References in Text__ 
 
@@ -49,13 +49,13 @@
 
  __Codification__ 
 
-    In subsec. (e)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (e)(1), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–293, § 802(b)(1)][/us/pl/108/293/s802/b/1], substituted “title” for “Act” in two places.
+    2004—Subsec. (c). [Pub. L. 108–293][/us/pl/108/293], § 802(b)(1), substituted “title” for “Act” in two places.
 
-    Subsecs. (d), (e). [Pub. L. 108–293, § 802(b)(2)][/us/pl/108/293/s802/b/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 108–293][/us/pl/108/293], § 802(b)(2), added subsecs. (d) and (e).
 
     2002—[Pub. L. 107–295][/us/pl/107/295] inserted subsec. headings, designated first par. as subsec. (a), redesignated former subsec. (a) as (b), and added subsec. (c).
 
@@ -79,24 +79,24 @@
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
-[/us/act/1940-03-28/ch72/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs3%2Fa
+[/us/act/1940-03-28/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72
 [/us/stat/54/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F79
-[/us/act/1941-11-15/ch471/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch471%2Fs3
+[/us/act/1941-11-15/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch471
 [/us/stat/55/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F763
-[/us/act/1950-08-09/ch656/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656%2Fs3
+[/us/act/1950-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch656
 [/us/stat/64/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F428
-[/us/pl/107/295/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs104%2Fb
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2085
-[/us/pl/108/293/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs802%2Fb
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1079
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/108/293/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs802%2Fb%2F1
-[/us/pl/108/293/s802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs802%2Fb%2F2
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t50/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs191
 

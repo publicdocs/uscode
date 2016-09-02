@@ -69,7 +69,7 @@
 
         (4) The term “atomic energy defense activities” does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], formerly [Pub. L. 102–190, div. C, title XXXI, § 3136][/us/pl/102/190/s3136], Dec. 5, 1991, [105 Stat. 1577][/us/stat/105/1577]; [Pub. L. 103–35, title II, § 203(b)(3)][/us/pl/103/35/s203/b/3], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; renumbered [Pub. L. 107–314, div. D, title XLVIII, § 4813][/us/pl/107/314/s4813], by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(8)][/us/pl/108/136/s3141/k/8], Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 111–383, div. C, title XXXI, § 3115(a)][/us/pl/111/383/s3115/a], Jan. 7, 2011, [124 Stat. 4511][/us/stat/124/4511]; [Pub. L. 112–239, div. C, title XXXI, § 3131(x)][/us/pl/112/239/s3131/x], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(i)(5)][/us/pl/113/66/s3146/i/5], Dec. 26, 2013, [127 Stat. 1082][/us/stat/127/1082]; [Pub. L. 113–291, div. C, title XXXI, § 3142(t)][/us/pl/113/291/s3142/t], Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4813, formerly [Pub. L. 102–190, div. C, title XXXI][/us/pl/102/190/dC/tXXXI], § 3136, Dec. 5, 1991, [105 Stat. 1577][/us/stat/105/1577]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 203(b)(3), May 31, 1993, [107 Stat. 102][/us/stat/107/102]; renumbered [Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4813, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(k)(8), Nov. 24, 2003, [117 Stat. 1785][/us/stat/117/1785]; [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3115(a), Jan. 7, 2011, [124 Stat. 4511][/us/stat/124/4511]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(x), Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(i)(5), Dec. 26, 2013, [127 Stat. 1082][/us/stat/127/1082]; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3142(t), Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 
     2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “that research on and development of dual-use critical technology carried out through atomic energy defense activities” for “that atomic energy defense activities research on, and development of, any dual-use critical technology”.
 
-    2013—Subsec. (b)(1). [Pub. L. 113–66, § 3146(i)(5)(A)][/us/pl/113/66/s3146/i/5/A], struck out “for Nuclear Security” after “Administrator”.
+    2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(5)(A), struck out “for Nuclear Security” after “Administrator”.
 
-    Subsec. (c)(1)(C). [Pub. L. 113–66, § 3146(i)(5)(B)(i)][/us/pl/113/66/s3146/i/5/B/i], added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “that either—
+    Subsec. (c)(1)(C). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(5)(B)(i), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “that either—
 
     “(i)(I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to [section 6683(d) of title 42][/us/usc/t42/s6683/d]; and
 
@@ -95,21 +95,21 @@
 
     “(II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary.”
 
-    Subsec. (c)(3)(B)(iii). [Pub. L. 113–66, § 3146(i)(5)(B)(ii)][/us/pl/113/66/s3146/i/5/B/ii], substituted “governments” for “Governments”.
+    Subsec. (c)(3)(B)(iii). [Pub. L. 113–66][/us/pl/113/66], § 3146(i)(5)(B)(ii), substituted “governments” for “Governments”.
 
     Subsec. (c)(5). [Pub. L. 112–239][/us/pl/112/239] struck out par. (5) which read as follows: “The term ‘national security laboratory’ has the meaning given that term in [section 2471 of this title][/us/usc/t50/s2471].”
 
-    2011—[Pub. L. 111–383, § 3115(a)(3)][/us/pl/111/383/s3115/a/3], inserted “and cooperative research and development centers” after “partnerships” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 3115(a)(3), inserted “and cooperative research and development centers” after “partnerships” in section catchline.
 
-    Subsecs. (b), (c). [Pub. L. 111–383, § 3115(a)(1)][/us/pl/111/383/s3115/a/1], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 111–383][/us/pl/111/383], § 3115(a)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    Subsec. (c)(5). [Pub. L. 111–383, § 3115(a)(2)][/us/pl/111/383/s3115/a/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 111–383][/us/pl/111/383], § 3115(a)(2), added par. (5).
 
     1993—Subsec. (b)(1)(C)(ii)(I). [Pub. L. 103–35][/us/pl/103/35] substituted “[section 2506 of title 10][/us/usc/t10/s2506]” for “[section 2522 of title 10][/us/usc/t10/s2522]”.
 
  __Pilot Program on Technology Commercialization__ 
 
-[Pub. L. 112–239, div. C, title XXXI, § 3165][/us/pl/112/239/s3165], Jan. 2, 2013, [126 Stat. 2207][/us/stat/126/2207], provided that:
+[Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3165, Jan. 2, 2013, [126 Stat. 2207][/us/stat/126/2207], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -160,40 +160,40 @@
 
 [/us/usc/t10/s2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2500
 [/us/usc/t15/s3710a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fd
-[/us/pl/107/314/s4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4813
-[/us/pl/102/190/s3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3136
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/102/190/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXI
 [/us/stat/105/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1577
-[/us/pl/103/35/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs203%2Fb%2F3
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
-[/us/pl/107/314/s4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4813
-[/us/pl/108/136/s3141/k/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F8
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1785
-[/us/pl/111/383/s3115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3115%2Fa
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4511
-[/us/pl/112/239/s3131/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fx
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2184
-[/us/pl/113/66/s3146/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1082
-[/us/pl/113/291/s3142/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Ft
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/usc/t42/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2123
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/66/s3146/i/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FA
-[/us/pl/113/66/s3146/i/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FB%2Fi
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t42/s6683/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683%2Fd
 [/us/usc/t10/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506
-[/us/pl/113/66/s3146/i/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fi%2F5%2FB%2Fii
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
-[/us/pl/111/383/s3115/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3115%2Fa%2F3
-[/us/pl/111/383/s3115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3115%2Fa%2F1
-[/us/pl/111/383/s3115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3115%2Fa%2F2
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t10/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506
 [/us/usc/t10/s2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2522
-[/us/pl/112/239/s3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3165
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2207
 [/us/usc/t42/s16391/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16391%2Fa
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471

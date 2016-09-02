@@ -17,7 +17,7 @@
 
     The Director may, with the approval of the Secretary of the Treasury, invest from time to time in interest-bearing securities of the United States such portions of the fund as in the Director’s judgment may not be immediately required for the payment of annuities, cash benefits, refunds, and allowances from the fund. The income derived from such investments shall be credited to and constitute a part of the fund.
 
-([Pub. L. 88–643, title II, § 262][/us/pl/88/643/s262], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3235][/us/stat/106/3235].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 262, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3235][/us/stat/106/3235].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/88/643/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs262
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3235
 [/us/pl/88/643/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs262
 [/us/stat/78/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1052

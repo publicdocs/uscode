@@ -23,7 +23,7 @@
 
     except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule, as the President deems appropriate to carry out this chapter.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 703, [64 Stat. 816][/us/stat/64/816]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(a), (b), [65 Stat. 138][/us/stat/65/138]; [Pub. L. 102–558, title I, § 133][/us/pl/102/558/s133], Oct. 28, 1992, [106 Stat. 4212][/us/stat/106/4212].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 703, [64 Stat. 816][/us/stat/64/816]; [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 109(a), (b), [65 Stat. 138][/us/stat/65/138]; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 133, Oct. 28, 1992, [106 Stat. 4212][/us/stat/106/4212].)
 
  __Termination of Section__ 
 
@@ -325,7 +325,7 @@ Sec. 801. Definitions. In addition to the definitions in section 702 of the Act,
 [/us/stat/64/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F816
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F138
-[/us/pl/102/558/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs133
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4212
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932

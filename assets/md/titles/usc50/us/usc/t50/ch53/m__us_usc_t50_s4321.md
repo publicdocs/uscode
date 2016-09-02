@@ -39,13 +39,13 @@
 
         The benefits of subsections (c), (d), and (e) shall be extended to the taxpayer if claim therefor is filed before the expiration of the period of limitations properly applicable thereto, or before the expiration of six months after the date of the enactment of the Settlement of War Claims Act of 1928, whichever date is the later. The benefits of subsection (d) shall also be extended to the taxpayer if claim therefor is filed before the expiration of six months after the return of the proceeds.
 
-([Oct. 6, 1917, ch. 106, § 24][/us/act/1917-10-06/ch106/s24], as added [Mar. 4, 1923, ch. 285, § 2][/us/act/1923-03-04/ch285/s2], [42 Stat. 1516][/us/stat/42/1516]; amended [Mar. 10, 1928, ch. 167, § 18][/us/act/1928-03-10/ch167/s18], [45 Stat. 276][/us/stat/45/276], 277; [Mar. 28, 1934, ch. 102][/us/act/1934-03-28/ch102], title I, § 1, [48 Stat. 510][/us/stat/48/510]; [June 18, 1934, ch. 567][/us/act/1934-06-18/ch567], [48 Stat. 978][/us/stat/48/978].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 24, as added [Mar. 4, 1923, ch. 285][/us/act/1923-03-04/ch285], § 2, [42 Stat. 1516][/us/stat/42/1516]; amended [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 18, [45 Stat. 276][/us/stat/45/276], 277; [Mar. 28, 1934, ch. 102][/us/act/1934-03-28/ch102], title I, § 1, [48 Stat. 510][/us/stat/48/510]; [June 18, 1934, ch. 567][/us/act/1934-06-18/ch567], [48 Stat. 978][/us/stat/48/978].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” or “the Trading with the Enemy Act, as amended”, meaning [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4301 of this title][/us/usc/t50/s4301] and Tables.
 
-    Section 208 of the Revenue Act of 1926 (relating to capital net gains), referred to in subsec. (c), is [act Feb. 26, 1926, ch. 27, § 208][/us/act/1926-02-26/ch27/s208], [44 Stat. 19][/us/stat/44/19], which enacted section 939 of former Title 26, Internal Revenue, prior to repeal by [act May 29, 1928, ch. 852, § 63][/us/act/1928-05-29/ch852/s63], [45 Stat. 810][/us/stat/45/810]. See section 1201 et seq. of Title 26, Internal Revenue Code.
+    Section 208 of the Revenue Act of 1926 (relating to capital net gains), referred to in subsec. (c), is [act Feb. 26, 1926, ch. 27][/us/act/1926-02-26/ch27], § 208, [44 Stat. 19][/us/stat/44/19], which enacted section 939 of former Title 26, Internal Revenue, prior to repeal by [act May 29, 1928, ch. 852][/us/act/1928-05-29/ch852], § 63, [45 Stat. 810][/us/stat/45/810]. See section 1201 et seq. of Title 26, Internal Revenue Code.
 
     The date of the enactment of the Settlement of War Claims Act of 1928, referred to in subsecs. (d) and (f), is the date of enactment of [act Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], which was approved Mar. 10, 1928.
 
@@ -76,10 +76,10 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs24
-[/us/act/1923-03-04/ch285/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch285%2Fs2
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1923-03-04/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch285
 [/us/stat/42/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1516
-[/us/act/1928-03-10/ch167/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs18
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F276
 [/us/act/1934-03-28/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-28%2Fch102
 [/us/stat/48/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F510
@@ -88,9 +88,9 @@
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/act/1926-02-26/ch27/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-02-26%2Fch27%2Fs208
+[/us/act/1926-02-26/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-02-26%2Fch27
 [/us/stat/44/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F19
-[/us/act/1928-05-29/ch852/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852%2Fs63
+[/us/act/1928-05-29/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852
 [/us/stat/45/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F810
 [/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/act/1918-07-01/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-01%2Fch113

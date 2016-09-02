@@ -15,13 +15,13 @@
 
 ## § 4403. Charter of vessels
 
-    (a) __, (b) Repealed.__  __[__  __Pub. L. 101–225, title III, § 307(12)__  __][/us/pl/101/225/s307/12]__  __,__  __Dec. 12, 1989__  __,__  __[__  __103 Stat. 1925__  __][/us/stat/103/1925]__ 
+    (a) __, (b) Repealed.__  __[__  __Pub. L. 101–225, title III__  __][/us/pl/101/225/tIII]__  __, § 307(12),__  __Dec. 12, 1989__  __,__  __[__  __103 Stat. 1925__  __][/us/stat/103/1925]__ 
 
     (c) __Laws applicable to charter hire__ 
 
         The provisions of sections 57514 and 57516 to 57521 of title 46 shall be applicable to charters made under this section.
 
-    (d) __Repealed.__  __[__  __Pub. L. 101–225, title III, § 307(12)__  __][/us/pl/101/225/s307/12]__  __,__  __Dec. 12, 1989__  __,__  __[__  __103 Stat. 1925__  __][/us/stat/103/1925]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 101–225, title III__  __][/us/pl/101/225/tIII]__  __, § 307(12),__  __Dec. 12, 1989__  __,__  __[__  __103 Stat. 1925__  __][/us/stat/103/1925]__ 
 
     (e) __Proceedings and findings; extension of charters__ 
 
@@ -35,7 +35,7 @@
 
         (2) Charters existing on June 30, 1950, with respect to passenger vessels may be continued until December 31, 1951, or until expiration thereof by the terms of their provisions.
 
-([Mar. 8, 1946, ch. 82, § 5][/us/act/1946-03-08/ch82/s5], [60 Stat. 43][/us/stat/60/43]; [June 28, 1947, ch. 161, § 2][/us/act/1947-06-28/ch161/s2], [61 Stat. 191][/us/stat/61/191]; [June 30, 1950, ch. 427, § 3][/us/act/1950-06-30/ch427/s3], [64 Stat. 308][/us/stat/64/308]; [Aug. 31, 1954, ch. 1175][/us/act/1954-08-31/ch1175], [68 Stat. 1050][/us/stat/68/1050]; [Pub. L. 97–31, § 12(155)][/us/pl/97/31/s12/155], Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167]; [Pub. L. 101–225, title III, § 307(12)][/us/pl/101/225/s307/12], Dec. 12, 1989, [103 Stat. 1925][/us/stat/103/1925].)
+([Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], § 5, [60 Stat. 43][/us/stat/60/43]; [June 28, 1947, ch. 161][/us/act/1947-06-28/ch161], § 2, [61 Stat. 191][/us/stat/61/191]; [June 30, 1950, ch. 427][/us/act/1950-06-30/ch427], § 3, [64 Stat. 308][/us/stat/64/308]; [Aug. 31, 1954, ch. 1175][/us/act/1954-08-31/ch1175], [68 Stat. 1050][/us/stat/68/1050]; [Pub. L. 97–31][/us/pl/97/31], § 12(155), Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 307(12), Dec. 12, 1989, [103 Stat. 1925][/us/stat/103/1925].)
 
  __References in Text__ 
 
@@ -45,21 +45,21 @@
 
     Section was formerly classified to section 1738 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (c), “sections 57514 and 57516 to 57521 of title 46” substituted for “sections 708, 709, 710, 712, and 713, of the Merchant Marine Act, 1936, as amended,”, and in subsec. (f)(1), “chapter 575 of title 46,” substituted for “title VII of the Merchant Marine Act, 1936, as amended,” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted chapter 575 of Title 46, Shipping.
+    In subsec. (c), “sections 57514 and 57516 to 57521 of title 46” substituted for “sections 708, 709, 710, 712, and 713, of the Merchant Marine Act, 1936, as amended,”, and in subsec. (f)(1), “chapter 575 of title 46,” substituted for “title VII of the Merchant Marine Act, 1936, as amended,” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted chapter 575 of Title 46, Shipping.
 
  __Amendments__ 
 
     1989—Subsecs. (a), (b), (d). [Pub. L. 101–225][/us/pl/101/225] struck out subsec. (a) which related to charter of vessels to citizens and publication of domestic prewar cost as a prerequisite, subsec. (b) which related to rate of charter hire, and subsec. (d) which related to computation of charter hire where an operator is engaged in both foreign and domestic trade.
 
-    1981—Subsec. (a). [Pub. L. 97–31, § 12(155)(A)][/us/pl/97/31/s12/155/A], (B), substituted “Secretary” for “Commission” and “his” for “its” wherever appearing.
+    1981—Subsec. (a). [Pub. L. 97–31][/us/pl/97/31], § 12(155)(A), (B), substituted “Secretary” for “Commission” and “his” for “its” wherever appearing.
 
-    Subsec. (b). [Pub. L. 97–31, § 12(155)(A)][/us/pl/97/31/s12/155/A], substituted “Secretary” for “Commission” wherever appearing.
+    Subsec. (b). [Pub. L. 97–31][/us/pl/97/31], § 12(155)(A), substituted “Secretary” for “Commission” wherever appearing.
 
-    Subsec. (d). [Pub. L. 97–31, § 12(155)(C)][/us/pl/97/31/s12/155/C], substituted “Secretary of Transportation” for “Maritime Commission”.
+    Subsec. (d). [Pub. L. 97–31][/us/pl/97/31], § 12(155)(C), substituted “Secretary of Transportation” for “Maritime Commission”.
 
-    Subsec. (e). [Pub. L. 97–31, § 12(155)(D)][/us/pl/97/31/s12/155/D], (E), substituted “Maritime Administration” for “Federal Maritime Board” and “Secretary of Transportation” for “Secretary of Commerce” wherever appearing.
+    Subsec. (e). [Pub. L. 97–31][/us/pl/97/31], § 12(155)(D), (E), substituted “Maritime Administration” for “Federal Maritime Board” and “Secretary of Transportation” for “Secretary of Commerce” wherever appearing.
 
-    Subsec. (f)(1). [Pub. L. 97–31, § 12(155)(E)][/us/pl/97/31/s12/155/E], substituted “Secretary of Transportation” for “Secretary of Commerce”.
+    Subsec. (f)(1). [Pub. L. 97–31][/us/pl/97/31], § 12(155)(E), substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
     1954—Subsec. (f)(1). Act Aug. 31, 1954, allowed the chartering of war-built passenger vessels.
 
@@ -80,35 +80,35 @@
 ----------
 ----------
 
-[/us/pl/101/225/s307/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs307%2F12
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1925
-[/us/pl/101/225/s307/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs307%2F12
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1925
-[/us/act/1946-03-08/ch82/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82%2Fs5
+[/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
 [/us/stat/60/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F43
-[/us/act/1947-06-28/ch161/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-28%2Fch161%2Fs2
+[/us/act/1947-06-28/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-28%2Fch161
 [/us/stat/61/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F191
-[/us/act/1950-06-30/ch427/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-30%2Fch427%2Fs3
+[/us/act/1950-06-30/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-30%2Fch427
 [/us/stat/64/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F308
 [/us/act/1954-08-31/ch1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1175
 [/us/stat/68/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1050
-[/us/pl/97/31/s12/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F155
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F167
-[/us/pl/101/225/s307/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs307%2F12
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1925
 [/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
 [/us/stat/60/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F41
 [/us/usc/t50/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4405
 [/us/usc/t50/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4401
 [/us/usc/t50/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4401
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
-[/us/pl/97/31/s12/155/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F155%2FA
-[/us/pl/97/31/s12/155/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F155%2FA
-[/us/pl/97/31/s12/155/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F155%2FC
-[/us/pl/97/31/s12/155/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F155%2FD
-[/us/pl/97/31/s12/155/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F155%2FE
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/pl/85/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F721
 [/us/stat/72/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F710
 [/us/usc/t50/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4403

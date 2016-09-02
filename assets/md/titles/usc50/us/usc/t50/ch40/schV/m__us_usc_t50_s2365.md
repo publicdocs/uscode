@@ -27,7 +27,7 @@
 
     (2) if it is necessary to do so in order to secure the materials, the materials should be imported into the United States, subject to the laws and regulations that are applicable to the importation of such materials into the United States.
 
-([Pub. L. 104–201, div. A, title XIV, § 1455][/us/pl/104/201/s1455], Sept. 23, 1996, [110 Stat. 2731][/us/stat/110/2731].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1455, Sept. 23, 1996, [110 Stat. 2731][/us/stat/110/2731].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1455
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2731
 
 

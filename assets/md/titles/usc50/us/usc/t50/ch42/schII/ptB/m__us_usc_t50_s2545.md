@@ -31,7 +31,7 @@
 
         (2) make available those funds necessary to complete engineering development and demonstration, preliminary design, and detailed design of key elements of the system consistent with the Secretary’s decision document of December 22, 1998.
 
-([Pub. L. 107–314, div. D, title XLII, § 4235][/us/pl/107/314/s4235], formerly [Pub. L. 106–65, div. C, title XXXI, § 3134][/us/pl/106/65/s3134], Oct. 5, 1999, [113 Stat. 927][/us/stat/113/927]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4235][/us/pl/107/314/s4235], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(20)][/us/pl/108/136/s3141/e/20], Nov. 24, 2003, [117 Stat. 1762][/us/stat/117/1762].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4235, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3134, Oct. 5, 1999, [113 Stat. 927][/us/stat/113/927]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4235, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(20), Nov. 24, 2003, [117 Stat. 1762][/us/stat/117/1762].)
 
 ----------
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4235
-[/us/pl/106/65/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3134
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F927
-[/us/pl/107/314/s4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4235
-[/us/pl/108/136/s3141/e/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F20
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1762
 
 

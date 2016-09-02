@@ -37,7 +37,7 @@
 
         (3) shall be made under the same conditions as apply to payments authorized by [section 3973 of title 22][/us/usc/t22/s3973].
 
-([June 20, 1949, ch. 227, § 11][/us/act/1949-06-20/ch227/s11], as added [Pub. L. 96–450, title IV, § 403(a)][/us/pl/96/450/s403/a], Oct. 14, 1980, [94 Stat. 1978][/us/stat/94/1978].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 11, as added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 403(a), Oct. 14, 1980, [94 Stat. 1978][/us/stat/94/1978].)
 
  __Codification__ 
 
@@ -53,8 +53,8 @@
 ----------
 
 [/us/usc/t22/s3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3973
-[/us/act/1949-06-20/ch227/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs11
-[/us/pl/96/450/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs403%2Fa
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1978
 [/us/usc/t50/s403k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403k
 [/us/usc/t22/s3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3973

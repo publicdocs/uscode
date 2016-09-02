@@ -23,7 +23,7 @@
 
         Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1103, as added [Pub. L. 111–259, title IV, § 413(a)][/us/pl/111/259/s413/a], Oct. 7, 2010, [124 Stat. 2726][/us/stat/124/2726].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1103, as added [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 413(a), Oct. 7, 2010, [124 Stat. 2726][/us/stat/124/2726].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs413%2Fa
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2726
 [/us/usc/t50/s442b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs442b
 

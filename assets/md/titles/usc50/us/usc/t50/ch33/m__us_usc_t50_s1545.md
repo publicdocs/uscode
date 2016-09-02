@@ -31,7 +31,7 @@
 
         In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such resolution or bill not later than four calendar days before the expiration of the sixty-day period specified in [section 1544(b) of this title][/us/usc/t50/s1544/b]. In the event the conferees are unable to agree within 48 hours, they shall report back to their respective Houses in disagreement. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than the expiration of such sixty-day period.
 
-([Pub. L. 93–148, § 6][/us/pl/93/148/s6], Nov. 7, 1973, [87 Stat. 557][/us/stat/87/557].)
+([Pub. L. 93–148][/us/pl/93/148], § 6, Nov. 7, 1973, [87 Stat. 557][/us/stat/87/557].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t50/s1544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1544%2Fb
 [/us/usc/t50/s1544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1544%2Fb
 [/us/usc/t50/s1544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1544%2Fb
-[/us/pl/93/148/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs6
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F557
 
 

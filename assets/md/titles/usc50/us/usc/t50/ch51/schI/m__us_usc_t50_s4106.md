@@ -53,7 +53,7 @@
 
         (4) Claims filed pursuant to clause (B) of paragraph (1) of this subsection shall be determined and paid upon the basis of postwar cost of replacement for the twelve-month period ending October 1, 1952, as ascertained by the Commission.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 7, [62 Stat. 1245][/us/stat/62/1245]; [Apr. 9, 1952, ch. 167, § 2][/us/act/1952-04-09/ch167/s2], [66 Stat. 48][/us/stat/66/48]; [Aug. 6, 1956, ch. 985][/us/act/1956-08-06/ch985], [70 Stat. 1063][/us/stat/70/1063]; [Pub. L. 87–846, title I, § 102][/us/pl/87/846/s102], Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 7, [62 Stat. 1245][/us/stat/62/1245]; [Apr. 9, 1952, ch. 167][/us/act/1952-04-09/ch167], § 2, [66 Stat. 48][/us/stat/66/48]; [Aug. 6, 1956, ch. 985][/us/act/1956-08-06/ch985], [70 Stat. 1063][/us/stat/70/1063]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 102, Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Termination of Philippine War Damage Commission__ 
 
-    The Philippine War Damage Commission established by section 101 of [act Apr. 30, 1946, ch. 243][/us/act/1946-04-30/ch243], title I, [60 Stat. 128][/us/stat/60/128], formerly classified to section 1751 of the former Appendix to this title, terminated under the provisions of subsec. (d) of such section, which provided for the winding up of the Commission’s affairs not later than two years after expiration of time for filing claims under [act Apr. 30, 1946, ch. 243][/us/act/1946-04-30/ch243], if possible but in no event later than Apr. 30, 1951.
+    The Philippine War Damage Commission established by section 101 of [act Apr. 30, 1946, ch. 243, title I][/us/act/1946-04-30/ch243/tI], [60 Stat. 128][/us/stat/60/128], formerly classified to section 1751 of the former Appendix to this title, terminated under the provisions of subsec. (d) of such section, which provided for the winding up of the Commission’s affairs not later than two years after expiration of time for filing claims under [act Apr. 30, 1946, ch. 243][/us/act/1946-04-30/ch243], if possible but in no event later than Apr. 30, 1951.
 
 ----------
 
@@ -96,11 +96,11 @@
 [/us/usc/t50/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4110
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1245
-[/us/act/1952-04-09/ch167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch167%2Fs2
+[/us/act/1952-04-09/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-09%2Fch167
 [/us/stat/66/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F48
 [/us/act/1956-08-06/ch985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch985
 [/us/stat/70/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1063
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/act/1946-04-30/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch243
 [/us/stat/60/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F128
@@ -109,7 +109,7 @@
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
-[/us/act/1946-04-30/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch243
+[/us/act/1946-04-30/ch243/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch243%2FtI
 [/us/stat/60/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F128
 [/us/act/1946-04-30/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch243
 

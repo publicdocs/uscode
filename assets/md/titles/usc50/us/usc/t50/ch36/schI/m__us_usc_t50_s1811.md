@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, the President, through the Attorney General, may authorize electronic surveillance without a court order under this subchapter to acquire foreign intelligence information for a period not to exceed fifteen calendar days following a declaration of war by the Congress.
 
-([Pub. L. 95–511, title I, § 111][/us/pl/95/511/s111], Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 111, Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/511/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs111
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1796
 
 

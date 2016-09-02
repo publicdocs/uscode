@@ -17,7 +17,7 @@
 
     Reports to Congress pursuant to sections 3171 and 3172 of this title shall be submitted promptly upon determinations under this subchapter. Such reports shall be submitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate. With respect to determinations relating to intelligence sources and methods, reports shall also be submitted to the congressional intelligence committees. With respect to determinations relating to ongoing criminal investigations, reports shall also be submitted to the Committees on the Judiciary of the House of Representatives and the Senate.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title IX, § 903, as added [Pub. L. 104–93, title III, § 303(a)][/us/pl/104/93/s303/a], Jan. 6, 1996, [109 Stat. 964][/us/stat/109/964]; amended [Pub. L. 107–306, title III, § 353(b)(2)(C)][/us/pl/107/306/s353/b/2/C], Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title IX, § 903, as added [Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 303(a), Jan. 6, 1996, [109 Stat. 964][/us/stat/109/964]; amended [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 353(b)(2)(C), Nov. 27, 2002, [116 Stat. 2402][/us/stat/116/2402].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/104/93/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs303%2Fa
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F964
-[/us/pl/107/306/s353/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F2%2FC
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
 [/us/usc/t50/s441b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441b
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306

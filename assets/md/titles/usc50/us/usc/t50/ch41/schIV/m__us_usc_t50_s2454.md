@@ -29,11 +29,11 @@
 
         (3) The aggregate amount available for such program as of the end of such fiscal half and, within such amount, the uncommitted balances, the unobligated balances, and the unexpended balances.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3254][/us/pl/106/65/s3254], as added [Pub. L. 108–136, div. C, title XXXI, § 3121(a)][/us/pl/108/136/s3121/a], Nov. 24, 2003, [117 Stat. 1746][/us/stat/117/1746].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3254, as added [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3121(a), Nov. 24, 2003, [117 Stat. 1746][/us/stat/117/1746].)
 
  __First Report__ 
 
-[Pub. L. 108–136, div. C, title XXXI, § 3121(b)][/us/pl/108/136/s3121/b], Nov. 24, 2003, [117 Stat. 1747][/us/stat/117/1747], provided that: 
+[Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3121(b), Nov. 24, 2003, [117 Stat. 1747][/us/stat/117/1747], provided that: 
 
 > “The first report required to be submitted by section 3254 of the National Nuclear Security Administration Act (as added by subsection (a) \[this section\]) shall be the report covering the first half of fiscal year 2004.”
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3254
-[/us/pl/108/136/s3121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3121%2Fa
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1746
-[/us/pl/108/136/s3121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3121%2Fb
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1747
 
 

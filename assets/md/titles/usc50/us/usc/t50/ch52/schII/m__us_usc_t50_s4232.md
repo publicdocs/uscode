@@ -39,7 +39,7 @@
 
     (8) the term “World War II” means the period beginning on December 7, 1941, and ending on September 2, 1945.
 
-([Pub. L. 100–383, title II, § 202][/us/pl/100/383/s202], Aug. 10, 1988, [102 Stat. 911][/us/stat/102/911].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 202, Aug. 10, 1988, [102 Stat. 911][/us/stat/102/911].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t50/s4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4234
 [/us/usc/t43/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1606
 [/us/usc/t50/s4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4233
-[/us/pl/100/383/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs202
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F911
 
 

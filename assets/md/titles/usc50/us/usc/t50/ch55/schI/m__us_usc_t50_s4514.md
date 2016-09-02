@@ -23,7 +23,7 @@
 
         No provision of this subchapter shall be exercised or interpreted to require action or compliance by any private person to assist in any way in the production of or other involvement in chemical or biological warfare capabilities, unless authorized by the President (or the President’s designee who is serving in a position at level I of the Executive Schedule in accordance with [section 5312 of title 5][/us/usc/t5/s5312]) without further redelegation.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 104, as added [Pub. L. 102–558, title I, § 112][/us/pl/102/558/s112], Oct. 28, 1992, [106 Stat. 4202][/us/stat/106/4202].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, § 104, as added [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 112, Oct. 28, 1992, [106 Stat. 4202][/us/stat/106/4202].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 104 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title I, as added [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 101(c), [65 Stat. 132][/us/stat/65/132]; amended [June 30, 1952, ch. 530, § 103][/us/act/1952-06-30/ch530/s103], [66 Stat. 297][/us/stat/66/297], related to limitations on imports of fats and oils, prior to termination at close of June 30, 1953, pursuant to [section 4564(a) of this title][/us/usc/t50/s4564/a].
+    A prior section 104 of [act Sept. 8, 1950, ch. 932, title I][/us/act/1950-09-08/ch932/tI], as added [July 31, 1951, ch. 275][/us/act/1951-07-31/ch275], title I, § 101(c), [65 Stat. 132][/us/stat/65/132]; amended [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], § 103, [66 Stat. 297][/us/stat/66/297], related to limitations on imports of fats and oils, prior to termination at close of June 30, 1953, pursuant to [section 4564(a) of this title][/us/usc/t50/s4564/a].
 
  __Effective Date__ 
 
@@ -54,15 +54,15 @@
 
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/102/558/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs112
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4202
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
+[/us/act/1950-09-08/ch932/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtI
 [/us/act/1951-07-31/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-31%2Fch275
 [/us/stat/65/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F132
-[/us/act/1952-06-30/ch530/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530%2Fs103
+[/us/act/1952-06-30/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530
 [/us/stat/66/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F297
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304

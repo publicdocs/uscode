@@ -203,7 +203,7 @@
 
         Any report required to be submitted under this section may be submitted in a classified form.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506E, as added [Pub. L. 111–259, title III, § 323(a)(1)][/us/pl/111/259/s323/a/1], Oct. 7, 2010, [124 Stat. 2674][/us/stat/124/2674].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506E, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 323(a)(1), Oct. 7, 2010, [124 Stat. 2674][/us/stat/124/2674].)
 
  __Codification__ 
 
@@ -211,13 +211,13 @@
 
  __Applicability Date of Quarterly Reports__ 
 
-[Pub. L. 111–259, title III, § 323(a)(2)][/us/pl/111/259/s323/a/2], Oct. 7, 2010, [124 Stat. 2678][/us/stat/124/2678], provided that: 
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 323(a)(2), Oct. 7, 2010, [124 Stat. 2678][/us/stat/124/2678], provided that: 
 
 > “The first report required to be submitted under subsection (b) of section 506E of the National security \[Security\] Act of 1947 \[[50 U.S.C. 3101(b)][/us/usc/t50/s3101/b]\], as added by paragraph (1) of this subsection, shall be submitted with respect to the first fiscal quarter that begins on a date that is not less than 180 days after the date of the enactment of this Act \[Oct. 7, 2010\].”
 
  __Major Defense Acquisition Programs__ 
 
-[Pub. L. 111–259, title III, § 323(b)][/us/pl/111/259/s323/b], Oct. 7, 2010, [124 Stat. 2678][/us/stat/124/2678], provided that: 
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 323(b), Oct. 7, 2010, [124 Stat. 2678][/us/stat/124/2678], provided that: 
 
 > “Nothing in this section \[enacting this section and provisions set out as a note under this section\], section 324 \[enacting [section 3102 of this title][/us/usc/t50/s3102]\], or an amendment made by this section or section 324, shall be construed to exempt an acquisition program of the Department of Defense from the requirements of chapter 144 of title 10, United States Code\[,\] or Department of Defense Directive 5000, to the extent that such requirements are otherwise applicable.”
 
@@ -238,13 +238,13 @@
 [/us/usc/t50/s3102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3102%2Fb%2F2
 [/us/usc/t50/s3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3099
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs323%2Fa%2F1
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2674
 [/us/usc/t50/s415a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%937
-[/us/pl/111/259/s323/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs323%2Fa%2F2
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2678
 [/us/usc/t50/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3101%2Fb
-[/us/pl/111/259/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs323%2Fb
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2678
 [/us/usc/t50/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3102
 

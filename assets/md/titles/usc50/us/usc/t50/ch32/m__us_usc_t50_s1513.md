@@ -27,7 +27,7 @@
 
     (2) None of the funds authorized by this Act or any other Act shall be used for the future testing, development, transportation, storage, or disposal of any lethal chemical or any biological warfare agent outside the United States, or for the disposal of any munitions in international waters, if the Secretary of State, after appropriate notice by the Secretary whenever any such action is contemplated, determines that such testing, development, transportation, storage, or disposal will violate international law. The Secretary of State shall report all determinations made by him under this paragraph to the President of the Senate and the Speaker of the House of Representatives, and to all appropriate international organizations, or organs thereof, in the event such report is required by treaty or other international agreement.
 
-([Pub. L. 91–121, title IV, § 409(c)][/us/pl/91/121/s409/c], Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210]; [Pub. L. 91–441, title V, § 506(b)(2)][/us/pl/91/441/s506/b/2], (3), Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912].)
+([Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409(c), Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210]; [Pub. L. 91–441, title V][/us/pl/91/441/tV], § 506(b)(2), (3), Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Amendments__ 
 
-    1970—Par. (1). [Pub. L. 91–441, § 506(b)(2)][/us/pl/91/441/s506/b/2], inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
+    1970—Par. (1). [Pub. L. 91–441][/us/pl/91/441], § 506(b)(2), inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
 
-    Par. (2). [Pub. L. 91–441, § 506(b)(3)][/us/pl/91/441/s506/b/3], inserted reference to disposal of munitions in international waters.
+    Par. (2). [Pub. L. 91–441][/us/pl/91/441], § 506(b)(3), inserted reference to disposal of munitions in international waters.
 
  __Withdrawal of European Chemical Stockpile__ 
 
-[Pub. L. 100–180, div. A, title I, § 126][/us/pl/100/180/s126], Dec. 4, 1987, [101 Stat. 1044][/us/stat/101/1044], provided that: 
+[Pub. L. 100–180, div. A, title I][/us/pl/100/180/dA/tI], § 126, Dec. 4, 1987, [101 Stat. 1044][/us/stat/101/1044], provided that: 
 
 > “Chemical munitions of the United States stored in Europe on the date of the enactment of this Act \[Dec. 4, 1987\] should not be removed from Europe unless such munitions are replaced contemporaneously with binary chemical munitions stationed on the soil of at least one European member nation of the North Atlantic Treaty Organization.”
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/91/121/s409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409%2Fc
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F210
-[/us/pl/91/441/s506/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fb%2F2
+[/us/pl/91/441/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtV
 [/us/stat/84/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F912
 [/us/pl/91/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121
 [/us/stat/83/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F204
-[/us/pl/91/441/s506/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fb%2F2
-[/us/pl/91/441/s506/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fb%2F3
-[/us/pl/100/180/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs126
+[/us/pl/91/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441
+[/us/pl/91/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441
+[/us/pl/100/180/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtI
 [/us/stat/101/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1044
 
 

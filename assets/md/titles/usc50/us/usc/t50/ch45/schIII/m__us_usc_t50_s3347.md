@@ -27,7 +27,7 @@
 
         (B) disclosures to an authorized official of an executive agency that are deemed essential to reporting a violation of United States law.
 
-([Pub. L. 104–93, title III, § 306][/us/pl/104/93/s306], Jan. 6, 1996, [109 Stat. 966][/us/stat/109/966].)
+([Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 306, Jan. 6, 1996, [109 Stat. 966][/us/stat/109/966].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/93/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs306
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F966
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 

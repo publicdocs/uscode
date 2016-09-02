@@ -123,7 +123,7 @@
 
             This subsection shall apply only to any claim filed in court on or after September 27, 1992.
 
-([Pub. L. 100–383, title I, § 105][/us/pl/100/383/s105], Aug. 10, 1988, [102 Stat. 905][/us/stat/102/905]; [Pub. L. 101–162, title II, § 209(b)][/us/pl/101/162/s209/b], Nov. 21, 1989, [103 Stat. 1005][/us/stat/103/1005]; [Pub. L. 102–371][/us/pl/102/371], §§ 4–6(a), Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167], 1168; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 105, Aug. 10, 1988, [102 Stat. 905][/us/stat/102/905]; [Pub. L. 101–162, title II][/us/pl/101/162/tII], § 209(b), Nov. 21, 1989, [103 Stat. 1005][/us/stat/103/1005]; [Pub. L. 102–371][/us/pl/102/371], §§ 4–6(a), Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167], 1168; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Codification__ 
 
@@ -131,29 +131,29 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1). [Pub. L. 102–371, § 4(c)(1)(A)][/us/pl/102/371/s4/c/1/A], substituted “(7)” for “(6)” and “(5)” for “(4)”.
+    1992—Subsec. (a)(1). [Pub. L. 102–371][/us/pl/102/371], § 4(c)(1)(A), substituted “(7)” for “(6)” and “(5)” for “(4)”.
 
-    Subsec. (a)(3). [Pub. L. 102–371, § 4(a)(2)][/us/pl/102/371/s4/a/2], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 102–371][/us/pl/102/371], § 4(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 102–371, § 4(a)(1)][/us/pl/102/371/s4/a/1], (c)(1)(B), redesignated par. (3) as (4) and in subpar. (B) substituted “(5)” for “(4)” and “(6)” for “(5)”. Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 102–371][/us/pl/102/371], § 4(a)(1), (c)(1)(B), redesignated par. (3) as (4) and in subpar. (B) substituted “(5)” for “(4)” and “(6)” for “(5)”. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 102–371, § 4(a)(1)][/us/pl/102/371/s4/a/1], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 102–371][/us/pl/102/371], § 4(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (a)(6). [Pub. L. 102–371, § 4(a)(1)][/us/pl/102/371/s4/a/1], (c)(1)(C), redesignated par. (5) as (6) and substituted “(5)” for “(4)” and “(4)” for “(3)”. Former par. (6) redesignated (7).
+    Subsec. (a)(6). [Pub. L. 102–371][/us/pl/102/371], § 4(a)(1), (c)(1)(C), redesignated par. (5) as (6) and substituted “(5)” for “(4)” and “(4)” for “(3)”. Former par. (6) redesignated (7).
 
-    Subsec. (a)(7). [Pub. L. 102–371, § 4(a)(1)][/us/pl/102/371/s4/a/1], (c)(1)(D), redesignated par. (6) as (7) and substituted “(8)” for “(6)”. Former par. (7) redesignated (8).
+    Subsec. (a)(7). [Pub. L. 102–371][/us/pl/102/371], § 4(a)(1), (c)(1)(D), redesignated par. (6) as (7) and substituted “(8)” for “(6)”. Former par. (7) redesignated (8).
 
-    Subsec. (a)(8). [Pub. L. 102–371, § 4(a)(1)][/us/pl/102/371/s4/a/1], redesignated par. (7) as (8).
+    Subsec. (a)(8). [Pub. L. 102–371][/us/pl/102/371], § 4(a)(1), redesignated par. (7) as (8).
 
-    Subsec. (b). [Pub. L. 102–371, § 4(c)(2)][/us/pl/102/371/s4/c/2], substituted “(8)” for “(6)”.
+    Subsec. (b). [Pub. L. 102–371][/us/pl/102/371], § 4(c)(2), substituted “(8)” for “(6)”.
 
-    Subsec. (e). [Pub. L. 102–371, § 5][/us/pl/102/371/s5], substituted “180 days after the Fund terminates” for “when the Fund terminates”.
+    Subsec. (e). [Pub. L. 102–371][/us/pl/102/371], § 5, substituted “180 days after the Fund terminates” for “when the Fund terminates”.
 
-    Subsec. (f)(2). [Pub. L. 102–371, § 6(a)][/us/pl/102/371/s6/a], substituted “or available under any other law administered by the Secretary of Veterans Affairs, or for purposes of determining the” for “, or the”.
+    Subsec. (f)(2). [Pub. L. 102–371][/us/pl/102/371], § 6(a), substituted “or available under any other law administered by the Secretary of Veterans Affairs, or for purposes of determining the” for “, or the”.
 
     Subsec. (h). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court” in par. (1).
 
-    [Pub. L. 102–371, § 4(b)][/us/pl/102/371/s4/b], added subsec. (h).
+    [Pub. L. 102–371][/us/pl/102/371], § 4(b), added subsec. (h).
 
     1989—Subsec. (g). [Pub. L. 101–162][/us/pl/101/162] added subsec. (g).
 
@@ -161,7 +161,7 @@
 
     Amendment by [Pub. L. 102–572][/us/pl/102/572] effective Oct. 29, 1992, see [section 911 of Pub. L. 102–572][/us/pl/102/572/s911], set out as a note under [section 171 of Title 28][/us/usc/t28/s171], Judiciary and Judicial Procedure.
 
-[Pub. L. 102–371, § 6(b)][/us/pl/102/371/s6/b], Sept. 27, 1992, [106 Stat. 1168][/us/stat/106/1168], provided that: 
+[Pub. L. 102–371][/us/pl/102/371], § 6(b), Sept. 27, 1992, [106 Stat. 1168][/us/stat/106/1168], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as of August 10, 1988.”
 
@@ -177,31 +177,31 @@
 [/us/usc/t50/s4218/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4218%2F2%2FB
 [/us/usc/t50/s4216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4216%2Fb
 [/us/usc/t31/s3803/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3803%2Fc%2F2%2FC
-[/us/pl/100/383/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs105
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F905
-[/us/pl/101/162/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs209%2Fb
+[/us/pl/101/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtII
 [/us/stat/103/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1005
 [/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/stat/106/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1167
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/102/371/s4/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fc%2F1%2FA
-[/us/pl/102/371/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fa%2F2
-[/us/pl/102/371/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fa%2F1
-[/us/pl/102/371/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fa%2F1
-[/us/pl/102/371/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fa%2F1
-[/us/pl/102/371/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fa%2F1
-[/us/pl/102/371/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fa%2F1
-[/us/pl/102/371/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fc%2F2
-[/us/pl/102/371/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs5
-[/us/pl/102/371/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs6%2Fa
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/371/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs4%2Fb
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/102/371/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs6%2Fb
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/stat/106/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1168
 
 

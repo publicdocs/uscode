@@ -39,7 +39,7 @@
 
         (2) With financial balances in connection with funding under recurring DOE national security authorizations (as that term is defined in section 2741(1)) of this title presented separately from balances in connection with funding under any other provisions of law.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4732][/us/pl/107/314/s4732], as added [Pub. L. 112–239, div. C, title XXXI, § 3143(a)][/us/pl/112/239/s3143/a], Jan. 2, 2013, [126 Stat. 2196][/us/stat/126/2196].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4732, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3143(a), Jan. 2, 2013, [126 Stat. 2196][/us/stat/126/2196].)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4732
-[/us/pl/112/239/s3143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3143%2Fa
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2196
 
 

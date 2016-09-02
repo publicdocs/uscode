@@ -23,11 +23,11 @@
 
         Subsections (k) and (m) of [section 8461 of title 5][/us/usc/t5/s8461] shall apply with respect to contributions made by participants to the Thrift Savings Fund under section 8351 of such title and to earnings attributable to the investment of such contributions.
 
-([Pub. L. 88–643, title II, § 293][/us/pl/88/643/s293], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3242][/us/stat/106/3242].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 293, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3242][/us/stat/106/3242].)
 
  __Prior Provisions__ 
 
-    A prior [section 293 of Pub. L. 88–643][/us/pl/88/643/s293], as added [Pub. L. 99–335, title V, § 504][/us/pl/99/335/s504], June 6, 1986, [100 Stat. 623][/us/stat/100/623], related to Thrift Savings Fund participation by participants in the Central Intelligence Agency Retirement and Disability System and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 293 of Pub. L. 88–643][/us/pl/88/643/s293], as added [Pub. L. 99–335, title V][/us/pl/99/335/tV], § 504, June 6, 1986, [100 Stat. 623][/us/stat/100/623], related to Thrift Savings Fund participation by participants in the Central Intelligence Agency Retirement and Disability System and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
 ----------
 
@@ -38,11 +38,11 @@
 
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
 [/us/usc/t5/s8461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8461
-[/us/pl/88/643/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs293
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3242
 [/us/pl/88/643/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs293
-[/us/pl/99/335/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs504
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F623
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643

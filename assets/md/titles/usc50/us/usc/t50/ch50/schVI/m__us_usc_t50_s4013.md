@@ -17,7 +17,7 @@
 
     An interlocutory order issued by a court under this chapter may be revoked, modified, or extended by that court upon its own motion or otherwise, upon notification to affected parties as required by the court.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VI, § 603, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2860][/us/stat/117/2860].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VI, § 603, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2860][/us/stat/117/2860].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
     Prior sections 604 and 605 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], were omitted in the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
-    Section 604 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VI, [54 Stat. 1191][/us/stat/54/1191]; [Pub. L. 102–12, § 9(27)][/us/pl/102/12/s9/27], Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to termination date.
+    Section 604 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VI, [54 Stat. 1191][/us/stat/54/1191]; [Pub. L. 102–12][/us/pl/102/12], § 9(27), Mar. 18, 1991, [105 Stat. 41][/us/stat/105/41], related to termination date.
 
     Section 605 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. VI, [54 Stat. 1191][/us/stat/54/1191], related to the inapplicability of [act Mar. 8, 1918, ch. 20][/us/act/1918-03-08/ch20], [40 Stat. 440][/us/stat/40/440], to military service performed after Oct. 17, 1940.
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2860
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1191
@@ -50,7 +50,7 @@
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1191
-[/us/pl/102/12/s9/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F27
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F41
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1191

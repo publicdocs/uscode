@@ -17,11 +17,11 @@
 
  __Prior Provisions__ 
 
-    A prior part C, consisting of section 2611, related to privatization, prior to repeal by [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(12)][/us/pl/113/66/s3146/e/12], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078].
+    A prior part C, consisting of section 2611, related to privatization, prior to repeal by [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(12), Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078].
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. C, title XXXI, § 3146(e)(16)(C)][/us/pl/113/66/s3146/e/16/C], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078], redesignated part D as C.
+    2013—[Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(16)(C), Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078], redesignated part D as C.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/113/66/s3146/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F12
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
-[/us/pl/113/66/s3146/e/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F16%2FC
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
 
 

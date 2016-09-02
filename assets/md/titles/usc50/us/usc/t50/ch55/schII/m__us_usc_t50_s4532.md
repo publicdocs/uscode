@@ -71,7 +71,7 @@
 
             (B) upon a determination by the President, on a nondelegable basis, that a specific loan is necessary to avert an industrial resource or critical technology shortfall that would severely impair national defense capability.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 302, as added [Pub. L. 111–67, § 7][/us/pl/111/67/s7], Sept. 30, 2009, [123 Stat. 2012][/us/stat/123/2012].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, § 302, as added [Pub. L. 111–67][/us/pl/111/67], § 7, Sept. 30, 2009, [123 Stat. 2012][/us/stat/123/2012].)
 
  __Termination of Section__ 
 
@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 302 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title III, [64 Stat. 801][/us/stat/64/801]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, § 104, [66 Stat. 298][/us/stat/66/298]; [Pub. L. 93–155, title VIII, § 807(b)][/us/pl/93/155/s807/b], Nov. 16, 1973, [87 Stat. 615][/us/stat/87/615]; [Pub. L. 96–294, title I, § 104(c)][/us/pl/96/294/s104/c], June 30, 1980, [94 Stat. 618][/us/stat/94/618]; [Pub. L. 98–265][/us/pl/98/265], §§ 3(b), 4(b), Apr. 17, 1984, [98 Stat. 149][/us/stat/98/149], 151; [Pub. L. 102–558, title I, § 121(b)][/us/pl/102/558/s121/b], Oct. 28, 1992, [106 Stat. 4204][/us/stat/106/4204], related to loans to private business enterprises, prior to the general amendment of title III of this Act by [Pub. L. 111–67][/us/pl/111/67].
+    A prior section 302 of [act Sept. 8, 1950, ch. 932, title III][/us/act/1950-09-08/ch932/tIII], [64 Stat. 801][/us/stat/64/801]; [June 30, 1952, ch. 530][/us/act/1952-06-30/ch530], title I, § 104, [66 Stat. 298][/us/stat/66/298]; [Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 807(b), Nov. 16, 1973, [87 Stat. 615][/us/stat/87/615]; [Pub. L. 96–294, title I][/us/pl/96/294/tI], § 104(c), June 30, 1980, [94 Stat. 618][/us/stat/94/618]; [Pub. L. 98–265][/us/pl/98/265], §§ 3(b), 4(b), Apr. 17, 1984, [98 Stat. 149][/us/stat/98/149], 151; [Pub. L. 102–558, title I][/us/pl/102/558/tI], § 121(b), Oct. 28, 1992, [106 Stat. 4204][/us/stat/106/4204], related to loans to private business enterprises, prior to the general amendment of title III of this Act by [Pub. L. 111–67][/us/pl/111/67].
 
  __Delegation of Functions__ 
 
@@ -101,20 +101,20 @@
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/111/67/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs7
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2012
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
+[/us/act/1950-09-08/ch932/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtIII
 [/us/stat/64/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F801
 [/us/act/1952-06-30/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-30%2Fch530
 [/us/stat/66/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F298
-[/us/pl/93/155/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs807%2Fb
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F615
-[/us/pl/96/294/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs104%2Fc
+[/us/pl/96/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtI
 [/us/stat/94/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F618
 [/us/pl/98/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F265
 [/us/stat/98/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F149
-[/us/pl/102/558/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs121%2Fb
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4204
 [/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761

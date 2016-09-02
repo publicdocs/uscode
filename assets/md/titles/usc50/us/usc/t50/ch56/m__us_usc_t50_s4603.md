@@ -61,7 +61,7 @@
 
         No fee may be charged in connection with the submission or processing of an export license application.
 
-([Pub. L. 96–72, § 4][/us/pl/96/72/s4], Sept. 29, 1979, [93 Stat. 505][/us/stat/93/505]; [Pub. L. 99–64, title I, § 104][/us/pl/99/64/s104], July 12, 1985, [99 Stat. 122][/us/stat/99/122]; [Pub. L. 100–418, title II][/us/pl/100/418], §§ 2411, 2412, Aug. 23, 1988, [102 Stat. 1347][/us/stat/102/1347].)
+([Pub. L. 96–72][/us/pl/96/72], § 4, Sept. 29, 1979, [93 Stat. 505][/us/stat/93/505]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 104, July 12, 1985, [99 Stat. 122][/us/stat/99/122]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2411, 2412, Aug. 23, 1988, [102 Stat. 1347][/us/stat/102/1347].)
 
  __Termination Date__ 
 
@@ -75,23 +75,23 @@
 
     Section was formerly classified to section 2403 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2403 of the former Appendix to this title, [Pub. L. 91–184, § 4][/us/pl/91/184/s4], Dec. 30, 1969, [83 Stat. 842][/us/stat/83/842]; [Pub. L. 92–412, title I, § 104(a)][/us/pl/92/412/s104/a], (b)(1), Aug. 29, 1972, [86 Stat. 644][/us/stat/86/644], 645; [Pub. L. 93–500][/us/pl/93/500], §§ 3(a), 5(a), 7, 9, 10, 12, Oct. 29, 1974, [88 Stat. 1552–1557][/us/stat/88/1552-1557]; [Pub. L. 95–52, title I][/us/pl/95/52], §§ 103(a), (b)(1)–(3), (c), 104–110, 113(b), title II, § 201(b), June 22, 1977, [91 Stat. 235–239][/us/stat/91/235-239], 241, 246; [Pub. L. 95–223, title III, § 301(a)][/us/pl/95/223/s301/a], (b)(1), Dec. 28, 1977, [91 Stat. 1629][/us/stat/91/1629]; [Pub. L. 95–384][/us/pl/95/384]. § 6(d)(2), Sept. 26, 1978, [92 Stat. 731][/us/stat/92/731]; [Pub. L. 95–435, § 5(d)][/us/pl/95/435/s5/d], Oct. 10, 1978, [92 Stat. 1052][/us/stat/92/1052]; [Pub. L. 96–67, § 2][/us/pl/96/67/s2], Sept. 21, 1979, [93 Stat. 415][/us/stat/93/415], set forth provisions relating to authorities to effectuate policies and limitations on exercise of authorities, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979.
+    A prior section 2403 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 4, Dec. 30, 1969, [83 Stat. 842][/us/stat/83/842]; [Pub. L. 92–412, title I][/us/pl/92/412/tI], § 104(a), (b)(1), Aug. 29, 1972, [86 Stat. 644][/us/stat/86/644], 645; [Pub. L. 93–500][/us/pl/93/500], §§ 3(a), 5(a), 7, 9, 10, 12, Oct. 29, 1974, [88 Stat. 1552–1557][/us/stat/88/1552-1557]; [Pub. L. 95–52, title I][/us/pl/95/52/tI], §§ 103(a), (b)(1)–(3), (c), 104–110, 113(b), title II, § 201(b), June 22, 1977, [91 Stat. 235–239][/us/stat/91/235-239], 241, 246; [Pub. L. 95–223, title III][/us/pl/95/223/tIII], § 301(a), (b)(1), Dec. 28, 1977, [91 Stat. 1629][/us/stat/91/1629]; [Pub. L. 95–384][/us/pl/95/384]. § 6(d)(2), Sept. 26, 1978, [92 Stat. 731][/us/stat/92/731]; [Pub. L. 95–435][/us/pl/95/435], § 5(d), Oct. 10, 1978, [92 Stat. 1052][/us/stat/92/1052]; [Pub. L. 96–67][/us/pl/96/67], § 2, Sept. 21, 1979, [93 Stat. 415][/us/stat/93/415], set forth provisions relating to authorities to effectuate policies and limitations on exercise of authorities, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979.
 
  __Amendments__ 
 
-    1988—Subsec. (a)(2)(A). [Pub. L. 100–418, § 2412(1)][/us/pl/100/418/s2412/1], inserted exception authorizing the Secretary to establish a type of distribution license appropriate to consignees in the People’s Republic of China.
+    1988—Subsec. (a)(2)(A). [Pub. L. 100–418][/us/pl/100/418], § 2412(1), inserted exception authorizing the Secretary to establish a type of distribution license appropriate to consignees in the People’s Republic of China.
 
-    Subsec. (a)(2)(B). [Pub. L. 100–418, § 2412(2)][/us/pl/100/418/s2412/2], inserted “(except the People’s Republic of China)” after “controlled countries”.
+    Subsec. (a)(2)(B). [Pub. L. 100–418][/us/pl/100/418], § 2412(2), inserted “(except the People’s Republic of China)” after “controlled countries”.
 
-    Subsec. (g). [Pub. L. 100–418, § 2411][/us/pl/100/418/s2411], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–418][/us/pl/100/418], § 2411, added subsec. (g).
 
-    1985—Subsec. (a)(2). [Pub. L. 99–64, § 104(a)][/us/pl/99/64/s104/a], amended par. (2) generally, substituting provisions relating to validated licenses authorizing multiple exports including, but not limited to, distribution licenses, comprehensive operations licenses, project licenses, and service supply licenses, for former provisions which read: “A qualified general license, authorizing multiple exports, issued pursuant to an application by the exporter.”
+    1985—Subsec. (a)(2). [Pub. L. 99–64][/us/pl/99/64], § 104(a), amended par. (2) generally, substituting provisions relating to validated licenses authorizing multiple exports including, but not limited to, distribution licenses, comprehensive operations licenses, project licenses, and service supply licenses, for former provisions which read: “A qualified general license, authorizing multiple exports, issued pursuant to an application by the exporter.”
 
-    Subsec. (b). [Pub. L. 99–64, § 104(b)][/us/pl/99/64/s104/b], substituted “Control list” for “Commodity control list” in heading and, in text, substituted “control list” for “commodity control list” and “stating license requirements (other than for general licenses) for exports of goods and technology under this chapter” for “consisting of any goods or technology subject to export controls under this chapter”.
+    Subsec. (b). [Pub. L. 99–64][/us/pl/99/64], § 104(b), substituted “Control list” for “Commodity control list” in heading and, in text, substituted “control list” for “commodity control list” and “stating license requirements (other than for general licenses) for exports of goods and technology under this chapter” for “consisting of any goods or technology subject to export controls under this chapter”.
 
-    Subsec. (c). [Pub. L. 99–64, § 104(c)][/us/pl/99/64/s104/c], substituted “sufficient” for “significant”, inserted “so as to render the controls ineffective in achieving their purposes”, and inserted provisions directing that, in complying with the provisions of this subsection, the President shall give strong emphasis to bilateral or multilateral negotiations to eliminate foreign availability, and that the Secretary and the Secretary of Defense shall cooperate in gathering information relating to foreign availability, including the establishment and maintenance of a jointly operated computer system.
+    Subsec. (c). [Pub. L. 99–64][/us/pl/99/64], § 104(c), substituted “sufficient” for “significant”, inserted “so as to render the controls ineffective in achieving their purposes”, and inserted provisions directing that, in complying with the provisions of this subsection, the President shall give strong emphasis to bilateral or multilateral negotiations to eliminate foreign availability, and that the Secretary and the Secretary of Defense shall cooperate in gathering information relating to foreign availability, including the establishment and maintenance of a jointly operated computer system.
 
-    Subsec. (f). [Pub. L. 99–64, § 104(d)][/us/pl/99/64/s104/d], amended subsec. (f) generally, substituting “representatives of a broad spectrum of enterprises, labor organizations, and citizens interested in or affected by export controls, in order to obtain their views on United States export control policy and the foreign availability of goods and technology” for “representatives of the business sector in order to obtain their views on export control policy and the foreign availability of goods and technology”.
+    Subsec. (f). [Pub. L. 99–64][/us/pl/99/64], § 104(d), amended subsec. (f) generally, substituting “representatives of a broad spectrum of enterprises, labor organizations, and citizens interested in or affected by export controls, in order to obtain their views on United States export control policy and the foreign availability of goods and technology” for “representatives of the business sector in order to obtain their views on export control policy and the foreign availability of goods and technology”.
 
  __Transfer of Functions__ 
 
@@ -275,40 +275,40 @@ Section 1. Treatment of Encryption Products. In order to provide for appropriate
 [/us/usc/t50/s4604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fd
 [/us/usc/t50/s4614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fa
 [/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
-[/us/pl/96/72/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs4
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F505
-[/us/pl/99/64/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs104
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F122
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1347
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/91/184/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs4
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F842
-[/us/pl/92/412/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2Fs104%2Fa
+[/us/pl/92/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2FtI
 [/us/stat/86/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F644
 [/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1552-1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1552-1557
-[/us/pl/95/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/235-239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F235-239
-[/us/pl/95/223/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs301%2Fa
+[/us/pl/95/223/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtIII
 [/us/stat/91/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1629
 [/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F731
-[/us/pl/95/435/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435%2Fs5%2Fd
+[/us/pl/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435
 [/us/stat/92/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1052
-[/us/pl/96/67/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F67%2Fs2
+[/us/pl/96/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F67
 [/us/stat/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F415
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
-[/us/pl/100/418/s2412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2412%2F1
-[/us/pl/100/418/s2412/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2412%2F2
-[/us/pl/100/418/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2411
-[/us/pl/99/64/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs104%2Fa
-[/us/pl/99/64/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs104%2Fb
-[/us/pl/99/64/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs104%2Fc
-[/us/pl/99/64/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs104%2Fd
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/usc/t50/s4603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fe

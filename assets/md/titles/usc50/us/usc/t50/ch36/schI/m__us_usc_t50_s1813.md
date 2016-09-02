@@ -83,7 +83,7 @@
 
                     (IV) the measures the element of the intelligence community is taking to protect the privacy interests of United States persons or persons located inside the United States.
 
-([Pub. L. 113–293, title III, § 309][/us/pl/113/293/s309], Dec. 19, 2014, [128 Stat. 3998][/us/stat/128/3998].)
+([Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 309, Dec. 19, 2014, [128 Stat. 3998][/us/stat/128/3998].)
 
  __Codification__ 
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
-[/us/pl/113/293/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs309
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/3998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3998
 [/us/pl/113/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003

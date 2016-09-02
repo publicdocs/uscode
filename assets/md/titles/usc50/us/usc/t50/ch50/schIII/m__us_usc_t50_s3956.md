@@ -61,7 +61,7 @@
 
         (2) The term “telephone exchange service” has the meaning given that term under [section 153 of title 47][/us/usc/t47/s153].
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 305A, as added [Pub. L. 110–389, title VIII, § 805(a)][/us/pl/110/389/s805/a], Oct. 10, 2008, [122 Stat. 4188][/us/stat/122/4188]; amended [Pub. L. 111–275, title III, § 302(a)][/us/pl/111/275/s302/a], Oct. 13, 2010, [124 Stat. 2875][/us/stat/124/2875].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 305A, as added [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 805(a), Oct. 10, 2008, [122 Stat. 4188][/us/stat/122/4188]; amended [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 302(a), Oct. 13, 2010, [124 Stat. 2875][/us/stat/124/2875].)
 
  __Codification__ 
 
@@ -81,9 +81,9 @@
 [/us/usc/t47/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fd
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/110/389/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs805%2Fa
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4188
-[/us/pl/111/275/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs302%2Fa
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2875
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 

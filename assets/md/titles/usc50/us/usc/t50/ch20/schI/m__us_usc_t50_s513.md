@@ -21,13 +21,13 @@
 
     (c) The facilities authorized by this section shall be operated and staffed by the Administrator but shall be available primarily to industry for testing experimental models in connection with the development of aircraft and missiles. Such tests shall be scheduled and conducted in accordance with industry’s requirements and allocation of facility time shall be made in accordance with the public interest, with proper emphasis upon the requirements of each military service and due consideration of civilian needs.
 
-([Oct. 27, 1949, ch. 766][/us/act/1949-10-27/ch766], title I, § 103, [63 Stat. 937][/us/stat/63/937]; [Pub. L. 85–568, title III, § 301(d)(2)][/us/pl/85/568/s301/d/2], (3), July 29, 1958, [72 Stat. 433][/us/stat/72/433]; [Pub. L. 106–391, title III, § 312(2)][/us/pl/106/391/s312/2], Oct. 30, 2000, [114 Stat. 1594][/us/stat/114/1594].)
+([Oct. 27, 1949, ch. 766][/us/act/1949-10-27/ch766], title I, § 103, [63 Stat. 937][/us/stat/63/937]; [Pub. L. 85–568, title III][/us/pl/85/568/tIII], § 301(d)(2), (3), July 29, 1958, [72 Stat. 433][/us/stat/72/433]; [Pub. L. 106–391, title III][/us/pl/106/391/tIII], § 312(2), Oct. 30, 2000, [114 Stat. 1594][/us/stat/114/1594].)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–391, § 312(2)(A)][/us/pl/106/391/s312/2/A], (B), substituted “laboratories and centers” for “laboratories” and “transsonic, supersonic, and hypersonic” for “supersonic”.
+    2000—Subsec. (a). [Pub. L. 106–391][/us/pl/106/391], § 312(2)(A), (B), substituted “laboratories and centers” for “laboratories” and “transsonic, supersonic, and hypersonic” for “supersonic”.
 
-    Subsec. (c). [Pub. L. 106–391, § 312(2)(C)][/us/pl/106/391/s312/2/C], substituted “facility” for “laboratory”.
+    Subsec. (c). [Pub. L. 106–391][/us/pl/106/391], § 312(2)(C), substituted “facility” for “laboratory”.
 
     1958—Subsecs. (a), (c). [Pub. L. 85–568][/us/pl/85/568] substituted “Administrator” for “Committee” in subsecs. (a) and (c), and “his” for “its” in subsec. (a).
 
@@ -37,7 +37,7 @@
 
  __Additional Appropriations__ 
 
-    [Act June 29, 1950, ch. 405, § 801][/us/act/1950-06-29/ch405/s801], [64 Stat. 286][/us/stat/64/286], provided in part for an additional appropriation of $75,000,000, to remain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
+    [Act June 29, 1950, ch. 405][/us/act/1950-06-29/ch405], § 801, [64 Stat. 286][/us/stat/64/286], provided in part for an additional appropriation of $75,000,000, to remain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
 
 ----------
 
@@ -48,17 +48,17 @@
 
 [/us/act/1949-10-27/ch766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-27%2Fch766
 [/us/stat/63/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F937
-[/us/pl/85/568/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs301%2Fd%2F2
+[/us/pl/85/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2FtIII
 [/us/stat/72/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F433
-[/us/pl/106/391/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs312%2F2
+[/us/pl/106/391/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2FtIII
 [/us/stat/114/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1594
-[/us/pl/106/391/s312/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs312%2F2%2FA
-[/us/pl/106/391/s312/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs312%2F2%2FC
+[/us/pl/106/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391
+[/us/pl/106/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/pl/85/568/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs301%2Fe
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/act/1950-06-29/ch405/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-29%2Fch405%2Fs801
+[/us/act/1950-06-29/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-29%2Fch405
 [/us/stat/64/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F286
 
 

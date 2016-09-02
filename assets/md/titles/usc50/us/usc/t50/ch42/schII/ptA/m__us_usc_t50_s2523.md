@@ -231,7 +231,7 @@
 
             (E) nuclear incident response.
 
-([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3142(c)][/us/pl/113/291/s3142/c], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900]; [Pub. L. 114–92, div. C, title XXXI, § 3112(c)(1)][/us/pl/114/92/s3112/c/1], Nov. 25, 2015, [129 Stat. 1190][/us/stat/129/1190].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4203, formerly [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3151, Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4203, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(4), Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3115, Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3133(a)(1), Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072; [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3142(c), Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900]; [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3112(c)(1), Nov. 25, 2015, [129 Stat. 1190][/us/stat/129/1190].)
 
  __Codification__ 
 
@@ -241,35 +241,35 @@
 
     Provisions similar to those in this section were contained in the following prior authorization act:
 
-    [Pub. L. 104–106, div. C, title XXXI, § 3153][/us/pl/104/106/s3153], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624]; repealed [Pub. L. 105–85, div. C, title XXXI, § 3152(c)][/us/pl/105/85/s3152/c], Nov. 18, 1997, [111 Stat. 2042][/us/stat/111/2042].
+    [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3153, Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624]; repealed [Pub. L. 105–85, div. C, title XXXI][/us/pl/105/85/dC/tXXXI], § 3152(c), Nov. 18, 1997, [111 Stat. 2042][/us/stat/111/2042].
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 3112(c)(1)(A)][/us/pl/114/92/s3112/c/1/A], substituted “responsiveness” for “infrastructure” in section catchline.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 3112(c)(1)(A), substituted “responsiveness” for “infrastructure” in section catchline.
 
-    Subsec. (a). [Pub. L. 114–92, § 3112(c)(1)(B)][/us/pl/114/92/s3112/c/1/B], inserted “stockpile responsiveness,” after “stockpile management,”.
+    Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 3112(c)(1)(B), inserted “stockpile responsiveness,” after “stockpile management,”.
 
-    Subsec. (c)(5) to (7). [Pub. L. 114–92, § 3112(c)(1)(C)][/us/pl/114/92/s3112/c/1/C], added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+    Subsec. (c)(5) to (7). [Pub. L. 114–92][/us/pl/114/92], § 3112(c)(1)(C), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-    Subsec. (d)(1). [Pub. L. 114–92, § 3112(c)(1)(D)(i)][/us/pl/114/92/s3112/c/1/D/i], substituted “stewardship, stockpile management, and stockpile responsiveness” for “stewardship and management” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 114–92][/us/pl/114/92], § 3112(c)(1)(D)(i), substituted “stewardship, stockpile management, and stockpile responsiveness” for “stewardship and management” in introductory provisions.
 
-    Subsec. (d)(1)(M), (N). [Pub. L. 114–92, § 3112(c)(1)(D)(ii)][/us/pl/114/92/s3112/c/1/D/ii]–(iv), added subpars. (M) and (N).
+    Subsec. (d)(1)(M), (N). [Pub. L. 114–92][/us/pl/114/92], § 3112(c)(1)(D)(ii)–(iv), added subpars. (M) and (N).
 
-    Subsec. (e)(1)(A)(iii). [Pub. L. 114–92, § 3112(c)(1)(E)][/us/pl/114/92/s3112/c/1/E], added cl. (iii).
+    Subsec. (e)(1)(A)(iii). [Pub. L. 114–92][/us/pl/114/92], § 3112(c)(1)(E), added cl. (iii).
 
     2014—Subsec. (d)(4)(A)(i). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 3043 of this title][/us/usc/t50/s3043]” for “[section 404a of this title][/us/usc/t50/s404a]”.
 
     2013—[Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section related to the plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile.
 
-    Subsec. (d)(6), (7). [Pub. L. 113–66, § 3123][/us/pl/113/66/s3123], added par. (6) and redesignated former par. (6) as (7).
+    Subsec. (d)(6), (7). [Pub. L. 113–66][/us/pl/113/66], § 3123, added par. (6) and redesignated former par. (6) as (7).
 
-    Subsec. (e)(1). [Pub. L. 113–66, § 3146(a)(2)(A)][/us/pl/113/66/s3146/a/2/A], struck out “established by [section 179 of title 10][/us/usc/t10/s179]” after “Council” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(a)(2)(A), struck out “established by [section 179 of title 10][/us/usc/t10/s179]” after “Council” in introductory provisions.
 
     2004—Subsec. (c). [Pub. L. 108–375][/us/pl/108/375] substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
 
  __Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms and Sense of Congress on Follow-on Negotiations to START Treaty__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1251][/us/pl/111/84/s1251], Oct. 28, 2009, [123 Stat. 2549][/us/stat/123/2549], provided that:
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1251, Oct. 28, 2009, [123 Stat. 2549][/us/stat/123/2549], provided that:
 
 >     “(a)  __Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms__  __.—__ 
 
@@ -307,7 +307,7 @@
 
  __Inclusion in 2005 Stockpile Stewardship Plan of Certain Information Relating to Stockpile Stewardship Criteria__ 
 
-[Pub. L. 108–136, div. C, title XXXI, § 3133][/us/pl/108/136/s3133], Nov. 24, 2003, [117 Stat. 1751][/us/stat/117/1751], provided that:
+[Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3133, Nov. 24, 2003, [117 Stat. 1751][/us/stat/117/1751], provided that:
 
 >     “(a)  __Inclusion in__  __2005__  __Stockpile Stewardship Plan__  __.—__ 
 
@@ -368,45 +368,45 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
-[/us/pl/107/314/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4203
-[/us/pl/105/85/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3151
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2041
-[/us/pl/107/314/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4203
-[/us/pl/108/136/s3141/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F4
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1758
-[/us/pl/108/375/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3115
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2162
-[/us/pl/112/239/s3133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fa%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2187
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
-[/us/pl/113/291/s3142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fc
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
-[/us/pl/114/92/s3112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1190
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/104/106/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3153
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F624
-[/us/pl/105/85/s3152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3152%2Fc
+[/us/pl/105/85/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXI
 [/us/stat/111/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2042
-[/us/pl/114/92/s3112/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FA
-[/us/pl/114/92/s3112/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FB
-[/us/pl/114/92/s3112/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FC
-[/us/pl/114/92/s3112/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FD%2Fi
-[/us/pl/114/92/s3112/c/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FD%2Fii
-[/us/pl/114/92/s3112/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FE
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/113/66/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3123
-[/us/pl/113/66/s3146/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FA
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/111/84/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1251
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2549
-[/us/pl/108/136/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3133
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1751
 [/us/usc/t50/s2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522
 [/us/usc/t50/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2523

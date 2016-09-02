@@ -19,7 +19,7 @@
 
     (b) For purposes of this section the term “lethal binary chemical munitions” means (1) any toxic chemical (solid, liquid, or gas) which, through its chemical properties, is intended to be used to produce injury or death to human beings, and (2) any unique device, instrument, apparatus, or contrivance, including any components or accessories thereof, intended to be used to disperse or otherwise disseminate any such toxic chemical.
 
-([Pub. L. 94–106, title VIII, § 818][/us/pl/94/106/s818], Oct. 7, 1975, [89 Stat. 544][/us/stat/89/544].)
+([Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 818, Oct. 7, 1975, [89 Stat. 544][/us/stat/89/544].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    Section was not enacted as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was not enacted as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/94/106/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs818
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F544
 [/us/pl/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106
 [/us/stat/89/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F531
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 
 

@@ -87,19 +87,19 @@
 
         (2) Coordination authorized under paragraph (1) shall not preclude the certification required by [section 1823(a)(6) of this title][/us/usc/t50/s1823/a/6] or the entry of an order under [section 1824 of this title][/us/usc/t50/s1824].
 
-([Pub. L. 95–511, title III, § 305][/us/pl/95/511/s305], as added [Pub. L. 103–359, title VIII, § 807(a)(3)][/us/pl/103/359/s807/a/3], Oct. 14, 1994, [108 Stat. 3449][/us/stat/108/3449]; amended [Pub. L. 107–56, title V, § 504(b)][/us/pl/107/56/s504/b], Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 107–296, title VIII, § 899][/us/pl/107/296/s899], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 107(c)(2), 110(b)(2), July 10, 2008, [122 Stat. 2464][/us/stat/122/2464], 2466.)
+([Pub. L. 95–511, title III][/us/pl/95/511/tIII], § 305, as added [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 807(a)(3), Oct. 14, 1994, [108 Stat. 3449][/us/stat/108/3449]; amended [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 504(b), Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 899, Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], §§ 107(c)(2), 110(b)(2), July 10, 2008, [122 Stat. 2464][/us/stat/122/2464], 2466.)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (b), was in the original “this Act”, meaning [Pub. L. 95–511][/us/pl/95/511], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
 
-    [Section 1824(d) of this title][/us/usc/t50/s1824/d], referred to in subsec. (j)(1), was redesignated [section 1824(e) of this title][/us/usc/t50/s1824/e] by [Pub. L. 106–567, title VI, § 603(b)(1)][/us/pl/106/567/s603/b/1], Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853].
+    [Section 1824(d) of this title][/us/usc/t50/s1824/d], referred to in subsec. (j)(1), was redesignated [section 1824(e) of this title][/us/usc/t50/s1824/e] by [Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 603(b)(1), Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853].
 
  __Amendments__ 
 
-    2008—Subsec. (k)(1)(B). [Pub. L. 110–261, § 110(b)(2)][/us/pl/110/261/s110/b/2], substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+    2008—Subsec. (k)(1)(B). [Pub. L. 110–261][/us/pl/110/261], § 110(b)(2), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
 
-    Subsec. (k)(2). [Pub. L. 110–261, § 107(c)(2)][/us/pl/110/261/s107/c/2], substituted “1823(a)(6)” for “1823(a)(7)”.
+    Subsec. (k)(2). [Pub. L. 110–261][/us/pl/110/261], § 107(c)(2), substituted “1823(a)(6)” for “1823(a)(7)”.
 
     2002—Subsec. (k)(1). [Pub. L. 107–296][/us/pl/107/296], in introductory provision, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
 
@@ -123,24 +123,24 @@
 [/us/usc/t50/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1824
 [/us/usc/t50/s1823/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1823%2Fa%2F6
 [/us/usc/t50/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1824
-[/us/pl/95/511/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs305
-[/us/pl/103/359/s807/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs807%2Fa%2F3
+[/us/pl/95/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIII
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3449
-[/us/pl/107/56/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs504%2Fb
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F364
-[/us/pl/107/296/s899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs899
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2258
-[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2464
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t50/s1824/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1824%2Fd
 [/us/usc/t50/s1824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1824%2Fe
-[/us/pl/106/567/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs603%2Fb%2F1
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2853
-[/us/pl/110/261/s110/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fb%2F2
-[/us/pl/110/261/s107/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs107%2Fc%2F2
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261

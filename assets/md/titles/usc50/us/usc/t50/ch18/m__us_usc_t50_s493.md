@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated, out of any moneys in the Treasury of the United States not otherwise appropriated, such sums as may be necessary to carry out the purposes of this chapter, and when so specified in an appropriation Act such amounts shall remain available until expended.
 
-([Mar. 30, 1949, ch. 41, § 3][/us/act/1949-03-30/ch41/s3], [63 Stat. 18][/us/stat/63/18].)
+([Mar. 30, 1949, ch. 41][/us/act/1949-03-30/ch41], § 3, [63 Stat. 18][/us/stat/63/18].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-03-30/ch41/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-03-30%2Fch41%2Fs3
+[/us/act/1949-03-30/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-03-30%2Fch41
 [/us/stat/63/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F18
 
 

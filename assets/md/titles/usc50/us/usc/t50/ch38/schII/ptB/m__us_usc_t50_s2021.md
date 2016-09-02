@@ -105,7 +105,7 @@
 
             (B) the amount of the taxes deducted and withheld from such basic pay under [section 3101(a) of title 26][/us/usc/t26/s3101/a] (relating to old-age, survivors, and disability insurance) for that pay period.
 
-([Pub. L. 88–643, title II, § 211][/us/pl/88/643/s211], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3202][/us/stat/106/3202]; amended [Pub. L. 103–178, title II, § 202(a)(3)][/us/pl/103/178/s202/a/3], Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026]; [Pub. L. 112–96, title V, § 5003][/us/pl/112/96/s5003], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 211, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3202][/us/stat/106/3202]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(3), Dec. 3, 1993, [107 Stat. 2026][/us/stat/107/2026]; [Pub. L. 112–96, title V][/us/pl/112/96/tV], § 5003, Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 211 of Pub. L. 88–643][/us/pl/88/643/s211], title II, Oct. 13, 1964, [78 Stat. 1045][/us/stat/78/1045]; [Pub. L. 91–185, § 1][/us/pl/91/185/s1], Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 97–269, title VI, § 611][/us/pl/97/269/s611], Sept. 27, 1982, [96 Stat. 1153][/us/stat/96/1153]; [Pub. L. 99–335, title V][/us/pl/99/335], §§ 501(2), 502, June 6, 1986, [100 Stat. 622][/us/stat/100/622], 623; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], related to compulsory contributions to the fund and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
+    A prior [section 211 of Pub. L. 88–643][/us/pl/88/643/s211], title II, Oct. 13, 1964, [78 Stat. 1045][/us/stat/78/1045]; [Pub. L. 91–185][/us/pl/91/185], § 1, Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; [Pub. L. 97–269, title VI][/us/pl/97/269/tVI], § 611, Sept. 27, 1982, [96 Stat. 1153][/us/stat/96/1153]; [Pub. L. 99–335, title V][/us/pl/99/335/tV], §§ 501(2), 502, June 6, 1986, [100 Stat. 622][/us/stat/100/622], 623; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], related to compulsory contributions to the fund and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802].
 
  __Amendments__ 
 
@@ -127,11 +127,11 @@
 
  __Temporary Adjustment of Contribution Levels__ 
 
-[Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(g)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–54, provided that: 
+[Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title V, § 505(g)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–54, provided that: 
 
 > “Notwithstanding \[former\] section 211(a)(2) of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2021(a)(2)][/us/usc/t50/s2021/a/2]), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.”
 
-[Pub. L. 105–33, title VII, § 7001(c)(1)][/us/pl/105/33/s7001/c/1], (2), Aug. 5, 1997, [111 Stat. 658][/us/stat/111/658], as amended by [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(c)(1)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–53, provided that:
+[Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7001(c)(1), (2), Aug. 5, 1997, [111 Stat. 658][/us/stat/111/658], as amended by [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title V, § 505(c)(1)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–53, provided that:
 
 >     “(1)  __Agency contributions__  __.—__ 
 
@@ -202,25 +202,25 @@
 [/us/usc/t50/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2121
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t26/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101%2Fa
-[/us/pl/88/643/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs211
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3202
-[/us/pl/103/178/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F3
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2026
-[/us/pl/112/96/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5003
+[/us/pl/112/96/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtV
 [/us/stat/126/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F200
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/88/643/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs211
 [/us/stat/78/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1045
-[/us/pl/91/185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F185%2Fs1
+[/us/pl/91/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F185
 [/us/stat/83/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F847
-[/us/pl/97/269/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2Fs611
+[/us/pl/97/269/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtVI
 [/us/stat/96/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1153
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtV
 [/us/stat/100/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F622
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
@@ -231,12 +231,12 @@
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fb
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 [/us/usc/t50/s2021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2021%2Fa%2F2
-[/us/pl/105/33/s7001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7001%2Fc%2F1
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F658
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 [/us/usc/t50/s2021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2021%2Fa%2F2
 [/us/usc/t50/s2021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2021%2Fa%2F1

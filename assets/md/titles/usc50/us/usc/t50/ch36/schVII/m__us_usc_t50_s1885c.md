@@ -29,7 +29,7 @@
 
         (3) any actions taken to enforce the provisions of [section 1885b of this title][/us/usc/t50/s1885b].
 
-([Pub. L. 95–511, title VIII, § 804][/us/pl/95/511/s804], as added [Pub. L. 110–261, title II, § 201][/us/pl/110/261/s201], July 10, 2008, [122 Stat. 2470][/us/stat/122/2470].)
+([Pub. L. 95–511, title VIII][/us/pl/95/511/tVIII], § 804, as added [Pub. L. 110–261, title II][/us/pl/110/261/tII], § 201, July 10, 2008, [122 Stat. 2470][/us/stat/122/2470].)
 
 ----------
 
@@ -41,8 +41,8 @@
 [/us/usc/t50/s1885a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1885a
 [/us/usc/t50/s1885a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1885a
 [/us/usc/t50/s1885b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1885b
-[/us/pl/95/511/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs804
-[/us/pl/110/261/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs201
+[/us/pl/95/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVIII
+[/us/pl/110/261/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtII
 [/us/stat/122/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2470
 
 

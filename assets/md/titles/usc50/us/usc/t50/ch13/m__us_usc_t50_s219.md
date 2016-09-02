@@ -21,11 +21,11 @@
 
  __References in Text__ 
 
-    [Section 218 of this title][/us/usc/t50/s218], referred to in text, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632].
+    [Section 218 of this title][/us/usc/t50/s218], referred to in text, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632].
 
  __Codification__ 
 
-    R.S. § 5315 derived from acts [July 13, 1861, ch. 3, § 2][/us/act/1861-07-13/ch3/s2], [12 Stat. 256][/us/stat/12/256]; [Mar. 3, 1875, ch. 136, § 2][/us/act/1875-03-03/ch136/s2], [18 Stat. 469][/us/stat/18/469].
+    R.S. § 5315 derived from acts [July 13, 1861, ch. 3][/us/act/1861-07-13/ch3], § 2, [12 Stat. 256][/us/stat/12/256]; [Mar. 3, 1875, ch. 136][/us/act/1875-03-03/ch136], § 2, [18 Stat. 469][/us/stat/18/469].
 
  __Transfer of Functions__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t50/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs218
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/act/1861-07-13/ch3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-13%2Fch3%2Fs2
+[/us/act/1861-07-13/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-13%2Fch3
 [/us/stat/12/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F256
-[/us/act/1875-03-03/ch136/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch136%2Fs2
+[/us/act/1875-03-03/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch136
 [/us/stat/18/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F469
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

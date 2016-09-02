@@ -35,7 +35,7 @@
 
         Of the amount authorized to be appropriated by section 3101(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $5,000,000 may be available for carrying out this section.
 
-([Pub. L. 107–314, div. C, title XXXI, § 3156][/us/pl/107/314/s3156], Dec. 2, 2002, [116 Stat. 2739][/us/stat/116/2739]; [Pub. L. 111–383, div. C, title XXXI, § 3119][/us/pl/111/383/s3119], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514].)
+([Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3156, Dec. 2, 2002, [116 Stat. 2739][/us/stat/116/2739]; [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3119, Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/107/314/s3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3156
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2739
-[/us/pl/111/383/s3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3119
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
 [/us/pl/107/314/s3101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3101%2Fa%2F2
 [/us/stat/116/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2729

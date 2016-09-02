@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4069 derived from [act July 6, 1798, ch. 66, § 2][/us/act/1798-07-06/ch66/s2], [1 Stat. 577][/us/stat/1/577].
+    R.S. § 4069 derived from [act July 6, 1798, ch. 66][/us/act/1798-07-06/ch66], § 2, [1 Stat. 577][/us/stat/1/577].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1798-07-06/ch66/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66%2Fs2
+[/us/act/1798-07-06/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66
 [/us/stat/1/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F577
 
 

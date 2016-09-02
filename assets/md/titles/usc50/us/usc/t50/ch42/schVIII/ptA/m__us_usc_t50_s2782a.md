@@ -17,7 +17,7 @@
 
     The Secretary of Energy shall include, in each award-fee evaluation conducted under section 16.401 of title 48, Code of Federal Regulations, of a management and operating contract for a Department of Energy defense nuclear facility in 2016 or any even-numbered year thereafter, an assessment of the adequacy of the emergency preparedness of that facility, including an assessment of the seniority level of management and operating contractor employees that participate in emergency preparedness exercises at that facility.
 
-([Pub. L. 107–314, div. D, title XLVIII, § 4802A][/us/pl/107/314/s4802A], as added [Pub. L. 114–92, div. C, title XXXI, § 3134(a)][/us/pl/114/92/s3134/a], Nov. 25, 2015, [129 Stat. 1207][/us/stat/129/1207].)
+([Pub. L. 107–314, div. D, title XLVIII][/us/pl/107/314/dD/tXLVIII], § 4802A, as added [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3134(a), Nov. 25, 2015, [129 Stat. 1207][/us/stat/129/1207].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4802A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4802A
-[/us/pl/114/92/s3134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3134%2Fa
+[/us/pl/107/314/dD/tXLVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVIII
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1207
 
 

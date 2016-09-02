@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section 402c, comprising section 904 of the Counterintelligence Enhancement Act of 2002, [Pub. L. 107–306, title IX][/us/pl/107/306], and also of the Intelligence Authorization Act for Fiscal Year 2003, [Pub. L. 107–306][/us/pl/107/306], was editorially reclassified as [section 3383 of this title][/us/usc/t50/s3383].
+    Section 402c, comprising section 904 of the Counterintelligence Enhancement Act of 2002, [Pub. L. 107–306, title IX][/us/pl/107/306/tIX], and also of the Intelligence Authorization Act for Fiscal Year 2003, [Pub. L. 107–306][/us/pl/107/306], was editorially reclassified as [section 3383 of this title][/us/usc/t50/s3383].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIX
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/usc/t50/s3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3383
 

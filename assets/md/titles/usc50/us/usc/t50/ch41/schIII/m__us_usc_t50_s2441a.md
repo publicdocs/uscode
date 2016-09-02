@@ -67,17 +67,17 @@
 
         (4) The number of full-time equivalent contractor employees described in paragraph (3) that have been employed under such a contract for a period greater than two years.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3241A][/us/pl/106/65/s3241A], as added [Pub. L. 112–239, div. C, title XXXI, § 3111(a)(1)][/us/pl/112/239/s3111/a/1], Jan. 2, 2013, [126 Stat. 2168][/us/stat/126/2168]; amended [Pub. L. 113–291, div. C, title XXXI, § 3116][/us/pl/113/291/s3116], Dec. 19, 2014, [128 Stat. 3888][/us/stat/128/3888]; [Pub. L. 114–92, div. C, title XXXI, § 3138][/us/pl/114/92/s3138], Nov. 25, 2015, [129 Stat. 1215][/us/stat/129/1215].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3241A, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3111(a)(1), Jan. 2, 2013, [126 Stat. 2168][/us/stat/126/2168]; amended [Pub. L. 113–291, div. C, title XXXI][/us/pl/113/291/dC/tXXXI], § 3116, Dec. 19, 2014, [128 Stat. 3888][/us/stat/128/3888]; [Pub. L. 114–92, div. C, title XXXI][/us/pl/114/92/dC/tXXXI], § 3138, Nov. 25, 2015, [129 Stat. 1215][/us/stat/129/1215].)
 
  __Amendments__ 
 
     2015—Subsec. (f). [Pub. L. 114–92][/us/pl/114/92] added subsec. (f).
 
-    2014—Subsec. (a)(1). [Pub. L. 113–291, § 3116(a)(1)][/us/pl/113/291/s3116/a/1], substituted “2015” for “2014” and “1,690” for “1,825”.
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291], § 3116(a)(1), substituted “2015” for “2014” and “1,690” for “1,825”.
 
-    Subsec. (a)(2). [Pub. L. 113–291, § 3116(a)(2)][/us/pl/113/291/s3116/a/2], substituted “2016” for “2015” and “1,690” for “1,825”.
+    Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291], § 3116(a)(2), substituted “2016” for “2015” and “1,690” for “1,825”.
 
-    Subsec. (e). [Pub. L. 113–291, § 3116(b)][/us/pl/113/291/s3116/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 3116(b), added subsec. (e).
 
 ----------
 
@@ -88,16 +88,16 @@
 
 [/us/usc/t5/s3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3523
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/106/65/s3241A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3241A
-[/us/pl/112/239/s3111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3111%2Fa%2F1
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2168
-[/us/pl/113/291/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116
+[/us/pl/113/291/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXI
 [/us/stat/128/3888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3888
-[/us/pl/114/92/s3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3138
+[/us/pl/114/92/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXI
 [/us/stat/129/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1215
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/291/s3116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116%2Fa%2F1
-[/us/pl/113/291/s3116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116%2Fa%2F2
-[/us/pl/113/291/s3116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3116%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

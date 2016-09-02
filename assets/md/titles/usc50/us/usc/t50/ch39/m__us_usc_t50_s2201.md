@@ -23,11 +23,11 @@
 
         Any transfer pursuant to subsection (a) of this section shall be subject to all of the terms, conditions, and requirements applicable to the transfer of property of the same type otherwise owned by the United States.
 
-([Pub. L. 103–236, title V, § 552][/us/pl/103/236/s552], Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482].)
+([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 552, Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482].)
 
  __Short Title__ 
 
-[Pub. L. 103–236, title V, § 551][/us/pl/103/236/s551], Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482], provided that: 
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 551, Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482], provided that: 
 
 > “This part \[part B (§§ 551–556) of title V of [Pub. L. 103–236][/us/pl/103/236], enacting this chapter\] may be cited as the ‘Spoils of War Act of 1994’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/103/236/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs552
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F482
-[/us/pl/103/236/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs551
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F482
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

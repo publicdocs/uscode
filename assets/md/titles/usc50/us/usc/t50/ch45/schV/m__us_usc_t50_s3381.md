@@ -109,11 +109,11 @@
 
         (7) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  1801(a) and (b), respectively, of this title.
 
-([Pub. L. 103–359, title VIII, § 811][/us/pl/103/359/s811], Oct. 14, 1994, [108 Stat. 3455][/us/stat/108/3455]; [Pub. L. 106–120, title VI, § 602][/us/pl/106/120/s602], Dec. 3, 1999, [113 Stat. 1620][/us/stat/113/1620]; [Pub. L. 106–567, title VI, § 605][/us/pl/106/567/s605], Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853]; [Pub. L. 107–306, title VIII, § 811(b)(5)(B)][/us/pl/107/306/s811/b/5/B], title IX, § 903, Nov. 27, 2002, [116 Stat. 2424][/us/stat/116/2424], 2433; [Pub. L. 108–177, title III, § 361(g)][/us/pl/108/177/s361/g], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 108–458, title I, § 1071(g)(1)][/us/pl/108/458/s1071/g/1], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
+([Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 811, Oct. 14, 1994, [108 Stat. 3455][/us/stat/108/3455]; [Pub. L. 106–120, title VI][/us/pl/106/120/tVI], § 602, Dec. 3, 1999, [113 Stat. 1620][/us/stat/113/1620]; [Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 605, Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(5)(B), title IX, § 903, Nov. 27, 2002, [116 Stat. 2424][/us/stat/116/2424], 2433; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(g), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(1), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691].)
 
  __References in Text__ 
 
-    The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of [Pub. L. 107–306][/us/pl/107/306], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]. Section 904(e)(2) of the Act was redesignated 904(d)(2) by [Pub. L. 111–259, title IV, § 412(a)(2)][/us/pl/111/259/s412/a/2], Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725], and is classified to [section 3383(d)(2) of this title][/us/usc/t50/s3383/d/2]. For complete classification of this Act to the Code, see Tables.
+    The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of [Pub. L. 107–306][/us/pl/107/306], Nov. 27, 2002, [116 Stat. 2432][/us/stat/116/2432]. Section 904(e)(2) of the Act was redesignated 904(d)(2) by [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 412(a)(2), Oct. 7, 2010, [124 Stat. 2725][/us/stat/124/2725], and is classified to [section 3383(d)(2) of this title][/us/usc/t50/s3383/d/2]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -121,9 +121,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c)(6)(C). [Pub. L. 108–458][/us/pl/108/458], which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by [Pub. L. 107–306, § 903(a)(2)][/us/pl/107/306/s903/a/2], and [Pub. L. 108–177][/us/pl/108/177]. See 2002 and 2003 Amendment notes below.
+    2004—Subsec. (c)(6)(C). [Pub. L. 108–458][/us/pl/108/458], which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by [Pub. L. 107–306][/us/pl/107/306], § 903(a)(2), and [Pub. L. 108–177][/us/pl/108/177]. See 2002 and 2003 Amendment notes below.
 
-    2003—Subsec. (e). [Pub. L. 108–177][/us/pl/108/177], which directed the amendment of subsec. (c) by redesignating pars. (7) and (8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by [Pub. L. 107–306, § 903(a)(2)][/us/pl/107/306/s903/a/2], see below. Prior to amendment, par. (6) read as follows:
+    2003—Subsec. (e). [Pub. L. 108–177][/us/pl/108/177], which directed the amendment of subsec. (c) by redesignating pars. (7) and (8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by [Pub. L. 107–306][/us/pl/107/306], § 903(a)(2), see below. Prior to amendment, par. (6) read as follows:
 
     “(6)(A) Not later each year than the date provided in [section 415b of this title][/us/usc/t50/s415b], the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in [section 401a of this title][/us/usc/t50/s401a]) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
@@ -131,31 +131,31 @@
 
     “(C) The Director of the Federal Bureau of Investigation shall submit each report under this paragraph in consultation with the Director of Central Intelligence and the Secretary of Defense.”
 
-    2002—Subsec. (b). [Pub. L. 107–306, § 903(a)(1)][/us/pl/107/306/s903/a/1], (3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Board shall serve as the principal mechanism for—
+    2002—Subsec. (b). [Pub. L. 107–306][/us/pl/107/306], § 903(a)(1), (3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Board shall serve as the principal mechanism for—
 
     “(1) developing policies and procedures for the approval of the President to govern the conduct of counterintelligence activities; and
 
     “(2) resolving conflicts, as directed by the President, which may arise between elements of the Government which carry out such activities.”
 
-    Subsec. (c). [Pub. L. 107–306, § 903(b)][/us/pl/107/306/s903/b], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 107–306][/us/pl/107/306], § 903(b), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    Subsec. (c)(6). [Pub. L. 107–306, § 811(b)(5)(B)][/us/pl/107/306/s811/b/5/B], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, report annually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and the Senate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.”
+    Subsec. (c)(6). [Pub. L. 107–306][/us/pl/107/306], § 811(b)(5)(B), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, report annually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and the Senate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.”
 
-    Subsec. (d). [Pub. L. 107–306, § 903(c)][/us/pl/107/306/s903/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–306][/us/pl/107/306], § 903(c), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 107–306, § 903(a)(2)][/us/pl/107/306/s903/a/2], redesignated subsec. (c) as (e).
+    Subsec. (e). [Pub. L. 107–306][/us/pl/107/306], § 903(a)(2), redesignated subsec. (c) as (e).
 
-    2000—Subsec. (c)(1). [Pub. L. 106–567, § 605(a)(1)][/us/pl/106/567/s605/a/1], substituted “paragraph (5)” for “paragraph (3)”.
+    2000—Subsec. (c)(1). [Pub. L. 106–567][/us/pl/106/567], § 605(a)(1), substituted “paragraph (5)” for “paragraph (3)”.
 
-    Subsec. (c)(2). [Pub. L. 106–567, § 605(a)(1)][/us/pl/106/567/s605/a/1], (b), substituted “paragraph (5)” for “paragraph (3)” and inserted “in a timely manner” after “through appropriate channels” and “are consulted”.
+    Subsec. (c)(2). [Pub. L. 106–567][/us/pl/106/567], § 605(a)(1), (b), substituted “paragraph (5)” for “paragraph (3)” and inserted “in a timely manner” after “through appropriate channels” and “are consulted”.
 
-    Subsec. (c)(3). [Pub. L. 106–567, § 605(a)(3)][/us/pl/106/567/s605/a/3], added par. (3). Former par. (3) redesignated (5).
+    Subsec. (c)(3). [Pub. L. 106–567][/us/pl/106/567], § 605(a)(3), added par. (3). Former par. (3) redesignated (5).
 
-    Subsec. (c)(4). [Pub. L. 106–567, § 605(a)][/us/pl/106/567/s605/a], (c), added par. (4). Former par. (4) redesignated (6).
+    Subsec. (c)(4). [Pub. L. 106–567][/us/pl/106/567], § 605(a), (c), added par. (4). Former par. (4) redesignated (6).
 
-    Subsec. (c)(5). [Pub. L. 106–567, § 605(a)(2)][/us/pl/106/567/s605/a/2], (4), redesignated par. (3) as (5) and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”. Former par. (5) redesignated (7).
+    Subsec. (c)(5). [Pub. L. 106–567][/us/pl/106/567], § 605(a)(2), (4), redesignated par. (3) as (5) and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”. Former par. (5) redesignated (7).
 
-    Subsec. (c)(6) to (8). [Pub. L. 106–567, § 605(a)(2)][/us/pl/106/567/s605/a/2], redesignated pars. (4) to (6) as (6) to (8), respectively.
+    Subsec. (c)(6) to (8). [Pub. L. 106–567][/us/pl/106/567], § 605(a)(2), redesignated pars. (4) to (6) as (6) to (8), respectively.
 
     1999—Subsec. (c)(2). [Pub. L. 106–120][/us/pl/106/120] struck out “after a report has been provided pursuant to paragraph (1)(A)” before period at end.
 
@@ -171,7 +171,7 @@
 
  __Annual Reports on Intelligence Activities of the People’s Republic of China__ 
 
-    [Pub. L. 105–107, title III, § 308][/us/pl/105/107/s308], Nov. 20, 1997, [111 Stat. 2253][/us/stat/111/2253], as amended by [Pub. L. 107–306, title VIII, § 811(b)(5)(D)][/us/pl/107/306/s811/b/5/D], Nov. 27, 2002, [116 Stat. 2424][/us/stat/116/2424], related to annual reports to Congress by the Director of Central Intelligence and the Director of the Federal Bureau of Investigation on intelligence activities of the People’s Republic of China directed against or affecting the interests of the United States, prior to repeal by [Pub. L. 108–177, title III, § 361(f)][/us/pl/108/177/s361/f], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625].
+    [Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 308, Nov. 20, 1997, [111 Stat. 2253][/us/stat/111/2253], as amended by [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(5)(D), Nov. 27, 2002, [116 Stat. 2424][/us/stat/116/2424], related to annual reports to Congress by the Director of Central Intelligence and the Director of the Federal Bureau of Investigation on intelligence activities of the People’s Republic of China directed against or affecting the interests of the United States, prior to repeal by [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(f), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625].
 
 ----------
 
@@ -181,42 +181,42 @@
 ----------
 
 [/us/usc/t50/s3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3382
-[/us/pl/103/359/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs811
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3455
-[/us/pl/106/120/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs602
+[/us/pl/106/120/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVI
 [/us/stat/113/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1620
-[/us/pl/106/567/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2853
-[/us/pl/107/306/s811/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F5%2FB
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2424
-[/us/pl/108/177/s361/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fg
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2625
-[/us/pl/108/458/s1071/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F1
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/stat/116/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2432
-[/us/pl/111/259/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs412%2Fa%2F2
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2725
 [/us/usc/t50/s3383/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3383%2Fd%2F2
 [/us/usc/t50/s402a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402a
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/107/306/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs903%2Fa%2F2
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
-[/us/pl/107/306/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs903%2Fa%2F2
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
-[/us/pl/107/306/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs903%2Fa%2F1
-[/us/pl/107/306/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs903%2Fb
-[/us/pl/107/306/s811/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F5%2FB
-[/us/pl/107/306/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs903%2Fc
-[/us/pl/107/306/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs903%2Fa%2F2
-[/us/pl/106/567/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605%2Fa%2F1
-[/us/pl/106/567/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605%2Fa%2F1
-[/us/pl/106/567/s605/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605%2Fa%2F3
-[/us/pl/106/567/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605%2Fa
-[/us/pl/106/567/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605%2Fa%2F2
-[/us/pl/106/567/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs605%2Fa%2F2
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
@@ -226,11 +226,11 @@
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/108/177/s361/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fn
 [/us/usc/t10/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1611
-[/us/pl/105/107/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs308
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2253
-[/us/pl/107/306/s811/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F5%2FD
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2424
-[/us/pl/108/177/s361/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Ff
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2625
 
 

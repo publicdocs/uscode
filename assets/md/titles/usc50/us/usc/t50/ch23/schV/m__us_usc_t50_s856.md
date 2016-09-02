@@ -17,7 +17,7 @@
 
     Failure to file a registration statement as required by this subchapter is a continuing offense for as long as such failure exists, notwithstanding any statute of limitation or other statute to the contrary.
 
-([Aug. 1, 1956, ch. 849, § 7][/us/act/1956-08-01/ch849/s7], [70 Stat. 900][/us/stat/70/900].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 7, [70 Stat. 900][/us/stat/70/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch849/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs7
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F900
 
 

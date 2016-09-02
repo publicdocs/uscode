@@ -63,7 +63,7 @@
 
         As used in this section, the term “international nuclear materials protection and cooperation program funds” means the funds appropriated pursuant to an authorization of appropriations for the International Nuclear Materials Protection and Cooperation Program.
 
-([Pub. L. 108–136, div. C, title XXXI, § 3124][/us/pl/108/136/s3124], Nov. 24, 2003, [117 Stat. 1747][/us/stat/117/1747]; [Pub. L. 108–375, div. C, title XXXI, § 3131][/us/pl/108/375/s3131], Oct. 28, 2004, [118 Stat. 2165][/us/stat/118/2165].)
+([Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3124, Nov. 24, 2003, [117 Stat. 1747][/us/stat/117/1747]; [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3131, Oct. 28, 2004, [118 Stat. 2165][/us/stat/118/2165].)
 
  __Codification__ 
 
@@ -71,17 +71,17 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 3131(a)][/us/pl/108/375/s3131/a], inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 3131(a), inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
 
-    Subsec. (c). [Pub. L. 108–375, § 3131(b)][/us/pl/108/375/s3131/b], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The amount that may be obligated in a fiscal year under the authority in subsection (a) may not exceed $50,000,000.”
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 3131(b), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The amount that may be obligated in a fiscal year under the authority in subsection (a) may not exceed $50,000,000.”
 
-    Subsec. (d). [Pub. L. 108–375, § 3131(b)(2)][/us/pl/108/375/s3131/b/2], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 108–375][/us/pl/108/375], § 3131(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 108–375, § 3131(c)][/us/pl/108/375/s3131/c], substituted “the funds appropriated pursuant to an authorization of appropriations for the International Nuclear Materials Protection and Cooperation Program” for “the funds appropriated pursuant to the authorization of appropriations in section 3101(a)(2) for such program”.
+    Subsec. (e). [Pub. L. 108–375][/us/pl/108/375], § 3131(c), substituted “the funds appropriated pursuant to an authorization of appropriations for the International Nuclear Materials Protection and Cooperation Program” for “the funds appropriated pursuant to the authorization of appropriations in section 3101(a)(2) for such program”.
 
-    [Pub. L. 108–375, § 3131(b)(2)][/us/pl/108/375/s3131/b/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 108–375][/us/pl/108/375], § 3131(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 108–375, § 3131(b)(2)][/us/pl/108/375/s3131/b/2], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 108–375][/us/pl/108/375], § 3131(b)(2), redesignated subsec. (f) as (e).
 
 ----------
 
@@ -90,15 +90,15 @@
 ----------
 ----------
 
-[/us/pl/108/136/s3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3124
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1747
-[/us/pl/108/375/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2165
-[/us/pl/108/375/s3131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131%2Fa
-[/us/pl/108/375/s3131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131%2Fb
-[/us/pl/108/375/s3131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131%2Fb%2F2
-[/us/pl/108/375/s3131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131%2Fc
-[/us/pl/108/375/s3131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131%2Fb%2F2
-[/us/pl/108/375/s3131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3131%2Fb%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 
 

@@ -17,7 +17,7 @@
 
     The head of a department or agency containing an element of the intelligence community may establish an undergraduate or graduate training program with respect to civilian employees and prospective civilian employees of such element similar in purpose, conditions, content, and administration to the program that the Secretary of Defense is authorized to establish under [section 3614 of this title][/us/usc/t50/s3614].
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1023, as added [Pub. L. 111–259, title III, § 312(e)(1)][/us/pl/111/259/s312/e/1], Oct. 7, 2010, [124 Stat. 2664][/us/stat/124/2664].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1023, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 312(e)(1), Oct. 7, 2010, [124 Stat. 2664][/us/stat/124/2664].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t50/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3614
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s312/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fe%2F1
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2664
 
 

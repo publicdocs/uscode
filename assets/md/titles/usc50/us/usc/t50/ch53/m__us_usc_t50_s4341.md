@@ -27,7 +27,7 @@
 
         With respect to all prints concerning which title is transferred to the Library of Congress pursuant to subsections (a) and (b) hereof, the Library shall have complete discretion to retain such prints and to reproduce copies thereof, or to dispose of them in any manner it deems appropriate.
 
-([Oct. 6, 1917, ch. 106, § 43][/us/act/1917-10-06/ch106/s43], as added [Pub. L. 87–861, § 2][/us/pl/87/861/s2], Oct. 23, 1962, [76 Stat. 1140][/us/stat/76/1140].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 43, as added [Pub. L. 87–861][/us/pl/87/861], § 2, Oct. 23, 1962, [76 Stat. 1140][/us/stat/76/1140].)
 
  __References in Text__ 
 
@@ -49,8 +49,8 @@
 ----------
 
 [/us/usc/t50/s4329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4329
-[/us/act/1917-10-06/ch106/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs43
-[/us/pl/87/861/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861%2Fs2
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/pl/87/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F861
 [/us/stat/76/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1140
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

@@ -29,7 +29,7 @@
 
         (3) Directing, managing, and overseeing assets to respond to incidents involving nuclear weapons and materials.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3214][/us/pl/106/65/s3214], Oct. 5, 1999, [113 Stat. 959][/us/stat/113/959]; [Pub. L. 107–107, div. C, title XXXI, § 3142][/us/pl/107/107/s3142], Dec. 28, 2001, [115 Stat. 1370][/us/stat/115/1370].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3214, Oct. 5, 1999, [113 Stat. 959][/us/stat/113/959]; [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3142, Dec. 28, 2001, [115 Stat. 1370][/us/stat/115/1370].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3214
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F959
-[/us/pl/107/107/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3142
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1370
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

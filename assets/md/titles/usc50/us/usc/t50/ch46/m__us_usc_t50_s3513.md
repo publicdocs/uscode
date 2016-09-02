@@ -23,7 +23,7 @@
 
         Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a) of this section, the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-([June 20, 1949, ch. 227, § 13][/us/act/1949-06-20/ch227/s13], as added [Pub. L. 97–89, title V, § 503][/us/pl/97/89/s503], Dec. 4, 1981, [95 Stat. 1153][/us/stat/95/1153].)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 13, as added [Pub. L. 97–89, title V][/us/pl/97/89/tV], § 503, Dec. 4, 1981, [95 Stat. 1153][/us/stat/95/1153].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/act/1949-06-20/ch227/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs13
-[/us/pl/97/89/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs503
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/97/89/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtV
 [/us/stat/95/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1153
 [/us/usc/t50/s403m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403m
 [/us/pl/97/89/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs806

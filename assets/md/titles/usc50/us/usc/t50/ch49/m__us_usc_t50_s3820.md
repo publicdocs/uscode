@@ -29,7 +29,7 @@
 
         (4) In the event of a decision adverse to the claim of a registrant, the local or appeal board making such decision shall, upon request, furnish to such registrant a brief written statement of the reasons for its decision.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 22, as added [Pub. L. 92–129, title I, § 101(a)(36)][/us/pl/92/129/s101/a/36], Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 22, as added [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(36), Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
-[/us/pl/92/129/s101/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F36
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F353
 
 

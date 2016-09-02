@@ -43,13 +43,13 @@
 
         (3) Any gifts of money shall be credited to and form a part of the Fund.
 
-([Pub. L. 102–183, title VIII, § 804][/us/pl/102/183/s804], Dec. 4, 1991, [105 Stat. 1274][/us/stat/105/1274]; [Pub. L. 102–496, title IV, § 404(e)][/us/pl/102/496/s404/e], Oct. 24, 1992, [106 Stat. 3186][/us/stat/106/3186]; [Pub. L. 103–160, div. A, title III, § 375][/us/pl/103/160/s375], Nov. 30, 1993, [107 Stat. 1637][/us/stat/107/1637].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 804, Dec. 4, 1991, [105 Stat. 1274][/us/stat/105/1274]; [Pub. L. 102–496, title IV][/us/pl/102/496/tIV], § 404(e), Oct. 24, 1992, [106 Stat. 3186][/us/stat/106/3186]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 375, Nov. 30, 1993, [107 Stat. 1637][/us/stat/107/1637].)
 
  __Amendments__ 
 
-    1993—Subsec. (b). [Pub. L. 103–160, § 375(b)][/us/pl/103/160/s375/b], struck out “(1)” before “Sums in the Fund”, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law.”
+    1993—Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 375(b), struck out “(1)” before “Sums in the Fund”, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law.”
 
-    Subsec. (e)(3). [Pub. L. 103–160, § 375(a)][/us/pl/103/160/s375/a], added par. (3).
+    Subsec. (e)(3). [Pub. L. 103–160][/us/pl/103/160], § 375(a), added par. (3).
 
     1992—Subsec. (c). [Pub. L. 102–496][/us/pl/102/496] substituted “expenditure” for “obligation” in first sentence.
 
@@ -61,14 +61,14 @@
 ----------
 
 [/us/usc/t50/s1902/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fb%2F3
-[/us/pl/102/183/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs804
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1274
-[/us/pl/102/496/s404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs404%2Fe
+[/us/pl/102/496/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIV
 [/us/stat/106/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3186
-[/us/pl/103/160/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs375
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1637
-[/us/pl/103/160/s375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs375%2Fb
-[/us/pl/103/160/s375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs375%2Fa
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
 
 

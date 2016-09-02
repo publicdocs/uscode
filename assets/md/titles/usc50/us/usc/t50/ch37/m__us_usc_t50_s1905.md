@@ -35,7 +35,7 @@
 
         Expenditures necessary to conduct the program required by this chapter shall be paid from the Fund, subject to [section 1904(b) of this title][/us/usc/t50/s1904/b].
 
-([Pub. L. 102–183, title VIII, § 805][/us/pl/102/183/s805], Dec. 4, 1991, [105 Stat. 1275][/us/stat/105/1275].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 805, Dec. 4, 1991, [105 Stat. 1275][/us/stat/105/1275].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t50/s1904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1904%2Fb
-[/us/pl/102/183/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs805
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1275
 
 

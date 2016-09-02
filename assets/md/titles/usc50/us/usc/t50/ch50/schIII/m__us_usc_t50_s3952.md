@@ -45,7 +45,7 @@
 
         (3) may make other disposition as is equitable to preserve the interests of all parties.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 302, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2846][/us/stat/117/2846]; amended [Pub. L. 111–275, title III, § 303(b)(3)][/us/pl/111/275/s303/b/3], Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 302, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2846][/us/stat/117/2846]; amended [Pub. L. 111–275, title III][/us/pl/111/275/tIII], § 303(b)(3), Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 302 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, [54 Stat. 1182][/us/stat/54/1182]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], §§ 9(b), (c), 10, [56 Stat. 771][/us/stat/56/771], 772; [June 23, 1952, ch. 450][/us/act/1952-06-23/ch450], [66 Stat. 151][/us/stat/66/151]; [Pub. L. 102–12, § 9(9)][/us/pl/102/12/s9/9], (10), Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to mortgages and trust deeds, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3953 of this title][/us/usc/t50/s3953].
+    A prior section 302 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. III, [54 Stat. 1182][/us/stat/54/1182]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], §§ 9(b), (c), 10, [56 Stat. 771][/us/stat/56/771], 772; [June 23, 1952, ch. 450][/us/act/1952-06-23/ch450], [66 Stat. 151][/us/stat/66/151]; [Pub. L. 102–12][/us/pl/102/12], § 9(9), (10), Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to mortgages and trust deeds, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3953 of this title][/us/usc/t50/s3953].
 
  __Amendments__ 
 
@@ -68,9 +68,9 @@
 
 [/us/usc/t50/s3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3918
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2846
-[/us/pl/111/275/s303/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs303%2Fb%2F3
+[/us/pl/111/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIII
 [/us/stat/124/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2878
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1182
@@ -78,7 +78,7 @@
 [/us/stat/56/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F771
 [/us/act/1952-06-23/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-23%2Fch450
 [/us/stat/66/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F151
-[/us/pl/102/12/s9/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F9
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F40
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3953

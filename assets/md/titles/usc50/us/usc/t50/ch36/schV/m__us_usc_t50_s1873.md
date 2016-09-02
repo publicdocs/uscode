@@ -153,7 +153,7 @@
 
             The term “wire communication” has the meaning given that term under [section 2510 of title 18][/us/usc/t18/s2510].
 
-([Pub. L. 95–511, title VI, § 603][/us/pl/95/511/s603], as added [Pub. L. 114–23, title VI, § 602(a)][/us/pl/114/23/s602/a], June 2, 2015, [129 Stat. 292][/us/stat/129/292].)
+([Pub. L. 95–511, title VI][/us/pl/95/511/tVI], § 603, as added [Pub. L. 114–23, title VI][/us/pl/114/23/tVI], § 602(a), June 2, 2015, [129 Stat. 292][/us/stat/129/292].)
 
 ----------
 
@@ -175,8 +175,8 @@
 [/us/usc/t15/s1681v/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681v%2Fa
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
-[/us/pl/95/511/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs603
-[/us/pl/114/23/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs602%2Fa
+[/us/pl/95/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtVI
+[/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F292
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t50/ch47/m__us_usc_t50_s3614.md) | [Next](./../../../..//us/usc/t50/ch47/m__us_usc_t50_s3616.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3615)
 
-## § 3615. Repealed. [Pub. L. 103–359, title VIII, § 806(b)(2)][/us/pl/103/359/s806/b/2], Oct. 14, 1994, [108 Stat. 3442][/us/stat/108/3442]
+## § 3615. Repealed. [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 806(b)(2), Oct. 14, 1994, [108 Stat. 3442][/us/stat/108/3442]
 
-    Section, [Pub. L. 86–36, § 17][/us/pl/86/36/s17], as added [Pub. L. 102–88, title V, § 503][/us/pl/102/88/s503], Aug. 14, 1991, [105 Stat. 436][/us/stat/105/436], related to post-employment assistance for certain National Security Agency employees.
+    Section, [Pub. L. 86–36][/us/pl/86/36], § 17, as added [Pub. L. 102–88, title V][/us/pl/102/88/tV], § 503, Aug. 14, 1991, [105 Stat. 436][/us/stat/105/436], related to post-employment assistance for certain National Security Agency employees.
 
  __Codification__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/103/359/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs806%2Fb%2F2
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3442
-[/us/pl/86/36/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs17
-[/us/pl/102/88/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs503
+[/us/pl/86/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F436
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/pl/86/36/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs17

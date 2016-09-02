@@ -17,7 +17,7 @@
 
     To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I and title I of the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621][/us/usc/t22/s1621] et seq.\], shall apply to this subchapter: The first sentence of subsection (b) of [section 4101 of this title][/us/usc/t50/s4101], all of subsection (c) of [section 4101 of this title][/us/usc/t50/s4101] and [section 4109 of this title][/us/usc/t50/s4109], and subsections (c), (d), (e), and (f) of section 7 of the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1626][/us/usc/t22/s1626]\].
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 215, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1112][/us/stat/76/1112].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 215, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1112][/us/stat/76/1112].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 [/us/usc/t50/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4109
 [/us/usc/t22/s1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1626
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1112
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240

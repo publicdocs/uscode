@@ -61,7 +61,7 @@
 
         (2) The term “weapons activities funds” means funds appropriated to the Department of Energy pursuant to an authorization for carrying out weapons activities necessary for national security programs.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4711][/us/pl/107/314/s4711], formerly div. C, title XXXVI, § 3630, Dec. 2, 2002, [116 Stat. 2761][/us/stat/116/2761]; renumbered div. D, title XLVII, § 4711, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), (D)(v), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI, § 3146(h)(3)][/us/pl/113/66/s3146/h/3], Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4711, formerly div. C, title XXXVI, § 3630, Dec. 2, 2002, [116 Stat. 2761][/us/stat/116/2761]; renumbered div. D, title XLVII, § 4711, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(j)(2)(A)–(C), (D)(v), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(h)(3), Dec. 26, 2013, [127 Stat. 1081][/us/stat/127/1081].)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 
     2013—Subsec. (d). [Pub. L. 113–66][/us/pl/113/66] struck out “for Nuclear Security” after “Administrator”.
 
-    2003—Subsec. (c). [Pub. L. 108–136, § 3141(j)(2)(D)(v)][/us/pl/108/136/s3141/j/2/D/v], made technical amendment to reference in original act which appears in text as reference to [section 2742 of this title][/us/usc/t50/s2742].
+    2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 3141(j)(2)(D)(v), made technical amendment to reference in original act which appears in text as reference to [section 2742 of this title][/us/usc/t50/s2742].
 
 ----------
 
@@ -81,16 +81,16 @@
 ----------
 
 [/us/usc/t50/s2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2742
-[/us/pl/107/314/s4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4711
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
 [/us/stat/116/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2761
-[/us/pl/108/136/s3141/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
-[/us/pl/113/66/s3146/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F3
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1081
 [/us/usc/t42/s7386j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386j
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/108/136/s3141/j/2/D/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FD%2Fv
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t50/s2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2742
 
 

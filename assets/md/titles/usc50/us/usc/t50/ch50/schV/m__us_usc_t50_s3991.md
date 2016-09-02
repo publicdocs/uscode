@@ -51,7 +51,7 @@
 
         This section applies to all forms of property described in subsection (a) owned individually by a servicemember or jointly by a servicemember and a dependent or dependents.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 501, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2854][/us/stat/117/2854].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 501, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2854][/us/stat/117/2854].)
 
  __Codification__ 
 
@@ -61,7 +61,7 @@
 
     A prior section 501 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1187][/us/stat/54/1187], related to rights in public lands and grazing lands, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3992 of this title][/us/usc/t50/s3992].
 
-    Provisions similar to this section were contained in section 500 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1186][/us/stat/54/1186]; [Oct. 6, 1942, ch. 581, § 14][/us/act/1942-10-06/ch581/s14], [56 Stat. 776][/us/stat/56/776], prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    Provisions similar to this section were contained in section 500 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1186][/us/stat/54/1186]; [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 14, [56 Stat. 776][/us/stat/56/776], prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2854
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1187
@@ -79,7 +79,7 @@
 [/us/usc/t50/s3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3992
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1186
-[/us/act/1942-10-06/ch581/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs14
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F776
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 

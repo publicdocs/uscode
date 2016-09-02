@@ -53,7 +53,7 @@
 
         (2) Nothing in this section may be construed to affect statutory requirements for a defense environmental cleanup activity or project or to modify or otherwise affect applicable statutory or regulatory defense environmental cleanup requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4402][/us/pl/107/314/s4402], formerly [Pub. L. 104–201, div. C, title XXXI, § 3153][/us/pl/104/201/s3153], Sept. 23, 1996, [110 Stat. 2839][/us/stat/110/2839]; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4402][/us/pl/107/314/s4402], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(3)][/us/pl/108/136/s3141/g/3], Nov. 24, 2003, [117 Stat. 1764][/us/stat/117/1764]; [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(2)][/us/pl/113/66/s3146/e/2], Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4402, formerly [Pub. L. 104–201, div. C, title XXXI][/us/pl/104/201/dC/tXXXI], § 3153, Sept. 23, 1996, [110 Stat. 2839][/us/stat/110/2839]; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4402, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(3), Nov. 24, 2003, [117 Stat. 1764][/us/stat/117/1764]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(2), Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076].)
 
  __Codification__ 
 
@@ -61,25 +61,25 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, § 3146(e)(2)(A)][/us/pl/113/66/s3146/e/2/A], substituted “defense environmental cleanup” for “environmental management program” in section catchline.
+    2013—[Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(A), substituted “defense environmental cleanup” for “environmental management program” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–66, § 3146(e)(2)(B)][/us/pl/113/66/s3146/e/2/B], substituted “defense environmental cleanup” for “environmental restoration and waste management”.
+    Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(B), substituted “defense environmental cleanup” for “environmental restoration and waste management”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 113–66, § 3146(e)(2)(C)][/us/pl/113/66/s3146/e/2/C], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Rocky Flats Plant, Golden, Colorado.”
+    Subsec. (b)(2) to (4). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Rocky Flats Plant, Golden, Colorado.”
 
-    Subsec. (c)(2). [Pub. L. 113–66, § 3146(e)(2)(D)][/us/pl/113/66/s3146/e/2/D], substituted “for defense environmental cleanup” for “for program direction in carrying out environmental restoration and waste management”.
+    Subsec. (c)(2). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(D), substituted “for defense environmental cleanup” for “for program direction in carrying out environmental restoration and waste management”.
 
-    Subsec. (f). [Pub. L. 113–66, § 3146(e)(2)(E)][/us/pl/113/66/s3146/e/2/E], (F), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each facility listed in subsection (b), the Secretary of Energy shall develop a draft future use plan by October 1, 1997, and a final future use plan by March 15, 1998.”
+    Subsec. (f). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(E), (F), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each facility listed in subsection (b), the Secretary of Energy shall develop a draft future use plan by October 1, 1997, and a final future use plan by March 15, 1998.”
 
-    Subsec. (g). [Pub. L. 113–66, § 3146(e)(2)(F)][/us/pl/113/66/s3146/e/2/F], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(F), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    Subsec. (g)(2). [Pub. L. 113–66, § 3146(e)(2)(G)][/us/pl/113/66/s3146/e/2/G], substituted “a defense environmental cleanup” for “an environmental restoration or waste management” and “defense environmental cleanup” for “environmental restoration and waste management”.
+    Subsec. (g)(2). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(G), substituted “a defense environmental cleanup” for “an environmental restoration or waste management” and “defense environmental cleanup” for “environmental restoration and waste management”.
 
-    Subsec. (h). [Pub. L. 113–66, § 3146(e)(2)(F)][/us/pl/113/66/s3146/e/2/F], redesignated subsec. (h) as (g).
+    Subsec. (h). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(2)(F), redesignated subsec. (h) as (g).
 
-    2003—Subsec. (d). [Pub. L. 108–136, § 3141(g)(3)(D)(i)][/us/pl/108/136/s3141/g/3/D/i], substituted “September 23, 1996,” for “the date of the enactment of this Act”.
+    2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 3141(g)(3)(D)(i), substituted “September 23, 1996,” for “the date of the enactment of this Act”.
 
-    Subsec. (h)(1). [Pub. L. 108–136, § 3141(g)(3)(D)(ii)][/us/pl/108/136/s3141/g/3/D/ii], substituted “September 23, 1996” for “the date of the enactment of this Act”.
+    Subsec. (h)(1). [Pub. L. 108–136][/us/pl/108/136], § 3141(g)(3)(D)(ii), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 
 ----------
 
@@ -88,25 +88,25 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4402
-[/us/pl/104/201/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3153
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/104/201/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXI
 [/us/stat/110/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2839
-[/us/pl/107/314/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4402
-[/us/pl/108/136/s3141/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F3
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1764
-[/us/pl/113/66/s3146/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1076
 [/us/usc/t42/s7274k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274k
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/113/66/s3146/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FA
-[/us/pl/113/66/s3146/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FB
-[/us/pl/113/66/s3146/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FC
-[/us/pl/113/66/s3146/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FD
-[/us/pl/113/66/s3146/e/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FE
-[/us/pl/113/66/s3146/e/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FF
-[/us/pl/113/66/s3146/e/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FG
-[/us/pl/113/66/s3146/e/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F2%2FF
-[/us/pl/108/136/s3141/g/3/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F3%2FD%2Fi
-[/us/pl/108/136/s3141/g/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F3%2FD%2Fii
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

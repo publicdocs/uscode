@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5302 derived from [act July 2, 1864, ch. 225, § 5][/us/act/1864-07-02/ch225/s5], [13 Stat. 376][/us/stat/13/376].
+    R.S. § 5302 derived from [act July 2, 1864, ch. 225][/us/act/1864-07-02/ch225], § 5, [13 Stat. 376][/us/stat/13/376].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t50/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs205
-[/us/act/1864-07-02/ch225/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch225%2Fs5
+[/us/act/1864-07-02/ch225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch225
 [/us/stat/13/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F376
 
 

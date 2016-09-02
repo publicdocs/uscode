@@ -23,7 +23,7 @@
 
         The Secretary of Energy, in developing the criteria required by subsection (a), shall coordinate with the Secretary of Defense.
 
-([Pub. L. 107–314, div. D, title XLII, § 4202][/us/pl/107/314/s4202], formerly [Pub. L. 105–261, div. C, title XXXI, § 3158][/us/pl/105/261/s3158], Oct. 17, 1998, [112 Stat. 2257][/us/stat/112/2257]; [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4202][/us/pl/107/314/s4202], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(3)][/us/pl/108/136/s3141/e/3], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; [Pub. L. 111–84, div. C, title XXXI, § 3112][/us/pl/111/84/s3112], Oct. 28, 2009, [123 Stat. 2703][/us/stat/123/2703]; [Pub. L. 112–239, div. C, title XXXI, § 3133(b)(1)][/us/pl/112/239/s3133/b/1], (2), Jan. 2, 2013, [126 Stat. 2192][/us/stat/126/2192].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4202, formerly [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3158, Oct. 17, 1998, [112 Stat. 2257][/us/stat/112/2257]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4202, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(e)(3), Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3112, Oct. 28, 2009, [123 Stat. 2703][/us/stat/123/2703]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3133(b)(1), (2), Jan. 2, 2013, [126 Stat. 2192][/us/stat/126/2192].)
 
  __Codification__ 
 
@@ -31,13 +31,13 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 3133(b)(2)][/us/pl/112/239/s3133/b/2], substituted “Stockpile stewardship criteria” for “Report on stockpile stewardship criteria” in section catchline.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 3133(b)(2), substituted “Stockpile stewardship criteria” for “Report on stockpile stewardship criteria” in section catchline.
 
-    Subsecs. (c), (d). [Pub. L. 112–239, § 3133(b)(1)][/us/pl/112/239/s3133/b/1], struck out subsecs. (c) and (d), which related, respectively, to report and definitions.
+    Subsecs. (c), (d). [Pub. L. 112–239][/us/pl/112/239], § 3133(b)(1), struck out subsecs. (c) and (d), which related, respectively, to report and definitions.
 
-    2009—Subsec. (c). [Pub. L. 111–84, § 3112(a)][/us/pl/111/84/s3112/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) required submission of report not later than Mar. 1, 2000, to Congressional committees on Department of Energy efforts to develop subsec. (a) criteria.
+    2009—Subsec. (c). [Pub. L. 111–84][/us/pl/111/84], § 3112(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) required submission of report not later than Mar. 1, 2000, to Congressional committees on Department of Energy efforts to develop subsec. (a) criteria.
 
-    Subsec. (d). [Pub. L. 111–84, § 3112(b)][/us/pl/111/84/s3112/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–84][/us/pl/111/84], § 3112(b), added subsec. (d).
 
     1999—Subsec. (c). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security” before “of the House of Representatives”.
 
@@ -48,24 +48,24 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4202
-[/us/pl/105/261/s3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3158
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2257
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/107/314/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4202
-[/us/pl/108/136/s3141/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F3
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1758
-[/us/pl/111/84/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3112
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2703
-[/us/pl/112/239/s3133/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fb%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2192
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/112/239/s3133/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fb%2F2
-[/us/pl/112/239/s3133/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fb%2F1
-[/us/pl/111/84/s3112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3112%2Fa
-[/us/pl/111/84/s3112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3112%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 
 

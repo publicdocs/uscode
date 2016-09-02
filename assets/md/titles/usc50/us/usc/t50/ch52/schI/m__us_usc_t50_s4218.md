@@ -49,13 +49,13 @@
 
     (6) the term “Commission” means the Commission on Wartime Relocation and Internment of Civilians, established by the Commission on Wartime Relocation and Internment of Civilians Act.
 
-([Pub. L. 100–383, title I, § 108][/us/pl/100/383/s108], Aug. 10, 1988, [102 Stat. 910][/us/stat/102/910]; [Pub. L. 102–371, § 3][/us/pl/102/371/s3], Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167].)
+([Pub. L. 100–383, title I][/us/pl/100/383/tI], § 108, Aug. 10, 1988, [102 Stat. 910][/us/stat/102/910]; [Pub. L. 102–371][/us/pl/102/371], § 3, Sept. 27, 1992, [106 Stat. 1167][/us/stat/106/1167].)
 
  __References in Text__ 
 
     Executive Order Numbered 9066, dated February 19, 1942, referred to in par. (2)(B)(i)(I), is not classified to the Code.
 
-    The Act entitled “An Act to provide a penalty for violation of restrictions or orders with respect to persons entering, remaining in, leaving, or committing any act in military areas or zones”, approved March 21, 1942 ([56 Stat. 173][/us/stat/56/173]), referred to in par. (2)(B)(i)(II), is [act Mar. 21, 1942, ch. 191][/us/act/1942-03-21/ch191], [56 Stat. 173][/us/stat/56/173], which was classified to section 97a of former Title 18, Criminal Code and Criminal Procedure, and was repealed by [act of June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 868][/us/stat/62/868] and reenacted as [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure. [Section 1383 of Title 18][/us/usc/t18/s1383] was repealed by [Pub. L. 94–412, title V, § 501(e)][/us/pl/94/412/s501/e], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
+    The Act entitled “An Act to provide a penalty for violation of restrictions or orders with respect to persons entering, remaining in, leaving, or committing any act in military areas or zones”, approved March 21, 1942 ([56 Stat. 173][/us/stat/56/173]), referred to in par. (2)(B)(i)(II), is [act Mar. 21, 1942, ch. 191][/us/act/1942-03-21/ch191], [56 Stat. 173][/us/stat/56/173], which was classified to section 97a of former Title 18, Criminal Code and Criminal Procedure, and was repealed by [act of June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 868][/us/stat/62/868] and reenacted as [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure. [Section 1383 of Title 18][/us/usc/t18/s1383] was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(e), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
     The Commission on Wartime Relocation and Internment of Civilians Act, referred to in par. (6), is [Pub. L. 96–317][/us/pl/96/317], July 31, 1980, [94 Stat. 964][/us/stat/94/964], which was classified as a note under section 1981 of the former Appendix to this title and was omitted from the Code due to termination of Commission not later than 90 days after June 30, 1983.
 
@@ -77,18 +77,18 @@
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
 [/us/usc/t50/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4214
 [/us/usc/t50/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4216
-[/us/pl/100/383/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs108
+[/us/pl/100/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtI
 [/us/stat/102/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F910
-[/us/pl/102/371/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371%2Fs3
+[/us/pl/102/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F371
 [/us/stat/106/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1167
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
 [/us/act/1942-03-21/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-21%2Fch191
 [/us/stat/56/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F173
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F868
 [/us/usc/t18/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1383
 [/us/usc/t18/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1383
-[/us/pl/94/412/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fe
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/pl/96/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F317
 [/us/stat/94/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F964

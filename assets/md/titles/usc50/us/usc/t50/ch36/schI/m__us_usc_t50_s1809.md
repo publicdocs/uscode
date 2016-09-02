@@ -35,7 +35,7 @@
 
         There is Federal jurisdiction over an offense under this section if the person committing the offense was an officer or employee of the United States at the time the offense was committed.
 
-([Pub. L. 95–511, title I, § 109][/us/pl/95/511/s109], Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796]; [Pub. L. 110–261, title I, § 102(b)][/us/pl/110/261/s102/b], July 10, 2008, [122 Stat. 2459][/us/stat/122/2459]; [Pub. L. 111–259, title VIII, § 801(3)][/us/pl/111/259/s801/3], Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 109, Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], § 102(b), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 801(3), Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–259, § 801(3)(A)][/us/pl/111/259/s801/3/A], substituted “[section 1812 of this title][/us/usc/t50/s1812];” for “[section 1812 of this title][/us/usc/t50/s1812].;”.
+    2010—Subsec. (a)(1). [Pub. L. 111–259][/us/pl/111/259], § 801(3)(A), substituted “[section 1812 of this title][/us/usc/t50/s1812];” for “[section 1812 of this title][/us/usc/t50/s1812].;”.
 
-    Subsec. (a)(2). [Pub. L. 111–259, § 801(3)(B)][/us/pl/111/259/s801/3/B], substituted “title.” for “title..”
+    Subsec. (a)(2). [Pub. L. 111–259][/us/pl/111/259], § 801(3)(B), substituted “title.” for “title..”
 
     2008—Subsec. (a). [Pub. L. 110–261][/us/pl/110/261] substituted “authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under [section 1812 of this title][/us/usc/t50/s1812].” for “authorized by statute” in pars. (1) and (2).
 
@@ -62,19 +62,19 @@
 
 [/us/usc/t50/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812
 [/us/usc/t50/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812
-[/us/pl/95/511/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs109
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1796
-[/us/pl/110/261/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs102%2Fb
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2459
-[/us/pl/111/259/s801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs801%2F3
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2746
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/111/259/s801/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs801%2F3%2FA
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812
 [/us/usc/t50/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812
-[/us/pl/111/259/s801/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs801%2F3%2FB
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/usc/t50/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261

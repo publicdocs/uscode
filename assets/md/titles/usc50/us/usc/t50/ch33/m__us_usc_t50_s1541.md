@@ -27,23 +27,23 @@
 
         The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
 
-([Pub. L. 93–148, § 2][/us/pl/93/148/s2], Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555].)
+([Pub. L. 93–148][/us/pl/93/148], § 2, Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555].)
 
  __Effective Date__ 
 
-[Pub. L. 93–148, § 10][/us/pl/93/148/s10], Nov. 7, 1973, [87 Stat. 559][/us/stat/87/559], provided that: 
+[Pub. L. 93–148][/us/pl/93/148], § 10, Nov. 7, 1973, [87 Stat. 559][/us/stat/87/559], provided that: 
 
 > “This joint resolution \[enacting this chapter\] shall take effect on the date of its enactment \[Nov. 7, 1973\].”
 
  __Short Title__ 
 
-[Pub. L. 93–148, § 1][/us/pl/93/148/s1], Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555], provided that: 
+[Pub. L. 93–148][/us/pl/93/148], § 1, Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555], provided that: 
 
 > “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
 
  __Report on Responsible Redeployment of United States Armed Forces From Iraq__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1227][/us/pl/111/84/s1227], Oct. 28, 2009, [123 Stat. 2525][/us/stat/123/2525], as amended by [Pub. L. 111–383, div. A, title XII, § 1233(a)][/us/pl/111/383/s1233/a]–(e), Jan. 7, 2011, [124 Stat. 4396][/us/stat/124/4396], 4397, provided that:
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1227, Oct. 28, 2009, [123 Stat. 2525][/us/stat/123/2525], as amended by [Pub. L. 111–383, div. A, title XII][/us/pl/111/383/dA/tXII], § 1233(a)–(e), Jan. 7, 2011, [124 Stat. 4396][/us/stat/124/4396], 4397, provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __United States Policy on Iraq__ 
 
-    [Pub. L. 109–163, div. A, title XII, § 1227][/us/pl/109/163/s1227], Jan. 6, 2006, [119 Stat. 3465][/us/stat/119/3465], as amended by [Pub. L. 110–181, div. A, title XII, § 1223(a)(1)][/us/pl/110/181/s1223/a/1], (b), Jan. 28, 2008, [122 Stat. 373][/us/stat/122/373], 374, known as the “United States Policy in Iraq Act”, which required the President to submit reports to Congress on United States policy and military operations in Iraq not later than 90 days after Jan. 6, 2006, and every three months thereafter, until all United States combat brigades had been redeployed from Iraq, and required congressional briefings by senior officials of the Department of Defense subsequent to the submission of each such report, was repealed by [Pub. L. 111–383, div. A, title XII, § 1233(f)(1)][/us/pl/111/383/s1233/f/1], Jan. 7, 2011, [124 Stat. 4397][/us/stat/124/4397].
+    [Pub. L. 109–163, div. A, title XII][/us/pl/109/163/dA/tXII], § 1227, Jan. 6, 2006, [119 Stat. 3465][/us/stat/119/3465], as amended by [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1223(a)(1), (b), Jan. 28, 2008, [122 Stat. 373][/us/stat/122/373], 374, known as the “United States Policy in Iraq Act”, which required the President to submit reports to Congress on United States policy and military operations in Iraq not later than 90 days after Jan. 6, 2006, and every three months thereafter, until all United States combat brigades had been redeployed from Iraq, and required congressional briefings by senior officials of the Department of Defense subsequent to the submission of each such report, was repealed by [Pub. L. 111–383, div. A, title XII][/us/pl/111/383/dA/tXII], § 1233(f)(1), Jan. 7, 2011, [124 Stat. 4397][/us/stat/124/4397].
 
  __Authorization for Use of Military Force Against Iraq Resolution of 2002__ 
 
@@ -227,13 +227,13 @@
 
  __Limitation on Deployment of Armed Forces in Haiti During Fiscal Year 2000 and Congressional Notice of Deployments to Haiti__ 
 
-[Pub. L. 106–65, div. A, title XII, § 1232][/us/pl/106/65/s1232], Oct. 5, 1999, [113 Stat. 788][/us/stat/113/788], as amended by [Pub. L. 107–107, div. A, title XII, § 1222][/us/pl/107/107/s1222], Dec. 28, 2001, [115 Stat. 1253][/us/stat/115/1253], provided that:
+[Pub. L. 106–65, div. A, title XII][/us/pl/106/65/dA/tXII], § 1232, Oct. 5, 1999, [113 Stat. 788][/us/stat/113/788], as amended by [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1222, Dec. 28, 2001, [115 Stat. 1253][/us/stat/115/1253], provided that:
 
 >     “(a)  __Limitation on Deployment__  __.—__ 
 
 >     No funds available to the Department of Defense during fiscal year 2000 may be expended after May 31, 2000, for the continuous deployment of United States Armed Forces in Haiti pursuant to the Department of Defense operation designated as Operation Uphold Democracy.
 
->     “\[(b) Repealed. [Pub. L. 107–107, div. A, title XII, § 1222][/us/pl/107/107/s1222], Dec. 28, 2001, [115 Stat. 1253][/us/stat/115/1253].\]”
+>     “\[(b) Repealed. [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1222, Dec. 28, 2001, [115 Stat. 1253][/us/stat/115/1253].\]”
 
  __Involvement of Armed Forces in Haiti__ 
 
@@ -325,7 +325,7 @@
 
  __Involvement of Armed Forces in Somalia__ 
 
-[Pub. L. 103–160, div. A, title XV, § 1512][/us/pl/103/160/s1512], Nov. 30, 1993, [107 Stat. 1840][/us/stat/107/1840], provided that:
+[Pub. L. 103–160, div. A, title XV][/us/pl/103/160/dA/tXV], § 1512, Nov. 30, 1993, [107 Stat. 1840][/us/stat/107/1840], provided that:
 
 >     “(a) __Sense of Congress Regarding United States Policy Toward Somalia.—__ 
 
@@ -355,7 +355,7 @@
 
  __Duration of Authorization for United States Participation in Multinational Force in Somalia__ 
 
-[Pub. L. 103–139, title VIII, § 8151][/us/pl/103/139/s8151], Nov. 11, 1993, [107 Stat. 1475][/us/stat/107/1475], provided that:
+[Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8151, Nov. 11, 1993, [107 Stat. 1475][/us/stat/107/1475], provided that:
 
 >     “(a)
 
@@ -397,7 +397,7 @@
 
  __Authorization for Use of Military Force Against Iraq Resolution__ 
 
-[Pub. L. 102–1][/us/pl/102/1], Jan. 14, 1991, [105 Stat. 3][/us/stat/105/3], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 207\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422, provided that:
+[Pub. L. 102–1][/us/pl/102/1], Jan. 14, 1991, [105 Stat. 3][/us/stat/105/3], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 207\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422, provided that:
 
 >     “Whereas the Government of Iraq without provocation invaded and occupied the territory of Kuwait on August 2, 1990;
 
@@ -441,7 +441,7 @@
 
  __Introduction of United States Armed Forces Into Central America for Combat__ 
 
-[Pub. L. 98–525, title III, § 310][/us/pl/98/525/s310], Oct. 19, 1984, [98 Stat. 2516][/us/stat/98/2516], provided that:
+[Pub. L. 98–525, title III][/us/pl/98/525/tIII], § 310, Oct. 19, 1984, [98 Stat. 2516][/us/stat/98/2516], provided that:
 
 >     “(a)
 
@@ -461,7 +461,7 @@
 
 >         “(2) if circumstances change from those present on the date of the enactment of this Act and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consult with Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\].”
 
-[Pub. L. 98–473, title I, § 101(h)][/us/pl/98/473/s101/h] \[title VIII, § 8101\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1942, provided that:
+[Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(h) \[title VIII, § 8101\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1942, provided that:
 
 >     “(a)
 
@@ -577,7 +577,7 @@
 
  __Adherence to War Powers Resolution__ 
 
-[Pub. L. 96–342, title X, § 1008][/us/pl/96/342/s1008], Sept. 8, 1980, [94 Stat. 1122][/us/stat/94/1122], provided that: 
+[Pub. L. 96–342, title X][/us/pl/96/342/tX], § 1008, Sept. 8, 1980, [94 Stat. 1122][/us/stat/94/1122], provided that: 
 
 > “Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution ([Public Law 93–148][/us/pl/93/148]) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is therefore the sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution.”
 
@@ -600,21 +600,21 @@
 ----------
 ----------
 
-[/us/pl/93/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs2
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
-[/us/pl/93/148/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs10
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F559
-[/us/pl/93/148/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs1
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
-[/us/pl/111/84/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1227
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2525
-[/us/pl/111/383/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1233%2Fa
+[/us/pl/111/383/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXII
 [/us/stat/124/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4396
-[/us/pl/109/163/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1227
+[/us/pl/109/163/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXII
 [/us/stat/119/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3465
-[/us/pl/110/181/s1223/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1223%2Fa%2F1
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F373
-[/us/pl/111/383/s1233/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1233%2Ff%2F1
+[/us/pl/111/383/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXII
 [/us/stat/124/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4397
 [/us/pl/107/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F243
 [/us/stat/116/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1498
@@ -638,28 +638,28 @@
 [/us/usc/t50/s1547/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1547%2Fa%2F1
 [/us/usc/t50/s1544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1544%2Fb
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/106/65/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1232
+[/us/pl/106/65/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXII
 [/us/stat/113/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F788
-[/us/pl/107/107/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1222
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1253
-[/us/pl/107/107/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1222
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1253
 [/us/pl/103/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F423
 [/us/stat/108/4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4358
-[/us/pl/103/160/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1512
+[/us/pl/103/160/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXV
 [/us/stat/107/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1840
-[/us/pl/103/139/s8151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8151
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1475
 [/us/pl/102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F1
 [/us/stat/105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F3
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t50/s1547/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1547%2Fa%2F1
 [/us/usc/t50/s1544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1544%2Fb
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/98/525/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs310
+[/us/pl/98/525/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtIII
 [/us/stat/98/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2516
-[/us/pl/98/473/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fh
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1904
 [/us/pl/98/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F119
 [/us/stat/97/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F805
@@ -670,7 +670,7 @@
 [/us/usc/t50/s1543/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1543%2Fc
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/96/342/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs1008
+[/us/pl/96/342/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtX
 [/us/stat/94/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1122
 [/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

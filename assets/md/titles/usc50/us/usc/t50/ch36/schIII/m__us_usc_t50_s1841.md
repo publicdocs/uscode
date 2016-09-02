@@ -51,7 +51,7 @@
 
         (D) Nothing in this paragraph shall be construed to preclude the use of multiple terms or identifiers to meet the requirements of subparagraph (A).
 
-([Pub. L. 95–511, title IV, § 401][/us/pl/95/511/s401], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; amended [Pub. L. 114–23, title II, § 201(b)][/us/pl/114/23/s201/b], June 2, 2015, [129 Stat. 277][/us/stat/129/277].)
+([Pub. L. 95–511, title IV][/us/pl/95/511/tIV], § 401, as added [Pub. L. 105–272, title VI][/us/pl/105/272/tVI], § 601(2), Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; amended [Pub. L. 114–23, title II][/us/pl/114/23/tII], § 201(b), June 2, 2015, [129 Stat. 277][/us/stat/129/277].)
 
  __Prior Provisions__ 
 
@@ -72,10 +72,10 @@
 [/us/usc/t18/s3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3127
 [/us/usc/t50/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881
 [/us/usc/t18/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2711
-[/us/pl/95/511/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs401
-[/us/pl/105/272/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs601%2F2
+[/us/pl/95/511/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIV
+[/us/pl/105/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVI
 [/us/stat/112/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2404
-[/us/pl/114/23/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs201%2Fb
+[/us/pl/114/23/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtII
 [/us/stat/129/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F277
 [/us/pl/95/511/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs401
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

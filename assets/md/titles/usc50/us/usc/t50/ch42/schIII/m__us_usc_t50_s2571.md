@@ -61,7 +61,7 @@
 
         Amounts available to the Department of Energy for defense nuclear nonproliferation activities shall be available for the fellowships authorized by subsection (a).
 
-([Pub. L. 108–375, div. C, title XXXI, § 3134][/us/pl/108/375/s3134], Oct. 28, 2004, [118 Stat. 2169][/us/stat/118/2169].)
+([Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3134, Oct. 28, 2004, [118 Stat. 2169][/us/stat/118/2169].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Program on Scientific Engagement for Nonproliferation__ 
 
-[Pub. L. 112–239, div. C, title XXXI, § 3122][/us/pl/112/239/s3122], Jan. 2, 2013, [126 Stat. 2176][/us/stat/126/2176], as amended by [Pub. L. 113–66, div. C, title XXXI, § 3125][/us/pl/113/66/s3125], Dec. 26, 2013, [127 Stat. 1063][/us/stat/127/1063], provided that:
+[Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3122, Jan. 2, 2013, [126 Stat. 2176][/us/stat/126/2176], as amended by [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3125, Dec. 26, 2013, [127 Stat. 1063][/us/stat/127/1063], provided that:
 
 >     “(a) __Program Required.—__ 
 
@@ -176,11 +176,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3134
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2169
-[/us/pl/112/239/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3122
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2176
-[/us/pl/113/66/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3125
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1063
 
 

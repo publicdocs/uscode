@@ -33,7 +33,7 @@
 
         In this section, the term “phase 6.2 activities” means, with respect to a lifetime extension program, the phase 6.2 feasibility study and option down-select.
 
-([Pub. L. 107–314, div. D, title XLII, § 4216][/us/pl/107/314/s4216], as added [Pub. L. 112–239, div. C, title XXXI, § 3141(a)][/us/pl/112/239/s3141/a], Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193]; amended [Pub. L. 113–66, div. C, title XXXI, § 3146(a)(2)(B)][/us/pl/113/66/s3146/a/2/B], Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4216, as added [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3141(a), Jan. 2, 2013, [126 Stat. 2193][/us/stat/126/2193]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(a)(2)(B), Dec. 26, 2013, [127 Stat. 1072][/us/stat/127/1072].)
 
  __Amendments__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4216
-[/us/pl/112/239/s3141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3141%2Fa
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2193
-[/us/pl/113/66/s3146/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fa%2F2%2FB
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1072
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179

@@ -23,7 +23,7 @@
 
         During fiscal year 1992, there may be obligated from the Fund such amounts as may be provided in appropriations Acts, not to exceed $35,000,000. Amounts made available for obligation from the Fund for fiscal year 1992 shall remain available until expended.
 
-([Pub. L. 102–183, title VIII, § 809][/us/pl/102/183/s809], Dec. 4, 1991, [105 Stat. 1277][/us/stat/105/1277].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 809, Dec. 4, 1991, [105 Stat. 1277][/us/stat/105/1277].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/183/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs809
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1277
 
 

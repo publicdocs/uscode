@@ -23,7 +23,7 @@
 
     (b) During the present war, no enemy, or ally of enemy, and no partnership of which he is a member or was a member at the beginning of the war, shall for any purpose assume or use any name other than that by which such enemy or partnership was ordinarily known at the beginning of the war, except under license from the President.    Whenever, during the present war, in the opinion of the President the public safety or public interest requires, the President may prohibit any or all foreign insurance companies from doing business in the United States, or the President may license such company or companies to do business upon such terms as he may deem proper.
 
-([Oct. 6, 1917, ch. 106, § 4][/us/act/1917-10-06/ch106/s4], [40 Stat. 413][/us/stat/40/413].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 4, [40 Stat. 413][/us/stat/40/413].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
-[/us/act/1917-10-06/ch106/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs4
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F413
 [/us/stat/40/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1654
 [/us/stat/40/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1684

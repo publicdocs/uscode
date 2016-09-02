@@ -23,7 +23,7 @@
 
         In order to carry out the Foreign Languages Program, the Secretary of Defense and the Director of National Intelligence shall jointly identify actions required to improve the education of personnel in the intelligence community in foreign languages that are critical to the capability of the intelligence community to carry out the national security activities of the United States and to meet the long-term intelligence needs of the United States.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1011, as added [Pub. L. 108–487, title VI, § 612(a)(2)][/us/pl/108/487/s612/a/2], Dec. 23, 2004, [118 Stat. 3955][/us/stat/118/3955].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1011, as added [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 612(a)(2), Dec. 23, 2004, [118 Stat. 3955][/us/stat/118/3955].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Pilot Program for Intensive Language Instruction in African Languages__ 
 
-[Pub. L. 111–259, title III, § 314][/us/pl/111/259/s314], Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666], provided that:
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 314, Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -67,10 +67,10 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/487/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs612%2Fa%2F2
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3955
 [/us/usc/t50/s441j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441j
-[/us/pl/111/259/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs314
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2666
 [/us/usc/t50/s1903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1903%2Fa
 [/us/usc/t50/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1901

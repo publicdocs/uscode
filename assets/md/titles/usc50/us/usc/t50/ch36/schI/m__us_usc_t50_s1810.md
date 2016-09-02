@@ -23,7 +23,7 @@
 
     (c) reasonable attorney’s fees and other investigation and litigation costs reasonably incurred.
 
-([Pub. L. 95–511, title I, § 110][/us/pl/95/511/s110], Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796].)
+([Pub. L. 95–511, title I][/us/pl/95/511/tI], § 110, Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t50/s1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1809
-[/us/pl/95/511/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs110
+[/us/pl/95/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtI
 [/us/stat/92/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1796
 
 

@@ -27,7 +27,7 @@
 
         (3) with respect to any other war the term “date of cessation of hostilities” shall mean the date specified by proclamation of the President or by a concurrent resolution of the two Houses of Congress whichever is the earlier.
 
-([Oct. 6, 1917, ch. 106, § 38][/us/act/1917-10-06/ch106/s38], formerly § —, as added [May 16, 1946, ch. 260][/us/act/1946-05-16/ch260], [60 Stat. 182][/us/stat/60/182], numbered [Aug. 8, 1946, ch. 878, § 3][/us/act/1946-08-08/ch878/s3], [60 Stat. 930][/us/stat/60/930].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 38, formerly § —, as added [May 16, 1946, ch. 260][/us/act/1946-05-16/ch260], [60 Stat. 182][/us/stat/60/182], numbered [Aug. 8, 1946, ch. 878][/us/act/1946-08-08/ch878], § 3, [60 Stat. 930][/us/stat/60/930].)
 
  __References in Text__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs38
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/act/1946-05-16/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-05-16%2Fch260
 [/us/stat/60/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F182
-[/us/act/1946-08-08/ch878/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878%2Fs3
+[/us/act/1946-08-08/ch878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch878
 [/us/stat/60/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F930
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

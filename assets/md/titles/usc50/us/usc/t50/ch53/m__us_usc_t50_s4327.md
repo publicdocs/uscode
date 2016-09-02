@@ -17,7 +17,7 @@
 
     Any money or other property returnable under subsection (b) or (n) of [section 4309 of this title][/us/usc/t50/s4309] shall, at any time prior to such return, be subject to attachment in accordance with the provisions of the code of law for the District of Columbia, as amended, relating to attachments in suits at law and to attachments for the enforcement of judgments at law and decrees in equity, but any writ of attachment or garnishment issuing in any such suit, or for the enforcement of any judgment or decree, shall be served only upon the Alien Property Custodian, who shall for the purposes of this section be considered as holding credits in favor of the person entitled to such return to the extent of the value of the money or other property so returnable. Nothing in this section shall be construed as authorizing the taking of actual possession, by any officer of any court, of any money or other property held by the Alien Property Custodian or by the Treasurer of the United States.
 
-([Oct. 6, 1917, ch. 106, § 30][/us/act/1917-10-06/ch106/s30], as added [Mar. 10, 1928, ch. 167, § 15][/us/act/1928-03-10/ch167/s15], [45 Stat. 275][/us/stat/45/275].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 30, as added [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 15, [45 Stat. 275][/us/stat/45/275].)
 
  __Codification__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
-[/us/act/1917-10-06/ch106/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs30
-[/us/act/1928-03-10/ch167/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs15
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F275
 [/us/stat/61/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F951
 

@@ -105,7 +105,7 @@
 
         Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
 
-([Pub. L. 95–511, title III, § 304][/us/pl/95/511/s304], as added [Pub. L. 103–359, title VIII, § 807(a)(3)][/us/pl/103/359/s807/a/3], Oct. 14, 1994, [108 Stat. 3447][/us/stat/108/3447]; amended [Pub. L. 106–567, title VI, § 603(b)][/us/pl/106/567/s603/b], Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853]; [Pub. L. 107–56, title II, § 207(a)(2)][/us/pl/107/56/s207/a/2], (b)(2), Oct. 26, 2001, [115 Stat. 282][/us/stat/115/282]; [Pub. L. 107–108, title III, § 314(a)(4)][/us/pl/107/108/s314/a/4], Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402]; [Pub. L. 108–458, title I, § 1071(e)][/us/pl/108/458/s1071/e], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I, § 105(b)][/us/pl/109/177/s105/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 107(b), (c)(1), 110(c)(3), July 10, 2008, [122 Stat. 2463][/us/stat/122/2463], 2464, 2467; [Pub. L. 111–259, title VIII][/us/pl/111/259], §§ 801(5), 806(a)(2), Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746], 2748.)
+([Pub. L. 95–511, title III][/us/pl/95/511/tIII], § 304, as added [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 807(a)(3), Oct. 14, 1994, [108 Stat. 3447][/us/stat/108/3447]; amended [Pub. L. 106–567, title VI][/us/pl/106/567/tVI], § 603(b), Dec. 27, 2000, [114 Stat. 2853][/us/stat/114/2853]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 207(a)(2), (b)(2), Oct. 26, 2001, [115 Stat. 282][/us/stat/115/282]; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 314(a)(4), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(e), Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 105(b), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], §§ 107(b), (c)(1), 110(c)(3), July 10, 2008, [122 Stat. 2463][/us/stat/122/2463], 2464, 2467; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], §§ 801(5), 806(a)(2), Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746], 2748.)
 
  __References in Text__ 
 
@@ -113,23 +113,23 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–259, § 801(5)][/us/pl/111/259/s801/5], substituted “subsection (a)(2)” for “subsection (a)(3)”.
+    2010—Subsec. (b). [Pub. L. 111–259][/us/pl/111/259], § 801(5), substituted “subsection (a)(2)” for “subsection (a)(3)”.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–259, § 806(a)(2)][/us/pl/111/259/s806/a/2], made technical amendment to directory language of [Pub. L. 108–458][/us/pl/108/458]. See 2004 Amendment note below.
+    Subsec. (c)(2)(C). [Pub. L. 111–259][/us/pl/111/259], § 806(a)(2), made technical amendment to directory language of [Pub. L. 108–458][/us/pl/108/458]. See 2004 Amendment note below.
 
-    2008—Subsec. (a). [Pub. L. 110–261, § 107(b)(1)][/us/pl/110/261/s107/b/1], (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted “or is about to be” before “owned” in par. (2)(B), substituted “1823(a)(6)(E)” for “1823(a)(7)(E)” in par. (4), and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;”.
+    2008—Subsec. (a). [Pub. L. 110–261][/us/pl/110/261], § 107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted “or is about to be” before “owned” in par. (2)(B), substituted “1823(a)(6)(E)” for “1823(a)(7)(E)” in par. (4), and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;”.
 
-    Subsec. (d)(2). [Pub. L. 110–261, § 110(c)(3)][/us/pl/110/261/s110/c/3], substituted “paragraph (5), (6), or (7) of section 1801(a)” for “section 1801(a)(5) or (6)”.
+    Subsec. (d)(2). [Pub. L. 110–261][/us/pl/110/261], § 110(c)(3), substituted “paragraph (5), (6), or (7) of section 1801(a)” for “section 1801(a)(5) or (6)”.
 
-    Subsec. (e). [Pub. L. 110–261, § 107(b)(2)][/us/pl/110/261/s107/b/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the power of the Attorney General to authorize the emergency employment of a physical search and required an application be made to a judge within 72 hours after the authorization.
+    Subsec. (e). [Pub. L. 110–261][/us/pl/110/261], § 107(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the power of the Attorney General to authorize the emergency employment of a physical search and required an application be made to a judge within 72 hours after the authorization.
 
     2006—Subsec. (d)(1)(B), (2). [Pub. L. 109–177][/us/pl/109/177] substituted “who is not a United States person” for “as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A]”.
 
-    2004—Subsec. (c)(2)(C). [Pub. L. 108–458][/us/pl/108/458], as amended by [Pub. L. 111–259, § 806(a)(2)][/us/pl/111/259/s806/a/2], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    2004—Subsec. (c)(2)(C). [Pub. L. 108–458][/us/pl/108/458], as amended by [Pub. L. 111–259][/us/pl/111/259], § 806(a)(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    2001—Subsec. (d)(1). [Pub. L. 107–56, § 207(a)(2)][/us/pl/107/56/s207/a/2], substituted “90 days,” for “forty-five days,” and inserted “(A)” after “except that” and “, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A] may be for the period specified in the application or for 120 days, whichever is less” before period at end.
+    2001—Subsec. (d)(1). [Pub. L. 107–56][/us/pl/107/56], § 207(a)(2), substituted “90 days,” for “forty-five days,” and inserted “(A)” after “except that” and “, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A] may be for the period specified in the application or for 120 days, whichever is less” before period at end.
 
-    Subsec. (d)(2). [Pub. L. 107–56, § 207(b)(2)][/us/pl/107/56/s207/b/2], inserted “or against an agent of a foreign power as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A],” after “not a United States person,”.
+    Subsec. (d)(2). [Pub. L. 107–56][/us/pl/107/56], § 207(b)(2), inserted “or against an agent of a foreign power as defined in [section 1801(b)(1)(A) of this title][/us/usc/t50/s1801/b/1/A],” after “not a United States person,”.
 
     Subsec. (e)(1)(A)(ii), (3)(C). [Pub. L. 107–108][/us/pl/107/108] substituted “72 hours” for “24 hours”.
 
@@ -160,39 +160,39 @@
 [/us/usc/t50/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fa
 [/us/usc/t50/s1801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fa%2F4
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
-[/us/pl/95/511/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs304
-[/us/pl/103/359/s807/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs807%2Fa%2F3
+[/us/pl/95/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIII
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3447
-[/us/pl/106/567/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs603%2Fb
+[/us/pl/106/567/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVI
 [/us/stat/114/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2853
-[/us/pl/107/56/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs207%2Fa%2F2
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F282
-[/us/pl/107/108/s314/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fa%2F4
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
-[/us/pl/108/458/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fe
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
-[/us/pl/109/177/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs105%2Fb
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
-[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2463
-[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2746
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/111/259/s801/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs801%2F5
-[/us/pl/111/259/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F2
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/110/261/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs107%2Fb%2F1
-[/us/pl/110/261/s110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fc%2F3
-[/us/pl/110/261/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs107%2Fb%2F2
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/111/259/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F2
-[/us/pl/107/56/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs207%2Fa%2F2
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
-[/us/pl/107/56/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs207%2Fb%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567

@@ -17,7 +17,7 @@
 
     Unless otherwise indicated, as used in this chapter the term “United States” means the several States the District of Columbia, and the territories and possessions of the United States.
 
-([Pub. L. 91–121, title IV, § 409(d)][/us/pl/91/121/s409/d], Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210].)
+([Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409(d), Nov. 19, 1969, [83 Stat. 210][/us/stat/83/210].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/121/s409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409%2Fd
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F210
 
 

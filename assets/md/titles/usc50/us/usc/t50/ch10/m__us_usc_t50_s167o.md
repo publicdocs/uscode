@@ -51,7 +51,7 @@
 
         There is authorized to be appropriated to carry out this section $3,000,000.
 
-([Mar. 3, 1925, ch. 426, § 17][/us/act/1925-03-03/ch426/s17], as added [Pub. L. 113–40, § 6(3)][/us/pl/113/40/s6/3], Oct. 2, 2013, [127 Stat. 542][/us/stat/127/542].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 17, as added [Pub. L. 113–40][/us/pl/113/40], § 6(3), Oct. 2, 2013, [127 Stat. 542][/us/stat/127/542].)
 
  __Prior Provisions__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch426/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs17
-[/us/pl/113/40/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs6%2F3
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F542
 [/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
 [/us/usc/t50/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs167

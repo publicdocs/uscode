@@ -49,7 +49,7 @@
 
             Containing an area of 331 acres, more or less.
 
-([Mar. 3, 1925, ch. 426, § 12][/us/act/1925-03-03/ch426/s12], as added [Pub. L. 86–777, § 2][/us/pl/86/777/s2], Sept. 13, 1960, [74 Stat. 923][/us/stat/74/923]; amended [Pub. L. 104–273, § 6][/us/pl/104/273/s6], Oct. 9, 1996, [110 Stat. 3318][/us/stat/110/3318].)
+([Mar. 3, 1925, ch. 426][/us/act/1925-03-03/ch426], § 12, as added [Pub. L. 86–777][/us/pl/86/777], § 2, Sept. 13, 1960, [74 Stat. 923][/us/stat/74/923]; amended [Pub. L. 104–273][/us/pl/104/273], § 6, Oct. 9, 1996, [110 Stat. 3318][/us/stat/110/3318].)
 
  __Amendments__ 
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch426/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426%2Fs12
-[/us/pl/86/777/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777%2Fs2
+[/us/act/1925-03-03/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch426
+[/us/pl/86/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F777
 [/us/stat/74/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F923
-[/us/pl/104/273/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273%2Fs6
+[/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 [/us/stat/110/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3318
 [/us/pl/104/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F273
 

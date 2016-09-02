@@ -33,7 +33,7 @@
 
     (4) the term “spoils of war” means enemy movable property lawfully captured, seized, confiscated, or found which has become United States property in accordance with the laws of war.
 
-([Pub. L. 103–236, title V, § 555][/us/pl/103/236/s555], Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482].)
+([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 555, Apr. 30, 1994, [108 Stat. 482][/us/stat/108/482].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs555
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F482
 
 

@@ -27,13 +27,13 @@
 
         In computing the lump-sum payments made to Air Force reserve officers under the provisions of [section 2 of the Act of June 16, 1936][/us/act/1936-06-16/s2], as amended and to reserve officers of the Navy or to their beneficiaries under [section 12 of the Act of August 4, 1942][/us/act/1942-08-04/s12], as amended, no credit shall be allowed for any period of active service performed from June 24, 1948, to the date on which this chapter shall cease to be effective. Each such lumpsum payment shall be prorated for a fractional part of a year of active service in the case of any reserve officer subject to the provisions of either such section, if such reserve officer performs continuous active service for one or more years (inclusive of such service performed during the period in which this chapter is effective) and such active service includes a fractional part of a year immediately prior to June 24, 1948, or immediately following the date on which this chapter shall cease to be effective, or both.
 
-([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 13, [62 Stat. 623][/us/stat/62/623]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(t), [65 Stat. 87][/us/stat/65/87]; [Pub. L. 88–110, § 6][/us/pl/88/110/s6], Sept. 3, 1963, [77 Stat. 136][/us/stat/77/136]; [Pub. L. 92–129, title I, § 101(a)(32)][/us/pl/92/129/s101/a/32], Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353].)
+([June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], title I, § 13, [62 Stat. 623][/us/stat/62/623]; [June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 1(t), [65 Stat. 87][/us/stat/65/87]; [Pub. L. 88–110][/us/pl/88/110], § 6, Sept. 3, 1963, [77 Stat. 136][/us/stat/77/136]; [Pub. L. 92–129, title I][/us/pl/92/129/tI], § 101(a)(32), Sept. 28, 1971, [85 Stat. 353][/us/stat/85/353].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this title”, meaning title I of [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-    [Section 9 of the Act of August 2, 1939][/us/act/1939-08-02/s9], referred to in subsec. (a), is section 9 of [act Aug. 2, 1939, ch. 410][/us/act/1939-08-02/ch410], [53 Stat. 1148][/us/stat/53/1148], which was classified to section 118i(a) of former title 5, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378], and reenactment as [section 7324(a)(2) of Title 5][/us/usc/t5/s7324/a/2], Government Organization and Employees. [Section 7324 of Title 5][/us/usc/t5/s7324] was omitted and a new section 7324 enacted in the general amendment of subchapter III (§ 7321 et seq.) of chapter 73 of Title 5 by [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001]. See [section 7323(b)(2)(A) of Title 5][/us/usc/t5/s7323/b/2/A].
+    [Section 9 of the Act of August 2, 1939][/us/act/1939-08-02/s9], referred to in subsec. (a), is section 9 of [act Aug. 2, 1939, ch. 410][/us/act/1939-08-02/ch410], [53 Stat. 1148][/us/stat/53/1148], which was classified to section 118i(a) of former title 5, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378], and reenactment as [section 7324(a)(2) of Title 5][/us/usc/t5/s7324/a/2], Government Organization and Employees. [Section 7324 of Title 5][/us/usc/t5/s7324] was omitted and a new section 7324 enacted in the general amendment of subchapter III (§ 7321 et seq.) of chapter 73 of Title 5 by [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001]. See [section 7323(b)(2)(A) of Title 5][/us/usc/t5/s7323/b/2/A].
 
     The Administrative Procedure Act, referred to in subsec. (b), is [act June 11, 1946, ch. 324][/us/act/1946-06-11/ch324], [60 Stat. 237][/us/stat/60/237], which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]. See Short Title note preceding [section 551 of Title 5][/us/usc/t5/s551].
 
@@ -73,9 +73,9 @@
 [/us/stat/62/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F623
 [/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
 [/us/stat/65/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F87
-[/us/pl/88/110/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110%2Fs6
+[/us/pl/88/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F110
 [/us/stat/77/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F136
-[/us/pl/92/129/s101/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs101%2Fa%2F32
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F353
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
@@ -86,7 +86,7 @@
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t5/s7324/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324%2Fa%2F2
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1001
 [/us/usc/t5/s7323/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7323%2Fb%2F2%2FA
 [/us/act/1946-06-11/ch324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-11%2Fch324

@@ -93,7 +93,7 @@
 
         The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105, as added [Pub. L. 102–496, title VII, § 706(a)][/us/pl/102/496/s706/a], Oct. 24, 1992, [106 Stat. 3194][/us/stat/106/3194]; amended [Pub. L. 103–359, title V, § 501(a)(2)][/us/pl/103/359/s501/a/2], Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428]; [Pub. L. 104–201, div. A, title XI, § 1114(a)][/us/pl/104/201/s1114/a], Sept. 23, 1996, [110 Stat. 2684][/us/stat/110/2684]; [Pub. L. 104–293, title VIII, § 808][/us/pl/104/293/s808], Oct. 11, 1996, [110 Stat. 3481][/us/stat/110/3481]; [Pub. L. 107–306, title VIII, § 811(b)(1)(A)][/us/pl/107/306/s811/b/1/A], Nov. 27, 2002, [116 Stat. 2421][/us/stat/116/2421]; [Pub. L. 108–136, div. A, title IX, § 921(e)(2)][/us/pl/108/136/s921/e/2], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 108–177, title III, § 361(a)][/us/pl/108/177/s361/a], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690, 3692, 3694; [Pub. L. 112–18, title IV, § 411][/us/pl/112/18/s411], June 8, 2011, [125 Stat. 228][/us/stat/125/228].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 105, as added [Pub. L. 102–496, title VII][/us/pl/102/496/tVII], § 706(a), Oct. 24, 1992, [106 Stat. 3194][/us/stat/106/3194]; amended [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(a)(2), Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1114(a), Sept. 23, 1996, [110 Stat. 2684][/us/stat/110/2684]; [Pub. L. 104–293, title VIII][/us/pl/104/293/tVIII], § 808, Oct. 11, 1996, [110 Stat. 3481][/us/stat/110/3481]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(1)(A), Nov. 27, 2002, [116 Stat. 2421][/us/stat/116/2421]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(e)(2), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(a), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], §§ 1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, [118 Stat. 3689][/us/stat/118/3689], 3690, 3692, 3694; [Pub. L. 112–18, title IV][/us/pl/112/18/tIV], § 411, June 8, 2011, [125 Stat. 228][/us/stat/125/228].)
 
  __Codification__ 
 
@@ -101,39 +101,39 @@
 
  __Amendments__ 
 
-    2011—Subsec. (b)(5). [Pub. L. 112–18, § 411(1)][/us/pl/112/18/s411/1], inserted “and counterintelligence” after “human intelligence”.
+    2011—Subsec. (b)(5). [Pub. L. 112–18][/us/pl/112/18], § 411(1), inserted “and counterintelligence” after “human intelligence”.
 
-    Subsecs. (c), (d). [Pub. L. 112–18, § 411(2)][/us/pl/112/18/s411/2], (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 112–18][/us/pl/112/18], § 411(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    2004—[Pub. L. 108–458, § 1074(b)(1)(B)(ii)][/us/pl/108/458/s1074/b/1/B/ii], struck out “Foreign” before “Intelligence” in section catchline.
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 1074(b)(1)(B)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–458, § 1072(a)(2)][/us/pl/108/458/s1072/a/2], substituted “Consistent with sections 403 and 403–1 of this title, the Secretary” for “The Secretary” in introductory provisions.
+    Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 1072(a)(2), substituted “Consistent with sections 403 and 403–1 of this title, the Secretary” for “The Secretary” in introductory provisions.
 
-    [Pub. L. 108–458, § 1071(a)(1)(E)][/us/pl/108/458/s1071/a/1/E], substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+    [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(E), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 108–458, § 1074(b)(1)(B)(i)][/us/pl/108/458/s1074/b/1/B/i], substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
+    Subsec. (a)(2). [Pub. L. 108–458][/us/pl/108/458], § 1074(b)(1)(B)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
 
-    [Pub. L. 108–458, § 1071(a)(2)(A)][/us/pl/108/458/s1071/a/2/A], struck out “of Central Intelligence” after “Director”.
+    [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(2)(A), struck out “of Central Intelligence” after “Director”.
 
-    Subsec. (a)(3). [Pub. L. 108–458, § 1074(b)(1)(B)(i)][/us/pl/108/458/s1074/b/1/B/i], substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
+    Subsec. (a)(3). [Pub. L. 108–458][/us/pl/108/458], § 1074(b)(1)(B)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
 
-    Subsec. (b). [Pub. L. 108–458, § 1072(a)(3)][/us/pl/108/458/s1072/a/3], substituted “403 and 403–1” for “403–3 and 403–4” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 1072(a)(3), substituted “403 and 403–1” for “403–3 and 403–4” in introductory provisions.
 
-    Subsec. (b)(6)(A). [Pub. L. 108–458, § 1071(a)(1)(F)][/us/pl/108/458/s1071/a/1/F], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (b)(6)(A). [Pub. L. 108–458][/us/pl/108/458], § 1071(a)(1)(F), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    2003—Subsec. (b)(2). [Pub. L. 108–136, § 921(e)(2)][/us/pl/108/136/s921/e/2], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+    2003—Subsec. (b)(2). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
     Subsec. (d). [Pub. L. 108–177][/us/pl/108/177] struck out subsec. (d) which related to annual evaluations of performance and responsiveness of certain elements of the intelligence community.
 
-    Subsec. (d)(3). [Pub. L. 108–136, § 921(e)(2)][/us/pl/108/136/s921/e/2], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+    Subsec. (d)(3). [Pub. L. 108–136][/us/pl/108/136], § 921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
     2002—Subsec. (d). [Pub. L. 107–306][/us/pl/107/306] amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in [section 404d(c) of this title][/us/usc/t50/s404d/c]) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.”
 
-    1996—Subsec. (a). [Pub. L. 104–293, § 808(1)][/us/pl/104/293/s808/1], inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–293][/us/pl/104/293], § 808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
 
     Subsec. (b)(2). [Pub. L. 104–201][/us/pl/104/201] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “through the Central Imagery Office (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense for carrying out tasking of imagery collection, for the coordination of imagery processing and exploitation activities, and for ensuring the dissemination of imagery in a timely manner to authorized recipients;”.
 
-    Subsec. (d). [Pub. L. 104–293, § 808(2)][/us/pl/104/293/s808/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–293][/us/pl/104/293], § 808(2), added subsec. (d).
 
     1994—Subsec. (b)(2). [Pub. L. 103–359][/us/pl/103/359] substituted “the Central Imagery Office” for “a central imagery authority”.
 
@@ -153,7 +153,7 @@
 
  __Department of Defense Strategy for Open-source Intelligence__ 
 
-[Pub. L. 109–163, div. A, title IX, § 931][/us/pl/109/163/s931], Jan. 6, 2006, [119 Stat. 3411][/us/stat/119/3411], provided that:
+[Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 931, Jan. 6, 2006, [119 Stat. 3411][/us/stat/119/3411], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -221,7 +221,7 @@
 
  __Role of Director of Central Intelligence in Experimental Personnel Program for Certain Scientific and Technical Personnel__ 
 
-[Pub. L. 106–567, title V, § 501][/us/pl/106/567/s501], Dec. 27, 2000, [114 Stat. 2850][/us/stat/114/2850], as amended by [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], provided that: 
+[Pub. L. 106–567, title V][/us/pl/106/567/tV], § 501, Dec. 27, 2000, [114 Stat. 2850][/us/stat/114/2850], as amended by [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(g), Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], provided that: 
 
 > “If the Director of Central Intelligence requests that the Secretary of Defense exercise any authority available to the Secretary under section 1101(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [5 U.S.C. 3104][/us/usc/t5/s3104] note) to carry out a program of special personnel management authority at the National Geospatial-Intelligence Agency and the National Security Agency in order to facilitate recruitment of eminent experts in science and engineering at such agencies, the Secretary shall respond to such request not later than 30 days after the date of such request.”
 
@@ -235,43 +235,43 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/102/496/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs706%2Fa
+[/us/pl/102/496/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVII
 [/us/stat/106/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3194
-[/us/pl/103/359/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fa%2F2
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3428
-[/us/pl/104/201/s1114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1114%2Fa
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2684
-[/us/pl/104/293/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs808
+[/us/pl/104/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVIII
 [/us/stat/110/3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3481
-[/us/pl/107/306/s811/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F1%2FA
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2421
-[/us/pl/108/136/s921/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F2
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
-[/us/pl/108/177/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fa
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2625
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
-[/us/pl/112/18/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs411
+[/us/pl/112/18/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2FtIV
 [/us/stat/125/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F228
 [/us/usc/t50/s403–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935
-[/us/pl/112/18/s411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs411%2F1
-[/us/pl/112/18/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs411%2F2
-[/us/pl/108/458/s1074/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fb%2F1%2FB%2Fii
-[/us/pl/108/458/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fa%2F2
-[/us/pl/108/458/s1071/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FE
-[/us/pl/108/458/s1074/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fb%2F1%2FB%2Fi
-[/us/pl/108/458/s1071/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F2%2FA
-[/us/pl/108/458/s1074/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1074%2Fb%2F1%2FB%2Fi
-[/us/pl/108/458/s1072/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1072%2Fa%2F3
-[/us/pl/108/458/s1071/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FF
-[/us/pl/108/136/s921/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F2
+[/us/pl/112/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18
+[/us/pl/112/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
-[/us/pl/108/136/s921/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fe%2F2
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/usc/t50/s404d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404d%2Fc
-[/us/pl/104/293/s808/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs808%2F1
+[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/293/s808/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs808%2F2
+[/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
@@ -284,12 +284,12 @@
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
-[/us/pl/109/163/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs931
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3411
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/106/567/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs501
+[/us/pl/106/567/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtV
 [/us/stat/114/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2850
-[/us/pl/108/136/s921/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fg
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1570
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t5/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104

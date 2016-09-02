@@ -51,7 +51,7 @@
 
         (7) consider, and make recommendations to the President with respect to, proposals for such new legislation or regulations relating to United States nonproliferation efforts as may be necessary.
 
-([Pub. L. 107–228, div. B, title XIII, § 1335][/us/pl/107/228/s1335], Sept. 30, 2002, [116 Stat. 1450][/us/stat/116/1450].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1335, Sept. 30, 2002, [116 Stat. 1450][/us/stat/116/1450].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
 [/us/usc/t50/s2357b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2357b
-[/us/pl/107/228/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1335
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1450
 
 

@@ -33,7 +33,7 @@
 
         (5) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3218][/us/pl/106/65/s3218], Oct. 5, 1999, [113 Stat. 960][/us/stat/113/960]; [Pub. L. 109–364, div. C, title XXXI, § 3117(e)][/us/pl/109/364/s3117/e], Oct. 17, 2006, [120 Stat. 2508][/us/stat/120/2508].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3218, Oct. 5, 1999, [113 Stat. 960][/us/stat/113/960]; [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3117(e), Oct. 17, 2006, [120 Stat. 2508][/us/stat/120/2508].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3218
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F960
-[/us/pl/109/364/s3117/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3117%2Fe
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2508
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 

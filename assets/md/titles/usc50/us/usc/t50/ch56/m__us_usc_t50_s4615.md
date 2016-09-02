@@ -45,7 +45,7 @@
 
         A determination of the Secretary, under [section 4609(f) of this title][/us/usc/t50/s4609/f], to deny a license may be appealed by the applicant to an administrative law judge who shall have the authority to conduct proceedings to determine only whether the item sought to be exported is in fact on the control list. Such proceedings shall be conducted within 90 days after the appeal is filed. Any determination by an administrative law judge under this subsection and all materials filed before such judge in the proceedings shall be reviewed by the Secretary, who shall either affirm or vacate the determination in a written decision within 30 days after receiving the determination. The Secretary’s written decision shall be final and is not subject to judicial review. Subject to the limitations provided in [section 4614(c) of this title][/us/usc/t50/s4614/c], the Secretary’s decision shall be published in the Federal Register.
 
-([Pub. L. 96–72, § 13][/us/pl/96/72/s13], Sept. 29, 1979, [93 Stat. 531][/us/stat/93/531]; [Pub. L. 99–64, title I, § 114][/us/pl/99/64/s114], July 12, 1985, [99 Stat. 150][/us/stat/99/150]; [Pub. L. 100–418, title II, § 2428][/us/pl/100/418/s2428], Aug. 23, 1988, [102 Stat. 1361][/us/stat/102/1361].)
+([Pub. L. 96–72][/us/pl/96/72], § 13, Sept. 29, 1979, [93 Stat. 531][/us/stat/93/531]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 114, July 12, 1985, [99 Stat. 150][/us/stat/99/150]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2428, Aug. 23, 1988, [102 Stat. 1361][/us/stat/102/1361].)
 
  __Termination Date__ 
 
@@ -61,25 +61,25 @@
 
     Section was formerly classified to section 2412 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2412 of the former Appendix to this title, [Pub. L. 91–184, § 14][/us/pl/91/184/s14], formerly § 13, Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; renumbered § 14, [Pub. L. 95–52, title I, § 102][/us/pl/95/52/s102], June 22, 1977, [91 Stat. 235][/us/stat/91/235], set forth the effective date of the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
+    A prior section 2412 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 14, formerly § 13, Dec. 30, 1969, [83 Stat. 847][/us/stat/83/847]; renumbered § 14, [Pub. L. 95–52, title I][/us/pl/95/52/tI], § 102, June 22, 1977, [91 Stat. 235][/us/stat/91/235], set forth the effective date of the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
 
  __Amendments__ 
 
-    1988—Subsec. (c)(1). [Pub. L. 100–418, § 2428(a)(1)(A)][/us/pl/100/418/s2428/a/1/A], inserted “, except as provided in paragraph (3)” before period at end.
+    1988—Subsec. (c)(1). [Pub. L. 100–418][/us/pl/100/418], § 2428(a)(1)(A), inserted “, except as provided in paragraph (3)” before period at end.
 
-    Subsec. (c)(3), (4). [Pub. L. 100–418, § 2428(a)(1)(B)][/us/pl/100/418/s2428/a/1/B], (C), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (c)(3), (4). [Pub. L. 100–418][/us/pl/100/418], § 2428(a)(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (d)(1). [Pub. L. 100–418, § 2428(b)][/us/pl/100/418/s2428/b], substituted “180” for “60” in two places in second sentence.
+    Subsec. (d)(1). [Pub. L. 100–418][/us/pl/100/418], § 2428(b), substituted “180” for “60” in two places in second sentence.
 
-    Subsec. (d)(2). [Pub. L. 100–418, § 2428(a)(2)][/us/pl/100/418/s2428/a/2], inserted “, except as provided in paragraph (3)” after “judicial review” before period at end of fifth sentence and inserted sentence at end that all materials submitted to the administrative law judge and the Secretary constitute the administrative record for purposes of review.
+    Subsec. (d)(2). [Pub. L. 100–418][/us/pl/100/418], § 2428(a)(2), inserted “, except as provided in paragraph (3)” after “judicial review” before period at end of fifth sentence and inserted sentence at end that all materials submitted to the administrative law judge and the Secretary constitute the administrative record for purposes of review.
 
-    Subsec. (d)(3). [Pub. L. 100–418, § 2428(a)(2)(B)][/us/pl/100/418/s2428/a/2/B], added par. (3).
+    Subsec. (d)(3). [Pub. L. 100–418][/us/pl/100/418], § 2428(a)(2)(B), added par. (3).
 
-    1985—[Pub. L. 99–64, § 114(1)][/us/pl/99/64/s114/1], struck out “Exemption from certain provisions relating to” in section catchline.
+    1985—[Pub. L. 99–64][/us/pl/99/64], § 114(1), struck out “Exemption from certain provisions relating to” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–64, § 114(2)][/us/pl/99/64/s114/2], inserted “and subsection (c) of this section”.
+    Subsec. (a). [Pub. L. 99–64][/us/pl/99/64], § 114(2), inserted “and subsection (c) of this section”.
 
-    Subsecs. (c) to (e). [Pub. L. 99–64, § 114(3)][/us/pl/99/64/s114/3], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 99–64][/us/pl/99/64], § 114(3), added subsecs. (c) to (e).
 
 ----------
 
@@ -94,28 +94,28 @@
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/usc/t50/s4609/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4609%2Ff
 [/us/usc/t50/s4614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fc
-[/us/pl/96/72/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs13
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F531
-[/us/pl/99/64/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs114
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F150
-[/us/pl/100/418/s2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2428
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1361
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
-[/us/pl/91/184/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs14
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F847
-[/us/pl/95/52/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2Fs102
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F235
-[/us/pl/100/418/s2428/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2428%2Fa%2F1%2FA
-[/us/pl/100/418/s2428/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2428%2Fa%2F1%2FB
-[/us/pl/100/418/s2428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2428%2Fb
-[/us/pl/100/418/s2428/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2428%2Fa%2F2
-[/us/pl/100/418/s2428/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2428%2Fa%2F2%2FB
-[/us/pl/99/64/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs114%2F1
-[/us/pl/99/64/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs114%2F2
-[/us/pl/99/64/s114/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs114%2F3
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 
 

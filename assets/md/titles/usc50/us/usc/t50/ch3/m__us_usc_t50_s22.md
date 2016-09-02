@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4068 derived from acts [July 6, 1798, ch. 66, § 1][/us/act/1798-07-06/ch66/s1], [1 Stat. 577][/us/stat/1/577]; [July 6, 1812, ch. 130][/us/act/1812-07-06/ch130], [2 Stat. 781][/us/stat/2/781].
+    R.S. § 4068 derived from acts [July 6, 1798, ch. 66][/us/act/1798-07-06/ch66], § 1, [1 Stat. 577][/us/stat/1/577]; [July 6, 1812, ch. 130][/us/act/1812-07-06/ch130], [2 Stat. 781][/us/stat/2/781].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t50/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs21
-[/us/act/1798-07-06/ch66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66%2Fs1
+[/us/act/1798-07-06/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66
 [/us/stat/1/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F577
 [/us/act/1812-07-06/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1812-07-06%2Fch130
 [/us/stat/2/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F781

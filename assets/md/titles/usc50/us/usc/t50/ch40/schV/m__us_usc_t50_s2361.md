@@ -27,7 +27,7 @@
 
     (2) seek means to use innovative contracting approaches to avoid delay and increase the effectiveness of such programs and of the exercise of such authorities.
 
-([Pub. L. 104–201, div. A, title XIV, § 1451][/us/pl/104/201/s1451], Sept. 23, 1996, [110 Stat. 2730][/us/stat/110/2730].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1451, Sept. 23, 1996, [110 Stat. 2730][/us/stat/110/2730].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1451
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2730
 
 

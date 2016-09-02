@@ -45,11 +45,11 @@
 
             (B) ensure verification by United States officials that Department of Energy assistance at the project is being used for the purposes intended.
 
-([Pub. L. 107–314, div. D, title XLIII, § 4303][/us/pl/107/314/s4303], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3171\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–475; [Pub. L. 107–314, div. C, title XXXI, § 3153][/us/pl/107/314/s3153], Dec. 2, 2002, [116 Stat. 2738][/us/stat/116/2738]; renumbered [Pub. L. 107–314, div. D, title XLIII, § 4303][/us/pl/107/314/s4303], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(f)(4)][/us/pl/108/136/s3141/f/4], Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763].)
+([Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4303, formerly [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3171\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–475; [Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3153, Dec. 2, 2002, [116 Stat. 2738][/us/stat/116/2738]; renumbered [Pub. L. 107–314, div. D, title XLIII][/us/pl/107/314/dD/tXLIII], § 4303, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(f)(4), Nov. 24, 2003, [117 Stat. 1763][/us/stat/117/1763].)
 
  __References in Text__ 
 
-    The Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in subsec. (c)(1), is [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[H.R. 5408\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–1, as amended. For complete classification of this Act to the Code, see Tables.
+    The Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in subsec. (c)(1), is [Pub. L. 106–398][/us/pl/106/398], § 1 \[H.R. 5408\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–1, as amended. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -57,17 +57,17 @@
 
  __Amendments__ 
 
-    2003—Subsec. (c)(1). [Pub. L. 108–136, § 3141(f)(4)(D)][/us/pl/108/136/s3141/f/4/D], substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398])” for “this Act”.
+    2003—Subsec. (c)(1). [Pub. L. 108–136][/us/pl/108/136], § 3141(f)(4)(D), substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398])” for “this Act”.
 
-    2002—Subsec. (a). [Pub. L. 107–314, § 3153(a)][/us/pl/107/314/s3153/a], substituted “countries where such materials” for “Russia that”.
+    2002—Subsec. (a). [Pub. L. 107–314][/us/pl/107/314], § 3153(a), substituted “countries where such materials” for “Russia that”.
 
-    Subsec. (b)(1). [Pub. L. 107–314, § 3153(b)(1)][/us/pl/107/314/s3153/b/1], inserted “in each country covered by subsection (a)” after “locations,”.
+    Subsec. (b)(1). [Pub. L. 107–314][/us/pl/107/314], § 3153(b)(1), inserted “in each country covered by subsection (a)” after “locations,”.
 
-    Subsec. (b)(2). [Pub. L. 107–314, § 3153(b)(2)][/us/pl/107/314/s3153/b/2], substituted “in each such country” for “in Russia”.
+    Subsec. (b)(2). [Pub. L. 107–314][/us/pl/107/314], § 3153(b)(2), substituted “in each such country” for “in Russia”.
 
-    Subsec. (b)(3). [Pub. L. 107–314, § 3153(b)(3)][/us/pl/107/314/s3153/b/3], inserted “in each such country” after “subsection (a)”.
+    Subsec. (b)(3). [Pub. L. 107–314][/us/pl/107/314], § 3153(b)(3), inserted “in each such country” after “subsection (a)”.
 
-    Subsec. (b)(5). [Pub. L. 107–314, § 3153(b)(4)][/us/pl/107/314/s3153/b/4], substituted “by total amount per country and by amount per fiscal year per country” for “by total amount and by amount per fiscal year”.
+    Subsec. (b)(5). [Pub. L. 107–314][/us/pl/107/314], § 3153(b)(4), substituted “by total amount per country and by amount per fiscal year per country” for “by total amount and by amount per fiscal year”.
 
 ----------
 
@@ -77,24 +77,24 @@
 ----------
 
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/107/314/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4303
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3153
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2738
-[/us/pl/107/314/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4303
-[/us/pl/108/136/s3141/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F4
+[/us/pl/107/314/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1763
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/136/s3141/f/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Ff%2F4%2FD
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/107/314/s3153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3153%2Fa
-[/us/pl/107/314/s3153/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3153%2Fb%2F1
-[/us/pl/107/314/s3153/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3153%2Fb%2F2
-[/us/pl/107/314/s3153/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3153%2Fb%2F3
-[/us/pl/107/314/s3153/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3153%2Fb%2F4
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 
 

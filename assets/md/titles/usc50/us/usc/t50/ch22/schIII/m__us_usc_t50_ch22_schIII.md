@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch22/schII/m__us_usc_t50_ch22_schII.md) | [Next](./../../../../..//us/usc/t50/ch22/schIII/m__us_usc_t50_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch22%2FschIII)
+[Previous](./../../../../..//us/usc/t50/ch22/schII/m__us_usc_t50_s561...568.md) | [Next](./../../../../..//us/usc/t50/ch22/schIII/m__us_usc_t50_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch22%2FschIII)
 
 ### SUBCHAPTER III—NON-JUDICIAL PUNISHMENT
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch22/schII/m__us_usc_t50_ch22_schII.md) | [Next](./../../../../..//us/usc/t50/ch22/schIII/m__us_usc_t50_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch22%2FschIII)
+[Previous](./../../../../..//us/usc/t50/ch22/schII/m__us_usc_t50_s561...568.md) | [Next](./../../../../..//us/usc/t50/ch22/schIII/m__us_usc_t50_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch22%2FschIII)
 
 ----------
 ----------

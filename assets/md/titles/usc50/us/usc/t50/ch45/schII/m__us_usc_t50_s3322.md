@@ -45,7 +45,7 @@
 
         (2) prepare such personnel for duty with other departments, agencies, and elements of the intelligence community.
 
-([Pub. L. 108–458, title I, § 1041][/us/pl/108/458/s1041], Dec. 17, 2004, [118 Stat. 3678][/us/stat/118/3678]; [Pub. L. 112–87, title III, § 311(a)][/us/pl/112/87/s311/a], Jan. 3, 2012, [125 Stat. 1886][/us/stat/125/1886].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1041, Dec. 17, 2004, [118 Stat. 3678][/us/stat/118/3678]; [Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 311(a), Jan. 3, 2012, [125 Stat. 1886][/us/stat/125/1886].)
 
  __Codification__ 
 
@@ -67,11 +67,11 @@
 
  __Pilot Project on Civilian Linguist Reserve Corps__ 
 
-    [Pub. L. 109–364, div. A, title IX, § 944(a)(1)][/us/pl/109/364/s944/a/1], Oct. 17, 2006, [120 Stat. 2366][/us/stat/120/2366], transferred administration of pilot project on establishment of Civilian Linguist Reserve Corps required by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 \[[Pub. L. 108–487][/us/pl/108/487], formerly set out as a note below\] from Director of National Intelligence to Secretary of Defense.
+    [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 944(a)(1), Oct. 17, 2006, [120 Stat. 2366][/us/stat/120/2366], transferred administration of pilot project on establishment of Civilian Linguist Reserve Corps required by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 \[[Pub. L. 108–487][/us/pl/108/487], formerly set out as a note below\] from Director of National Intelligence to Secretary of Defense.
 
-    [Pub. L. 109–163, div. A, title XI, § 1124][/us/pl/109/163/s1124], Jan. 6, 2006, [119 Stat. 3454][/us/stat/119/3454], authorized Secretary of Defense to support implementation of Civilian Linguist Reserve Corps pilot project authorized by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 \[[Pub. L. 108–487][/us/pl/108/487], formerly set out as a note below\], subject to availability of appropriated funds.
+    [Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1124, Jan. 6, 2006, [119 Stat. 3454][/us/stat/119/3454], authorized Secretary of Defense to support implementation of Civilian Linguist Reserve Corps pilot project authorized by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 \[[Pub. L. 108–487][/us/pl/108/487], formerly set out as a note below\], subject to availability of appropriated funds.
 
-    [Pub. L. 108–487, title VI, § 613][/us/pl/108/487/s613], Dec. 23, 2004, [118 Stat. 3959][/us/stat/118/3959], as amended by [Pub. L. 109–364, div. A, title IX, § 944(a)(2)][/us/pl/109/364/s944/a/2], (b)–(e), Oct. 17, 2006, [120 Stat. 2366][/us/stat/120/2366], provided that Secretary of Defense, in coordination with Director of National Intelligence, shall conduct five-year pilot project to assess feasibility and advisability of establishing Civilian Linguist Reserve Corps comprised of United States citizens with advanced levels of proficiency in foreign languages who would be available upon the call of the Secretary to perform such service or duties with respect to such foreign languages in the intelligence community as the Secretary may specify and provided that the Secretary shall submit final report on project to Congress six months after completion of project.
+    [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 613, Dec. 23, 2004, [118 Stat. 3959][/us/stat/118/3959], as amended by [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 944(a)(2), (b)–(e), Oct. 17, 2006, [120 Stat. 2366][/us/stat/120/2366], provided that Secretary of Defense, in coordination with Director of National Intelligence, shall conduct five-year pilot project to assess feasibility and advisability of establishing Civilian Linguist Reserve Corps comprised of United States citizens with advanced levels of proficiency in foreign languages who would be available upon the call of the Secretary to perform such service or duties with respect to such foreign languages in the intelligence community as the Secretary may specify and provided that the Secretary shall submit final report on project to Congress six months after completion of project.
 
 ----------
 
@@ -80,24 +80,24 @@
 ----------
 ----------
 
-[/us/pl/108/458/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1041
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3678
-[/us/pl/112/87/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs311%2Fa
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1886
 [/us/usc/t50/s403–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931b
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/109/364/s944/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs944%2Fa%2F1
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2366
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
-[/us/pl/109/163/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1124
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3454
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
-[/us/pl/108/487/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs613
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3959
-[/us/pl/109/364/s944/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs944%2Fa%2F2
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2366
 
 

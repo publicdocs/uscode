@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, not to exceed $75,000,000 to carry out the purposes of sections 501 and 502 of this title.
 
-([May 11, 1949, ch. 98, § 3][/us/act/1949-05-11/ch98/s3], [63 Stat. 66][/us/stat/63/66].)
+([May 11, 1949, ch. 98][/us/act/1949-05-11/ch98], § 3, [63 Stat. 66][/us/stat/63/66].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-05-11/ch98/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-11%2Fch98%2Fs3
+[/us/act/1949-05-11/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-11%2Fch98
 [/us/stat/63/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F66
 
 

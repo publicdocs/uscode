@@ -17,7 +17,7 @@
 
     This chapter shall take effect upon the expiration of the Export Administration Act of 1969.
 
-([Pub. L. 96–72, § 19(a)][/us/pl/96/72/s19/a], Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535].)
+([Pub. L. 96–72][/us/pl/96/72], § 19(a), Sept. 29, 1979, [93 Stat. 535][/us/stat/93/535].)
 
  __Termination Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/72/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs19%2Fa
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F535
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72

@@ -31,7 +31,7 @@
 
         In this section, the term “minor construction project” means any plant project not specifically authorized by law for which the approved total estimated cost does not exceed the minor construction threshold.
 
-([Pub. L. 107–314, div. D, title XLVII, § 4703][/us/pl/107/314/s4703], formerly div. C, title XXXVI, § 3622, Dec. 2, 2002, [116 Stat. 2757][/us/stat/116/2757]; renumbered div. D, title XLVII, § 4703, by [Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)][/us/pl/108/136/s3141/j/2/A]–(C), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781].)
+([Pub. L. 107–314, div. D, title XLVII][/us/pl/107/314/dD/tXLVII], § 4703, formerly div. C, title XXXVI, § 3622, Dec. 2, 2002, [116 Stat. 2757][/us/stat/116/2757]; renumbered div. D, title XLVII, § 4703, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(j)(2)(A)–(C), Nov. 24, 2003, [117 Stat. 1781][/us/stat/117/1781].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Notification__ 
 
-[Pub. L. 111–84, div. C, title XXXI, § 3118(c)][/us/pl/111/84/s3118/c], Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709], as amended by [Pub. L. 111–383, div. C, title XXXI, § 3121(b)][/us/pl/111/383/s3121/b], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514], provided that: 
+[Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3118(c), Oct. 28, 2009, [123 Stat. 2709][/us/stat/123/2709], as amended by [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3121(b), Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514], provided that: 
 
 > “Notwithstanding section 4703 of such Act \[probably means [section 4703 of Pub. L. 111–84][/us/pl/111/84/s4703]\] ([50 U.S.C. 2743][/us/usc/t50/s2743]), in carrying out construction projects, the Secretary of Energy may not start a general plant project with a total estimated cost of more than $5,000,000 until—
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4703
+[/us/pl/107/314/dD/tXLVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVII
 [/us/stat/116/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2757
-[/us/pl/108/136/s3141/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fj%2F2%2FA
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1781
 [/us/usc/t42/s7386b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7386b
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/111/84/s3118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3118%2Fc
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2709
-[/us/pl/111/383/s3121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3121%2Fb
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
 [/us/pl/111/84/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4703
 [/us/usc/t50/s2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2743

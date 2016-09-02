@@ -27,7 +27,7 @@
 
         At the earliest practicable time after the effective date of this Act, the Attorney General shall transmit to the lawful owner or custodian of any interest divested by this section written notice of such divestment.
 
-([Oct. 6, 1917, ch. 106, § 40][/us/act/1917-10-06/ch106/s40], as added [Pub. L. 87–846, title II, § 205][/us/pl/87/846/s205], Oct. 22, 1962, [76 Stat. 1115][/us/stat/76/1115].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 40, as added [Pub. L. 87–846, title II][/us/pl/87/846/tII], § 205, Oct. 22, 1962, [76 Stat. 1115][/us/stat/76/1115].)
 
  __References in Text__ 
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/act/1917-10-06/ch106/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs40
-[/us/pl/87/846/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs205
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/pl/87/846/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtII
 [/us/stat/76/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1115
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

@@ -419,7 +419,7 @@
 
         This section does not authorize export controls on agricultural commodities, including fats, oils, and animal hides and skins.
 
-([Pub. L. 96–72, § 5][/us/pl/96/72/s5], Sept. 29, 1979, [93 Stat. 506][/us/stat/93/506]; [Pub. L. 99–64, title I][/us/pl/99/64], §§ 105(a)–(c)(1), (d)–(j), 106, 107, July 12, 1985, [99 Stat. 123–129][/us/stat/99/123-129]; [Pub. L. 100–418, title II][/us/pl/100/418], §§ 2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, [102 Stat. 1347–1358][/us/stat/102/1347-1358], 1369.)
+([Pub. L. 96–72][/us/pl/96/72], § 5, Sept. 29, 1979, [93 Stat. 506][/us/stat/93/506]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], §§ 105(a)–(c)(1), (d)–(j), 106, 107, July 12, 1985, [99 Stat. 123–129][/us/stat/99/123-129]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, [102 Stat. 1347–1358][/us/stat/102/1347-1358], 1369.)
 
  __Termination Date__ 
 
@@ -437,65 +437,65 @@
 
     Section was formerly classified to section 2404 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-    A prior section 2404 of the former Appendix to this title, [Pub. L. 91–184, § 5][/us/pl/91/184/s5], Dec. 30, 1969, [83 Stat. 843][/us/stat/83/843]; [Pub. L. 92–412, title I, § 105][/us/pl/92/412/s105], Aug. 29, 1972, [86 Stat. 645][/us/stat/86/645]; [Pub. L. 93–500][/us/pl/93/500], §§ 3(c), (d), 5(b), (c), 6, Oct. 29, 1974, [88 Stat. 1553][/us/stat/88/1553], 1554; [Pub. L. 95–52, title I, § 111][/us/pl/95/52/s111], June 22, 1977, [91 Stat. 240][/us/stat/91/240], set forth determinations, limitations, etc., respecting the control and monitoring of exports, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979.
+    A prior section 2404 of the former Appendix to this title, [Pub. L. 91–184][/us/pl/91/184], § 5, Dec. 30, 1969, [83 Stat. 843][/us/stat/83/843]; [Pub. L. 92–412, title I][/us/pl/92/412/tI], § 105, Aug. 29, 1972, [86 Stat. 645][/us/stat/86/645]; [Pub. L. 93–500][/us/pl/93/500], §§ 3(c), (d), 5(b), (c), 6, Oct. 29, 1974, [88 Stat. 1553][/us/stat/88/1553], 1554; [Pub. L. 95–52, title I][/us/pl/95/52/tI], § 111, June 22, 1977, [91 Stat. 240][/us/stat/91/240], set forth determinations, limitations, etc., respecting the control and monitoring of exports, prior to the expiration of [Pub. L. 91–184][/us/pl/91/184] on Sept. 30, 1979.
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–418, § 2413][/us/pl/100/418/s2413], inserted provision defining “affiliates” to include both governmental entities and commercial entities that are controlled in fact by controlled countries.
+    1988—Subsec. (a)(1). [Pub. L. 100–418][/us/pl/100/418], § 2413, inserted provision defining “affiliates” to include both governmental entities and commercial entities that are controlled in fact by controlled countries.
 
-    Subsec. (a)(4) to (6). [Pub. L. 100–418, § 2414][/us/pl/100/418/s2414], added pars. (4) to (6).
+    Subsec. (a)(4) to (6). [Pub. L. 100–418][/us/pl/100/418], § 2414, added pars. (4) to (6).
 
-    Subsec. (b)(2). [Pub. L. 100–418, § 2415(a)][/us/pl/100/418/s2415/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No authority or permission to export may be required under this section before goods or technology are exported in the case of exports to a country which maintains export controls on such goods or technology cooperatively with the United States pursuant to the agreement of the group known as the Coordinating Committee, if the goods or technology is at such a level of performance characteristics that the export of the goods or technology to controlled countries requires only notification of the participating governments of the Coordinating Committee.”
+    Subsec. (b)(2). [Pub. L. 100–418][/us/pl/100/418], § 2415(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No authority or permission to export may be required under this section before goods or technology are exported in the case of exports to a country which maintains export controls on such goods or technology cooperatively with the United States pursuant to the agreement of the group known as the Coordinating Committee, if the goods or technology is at such a level of performance characteristics that the export of the goods or technology to controlled countries requires only notification of the participating governments of the Coordinating Committee.”
 
-    Subsec. (b)(3). [Pub. L. 100–418, § 2415(b)][/us/pl/100/418/s2415/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–418][/us/pl/100/418], § 2415(b), added par. (3).
 
-    Subsec. (c)(2). [Pub. L. 100–418, § 2416(a)][/us/pl/100/418/s2416/a], substituted “If the Secretary and the Secretary of Defense are unable to concur on such items, as determined by the Secretary, the Secretary of Defense may, within 20 days after receiving notification of the Secretary’s determination, refer the matter to the President for resolution. The Secretary of Defense shall notify the Secretary of any such referral. The President shall, not later than 20 days after such referral, notify the Secretary of his determination with respect to the inclusion of such items on the list. Failure of the Secretary of Defense to notify the President or the Secretary, or failure of the President to notify the Secretary, in accordance with this paragraph, shall be deemed by the Secretary to constitute concurrence in the implementation of the actions proposed by the Secretary regarding the inclusion of such items on the list.” for “If the Secretary and the Secretary of Defense are unable to concur on such items, the matter shall be referred to the President for resolution.”
+    Subsec. (c)(2). [Pub. L. 100–418][/us/pl/100/418], § 2416(a), substituted “If the Secretary and the Secretary of Defense are unable to concur on such items, as determined by the Secretary, the Secretary of Defense may, within 20 days after receiving notification of the Secretary’s determination, refer the matter to the President for resolution. The Secretary of Defense shall notify the Secretary of any such referral. The President shall, not later than 20 days after such referral, notify the Secretary of his determination with respect to the inclusion of such items on the list. Failure of the Secretary of Defense to notify the President or the Secretary, or failure of the President to notify the Secretary, in accordance with this paragraph, shall be deemed by the Secretary to constitute concurrence in the implementation of the actions proposed by the Secretary regarding the inclusion of such items on the list.” for “If the Secretary and the Secretary of Defense are unable to concur on such items, the matter shall be referred to the President for resolution.”
 
-    Subsec. (c)(3). [Pub. L. 100–418, § 2416(b)(1)][/us/pl/100/418/s2416/b/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall review the list established pursuant to this subsection at least once each year in order to carry out the policy set forth in [section 4602(2)(A) of this title][/us/usc/t50/s4602/2/A] and the provisions of this section, and shall promptly make such revisions of the list as may be necessary after each such review. Before beginning each annual review, the Secretary shall publish notice of that annual review in the Federal Register. The Secretary shall provide an opportunity during such review for comment and the submission of data, with or without oral presentation, by interested Government agencies and other affected or potentially affected parties. The Secretary shall publish in the Federal Register any revisions in the list, with an explanation of the reasons for the revisions. The Secretary shall further assess, as part of such review, the availability from sources outside the United States of goods and technology comparable to those subject to export controls imposed under this section.”
+    Subsec. (c)(3). [Pub. L. 100–418][/us/pl/100/418], § 2416(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall review the list established pursuant to this subsection at least once each year in order to carry out the policy set forth in [section 4602(2)(A) of this title][/us/usc/t50/s4602/2/A] and the provisions of this section, and shall promptly make such revisions of the list as may be necessary after each such review. Before beginning each annual review, the Secretary shall publish notice of that annual review in the Federal Register. The Secretary shall provide an opportunity during such review for comment and the submission of data, with or without oral presentation, by interested Government agencies and other affected or potentially affected parties. The Secretary shall publish in the Federal Register any revisions in the list, with an explanation of the reasons for the revisions. The Secretary shall further assess, as part of such review, the availability from sources outside the United States of goods and technology comparable to those subject to export controls imposed under this section.”
 
-    Subsec. (c)(4). [Pub. L. 100–418, § 2416(b)(3)][/us/pl/100/418/s2416/b/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 100–418][/us/pl/100/418], § 2416(b)(3), added par. (4).
 
-    Subsec. (c)(5). [Pub. L. 100–418, § 2416(c)(1)][/us/pl/100/418/s2416/c/1], added par. (5).
+    Subsec. (c)(5). [Pub. L. 100–418][/us/pl/100/418], § 2416(c)(1), added par. (5).
 
-    Subsec. (c)(6), (7). [Pub. L. 100–418, § 2416(c)(2)][/us/pl/100/418/s2416/c/2], (3), added pars. (6) and (7).
+    Subsec. (c)(6), (7). [Pub. L. 100–418][/us/pl/100/418], § 2416(c)(2), (3), added pars. (6) and (7).
 
-    Subsec. (d)(5). [Pub. L. 100–418, § 2416(b)(2)][/us/pl/100/418/s2416/b/2], substituted “on an ongoing basis” for “at least annually”.
+    Subsec. (d)(5). [Pub. L. 100–418][/us/pl/100/418], § 2416(b)(2), substituted “on an ongoing basis” for “at least annually”.
 
-    Subsec. (e)(6). [Pub. L. 100–418, § 2417][/us/pl/100/418/s2417], added par. (6).
+    Subsec. (e)(6). [Pub. L. 100–418][/us/pl/100/418], § 2417, added par. (6).
 
-    Subsec. (f). [Pub. L. 100–418, § 2418(a)][/us/pl/100/418/s2418/a], amended subsec. generally, revising and restating as pars. (1) to (10) provisions of former pars. (1) to (7).
+    Subsec. (f). [Pub. L. 100–418][/us/pl/100/418], § 2418(a), amended subsec. generally, revising and restating as pars. (1) to (10) provisions of former pars. (1) to (7).
 
-    Subsec. (g). [Pub. L. 100–418, § 2419][/us/pl/100/418/s2419], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (g). [Pub. L. 100–418][/us/pl/100/418], § 2419, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h)(2). [Pub. L. 100–418, § 2420(a)][/us/pl/100/418/s2420/a], added cls. (D) and (E), redesignated former cl. (E) as (F), and struck out former cl. (D) which read as follows: “exports subject to multilateral controls in which the United States participates, including proposed revisions of any such multilateral controls, and”.
+    Subsec. (h)(2). [Pub. L. 100–418][/us/pl/100/418], § 2420(a), added cls. (D) and (E), redesignated former cl. (E) as (F), and struck out former cl. (D) which read as follows: “exports subject to multilateral controls in which the United States participates, including proposed revisions of any such multilateral controls, and”.
 
-    Subsec. (h)(6). [Pub. L. 100–418, § 2418(b)][/us/pl/100/418/s2418/b], inserted at end “After an agreement is reached with a country pursuant to negotiations under this paragraph to eliminate foreign availability of goods or technology, the Secretary may not require a validated license for the export of such goods or technology to that country.”
+    Subsec. (h)(6). [Pub. L. 100–418][/us/pl/100/418], § 2418(b), inserted at end “After an agreement is reached with a country pursuant to negotiations under this paragraph to eliminate foreign availability of goods or technology, the Secretary may not require a validated license for the export of such goods or technology to that country.”
 
-    Subsec. (i). [Pub. L. 100–418, § 2421][/us/pl/100/418/s2421], substituted “Recognizing the ineffectiveness of unilateral controls and the importance of uniform enforcement measures to the effectiveness of multilateral controls, the President” for “The President” and inserted sentence at end authorizing the President, for purposes of reviews of the International Control List, to include as advisors to the United States delegation to the Committee representatives of industry who are knowledgeable with respect to the items being reviewed.
+    Subsec. (i). [Pub. L. 100–418][/us/pl/100/418], § 2421, substituted “Recognizing the ineffectiveness of unilateral controls and the importance of uniform enforcement measures to the effectiveness of multilateral controls, the President” for “The President” and inserted sentence at end authorizing the President, for purposes of reviews of the International Control List, to include as advisors to the United States delegation to the Committee representatives of industry who are knowledgeable with respect to the items being reviewed.
 
-    Subsec. (i)(1) to (11). [Pub. L. 100–418, § 2446][/us/pl/100/418/s2446], completely revised and expanded provisions enumerating the objectives of the negotiations, adding pars. (1) to (11) and striking out former pars. (1) to (9).
+    Subsec. (i)(1) to (11). [Pub. L. 100–418][/us/pl/100/418], § 2446, completely revised and expanded provisions enumerating the objectives of the negotiations, adding pars. (1) to (11) and striking out former pars. (1) to (9).
 
-    Subsec. (m). [Pub. L. 100–418, § 2422][/us/pl/100/418/s2422], amended subsec. generally, substituting provision relating to goods containing controlled parts and components for provision relating to goods containing microprocessors.
+    Subsec. (m). [Pub. L. 100–418][/us/pl/100/418], § 2422, amended subsec. generally, substituting provision relating to goods containing controlled parts and components for provision relating to goods containing microprocessors.
 
-    1985—Subsec. (a)(1). [Pub. L. 99–64, § 105(a)(1)][/us/pl/99/64/s105/a/1], inserted sentence providing that the authority contained in this subsection includes the authority to prohibit or curtail the transfer of goods or technology within the United States to embassies and affiliates of controlled countries.
+    1985—Subsec. (a)(1). [Pub. L. 99–64][/us/pl/99/64], § 105(a)(1), inserted sentence providing that the authority contained in this subsection includes the authority to prohibit or curtail the transfer of goods or technology within the United States to embassies and affiliates of controlled countries.
 
-    Subsec. (a)(2). [Pub. L. 99–64, § 105(a)(2)][/us/pl/99/64/s105/a/2], struck out designation “(A)” before “Whenever the Secretary makes any revision”, and struck out subpar. (B) which read as follows: “Whenever the Secretary denies any export license under this section, the Secretary shall specify in the notice to the applicant of the denial of such license that the license was denied under the authority contained in this section. The Secretary shall also include in such notice what, if any, modifications in or restrictions on the goods or technology for which the license was sought would allow such export to be compatible with controls imposed under this section, or the Secretary shall indicate in such notice which officers and employees of the Department of Commerce who are familiar with the application will be made reasonably available to the applicant for consultation with regard to such modifications or restriction, if appropriate.”
+    Subsec. (a)(2). [Pub. L. 99–64][/us/pl/99/64], § 105(a)(2), struck out designation “(A)” before “Whenever the Secretary makes any revision”, and struck out subpar. (B) which read as follows: “Whenever the Secretary denies any export license under this section, the Secretary shall specify in the notice to the applicant of the denial of such license that the license was denied under the authority contained in this section. The Secretary shall also include in such notice what, if any, modifications in or restrictions on the goods or technology for which the license was sought would allow such export to be compatible with controls imposed under this section, or the Secretary shall indicate in such notice which officers and employees of the Department of Commerce who are familiar with the application will be made reasonably available to the applicant for consultation with regard to such modifications or restriction, if appropriate.”
 
-    Subsec. (a)(3). [Pub. L. 99–64, § 105(a)(3)][/us/pl/99/64/s105/a/3], struck out “Such regulations shall not be based upon the assumption that such effective safeguards can be devised.”
+    Subsec. (a)(3). [Pub. L. 99–64][/us/pl/99/64], § 105(a)(3), struck out “Such regulations shall not be based upon the assumption that such effective safeguards can be devised.”
 
-    Subsec. (b)(1). [Pub. L. 99–64, § 105(b)(1)][/us/pl/99/64/s105/b/1], designated existing provisions as par. (1) and provided that the President shall establish to a list of controlled countries which may be expanded or reduced by the President based upon certain enumerated factors, and struck out provisions which had stated that the policy of the United States toward individual countries should not be determined exclusively on the basis of that country’s Communist or non-Communist status but rather on the country’s relationships to the United States and countries friendly to the United States.
+    Subsec. (b)(1). [Pub. L. 99–64][/us/pl/99/64], § 105(b)(1), designated existing provisions as par. (1) and provided that the President shall establish to a list of controlled countries which may be expanded or reduced by the President based upon certain enumerated factors, and struck out provisions which had stated that the policy of the United States toward individual countries should not be determined exclusively on the basis of that country’s Communist or non-Communist status but rather on the country’s relationships to the United States and countries friendly to the United States.
 
-    [Pub. L. 99–64, § 105(b)(3)][/us/pl/99/64/s105/b/3], substituted “set forth in this paragraph” for “specified in the preceding sentence” in last sentence.
+    [Pub. L. 99–64][/us/pl/99/64], § 105(b)(3), substituted “set forth in this paragraph” for “specified in the preceding sentence” in last sentence.
 
-    Subsec. (b)(2). [Pub. L. 99–64, § 105(b)(2)][/us/pl/99/64/s105/b/2], added par. (2).
+    Subsec. (b)(2). [Pub. L. 99–64][/us/pl/99/64], § 105(b)(2), added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 99–64, § 105(c)(1)(A)][/us/pl/99/64/s105/c/1/A], struck out “commodity” before “control list”.
+    Subsec. (c)(1). [Pub. L. 99–64][/us/pl/99/64], § 105(c)(1)(A), struck out “commodity” before “control list”.
 
-    Subsec. (c)(3). [Pub. L. 99–64, § 105(c)(1)(B)][/us/pl/99/64/s105/c/1/B], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall issue regulations providing for review of the list established pursuant to this subsection not less frequently than every 3 years in the case of controls maintained cooperatively with other countries, and annually in the case of all other controls, in order to carry out the policy set forth in [section 4602(2)(A) of this title][/us/usc/t50/s4602/2/A] and the provisions of this section, and for the prompt issuance of such revisions of the list as may be necessary. Such regulations shall provide interested Government agencies and other affected or potentially affected parties with an opportunity, during such review, to submit written data, views, or arguments, with or without oral presentation. Such regulations shall further provide that, as part of such review, an assessment be made of the availability from sources outside the United States, or any of its territories or possessions, of goods and technology comparable to those controlled under this section. The Secretary and any agency rendering advice with respect to export controls shall keep adequate records of all decisions made with respect to revision of the list of controlled goods and technology, including the factual and analytical basis for the decision, and, in the case of the Secretary, any dissenting recommendations received from any agency.”
+    Subsec. (c)(3). [Pub. L. 99–64][/us/pl/99/64], § 105(c)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall issue regulations providing for review of the list established pursuant to this subsection not less frequently than every 3 years in the case of controls maintained cooperatively with other countries, and annually in the case of all other controls, in order to carry out the policy set forth in [section 4602(2)(A) of this title][/us/usc/t50/s4602/2/A] and the provisions of this section, and for the prompt issuance of such revisions of the list as may be necessary. Such regulations shall provide interested Government agencies and other affected or potentially affected parties with an opportunity, during such review, to submit written data, views, or arguments, with or without oral presentation. Such regulations shall further provide that, as part of such review, an assessment be made of the availability from sources outside the United States, or any of its territories or possessions, of goods and technology comparable to those controlled under this section. The Secretary and any agency rendering advice with respect to export controls shall keep adequate records of all decisions made with respect to revision of the list of controlled goods and technology, including the factual and analytical basis for the decision, and, in the case of the Secretary, any dissenting recommendations received from any agency.”
 
-    Subsec. (d)(2). [Pub. L. 99–64, § 106(a)(1)][/us/pl/99/64/s106/a/1], added subpar. (D) and in provisions following subpar. (D) substituted “, or available in fact from sources outside the United States to, controlled countries” for “countries to which exports are controlled under this section”.
+    Subsec. (d)(2). [Pub. L. 99–64][/us/pl/99/64], § 106(a)(1), added subpar. (D) and in provisions following subpar. (D) substituted “, or available in fact from sources outside the United States to, controlled countries” for “countries to which exports are controlled under this section”.
 
-    Subsec. (d)(4) to (7). [Pub. L. 99–64, § 106(a)(2)][/us/pl/99/64/s106/a/2], added pars. (4) to (7) and struck out former pars. (4) to (6) which read as follows:
+    Subsec. (d)(4) to (7). [Pub. L. 99–64][/us/pl/99/64], § 106(a)(2), added pars. (4) to (7) and struck out former pars. (4) to (6) which read as follows:
 
     “(4) The initial version of the list referred to in paragraph (2) shall be completed and published in an appropriate form in the Federal Register not later than October 1, 1980.
 
@@ -503,45 +503,45 @@
 
     “(6) The Secretary of Defense shall report annually to the Congress on actions taken to carry out this subsection.”
 
-    Subsec. (e)(1). [Pub. L. 99–64, § 105(d)(1)][/us/pl/99/64/s105/d/1], substituted “the multiple validated export licenses described in [section 4603(a)(2) of this title][/us/usc/t50/s4603/a/2] in lieu of individual validated licenses” for “a qualified general license in lieu of a validated license”.
+    Subsec. (e)(1). [Pub. L. 99–64][/us/pl/99/64], § 105(d)(1), substituted “the multiple validated export licenses described in [section 4603(a)(2) of this title][/us/usc/t50/s4603/a/2] in lieu of individual validated licenses” for “a qualified general license in lieu of a validated license”.
 
-    Subsec. (e)(3) to (5). [Pub. L. 99–64, § 105(d)(2)][/us/pl/99/64/s105/d/2], added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
+    Subsec. (e)(3) to (5). [Pub. L. 99–64][/us/pl/99/64], § 105(d)(2), added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
 
     “(3) To the maximum extent practicable, consistent with the national security of the United States, the Secretary shall require a qualified general license, in lieu of a validated license, under this section for the export of goods or technology if the export of such goods or technology is restricted pursuant to a multilateral agreement, formal or informal, to which the United States is a party, but such export does not require the specific approval of the parties to such multilateral agreement.
 
     “(4) Not later than July 1, 1980, the Secretary shall establish procedures for the approval of goods and technology that may be exported pursuant to a qualified general license.”
 
-    Subsec. (f)(1). [Pub. L. 99–64, § 107(a)][/us/pl/99/64/s107/a], (i), (j)(1), inserted “the Secretary of Defense and other” after “The Secretary, in consultation with”, and substituted “controlled countries” for “such destinations” and “comparable quality” for “sufficient quality”.
+    Subsec. (f)(1). [Pub. L. 99–64][/us/pl/99/64], § 107(a), (i), (j)(1), inserted “the Secretary of Defense and other” after “The Secretary, in consultation with”, and substituted “controlled countries” for “such destinations” and “comparable quality” for “sufficient quality”.
 
-    Subsec. (f)(2). [Pub. L. 99–64, § 107(i)][/us/pl/99/64/s107/i], substituted “comparable quality” for “sufficient quality”.
+    Subsec. (f)(2). [Pub. L. 99–64][/us/pl/99/64], § 107(i), substituted “comparable quality” for “sufficient quality”.
 
-    Subsec. (f)(3). [Pub. L. 99–64, § 107(b)][/us/pl/99/64/s107/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “With respect to export controls imposed under this section, any determination of foreign availability which is the basis of a decision to grant a license for, or to remove a control on, the export of a good or technology, shall be made in writing and shall be supported by reliable evidence, including scientific or physical examination, expert opinion based upon adequate factual information, or intelligence information. In assessing foreign availability with respect to license applications, uncorroborated representations by applicants shall not be deemed sufficient evidence of foreign availability.”
+    Subsec. (f)(3). [Pub. L. 99–64][/us/pl/99/64], § 107(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “With respect to export controls imposed under this section, any determination of foreign availability which is the basis of a decision to grant a license for, or to remove a control on, the export of a good or technology, shall be made in writing and shall be supported by reliable evidence, including scientific or physical examination, expert opinion based upon adequate factual information, or intelligence information. In assessing foreign availability with respect to license applications, uncorroborated representations by applicants shall not be deemed sufficient evidence of foreign availability.”
 
-    Subsec. (f)(4). [Pub. L. 99–64, § 107(c)][/us/pl/99/64/s107/c], (j)(2), substituted first three sentences for “sentence providing that in any case in which, in accordance with this subsection, export controls are imposed under this section notwithstanding foreign availability, the President shall take steps to initiate negotiations with the governments of the appropriate foreign countries for the purpose of eliminating such availability”, and substituted “controlled countries” for “countries to which exports are controlled under this section”.
+    Subsec. (f)(4). [Pub. L. 99–64][/us/pl/99/64], § 107(c), (j)(2), substituted first three sentences for “sentence providing that in any case in which, in accordance with this subsection, export controls are imposed under this section notwithstanding foreign availability, the President shall take steps to initiate negotiations with the governments of the appropriate foreign countries for the purpose of eliminating such availability”, and substituted “controlled countries” for “countries to which exports are controlled under this section”.
 
-    Subsec. (f)(5). [Pub. L. 99–64, § 107(d)(1)][/us/pl/99/64/s107/d/1], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In order to further carry out the policies set forth in this chapter, the Secretary shall establish, within the Office of Export Administration of the Department of Commerce, a capability to monitor and gather information with respect to the foreign availability of any goods or technology subject to export controls under this chapter.”
+    Subsec. (f)(5). [Pub. L. 99–64][/us/pl/99/64], § 107(d)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In order to further carry out the policies set forth in this chapter, the Secretary shall establish, within the Office of Export Administration of the Department of Commerce, a capability to monitor and gather information with respect to the foreign availability of any goods or technology subject to export controls under this chapter.”
 
-    Subsec. (f)(6). [Pub. L. 99–64, § 107(d)(2)][/us/pl/99/64/s107/d/2], substituted “Office of Foreign Availability” for “Office of Export Administration”.
+    Subsec. (f)(6). [Pub. L. 99–64][/us/pl/99/64], § 107(d)(2), substituted “Office of Foreign Availability” for “Office of Export Administration”.
 
-    Subsec. (f)(7). [Pub. L. 99–64, § 107(e)][/us/pl/99/64/s107/e], added par. (7).
+    Subsec. (f)(7). [Pub. L. 99–64][/us/pl/99/64], § 107(e), added par. (7).
 
-    Subsec. (g). [Pub. L. 99–64, § 105(e)][/us/pl/99/64/s105/e], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In order to ensure that requirements for validated licenses and qualified general licenses are periodically removed as goods or technology subject to such requirements become obsolete with respect to the national security of the United States, regulations issued by the Secretary may, where appropriate, provide for annual increases in the performance levels of goods or technology subject to any such licensing requirement. Any such goods or technology which no longer meet the performance levels established by the latest such increase shall be removed from the list established pursuant to subsection (c) of this section unless, under such exceptions and under such procedures as the Secretary shall prescribe, any other department or agency of the United States objects to such removal and the Secretary determines, on the basis of such objection, that the goods or technology shall not be removed from the list. The Secretary shall also consider, where appropriate, removing site visitation requirements for goods and technology which are removed from the list unless objections described in this subsection are raised.”
+    Subsec. (g). [Pub. L. 99–64][/us/pl/99/64], § 105(e), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In order to ensure that requirements for validated licenses and qualified general licenses are periodically removed as goods or technology subject to such requirements become obsolete with respect to the national security of the United States, regulations issued by the Secretary may, where appropriate, provide for annual increases in the performance levels of goods or technology subject to any such licensing requirement. Any such goods or technology which no longer meet the performance levels established by the latest such increase shall be removed from the list established pursuant to subsection (c) of this section unless, under such exceptions and under such procedures as the Secretary shall prescribe, any other department or agency of the United States objects to such removal and the Secretary determines, on the basis of such objection, that the goods or technology shall not be removed from the list. The Secretary shall also consider, where appropriate, removing site visitation requirements for goods and technology which are removed from the list unless objections described in this subsection are raised.”
 
-    Subsec. (h)(1). [Pub. L. 99–64, § 107(f)(1)][/us/pl/99/64/s107/f/1], inserted reference to the intelligence community.
+    Subsec. (h)(1). [Pub. L. 99–64][/us/pl/99/64], § 107(f)(1), inserted reference to the intelligence community.
 
-    Subsec. (h)(2)(E). [Pub. L. 99–64, § 107(f)(2)][/us/pl/99/64/s107/f/2], added cl. (E).
+    Subsec. (h)(2)(E). [Pub. L. 99–64][/us/pl/99/64], § 107(f)(2), added cl. (E).
 
-    Subsec. (h)(6). [Pub. L. 99–64, § 107(f)(3)][/us/pl/99/64/s107/f/3], (i), (j)(2), substituted “controlled countries” for “countries to which exports are controlled under this section”, “comparable quality” for “sufficient quality”, and “the technical advisory committee shall submit that certification to the Congress at the same time the certification is made to the Secretary, together with the documentation for the certification” for “and provides adequate documentation for such certification, in accordance with the procedures established pursuant to subsection (f)(1) of this section, the Secretary shall investigate such availability, and if such availability is verified, the Secretary shall remove the requirement of a validated license for the export of the goods or technology, unless the President determines that the absence of export controls under this section would prove detrimental to the national security of the United States”, struck out provision that, in any case in which the President determined that export controls under this section had to be maintained notwithstanding foreign availability, the Secretary had to publish that determination together with a concise statement of its basis and the estimated economic impact of the decision, inserted provisions directing the Secretary to investigate certified foreign availability and, not later than 90 days after the certification is made, submit a report to the technical advisory committee and the Congress, and added subpars. (A) to (C) and concluding provision.
+    Subsec. (h)(6). [Pub. L. 99–64][/us/pl/99/64], § 107(f)(3), (i), (j)(2), substituted “controlled countries” for “countries to which exports are controlled under this section”, “comparable quality” for “sufficient quality”, and “the technical advisory committee shall submit that certification to the Congress at the same time the certification is made to the Secretary, together with the documentation for the certification” for “and provides adequate documentation for such certification, in accordance with the procedures established pursuant to subsection (f)(1) of this section, the Secretary shall investigate such availability, and if such availability is verified, the Secretary shall remove the requirement of a validated license for the export of the goods or technology, unless the President determines that the absence of export controls under this section would prove detrimental to the national security of the United States”, struck out provision that, in any case in which the President determined that export controls under this section had to be maintained notwithstanding foreign availability, the Secretary had to publish that determination together with a concise statement of its basis and the estimated economic impact of the decision, inserted provisions directing the Secretary to investigate certified foreign availability and, not later than 90 days after the certification is made, submit a report to the technical advisory committee and the Congress, and added subpars. (A) to (C) and concluding provision.
 
-    Subsec. (i)(3). [Pub. L. 99–64, § 105(f)(1)][/us/pl/99/64/s105/f/1], (2), redesignated par. (4) as (3) and substituted “agreed to by members of the Committee” for “agreed to pursuant to paragraph (3)”, and struck out former par. (3) relating to agreement to reduce the scope of the export controls imposed by agreement of the Committee to a level acceptable to and enforceable by all governments participating in the Committee.
+    Subsec. (i)(3). [Pub. L. 99–64][/us/pl/99/64], § 105(f)(1), (2), redesignated par. (4) as (3) and substituted “agreed to by members of the Committee” for “agreed to pursuant to paragraph (3)”, and struck out former par. (3) relating to agreement to reduce the scope of the export controls imposed by agreement of the Committee to a level acceptable to and enforceable by all governments participating in the Committee.
 
-    Subsec. (i)(4) to (9). [Pub. L. 99–64, § 105(f)(3)][/us/pl/99/64/s105/f/3], added pars. (4) to (9). Former par. (4) redesignated (3).
+    Subsec. (i)(4) to (9). [Pub. L. 99–64][/us/pl/99/64], § 105(f)(3), added pars. (4) to (9). Former par. (4) redesignated (3).
 
-    Subsec. (j)(1). [Pub. L. 99–64, § 105(g)][/us/pl/99/64/s105/g], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any United States firm, enterprise, or other nongovernmental entity which, for commercial purposes, enters into any agreement with any agency of the government of a country to which exports are restricted for national security purposes, which agreement cites an intergovernmental agreement (to which the United States and such country are parties) calling for the encouragement of technical cooperation and is intended to result in the export from the United States to the other party of unpublished technical data of United States origin, shall report the agreement with such agency to the Secretary.”
+    Subsec. (j)(1). [Pub. L. 99–64][/us/pl/99/64], § 105(g), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any United States firm, enterprise, or other nongovernmental entity which, for commercial purposes, enters into any agreement with any agency of the government of a country to which exports are restricted for national security purposes, which agreement cites an intergovernmental agreement (to which the United States and such country are parties) calling for the encouragement of technical cooperation and is intended to result in the export from the United States to the other party of unpublished technical data of United States origin, shall report the agreement with such agency to the Secretary.”
 
-    Subsec. (k). [Pub. L. 99–64, § 105(h)][/us/pl/99/64/s105/h], inserted “, including those countries not participating in the group known as the Coordinating Committee,” after “conducting negotiations with other countries”, and inserted provision that, in cases where such negotiations produce agreements on export restrictions comparable in practice to those maintained by the Coordinating Committee, the Secretary shall treat exports, whether by individual or multiple licenses, to countries party to such agreements in the same manner as exports to members of the Coordinating Committee are treated, including the same manner as exports are treated under subsection (b)(2) of this section and section 4609(o) of this title.
+    Subsec. (k). [Pub. L. 99–64][/us/pl/99/64], § 105(h), inserted “, including those countries not participating in the group known as the Coordinating Committee,” after “conducting negotiations with other countries”, and inserted provision that, in cases where such negotiations produce agreements on export restrictions comparable in practice to those maintained by the Coordinating Committee, the Secretary shall treat exports, whether by individual or multiple licenses, to countries party to such agreements in the same manner as exports to members of the Coordinating Committee are treated, including the same manner as exports are treated under subsection (b)(2) of this section and section 4609(o) of this title.
 
-    Subsec. (l). [Pub. L. 99–64, § 105(i)][/us/pl/99/64/s105/i], struck out “to military use” after “Diversion” in heading, and amended text of subsec. (l), generally. Prior to amendment, subsec. (l) read as follows:
+    Subsec. (l). [Pub. L. 99–64][/us/pl/99/64], § 105(i), struck out “to military use” after “Diversion” in heading, and amended text of subsec. (l), generally. Prior to amendment, subsec. (l) read as follows:
 
     “(1) Whenever there is reliable evidence that goods or technology, which were exported subject to national security controls under this section to a country to which exports are controlled for national security purposes, have been diverted to significant military use in violation of the conditions of an export license, the Secretary for as long as that diversion to significant military use continues—
 
@@ -551,11 +551,11 @@
 
     “(2) As used in this subsection, the terms ‘diversion to significant military use’ and ‘significant military use’ means the use of United States goods or technology to design or produce any item on the United States Munitions List.”
 
-    Subsecs. (m) to (q). [Pub. L. 99–64, § 105(j)][/us/pl/99/64/s105/j], added subsecs. (m) to (q).
+    Subsecs. (m) to (q). [Pub. L. 99–64][/us/pl/99/64], § 105(j), added subsecs. (m) to (q).
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–64, title I, § 105(c)(2)][/us/pl/99/64/s105/c/2], July 12, 1985, [99 Stat. 125][/us/stat/99/125], provided that: 
+[Pub. L. 99–64, title I][/us/pl/99/64/tI], § 105(c)(2), July 12, 1985, [99 Stat. 125][/us/stat/99/125], provided that: 
 
 > “The amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall take effect on October 1, 1985.”
 
@@ -569,7 +569,7 @@
 
  __Review of Export Protections for Military Superiority Resources__ 
 
-[Pub. L. 108–136, div. A, title XII, § 1211][/us/pl/108/136/s1211], Nov. 24, 2003, [117 Stat. 1650][/us/stat/117/1650], provided that:
+[Pub. L. 108–136, div. A, title XII][/us/pl/108/136/dA/tXII], § 1211, Nov. 24, 2003, [117 Stat. 1650][/us/stat/117/1650], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -587,7 +587,7 @@
 
  __Release of Export Information by Department of Commerce to Other Agencies for Purpose of National Security Assessment__ 
 
-[Pub. L. 105–261, div. A, title XV, § 1522][/us/pl/105/261/s1522], Oct. 17, 1998, [112 Stat. 2179][/us/stat/112/2179], provided that:
+[Pub. L. 105–261, div. A, title XV][/us/pl/105/261/dA/tXV], § 1522, Oct. 17, 1998, [112 Stat. 2179][/us/stat/112/2179], provided that:
 
 >     “(a)  __Release of Export Information__  __.—__ 
 
@@ -611,7 +611,7 @@
 
  __Export Controls on High Performance Computers__ 
 
-[Pub. L. 105–85, div. A, title XII][/us/pl/105/85], subtitle B, Nov. 18, 1997, [111 Stat. 1932][/us/stat/111/1932], as amended by [Pub. L. 105–261, div. A, title XV, § 1524][/us/pl/105/261/s1524], Oct. 17, 1998, [112 Stat. 2180][/us/stat/112/2180]; [Pub. L. 106–65, div. A, title X, § 1067(4)][/us/pl/106/65/s1067/4], title XIV, § 1407(c), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 801; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1234(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–330, provided that:
+[Pub. L. 105–85, div. A, title XII][/us/pl/105/85/dA/tXII], subtitle B, Nov. 18, 1997, [111 Stat. 1932][/us/stat/111/1932], as amended by [Pub. L. 105–261, div. A, title XV][/us/pl/105/261/dA/tXV], § 1524, Oct. 17, 1998, [112 Stat. 2180][/us/stat/112/2180]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(4), title XIV, § 1407(c), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 801; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1234(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–330, provided that:
 
 > “SEC. 1211. __EXPORT APPROVALS FOR HIGH PERFORMANCE COMPUTERS.__ 
 
@@ -747,7 +747,7 @@
 
 >     “(2) The Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Armed Services of the House of Representatives.”
 
-\[[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1234(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–331, provided that: 
+\[[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1234(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–331, provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 1211 of Pub. L. 105–85][/us/pl/105/85/s1211], set out above\] shall apply to any new composite theoretical performance level established for purposes of section 1211(a) of the National Defense Authorization Act for Fiscal Year 1998 \[[Pub. L. 105–85][/us/pl/105/85]\] that is submitted by the President pursuant to section 1211(d) of that Act on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -757,7 +757,7 @@
 
  __National Security Implications of United States Export Control Policy__ 
 
-[Pub. L. 104–106, div. A, title XIII, § 1322][/us/pl/104/106/s1322], Feb. 10, 1996, [110 Stat. 478][/us/stat/110/478], provided that:
+[Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1322, Feb. 10, 1996, [110 Stat. 478][/us/stat/110/478], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -847,7 +847,7 @@
 
  __Department of Defense Review of Export Licenses for Certain Biological Pathogens__ 
 
-[Pub. L. 104–106, div. A, title XIII, § 1323][/us/pl/104/106/s1323], Feb. 10, 1996, [110 Stat. 480][/us/stat/110/480], provided that:
+[Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1323, Feb. 10, 1996, [110 Stat. 480][/us/stat/110/480], provided that:
 
 >     “(a)  __Department of Defense Review__  __.—__ 
 
@@ -871,7 +871,7 @@
 
  __Annual Reports on Improving Export Control Mechanisms__ 
 
-[Pub. L. 104–106, div. A, title XIII, § 1324(a)][/us/pl/104/106/s1324/a], (b), Feb. 10, 1996, [110 Stat. 480][/us/stat/110/480], 481, provided that:
+[Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1324(a), (b), Feb. 10, 1996, [110 Stat. 480][/us/stat/110/480], 481, provided that:
 
 >     “(a)  __Joint Reports by Secretaries of State and Commerce__  __.—__ 
 
@@ -931,11 +931,11 @@
 [/us/usc/t50/s4602/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FA
 [/us/usc/t50/s4602/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F9
 [/us/usc/t50/s4614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fa
-[/us/pl/96/72/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs5
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F506
-[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/123-129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F123-129
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1347-1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1347-1358
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
@@ -943,93 +943,93 @@
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
-[/us/pl/91/184/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184%2Fs5
+[/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
 [/us/stat/83/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F843
-[/us/pl/92/412/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2Fs105
+[/us/pl/92/412/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F412%2FtI
 [/us/stat/86/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F645
 [/us/pl/93/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F500
 [/us/stat/88/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1553
-[/us/pl/95/52/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2Fs111
+[/us/pl/95/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F52%2FtI
 [/us/stat/91/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F240
 [/us/pl/91/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F184
-[/us/pl/100/418/s2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2413
-[/us/pl/100/418/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2414
-[/us/pl/100/418/s2415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2415%2Fa
-[/us/pl/100/418/s2415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2415%2Fb
-[/us/pl/100/418/s2416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2416%2Fa
-[/us/pl/100/418/s2416/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2416%2Fb%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t50/s4602/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FA
-[/us/pl/100/418/s2416/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2416%2Fb%2F3
-[/us/pl/100/418/s2416/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2416%2Fc%2F1
-[/us/pl/100/418/s2416/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2416%2Fc%2F2
-[/us/pl/100/418/s2416/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2416%2Fb%2F2
-[/us/pl/100/418/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2417
-[/us/pl/100/418/s2418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2418%2Fa
-[/us/pl/100/418/s2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2419
-[/us/pl/100/418/s2420/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2420%2Fa
-[/us/pl/100/418/s2418/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2418%2Fb
-[/us/pl/100/418/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2421
-[/us/pl/100/418/s2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2446
-[/us/pl/100/418/s2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2422
-[/us/pl/99/64/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fa%2F1
-[/us/pl/99/64/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fa%2F2
-[/us/pl/99/64/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fa%2F3
-[/us/pl/99/64/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fb%2F1
-[/us/pl/99/64/s105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fb%2F3
-[/us/pl/99/64/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fb%2F2
-[/us/pl/99/64/s105/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fc%2F1%2FA
-[/us/pl/99/64/s105/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fc%2F1%2FB
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4602/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F2%2FA
-[/us/pl/99/64/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs106%2Fa%2F1
-[/us/pl/99/64/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs106%2Fa%2F2
-[/us/pl/99/64/s105/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fd%2F1
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/usc/t50/s4603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fa%2F2
-[/us/pl/99/64/s105/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fd%2F2
-[/us/pl/99/64/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fa
-[/us/pl/99/64/s107/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fi
-[/us/pl/99/64/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fb
-[/us/pl/99/64/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fc
-[/us/pl/99/64/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fd%2F1
-[/us/pl/99/64/s107/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fd%2F2
-[/us/pl/99/64/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Fe
-[/us/pl/99/64/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fe
-[/us/pl/99/64/s107/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Ff%2F1
-[/us/pl/99/64/s107/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Ff%2F2
-[/us/pl/99/64/s107/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs107%2Ff%2F3
-[/us/pl/99/64/s105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Ff%2F1
-[/us/pl/99/64/s105/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Ff%2F3
-[/us/pl/99/64/s105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fg
-[/us/pl/99/64/s105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fh
-[/us/pl/99/64/s105/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fi
-[/us/pl/99/64/s105/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fj
-[/us/pl/99/64/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs105%2Fc%2F2
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F125
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
-[/us/pl/108/136/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1211
+[/us/pl/108/136/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXII
 [/us/stat/117/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1650
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
-[/us/pl/105/261/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1522
+[/us/pl/105/261/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXV
 [/us/stat/112/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2179
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXII
 [/us/stat/111/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1932
-[/us/pl/105/261/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1524
+[/us/pl/105/261/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXV
 [/us/stat/112/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2180
-[/us/pl/106/65/s1067/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/105/85/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1211
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/106/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1322
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F478
-[/us/pl/104/106/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1323
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F480
-[/us/pl/104/106/s1324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1324%2Fa
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F480
 [/us/pl/104/106/s1322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1322%2Fc
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. C, title XXXI, § 3146(e)(16)(A)][/us/pl/113/66/s3146/e/16/A], Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078], substituted “DEFENSE ENVIRONMENTAL CLEANUP” for “ENVIRONMENTAL RESTORATION AND WASTE MANAGEMENT” in subchapter heading.
+    2013—[Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(16)(A), Dec. 26, 2013, [127 Stat. 1078][/us/stat/127/1078], substituted “DEFENSE ENVIRONMENTAL CLEANUP” for “ENVIRONMENTAL RESTORATION AND WASTE MANAGEMENT” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s3146/e/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F16%2FA
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1078
 
 

@@ -53,7 +53,7 @@
 
             (B) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
-([Pub. L. 110–417, div. C, title XXXI, § 3114][/us/pl/110/417/s3114], Oct. 14, 2008, [122 Stat. 4756][/us/stat/122/4756].)
+([Pub. L. 110–417, div. C, title XXXI][/us/pl/110/417/dC/tXXXI], § 3114, Oct. 14, 2008, [122 Stat. 4756][/us/stat/122/4756].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/110/417/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3114
+[/us/pl/110/417/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXI
 [/us/stat/122/4756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4756
 [/us/pl/110/417/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3114
 [/us/pl/110/417/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3114

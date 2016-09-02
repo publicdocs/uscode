@@ -23,7 +23,7 @@
 
         Upon application to a court by the holder of an obligation or liability covered by this section, relief granted by this section to a servicemember may be modified as justice and equity require.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 706, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2865][/us/stat/117/2865].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title VII, § 706, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2865][/us/stat/117/2865].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2865
 
 

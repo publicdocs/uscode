@@ -27,7 +27,7 @@
 
         The Director of the National Reconnaissance Office shall be the head of the National Reconnaissance Office and shall discharge such functions and duties as are provided by this chapter or otherwise by law or executive order.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 106A, as added [Pub. L. 113–126, title IV, § 411(a)][/us/pl/113/126/s411/a], July 7, 2014, [128 Stat. 1409][/us/stat/128/1409].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 106A, as added [Pub. L. 113–126, title IV][/us/pl/113/126/tIV], § 411(a), July 7, 2014, [128 Stat. 1409][/us/stat/128/1409].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Position of Importance and Responsibility__ 
 
-[Pub. L. 113–126, title IV, § 411(b)][/us/pl/113/126/s411/b], July 7, 2014, [128 Stat. 1409][/us/stat/128/1409], provided that:
+[Pub. L. 113–126, title IV][/us/pl/113/126/tIV], § 411(b), July 7, 2014, [128 Stat. 1409][/us/stat/128/1409], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -57,13 +57,13 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/113/126/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs411%2Fa
+[/us/pl/113/126/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIV
 [/us/stat/128/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1409
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/113/126/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs413
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/113/126/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs411%2Fb
+[/us/pl/113/126/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIV
 [/us/stat/128/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1409
 [/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
 

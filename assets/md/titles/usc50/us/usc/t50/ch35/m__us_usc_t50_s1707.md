@@ -31,7 +31,7 @@
 
         (2) any foreign sources of trade or revenue that directly or indirectly support the ability of the adversarial government to sustain a military conflict against the United States.
 
-([Pub. L. 106–65, div. A, title XII, § 1231][/us/pl/106/65/s1231], Oct. 5, 1999, [113 Stat. 788][/us/stat/113/788].)
+([Pub. L. 106–65, div. A, title XII][/us/pl/106/65/dA/tXII], § 1231, Oct. 5, 1999, [113 Stat. 788][/us/stat/113/788].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1231
+[/us/pl/106/65/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXII
 [/us/stat/113/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F788
 
 

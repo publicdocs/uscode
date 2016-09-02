@@ -17,7 +17,7 @@
 
     Any physician or dentist who meets the qualifications for a reserve commission in the respective military departments shall, so long as there is a need for the services of such a physician or dentist, be afforded an opportunity to volunteer for a period of active duty of not less than twenty-four months. Any physician or dentist who so volunteers his service, and meets the qualifications for a reserve commission shall be ordered to active duty for not less than twenty-four months, notwithstanding the grade or rank to which such physician or dentist is entitled under the provisions of the Act of September 9, 1950, as amended.
 
-([June 29, 1953, ch. 158, § 7][/us/act/1953-06-29/ch158/s7], [67 Stat. 89][/us/stat/67/89].)
+([June 29, 1953, ch. 158][/us/act/1953-06-29/ch158], § 7, [67 Stat. 89][/us/stat/67/89].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1953-06-29/ch158/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-29%2Fch158%2Fs7
+[/us/act/1953-06-29/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-29%2Fch158
 [/us/stat/67/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F89
 [/us/act/1950-09-09/ch939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch939
 [/us/stat/64/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F826

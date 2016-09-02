@@ -17,7 +17,7 @@
 
     Plant or construction projects for which amounts are made available under this and subsequent appropriation Acts with a current estimated cost of less than $10,000,000 are considered for purposes of [section 2743 of this title][/us/usc/t50/s2743] as a plant project for which the approved total estimated cost does not exceed the minor construction threshold and for purposes of [section 2744 of this title][/us/usc/t50/s2744] as a construction project with a current estimated cost of less than a minor construction threshold.
 
-([Pub. L. 112–74, div. B, title III, § 306][/us/pl/112/74/s306], Dec. 23, 2011, [125 Stat. 877][/us/stat/125/877].)
+([Pub. L. 112–74, div. B, title III][/us/pl/112/74/dB/tIII], § 306, Dec. 23, 2011, [125 Stat. 877][/us/stat/125/877].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     Provisions similar to those in this section were contained in the following appropriation act:
 
-    [Pub. L. 111–8, div. C, title III, § 310][/us/pl/111/8/s310], Mar. 11, 2009, [123 Stat. 627][/us/stat/123/627].
+    [Pub. L. 111–8, div. C, title III][/us/pl/111/8/dC/tIII], § 310, Mar. 11, 2009, [123 Stat. 627][/us/stat/123/627].
 
 ----------
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t50/s2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2743
 [/us/usc/t50/s2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2744
-[/us/pl/112/74/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs306
+[/us/pl/112/74/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtIII
 [/us/stat/125/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F877
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F852
-[/us/pl/111/8/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs310
+[/us/pl/111/8/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdC%2FtIII
 [/us/stat/123/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F627
 
 

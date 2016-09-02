@@ -57,7 +57,7 @@
 
         During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
 
-([Pub. L. 102–183, title VIII, § 806][/us/pl/102/183/s806], Dec. 4, 1991, [105 Stat. 1276][/us/stat/105/1276]; [Pub. L. 103–178, title III, § 311(b)(1)][/us/pl/103/178/s311/b/1], Dec. 3, 1993, [107 Stat. 2037][/us/stat/107/2037]; [Pub. L. 104–201, div. A, title X, § 1078(f)(3)][/us/pl/104/201/s1078/f/3], Sept. 23, 1996, [110 Stat. 2667][/us/stat/110/2667]; [Pub. L. 105–272, title III, § 305(a)(4)][/us/pl/105/272/s305/a/4], Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401]; [Pub. L. 107–306, title VIII, § 811(b)(7)(A)][/us/pl/107/306/s811/b/7/A], Nov. 27, 2002, [116 Stat. 2425][/us/stat/116/2425].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 806, Dec. 4, 1991, [105 Stat. 1276][/us/stat/105/1276]; [Pub. L. 103–178, title III][/us/pl/103/178/tIII], § 311(b)(1), Dec. 3, 1993, [107 Stat. 2037][/us/stat/107/2037]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1078(f)(3), Sept. 23, 1996, [110 Stat. 2667][/us/stat/110/2667]; [Pub. L. 105–272, title III][/us/pl/105/272/tIII], § 305(a)(4), Oct. 20, 1998, [112 Stat. 2401][/us/stat/112/2401]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(7)(A), Nov. 27, 2002, [116 Stat. 2425][/us/stat/116/2425].)
 
  __References in Text__ 
 
@@ -83,15 +83,15 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
 [/us/usc/t50/s1902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fg
-[/us/pl/102/183/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs806
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1276
-[/us/pl/103/178/s311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs311%2Fb%2F1
+[/us/pl/103/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtIII
 [/us/stat/107/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2037
-[/us/pl/104/201/s1078/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1078%2Ff%2F3
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2667
-[/us/pl/105/272/s305/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs305%2Fa%2F4
+[/us/pl/105/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtIII
 [/us/stat/112/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2401
-[/us/pl/107/306/s811/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F7%2FA
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2425
 [/us/usc/t50/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1903%2Fb
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306

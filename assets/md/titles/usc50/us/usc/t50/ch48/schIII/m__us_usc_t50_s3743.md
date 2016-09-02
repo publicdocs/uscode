@@ -73,7 +73,7 @@
 
             (F) any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under the Program.
 
-([Pub. L. 113–291, div. A, title XIII, § 1343][/us/pl/113/291/s1343], Dec. 19, 2014, [128 Stat. 3605][/us/stat/128/3605].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1343, Dec. 19, 2014, [128 Stat. 3605][/us/stat/128/3605].)
 
 ----------
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t50/s3711/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3711%2Fa%2F6
-[/us/pl/113/291/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1343
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3605
 
 

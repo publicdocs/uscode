@@ -93,7 +93,7 @@
 
         For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
 
-([June 20, 1949, ch. 227, § 16][/us/act/1949-06-20/ch227/s16], as added [Pub. L. 99–569, title III, § 303(a)][/us/pl/99/569/s303/a], Oct. 27, 1986, [100 Stat. 3194][/us/stat/100/3194]; amended [Pub. L. 102–88, title III, § 307(c)][/us/pl/102/88/s307/c], Aug. 14, 1991, [105 Stat. 433][/us/stat/105/433]; [Pub. L. 103–178, title II, § 203(c)][/us/pl/103/178/s203/c], Dec. 3, 1993, [107 Stat. 2031][/us/stat/107/2031]; [Pub. L. 108–458, title I, § 1071(b)(2)(B)][/us/pl/108/458/s1071/b/2/B], (b)(3)(B), (C), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3691.)
+([June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], § 16, as added [Pub. L. 99–569, title III][/us/pl/99/569/tIII], § 303(a), Oct. 27, 1986, [100 Stat. 3194][/us/stat/100/3194]; amended [Pub. L. 102–88, title III][/us/pl/102/88/tIII], § 307(c), Aug. 14, 1991, [105 Stat. 433][/us/stat/105/433]; [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 203(c), Dec. 3, 1993, [107 Stat. 2031][/us/stat/107/2031]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(b)(2)(B), (b)(3)(B), (C), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3691.)
 
  __Codification__ 
 
@@ -101,21 +101,21 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(2). [Pub. L. 108–458, § 1071(b)(3)(B)][/us/pl/108/458/s1071/b/3/B], substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
+    2004—Subsec. (b)(2). [Pub. L. 108–458][/us/pl/108/458], § 1071(b)(3)(B), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 108–458, § 1071(b)(3)(C)][/us/pl/108/458/s1071/b/3/C], substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in two places.
+    Subsec. (b)(3). [Pub. L. 108–458][/us/pl/108/458], § 1071(b)(3)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in two places.
 
-    Subsec. (c)(1)(B). [Pub. L. 108–458, § 1071(b)(2)(B)][/us/pl/108/458/s1071/b/2/B], struck out “of Central Intelligence” after “Director”.
+    Subsec. (c)(1)(B). [Pub. L. 108–458][/us/pl/108/458], § 1071(b)(2)(B), struck out “of Central Intelligence” after “Director”.
 
-    1993—Subsec. (a). [Pub. L. 103–178, § 203(c)(2)(A)][/us/pl/103/178/s203/c/2/A], substituted “subsection (e)” for “subsection (c)(1)” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(2)(A), substituted “subsection (e)” for “subsection (c)(1)” in introductory provisions.
 
-    Subsecs. (c), (d). [Pub. L. 103–178, § 203(c)(1)][/us/pl/103/178/s203/c/1], added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+    Subsecs. (c), (d). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(1), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 103–178, § 203(c)(2)(B)][/us/pl/103/178/s203/c/2/B], inserted “or to subsection (d) of this section” after “subsection (b)(1) of this section” in par. (2).
+    Subsec. (e). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(2)(B), inserted “or to subsection (d) of this section” after “subsection (b)(1) of this section” in par. (2).
 
-    [Pub. L. 103–178, § 203(c)(1)(A)][/us/pl/103/178/s203/c/1/A], redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+    [Pub. L. 103–178][/us/pl/103/178], § 203(c)(1)(A), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-    Subsecs. (f), (g). [Pub. L. 103–178, § 203(c)(1)(A)][/us/pl/103/178/s203/c/1/A], redesignated subsecs. (d) and (e) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 103–178][/us/pl/103/178], § 203(c)(1)(A), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
     1991—Subsec. (c)(3). [Pub. L. 102–88][/us/pl/102/88] added par. (3).
 
@@ -131,19 +131,19 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–88, title III, § 307(d)][/us/pl/102/88/s307/d], Aug. 14, 1991, [105 Stat. 433][/us/stat/105/433], provided that: 
+[Pub. L. 102–88, title III][/us/pl/102/88/tIII], § 307(d), Aug. 14, 1991, [105 Stat. 433][/us/stat/105/433], provided that: 
 
 > “The amendments made by this section \[amending this section and provisions formerly set out as a note under [section 403 of this title][/us/usc/t50/s403]\] shall take effect as of October 1, 1990. No benefits provided pursuant to the amendments made by this section shall be payable with respect to any period before such date.”
 
  __Effective Date__ 
 
-[Pub. L. 99–569, title III, § 303(b)][/us/pl/99/569/s303/b], Oct. 27, 1986, [100 Stat. 3195][/us/stat/100/3195], provided that: 
+[Pub. L. 99–569, title III][/us/pl/99/569/tIII], § 303(b), Oct. 27, 1986, [100 Stat. 3195][/us/stat/100/3195], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1986.”
 
  __Compliance With Budget Act__ 
 
-[Pub. L. 102–88, title III, § 307(e)][/us/pl/102/88/s307/e], Aug. 14, 1991, [105 Stat. 433][/us/stat/105/433], provided that: 
+[Pub. L. 102–88, title III][/us/pl/102/88/tIII], § 307(e), Aug. 14, 1991, [105 Stat. 433][/us/stat/105/433], provided that: 
 
 > “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[[2 U.S.C. 651(c)][/us/usc/t2/s651/c]\]) provided pursuant to the amendments made by this section \[amending this section and provisions formerly set out as a note under [section 403 of this title][/us/usc/t50/s403]\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
@@ -156,24 +156,24 @@
 
 [/us/usc/t5/s8909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909
 [/us/usc/t50/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2013
-[/us/act/1949-06-20/ch227/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs16
-[/us/pl/99/569/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs303%2Fa
+[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
+[/us/pl/99/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIII
 [/us/stat/100/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3194
-[/us/pl/102/88/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs307%2Fc
+[/us/pl/102/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIII
 [/us/stat/105/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F433
-[/us/pl/103/178/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2031
-[/us/pl/108/458/s1071/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F2%2FB
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
 [/us/usc/t50/s403p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403p
-[/us/pl/108/458/s1071/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F3%2FB
-[/us/pl/108/458/s1071/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F3%2FC
-[/us/pl/108/458/s1071/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F2%2FB
-[/us/pl/103/178/s203/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc%2F2%2FA
-[/us/pl/103/178/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc%2F1
-[/us/pl/103/178/s203/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc%2F2%2FB
-[/us/pl/103/178/s203/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc%2F1%2FA
-[/us/pl/103/178/s203/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc%2F1%2FA
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/102/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
@@ -183,12 +183,12 @@
 [/us/pl/103/178/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fc
 [/us/pl/103/178/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs203%2Fe
 [/us/usc/t50/s2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2032
-[/us/pl/102/88/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs307%2Fd
+[/us/pl/102/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIII
 [/us/stat/105/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F433
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
-[/us/pl/99/569/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs303%2Fb
+[/us/pl/99/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIII
 [/us/stat/100/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3195
-[/us/pl/102/88/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs307%2Fe
+[/us/pl/102/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIII
 [/us/stat/105/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F433
 [/us/usc/t2/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403

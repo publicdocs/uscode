@@ -17,7 +17,7 @@
 
     The Attorney General may at any time, make, prescribe, amend, and rescind such rules, regulations and forms as he deems necessary to carry out the provisions of this subchapter.
 
-([Aug. 1, 1956, ch. 849, § 5][/us/act/1956-08-01/ch849/s5], [70 Stat. 900][/us/stat/70/900].)
+([Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 5, [70 Stat. 900][/us/stat/70/900].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch849/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs5
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F900
 
 

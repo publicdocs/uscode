@@ -61,7 +61,7 @@
 
             (C) funding to support the administrative and operational activities of the requested personnel levels.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506B, as added [Pub. L. 111–259, title III, § 305(a)][/us/pl/111/259/s305/a], Oct. 7, 2010, [124 Stat. 2659][/us/stat/124/2659]; amended [Pub. L. 113–293, title III, § 327][/us/pl/113/293/s327], Dec. 19, 2014, [128 Stat. 4006][/us/stat/128/4006].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506B, as added [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 305(a), Oct. 7, 2010, [124 Stat. 2659][/us/stat/124/2659]; amended [Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 327, Dec. 19, 2014, [128 Stat. 4006][/us/stat/128/4006].)
 
  __Codification__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(11). [Pub. L. 113–293, § 327(1)][/us/pl/113/293/s327/1], struck out “or contracted” after “employed”.
+    2014—Subsec. (c)(11). [Pub. L. 113–293][/us/pl/113/293], § 327(1), struck out “or contracted” after “employed”.
 
-    Subsec. (c)(12), (13). [Pub. L. 113–293, § 327(2)][/us/pl/113/293/s327/2], (3), added par. (12) and redesignated former par. (12) as (13).
+    Subsec. (c)(12), (13). [Pub. L. 113–293][/us/pl/113/293], § 327(2), (3), added par. (12) and redesignated former par. (12) as (13).
 
  __Personnel Information Notification Policy by the Director of National Intelligence__ 
 
-[Pub. L. 114–113, div. M, title III, § 308][/us/pl/114/113/s308], Dec. 18, 2015, [129 Stat. 2917][/us/stat/129/2917], provided that:
+[Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 308, Dec. 18, 2015, [129 Stat. 2917][/us/stat/129/2917], provided that:
 
 >     “(a)  __Directive Required__  __.—__ 
 
@@ -117,11 +117,11 @@
 
 >     Not later than 90 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Director shall submit to the congressional intelligence committees the directive issued under subsection (a).”
 
-    \[For definitions of “congressional intelligence committees” and “intelligence community” as used in [section 308 of div. M of Pub. L. 114–113][/us/pl/114/113/s308], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].\]
+    \[For definitions of “congressional intelligence committees” and “intelligence community” as used in [section 308 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s308], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].\]
 
  __Implementation__ 
 
-[Pub. L. 111–259, title III, § 305(b)][/us/pl/111/259/s305/b], Oct. 7, 2010, [124 Stat. 2661][/us/stat/124/2661], provided that: 
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 305(b), Oct. 7, 2010, [124 Stat. 2661][/us/stat/124/2661], provided that: 
 
 > “The first assessment required to be submitted under section 506B(b) of the National Security Act of 1947 \[[50 U.S.C. 3098(b)][/us/usc/t50/s3098/b]\], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code.”
 
@@ -136,24 +136,24 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/111/259/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs305%2Fa
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2659
-[/us/pl/113/293/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4006
 [/us/usc/t50/s415a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%934
-[/us/pl/113/293/s327/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327%2F1
-[/us/pl/113/293/s327/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327%2F2
-[/us/pl/114/113/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs308
+[/us/pl/113/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293
+[/us/pl/113/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2917
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/usc/t50/s404i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%E2%80%931
 [/us/usc/t50/s3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3051
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/114/113/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs308
-[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/pl/114/113/dM/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs308
+[/us/pl/114/113/dM/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/111/259/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs305%2Fb
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2661
 [/us/usc/t50/s3098/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3098%2Fb
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105

@@ -35,7 +35,7 @@
 
         (2) The budget justification materials submitted to Congress in support of the Department of Defense budget for the fiscal year succeeding such fiscal year (as submitted with the budget of the President under [section 1105 of title 31][/us/usc/t31/s1105]).
 
-([Pub. L. 113–291, div. A, title XIII, § 1342][/us/pl/113/291/s1342], Dec. 19, 2014, [128 Stat. 3604][/us/stat/128/3604].)
+([Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1342, Dec. 19, 2014, [128 Stat. 3604][/us/stat/128/3604].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t50/s3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3743
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/113/291/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1342
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3604
 
 

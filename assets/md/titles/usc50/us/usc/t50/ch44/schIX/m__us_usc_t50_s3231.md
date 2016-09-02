@@ -23,7 +23,7 @@
 
         An intelligence activity shall be treated as authorized for purposes of subsection (a) of this section if the intelligence activity is authorized by an appropriate official of the United States Government, acting within the scope of the official duties of that official and in compliance with Federal law and any applicable Presidential directive.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1101, formerly title X, § 1001, as added [Pub. L. 106–567, title III, § 308(a)][/us/pl/106/567/s308/a], Dec. 27, 2000, [114 Stat. 2839][/us/stat/114/2839]; renumbered title XI, § 1101, [Pub. L. 107–306, title III, § 331(a)(1)][/us/pl/107/306/s331/a/1], (2), Nov. 27, 2002, [116 Stat. 2394][/us/stat/116/2394].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title XI, § 1101, formerly title X, § 1001, as added [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 308(a), Dec. 27, 2000, [114 Stat. 2839][/us/stat/114/2839]; renumbered title XI, § 1101, [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 331(a)(1), (2), Nov. 27, 2002, [116 Stat. 2394][/us/stat/116/2394].)
 
  __Codification__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/106/567/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs308%2Fa
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2839
-[/us/pl/107/306/s331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs331%2Fa%2F1
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2394
 [/us/usc/t50/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs442
 

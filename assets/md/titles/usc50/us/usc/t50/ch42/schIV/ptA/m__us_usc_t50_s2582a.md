@@ -73,17 +73,17 @@
 
         (5) Federal contributions to the Uranium Enrichment Decontamination and Decommissioning Fund established under [section 2297g of title 42][/us/usc/t42/s2297g].
 
-([Pub. L. 107–314, div. D, title XLIV, § 4402A][/us/pl/107/314/s4402A], as added [Pub. L. 111–383, div. C, title XXXI, § 3116(a)][/us/pl/111/383/s3116/a], Jan. 7, 2011, [124 Stat. 4512][/us/stat/124/4512]; amended [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(3)][/us/pl/113/66/s3146/e/3], Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4402A, as added [Pub. L. 111–383, div. C, title XXXI][/us/pl/111/383/dC/tXXXI], § 3116(a), Jan. 7, 2011, [124 Stat. 4512][/us/stat/124/4512]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(e)(3), Dec. 26, 2013, [127 Stat. 1076][/us/stat/127/1076].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, § 3146(e)(3)(A)][/us/pl/113/66/s3146/e/3/A], substituted “cleanup” for “management” in section catchline.
+    2013—[Pub. L. 113–66][/us/pl/113/66], § 3146(e)(3)(A), substituted “cleanup” for “management” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–66, § 3146(e)(3)(B)(i)][/us/pl/113/66/s3146/e/3/B/i], substituted “cleanup” for “management” in introductory provisions.
+    Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(3)(B)(i), substituted “cleanup” for “management” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 113–66, § 3146(e)(3)(B)(ii)][/us/pl/113/66/s3146/e/3/B/ii], substituted “defense environmental cleanup” for “environmental management”.
+    Subsec. (a)(1). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(3)(B)(ii), substituted “defense environmental cleanup” for “environmental management”.
 
-    Subsec. (b). [Pub. L. 113–66, § 3146(e)(3)(C)][/us/pl/113/66/s3146/e/3/C], substituted “cleanup” for “management” in introductory provisions and par. (1).
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 3146(e)(3)(C), substituted “cleanup” for “management” in introductory provisions and par. (1).
 
 ----------
 
@@ -94,14 +94,14 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t42/s2297g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297g
-[/us/pl/107/314/s4402A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4402A
-[/us/pl/111/383/s3116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3116%2Fa
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/111/383/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXI
 [/us/stat/124/4512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4512
-[/us/pl/113/66/s3146/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F3
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1076
-[/us/pl/113/66/s3146/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F3%2FA
-[/us/pl/113/66/s3146/e/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F3%2FB%2Fi
-[/us/pl/113/66/s3146/e/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F3%2FB%2Fii
-[/us/pl/113/66/s3146/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F3%2FC
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

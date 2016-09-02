@@ -17,7 +17,7 @@
 
     If any provision of this subchapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of this subchapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
 
-([Pub. L. 100–383, title II, § 209][/us/pl/100/383/s209], Aug. 10, 1988, [102 Stat. 916][/us/stat/102/916].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 209, Aug. 10, 1988, [102 Stat. 916][/us/stat/102/916].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/383/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs209
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F916
 
 

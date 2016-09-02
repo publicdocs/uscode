@@ -21,7 +21,7 @@
 
     (2) may terminate the Committee on Nonproliferation established under [section 2352 of this title][/us/usc/t50/s2352].
 
-([Pub. L. 104–201, div. A, title XIV, § 1444][/us/pl/104/201/s1444], Sept. 23, 1996, [110 Stat. 2730][/us/stat/110/2730]; [Pub. L. 105–261, div. A, title X, § 1069(c)(3)][/us/pl/105/261/s1069/c/3], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1444, Sept. 23, 1996, [110 Stat. 2730][/us/stat/110/2730]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(c)(3), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t50/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2351
 [/us/usc/t50/s2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2352
-[/us/pl/104/201/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1444
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2730
-[/us/pl/105/261/s1069/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fc%2F3
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t50/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2351

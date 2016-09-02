@@ -31,7 +31,7 @@
 
         In order to obtain the protections of this section, the claimant of a mining location shall, before the end of the assessment year in which military service is begun or within 60 days after the end of such assessment year, cause to be filed in the office where the location notice or certificate is recorded a notice communicating the fact of military service and the desire to hold the mining claim under this section.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 504, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2856][/us/stat/117/2856].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title V, § 504, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2856][/us/stat/117/2856].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 504 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1187][/us/stat/54/1187]; [Pub. L. 102–12, § 9(19)][/us/pl/102/12/s9/19], Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to desert-land entries and the suspension of requirements, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3993 of this title][/us/usc/t50/s3993].
+    A prior section 504 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. V, [54 Stat. 1187][/us/stat/54/1187]; [Pub. L. 102–12][/us/pl/102/12], § 9(19), Mar. 18, 1991, [105 Stat. 40][/us/stat/105/40], related to desert-land entries and the suspension of requirements, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189]. See [section 3993 of this title][/us/usc/t50/s3993].
 
 ----------
 
@@ -51,11 +51,11 @@
 [/us/usc/t30/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28
 [/us/usc/t30/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2856
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1187
-[/us/pl/102/12/s9/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs9%2F19
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F40
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/usc/t50/s3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3993

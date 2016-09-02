@@ -23,7 +23,7 @@
 
     (3) reasonable attorney’s fees and other investigative and litigation costs reasonably incurred.
 
-([Pub. L. 95–511, title III, § 308][/us/pl/95/511/s308], as added [Pub. L. 103–359, title VIII, § 807(a)(3)][/us/pl/103/359/s807/a/3], Oct. 14, 1994, [108 Stat. 3452][/us/stat/108/3452].)
+([Pub. L. 95–511, title III][/us/pl/95/511/tIII], § 308, as added [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 807(a)(3), Oct. 14, 1994, [108 Stat. 3452][/us/stat/108/3452].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t50/s1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1827
-[/us/pl/95/511/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs308
-[/us/pl/103/359/s807/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs807%2Fa%2F3
+[/us/pl/95/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtIII
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3452
 
 

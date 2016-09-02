@@ -45,7 +45,7 @@
 
         (2) An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant’s agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the nuclear security enterprise for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.
 
-([Pub. L. 107–314, div. D, title XLVI, § 4623][/us/pl/107/314/s4623], formerly [Pub. L. 104–106, div. C, title XXXI, § 3140][/us/pl/104/106/s3140], Feb. 10, 1996, [110 Stat. 621][/us/stat/110/621]; [Pub. L. 106–65, div. C, title XXXI, § 3162(a)][/us/pl/106/65/s3162/a]–(d), Oct. 5, 1999, [113 Stat. 943][/us/stat/113/943]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4623][/us/pl/107/314/s4623], by [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(10)][/us/pl/108/136/s3141/i/10], Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 112–239, div. C, title XXXI, § 3131(s)(1)][/us/pl/112/239/s3131/s/1], Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(8)][/us/pl/113/66/s3146/g/8], Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
+([Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4623, formerly [Pub. L. 104–106, div. C, title XXXI][/us/pl/104/106/dC/tXXXI], § 3140, Feb. 10, 1996, [110 Stat. 621][/us/stat/110/621]; [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3162(a)–(d), Oct. 5, 1999, [113 Stat. 943][/us/stat/113/943]; renumbered [Pub. L. 107–314, div. D, title XLVI][/us/pl/107/314/dD/tXLVI], § 4623, by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(i)(10), Nov. 24, 2003, [117 Stat. 1779][/us/stat/117/1779]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3131(s)(1), Jan. 2, 2013, [126 Stat. 2184][/us/stat/126/2184]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(g)(8), Dec. 26, 2013, [127 Stat. 1080][/us/stat/127/1080].)
 
  __Codification__ 
 
@@ -53,13 +53,13 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 3131(s)(1)(A)][/us/pl/112/239/s3131/s/1/A], substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in section catchline.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 3131(s)(1)(A), substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–239, § 3131(s)(1)(B)][/us/pl/112/239/s3131/s/1/B], substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in two places.
+    Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 3131(s)(1)(B), substituted “nuclear security enterprise” for “Department of Energy nuclear weapons complex” in two places.
 
     Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] inserted “either of” after “who are” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 112–239, § 3131(s)(1)(C)][/us/pl/112/239/s3131/s/1/C], substituted “national security laboratories and nuclear weapons production facilities.” for “following facilities:
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 3131(s)(1)(C), substituted “national security laboratories and nuclear weapons production facilities.” for “following facilities:
 
     “(1) The Kansas City Plant, Kansas City, Missouri.
 
@@ -75,19 +75,19 @@
 
     “(7) The Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.”
 
-    Subsec. (f)(2). [Pub. L. 112–239, § 3131(s)(1)(D)][/us/pl/112/239/s3131/s/1/D], substituted “the nuclear security enterprise for” for “the Department of Energy for”.
+    Subsec. (f)(2). [Pub. L. 112–239][/us/pl/112/239], § 3131(s)(1)(D), substituted “the nuclear security enterprise for” for “the Department of Energy for”.
 
-    1999—Subsec. (a). [Pub. L. 106–65, § 3162(a)][/us/pl/106/65/s3162/a], substituted “Secretary shall” for “Secretary shall—”, struck out par. (1) designation before “provide educational assistance”, and struck out pars. (2) and (3) which read as follows:
+    1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 3162(a), substituted “Secretary shall” for “Secretary shall—”, struck out par. (1) designation before “provide educational assistance”, and struck out pars. (2) and (3) which read as follows:
 
     “(2) employ eligible individuals at the facilities described in subsection (c) in order to facilitate the development of such skills by these individuals; or
 
     “(3) provide eligible individuals with the assistance and the employment.”
 
-    Subsec. (b). [Pub. L. 106–65, § 3162(b)][/us/pl/106/65/s3162/b], inserted “are United States citizens who” after “program” in introductory provisions.
+    Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 3162(b), inserted “are United States citizens who” after “program” in introductory provisions.
 
-    Subsec. (c)(5) to (7). [Pub. L. 106–65, § 3162(c)][/us/pl/106/65/s3162/c], added pars. (5) to (7).
+    Subsec. (c)(5) to (7). [Pub. L. 106–65][/us/pl/106/65], § 3162(c), added pars. (5) to (7).
 
-    Subsec. (f). [Pub. L. 106–65, § 3162(d)][/us/pl/106/65/s3162/d], amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b), $10,000,000 may be used for the purpose of carrying out the fellowship program under this section.”
+    Subsec. (f). [Pub. L. 106–65][/us/pl/106/65], § 3162(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b), $10,000,000 may be used for the purpose of carrying out the fellowship program under this section.”
 
 ----------
 
@@ -96,28 +96,28 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4623
-[/us/pl/104/106/s3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3140
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/104/106/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXI
 [/us/stat/110/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F621
-[/us/pl/106/65/s3162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3162%2Fa
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F943
-[/us/pl/107/314/s4623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4623
-[/us/pl/108/136/s3141/i/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fi%2F10
+[/us/pl/107/314/dD/tXLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLVI
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1779
-[/us/pl/112/239/s3131/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2184
-[/us/pl/113/66/s3146/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fg%2F8
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1080
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/112/239/s3131/s/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FA
-[/us/pl/112/239/s3131/s/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s3131/s/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FC
-[/us/pl/112/239/s3131/s/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3131%2Fs%2F1%2FD
-[/us/pl/106/65/s3162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3162%2Fa
-[/us/pl/106/65/s3162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3162%2Fb
-[/us/pl/106/65/s3162/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3162%2Fc
-[/us/pl/106/65/s3162/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3162%2Fd
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 
 

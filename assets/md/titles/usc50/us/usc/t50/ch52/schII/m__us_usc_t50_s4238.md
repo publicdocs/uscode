@@ -25,7 +25,7 @@
 
     shall limit the total benefits conferred to an amount not in excess of the appropriations for such fiscal year. Any provision of this subchapter which, directly or indirectly, authorizes the enactment of new budget authority shall be effective only for fiscal year 1989 and thereafter.
 
-([Pub. L. 100–383, title II, § 208][/us/pl/100/383/s208], Aug. 10, 1988, [102 Stat. 916][/us/stat/102/916].)
+([Pub. L. 100–383, title II][/us/pl/100/383/tII], § 208, Aug. 10, 1988, [102 Stat. 916][/us/stat/102/916].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t50/s4233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4233
 [/us/usc/t50/s4235/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4235%2Fb
-[/us/pl/100/383/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2Fs208
+[/us/pl/100/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F383%2FtII
 [/us/stat/102/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F916
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

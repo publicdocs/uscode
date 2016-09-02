@@ -17,11 +17,11 @@
 
     The tank waste remediation system environmental project, Richland, Washington, including all programs relating to the retrieval and treatment of tank waste at the site at Hanford, Washington, under the management of the Office of River Protection, shall be known and designated as the “River Protection Project”. Any reference to that project in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the River Protection Project.
 
-([Pub. L. 107–314, div. D, title XLIV, § 4443][/us/pl/107/314/s4443], formerly [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3141(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–462; renumbered [Pub. L. 107–314, div. D, title XLIV, § 4443][/us/pl/107/314/s4443], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(g)(18)][/us/pl/108/136/s3141/g/18], Nov. 24, 2003, [117 Stat. 1768][/us/stat/117/1768].)
+([Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4443, formerly [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3141(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–462; renumbered [Pub. L. 107–314, div. D, title XLIV][/us/pl/107/314/dD/tXLIV], § 4443, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3141(g)(18), Nov. 24, 2003, [117 Stat. 1768][/us/stat/117/1768].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, § 3141(g)(18)(C)][/us/pl/108/136/s3141/g/18/C], inserted section catchline and struck out former subsec. heading.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 3141(g)(18)(C), inserted section catchline and struck out former subsec. heading.
 
 ----------
 
@@ -30,12 +30,12 @@
 ----------
 ----------
 
-[/us/pl/107/314/s4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4443
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4443
-[/us/pl/108/136/s3141/g/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F18
+[/us/pl/107/314/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLIV
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1768
-[/us/pl/108/136/s3141/g/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fg%2F18%2FC
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

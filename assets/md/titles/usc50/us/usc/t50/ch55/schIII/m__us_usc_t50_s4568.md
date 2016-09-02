@@ -79,7 +79,7 @@
 
         The findings and recommendations of the reports required by subsection (a), and any interagency reports and analyses shall be considered by representatives of the United States during bilateral and multilateral negotiations to minimize the adverse effects of offsets.
 
-([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 723, as added [Pub. L. 111–67, § 12(a)][/us/pl/111/67/s12/a], Sept. 30, 2009, [123 Stat. 2020][/us/stat/123/2020].)
+([Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, § 723, as added [Pub. L. 111–67][/us/pl/111/67], § 12(a), Sept. 30, 2009, [123 Stat. 2020][/us/stat/123/2020].)
 
  __Termination of Section__ 
 
@@ -99,7 +99,7 @@
 
  __Report on Impact of Offsets on Domestic Contractors and Lower Tier Subcontractors__ 
 
-[Pub. L. 108–195, § 7(a)][/us/pl/108/195/s7/a], Dec. 19, 2003, [117 Stat. 2894][/us/stat/117/2894], as amended by [Pub. L. 111–67, § 12(b)(3)][/us/pl/111/67/s12/b/3], Sept. 30, 2009, [123 Stat. 2022][/us/stat/123/2022], provided that:
+[Pub. L. 108–195][/us/pl/108/195], § 7(a), Dec. 19, 2003, [117 Stat. 2894][/us/stat/117/2894], as amended by [Pub. L. 111–67][/us/pl/111/67], § 12(b)(3), Sept. 30, 2009, [123 Stat. 2022][/us/stat/123/2022], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -125,11 +125,11 @@
 
 >         The Secretary may require a non-Federal entity to provide information to the Secretary in the same form that is already provided to a foreign government in fulfilling an offset arrangement, industrial participation agreement, or similar arrangement.”
 
-    \[[Pub. L. 111–67, § 12(b)(3)][/us/pl/111/67/s12/b/3], which directed amendment of section 7(a) of the “Defense Production Act Amendments of 2003 (50 U.S.C. App. 2099 note)” by striking “section 309(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2099(a))” and inserting “section 723(a) of the Defense Production Act of 1950”, was executed to [section 7(a) of Pub. L. 108–195][/us/pl/108/195/s7/a], the Defense Production Act Reauthorization of 2003, set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–67][/us/pl/111/67], § 12(b)(3), which directed amendment of section 7(a) of the “Defense Production Act Amendments of 2003 (50 U.S.C. App. 2099 note)” by striking “section 309(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2099(a))” and inserting “section 723(a) of the Defense Production Act of 1950”, was executed to [section 7(a) of Pub. L. 108–195][/us/pl/108/195/s7/a], the Defense Production Act Reauthorization of 2003, set out above, to reflect the probable intent of Congress.\]
 
  __Defense Offsets Disclosure__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, subtitle D\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–500, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, subtitle D\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–500, provided that:
 
 > “SEC. 1241. __SHORT TITLE.__ 
 
@@ -361,7 +361,7 @@
 
  __Declaration of Offset Policy__ 
 
-[Pub. L. 102–558, title I, § 123][/us/pl/102/558/s123], Oct. 28, 1992, [106 Stat. 4206][/us/stat/106/4206], as amended by [Pub. L. 108–195, § 7(c)][/us/pl/108/195/s7/c], Dec. 19, 2003, [117 Stat. 2895][/us/stat/117/2895]; [Pub. L. 111–67, § 12(b)(1)][/us/pl/111/67/s12/b/1], Sept. 30, 2009, [123 Stat. 2022][/us/stat/123/2022], provided that:
+[Pub. L. 102–558, title I][/us/pl/102/558/tI], § 123, Oct. 28, 1992, [106 Stat. 4206][/us/stat/106/4206], as amended by [Pub. L. 108–195][/us/pl/108/195], § 7(c), Dec. 19, 2003, [117 Stat. 2895][/us/stat/117/2895]; [Pub. L. 111–67][/us/pl/111/67], § 12(b)(1), Sept. 30, 2009, [123 Stat. 2022][/us/stat/123/2022], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -433,31 +433,31 @@
 ----------
 
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/111/67/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs12%2Fa
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2020
 [/us/usc/t50/s4564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4564%2Fa
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t50/s4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4553
-[/us/pl/108/195/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs7%2Fa
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
 [/us/stat/117/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2894
-[/us/pl/111/67/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs12%2Fb%2F3
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2022
 [/us/usc/t50/s4568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4568%2Fa
-[/us/pl/111/67/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs12%2Fb%2F3
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/pl/108/195/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs7%2Fa
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776
 [/us/usc/t22/s2779a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2779a
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/102/558/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs123
+[/us/pl/102/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtI
 [/us/stat/106/4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4206
-[/us/pl/108/195/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195%2Fs7%2Fc
+[/us/pl/108/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F195
 [/us/stat/117/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2895
-[/us/pl/111/67/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67%2Fs12%2Fb%2F1
+[/us/pl/111/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F67
 [/us/stat/123/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2022
 [/us/usc/t50/s4568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4568%2Fa
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

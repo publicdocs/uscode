@@ -21,7 +21,7 @@
 
     (2) to provide for the temporary suspension of judicial and administrative proceedings and transactions that may adversely affect the civil rights of servicemembers during their military service.
 
-([Oct. 17, 1940, ch. 888, § 2][/us/act/1940-10-17/ch888/s2], as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2836][/us/stat/117/2836].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], § 2, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2836][/us/stat/117/2836].)
 
  __Codification__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1940-10-17/ch888/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888%2Fs2
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2836
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1179

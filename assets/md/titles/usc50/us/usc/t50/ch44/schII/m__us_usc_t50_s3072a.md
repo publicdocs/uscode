@@ -57,7 +57,7 @@
 
             (iii) the Committees on Appropriations, Government Reform and Oversight, and the Judiciary of the House of Representatives.
 
-([Pub. L. 108–177, title III, § 311(b)][/us/pl/108/177/s311/b], Dec. 13, 2003, [117 Stat. 2605][/us/stat/117/2605].)
+([Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 311(b), Dec. 13, 2003, [117 Stat. 2605][/us/stat/117/2605].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t50/s3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3072
-[/us/pl/108/177/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs311%2Fb
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2605
 [/us/usc/t50/s409b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs409b%E2%80%931
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2528.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2529.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2528a)
 
-## § 2528a. Repealed. [Pub. L. 110–181, div. C, title XXXI, § 3112(a)][/us/pl/110/181/s3112/a], Jan. 28, 2008, [122 Stat. 577][/us/stat/122/577]
+## § 2528a. Repealed. [Pub. L. 110–181, div. C, title XXXI][/us/pl/110/181/dC/tXXXI], § 3112(a), Jan. 28, 2008, [122 Stat. 577][/us/stat/122/577]
 
-    Section, [Pub. L. 108–136, div. C, title XXXI, § 3113][/us/pl/108/136/s3113], Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], related to readiness posture for resumption by the United States of underground nuclear weapons tests.
+    Section, [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3113, Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], related to readiness posture for resumption by the United States of underground nuclear weapons tests.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/110/181/s3112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3112%2Fa
+[/us/pl/110/181/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXI
 [/us/stat/122/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F577
-[/us/pl/108/136/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3113
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1743
 
 

@@ -45,19 +45,19 @@
 
         An individual entitled to an annuity from the fund may make allotments or assignments of amounts from such annuity for such purposes as the Director considers appropriate.
 
-([Pub. L. 88–643, title II, § 264][/us/pl/88/643/s264], as added [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3237][/us/stat/106/3237]; amended [Pub. L. 103–178, title II, § 202(a)(12)][/us/pl/103/178/s202/a/12], Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
+([Pub. L. 88–643, title II][/us/pl/88/643/tII], § 264, as added [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3237][/us/stat/106/3237]; amended [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 202(a)(12), Dec. 3, 1993, [107 Stat. 2027][/us/stat/107/2027].)
 
  __Prior Provisions__ 
 
-    A prior [section 264 of Pub. L. 88–643][/us/pl/88/643/s264], as added [Pub. L. 94–522, title II, § 212][/us/pl/94/522/s212], Oct. 17, 1976, [90 Stat. 2471][/us/stat/90/2471], related to recovery of payments and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802]. See [section 2095 of this title][/us/usc/t50/s2095].
+    A prior [section 264 of Pub. L. 88–643][/us/pl/88/643/s264], as added [Pub. L. 94–522, title II][/us/pl/94/522/tII], § 212, Oct. 17, 1976, [90 Stat. 2471][/us/stat/90/2471], related to recovery of payments and was set out as a note under [section 403 of this title][/us/usc/t50/s403] prior to the general amendment of [Pub. L. 88–643][/us/pl/88/643] by [section 802 of Pub. L. 102–496][/us/pl/102/496/s802]. See [section 2095 of this title][/us/usc/t50/s2095].
 
  __Amendments__ 
 
-    1993—Subsec. (b)(2). [Pub. L. 103–178, § 202(a)(12)(A)][/us/pl/103/178/s202/a/12/A], inserted “and” at end.
+    1993—Subsec. (b)(2). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(12)(A), inserted “and” at end.
 
-    Subsec. (b)(3). [Pub. L. 103–178, § 202(a)(12)(B)][/us/pl/103/178/s202/a/12/B], substituted “, and the amount of any such payment;” for “and to any payment of a return of contributions under [section 2054(a) of this title][/us/usc/t50/s2054/a]; and”.
+    Subsec. (b)(3). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(12)(B), substituted “, and the amount of any such payment;” for “and to any payment of a return of contributions under [section 2054(a) of this title][/us/usc/t50/s2054/a]; and”.
 
-    Subsec. (b)(4). [Pub. L. 103–178, § 202(a)(12)(C)][/us/pl/103/178/s202/a/12/C], struck out par. (4) which read as follows: “any right of the former spouse of a participant or former participant to a lump-sum payment or additional annuity payable from a voluntary contribution account under [section 2121 of this title][/us/usc/t50/s2121];”.
+    Subsec. (b)(4). [Pub. L. 103–178][/us/pl/103/178], § 202(a)(12)(C), struck out par. (4) which read as follows: “any right of the former spouse of a participant or former participant to a lump-sum payment or additional annuity payable from a voluntary contribution account under [section 2121 of this title][/us/usc/t50/s2121];”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -72,22 +72,22 @@
 
 [/us/usc/t50/s2032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2032%2Fa
 [/us/usc/t50/s2071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2071%2Fb
-[/us/pl/88/643/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs264
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/88/643/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2FtII
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3237
-[/us/pl/103/178/s202/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F12
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2027
 [/us/pl/88/643/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643%2Fs264
-[/us/pl/94/522/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2Fs212
+[/us/pl/94/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F522%2FtII
 [/us/stat/90/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2471
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
 [/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
 [/us/usc/t50/s2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2095
-[/us/pl/103/178/s202/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F12%2FA
-[/us/pl/103/178/s202/a/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F12%2FB
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2054%2Fa
-[/us/pl/103/178/s202/a/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fa%2F12%2FC
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2121
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/pl/103/178/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs202%2Fb

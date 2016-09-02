@@ -23,7 +23,7 @@
 
         In this section, the term “intelligence community” has the meaning given that term in [section 3003(4) of this title][/us/usc/t50/s3003/4].
 
-([Pub. L. 102–183, title IV, § 403][/us/pl/102/183/s403], Dec. 4, 1991, [105 Stat. 1267][/us/stat/105/1267]; [Pub. L. 111–259, title VIII, § 810][/us/pl/111/259/s810], Oct. 7, 2010, [124 Stat. 2750][/us/stat/124/2750].)
+([Pub. L. 102–183, title IV][/us/pl/102/183/tIV], § 403, Dec. 4, 1991, [105 Stat. 1267][/us/stat/105/1267]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 810, Oct. 7, 2010, [124 Stat. 2750][/us/stat/124/2750].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in the following prior authorization act: [Pub. L. 102–88, title IV, § 404][/us/pl/102/88/s404], Aug. 14, 1991, [105 Stat. 434][/us/stat/105/434].
+    Provisions similar to those in this section were contained in the following prior authorization act: [Pub. L. 102–88, title IV][/us/pl/102/88/tIV], § 404, Aug. 14, 1991, [105 Stat. 434][/us/stat/105/434].
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Enhanced Procurement Authority To Manage Supply Chain Risk__ 
 
-[Pub. L. 112–87, title III, § 309][/us/pl/112/87/s309], Jan. 3, 2012, [125 Stat. 1883][/us/stat/125/1883], provided that:
+[Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 309, Jan. 3, 2012, [125 Stat. 1883][/us/stat/125/1883], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -135,15 +135,15 @@
 ----------
 
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/102/183/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs403
+[/us/pl/102/183/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtIV
 [/us/stat/105/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1267
-[/us/pl/111/259/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs810
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2750
 [/us/usc/t50/s403–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%932
-[/us/pl/102/88/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs404
+[/us/pl/102/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtIV
 [/us/stat/105/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F434
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/112/87/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs309
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1883
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/usc/t41/s3306/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3306%2Fa%2F3%2FB

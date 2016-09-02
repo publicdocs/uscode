@@ -27,11 +27,11 @@
 
         (2) can be accomplished while protecting public health and safety.
 
-([Pub. L. 103–337, div. A, title I, § 143][/us/pl/103/337/s143], Oct. 5, 1994, [108 Stat. 2689][/us/stat/108/2689].)
+([Pub. L. 103–337, div. A, title I][/us/pl/103/337/dA/tI], § 143, Oct. 5, 1994, [108 Stat. 2689][/us/stat/108/2689].)
 
  __Codification__ 
 
-    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
+    Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 409, Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs143
+[/us/pl/103/337/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtI
 [/us/stat/108/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2689
-[/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
 
 

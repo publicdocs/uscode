@@ -139,7 +139,7 @@
 
         For purposes of this section, the term “foreign person” means any person other than a United States person.
 
-([Pub. L. 96–72, § 11A][/us/pl/96/72/s11A], as added [Pub. L. 100–418, title II, § 2444][/us/pl/100/418/s2444], Aug. 23, 1988, [102 Stat. 1366][/us/stat/102/1366].)
+([Pub. L. 96–72][/us/pl/96/72], § 11A, as added [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2444, Aug. 23, 1988, [102 Stat. 1366][/us/stat/102/1366].)
 
  __Termination Date__ 
 
@@ -157,8 +157,8 @@
 ----------
 
 [/us/usc/t50/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4616
-[/us/pl/96/72/s11A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs11A
-[/us/pl/100/418/s2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2444
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1366
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 

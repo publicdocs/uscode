@@ -17,7 +17,7 @@
 
     Any awards granted under [section 47b of this title][/us/usc/t50/s47b] shall be certified by the Attorney General and, together with the approval of the President in those cases where such approval is required, transmitted to the Director of Central Intelligence for payment out of funds appropriated or available for the administration of the National Security Act of 1947, as amended.
 
-([July 15, 1955, ch. 372, § 6][/us/act/1955-07-15/ch372/s6], [69 Stat. 366][/us/stat/69/366]; [Pub. L. 93–377, § 1(c)][/us/pl/93/377/s1/c], Aug. 17, 1974, [88 Stat. 473][/us/stat/88/473].)
+([July 15, 1955, ch. 372][/us/act/1955-07-15/ch372], § 6, [69 Stat. 366][/us/stat/69/366]; [Pub. L. 93–377][/us/pl/93/377], § 1(c), Aug. 17, 1974, [88 Stat. 473][/us/stat/88/473].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t50/s47b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs47b
-[/us/act/1955-07-15/ch372/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch372%2Fs6
+[/us/act/1955-07-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch372
 [/us/stat/69/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F366
-[/us/pl/93/377/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377%2Fs1%2Fc
+[/us/pl/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F377
 [/us/stat/88/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F473
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

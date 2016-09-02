@@ -31,7 +31,7 @@
 
         The unallocated interest fund shall be available for carrying out the provisions of this section, including the expenses of making the allocation.
 
-([Oct. 6, 1917, ch. 106, § 26][/us/act/1917-10-06/ch106/s26], as added [Mar. 10, 1928, ch. 167, § 15][/us/act/1928-03-10/ch167/s15], [45 Stat. 273][/us/stat/45/273]; amended [June 11, 1929, ch. 14][/us/act/1929-06-11/ch14], [46 Stat. 6][/us/stat/46/6].)
+([Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], § 26, as added [Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 15, [45 Stat. 273][/us/stat/45/273]; amended [June 11, 1929, ch. 14][/us/act/1929-06-11/ch14], [46 Stat. 6][/us/stat/46/6].)
 
  __References in Text__ 
 
@@ -61,8 +61,8 @@
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
 [/us/usc/t50/s4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4309
 [/us/usc/t50/s4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4322
-[/us/act/1917-10-06/ch106/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs26
-[/us/act/1928-03-10/ch167/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs15
+[/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F273
 [/us/act/1929-06-11/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-11%2Fch14
 [/us/stat/46/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F6

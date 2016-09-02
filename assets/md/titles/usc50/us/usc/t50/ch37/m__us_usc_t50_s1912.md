@@ -23,7 +23,7 @@
 
         Amounts made available under subsection (a) of this section shall remain available until expended.
 
-([Pub. L. 102–183, title VIII, § 812][/us/pl/102/183/s812], as added [Pub. L. 108–487, title VI, § 603(b)][/us/pl/108/487/s603/b], Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 812, as added [Pub. L. 108–487, title VI][/us/pl/108/487/tVI], § 603(b), Dec. 23, 2004, [118 Stat. 3954][/us/stat/118/3954].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t50/s1902/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1902%2Fa%2F1%2FE
-[/us/pl/102/183/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs812
-[/us/pl/108/487/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs603%2Fb
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
+[/us/pl/108/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVI
 [/us/stat/118/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3954
 
 

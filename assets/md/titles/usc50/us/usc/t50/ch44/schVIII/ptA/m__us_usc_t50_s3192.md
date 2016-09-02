@@ -17,7 +17,7 @@
 
     The Director of National Intelligence shall establish an integrated framework that brings together the educational components of the intelligence community in order to promote a more effective and productive intelligence community through cross-disciplinary education and joint training.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1002, as added [Pub. L. 108–458, title I, § 1042][/us/pl/108/458/s1042], Dec. 17, 2004, [118 Stat. 3679][/us/stat/118/3679].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1002, as added [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1042, Dec. 17, 2004, [118 Stat. 3679][/us/stat/118/3679].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/pl/108/458/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1042
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3679
 [/us/usc/t50/s441g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441g%E2%80%931
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

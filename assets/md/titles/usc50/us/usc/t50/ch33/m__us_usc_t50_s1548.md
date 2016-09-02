@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
 
-([Pub. L. 93–148, § 9][/us/pl/93/148/s9], Nov. 7, 1973, [87 Stat. 559][/us/stat/87/559].)
+([Pub. L. 93–148][/us/pl/93/148], § 9, Nov. 7, 1973, [87 Stat. 559][/us/stat/87/559].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/148/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148%2Fs9
+[/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F559
 
 

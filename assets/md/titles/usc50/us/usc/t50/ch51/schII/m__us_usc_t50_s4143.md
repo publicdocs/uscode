@@ -47,11 +47,11 @@
 
         Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account of awards in the same amount under the Philippine Rehabilitation Act of 1946. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 213, as added [Pub. L. 87–846, title I, § 103][/us/pl/87/846/s103], Oct. 22, 1962, [76 Stat. 1111][/us/stat/76/1111]; amended [Pub. L. 91–571, § 1(a)][/us/pl/91/571/s1/a], Dec. 24, 1970, [84 Stat. 1503][/us/stat/84/1503]; [Pub. L. 104–316, title I, § 128(b)][/us/pl/104/316/s128/b], Oct. 19, 1996, [110 Stat. 3841][/us/stat/110/3841].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title II, § 213, as added [Pub. L. 87–846, title I][/us/pl/87/846/tI], § 103, Oct. 22, 1962, [76 Stat. 1111][/us/stat/76/1111]; amended [Pub. L. 91–571][/us/pl/91/571], § 1(a), Dec. 24, 1970, [84 Stat. 1503][/us/stat/84/1503]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 128(b), Oct. 19, 1996, [110 Stat. 3841][/us/stat/110/3841].)
 
  __References in Text__ 
 
-    The Small Business Act, as amended, referred to in subsec. (a)(1), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, as amended, referred to in subsec. (a)(1), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
     The Philippine Rehabilitation Act of 1946, as amended, referred to in subsec. (f), is [act Apr. 30, 1946, ch. 243][/us/act/1946-04-30/ch243], [60 Stat. 128][/us/stat/60/128], which was classified to sections 1751 to 1806 of the former Appendix to this title, prior to omission from the Code as terminated.
 
@@ -63,9 +63,9 @@
 
     1996—Subsec. (d). [Pub. L. 104–316][/us/pl/104/316] substituted “Secretary of the Treasury” for “Comptroller General”.
 
-    1970—Subsec. (a)(1). [Pub. L. 91–571, § 1(a)(1)][/us/pl/91/571/s1/a/1], included payment to any claimant determined by Commission to have been, on date of loss, damage, or destruction, a nonprofit organization operated exclusively for promotion of social welfare, religious, charitable, or educational purposes.
+    1970—Subsec. (a)(1). [Pub. L. 91–571][/us/pl/91/571], § 1(a)(1), included payment to any claimant determined by Commission to have been, on date of loss, damage, or destruction, a nonprofit organization operated exclusively for promotion of social welfare, religious, charitable, or educational purposes.
 
-    Subsec. (a)(3), (4). [Pub. L. 91–571, § 1(a)(2)][/us/pl/91/571/s1/a/2], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 91–571][/us/pl/91/571], § 1(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
  __Protest Relating to Awards by Commission; Notice by Publication in Federal Register__ 
 
@@ -73,7 +73,7 @@
 
  __Recertification of Certain Awards__ 
 
-[Pub. L. 91–571, § 1(b)][/us/pl/91/571/s1/b], Dec. 24, 1970, [84 Stat. 1503][/us/stat/84/1503], provided that: 
+[Pub. L. 91–571][/us/pl/91/571], § 1(b), Dec. 24, 1970, [84 Stat. 1503][/us/stat/84/1503], provided that: 
 
 > “The Foreign Claims Settlement Commission is authorized to recertify to the Secretary of the Treasury each award which has been certified before the date of enactment of this Act \[Dec. 24, 1970\] pursuant to title II of the War Claims Act of 1948, as added by the Act of October 22, 1962 ([76 Stat. 1107][/us/stat/76/1107]) \[[50 U.S.C. 4131][/us/usc/t50/s4131] et seq.\], but which as of the date of enactment of this Act has not been paid in full, in such manner as it may determine to be required to give effect to the amendments made by this Act \[amending this section\] to the same extent and with the same effect as if such amendments had taken effect on October 22, 1962.”
 
@@ -96,25 +96,25 @@
 [/us/usc/t50/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4132
 [/us/usc/t50/s4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4139
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
-[/us/pl/87/846/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs103
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1111
-[/us/pl/91/571/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571%2Fs1%2Fa
+[/us/pl/91/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571
 [/us/stat/84/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1503
-[/us/pl/104/316/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs128%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3841
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/act/1946-04-30/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch243
 [/us/stat/60/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F128
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/91/571/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571%2Fs1%2Fa%2F1
-[/us/pl/91/571/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571%2Fs1%2Fa%2F2
+[/us/pl/91/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571
+[/us/pl/91/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/94/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F542
 [/us/stat/90/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2512
 [/us/usc/t22/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1623
-[/us/pl/91/571/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571%2Fs1%2Fb
+[/us/pl/91/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F571
 [/us/stat/84/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1503
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
 [/us/usc/t50/s4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4131

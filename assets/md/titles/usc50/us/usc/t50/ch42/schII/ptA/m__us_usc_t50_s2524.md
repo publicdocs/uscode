@@ -47,7 +47,7 @@
 
         In accordance with the requirements under [section 2529 of this title][/us/usc/t50/s2529], for each budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
 
-([Pub. L. 107–314, div. D, title XLII, § 4204][/us/pl/107/314/s4204], formerly [Pub. L. 106–65, div. C, title XXXI, § 3133][/us/pl/106/65/s3133], Oct. 5, 1999, [113 Stat. 926][/us/stat/113/926]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4204][/us/pl/107/314/s4204], and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136], §§ 3111, 3141(e)(5), Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], 1758; [Pub. L. 111–84, div. C, title XXXI, § 3113(a)(2)][/us/pl/111/84/s3113/a/2], Oct. 28, 2009, [123 Stat. 2704][/us/stat/123/2704]; [Pub. L. 112–239, div. C, title XXXI, § 3133(d)][/us/pl/112/239/s3133/d], Jan. 2, 2013, [126 Stat. 2192][/us/stat/126/2192]; [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(2)][/us/pl/113/66/s3146/c/2], Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
+([Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4204, formerly [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3133, Oct. 5, 1999, [113 Stat. 926][/us/stat/113/926]; renumbered [Pub. L. 107–314, div. D, title XLII][/us/pl/107/314/dD/tXLII], § 4204, and amended [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], §§ 3111, 3141(e)(5), Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], 1758; [Pub. L. 111–84, div. C, title XXXI][/us/pl/111/84/dC/tXXXI], § 3113(a)(2), Oct. 28, 2009, [123 Stat. 2704][/us/stat/123/2704]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3133(d), Jan. 2, 2013, [126 Stat. 2192][/us/stat/126/2192]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3146(c)(2), Dec. 26, 2013, [127 Stat. 1073][/us/stat/127/1073].)
 
  __Codification__ 
 
@@ -57,21 +57,21 @@
 
     2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] struck out “for Nuclear Security” after “Administrator” in introductory provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 112–239, § 3133(d)(1)][/us/pl/112/239/s3133/d/1], substituted “nuclear security enterprise” for “nuclear complex”.
+    Subsec. (b)(2)(B). [Pub. L. 112–239][/us/pl/112/239], § 3133(d)(1), substituted “nuclear security enterprise” for “nuclear complex”.
 
-    Subsecs. (c) to (e). [Pub. L. 112–239, § 3133(d)(2)][/us/pl/112/239/s3133/d/2], (3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d), which related, respectively, to program plan and annual updates.
+    Subsecs. (c) to (e). [Pub. L. 112–239][/us/pl/112/239], § 3133(d)(2), (3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d), which related, respectively, to program plan and annual updates.
 
     2009—[Pub. L. 111–84][/us/pl/111/84] amended section generally. Prior to amendment, section related to the nuclear weapons stockpile life extension program.
 
-    2003—Subsec. (c). [Pub. L. 108–136, § 3111][/us/pl/108/136/s3111], struck out subsec. (c), which related to a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile.
+    2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 3111, struck out subsec. (c), which related to a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile.
 
-    Subsec. (c)(1). [Pub. L. 108–136, § 3141(e)(5)(D)][/us/pl/108/136/s3141/e/5/D], substituted “October 5, 1999” for “the date of the enactment of this Act”.
+    Subsec. (c)(1). [Pub. L. 108–136][/us/pl/108/136], § 3141(e)(5)(D), substituted “October 5, 1999” for “the date of the enactment of this Act”.
 
-    Subsecs. (d) to (f). [Pub. L. 108–136, § 3111][/us/pl/108/136/s3111], struck out subsecs. (d) to (f). Prior to amendment, subsec. (d) required submittal to committees of the House and Senate of a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile and annual updates of the plan, subsec. (e) required a GAO assessment of the plan and updates, and subsec. (f) stated the sense of Congress regarding funding of the program under subsec. (a).
+    Subsecs. (d) to (f). [Pub. L. 108–136][/us/pl/108/136], § 3111, struck out subsecs. (d) to (f). Prior to amendment, subsec. (d) required submittal to committees of the House and Senate of a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile and annual updates of the plan, subsec. (e) required a GAO assessment of the plan and updates, and subsec. (f) stated the sense of Congress regarding funding of the program under subsec. (a).
 
  __Effective Date of 2003 Amendment__ 
 
-    [Pub. L. 108–136, div. C, title XXXI, § 3111][/us/pl/108/136/s3111], Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], provided that the amendment made by section 3111 is effective December 31, 2004.
+    [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3111, Nov. 24, 2003, [117 Stat. 1743][/us/stat/117/1743], provided that the amendment made by section 3111 is effective December 31, 2004.
 
 ----------
 
@@ -82,28 +82,28 @@
 
 [/us/usc/t50/s2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2529
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/107/314/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4204
-[/us/pl/106/65/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3133
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F926
-[/us/pl/107/314/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4204
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/314/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdD%2FtXLII
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1743
-[/us/pl/111/84/s3113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3113%2Fa%2F2
+[/us/pl/111/84/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXI
 [/us/stat/123/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2704
-[/us/pl/112/239/s3133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fd
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2192
-[/us/pl/113/66/s3146/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F2
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1073
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s3133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fd%2F1
-[/us/pl/112/239/s3133/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3133%2Fd%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/108/136/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3111
-[/us/pl/108/136/s3141/e/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F5%2FD
-[/us/pl/108/136/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3111
-[/us/pl/108/136/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3111
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1743
 
 

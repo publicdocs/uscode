@@ -33,7 +33,7 @@
 
         (4) Any member of the Commission, and any employee of the Commission authorized by the Commission to do so, may administer to, or take from, any person an oath, affirmation, or affidavit when such action is necessary or appropriate in the performance of the functions or activities of the Commission.
 
-([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 2, [62 Stat. 1240][/us/stat/62/1240]; [May 27, 1949, ch. 145, § 1(1)][/us/act/1949-05-27/ch145/s1/1], [63 Stat. 112][/us/stat/63/112]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Aug. 16, 1950, ch. 718][/us/act/1950-08-16/ch718], [64 Stat. 449][/us/stat/64/449]; [Apr. 5, 1951, ch. 27][/us/act/1951-04-05/ch27], [65 Stat. 28][/us/stat/65/28]; 1954 Reorg. Plan No. 1 §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, [68 Stat. 1279][/us/stat/68/1279]; [Aug. 21, 1954, ch. 784, § 3][/us/act/1954-08-21/ch784/s3], [68 Stat. 762][/us/stat/68/762]; [Pub. L. 87–846, title I][/us/pl/87/846], §§ 102, 104(a), Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107], 1113; [Pub. L. 96–209, title I, § 108][/us/pl/96/209/s108], Mar. 14, 1980, [94 Stat. 97][/us/stat/94/97].)
+([July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 2, [62 Stat. 1240][/us/stat/62/1240]; [May 27, 1949, ch. 145][/us/act/1949-05-27/ch145], § 1(1), [63 Stat. 112][/us/stat/63/112]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Aug. 16, 1950, ch. 718][/us/act/1950-08-16/ch718], [64 Stat. 449][/us/stat/64/449]; [Apr. 5, 1951, ch. 27][/us/act/1951-04-05/ch27], [65 Stat. 28][/us/stat/65/28]; 1954 Reorg. Plan No. 1 §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, [68 Stat. 1279][/us/stat/68/1279]; [Aug. 21, 1954, ch. 784][/us/act/1954-08-21/ch784], § 3, [68 Stat. 762][/us/stat/68/762]; [Pub. L. 87–846, title I][/us/pl/87/846/tI], §§ 102, 104(a), Oct. 22, 1962, [76 Stat. 1107][/us/stat/76/1107], 1113; [Pub. L. 96–209, title I][/us/pl/96/209/tI], § 108, Mar. 14, 1980, [94 Stat. 97][/us/stat/94/97].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
     Section was formerly classified to section 2001 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
@@ -49,9 +49,9 @@
 
     1980—Subsec. (d). [Pub. L. 96–209][/us/pl/96/209] struck out subsec. (d) which provided for terms of office of Chairman and members of Foreign Claims Settlement Commission of United States. See [section 1622c(c) of Title 22][/us/usc/t22/s1622c/c], Foreign Relations and Intercourse.
 
-    1962—Subsecs. (b), (c)(1). [Pub. L. 87–846, § 102][/us/pl/87/846/s102], made technical amendment to reference in original act which appears in text as reference to this subchapter.
+    1962—Subsecs. (b), (c)(1). [Pub. L. 87–846][/us/pl/87/846], § 102, made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
-    Subsec. (d). [Pub. L. 87–846, § 104(a)][/us/pl/87/846/s104/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 87–846][/us/pl/87/846], § 104(a), added subsec. (d).
 
     1954—Subsec. (a). Act Aug. 21, 1954, struck out subsec. (a) which related to establishment and composition of the former War Claims Commission, and which had been affected by Reorg. Plan No. 1 of 1954 (see Transfer of Functions note below), redesignated subsec. (b) as (a) and substituted “The Foreign Claims Settlement Commission of the United States (hereinafter referred to as the ‘Commission’)” for “The Commission”, meaning the former War Claims Commission.
 
@@ -77,13 +77,13 @@
 
  __Short Title of 1954 Amendment__ 
 
-[Act Aug. 31, 1954, ch. 1162][/us/act/1954-08-31/ch1162], title I, § 1, [68 Stat. 1033][/us/stat/68/1033], provided: 
+[Act Aug. 31, 1954, ch. 1162, title I][/us/act/1954-08-31/ch1162/tI], § 1, [68 Stat. 1033][/us/stat/68/1033], provided: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘War Claims Act Amendments of 1954’.”
 
  __Short Title__ 
 
-[Act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], title I, § 1, [62 Stat. 1240][/us/stat/62/1240], provided that: 
+[Act July 3, 1948, ch. 826, title I][/us/act/1948-07-03/ch826/tI], § 1, [62 Stat. 1240][/us/stat/62/1240], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘War Claims Act of 1948’.”
 
@@ -106,7 +106,7 @@
 
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
-[/us/act/1949-05-27/ch145/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-27%2Fch145%2Fs1%2F1
+[/us/act/1949-05-27/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-27%2Fch145
 [/us/stat/63/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F112
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
@@ -115,28 +115,28 @@
 [/us/act/1951-04-05/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-05%2Fch27
 [/us/stat/65/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F28
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
-[/us/act/1954-08-21/ch784/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-21%2Fch784%2Fs3
+[/us/act/1954-08-21/ch784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-21%2Fch784
 [/us/stat/68/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F762
-[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
+[/us/pl/87/846/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2FtI
 [/us/stat/76/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1107
-[/us/pl/96/209/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2Fs108
+[/us/pl/96/209/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2FtI
 [/us/stat/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F97
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/96/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209
 [/us/usc/t22/s1622c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622c%2Fc
-[/us/pl/87/846/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs102
-[/us/pl/87/846/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846%2Fs104%2Fa
+[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
+[/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846
 [/us/pl/96/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209
 [/us/pl/96/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209
 [/us/usc/t22/s1622a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622a
 [/us/act/1951-04-05/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-05%2Fch27
 [/us/stat/65/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F28
-[/us/act/1954-08-31/ch1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1162
+[/us/act/1954-08-31/ch1162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1162%2FtI
 [/us/stat/68/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1033
-[/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
+[/us/act/1948-07-03/ch826/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826%2FtI
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

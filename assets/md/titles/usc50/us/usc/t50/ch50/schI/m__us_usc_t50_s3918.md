@@ -51,7 +51,7 @@
 
         (2) the period with respect to such a person specified in subsection (a) or (b), as the case may be, of [section 3917 of this title][/us/usc/t50/s3917] shall be considered to be a period of military service.
 
-([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 107, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2839][/us/stat/117/2839]; amended [Pub. L. 108–454, title VII, § 702][/us/pl/108/454/s702], Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624].)
+([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title I, § 107, as added [Pub. L. 108–189][/us/pl/108/189], § 1, Dec. 19, 2003, [117 Stat. 2839][/us/stat/117/2839]; amended [Pub. L. 108–454, title VII][/us/pl/108/454/tVII], § 702, Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624].)
 
  __Codification__ 
 
@@ -59,13 +59,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 107 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, as added [Oct. 6, 1942, ch. 581, § 4][/us/act/1942-10-06/ch581/s4], [56 Stat. 770][/us/stat/56/770], related to effect on rights and remedies pursuant to written agreements entered after commencement of military service, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
+    A prior section 107 of [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], art. I, as added [Oct. 6, 1942, ch. 581][/us/act/1942-10-06/ch581], § 4, [56 Stat. 770][/us/stat/56/770], related to effect on rights and remedies pursuant to written agreements entered after commencement of military service, prior to the general amendment of this Act by [Pub. L. 108–189][/us/pl/108/189].
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–454, § 702(1)][/us/pl/108/454/s702/1], inserted after first sentence: “Any such waiver that applies to an action listed in subsection (b) of this section is effective only if it is in writing and is executed as an instrument separate from the obligation or liability to which it applies.”
+    2004—Subsec. (a). [Pub. L. 108–454][/us/pl/108/454], § 702(1), inserted after first sentence: “Any such waiver that applies to an action listed in subsection (b) of this section is effective only if it is in writing and is executed as an instrument separate from the obligation or liability to which it applies.”
 
-    Subsecs. (c), (d). [Pub. L. 108–454, § 702(2)][/us/pl/108/454/s702/2], (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 108–454][/us/pl/108/454], § 702(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 ----------
 
@@ -77,15 +77,15 @@
 [/us/usc/t50/s3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3917
 [/us/usc/t50/s3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3917
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/pl/108/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2839
-[/us/pl/108/454/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs702
+[/us/pl/108/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVII
 [/us/stat/118/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3624
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
-[/us/act/1942-10-06/ch581/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs4
+[/us/act/1942-10-06/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581
 [/us/stat/56/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F770
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
-[/us/pl/108/454/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs702%2F1
-[/us/pl/108/454/s702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs702%2F2
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 
 

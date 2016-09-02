@@ -17,7 +17,7 @@
 
     The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 600 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42][/us/usc/t42/s2201/d] to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such a position to replace the vacancy of a position not established under this section.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3241][/us/pl/106/65/s3241], Oct. 5, 1999, [113 Stat. 964][/us/stat/113/964]; [Pub. L. 112–239, div. C, title XXXI, § 3111(b)(1)][/us/pl/112/239/s3111/b/1], (2), Jan. 2, 2013, [126 Stat. 2169][/us/stat/126/2169]; [Pub. L. 113–66, div. C, title XXXI, § 3145(d)][/us/pl/113/66/s3145/d], Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
+([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3241, Oct. 5, 1999, [113 Stat. 964][/us/stat/113/964]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3111(b)(1), (2), Jan. 2, 2013, [126 Stat. 2169][/us/stat/126/2169]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66/dC/tXXXI], § 3145(d), Dec. 26, 2013, [127 Stat. 1071][/us/stat/127/1071].)
 
  __References in Text__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t42/s2201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fd
-[/us/pl/106/65/s3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3241
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F964
-[/us/pl/112/239/s3111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3111%2Fb%2F1
+[/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI
 [/us/stat/126/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2169
-[/us/pl/113/66/s3145/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3145%2Fd
+[/us/pl/113/66/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXI
 [/us/stat/127/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1071
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F953

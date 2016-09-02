@@ -51,7 +51,7 @@
 
         (5) To permit the Federal Government to advocate the cause of international education.
 
-([Pub. L. 102–183, title VIII, § 801][/us/pl/102/183/s801], Dec. 4, 1991, [105 Stat. 1271][/us/stat/105/1271]; [Pub. L. 102–496, title IV, § 404(a)][/us/pl/102/496/s404/a], Oct. 24, 1992, [106 Stat. 3185][/us/stat/106/3185]; [Pub. L. 105–272, title III, § 305(a)(1)][/us/pl/105/272/s305/a/1], Oct. 20, 1998, [112 Stat. 2400][/us/stat/112/2400].)
+([Pub. L. 102–183, title VIII][/us/pl/102/183/tVIII], § 801, Dec. 4, 1991, [105 Stat. 1271][/us/stat/105/1271]; [Pub. L. 102–496, title IV][/us/pl/102/496/tIV], § 404(a), Oct. 24, 1992, [106 Stat. 3185][/us/stat/106/3185]; [Pub. L. 105–272, title III][/us/pl/105/272/tIII], § 305(a)(1), Oct. 20, 1998, [112 Stat. 2400][/us/stat/112/2400].)
 
  __Amendments__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/102/183/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs801
+[/us/pl/102/183/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtVIII
 [/us/stat/105/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1271
-[/us/pl/102/496/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs404%2Fa
+[/us/pl/102/496/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIV
 [/us/stat/106/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3185
-[/us/pl/105/272/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs305%2Fa%2F1
+[/us/pl/105/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtIII
 [/us/stat/112/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2400
 [/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
