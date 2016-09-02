@@ -555,41 +555,37 @@ SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FALLEN HEROES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1881" data-uslm-ref="/us/usc/t2/s1881">1881.</a>  </td>
 
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2FsDefinitions" data-uslm-ref="/us/usc/t2/sDefinitions">Definitions.</a>  </td>
-
-    <td> 1881a.  </td>
+    <td> Definitions.  </td>
 
   </tr>
 
   <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1881a" data-uslm-ref="/us/usc/t2/s1881a">1881a.</a>  </td>
 
     <td> Providing Capitol-flown flags for families of fallen heroes.  </td>
 
-    <td> 1881b.  </td>
-
   </tr>
 
   <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1881b" data-uslm-ref="/us/usc/t2/s1881b">1881b.</a>  </td>
 
     <td> Regulations and procedures.  </td>
 
-    <td> 1881c.  </td>
-
   </tr>
 
   <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1881c" data-uslm-ref="/us/usc/t2/s1881c">1881c.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
-    <td> 1881d.  </td>
-
   </tr>
 
   <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1881d" data-uslm-ref="/us/usc/t2/s1881d">1881d.</a>  </td>
 
     <td> Effective date.  </td>
 

@@ -31,6 +31,12 @@
 
     Prior provisions similar to sections 179l to 179w of this title were contained in former section 179 et seq. of this title.
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–217][/us/pl/114/217], § 1, July 29, 2016, [130 Stat. 840][/us/stat/130/840], provided that: 
+
+> “This Act \[amending sections 179v and 1743 of this title and sections 151711, 152403, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations\] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2016’.”
+
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–336][/us/pl/110/336], § 1, Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726], provided that: 
@@ -70,6 +76,8 @@
 [/us/stat/106/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F267
 [/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3382
+[/us/pl/114/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F217
+[/us/stat/130/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F840
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3726
 [/us/usc/t36/s152411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152411

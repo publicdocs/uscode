@@ -15,11 +15,13 @@
 
 ## § 179v. Authorization of appropriations
 
-    There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2016 such sums as may be necessary to carry out the purposes of sections 179l to 179w of this title, but in no fiscal year shall such sum exceed $250,000.
+    There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2026 such sums as may be necessary to carry out the purposes of sections 179l to 179w of this title, but in no fiscal year shall such sum exceed $250,000.
 
-([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 112, Oct. 11, 1996, [110 Stat. 3382][/us/stat/110/3382]; [Pub. L. 110–336][/us/pl/110/336], § 3(a)(1)(A), Oct. 2, 2008, [122 Stat. 3727][/us/stat/122/3727].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 112, Oct. 11, 1996, [110 Stat. 3382][/us/stat/110/3382]; [Pub. L. 110–336][/us/pl/110/336], § 3(a)(1)(A), Oct. 2, 2008, [122 Stat. 3727][/us/stat/122/3727]; [Pub. L. 114–217][/us/pl/114/217], § 3(a), July 29, 2016, [130 Stat. 840][/us/stat/130/840].)
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–217][/us/pl/114/217] substituted “through fiscal year 2026” for “through fiscal year 2016”.
 
     2008—[Pub. L. 110–336][/us/pl/110/336] inserted “for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2016” after “the Librarian”.
 
@@ -40,6 +42,9 @@
 [/us/stat/110/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3382
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3727
+[/us/pl/114/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F217
+[/us/stat/130/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F840
+[/us/pl/114/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F217
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3727

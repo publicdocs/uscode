@@ -19,7 +19,7 @@
 
     (1) the term “Capitol-flown flag” means a flag of the United States flown over the Capitol in honor of the deceased individual for whom the flag is requested;
 
-    (2) the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in [section 3796b of this title][/us/usc/t2/s3796b];
+    (2) the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in [section 3796b of title 42][/us/usc/t42/s3796b];
 
     (3)
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs3796b
+[/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
 [/us/pl/114/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F156
 [/us/stat/130/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F391
 
